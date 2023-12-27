@@ -1,0 +1,994 @@
+//s0106
+
+//xenon_14
+
+//やけに騒がしいな‥‥‥‥。
+It's really noisy...
+//一体何だ、この耳障りな音は‥‥‥‥。
+What on earth is making that ear-ringing sound...
+//何が起こったんだ‥‥いったい‥‥‥‥。
+What is going on right now...
+//自分にあてがわれた部屋だと認識するまで、数秒を要した。今さらながら、思考能力の低下に辟易する。
+It took me several seconds to recognize the room assigned to me. These days, my cognitive capabilities have been rapidly deteriorating.
+//［コウジ］：そうか‥‥少し、眠ったのか。
+[Kouji]: Oh...I must have slept for a bit.
+//相変わらず、寒々しい部屋だった。ベッドから身を起こすと、意識が次第にはっきりとしてくる。
+As usual, my room was cold. I got up from the bed, and my consciousness gradually became clear.
+//［コウジ］：（トレイシーが、置いたのかな‥‥？）
+[Kouji]: (Was Tracy here...?)
+//そんなことを考えながら、近くに置いてあった着替えに袖を通す。靴も、ベッド下にきちんと揃えて置いてあった。
+As I thought about that, I put on the nearby change of clothes. I picked up my shoes from under the bed and put those on, too.
+//足先を入れると、意外にふわっとした感触が包んできた。硬そうに見えて、中は意外に柔らかい。
+As my toes slid into place, I suddenly felt extremely comfortable. Even though they looked hard, the inside was unusually soft.
+//［コウジ］：しかし、やけに外が騒がしいようだ‥‥。
+[Kouji]: Still, it's really noisy outside...
+//私は、身支度を整えると、この騒音の正体を確かめようと思案した。
+As I finished getting dressed, I considered investigating the source of that noise.
+//　◆ 部屋を出てみれば、はっきりするだろう。
+◆ Let's leave the room to investigate.
+//　◆ 確か、室内に内線があったはずだが‥‥。
+◆ There's definitely a phone extension in this room...
+//部屋を出てみれば、はっきりするだろう。
+Let's leave the room to investigate.
+//そう考えると、私は外へと出ていった。
+As I thought that, I went outside.
+//外は、室内より騒がしかった。警報と思える騒音が、廊下中をこだましている。
+Outside, it was even noisier than inside. The siren-like noise echoed throughout the corridor.
+//ムワっとする暖気も相まって、不快感はより増大した。
+Coupled with the suffocating warm air, my sense of unease grew.
+//［コウジ］：（一体何が起きてるんだ‥‥。）
+[Kouji]: (Just what is going on here...)
+//そんな考えが頭をよぎったとき、慌ただしく駆け過ぎようとする足音が聞こえてきた。
+As that thought crossed my mind, I heard a set of footsteps quickly crossing by.
+//［コウジ］：ファル！
+[Kouji]: Far!
+//私が彼女を呼び止めると、あっという表情をして立ち止まる。彼女はそのまま私のところへと駆け寄って来た。
+As I called out to her to stop, she halted in surprise. Just like that, she ran up to me.
+//［コウジ］：どうしたんだい、この騒ぎは‥‥。
+[Kouji]: What on earth is that noise?...
+//［ファル］：あら、そうね。
+[Far]: Ah, that.
+//プチッ。
+*switch*
+//［コウジ］：ふぅ‥‥で、いったい、何があったんだい？
+[Kouji]: Hoo... Well, what was that? 
+//［ファル］：脱出ポッドを回収したのよ。
+[Far]: That meant an escape pod was collected back.
+//［コウジ］：脱出‥‥なんだって？
+[Kouji]: Escape...what?
+//［ファル］：脱出ポッド。第２次調査隊の、もう１人の生き残りを救助した、という訳ね。
+[Far]: Escape pod. It means we recovered one more survivor of the second investigative team.
+//［コウジ］：（もう１人の‥‥？）
+[Kouji]: (Another one...?)
+//［ファル］：まだ意識不明なんだけど‥‥どう、会ってみる？
+[Far]: Their consciousness is yet unknown, but do you wanna meet them?
+//［コウジ］：ああ‥‥。
+[Kouji]: Ah...
+//とりあえず、提案されることは何でも呑むつもりでいた。この状況は、なかなか打開しそうにない。
+For now, any suggestions would have to wait. This situation seemed unlikely to progress.
+//ファルは私の手を、ぐいぐいと引っ張りながら、あれこれと状況を説明している。
+Far massaged my hands and explained all sorts of situations to me.
+//私はそれに気のない返事をしながら、さきほど彼女が言った意味を吟味していた。
+I gave casual replies, and examined what she said earlier.
+//［コウジ］：（もう１人の、生き残り‥‥？）
+[Kouji]: (Another person survived...?)
+//ファルは、さも当然という趣で言ったようだった。とすると、今から会うその人は、私に何か関係するのかもしれない‥‥。
+Far spoke as if it were a matter of course. It seemed the person I would meet this time had some kind of connection to me...
+//そんなことを考えながら、私はある一室へと案内された‥‥。
+As I pondered this, I was guided to a room...
+//確か、室内に内線があったはずだが‥‥。
+There's definitely a phone extension in this room...
+//枕元の壁を見てみる。あった。
+I looked at the wall by my pillow. There it was.
+//私が受話器とおぼしきモノをとると、とたんにモニターに女性が映し出された。
+I picked up what I thought was the receiver, and a woman was projected onto the monitor.
+//［ランファ］：きゃっ。
+[Lanhua]: Kya-.
+//［コウジ］：あっ、確かランファ‥‥だっけ？
+[Kouji]: Ah, you're Lanhua...right?
+//［ランファ］：びっくりしました。いきなり、フックをオフにするから‥‥。
+[Lanhua]: You scared me there. You were suddenly naked...
+//どうやら、向こうでもこちらに連絡を取ろうとしていたらしい。私が絶妙のタイミングで、受話器を取り上げてしまったのだろう。
+Somehow, I managed to connect what happened then with now. I'd picked up the receiver with miraculous timing.
+//［コウジ］：いったい、何が起きてるんだい？　外がやけに騒がしいけど。
+[Kouji]: What on earth happened? It was really noisy outside.
+//［ランファ］：脱出ポッドが、回収されたんです。
+[Lanhua]: We recovered an escape pod.
+//［ランファ］：脱出ポッドです。第２次調査隊の、生き残りの方を救助しました。
+[Lanhua]: The escape pod contained someone from the second investigative team whom we managed to rescue.
+//［コウジ］：（第２次調査隊‥‥？）
+[Kouji]: (The second investigative team...?)
+//［ランファ］：まだ意識は不明ですが、お会いになりますか？
+[Lanhua]: It's unclear if they're conscious, but would you like to meet them?
+//［ランファ］：では、マップをそちらに送ります。それに従って下さい。
+[Lanhua]: Then, I'll send you to that spot on the map. Please follow the route.
+//［コウジ］：わかった。
+[Kouji]: I understand.
+//目の前に船内マップが表示される。何だ、そんなにここから離れてはいない。
+The ship's interior map displayed in front of me. It doesn't seem far from here at all.
+//［コウジ］：記憶した。これから行って、構わないのかい？
+[Kouji]: I've memorized it. From here, I go straight, right?
+//［ランファ］：はい。ファルがもう既に向かっていると思います。
+[Lanhua]: Yes. I think Far is already heading there.
+//第２次調査隊の生き残り、か。何か、気になる‥‥。
+A survivor from the second investigative team. I'm interested...
+//私は、マップを頭の中に思い浮かべながら、部屋を出ていった‥‥。
+I pulled the map from my memory and headed out of the room...
+//ムワっとする暖気も相まって、不快感はより増大する。私は早足で、廊下を進んでいった。
+Coupled with the suffocating warm air, my sense of unease grew. I headed down the hallway at a quick pace.
+//［コウジ］：（確か、あの角をまがってすぐの所にあったはずだ‥‥。）
+[Kouji]: (Once I turn that corner, I should be pretty close to the place...)
+//角を曲がると、指示された部屋のドアはすんなりと見つかった。私はドアの前に立つと、
+As I turned the corner, I immediately saw the indicated door. As I stood in front of the door,
+//コンコン‥‥‥‥。<$04><$32><$05>
+*Knock knock*
+//異様に分厚いドアだから、これでは聞こえないんじゃないか‥‥？
+Maybe they didn't hear me because this door is so thick...?
+//私がドアの前に立っていると、後ろの方からコツコツと急ぎ足が聞こえてきた。
+As I stood before the door, I heard busy *click*, *click* footsteps coming from behind me.
+//［ファル］：あら、こんなところで何をしているの？
+[Far]: Ah, what are you doing here?
+//［ファル］：当惑の色を発色しているわね、どうしたの？
+[Far]: Your color has turned embarrassed. What happened?
+//［コウジ］：この騒がしい音はなにさ。
+[Kouji]: What is this noise?
+//［コウジ］：ふぅ‥‥。
+[Kouji]: Phew...
+//［ファル］：で、あなた、何をしているの？
+[Far]: Well, then, you. What are you doing?
+//［コウジ］：な、何って‥‥救出されたという人を見に来たのさ。ランファが、行っていいって。
+[Kouji]: What do you mean...I came here to see the rescued person. Lanhua said it was fine to come here.
+//［ファル］：私が言っているのは、そんなところに突っ立って、何をしてるのってこと。
+[Far]: What I meant was, why are you suddenly standing here.
+//［コウジ］：ノックはしたんだけど‥‥。
+[Kouji]: I was knocking on the door...
+//［ファル］：フフ、面白いわね、コウジって。
+[Far]: Hehe, how interesting you are, Kouji.
+//ファルは、ドアの傍らについてあるコンパネを押しながら、クスっと笑みをこぼした。どうやらノックをする必要はなかったらしい。
+Far pushed on the control panel by the door, and giggled a little. It seemed knocking was unnecessary.
+//［トレイシー］：はい、どちらさま‥‥。
+[Tracy]: Yes, who is it...
+//モニターには、あのトレイシーという金髪の女性が映し出される。いちいち対応が面白い。
+On the monitor, that blonde-haired woman Tracy showed up. Each interaction is interesting.
+//［ファル］：トレイシー、開けて頂戴。
+[Far]: Tracy, please open the door.
+//［トレイシー］：わかりました。
+[Tracy]: I got it.
+//私は、ファルの後に続いて、室内へと入って行った‥‥。
+I followed behind Far as we entered the room...
+//0010_2
+
+//［トレイシー］：プロフェッサ、とりあえず命に別状はありませんでした。
+[Tracy]: Professor, there haven't been any changes in the meantime.
+//［ファル］：そう、それは良かったわ‥‥怪我なんかは？
+[Far]: I see, that's good...are there any injuries?
+//［トレイシー］：外傷は全くありません。でも‥‥。
+[Tracy]: There aren't any external injuries, but...
+//［ファル］：でも？
+[Far]: But?
+//［トレイシー］：衰弱が著しいです。栄養剤は投与しましたが‥‥。
+[Tracy]: They're showing significant weakness. I've already administered nutritional supplements, but...
+//［ファル］：例の症状はでてる？
+[Far]: Are they showing any symptoms?
+//［トレイシー］：いえ、ごく普通の睡眠です。
+[Tracy]: No, they're sleeping fine.
+//［ファル］：そう‥‥これで、２人目という訳ね。
+[Far]: I see...this is the second person.
+//ファルはしばらく、ベッドに寝ている女性を凝視している。トレイシーと何か言葉を交わしているが、私の関心はすでに救出された者へと移っていた‥‥。
+For a while, Far stared at the sleeping woman. After exchanging a few words with Tracy, I moved my attention to the rescued person... 
+//bi01
+
+//xenon_05
+
+//２０歳前後とおぼしい顔立ちの女性が、静かに寝ていた。
+A woman about 20 years old was quietly sleeping before us.
+//意外に大きな胸が、きつそうにシャツを押し上げていて、呼吸のたびに大きく上下している。
+She had an unusually large bust, pushing against a rather tight shirt, that moved quite a lot as she breathed.
+//少しクセのありそうなロングヘアが、頭のまわりに放射状に流れていた。
+Her peculiar, seemingly long hair extended radially around her head.
+//首から下げているプレートには、『ＢＩＡＮＣＡ』と記されている。恐らく、彼女の名前なのだろう。
+The plate beneath her head read "BIANCA". This was probably her name.
+//［コウジ］：（ビアンカか‥‥。）
+[Kouji]: (Bianca...)
+//［コウジ］：（この女性が、生き残り‥‥‥‥？）
+[Kouji]: (This woman survived...?)
+//覚えがなかった‥‥。
+I didn't remember her...
+//ファルは、彼女を見れば何かを思い出すのではないかと言っていたが‥‥。
+Far didn't seem to be thinking of anything as she looked at the survivor, but...
+//タイミング良く、ファルが私に声を掛けてくる。
+With good timing, Far called out to me.
+//［ファル］：どう？　思い出せそう？
+[Far]: Well? Do you remember?
+//［コウジ］：いや‥‥全く駄目だ。
+[Kouji]: No...it's entirely useless.
+//［ファル］：そう‥‥落胆の色が、あなたから出ているわ。
+[Far]: I see...your color has turned disappointed.
+//［コウジ］：‥‥なぁ、ファル。
+[Kouji]: ...Hey, Far.
+//［ファル］：なにかしら。
+[Far]: What could it be?
+//［コウジ］：そろそろ教えてくれないか？　君たちは一体誰なのか、そしてこの私は‥‥。
+[Kouji]: Could you please tell me soon? Who you are, and who I am...
+//［ファル］：そうね‥‥。
+[Far]: Well...
+//［ファル］：わかったわ‥‥もしかしたら、記憶を取り戻す手助けになるかもしれない‥‥。
+[Far]: I understand...I could very well be helping to get your memory back...
+//［ファル］：まず、私たちが何故ここにいるかを話した方が、いいかもね。
+[Far]: But first, you need to know why we are here. That's fine, right?
+//［ファル］：ここは、辺境のナーズ星域。数年前、この惑星の１つから、先史文明の遺跡が発見された‥‥。
+[Far]: This is the {Nuz} star cluster. A few years ago, on one of these planets, we discovered the ruins of a prehistoric civilization...
+//［コウジ］：‥‥先史文明？
+[Kouji]: A prehistoric civilization?
+//［ファル］：風化寸前の、化石のような遺跡らしいけど、知的生命体の傍証になるかもしれないと、考古学者たちは驚喜しているわね。
+[Far]: The fossil-like ruins were about to weather away, but there were signs of intelligent life, which surprised the archaeologists.
+//［コウジ］：どんな遺跡なんだい？
+[Kouji]: What kind of ruins were they?
+//［ファル］：それを調べるのが、調査隊の任務よ。
+[Far]: That's for the investigative teams to find out.
+//［コウジ］：そ、そうか‥‥続けてくれ。
+[Kouji]: Oh, that's how it is...Please continue.
+//［ファル］：いいわ。当然のごとく調査隊が組織され、派遣されることとなった。
+[Far]: Very well. As a matter of course, the investigative team was assembled and dispatched to the area.
+//［ファル］：だけど‥‥。
+[Far]: However...
+//［コウジ］：全滅した‥‥？
+[Kouji]: They all disappeared...?
+//［ファル］：そう‥‥そして、第１次調査隊の救助を兼任するはずだった、第２次調査隊までもが‥‥。
+[Far]: Yes...On top of that, the second investigative team served to rescue the first investigative team, but...
+//［コウジ］：２重遭難というヤツか。
+[Kouji]: That just added insult to injury.
+//［ファル］：調査隊のクルーたちは、例外無く原因不明の昏睡状態に陥っていたわ。
+[Far]: The investigative teams' crew, without exception, were all rendered comatose from unknown causes.
+//［コウジ］：昏睡？
+[Kouji]: Comatose?
+//［ファル］：そう、原因が全く不明なのよ。例外無く、彼らは倒れていく。
+[Far]: That's right, the cause was totally unknown. Without exception, they all fell to it.
+//［ファル］：１人も五体満足なクルーがいなくなるのだから、どうしようもないわね。
+[Far]: No one in the five-man crew was left, so we couldn't do anything about it.
+//［コウジ］：確かに‥‥。
+[Kouji]: Really...
+//［ファル］：調査はできない、通信はできない、おまけに帰ることすらできないという訳。
+[Far]: They couldn't investigate, communicate, or even evacuate. //Yes, I know a truer translation is "go home" or "return", but this just *sounds* better out loud.
+//［コウジ］：じゃあ、君たちは‥‥また同じ轍を踏むんじゃないのか？
+[Kouji]: Well, aren't you folks...heading into the same rut?
+//［ファル］：違うわ。私たちは、遺跡発掘のプロじゃないの。第３次調査隊と名は付いているけど‥‥。
+[Far]: No. We're not pros at excavating ruins. Even though we're called the third investigative team...
+//［ファル］：あくまで、パラサイコロジー（超心理学）の見地から、調査を行うのが、私たちの任務。
+[Far]: Our duty is to conduct investigation using only using insights from parapsychology.
+//［コウジ］：パラ‥‥サイコロジー？
+[Kouji]: Para...psychology?
+//［ファル］：そう、エイレートに接近したとき、先の第１次、第２次調査隊は全滅してしまった‥‥。
+[Far]: That's right. Since they came close to {Eirate}, the first and second investigative teams were wiped out...
+//［ファル］：同じ轍を踏まないよう、私たちは惑星圏外から、エンコーダを使用して調べていたの。
+[Far]: We won't be going into the same rut, since we'll be outside the planetary sphere, and using the encoder to investigate.
+//［コウジ］：あの、棺桶みたいな装置か‥‥。
+[Kouji]: Um, the coffin-like devices are...
+//［ファル］：そう、あれがエンコーダ。
+[Far]: Yes, those are encoders.
+//［コウジ］：‥‥彼らは、いまどこに？
+[Kouji]: ...Where are they now?
+//［ファル］：彼らって？
+[Far]: What do you mean by "they"?
+//［コウジ］：調査隊の人たちさ。
+[Kouji]: The investigative teams.
+//［ファル］：あぁ‥‥とりあえず、本国へご帰還願ったわ。一命は取り留めたようだけど、あのままじゃ任務遂行は不可能だしね。
+[Far]: Ah...for now, we want to return them to their home countries. Even though we saved one life, we can't complete our mission that way.
+//［コウジ］：そうか‥‥。
+[Kouji]: I see...
+//［ファル］：船は遠隔で操作すればいいわ。とりあえず、エイレートに近づかなければ、危険はなさそうだから。
+[Far]: Working remotely on the ship is favorable. Getting close to {Eirate} now is dangerous, after all.
+//［コウジ］：‥‥私は、いったいどこで？
+[Kouji]: ...Where do I fit into all this?
+//［ファル］：あなたは唯一、第２次調査隊シップの中で、意識が残っていた貴重な証人なのよ。
+[Far]: You're the only person from the second investigative team whose consciousness has returned, and therefore an invaluable witness.
+//［コウジ］：私が‥‥唯一？
+[Kouji]: I'm...the only one?
+//［ファル］：あっ、今となっては、唯一じゃないけどね。
+[Far]: Ah, I guess now, you're not the only one.
+//私たちは再び、傍らの女性に目を落とした。
+Our eyes fell once more on the woman next to us.
+//私を、唯一という存在から救ってくれたのが、この女性か‥‥。
+The one who saved me from being the only one, was this woman...
+//ビアンカ、だったかな‥‥‥‥。
+Bianca, was it...
+//［ファル］：でも、脱出ポッドを利用したというところが、気になるわ‥‥。
+[Far]: However, I'm also interested in where the escape pod was used...
+//［コウジ］：どういうこと？
+[Kouji]: What do you mean?
+//［ファル］：なぜ、彼女だけ脱出できたのかしらね。
+[Far]: Why was she the only one who escaped?
+//［コウジ］：‥‥それは、身の危険を感じたから、じゃないのか？
+[Kouji]: ...Isn't that because she felt there was danger to her person?
+//［ファル］：他のクルーたちは、感じなかったの？
+[Far]: Didn't the rest of the crew also feel it?
+//［ファル］：ま、彼女が目覚めるまで待ちましょう。幸い、例の昏睡ではないようだから‥‥。
+[Far]: Well, we'll wait for her to wake up. If we're lucky, she won't stay in a coma...
+//［ファル］：ブリッジにいるランファからだわ‥‥。
+[Far]: A call from Lanhua, on the bridge...
+//［ランファ］：プロフェッサ、大変です‥‥。
+[Lanhua]: Professor, there's trouble...
+//［ファル］：どうしたの、ランファ‥‥‥‥。
+[Far]: What is it, Lanhua...
+//［コウジ］：（私は、第２次調査隊の生き残り、か‥‥。）
+[Kouji]: (I was a survivor from the second investigative team...)
+//［コウジ］：（唯一では無くなったらしいがな‥‥。）
+[Kouji]: (Not the only one anymore, I suppose...)
+//［コウジ］：（手がかりは、第２次調査隊だけか‥‥‥‥。）
+[Kouji]: (This is a clue to just the second investigative team...)
+//［ファル］：コウジ、どうしたのよ、コウジ！
+[Far]: Kouji, what are you doing? Kouji!
+//fa_ba_b
+
+//［コウジ］：あっ‥‥な、なにか？
+[Kouji]: Ah...What?
+//［ファル］：もう、聞いていなかったの？
+[Far]: Agh, weren't you listening?
+//［コウジ］：な、何を？
+[Kouji]: What is it?
+//［ファル］：ふぅ‥‥大丈夫かしら‥‥。
+[Far]: Hmm...is it OK...
+//［コウジ］：だから、何があったんだい？
+[Kouji]: Well then, what happened?
+//［ファル］：第２次調査隊シップの中から、救難信号が発されているらしいわ。
+[Far]: From the second investigative team's ship, we just received a distress signal.
+//［コウジ］：それって‥‥つまり？
+[Kouji]: And so..what does that mean?
+//［ファル］：つまり、３人目の可能性ありということ。
+[Far]: That means there could be a third person.
+//［ファル］：フフ、行ってみたいんでしょ？
+[Far]: Hehe, shall we go?
+//［コウジ］：ああ、私がいたシップ‥‥らしいしね。
+[Kouji]: Ah, the ship I was on...probably.
+//［ファル］：じゃ、行きましょう。ランファが格納庫で準備しているはずだわ。
+[Far]: Then, let's go. Lanhua is probably in the hangar making preparations.
+//［コウジ］：い、今から？
+[Kouji]: Right now?
+//［ファル］：当たり前でしょう？　もし本当に生存者がいるのなら、一刻を争う時だわ。
+[Far]: Of course! If there really is a living person, we need to be able to save them at once.
+//［ファル］：どうするの？　行くの、行かないの？
+[Far]: Well? Are you going or not?
+//［コウジ］：行く。
+[Kouji]: I'll go.
+//［ファル］：フフ、そうこなくちゃ‥‥じゃあトレイシー、後のことは頼んだわ。ビアンカのことも‥‥。
+[Far]: Hehe, if that's how it is...then Tracy, I'll leave the rest to you. Bianca as well...
+//［トレイシー］：わかりました、プロフェッサ。
+[Tracy]: Understood, Professor.
+//［コウジ］：（第２次調査隊の、スペースシップか‥‥‥‥。）
+[Kouji]: (The second investigative team's space ship...)
+//［コウジ］：（私は第２次調査隊の、唯一の‥‥いや、唯二の生存者の１人という訳だ‥‥。）
+[Kouji]: (I was the only..., no, one of only two survivors from the second investigative team...)
+//［コウジ］：（そしてもしかしたら、３人目が見つかるかもしれない‥‥。）
+[Kouji]: (And now, maybe I'll meet with a third person from the team...)
+//意外に考えていた時間は、短くなかったようだ。
+I didn't have the time I needed to think about these things.
+//私は、ファルに連れられて、格納庫とおぼしい場所へと案内されていた。
+Following Far, I was guided to what was probably the hangar.
+//0060
+
+//ハンガーデッキの上には、小型のシャトルがスタンバイしていた。
+On the hangar deck, a small-scale shuttle was on standby.
+//エンジンらしき音が、格納庫内に響きわたっている。恐らくこれを利用して、第２次調査隊のシップへと乗り込むのだろう。
+An engine-like sound filled the hangar. This would probably be used to approach the second investigative team's ship.
+//私たちが格納庫に入ると、シャトルの陰から女性が駆け寄ってきた。ランファという女性だ。
+We entered the hangar, and a woman appeared from the shadow of the shuttle. It was Lanhua.
+//［ランファ］：プロフェッサ、準備はＯＫです。
+[Lanhua]: Professor, all preparations are complete.
+//ランファはチラリと私のことを一瞥しただけで、てきぱきとファルに報告をしている。
+Lanhua gave a fleeting glance at me, and promptly reported to Far.
+//あれ以来、言葉を交わしていない。何か、私に対して含むモノがあるようだったが‥‥‥‥。
+From then, we exchanged no words. I seemed to be included, but...
+//［ファル］：ちょっと、聞いてる？
+[Far]: Hey, are you listening?
+//［ファル］：これの使い方は、わかるわよね？
+[Far]: You *do* know how to use this, right?
+//ファルは私に、ヘルメットのようなものを手渡しながら、説明をしている。
+Far handed me a helmet-like thing and explained it to me.
+//一時的な酸素不足などに、対処するだけのものらしい。宇宙空間に放り出されたら、無論どうしようもない。
+This device was only to be used in times of insufficient oxygen. As it would be released into outer space, I had to be careful with it.
+//ま、言ってみれば気休めみたいなものだった。
+Well, put that way, it was only there to ease our minds.
+//［ファル］：じゃ、私が操縦するから、２人は後部座席に座って頂戴。
+[Far]: Well then, I'll be maneuvering, so you two should sit in the back seat.
+//［コウジ］：あぁ‥‥。
+[Kouji]: Ah...
+//［ランファ］：わかりました。
+[Lanhua]: Understood.
+//ランファはうなずくと、てきぱきとヘルメットのようなものを身につけ、シャトルの後部座席へと搭乗していった。
+Lanhua nodded, quickly attached the helmet-like device to her body, and got into the back seat.
+//私はそれを見てから、
+As I looked at that,
+//［コウジ］：なぁ、ファル‥‥。
+[Kouji]: Hey, Far....
+//［ファル］：なに？
+[Far]: What is it?
+//［コウジ］：あの、ランファって子、いったいどういう人なんだい？
+[Kouji]: Um, what kind of person is Lanhua?
+//［ファル］：どういうって‥‥私の有能な助手の１人ね。
+[Far]: How do I put it...she's a capable assistant to me.
+//［ファル］：彼女が、どうかした？
+[Far]: What about her?
+//［コウジ］：いや、何でもないんだ‥‥。
+[Kouji]: No, don't worry about it...
+//［ファル］：変な人ね。
+[Far]: She's kind of strange.
+//ファルは私のことを怪訝そうに見ていたが、すぐに自分の仕事にとりかかった。
+Far gave me a mysterious look, but soon returned to the task at hand.
+//コクピットに乗り込み、シャトル発信に備えている。
+As she got into the cockpit, she prepared the shuttle for liftoff.
+//それにしても‥‥。
+On top of all that...
+//ファルの言うとおり、相当自分でも変だと思う。私が彼女に対する感情は、複雑だった。
+As Far said, I think she's quite strange. My feelings for her are quite complicated.
+//彼女が以前、あんなことを私にもらしたから、だろうか‥‥‥‥。
+Before, she did do all those things for me...
+//目を覚ませ‥‥？<$04><$33><$05>
+Awaken...?
+//私は、黙ってシャトルの搭乗タラップに足を掛けた‥‥。
+I silently got on the shuttle's boarding ramp...
+//xenon_07
+
+//［コウジ］：（いったい‥‥‥‥。）
+[Kouji]: (What on earth...)
+//［コウジ］：（いったい、誰がいるのだろうか‥‥‥‥。）
+[Kouji]: (What on earth, is someone there...)
+//私はシャトル発進の衝撃の中でも、そのことにしか頭にはなかった‥‥。<$05>
+During the shuttle's liftoff, I only thought about that...
+//xenon_19
+
+//独特の加重が、身体後方に掛かってきた。身体をシートの背もたれに押しつけられ、やや息苦しくなってくる。
+A unique kind of weight hung on my back. As I leaned on my seat's backrest, I felt slightly suffocated.
+//まわりを見回すと、きらびやかな宝石の中を飛んでいるようだった。星々の海、という形容がまことに相応しい‥‥。
+As I looked around me, I felt like we were flying through a glittering gemstone. That kind of description really fit the sea of stars...
+//ファルは、慌ただしく計器を確認しながら、本船のトレイシーと連絡を密に取り合っていた。外を見る余裕は、なさそうである。
+Far frantically checked her bearings as she stayed in close communication with Tracy on the main ship. She couldn't even afford to look outside.
+//［コウジ］：（少しは、外でも見ればいいのにな‥‥。）
+[Kouji]: (It'd be nice if she could look outside, if only for a little bit...)
+//ふと横を見ると、ランファが私の隣座席に黙って座っていた。たまに私と目が合うが、すぐに目線を切ってしまう。
+As I suddenly looked sideways, I noticed Lanhua sitting quietly in the next seat. When our eyes met, she quickly looked away.
+//あの時、彼女が言った言葉の意味を考えさせる‥‥。
+Right then, I considered the meaning of her words...
+//思い出せとは、一体どういうことなのか‥‥？
+What does it mean to remember something?
+//言葉通りに捉えれば、記憶を取り戻せということだろう。
+If you take it literally, it means to return something from your memory.
+//私が第２次調査隊のシップに居たときの記憶、だろうか‥‥‥‥。
+Were these my memories of being on the second investigative team's ship?......
+//なぜ、彼女がそんな事を知りたがるのだろうか‥‥。
+Why would she know something like that?...
+//調査のため、かもしれない‥‥。
+I may have been there to investigate...
+//それを問い正したかったが、目的のスペースシップが眼前に迫っていた。
+I wanted to ask her that question, but the space ship we were destined for was approaching.
+//豆粒のような大きさだったのが、段々と眼前に迫ってくる迫力は凄いものがある。
+It started out as big as a bean, but as it got closer and closer, it looked more and more impressive.
+//［ファル］：多少揺れるわよ、舌を噛まないようにね。
+[Far]: We're going to be shaking from the turbulence, so don't bite your tongue!
+//ファルの声とほぼ同時に、振動が伝わってきた。どうやら、首尾良く着陸できたらしい。
+Almost at the same time as Far's voice reached us, the ship trembled. It seems we landed successfully.
+//［ファル］：へぇ、意外に余裕あるわね。
+[Far]: Heh, we have more room than I expected.
+//私の表情を見て、ファルがいささか茶化したように言う。
+As she saw my expression, Far teasingly said that.
+//狭い場所に足を折り曲げて座る苦痛から、解放されるというだけで、自然と笑みが浮かんでしまうのだ。
+Being bent in such a narrow space, my legs were painfully cramped, so even though I was only stretching them out, a smile naturally washed over my face.
+//でもそれを余裕と受け取られるのは不本意だった。緊張はしている。が、訂正する必要も感じなかった。
+However, I was reluctant to take advantage of that freedom. I was still nervous, and I didn't need to correct that feeling.
+//私は黙って、狭いコクピットから抜け出していった‥‥。
+I was silent for a bit as I got out of that narrow cockpit...
+//［ファル］：どうやら、着いたようね‥‥。
+[Far]: What's the matter? We've arrived...
+//［ファル］：どうしたの？　コウジ。
+[Far]: Kouji, how are you feeling?
+//［コウジ］：いやその‥‥君らのシップと、似てやしないかい？
+[Kouji]: It's just...this ship looks a lot like yours, doesn't it?
+//［ファル］：それはそうよ、同型のシップですもの。さてと‥‥。
+[Far]: You're right, it's the same model of ship as ours. Now, let's see...
+//［ファル］：ランファはエンジンの方から当たって頂戴。私はブリッジから。
+[Far]: Lanhua, please head to the engine. I'll head to the bridge.
+//［ファル］：じゃあコウジは‥‥。
+[Far]: Then, Kouji, ...
+//［コウジ］：どうすればいい？
+[Kouji]: What should I do?
+//［ファル］：そうね、とりあえず、生存者を捜してみて頂戴。
+[Far]: Right, for the time being, could you look for survivors?
+//［コウジ］：わかった‥‥このシップは、君たちのと同タイプなんだよな？
+[Kouji]: Got it...This ship is the same type as yours, right?
+//［ファル］：そうよ、まあ道に迷うということはないでしょう。それほど広くもないから。
+[Far]: Yes, so we shouldn't get lost here. It's not that big, after all.
+//［ファル］：生存者の存在の有無に関わらず、１時間後にここでまた落ち合いましょう。
+[Far]: Whether you find any survivors, let's all meet back here in an hour.
+//［コウジ］：わかった‥‥。
+[Kouji]: Got it...
+//［ファル］：それじゃ‥‥。
+[Far]: Well, I'll be off, then...
+//［コウジ］：さてと、どうしたものか‥‥。
+[Kouji]: Now, what should I do first...
+//　◆ ブリッジへ行ってみよう‥‥。
+◆ Let's go to the bridge...
+//　◆ エンジンルームには、ランファがいるはずだな‥‥。
+◆ Lanhua should be in the engine room...
+//　◆ まず、このあたりを調べてみよう。
+◆ Let's search here around here first.
+//ブリッジへ行ってみよう‥‥。
+Let's go to the bridge...
+//確か、ブリッジにはファルがいるはずだ。少し、彼女と話してみたい気がする。
+Far should definitely be at the bridge. I want to talk to her about something.
+//船内マップはすでに記憶してあった。私は厚い格納庫のドアをあけると、ブリッジへの通路を進み始めた。
+I quickly remembered the ship's interior map. I opened the heavy hangar door and headed down the passage to the bridge.
+//あたりはシンと静まり返っている。私の靴の音だけが、あたりに響きわたっていた‥‥。
+It was calm and quiet around me. Only the sound of my own footsteps rang through my surroundings..
+//［コウジ］：（なるほど、確かに同型艦だ。）
+[Kouji]: (Huh, it really is the same model of ship.)
+//ところどころのレイアウトは異なっていたが、概ね、ファル達のシップと構造は同じだった。
+There were a few places where the layout differed, but overall, it had the same plan as Far's and Lanhua's ship.
+//［コウジ］：（とすると、この突き当たりがブリッジという訳か。）
+[Kouji]: (That means that this part that juts out is the bridge.)
+//［コウジ］：（ファル、いるだろうか‥‥。）
+[Kouji]: (Far's probably there...)
+//私は壁のパネルを操作し、ブリッジへと入っていった‥‥。
+I operated the wall panel, and entered the bridge...
+//エンジンルームには、ランファがいるはずだな‥‥。
+Lanhua should be in the engine room...
+//もしかしたら、彼女と話し合えるかもしれない‥‥。
+If that's the case, I might discuss something with her...
+//記憶した船内マップを頼りに、私は厚い格納庫のドアをあけると、エンジンルームへの通路を進み始めた。
+As I remembered the ship's interior map, I opened the heavy hangar door and headed down the passage to the engine room.
+//［コウジ］：（すると、エンジンルームは‥‥‥‥。）
+[Kouji]: (Then, the engine room is...)
+//私が角を曲がったところに、一際大きなドアがあった。向こう側からは、例の騒音が聞こえてくる。
+As I turned the corner, a massive door came into view. I heard the usual noise from the other side.
+//［コウジ］：（稼働しているのか‥‥？）
+[Kouji]: (Is it moving...?)
+//誰も乗っていないシップのエンジンが、何故稼働しているんだろうか‥‥。
+Even with no one on the ship, it was still somehow moving...
+//その回答は、ランファがしてくれるかもしれなかった。
+Maybe Lanhua can explain that to me.
+//私は壁のパネルを操作し、エンジンルームへと入っていった‥‥。
+I operated the wall panel, and entered the engine room...
+//0070
+
+//［ファル］：あら、どうしたの、コウジ。何か、思い出したの？
+[Far]: Ara, what's going on, Kouji. Did you remember something?
+//［コウジ］：いや、残念ながら全く‥‥。
+[Kouji]: No. I'm afraid nothing's come back...
+//［ファル］：そう‥‥‥‥。
+[Far]: I see......
+//［コウジ］：救難信号は、やはりここから？
+[Kouji]: Did the distress signal really come from here?
+//［ファル］：えぇ、どうやらそうみたいね。誰かが、ここから発信した‥‥。
+[Far]: Yes, it does seem that way. Someone sent it from here...
+//［コウジ］：誰が？
+[Kouji]: Who did?
+//［ファル］：それを調べるために、はるばる来たんじゃない。
+[Far]: Well, I came all the way over here to investigate who sent it, didn't I?
+//［コウジ］：それもそうだな‥‥。
+[Kouji]: So that's what happened...
+//［ファル］：私は、もう少しここを調べてみるわ。
+[Far]: I'll be investigating for a while longer here.
+//［コウジ］：じゃあ、私も他をあたってみる。
+[Kouji]: Well, then, I'll be working on other matters.
+//［ファル］：ええ‥‥。
+[Far]: Yes...
+//［コウジ］：さてと、どこをあたってみるか‥‥。
+[Kouji]: Now, where will I go next...
+//　◆ 格納庫に戻ってみよう‥‥。
+◆ Let's head back to the hangar...
+//　◆ そうだ、クルーの個室も調べてみたら‥‥。
+◆ Oh yeah, let's investigate the crew's private quarters...
+//格納庫に戻ってみよう‥‥。
+Let's head back to the hangar...
+//まだ、あそこでやり残したことがあるような気がする‥‥慎重に事を運ぶに、こしたことはないだろう。
+I got the feeling that there would be evidence left behind there...If they had carried out things carefully, there wouldn't be any.
+//私は、ブリッジを後にした‥‥。
+I faced away from the bridge...
+//ムワッとした暖気が、私を襲ってきた。
+Stuffy, warm air wrapped around me.
+//エンジンの振動と騒音が、私の身体をふるわせる。どうやら、エンジンの型も、ファル達のシップと同型らしい。
+The noise from the engine operation shook my entire body. It seemed that the engine here was of the same model as the one on Far's ship.
+//［コウジ］：（確か、ランファがいるはずだけど‥‥。）
+[Kouji]: (Lanhua's probably here, but...)
+//エンジンルーム自体は広々としているが、人が歩き回れる空間はかなり限定されている。
+The engine room itself was quite spacious, but there was a limited amount of space to walk around.
+//一目で、人気の有無を確認できる、そんなスペースしかなかった。
+When I glanced over the room for any human presence, I found nothing.
+//［コウジ］：（どうやら、ここにはいないようだが‥‥‥‥。）
+[Kouji]: (It seems she's not here...)
+//　◆ 他の場所を捜してみよう。
+◆ Let's look elsewhere.
+//　◆ いや、もう少し調べてみた方がいいだろう。
+◆ No, let's investigate here for a while longer.
+//他の場所を捜してみよう。
+Let's look elsewhere.
+//私が、エンジンルームを出ていこうとしたとき、後ろの方から、
+As I was leaving the engine room, I heard a voice from behind me:
+//［ランファ］：コウジさん。
+[Lanhua]: Kouji-san.
+//［コウジ］：ら、ランファ‥‥‥いったい、どこに‥‥‥。
+[Kouji]: L-Lanhua...where on earth were you...?
+//［ランファ］：下にいたんです。そこのハシゴから‥‥。
+[Lanhua]: I was down there. I came from that ladder...
+//ランファが指さす先には、なるほど、はしごかあってエンジンの下方へと伸びていた。
+Lanhua pointed in front of her, and indeed, there was a ladder leading down from the engine.
+//しかし、エンジン下部でいったい何をやっていたんだろうか‥‥。
+But then, what was she doing in the lower part of the engine...?
+//［コウジ］：（何か理由があるんだろう‥‥。）
+[Kouji]: (What reason could she have for that...?)
+//そんな風に納得をすると、私はその疑問を記憶の片隅へと追いやってしまった。次に思い浮かんだ疑問を呈示する。
+As I accepted what she told me, I suppressed some uncertainty from the corners of my mind. Next time, I'll bring that matter to light.
+//［コウジ］：誰か、人はいたかい？
+[Kouji]: Was anyone hurt there?
+//［ランファ］：いいえ、残念ながら‥‥。
+[Lanhua]: No, I'm afraid not...
+//［コウジ］：こっちも、さっぱりさ。
+[Kouji]: I didn't find anyone, either.
+//［コウジ］：な、なぁランファ、この間の‥‥。
+[Kouji]: Hey, Lanhua, in all this time...
+//［ランファ］：では、もう少し私は調べてみます。コウジさんは、どうされるのですか？
+[Lanhua]: Well, I'll be investigating here for a bit longer. Kouji-san, is something the matter?
+//［コウジ］：えっ？　あぁそうだね、もう一度、まわってみるかな‥‥。
+[Kouji]: Eh? Ahh, I guess I'll look around this place one more time...
+//［ランファ］：そうですか、それでは。
+[Lanhua]: Well, then, I'll get to it.
+//［コウジ］：あっ‥‥‥‥。
+[Kouji]: Ah......
+//［コウジ］：（せっかちな子だな‥‥。）
+[Kouji]: (What an impatient girl...)
+//［コウジ］：（もしかすると、はぐらかされたのかも‥‥。）
+[Kouji]: (Maybe she's strayed from the path...)
+//ランファはさっさと私をおいて行ってしまった‥‥どうも、私を避けているような、そんな気もする。
+Lanhua quickly left me alone...she seems to be avoiding me.
+//［コウジ］：さてと、これからどうしようか‥‥。
+[Kouji]: Now, then, what do I do from here...
+//いや、もう少し調べてみた方がいいだろう。
+No, let's investigate here for a while longer.
+//手すりに掌を乗せながら、ゆっくりと歩いてみる。ヒンヤリとした感触が、心地よかった。
+I grabbed onto the handrail and slowly walked down. The cold touch soothed my mood.
+//［コウジ］：（しかし、それにしても‥‥‥‥。）
+[Kouji]: (Still, in any case...)
+//大きなエンジンだった。重い振動が、ここまでピリピリと伝わってくる。
+There was a large engine. I could hear the forceful vibrations all the way from here.
+//ずっと下にも続いているようだが‥‥<$0C>下？
+I've wanted to continue all the way down there, but...
+//［コウジ］：これは‥‥。
+[Kouji]: This...
+//よく見ると、手すりには何かフックが引っかけられている。それはずっと下方にまで伸びていた。
+As I looked more closely, the handrail seemed to be caught on some kind of hook. It seemed to continue all the way down.
+//［コウジ］：ハシゴ、か‥‥‥‥。
+[Kouji]: The ladder, huh...
+//どうやら、エンジンの下部にまで続いているようだが‥‥‥‥。
+It seems that it continues into the lower part of the engine...
+//　◆ ハシゴを降りてみよう‥‥。
+◆ Let's go down the ladder...
+//　◆ エンジンルームを、もう出た方がいいだろう。
+◆ Maybe leaving the engine room is better.
+//ハシゴを降りてみよう‥‥。
+Let's go down the ladder...
+//気にならないと言えば、嘘になる。私はヒンヤリとした感触を掌に感じながら、ハシゴに足を掛けていった‥‥。
+I can't say I'm not curious. I felt cold in the palm of my hand as I hooked my foot on the ladder...
+//長いハシゴだった‥‥。
+It was a long ladder...
+//私は下を見ることのないよう、ゆっくりと、そしてしっかりと、一段一段を降りていった。
+Without looking down, I slowly and carefully descended, rung by rung.
+//ちらっと横を見ると、まだエンジン胴体の中程のようだ。一瞬後悔の念が頭をよぎるが、私は黙々と手足を動かし続けた。
+As I glanced sideways, I noticed I was still in the middle part of the cylindrical engine. A flash of regret crossed my mind, but I silently continued moving.
+//［コウジ］：‥‥‥‥。
+[Kouji]: ......
+//［コウジ］：‥‥‥‥‥‥‥‥。
+[Kouji]: .........
+//［コウジ］：ふぅ‥‥‥‥。
+[Kouji]: Huu....
+//下に着くと、少しだけ安堵する。無限に続く階段という夢を以前見たことがあるためだ。
+As I got to the bottom, I was a little relieved. After all, I had a dream earlier of stairs that continued forever.
+//［コウジ］：（夢、か‥‥‥‥。）
+[Kouji]: (Dream, huh...)
+//あたりを見回してみる。暗くはないが、視界がはっきりとしない。
+I looked around me. It wasn't dark, but I couldn't see clearly.
+//恐らく蒸気か何かが、発生しているせいかもしれなかった。
+It might be because of some steam or vapor that was generated from somewhere.
+//［コウジ］：（人は、いないようだが‥‥‥‥。）
+[Kouji]: (It seems no one is around...)
+//キーン‥‥。
+*ting*
+//［コウジ］：（な、なんだ‥‥‥‥。）
+[Kouji]: (Wh-what is that...)
+//何か金属的な音が、あたりに響きわたった。何かを床に落としたような、そんな音だ。
+Some metallic sound echoed around me. It sounded like something fell onto a bed.
+//［コウジ］：（誰か‥‥いるのか？　ランファ？）
+[Kouji]: (Is someone there? Lanhua?)
+//私が、音のした方へ行ってみると‥‥‥‥。
+I moved in the direction of the sound...
+//ra06
+
+//［コウジ］：（ランファ‥‥何をしているんだろう‥‥？）
+[Kouji]: (Lanhua...What is she doing...?)
+//いくつかの工作器具が床にちらばっていた。修理か何かを、しているんだろうか‥‥。
+A number of pieces of equipment were scattered on the bed. She might have been fixing something...
+//別に隠れる必要も感じなかったので、私はごく普通に声を掛けてみた。
+I didn't feel the need to hide, so I called out in a casual tone.
+//［コウジ］：ランファ。
+[Kouji]: Lanhua.
+//ra06b
+
+//ra06b_m
+
+//［ランファ］：こ、コウジさん‥‥。
+[Lanhua]: K-Kouji-san...
+//［コウジ］：何をやっているんだい、こんな所で？
+[Kouji]: Whatcha doin' here?
+//［ランファ］：え、ええ‥‥動力部の点検を、少し‥‥。
+[Lanhua]: Uh...I was just inspecting the power unit...
+//どうも妙な案配だった‥‥。
+What a strange idea...
+//なぜ、第２次調査隊シップの、動力部の点検をする必要があるのか？
+Why would the second investigative teams' ship need a power unit inspection?
+//私は再びハシゴを昇っていくと、元のエンジンルームへと戻っていった。
+I ascended the ladder to return to the engine room.
+//エンジンルームを、もう出た方がいいだろう。
+Maybe leaving the engine room is better.
+//きびすをかえして、エンジンルームを出ていこうとしたとき、後ろの方から、
+As I turned on my heels to leave the engine room, I heard a voice from behind:
+//ランファは、さきほどのハシゴを指さした。
+Lanhua pointed to the earlier ladder.
+//［ランファ］：コウジさんは‥‥？
+[Lanhua]: Kouji-san, will you...?
+//ファルの言ったことを、私は思い出していた。
+I remembered what Lanhua said.
+//ところどころのレイアウトは異なっていたが、おおむね、ファル達のシップと構造は同じだった。
+There were a few places where the layout differed, but overall, it had the same plan as Far's and Lanhua's ship.
+//［コウジ］：（ファル、いるかな‥‥。）
+[Kouji]: [Kouji]: (Far's probably there...)
+//私は、エンジンルームを後にした‥‥。
+I faced away from the engine room...
+//私は格納庫へ戻ってきた‥‥。
+I've returned to the hangar...
+//格納庫内は、肌寒く、シンと静まりかえっている‥‥。
+The interior of the hangar was chilly, calm, and quiet...
+//私の歩く音だけが、あたりに響きわたっていた。
+As I walked, my footsteps echoed all around me.
+//シャトルのエンジン付近だけは、ものすごい熱を帯びていた。そばを通ると、頬の反面だけ、ジリジリと焼けこげるような感覚を覚える‥‥。
+As I got closer to the shuttle's engine, I felt an incredible warmth. As I walked past it, the other side of my cheek felt like it was burning...
+//あたりの水蒸気は、もう真っ白く気化していて、幻想的な雰囲気を漂わせていた‥‥。
+The steam around me gave this place a dream-like sensation...
+//生存者とおぼしい人は、見つかりそうもない‥‥格納庫内には、私が１人いるだけだろう‥‥。
+I couldn't see any survivors or strangers around...It seemed I was the only one in the hangar.
+//そうだ、クルーの個室も調べてみたら‥‥。
+Oh yeah, let's investigate the crew's private quarters...
+//ここからはそう遠くはなかったはずだ。もしかしたら、あるいは‥‥？
+It might not be too late. Just maybe, there could be...?
+//そんなことを考えながら、私は個室へと歩いていった‥‥。
+I walked to the private quarters as I pondered that...
+//エンジンルームなどとは雲泥の差だった。静かな廊下だ‥‥。
+This was totally different from the engine room. The corridor was silent...
+//しばらく歩いているうちに、シップ内の構造がだいたい頭に入ってきた。このタイプのシップには、個室は数室、備え付けられているだけのようだった。
+As I walked for a while, I remembered the overall layout of the ship. This kind of ship was only equipped with a few private quarters.
+//恐らく１０人も搭乗すれば、乗員オーバーになってしまう、小型シップなのだろう。
+Even 10 people would probably exceed the small ship's capacity.
+//ゆっくりと廊下を歩いて見ていくうちに、ドアには例外無く小さなプレートが貼り付けてある事に気付いた。
+As I slowly walked down the corridor, looking around, I noticed a miniscule plate fixed to the door.
+//恐らくクルーの名前や部署、なのかもしれない。
+It's probably the name of a crew member or a department.
+//１つ１つ順に目で追っていくと、ふと目にとまったプレートがある。他のとは大きさが明らかに違っていた。
+As my eyes darted from plate to plate, I stopped at one. It was noticeably bigger than the others.
+//それは既にカーキ色へと変色していて、プレート表面には塵が付着している。
+That plate had already turned a khaki color, and dust had built up on its surface.
+//そっと、人差し指でなぞってみると、そこに彫られてあった文字が浮き上がってくる。
+On top of that, as I traced the plate with my finger, I found words carved into the surface.
+//　　　　　　　▼　ＣＡＰＴＡＩＮ　ＲＯＯＭ　▼<$04><$32><$05>
+▼　ＣＡＰＴＡＩＮ　ＲＯＯＭ　▼
+//［コウジ］：（キャプテンというと‥‥このシップの、船長の事か？）
+[Kouji]: (The captain...so the one who's in charge of the ship?)
+//好奇心、とはやや異なっていたと思う。だがこの部屋に、ある程度の興味を覚えたのは事実のようだ。
+I wasn't particularly interested in the room, but it piqued my interest a little.
+//船に動力はまだかよっている。ドアの開閉パネルにそっと手を触れると、ドアは力強く横に開いた。
+The ship was still powered. As I touched the door operating panel, the door powerfully slid aside.
+//ウィーン‥‥‥‥。<$04><$32><$05>
+*vreee*
+//かなり暗い部屋だ‥‥。
+The room was quite dark...
+//私は、ゆっくりと慎重に、部屋の中へと入っていった。
+I slowly and carefully entered the room.
+//部屋の中には、うっすらと埃が積もっているようだった。歩く度に、床からわずかに白煙が昇る。
+The middle of the room seemed a little dusty. As I walked, white ash puffed up from the floor.
+//［コウジ］：（いったい、どのくらいの間、放置されていたんだろう‥‥。）
+[Kouji]: (Just how long has everything been left here...?)
+//もう何年も、人が訪れていないような、そんな雰囲気すら漂っている。恐らくここには、誰もいない‥‥。
+It felt as though no one had been here for years. It was quite likely no one was here now...
+//私は部屋の奥へ入っていくと、丁度や間取りなどを確認した。間取りは、ファルたちのシップと、そう大差はなさそうだ。
+I walked toward the back of the room, confirming the layout of the room. It was roughly similar to the one on Far's ship.
+//ついたてのようなカーテン、ベッド、脇の通信パネル、端末、机と‥‥<$0C>ん？
+The well-ordered curtains, beds, side communication panels,  terminals, desks, and...Hm?
+//［コウジ］：これは‥‥‥‥。
+[Kouji]: This is....
+//0110
+
+//端末の脇にあったから気付きにくかったが、横に立てかけるように分厚い本が置いてある。
+Beside the terminals, I barely noticed it, but there was a thick book leaning sideways.
+//［コウジ］：（何の本だろう‥‥？）
+[Kouji]: (What could this book be...?)
+//本の表面を軽く撫でてみると、下の文字を辛うじて読みとることができた。
+As I lightly brushed the book's surface, I could barely read the words underneath.
+//［コウジ］：（航海日誌、か‥‥‥‥。）
+[Kouji]: (This seems like a ship's logbook...)
+//中をパラパラとめくってみる。特徴的な筆記体の文字が記してあった。何と、手書きだ。
+I turned over the pages. Records were written in characteristic cursive writing. So it was handwritten.
+//赤茶けた、独特の紙の匂いが鼻こうを突く。私は適当にはしょりながら、読み進めていった。
+The smell of the unique reddish brown paper pierced my nose. I quickened my pace and continued reading.
+//［コウジ］：特に、これといって‥‥‥‥ん？
+[Kouji]: In particular, this is...Hm?
+//最後の数ページに差し掛かったところから、私はその航海日誌を熟読し始めていた。
+As I got to the last few pages of the logbook, I started to read the records more carefully.
+//宇宙時間：１４５２：０１７０\n今日も１人倒れた‥‥これで３人目だ。このままでは、我が調査隊は全滅してしまう。ヤツが来てからだ‥‥第１次調査隊の生き残りである、あいつが‥‥‥‥。
+UNIVERSAL TIME: 1452:0170\nToday, another person fell. That makes 3. At this rate, we, the investigative team, will all be eliminated. It started when that person came...the survivor from the first investigative team...
+//［コウジ］：（第１次調査隊の、生き残り‥‥？）
+[Kouji]: (A survivor from the first investigative team...?)
+//後は、読解が困難な筆跡になっていて、読みとることができない。私は紙を傷めないよう慎重に、ページをめくっていった。
+After that, the handwriting became harder and harder to read, and eventually illegible. Taking care not to rip the paper, I kept flipping through the pages.
+//例の原因不明の昏睡だ。恐らく明日はこの私だろう‥‥私は調査隊のリーダーとして、最後までこのシップに残らねばならぬ。せめて、娘のビアンカだけでも‥‥‥‥。
+This was a case of unexplained coma. That could be me tomorrow...If I were the investigative team's leader, I would be going down with the ship. At least that Bianca woman survived...
+//［コウジ］：（ビアンカ‥‥？）
+[Kouji]: (Bianca...?)
+//［コウジ］：（そうか、あの脱出ポッドの‥‥‥‥。）
+[Kouji]: (Right, that escape pod's...)
+//よほど焦って書いたのかもしれなかった。私は、いよいよ最後の１枚をめくってみた。
+Maybe it was written in a hurry. I flipped to the last page.
+//［コウジ］：ん？　これは‥‥。
+[Kouji]: Hm? What's this...
+//0120
+
+//そこには、小さな記録用マイクロディスク（ＭＤ）がはさんであった。
+I found a small micro disc between the pages.
+//航海日誌の最後に‥‥一体、どういうことだろうか。
+At the end of the logbook...What could this mean?
+//私はＭＤを傍らに置くと、最後のページをゆっくりと読み始めた。
+I placed the micro disc next to me, and started slowly reading the last page.
+//何という事だ。ヤツは‥‥何という事だ。この映像記録用のＭＤが無ければ、見誤るところだった。先史文明の遺跡だと！？　違う、ヤツは‥‥‥。
+What does this mean? That person...What does it mean. If I didn't have this micro disc for recording video, it'd be hard to understand. Is this a remnant of the previous civilization? No, that person...
+//航海日誌は、ここで終わっていた‥‥‥‥。
+The logbook ended here...
+//［コウジ］：（このＭＤに、何が記録してあるんだろうか‥‥。）
+[Kouji]: (What could be recorded on this micro disc...?)
+//私は、小さな記録用ＭＤを胸のポケットにしまうと、ゆっくりとあたりを見回した‥‥。
+I put the micro disc in my shirt pocket and slowly looked around me...
+//　◆ もう少し、この部屋を調べてみよう。
+◆ Let's investigate this place a little more.
+//　◆ 他の部屋も、調べてみた方がいいだろう。
+◆ I should search the other quarters.
+//もう少し、この部屋を調べてみよう。
+Let's investigate this place a little more.
+//机の上を改めて見てみるが、もう何も置いてはいないようだ‥‥端末などにも、電源はやってきていない。
+I looked again at the desk, but nothing else was placed there...the terminal was also disconnected from the power.
+//ふと、ベッド脇のパネルも見てみる。普段であれば、いくつかのランプが点灯しているはずだが‥‥。
+I suddenly looked at the beds and side panels. They seemed normal, but some lamps should be lighting them up...
+//［コウジ］：（これでは、通信もままならないな‥‥‥。）
+[Kouji]: (Communication is impossible this way...)
+//点灯していないパネルを見ながら、私は溜息を１つ吐く。
+I sighed as I looked at the unlit panels.
+//［コウジ］：（そういえば、格納庫のシャトルの所で、ファルたちと待ち合わせをしていたな。）
+[Kouji]: (That reminds me, I should meet back with Far and Lanhua by the shuttle in the hangar.)
+//［コウジ］：（生存者の有無に関わらず、１時間後くらいに落ち合う手はずだったはずだ。）
+[Kouji]: (We said that whether or not there are survivors, we would meet back there in an hour.)
+//［コウジ］：（あと、どのくらいだろうか‥‥‥。）
+[Kouji]: (How long do I have left....)
+//無駄とはわかっているが、パネルのスイッチを入れてみる。予想通り、反応は無い。
+I knew it was useless, but I pushed the switch on the panel. As I expected, there was no response.
+//［コウジ］：（そろそろ、戻った方がいいかな‥‥。）
+[Kouji]: (I guess I should return now....)
+//と私がドアに向かいかけたとき‥‥‥‥。
+As I turned toward the door....
+//ゴゴゴゴッッッ！
+*rumble rumble rumble*
+//［コウジ］：な、なんだ‥‥！？
+[Kouji]: Wh-What is it?
+//［ファル］：コウジ、聞こえて？　コウジ！
+[Far]: Kouji, do you hear me? Kouji!
+//［コウジ］：ファル‥‥どこから‥‥。
+[Kouji]: Far...What is it...?
+//やや声の調子がおかしい。それが放送の声だと気付くまで、私はあたりを見回してしまった。
+Her voice had a strange tone. As I looked around me, I realized it was the sound of a broadcast.
+//xenon_15
+
+//ガガーーーンッッ！！！<$05><$04><$30>
+*KABOOOOOM*!
+//突然、天井と地面が反転したかと思うと、私は腰を床に、したたか打ちつけていた。
+Suddenly, I felt as if the ceiling and floor had inverted, and I fell hard on my waist onto the floor.
+//明らかに床は傾斜していた。机の上の端末が、不自然に横へと傾いている。
+The floor was clearly slanted. The terminals on the desks were unnaturally slanted.
+//構造的に、重力はシップの下方へと常に向かっているはずだった。
+Structurally, gravity should always have pointed towards the bottom of the ship.
+//船が傾くと感じるのは、重力制御に何か異常が起きたのかもしれない‥‥。
+The ship's tilt meant that something had probably gone wrong with the gravitational control....
+//［ファル］：いい、コウジ。今現在このシップは、動力の異常出力によって、ナーズへと引き寄せられているの。
+[Far]: It's ok, Kouji. Just now, due to this ship's abnormal power output, we've been drawn towards {Nuz}.
+//［コウジ］：（‥‥ナーズというと、あの恒星のことか！？）
+[Kouji]: ({Nuz} means that star, doesn't it?!)
+//［ファル］：良く聞いて頂戴。時間が無いわ、今からすぐに格納庫のシャトルへ来て。脱出するのよ‥‥。
+[Far]: Please listen to me. We don't have a lot of time, so let's head to the hangar now. Let's make our escape...
+//［ファル］：恒星の重力に完全に捉えられるまで、あと３分しかないわ。急いで‥‥‥‥。
+[Far]: We have about 3 minutes before the star's gravity totally captures us. Hurry...
+//そこで、放送は途切れてしまった‥‥放送システムにも、恐らく何らかの異常が起きたのかもしれない。
+The transmission was cut right there...The transmission system was probably also experiencing problems.
+//［コウジ］：と、とりあえずここを出なくては‥‥。
+[Kouji]: A-anyway, I gotta get outta here...
+//［女の声］：コウジさん‥‥‥‥。
+[Woman's voice]: Kouji-san......
+//振り向いた場所には、彼女がたたずんでいた‥‥。
+As I turned around, she was standing there...
+//他の部屋も、調べてみた方がいいだろう。
+I should search the other quarters.
+//私は、船長室を後にした‥‥‥‥。
+I faced away from the captain's quarters...
+//ズラリと並んでいるドアを見ると、１部屋ずつ見ていくのは意外に大変そうだ。
+As I looked down the line of doors, it seemed impractical to investigate room by room.
+//［コウジ］：（時間は、大丈夫なのかな‥‥。）
+[Kouji]: (Do I have enough time...)
+//［コウジ］：（そうだ、格納庫のシャトルの所で、ファルたちと待ち合わせをしていたな。）
+[Kouji]: (That's right, I said I would meet with Far and Lanhua by the shuttle in the hangar...)
+//ふと、エンジンルームの大きなドアが目にとまる。エンジンの稼働音が、振動とともに伝わってきた。
+Suddenly, the engine room's big door caught my eye. 
+//［コウジ］：（ランファ、まだいるのかな‥‥‥‥。）
+[Kouji]: (Lanhua is probably still there...)
+//私が、手すり脇のハシゴを見ようとしたとき‥‥‥‥。
+As I looked at the ladder next to the railing....
+//ゴゴゴゴッッ！！
+*rumble rumble rumble*
+//［コウジ］：な、なんだ！？
+[Kouji]: Wh-What was that?!
+//明らかに床は傾斜していた。パネルの上の小物が、不自然に横へと傾いている。
+The floor suddenly tilted. The small items on top of the panel unnaturally slanted sideways.
+//けたたましい音が、エンジンルーム内に響きわたっている。反射的に、目の前のパネルに目がいく。
+A roaring sound echoed throughout the engine room. I reflexively looked at the panel in front of me.
+//［コウジ］：（電源は、きていないじゃないか‥‥。）
+[Kouji]: (The power hasn't been cut, has it...)
+//［コウジ］：（どういうことだ‥‥。）
+[Kouji]: (What on earth is that...)
+//［コウジ］：そうだ、ランファは‥‥‥‥。
+[Kouji]: Oh right, Lanhua...
+//もしかしたら、まだ下にいるのかもしれない‥‥私は手すり脇のハシゴに手を掛けると、無我夢中で降りていった。
+She might still be down there...I grabbed the ladder next to the railing and recklessly descended.
+//［コウジ］：ランファ！　いるのか、ランファ！！
+[Kouji]: Lanhua! Lanhua, are you there?!
+//下へ呼びかけるが、帰ってくる声はない‥‥。
+I called out down below, but there was no response...
+//［コウジ］：（まさか、あの衝撃で‥‥！？。）
+[Kouji]: (It couldn't be, that impact...?!)
+//下へ降り立つと、私はもう１度、彼女を呼んでみた。
+As I descended to the bottom, I called out to her once more.
+//［コウジ］：ランファ‥‥ランファ！
+[Kouji]: Lanhua...Lanhua!
+//［コウジ］：ら、ランファ‥‥ぶ、無事だったんだ。
+[Kouji]: La, Lanhua...You're OK.
+//［コウジ］：何をやっているんだ。今がどういう状況か‥‥。
+[Kouji]: What's going on. What's the situation now...
+//［ランファ］：まだ、わからないのですか？
+[Lanhua]: Do you still not understand?
+//［コウジ］：え‥‥な、何を‥‥？
+[Kouji]: Uh...Wh-what...?
+//思わぬ切り返され方に、こっちが困惑してしまった。何を言っているんだ、彼女は‥‥。
+As I answered without really thinking, I became embarrassed. What is she really saying...
+//［コウジ］：ランファ‥‥？
+[Kouji]: Lanhua...?
+//［ランファ］：コウジさん、あなたはまだ、記憶を無くしているのですね‥‥。
+[Lanhua]: Kouji, your memory hasn't returned yet, has it...
+//［コウジ］：ど、どういうことだ。
+[Kouji]: Wh-what do you mean?
+//［ランファ］：夢を、思い出して下さい。
+[Lanhua]: Please remember your dream.
+//［コウジ］：夢？
+[Kouji]: Dream?
+//［ランファ］：夢の中で、見たこと聞いたことを、思い出すんです。
+[Lanhua]: Remember what you saw and heard in your dream.
+//［コウジ］：な、何の事を言っている。
+[Kouji]: Wh-what are you talking about?
+//ランファは私の事を黙って見つめていた‥‥私は思いあまって、彼女の肩に手を掛けて、問いただしていた。
+Lanhua silently looked at me...As I thought about it, I put my hands on her shoulders and asked.
+//［ランファ］：あっ‥‥痛っ‥‥。
+[Lanhua]: Ah--It hurts...
+//［コウジ］：まさか君が、このシップを‥‥‥‥。
+[Kouji]: D-did you do this to the ship?...
+//［コウジ］：ランファ‥‥。
+[Kouji]: Lanhua...
+//そのとき私は、後頭部のあたりに鈍い衝撃を感じた。不思議と痛みは無かった。
+Right then, I felt a heavy blow to the back of my head, but incredibly, I felt no pain.
+//ゆっくりと目を閉じて、傾いた重力に身を任せていった‥‥。
+As I slowly closed my eyes, I surrendered my body to the tilted gravity...

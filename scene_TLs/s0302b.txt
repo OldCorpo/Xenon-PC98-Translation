@@ -1,0 +1,430 @@
+//s0302b
+
+//　◆ 君はいったい、誰なんだ？
+◆ Who exactly are you?
+//　◆ ここはいったい、どこなんだ。
+◆ Where in the world is this place?
+//　◆ ランファって子だけど、いったいどういう女性？
+◆ Just what kind of woman is that Ranphar girl?
+//　◆ なぜオレの事を知っているんだ？
+◆ How do you know about me?
+//　◆ 《クワドラ》とはいったい何なんだい？
+◆ What is the "Kuwadora", exactly?
+//　◆ ジェネレータって言っていたけど‥‥。
+◆ You said something about a generator...
+//　◆ ファルネリアって、いったい誰のことさ。
+◆ Who on earth is Farnelia?
+//［宏治］：君はいったい、誰なんだ？
+[Kouji]: Who exactly are you?
+//［宏治］：記憶は混乱はしていない。状況に混乱しているんだ。
+[Kouji]: My memory isn't jumbled up, it's the situation that's jumbled up.
+//［宏治］：ジェネレータ‥‥？
+[Kouji]: Generator...?
+//［宏治］：あの、トレイシー‥‥だったよね？
+[Kouji]: Um, Tracy...that's you, right?
+//［宏治］：君って、どういう人なの？
+[Kouji]: What kind of person are you?
+//［宏治］：んと、じゃあね、ここで何をしているの？
+[Kouji]: Mm, so, ok then, what are you doing here?
+//［宏治］：あのね‥‥じゃあ別の聞き方だ。君の、ここでの役割はなに？
+[Kouji]: Umm...well, I'll ask it another way. What role do you play here?
+//［トレイシー］：それは‥‥混乱をされているコウジ様に、状況の説明をして差し上げることですわ。
+[TRACY]: Well...I'm here to explain the situation to you, since you're confused.
+//［宏治］：さっきと同じじゃないの。
+[Kouji]: Isn't that the same answer you just gave me?
+//［トレイシー］：でも、それが質問の回答として相応しいように思われますが‥‥？
+[TRACY]: But, don't you think it's a suitable answer to the question you posed to me?
+//［宏治］：うーん。
+[Kouji]: Mm-mm.
+//［トレイシー］：何をお悩みになっているのですか？　私に出来ることがあれば、遠慮無く言って下さい。
+[TRACY]: What's bothering you? If there's anything I can do to help, please don't hesitate to ask.
+//［宏治］：‥‥じゃあ質問を変えよう。
+[Kouji]: ...Well, then, I'll change the question.
+//［宏治］：ここはいったいどこなんだ。
+[Kouji]: Where in the world is this place?
+//［トレイシー］：ここ、とおっしゃられますと、今コウジ様がおられる場所ですか？
+[TRACY]: And by "here", do you mean to say, "the place where KOUJI-SAMA is located now"?
+//［トレイシー］：ベッドの上に寝ておられますわ。
+[TRACY]: Well, you're resting on top of the bed.
+//［トレイシー］：何かお気に触られる事でも？
+[TRACY]: Has something rubbed you the wrong way?
+//［宏治］：いや‥‥オレの聞き方が悪かった。
+[Kouji]: No...I must have asked it the wrong way.
+//［トレイシー］：お心遣い、感謝しますわ。
+[TRACY]: Thank you for understanding.
+//［宏治］：んー‥‥‥。
+[Kouji]: Nnmm...
+//［宏治］：ランファって子だけど、いったいどういう女性？
+[Kouji]: Just what kind of woman is that Ranphar girl?
+//［トレイシー］：どういう女性と言われても‥‥。
+[TRACY]: How should I describe her...
+//［宏治］：トレイシーが感じる事で構わないよ。
+[Kouji]: I don't care about your personal feelings towards her.
+//［トレイシー］：ちょっとコウジ様に優しくしてもらってるからって、やたらと鼻にかけてる子ですね。
+[TRACY]: She's the kind of girl who, when KOUJI-sama is even a little nice towards her, really takes it to heart.
+//［トレイシー］：その他には？
+[TRACY]: Anything else you want to know?
+//［宏治］：彼女は、ここで何をしているの？
+[Kouji]: What exactly does she do here?
+//［トレイシー］：こことおっしゃられますと、《クワドラ》でですか？
+[TRACY]: By "here", do you mean the Kuwadora?
+//［宏治］：クワドラ？
+[Kouji]: Kuwadora?
+//［トレイシー］：《クワドラ》がなにか？
+[TRACY]: Do you know what the Kuwadora is?
+//［宏治］：いやその、話の腰を折って悪かった。続けてくれ。
+[Kouji]: Oh, sorry to interrupt. Please continue.
+//［トレイシー］：彼女は主に機関部の整備やチェック、航行機器類を任されていますわ。
+[TRACY]: She's primarily responsible for the engine department's checks and maintenance, but the navigation equipment is also under her domain.
+//［宏治］：機関部？　航行機器？
+[Kouji]: You said something about the engine department? And the navigation equipment?
+//［トレイシー］：それが、なにか‥‥？
+[TRACY]: Yes, what about them?
+//［宏治］：い、いや‥‥じゃあ君は？
+[Kouji]: Uh, never mind...what about you?
+//［トレイシー］：コウジ様が行う様々なことを、サポートさせて戴くのが、私の役目です。
+[TRACY]: My role is to run KOUJI-sama's errands and provide support.
+//［宏治］：うーん‥‥。
+[Kouji]: Hmmmm....
+//［宏治］：なぜオレの事を知っているんだい？
+[Kouji]: Why do you know so much about me?
+//［トレイシー］：あの‥‥どういう意味でしょうか？
+[TRACY]: Umm...what do you mean by that?
+//［宏治］：コウジ、コウジって。オレは君たちのことなんて、全然知らないんだぜ。
+[Kouji]: Always with the "KOUJI, KOUJI". I know nothing about you ladies.
+//［トレイシー］：それは、恐らく記憶が一時的に混乱しているからですわ。
+[TRACY]: That's probably because your memories become fuzzy every hour or so.
+//［宏治］：だから、記憶は確かだってば。オレは宏治であって‥‥。
+[Kouji]: I'm telling you, you have to believe that my memories are right. Because I'm Kouji...
+//［トレイシー］：ええ、コウジ様です。
+[TRACY]: Yes, you're KOUJI-sama.
+//［宏治］：だからぁ‥‥だいたい何さ、さっきからその『コウジ様』ってのは。
+[Kouji]: I keep telling you...to begin with, what's with that "KOUJI-sama" from earlier?
+//［トレイシー］：コウジ様は、コウジ様です。それ以外に、お呼びできません。
+[TRACY]: KOUJI-sama is KOUJI-sama. I can't call you any other way.
+//［宏治］：んー‥‥。
+[Kouji]: Mmmm--...
+//［宏治］：《クワドラ》とはいったい何なんだい？
+[Kouji]: What is the "Kuwadora", exactly?
+//［トレイシー］：と、おっしゃられますと？
+[TRACY]: Are you asking me?
+//［宏治］：さっき、その‥‥《クワドラ》がどうとか、そういう話をしただろう？
+[Kouji]: Earlier, you said something about that..."Kuwadora", didn't you?
+//［トレイシー］：ええ、しました。
+[TRACY]: Yes, I did.
+//［宏治］：じゃあ《クワドラ》とはいったい何か？　という疑問を呈示させてもらおう。
+[Kouji]: Well, you brought up the question in my mind: what exactly is the "Kuwadora"?
+//［トレイシー］：スペックを言えばよろしいのですか？
+[TRACY]: Will it help if I talk about its specs?
+//［宏治］：‥‥ま、まあそうかな。
+[Kouji]: ...I don't know, but tell me anyway.
+//［トレイシー］：《クワドラ》はカルバドル級軽機動シップを大幅にチューンナップされた、高速機動シップです。
+[TRACY]: The "Kuwadora" is a Calvador-class light mobile ship that's been heavily tuned up into a high-speed mobile ship.
+//［トレイシー］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
+[TRACY]: It is 52 meters long, the engine runs on ethereal photon energy, and the craft is fitted with hyperdrive capabilities...
+//［トレイシー］：火器はイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など一発ですわ‥‥あら、私としたことが。ホホホ。
+[TRACY]: The armaments consist of 3 ion cannons and two photon blasters, which would take out a superficial cruiser in one hit...oh my, did I do that? Hohoho.
+//［宏治］：ええと‥‥。
+[Kouji]: Ummm....
+//［トレイシー］：最大搭乗員数は２０人、でもフルオートのエンジンや航行機能などで、最低３人にまで削減することが可能です。
+[TRACY]: The maximum capacity is 20 persons, but, due to the full-auto engine and self-flight capabilities, it can be run by as few as 3 people.
+//［宏治］：ね、ねぇ‥‥。
+[Kouji]: H-hey...
+//［トレイシー］：その他にも、タキオンを利用したハイパーウェイブ通信機能や‥‥。
+[TRACY]: Besides that, it has tachyon-based hyperdrive communication capabilities and...
+//［宏治］：トレイシー。
+[Kouji]: Tracy.
+//［トレイシー］：はい。なんでしょうか？
+[TRACY]: Yes, what is it?
+//［宏治］：その、それって何の冗談？
+[Kouji]: I-is that your idea of a joke?
+//［トレイシー］：冗談？　私、冗談とイカの頭は嫌いですの。コウジ様、知ってらっしゃるはずでしょう？
+[TRACY]: Joke? I have no use for a joke like that. KOUJI-sama, do you think you understand?
+//［宏治］：じゃあ何かい、ここはその、《クワドラ》とやらいう宇宙船の中で、もしかして宇宙空間中に浮かんでいるとか？
+[Kouji]: Well, in any case, we're in the middle of the "Kuwadora" space ship, so could it be possible that we're floating through outer space right now?
+//［トレイシー］：もしかしなくても、おっしゃる通りですわ。
+[TRACY]: It's not just a possibility, it's exactly as you say.
+//［宏治］：‥‥質問を変えよう。
+[Kouji]: ...Let's talk about something else.
+//［宏治］：ジェネレータって言っていたけど‥‥。
+[Kouji]: You said something about a generator...
+//［トレイシー］：ジェネレータ‥‥ですか？
+[TRACY]: The generator...?
+//［宏治］：そう、さっきから、ちらほら耳にするんだけど。
+[Kouji]: Yes. For a while now, I've been hearing about it here and there.
+//［トレイシー］：あれは、コウジ様が手に入れられた、大宇宙海賊御用達霊子エナジー増幅ジェネレータです。
+[TRACY]: That's your own sweat and blood, the Galactic Pirate Company Reiko energy amplifying generator.
+//［宏治］：だ、大宇宙‥‥なんだって？
+[Kouji]: Th-the Galactic...what?
+//［トレイシー］：大宇宙海賊御用達霊子エナジー増幅ジェネレータ、です。
+[TRACY]: The Galactic Pirate Company Reiko energy amplifying generator.
+//［宏治］：なんだよ、そのイカれた名前は。
+[Kouji]: What's with that nutty name?
+//［トレイシー］：コウジ様が自ら、命名されたのではありませんか。
+[TRACY]: KOUJI-sama, you named it yourself, didn't you?
+//［宏治］：えっ？　お、オレが‥‥？
+[Kouji]: Huh-? I-I did?
+//［トレイシー］：はい、そうですわ。
+[TRACY]: Yes, you did.
+//［宏治］：‥‥‥‥‥。
+[Kouji]: .........
+//［宏治］：じゃあさ‥‥。
+[Kouji]: Well, then...
+//［トレイシー］：はい。
+[TRACY]: Yes?
+//［宏治］：その、大宇宙‥‥‥あぁ、どうでもいい、ジェネレータって呼ぶけど、それって一体何なのさ。
+[Kouji]: That, Galactic...augh, whatever, I'll just call it the generator. What exactly is that generator?
+//［トレイシー］：機能の概説を、お求めになられているのでしょうか？
+[TRACY]: Are you asking me to summarize its capabilities?
+//［宏治］：そ。そのジェネレータの機能の概説とやらを、教えてくれ。
+[Kouji]: Yes. Please give me a summary of that generator's capabilities.
+//［トレイシー］：私も詳しくは知らないのですが、コウジ様がおっしゃるに、何でも大変なシロモノとか。
+[TRACY]: I don't know the specifics, but from KOUJI-sama has said, it's a very important appliance.
+//［宏治］：た、大変なシロモノ‥‥それが機能の概説？
+[Kouji]: A-an important appliance...Is that your summary of its capabilities?
+//［トレイシー］：コウジ様が、それしかお教え下さらなかったのではありませんか。
+[TRACY]: KOUJI-sama never told me anything else about it.
+//［宏治］：そ、そうだっけ？
+[Kouji]: Th-that's it, then?
+//［トレイシー］：そうですわ。
+[TRACY]: Yes, that's all I can say.
+//［宏治］：んー、じゃあオレはそれを、どうやって使用していた？
+[Kouji]: Mmm, well, how did I use that?
+//［トレイシー］：ファルネリア様を触媒になさって、それを利用して霊子エナジーを解放するとか、おっしゃっていました。
+[TRACY]: You've stated that with Farnelia-sama acting as a medium, you used it to release your Reiko energy.
+//［宏治］：ファルネリア‥‥？
+[Kouji]: Farnelia...?
+//［トレイシー］：触媒の女性です。
+[TRACY]: Yes, the woman medium.
+//［宏治］：ファルネリアって、いったい誰のことさ。
+[Kouji]: Who exactly is Farnelia?
+//［トレイシー］：ジェネレータを利用するための、触媒の女性です。
+[TRACY]: She's the woman medium you use for the generator.
+//［宏治］：触媒の女性って？
+[Kouji]: And what do you mean by a woman medium?
+//［トレイシー］：詳しくは存じません。
+[TRACY]: I don't know the details.
+//［宏治］：あっ、もしかして変なカプセルの中にいた、赤毛の女の子？
+[Kouji]: Ah-, could it be that she was the red-haired girl in the strange capsule?
+//［トレイシー］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
+[TRACY]: Yes, that was her. That capsule itself was part of the Galactic Pirate...
+//［宏治］：それはもういいよ。でも、その大宇宙海賊ってのは、いったい何のことさ。
+[Kouji]: I get it, you can stop right there. But then, what on earth is that Galactic Pirate thing?
+//［トレイシー］：コウジ様の事ですわ。
+[TRACY]: It's your own business.
+//［宏治］：お、オレ？
+[Kouji]: M-mine?
+//［宏治］：‥‥冗談だろ？
+[Kouji]: ...You're kidding, right?
+//［トレイシー］：そんな、恐れ多い。
+[TRACY]: Joking would be disrespectful to you.
+//［宏治］：本当なの？
+[Kouji]: So you really mean it?
+//［トレイシー］：もちろんですわ。
+[TRACY]: Of course I do.
+//［宏治］：わははは。
+[Kouji]: Wahahaha.
+//［トレイシー］：こ、コウジ様？
+[TRACY]: K-KOUJI-sama?
+//［宏治］：涼子先生だな、その手は喰わないぜ。わははは。
+[Kouji]: Doctor Ryouko, is that you, please stop biting my hand, wahahaha.
+//［トレイシー］：コウジ様、お気を確かに‥‥‥。
+[TRACY]: KOUJI-sama, please stay calm...
+//［宏治］：おーい、涼子せんせー！　その辺に隠れてるんだろ！？
+[Kouji]: Heeey, Doctor Ryoukooo! Are you hiding around there?!
+//［トレイシー］：こ、コウジ様、ゴミ箱をあさって一体何を‥‥。
+[TRACY]: K-KOUJI-sama, why on earth are you flipping that wastebasket...?
+//［宏治］：出てこいよぉ、涼子先生！
+[KOUJI]: Come out, Doctor Ryouko!
+//［トレイシー］：ど、どうしましょう‥‥コウジ様がとうとう‥‥。
+[TRACY]: Wh-what is happening...KOUJI-sama, you're 
+//［宏治］：とうとうって何だよ、とうとうって。失礼な。
+[Kouji]: ""? What do you mean, ""? Sorry.
+//［トレイシー］：で、ですが‥‥‥。
+[TRACY]: B-but...
+//［宏治］：君も君だよ。涼子先生に言われて、オレを騙そうとしたって、そうは問屋が‥‥。
+[Kouji]: You are you. Doctor Ryouko told me that I'd be tricked into being in such a room...
+//［トレイシー］：あら、呼び出しだわ。誰かしら？
+[TRACY]: Hey, you called out a name. Who is that?
+//［ランファ］：トレイシー、まだそこにいるの？
+[RANPHAR]: Tracy, you're still here?
+//［トレイシー］：ランファ、何があったのです？
+[TRACY]: Ranphar, has something happened?
+//［ランファ］：もうプリプリよぉ。コウジ様のおそばに、そんなに長く‥‥。
+[RANPHAR]: I'm frustrated already. When I'm away from KOUJI-sama for that long...
+//［トレイシー］：人それぞれに、役割というものがあるのです。それより用はなんですか？
+[TRACY]: We each have our own roles. What do you want beyond that?
+//［ランファ］：ファルネリア様が、お目覚めになって‥‥。
+[RANPHAR]: Farnelia-sama has awoken...
+//［トレイシー］：それで、どうしたのです？
+[TRACY]: And what about it?
+//［ランファ］：暴れ出しちゃって、手に負えなくなっちゃったの‥‥。
+[RANPHAR]: She exploded in a rage, and she's become too much for me to handle...
+//［トレイシー］：何とかなさい。あなたの役目でしょう？
+[TRACY]: Please, manage her somehow. It's your duty, isn't it?
+//［ランファ］：そんなぁ、看護はむしろトレイシーの役目じゃない。私はぜんぜんダメよぉ。
+[RANPHAR]: Oh, come on, TRACY, your role isn't a nurse. I can't do it at all.
+//［トレイシー］：しょうがないわね、じゃあファルネリア様の部屋は？
+[TRACY]: Fine, then. Well, where is Farnelia's room?
+//［ランファ］：ＶＩＰルーム。
+[RANPHAR]: It's the VIP room.
+//［トレイシー］：わかったわ、今からいきます。
+[TRACY]: Got it. I'll go immediately.
+//［ランファ］：早くしてね。あっ、コウジ様ぁ。
+[RANPHAR]: Please hurry. Ah-, KOUJI-sama.
+//［ランファ］：ランファ、コウジ様が記憶を無くされても、ずっと愛して‥‥。
+[RANPHAR]: Ranphar has always loved KOUJI-sama, even when his memories aren't there...
+//［トレイシー］：さて、雑音は消してと。
+[TRACY]: There, that racket has gone down.
+//［トレイシー］：何かありましたら、ベッド傍らのコンパネを利用して下さい。
+[TRACY]: If anything comes up, please use the control panel next to the bed.
+//［宏治］：あ、あぁ‥‥。
+[Kouji]: Ah, umm...
+//［トレイシー］：それでは、ごゆっくりお休み下さい‥‥。
+[TRACY]: Now, then, please have a pleasant rest....
+//トレイシーという女性がいなくなると、あたりは途端に静寂が訪れた。
+The woman named Tracy disappeared, and the room was suddenly silent.
+//オレは手を頭の後ろにまわすと、ベッドの上に仰向けに倒れ込む。
+I wrapped my hands behind my head and fell back onto the bed.
+//静寂が耳に痛かった。だがそれ以上に頭も痛い。
+The silence hurt my ears, but any more noise would hurt my head, too.
+//混乱していないと言えば嘘になる。むしろ、オレはさっきから混乱のしっぱなしだ。
+If I said I wasn't confused, I'd be lying. However, my confusion from earlier had dissipated.
+//ここが、大宇宙に浮かぶ宇宙船の中で、しかも何とか砲とかいう武器がついてる高機動シップだと？
+Here, I am floating through space on a space ship, and it seems that it's a high class mobile ship carrying some sort of cannon weaponry.
+//霊子エナジーなんとかという、ジェネレータがどうした、あげくの果てに、このオレが大宇宙海賊ときた時には‥‥‥‥。
+The generator uses Reiko energy or whatever to, in the end, make me some galactic pirate...
+//オレは仏頂面のまま手を頭の後ろに組み、ベッドに仰向けに倒れ込んだ。
+With a surly look, I joined my hands behind my head, and fell back onto the bed.
+//しかしリアルと言えば、リアルだった。本当にここは、宇宙‥‥？
+But if I treat this as real, it's real. Am I really here, in outer space...?
+//いやいや、そんな非科学的な。ありえないことだ。
+No, no, that's not scientific at all. There's no way that's the case.
+//まっ、慌てる必要はないさ‥‥ゆっくりと‥‥。
+Well, there's no need to fret about it...let's just drift...
+//‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。<$05>
+.........................
+//［宏治］：（ドキッ‥‥涼子先生！？）
+[Kouji]: (Ba-bump...Doctor Ryouko?!)
+//［涼子］：さっき彼女に話していたこと‥‥。
+[Ryouko]: Just now, you were talking to a girl....
+//［男］：あぁ、それがどうした？
+[Man]: Ahh, so what about it?
+//［宏治］：（誰だ、この男の声は‥‥。）
+[Kouji]: (That man's voice...who is that?)
+//［男］：本当だ。とんだ欠陥品だな。
+[Man]: It's true. What a truly defective product.
+//夢にしてはやけにリアルだった。涼子先生と話している、このぶしつけな男はいったい‥‥。
+As I dreamed, it became real. Who the hell is this insolent bastard speaking to Doctor Ryouko...?
+//しばらく寝てしまったんだろうか‥‥オレの足下に、キチンと畳まれた着替えが置いてあった。あのトレイシーという女性が、置いていったのかもしれない。
+Wasn't I asleep for a while?...By my feet, there sat a neatly folded change of clothes. That Tracy woman probably left it there.
+//肌触りの良い衣服だった。セパレートタイプだったが、着てみるとツナギのように見えるデザインだ。
+The clothing feels good to the touch. It's a two-piece type, but as I'm wearing it, it looks like a boiler suit design.
+//オレは着替えをすますと、室内を見回した。別にこれといって変化はなかった‥‥‥‥。
+I finished changing clothes and surveyed the room. There didn't seem to be any change other than that change of clothes...
+//　◆ ここでジッとしてるより、部屋を出よう。
+◆ Let's not stare here forever and leave the room.
+//　◆ 状況がわかるまで、ここにいた方がいいだろう。
+◆ Until I understand the situation, let's stay here.
+//ここでジッとしているより、部屋を出よう。まっ、散歩でもしてみるかな。
+Let's not stare here forever and leave the room. Or, well, at least try taking a stroll around here.
+//そう考えると、さっそくオレはドアへと向かった。元来、ジッとしているのは性分じゃあない。
+With that thought, I turned towards the door at once. From the start, it wasn't in my nature to sit around.
+//オレは、さきほどのファルネリアという女性のことが、少しだけ気になっていた‥‥。
+I've gotten somewhat curious about that Farnelia woman from earlier...
+//状況がわかるまで、ここにいた方がいいだろう。
+Until I understand the situation, let's stay here.
+//オレは再びゴロっと横になった。天井を見上げて、何度めかになる溜息を吐く‥‥。
+I stretched back horizontally. As I stared at the ceiling, I sighed countless times...
+//［宏治］：ふぅ‥‥どうなっちゃったのかな、オレ‥‥。
+[Kouji]: Hooo...what's going on with me...?
+//シーツをかぶって、厳しい現実から逃避しようと思ったとき‥‥。
+Just as I thought of tearing off the sheets and fleeing this harsh reality...
+//［宏治］：何だ、誰だろう‥‥。
+[Kouji]: What, who is it...?
+//［宏治］：ランファ‥‥かな？
+[Kouji]: Ranphar...is that you?
+//［女］：ちょっと、早くここから出しなさい！
+[Woman]: Hold it, come out from there already!
+//［トレイシー］：困ります、お願いです。
+[TRACY]: Please, he's struggling right now.
+//［女］：私は、権力と暴力には、絶対に屈しませんからねっ！
+[Woman]: I absolutely won't bend to such power and strength!
+//［トレイシー］：ファルネリア様、少しお静かに‥‥。
+[TRACY]: Farnelia-sama, please be quiet...
+//ファルネリア？
+Farnelia?
+//というと、ジェネレータとやらの触媒とかいう女性か‥‥確か、赤毛の‥‥。
+In other words, the woman medium from the generator...indeed, that redhead...
+//考え出すと、急速に会いたくなってきた。会いたくなってくると、居ても立ってもいられなくなる。
+As I realized it, I suddenly felt the urge to meet her. As that urge grew stronger, I became unable to sit still.
+//さっそくオレはドアへと向かった。元来、ジッとしているのは性分じゃあない。
+I quickly turned toward the door. From the start, it wasn't in my nature to sit around.
+//オレは、触媒という言葉が、少しだけ気になっていた‥‥。
+Something piqued my interest, from the word "medium"...
+//外に出た途端、少しムッとした暖気に襲われた。室内では、どうやら冷房が効いていたらしい。
+Just as I left the room, I was suddenly assaulted by light warm air. It seemed the air conditioning was working inside the room.
+//廊下はシンと静まり返っていた。道なりに進むと、左右に分岐しているようだ。
+The corridor was totally silent. As I followed the path, it forked left and right.
+//隣のドアから、やや異音が聞こえてくるようだが‥‥。
+A somewhat strange sound was coming from the nearby door...
+//　◆ 右へ曲がってみよう。
+◆ Let's turn right.
+//　◆ 左へ曲がってみよう。
+◆ Let's turn left.
+//　◆ 隣のドアが気になる。中に入ってみよう。
+◆ I'm curious about that nearby door. Let's go in.
+//右へ曲がってみよう。
+Let's turn right.
+//そう考えると、オレは廊下を足早に進んでいった‥‥。
+With that in mind, I paced quickly down the corridor...
+//左へ曲がってみよう。
+Let's turn left.
+//そう思うと、オレは廊下を足早に進んでいった‥‥。
+With that thought, I paced quickly down the corridor...
+//隣のドアが気になる。中に入ってみよう。確か、この辺はみんな自動ドアだよな‥‥。
+I'm curious about that nearby door. Let's go in. It seems all the doors around here are automatic...
+//そう思ってコンパネに触ってみるが、ドアはウンともスンとも言ってくれない。
+With that thought, I fiddled with the control panel, but the door didn't make a peep.
+//ロックされてるのだろうか‥‥。
+It might be locked...
+//しょうがないな。オレは隣のドアに入るのをあきらめて、他の道を行くことにした。
+Well, there's no use dillydallying here. I gave up on going in the door, and decided to go down another path.
+//角を曲がり進んでいくと、オレはぴたっと立ち止まらねばならなくなった。何のことはない、すぐに行き止まりになってしまったからだ。
+As I turned the corner, I was forced to come to a sudden halt. It was no big deal, since I was about to stop myself.
+//目の前には重厚なドアが、オレの進入を許さずという趣でそびえ立っている。
+In front of me, a thick, heavy door forbade me from going further.
+//［宏治］：誰もいないのかな‥‥。
+[Kouji]: Doesn't seem like anyone's here...
+//良く見るとドアには、目線の高さにプレートが貼ってあった。
+As I looked closely at the door, I noticed a plate at eye level.
+//　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼<$04><$32><$05>
+▼  VIP ROOM  ▼
+//ＶＩＰというと、重要人物のことだよな‥‥。
+So this is for Very Important People...
+//傍らのコンパネに手を伸ばしてみる。見よう見まねで、赤く点滅しているボタンを押してみる。
+I pushed the control panel next to me. Following others' example, I pushed the blinking red button.
+//‥‥‥‥‥‥<$0C>‥‥‥‥‥‥<$0C>‥‥‥‥‥‥。
+................................
+//どうやら、誰もいないようだな‥‥。ここでこうして立っていても、しょうがないようだ。
+It seems no one is here.... Well, there's no use just standing around here.
+//無駄なことが嫌いなオレは、そのまま元の廊下へと戻っていった‥‥。
+Since I hated wasting time, I returned down the original corridor...
+//さてと、どうするかな‥‥。
+Now, then, what to do...
+//造りは、ほぼ左右対称か‥‥。
+These hallways seem to have been constructed symmetrically...
+//向こう側と違い、ここはやけに騒がしかった。重く骨に響くような重低音が、あたりに響きわたっている。
+Unlike the opposite side, it was awfully noisy here. A heavy, bone-rumbling low sound reverbrated through the corridor.
+//手前のドアからは、また違った異音が、聞こえてくるが‥‥。
+Once more, I definitely heard that strange sound from the nearby door...
+//　◆ 左へ曲がってみようか‥‥。
+◆ Let's turn left....
+//　◆ 手前左の方から、異音が聞こえてくるようだが‥‥。
+◆ Let's turn to the left and listen closely at the strange sound...
+//　◆ ＶＩＰルームに行ってみよう。
+◆ Let's go to the VIP room.
+//ＶＩＰルームとやらに、行ってみよう。
+Let's go over to the VIP room.
+//ファルネリアという女性に、会ってみたいな‥‥。
+I want to see Farnelia...

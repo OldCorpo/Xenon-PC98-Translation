@@ -1,0 +1,396 @@
+//s0301b
+
+//現状把握の為にも、もう少し１人で調べてみよう。
+To get a better grip on my situation, I should investigate here alone.
+//まずは、手近なところから、かな‥‥。
+First, maybe I should explore the areas close to me....
+//いつの間にか足音は消えていたが、あまり気にはならない。手近なドアを開けると、その中へと入っていった‥‥。
+At some point, the footsteps had disappeared, but I didn't really care. I opened the door next to me, and entered the room....
+//ふと、目の前の装置を見てみると、なにやらランプが点滅している。オレはそれに若干の興味を抱いた。
+Suddenly, as I looked at the equipment before me, I saw a blinking lamp. I felt a little curious about it.
+//もっとよく調べてみよう。
+I'll examine it more closely.
+//何か気になる‥‥大きな球面状のガラスに覆われたカプセル状の機械は、その中にまで興味を抱かせた。
+I wonder...The contents of the capsule-shaped apparatus concealed by a large spherical glass intrigued me.
+//警告音が頭に響きわたる‥‥少し吐き気をもよおしてきた。
+The alarm reverbrated through my head...I felt a little nauseous.
+//［女の声］：その装置に触ってはいけません。
+[Woman's voice]: Please don't touch that equipment.
+//［私］：えっ‥‥？
+[Me]: Eh-...?
+//［私］：き、君は‥‥？
+[Me]: W-who are you...?
+//［女］：コウジ様、いつの間にお目覚めになったのですか？
+[Woman]: KOUJI-sama, when did you awaken?
+//［私］：コウジ？
+[Me]: KOUJI?
+//［女］：どうしましょう‥‥ジェネレータのせいなのかしら？
+[Woman]: What to do...was it the generator's fault?
+//［私］：いったい‥‥いったい何を言っているんだ？
+[Me]: Just...just what on earth are you talking about?
+//［私］：あれ‥‥？　電気が消えたのかな‥‥。
+[Me]: Huh...? The electricity's been cut...
+//［女］：コウジ様、お気を確かに。
+[Woman]: KOUJI-sama, please be cautious.
+//地面が唐突に自分の方へ、せり上がってくるような感覚に見舞われた。
+I was suddenly struck with the feeling that the ground was gradually rising towards me.
+//ドサッという音を聞いて、オレは自分が倒れたことを知った。
+As I heard a thud, I realized I had fallen down.
+//ヒンヤリとした硬い感触を頬に感じながら、オレは自分の身に降り懸かった災厄を、克明に思い出していた‥‥。<$05>
+As I felt something cold and hard against my cheek, I remembered my calamitous fall in great detail....
+//そう考えると、ドアの方へと後戻りしはじめた。
+As I thought that, I started turning back towards the door.
+//［私］：コウジ‥‥さま？
+[Me]: KOUJI...sama?
+//ドサッという音を聞いて、オレは自分が倒れたことを知る。床の冷たさが、心地よかった‥‥。
+As I heard a thud, I realize I had fallen down. The cool feeling of the ground was quite pleasant...
+//ヒンヤリとした硬い感触を頬に感じながら、オレは自分の身に降り懸かった災厄を、克明に思い出していた‥‥。
+As I felt something cold and hard against my cheek, I remembered my calamitous fall in great detail....
+//［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していて‥‥。
+[Kouji]: Eh-? Uhhh...somehow, I remembered a dream I had today...
+//［涼子］：ふむ、じゃあその夢の内容というのを聞かせて頂戴。
+[Ryouko]: Hmm, then, please tell me about the contents of your dream.
+//［宏治］：どうも、妙なんだ、これが。
+[Kouji]: It all feels so bizarre.
+//［涼子］：どう、妙なのかしら。
+[Ryouko]: How is it bizarre?
+//［宏治］：夜な夜な、美女に囲まれる夢、と言ったら変かな‥‥。
+[Kouji]: If I say that night after night, I'm surrounded by beautiful girls, that sounds pretty weird, doesn't it...
+//［宏治］：しかも声まで鮮明に聞こえてくる。結構綺麗な女の人が２人、僕のまわりにいて、何かいろいろとしてくれるという‥‥。
+[Kouji]: However, I could hear everything so clearly. Two splendidly beautiful women were around me, and I did all sorts of things...
+//［涼子］：宏治クン、それで君は夢精でもしたの？
+[Ryouko]: Kouji-kun, did you have a nocturnal emission from that?
+//［宏治］：バカにしないで下さいよ。毎日毎日、同じ夢を見るってのは、どう考えても‥‥。
+[Kouji]: Don't fool around. Every day, I have the same dream. How should I consider it...?
+//［涼子］：たまっているのね。
+[Ryouko]: You've been saving up, haven't you?
+//［宏治］：露骨に言わないで下さい。オレにだってガールフレンドくらい‥‥。
+[Kouji]: Please don't talk about it so frankly. I have a girlfriend, after all...
+//［涼子］：恵チャンでしょ？　この医療センターのスポンサー様のご令嬢ですものねぇ。
+[Ryouko]: Megumi-chan, right? The daughter of the esteemed sponsor of this clinical center.
+//［涼子］：もうちょっと、研究資金を下さるよう、言ってくれない？
+[Ryouko]: Hold on, can you talk to her about research funding?
+//［宏治］：何でオレの口からそんなこと言えるんです。脈絡の無いこと、言わんで下さいよ。
+[Kouji]: Why would I talk to her about that? Please don't change the subject to something so unrelated.
+//［涼子］：ま、いいわ。で、その夢よね。
+[Ryouko]: OK, fine. Then, tell me about that dream.
+//［宏治］：なんだか、投げ遣りだなぁ。
+[Kouji]: You're being a little careless, aren't you? 
+//［涼子］：性的な欲望の夢は、何か別の形をもって現れるというのが定説よね。
+[Ryouko]: It's been established that dreams about sexual desires may reveal other impressions held by the subject.
+//［宏治］：別の形？
+[Kouji]: Other impressions?
+//［涼子］：宏治クンみたいに、直接的なのは珍しいのよ。よっぽど‥‥。
+[Ryouko]: Kouji-kun, it's rare for you to be so direct. Really...
+//［宏治］：その先は言わなくていいです。
+[Kouji]: I think it's best not to talk about that.
+//［涼子］：じゃあ、今日こそ例のマシンで‥‥。
+[Ryouko]: Well, today, from my machine...
+//［宏治］：大丈夫なんでしょうね？　本当に‥‥。
+[Kouji]: Are you OK? Seriously...
+//［涼子］：大丈夫に決まっているじゃない。私は天才科学者よ。
+[Ryouko]: I'm sure I'm OK. I am a genius scientist, after all.
+//［涼子］：あら、疑いの目ね、それは。
+[Ryouko]: Ara, you doubt me, don't you?
+//［宏治］：涼子先生もまだ若いんだから、男友達の１人や２人作って楽しみなよ。不健全だぜ、こんな‥‥。
+[Kouji]: Because Ryouko-sensei is still young, having one or two boyfriends would be fun. It's not healthy to be like this...
+//［涼子］：暗い部屋で１人寂しく？
+[Ryouko]: Being in a dark room by myself?
+//［宏治］：そ、そこまでは言わないけど‥‥。
+[Kouji]: I-I didn't say that, but...
+//［涼子］：もうお肌の曲がり角は、とうに通りすぎてるわよ。最近、お化粧もあまりしなくなっちゃって‥‥。
+[Ryouko]: At every crossroads in my sex life, I've gone straight. Recently, I've even stopped putting on makeup...
+//［涼子］：あら、こんなこと、宏治クンに言うことじゃないわね。フフ‥‥。
+[Ryouko]: Ara, this isn't the kind of thing I should be talking to you about, Kouji-kun. Huhu....
+//［宏治］：暗い研究室に閉じこもって、いい歳した女性が‥‥。
+[Kouji]: Locked in a dark laboratory with a woman of suitable age...
+//［涼子］：歳のことは、言いっこ無し。これでも、ちょっとは気にしてるのよ。
+[Ryouko]: Let's not discuss my age. Even here, I'm still sensitive to it.
+//［涼子］：なんにしても、任せて頂戴。大丈夫だから。
+[Ryouko]: Whatever you want to talk about, just lay it on me. It'll be fine, after all.
+//［宏治］：そう言ってこのあいだなんか、雷が人間の精神に与える作用とかいって、僕を避雷針に縛り付けて‥‥。
+[Kouji]: While we were just talking, if I can compare a human's spirit to lightning, then I'm being fastened to a lightning rod...
+//［涼子］：でも、無事だったじゃない。
+[Ryouko]: But, you're fine, aren't you?
+//［宏治］：それはオレが、何とか縄をほどいて逃げたからだ！　はぁ、はぁ‥‥。
+[Kouji]: But I want to untie myself from whatever string is binding me and escape! Haa, haa...
+//［涼子］：そんなにコメカミに青筋立ててプルプルしていると、ノーイッケツといってね‥‥。
+[Ryouko]: For that vein in your temple to be so visibly inflamed, you must be incredibly pent up...
+//［涼子］：ほらほら、そんな顔しないの。男前が台無しよ。
+[Ryouko]: Now, now, what's with that face? You're ruining your handsome looks.
+//［宏治］：‥‥どうしても、やらなきゃダメなの？
+[Kouji]: ...No matter what, I can't avoid it?
+//［涼子］：ええ、どうしても、やらなきゃダメなの。
+[Ryouko]: Yes, no matter what, you can't avoid it.
+//［涼子］：ね？　ほら、決意が変わらないうちに、あそこへ‥‥。
+[Ryouko]: See? Now, I won't change my resolution towards _that_...
+//［宏治］：やっぱり止めます。たかだか夢にうなされたくらいで、命の危険を冒す理由はないよな。
+[Kouji]: We really should stop. Since I've only been crying out over a nightmare, it's not worth risking my life over it.
+//［涼子］：ちょっとぉ、それ、私に対する嫌味？
+[Ryouko]: Hold it, was that snide remark directed at me?
+//［宏治］：それ以外に聞こえましたか？
+[Kouji]: Is there anyone else who would have heard it?
+//［涼子］：あなたね、仮にも元担当医に対する態度じゃないわよ。
+[Ryouko]: You really shouldn't be so aggressive, even temporarily, to your attending physician.
+//［宏治］：ええ、ここに入院したおかげで、あやうく死にそうになりましたからね。
+[Kouji]: Yes, because I entered this facility, I almost died.
+//［涼子］：大げさねぇ、ちょっと実験体になってもらった程度じゃない。
+[Ryouko]: You're exaggerating; the risk was only that of being an experimental subject.
+//［宏治］：そのおかげで、人が死ぬ思いを‥‥。
+[Kouji]: Because of that, the thought of people dying didn't even...
+//［涼子］：だって、宏治クンって頼みやすいんだもの。
+[Ryouko]: But, Kouji-kun, you so easily trust me.
+//［宏治］：あれが人にモノを頼むやり方か！
+[Kouji]: Is that the way you treat people who leave themselves in your hands?!
+//［宏治］：そ、そんな顔したって、ダメです。
+[Kouji]: T-that face you've made won't help.
+//［涼子］：ねぇ、宏治クぅン‥‥。
+[Ryouko]: Hey, Kouji-kuuun...
+//［宏治］：（ドキッ。）
+[Kouji]: (*Ba-dump.*)
+//［涼子］：ねぇ、お願いよ‥‥精神医学の発展のためなのよ。
+[Ryouko]: Please...for the sake of advancing neurological medicine.
+//［宏治］：あの、ドリームプログラムマシンとやらがですか？
+[Kouji]: That, uh, Dream Program Machine or whatever it's called?
+//［涼子］：そうなの‥‥ねぇ、お・ね・が・い。
+[Ryouko]: Yes, that's the one...hey, P.L.E.A.S.E.
+//［宏治］：そ、そんな顔して頼んだって‥‥うわっ、耳に息を吹きかけないでよ。オレは自分の命の方が、大切なの。
+[Kouji]: I-if you ask me with that expression...uwaa, please don't breathe into my ear. My own life is more important.
+//［涼子］：自分の命の方が大切なの？
+[Ryouko]: Your own life is more important?
+//［涼子］：私より？
+[Ryouko]: More than me?
+//［宏治］：だっ‥‥そんな鼻にかけたような声を出しても、ダメ！
+[Kouji]: Th-...that sound you just made as though you're interested, is not OK!
+//［涼子］：もう、そういう聞き分けの無い子は‥‥。
+[Ryouko]: Come on, you're not so oblivious....
+//［宏治］：えっ？　今、プチって‥‥。
+[Kouji]: Eh-? Just now, that click....
+//［涼子］：さぁ、おねむの時間よぉ。
+[Ryouko]: Now, it's time to go to sleep.
+//［宏治］：そ、その手に持ってる注射器は、いいいい‥‥。
+[Kouji]: Th-that syringe you're holding, wh-wh-wh...
+//［涼子］：さすが、即効性の名はダテじゃないわ。よく効くわねぇ、これ。
+[Ryouko]: Just as expected, "immediately effective" wasn't just for show. This will work well.
+//［宏治］：りょりょりょりょ‥‥‥‥‥。
+[Kouji]: Ryo-ryo-ryo-....
+//［涼子］：ほら、お・や・す・み‥‥‥‥チュッ。
+[Ryouko]: Now, now, it's time. to. sleep....*kiss*
+//［宏治］：りょ、涼子‥‥せんせ‥‥‥‥。<$05>
+[Kouji]: Ry-Ryouko...sensei....
+//［宏治］：‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
+[Kouji]: ............
+//［宏治］：（重々しい音が聞こえてくる‥‥‥‥。）
+[Kouji]: (I hear a heavy sound....)
+//［宏治］：（オレはいったい、どうしちまったんだ‥‥。）
+[Kouji]: (What on earth is happening to me...?)
+//［宏治］：（そうか、オレ、涼子先生に妙な機械のところに運ばれて‥‥。）
+[Kouji]: (That's right, I was carried by Ryouko-sensei to a place with a strange machine...)
+//［宏治］：ま、まさか‥‥！？
+[Kouji]: It-it can't be...?!
+//［涼子］：そのまさかよ。さぁ宏治クン、お目覚めの時間。
+[Ryouko]: Oh, but it is. Now, Kouji-kun, it's time to wake up.
+//［宏治］：りょ、涼子先生‥‥これはいったい‥‥。
+[Kouji]: Ry-Ryouko-sensei...what on earth is this....
+//［涼子］：おーっほっほっほ！
+[Ryouko]: O~hohoho!
+//［宏治］：涼子先生、さっきとキャラクタが違うぜ。
+[Kouji]: Ryouko-sensei, you're acting very different from before.
+//［涼子］：ごめんねぇ、身動きできないように、椅子に縛らせてもらったわ。
+[Ryouko]: Sorry, I tied you to a chair so you couldn't move your body.
+//［宏治］：こんな妙なヘルメットを被せて‥‥お、オレをどうするつもりだ。
+[Kouji]: You put this weird helmet on me...wh-what do you plan to do to me?
+//［涼子］：なによそれ、まるで私は悪代官みたいじゃない。
+[Ryouko]: What's with that reaction? You're treating me like I'm some corrupt magistrate.
+//［宏治］：似たようなもんだろ！
+[Kouji]: You're acting exactly like one!
+//［涼子］：ゴメンねぇ、気さくに頼めるのって、宏治クンくらいしかいないんだもの。
+[Ryouko]: Sorry, it seems like relying on someone so amiably isn't very like Kouji-kun, is it?
+//［宏治］：これが人にモノを頼むやり方か！？
+[Kouji]: Is this the way you treat people who rely on you?!
+//［涼子］：大丈夫よ、舞も喜んで承諾してくれたわ。
+[Ryouko]: It's OK. Mai also happily accepted, after all.
+//［宏治］：ま、舞‥‥さん？
+[Kouji]: M-Mai...san?
+//［涼子］：ほら、あなたのすぐ斜め前にいるわ。
+[Ryouko]: There, she's diagonally across from you.
+//［涼子］：ね？　だから大丈夫よ。
+[Ryouko]: See? It'll be fine.
+//［宏治］：舞さん‥‥舞さん！
+[Kouji]: Mai-san...Mai-san!
+//［宏治］：起きないじゃないか。
+[Kouji]: She's not awake, is she?
+//［涼子］：それはそうよ。だって起きたら、暴れるんだもの。
+[Ryouko]: That's right. Because if she were awake, she'd probably struggle violently.
+//［涼子］：じゃあ、そろそろいくわよぉ。
+[Ryouko]: Now, it's about time to go.
+//［宏治］：ちょ、ちょっと‥‥まだ、心の準備が。
+[Kouji]: H-hold it...I still haven't mentally prepared myself.
+//［涼子］：だーいじょうぶ大丈夫。失敗しても、脳のシナプスが２～３万本、焼き切れる程度だから。
+[Ryouko]: It's fiiine, it's OK. Even if we fail, we'll fry about 20-30 thousand of your brain's synapses.
+//［宏治］：なっ、ちょっ、だっ‥‥！？
+[Kouji]: Wha-Hol-Bu-...?!
+//［涼子］：舞は心配ないわ、彼女はあくまで触媒。大切な妹を、危ない目に遭わせる訳がないでしょう？
+[Ryouko]: Don't worry about Mai; she's merely a catalyst. I wouldn't put my dear sister in such grave danger, would I?
+//［宏治］：あ、あのね‥‥。
+[Kouji]: Th-the thing is....
+//［涼子］：さぁ、それじゃあ‥‥。
+[Ryouko]: Now, let's....
+//［宏治］：オレはまだ死にたくない！　まだまだ、やりたいことが沢山あったんだ！！
+[Kouji]: I DON'T WANT TO DIE YET! I STILL HAVE SO MANY THINGS I WANT TO DO!!
+//［涼子］：大げさねぇ、じゃいくわよ！
+[Ryouko]: Don't shout so loudly, now here we go!
+//［宏治］：末代まで呪ってやるからなーーーーーっっ！！！<$05>
+[Kouji]: CURSE YOU FOR GENERATIONS TO COME---!!
+//そうだ、はっきりと思い出してきた‥‥。
+That's it, I remembered it clearly...
+//オレは、あの涼子先生の奸計にはまり、脳のシナプスを２～３万本焼ききって‥‥。
+I was embroiled in that Ryouko-sensei's nefarious scheme, and 20-30 thousand of my brain's synapses were fried...
+//いやいや、そんなことはどうでもいい。
+No, no, that kind of thing is unimportant.
+//問題はだ、この寝心地が良くて、フワリとした肌触りの良いシーツとベッドが、とても心地よいということだ。
+The problem here is, this sleeping comfort is nice, and the soft feeling of the bed and sheets is really quite relaxing.
+//なんだ、何も問題は無いじゃないか。
+What the heck, there's no problem at all, is there.
+//コウジ様‥‥‥‥コウジ‥‥‥‥‥‥。
+KOUJI-sama....KOUJI.......
+//何だ‥‥‥‥。
+What is it...
+//綺麗な透き通った声が２つ、オレを呼んでいるようだった‥‥。
+Two lovely, clear voices seemed to call out to me....
+//オレはゆっくりと、固く閉じていた目を開けてみた‥‥。
+I slowly and gently opened my tightly shut eyelids....
+//［右の女］：ああン、コウジ様、コウジ様ぁ～。
+[Woman on the right]: Ahhhn, KOUJI-sama, KOUJI-samaa~.
+//［左の女］：良かった‥‥コウジ様‥‥。
+[Woman on the left]: Thank goodness...KOUJI-sama....
+//［左の女］：ご気分はいかがです？
+[Woman on the left]: Are you feeling well?
+//［右の女］：よかったですぅ、コウジ様が生きてらして‥‥。
+[Woman on the right]: What good news, KOUJI-sama seems to be alive....
+//［左の女］：ご気分が、すぐれないのですか？
+[Woman on the left]: Could it be, you're not feeling well?
+//［右の女］：ハイ！　ランファが何でも聞いちゃいますぅ。
+[Woman on the right]: Yes! Ranphar heard everything.
+//［宏治］：しゃ、しゃべっていい？
+[Kouji]: Well, is it ok to talk?
+//［左の女］：もちろんですわ。
+[Woman on the left]: Of course it is.
+//［宏治］：‥‥さっきから、オレのことを宏治、宏治って呼んでるけど、オレは君たちのこと、何も知らないんだけど‥‥。
+[Kouji]: ...Just earlier, you were calling me "Kouji, Kouji", but I don't know anything about you two...
+//［右の女］：えぇっ！　ランファの事を、お忘れになったんですかぁ！？
+[Woman on the right]: Ehhh-! Did you forget about Ranphar?!
+//［左の女］：私の‥‥私の事もお忘れですか？
+[Woman on the left]: D-did you forget about me too?
+//［宏治］：‥‥誰だっけ？
+[Kouji]: ...Who are you again?
+//［左の女］：トレイシーです。私はコウジ様の最も大切な‥‥‥‥ポッ。
+[Woman on the left]: I'm TRACY. I'm KOUJI-sama's most important...*blush*.
+//［右の女］：ランファだって、ランファだってコウジ様の、大切で掛け替えのない女性なんだからぁ。
+[Woman on the right]: RANPHAR too, RANPHAR is KOUJI-sama's important, irreplaceable woman.
+//［トレイシー］：ランファ、それは言い過ぎです。私が１番の‥‥。
+[TRACY]: RANPHAR, that's talking yourself up too much. I'm his number one....
+//［ランファ］：ランファだモン。
+[RANPHAR]: No, it's RANPHAR.
+//［宏治］：あ、あのさ‥‥。
+[Kouji]: U-ummm....
+//［トレイシー・ランファ］：はい、なんでしょう？
+[TRACY and RANPHAR]: Yes, what is it?
+//［宏治］：と、とりあえず、状況が見えないから説明が欲しい。
+[Kouji]: I-In any case, I can't comprehend the situation right now, so please explain it to me.
+//［トレイシー］：では私が。
+[TRACY]: Then, I'll do it.
+//［ランファ］：ううん、ランファが！
+[RANPHAR]: Mm-mm, RANPHAR will!
+//［宏治］：んー‥‥‥‥。
+[Kouji]: Hmmm....
+//　◆ トレイシー、説明してくれ。
+◆ Tracy, explain.
+//　◆ ランファ、君が説明するんだ。
+◆ Ranphar, you explain.
+//［宏治］：トレイシー、説明してくれ。
+[Kouji]: Tracy, explain.
+//［トレイシー］：はい、わかりました。
+[TRACY]: Yes, understood.
+//［ランファ］：えぇ～っ。
+[RANPHAR]: Ehh~-?
+//［トレイシー］：ランファ、エンジンのチェックや機器類のテストなど、あなたにはまだやる事が沢山あるでしょう？
+[TRACY]: Ranphar, you still have quite a few engine checks and equipment tests to conduct, don't you?
+//［ランファ］：はーい。じゃあ何かあったら、呼んで下さい。
+[RANPHAR]: Yeees. Well, then, if anything happens, please call me.
+//［トレイシー］：さっ、ほら。
+[TRACY]: Now, go.
+//［ランファ］：コウジ様、何かあったら、呼んで下さいね。
+[RANPHAR]: KOUJI-sama, if anything happens, please call me, OK?
+//［宏治］：あ、ああ‥‥わかった。
+[Kouji]: Ah, uhhh...I got it.
+//［ランファ］：フンフン‥‥。
+[RANPHAR]: Huhu...
+//［トレイシー］：困った子ね‥‥まったく。
+[TRACY]: What a troublesome child...truly.
+//［トレイシー］：コウジ様、ご気分はいかがですか？
+[TRACY]: KOUJI-sama, how do you feel?
+//［宏治］：あ、ああ‥‥その、悪くないけど、その様って、やめてくれない？
+[Kouji]: Ah, uhhh...I feel well, but could you drop the "-sama" when you call my name?
+//［トレイシー］：そんな‥‥恐れ多いこと、できませんわ。
+[TRACY]: I couldn't do that, it'd be so...discourteous.
+//［宏治］：まぁいい。とにかく、そんなとこにいつまでも突っ立ってないで、とりあえずここに座ってよ。
+[Kouji]: Well, fine. Anyway, don't keep stand straight over there, come and sit down.
+//［トレイシー］：‥‥‥‥‥‥。
+[TRACY]: ........
+//［トレイシー］：あの‥‥。
+[TRACY]: Umm.....
+//［トレイシー］：その、足下に、何か付いているのですか？
+[TRACY]: What's that you're keeping, under your foot?
+//［宏治］：えっ？　い、いやその、何でもない。
+[Kouji]: Eh-? Oh, th-that's nothing.
+//［トレイシー］：ウフフ‥‥。
+[TRACY]: Uhuhu....
+//［宏治］：じゃあ、とりあえず話を聞きたいんだけど。
+[Kouji]: Well, in any case, I want to ask you something.
+//［トレイシー］：はい、何をお話しましょうか。
+[TRACY]: Yes, what did you want to discuss?
+//［宏治］：そうだな‥‥。
+[Kouji]: That's right...
+//s0301a
+
+//［宏治］：ランファ、君が説明するんだ。
+[Kouji]: Ranphar, you explain.
+//［ランファ］：はい、わかりました！
+[RANPHAR]: Yes, understood!
+//［トレイシー］：コウジ様、そういうことは私が‥‥。
+[TRACY]: KOUJI-sama, in that case, what should I...
+//［ランファ］：トレイシー、あなた、まだエンコーダの計測結果をまとめていないでしょっ！
+[RANPHAR]: Tracy, you still haven't summarized the measurement results of the encoder, have you?!
+//［トレイシー］：あっ、そういえば‥‥。
+[TRACY]: Ah-, now that you mention it...
+//［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
+[RANPHAR]: Huhum~, KOUJI-sama will be mad if you don't finish.
+//［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
+[TRACY]: Ahhhh, wh-what should I do....
+//［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。
+[Kouji]: Y-you know...if you're busy, I don't mind.
+//［ランファ］：ランファが面倒見てあげますねっ。
+[RANPHAR]: See, I look after you, don't I?
+//［トレイシー］：しょうがないわ‥‥じゃあコウジ様、お仕事を終えたら、すぐに参ります。
+[TRACY]: I guess there's no way around it...Well, KOUJI-sama, I'll return as soon as I'm done.
+//［ランファ］：ほらっ、行った行った！
+[RANPHAR]: Now, go, go!
+//［トレイシー］：んもう‥‥。
+[TRACY]: Mm, cut it out....
+//［ランファ］：困るわよねっ、自分の仕事そっちのけで‥‥プンプン。
+[RANPHAR]: How bothersome your own work must be...hehe.
+//［ランファ］：あっ、コウジ様ぁ、気分はどうですか？
+[RANPHAR]: Ah-, KOUJI-sama, how do you feel?
+//［ランファ］：そんなぁ、できませんっ。
+[RANPHAR]: Come on, I can't do that.
+//［宏治］：ふぅ‥‥まぁいい。とにかく、身体を起こしてくれない？
+[Kouji]: Huu...well, fine. In any case, could you please get up?
+//［ランファ］：はーい、わかりましたっ。
+[RANPHAR]: Ye~s, I understand.
+//［ランファ］：ウフッ、コウジ様っ。
+[RANPHAR]: Oof, KOUJI-sama.
+//［宏治］：んー、じゃあ、とりあえず話を聞きたいんだけど。
+[Kouji]: Mm-, well, anyway, I have something to ask you. 
+//［ランファ］：はい、何を話したらいいんでしょうか。
+[RANPHAR]: Yes, ask away.

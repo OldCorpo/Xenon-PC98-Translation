@@ -1,0 +1,602 @@
+//s0110
+
+//［コウジ］：（何だ‥‥‥‥。）
+[KOUJI]: (What happened....)
+//何かの音で、現実に引き戻される。自動ドアの音だろうか‥‥。
+With some kind of sound, I came back to reality. It was the sound of the automatic door....
+//［コウジ］：（誰か、いたのか‥‥‥‥？）
+[KOUJI]: (Who's there...?)
+//今し方、自動ドアから去っていく女性の残像が、まだ目に焼き付いていた。あれは確か‥‥。
+This time, the afterimage of the woman who went through the door was still burned into my eyes. It was definitely...
+//［コウジ］：（ランファ‥‥？）
+[KOUJI]: (Lanhua...?)
+//傍らの時計を見てみる。まだあれから、数分しか経過していないようだった。
+I looked at the clock nearby. It looks like it's only been a few minutes since that time.
+//［コウジ］：（あれから‥‥？　あれからって、何のことだ。）
+[KOUJI]: (Since that time...? What am I talking about.)
+//つと、身体を起こして、静かな室内を見回してみる‥‥。
+Then, I got up and silently looked around the room....
+//　◆ 外に出てみよう‥‥。
+◆ Let's go outside....
+//　◆ 室内にいた方が、いいかもしれない‥‥。
+◆ It might be better to stay inside....
+//外に出てみよう‥‥。
+Let's go outside....
+//そう考えると、私はそばにある衣服を着用し、自動ドアの前に立つ。
+With that in mind, I changed into the clothes next to me, and stood in front of the automatic door.
+//［コウジ］：（ロックが解除されてる‥‥。）
+[KOUJI]: (The lock is open....)
+//やはり、今までここに彼女がいたのだろうか‥‥‥‥。
+Up until now, has she really has been here...?
+//そんな疑問を抱きつつ、私は自室を出ていった‥‥。
+As I held onto that doubt, I left my room....
+//室内にいた方が、いいかもしれない‥‥。
+It might be better to stay inside....
+//例え誰が室内にいたとしても、どうせ私は監禁状態を継続せざるをえないだろう‥‥。
+Even if someone were in the room, they couldn't keep me confined here forever....
+//再び、ベッドの上にゴロリと横になろうとしたとき‥‥‥‥。
+As I rolled into the bed again....
+//部屋のはしに、ランファがじっと立っていた‥‥。
+At the edge of the room, Lanhua was silently standing....
+//どうやら先程の音は、出ていった時のそれではなく、彼女が入ってきた音だったらしかった。
+The sound from earlier seemed not to be from someone leaving the room, but from her entering.
+//廊下は静かだった‥‥あたりには誰の姿も見えない‥‥。
+The corridor was quiet...I couldn't see anyone around...
+//［コウジ］：あっ‥‥。
+[KOUJI]: Ah-....
+//３つほど隣のドアに、吸い込まれるように入っていった人影がある。大きなレモンイエローのリボンに、ワインレッドの特徴的な衣服‥‥ランファだ。
+From three doors down, I saw the figure of someone seemingly being sucked in. A large yellow ribbon,\na characteristic wine red piece of clothing...It was Lanhua.
+//私は躊躇なく、彼女を追ってその部屋へ入っていった‥‥。
+Without hesitation, I followed her into that room....
+//［コウジ］：（おかしいな、確かこの部屋に‥‥‥‥。）
+[KOUJI]: (That's odd, this room is definitely...)
+//［コウジ］：ランファ‥‥‥‥。
+[KOUJI]: Lanhua...
+//暗がりにたたずむ彼女を見たとき、少しだけなつかしさを感じた。それが何故かはわからない‥‥。
+As I looked at her standing figure from the shadows, I felt a little bit of nostalgia. Why I felt that, I don't know.
+//［コウジ］：部屋から出ていったの、やはり君か‥‥？
+[KOUJI]: The one who left the room, was you this whole time?
+//［ランファ］：ええ‥‥。
+[LANHUA]: Yeah....
+//［コウジ］：ランファを見たとき、なつかしさのようなものを感じた。何故なんだ‥‥？
+[KOUJI]: When I saw you, I felt something like nostalgia. Why is that...?
+//［コウジ］：自分の、失われた記憶のせいなのか‥‥。
+[KOUJI]: It must be because of my lost memories....
+//［ランファ］：そんな、悲しそうな顔をしないで‥‥。
+[LANHUA]: Please, don't make that sad face....
+//［ランファ］：コウジさんが悲しそうな顔をするの、耐えられない‥‥。
+[LANHUA]: when Kouji-san makes that sad face, I can't bear it.
+//［コウジ］：君には、嫌われているのかと思っていたよ。
+[KOUJI]: You must really hate it.
+//［ランファ］：そんなこと‥‥。
+[LANHUA]: That's....
+//ランファは首を横に振って否定した。
+Lanhua shook her head "no".
+//［ランファ］：コウジさんを、慰めてあげることができたら‥‥。
+[LANHUA]: Kouji-san, if I could comfort you...
+//［コウジ］：ら、ランファ‥‥？
+[KOUJI]: La-Lanhua...?
+//xenon_22
+
+//［コウジ］：君か‥‥さっき部屋に入ってきたの。
+[KOUJI]: Back then...it was you who entered the room.
+//ランファは唇をそっと、私のそれに押しつけてきた。柔らかく暖かい感触に、少し気持ちが落ちつく気がした‥‥。
+Lanhua gently placed her lips on mine. The soft, warm touch slightly calmed me down...
+//遠慮がちに蠢く彼女の舌が、私の口腔に差し込まれてくる。幼い顔をしているが、することは大胆だった。
+She unreservedly put her wriggling tongue in my mouth. She looked innocent, but was doing something quite bold.
+//私は彼女を抱き抱えると、そっとベッドに横たえた‥‥。
+I hugged her close, and gently laid down on the bed...
+//ra02
+
+//［ランファ］：コウジさん‥‥優しいのですね‥‥。
+[LANHUA]: Kouji-san...You're quite kind...
+//［コウジ］：優しい女性には、優しさを返したくなるもんだよ。
+[KOUJI]: Well, I want to return the kindness of a kind woman.
+//大きくあいた横のスリットから、小ぶりのヒップにそっと手をあててみる。吸い付くような肌触りを確かめてから、軽くつかんでみた。
+Through the large open slit on the side, I placed my hand on her small hip. After confirming with my sucker-like touch, I gently gripped her.
+//［ランファ］：あっ‥‥コウジ‥‥さん‥‥。
+[LANHUA]: Ah--Kouji...san...
+//同時に、やや小さめの胸をそっと掌で包むと、一瞬ランファの身体がビクッと痙攣した。乳首のコリっとした硬さが、布越しに伝わってくる。
+At the same time, I grabbed her small breast, and at once, Lanhua's body shook. Her stiff nipples showed through her clothing.
+//私は、ゆっくりと手のひらを回転させ始めた。硬い突起の上を通過するたびに、ランファが低い嗚咽を洩らす‥‥。
+I slowly rubbed my palm in circles. As I passed over her hard, protruding bits, Lanhua let out a small cry.
+//［ランファ］：あぁ‥‥コウジさん、感じる‥‥あぅぅっ‥‥。
+[LANHUA]: Ahh...Kouji-san, I feel it...Auu...
+//［コウジ］：ランファ‥‥‥。
+[KOUJI]: Lanhua....
+//もう一方の手で、小ぶりのヒップをゆっくりとさすり始める。次第に後部の割れ目に指を這わせると、ランファは少し身体を固くする。
+With my other hand, I started slowly rubbing her hip. As my fingers slowly crawled to her slit below, Lanhua's body stiffened slightly.
+//［コウジ］：身体の力を抜いて‥‥‥‥。
+[KOUJI]: Just relax...
+//［ランファ］：はい、コウジさん‥‥。
+[LANHUA]: OK, Kouji-san...
+//固く閉じていた足の力を抜くと、ランファは私のされるがままになった。
+As she relaxed her tightly closed legs, Lanhua accepted what I was doing.
+//背中の方から、指先を割れ目にそってなぞっていく。少し盛り上がった部分に達すると、ランファは一際大きな声を出した。
+My fingertips traced along her slit from front to back. As I reached her slightly protruding bit, Lanhua shouted out loud.
+//［ランファ］：あぅ！　そ、そこは‥‥。
+[LANHUA]: Ah!! Th-that's my...
+//たっぷりと指の腹で、その部分をなぶる。ランファの息づかいはかなり荒くなってきていた。私は、胸の方も優しく愛撫していく‥‥。
+I stroked that part of her plenty with my fingers. Lanhua's breathing became quite ragged. I caressed her chest as well...
+//［ランファ］：あぁぁ、こんな‥‥こんなことって‥‥。
+[LANHUA]: Ahhh, this...this feeling....
+//［ランファ］：イイの‥‥凄く、イイの‥‥‥‥。
+[LANHUA]: It's good...too good...
+//ランファは左人差し指を口元に当てて、ぐっと噛んでいた。内から突き上げる衝動に、じっと耐えているようだ‥‥。
+Lanhua put her left index finger in her mouth and bit down tightly. It seemed she was enduring the sudden urge from within to push upward.
+//私は割れ目に這わせてある指先を、さらに前進させていった。しっとりと湿った部分に到達すると、ランファは身体を硬直させて、
+I took the fingertip that had crawled into her slit and moved further forward. As I reached her slippery, wet parts, Lanhua's body went rigid.
+//［ランファ］：あっ！　ダメ！！
+[LANHUA]: Ah-! Don't!!
+//と言って、足を閉じようとする。私はランファをじっと見つめた‥‥。
+As she said that, she closed her legs. As I stared at Lanhua...
+//［ランファ］：服を‥‥‥‥。
+[LANHUA]: Take....
+//［ランファ］：服を脱がせて、下さい‥‥。
+[LANHUA]: Take off my clothes, please...
+//私はゆっくりと、彼女の衣服を脱がしていく。ボタンやファスナのようなものは付いておらず、ランファが手を添えただけで、それはするりと彼女から離れていった。
+I slowly took her clothes off. As I unattached the buttons and fasteners, with only Lanhua's hands holding them together, they slipped away from her.
+//ra02b
+
+//抱きしめると折れてしまいそうな、きゃしゃな身体だったが、要所の肉付きは悪くなかった。
+Though they seemed on the verge of breaking when I held her, her delicate body's key parts were quite plump.
+//［ランファ］：お願い‥‥コウジさんも‥‥その‥‥。
+[LANHUA]: Please...Kouji-san, you too...
+//脱いで下さい、とうつむきながら、申し訳なさそうにランファはつけ加えた。
+As she looked down in a pleading manner, she added, "please take off your clothes".
+//私も身につけている衣服を脱ぐと、ランファの身体をそっと抱きしめてみた。
+I took off my clothing and gently hugged Lanhua's body.
+//比較的細身の身体は柔らかく、滑らかだった。肌と肌を密着させると、彼女の胸の鼓動は私のところまで伝わってくる。
+Her relatively thin body was soft and smooth. As our skins stuck together, her heartbeat was transmitted to my heart.
+//太股の内側をなぞっていき、両脚の間にある布地まで到達する。さきほどよりも、湿り具合が激しかった。
+As I traced the inside of her thigh, I reached the fabric between her legs. It seemed quite a bit wetter than before.
+//［ランファ］：やさしく‥‥して下さい‥‥。
+[LANHUA]: Please...do it gently...
+//布地の隙間から、そっと中指を差し込んでみる。なま暖かい液で満たされた花弁は、私の指をきつく締め付けてきた。
+In the gap between the fabric and her skin, I gently inserted my middle finger. Her bare petals, saturated with warm fluid, tightened around my finger.
+//［ランファ］：あはぁぁ‥‥コウジさん、優しく‥‥して‥‥あぅっ！
+[LANHUA]: Ahaaa...Kouji-san, gentler...Ow-!
+//私は指をそこにあてがったまま、彼女の顔にキスをし始めた。
+As I kept my finger there, I started kissing her face.
+//柔らかい頬、薄い眉、そして小刻みに痙攣しているまぶたと、私は順に唇を当てていく。
+Her soft cheeks, thin eyebrows, and slightly twitching eyelids--I kissed them all in turn.
+//ランファの紅く、ほんのりと湿った唇に口づけをすると、彼女は両腕を私の首に回して情熱的に抱きついてきた。
+As I kissed Lanhua's red, slightly wet lips, she passionately wrapped her arms around my head.
+//［ランファ］：ん‥‥コウジさん‥‥ん、んんん‥‥‥‥。
+[Lanhua]: Mm...Kouji-san...Mm,mmmmmm......
+//口腔に差し込まれる彼女の舌は、情熱的に動きまわり、私の舌を巧みにからめとる。
+Her tongue, inserted into my mouth, was passionately moving around, and skillfully entangling with my tongue.
+//私はランファの舌を口腔でからめとる一方、左腕で彼女の腰を抱き寄せ、右手中指で彼女の花弁を弄ぶ。
+As Lanhua's tongue was entangled in my mouth, I wrapped my left arm around her waist, and rubbed her petals with my right middle finger.
+//ランファは口の端から涎をたらし、もうたまらない表情だった‥‥。
+Lanhua was drooling from the side of her mouth, like she couldn't take it anymore...
+//［ランファ］：コウジさん‥‥もう‥‥あはぁぁ‥‥もう、ランファ‥‥ダメ‥‥。
+[LANHUA]: Kouji-san...Please...Haaa...Please, I can't....
+//私は最後の下着を身体からはぎ取ると、彼女は生まれたままの姿になった‥‥。
+As I  removed her last panties from her body, she was in her birthday suit...
+//ra02c
+
+//［ランファ］：コウジさん‥‥あまり、見ないで‥‥恥ずかしいから‥‥。
+[LANHUA]: Kouji-san...Please don't stare...it's embarassing...
+//消え入りそうな声でランファが私に懇願する。だが、見るなと言う方が無理な話だ。
+In a shrinking voice, Lanhua implored me. But it was impossible not to look.
+//透き通るような肌だった‥‥。恥じらいを表情に浮かべるランファに、たまらない愛しさが募ってくる。
+Her skin was almost transparent... As the embarassment bubbled up to her face, Lanhua showed an irresistible cuteness.
+//これはまるで‥‥‥‥。
+This felt like...
+//［コウジ］：（な、何だ今のは‥‥‥‥。）
+[KOUJI]: (Wh-why now, of all times...)
+//以前、会ったことのある女性と、ランファがだぶって見えたが‥‥。
+Before, when we met, Lanhua looked quite afraid...
+//今までに起きた既視感覚の中では、とりわけ最大級の不安を私に与えた。
+All the way until now, deja vu carried with it the highest degree of discomfort.
+//［ランファ］：どうかされたんですか‥‥？
+[LANHUA]: What's wrong...?
+//小さな声で、ランファが私に声を掛けてきた。目は上目遣いで、心配そうに私を見つめている‥‥。
+In a small voice, Lanhua called out to me. As she looked up, her eyes were full of concern.
+//［コウジ］：いや‥‥気のせいだった。ゴメン‥‥。
+[KOUJI]: No...it's my fault. Sorry...
+//そっと股間に舌を近づける。近寄っただけで、ムッとする熱気が顔にあたった。私は濡れる花弁を、静かに舌でつつく‥‥。
+My tongue gently neared the area between her legs. Just from approaching, I felt humid, hot air. I calmly bobbed my tongue in her wet petals...
+//［ランファ］：あっ‥‥‥‥。
+[LANHUA]: Ah-......
+//［ランファ］：熱いの‥‥コウジさん‥‥ランファ、熱い！
+[LANHUA]: So hot...Kouji-san, I'm so hot!
+//蜜は花芯から止めどもなく溢れ、股間を、そして太股を濡らしていく‥‥私はそれを舌ですくい取り、嚥下していった。
+Nectar was overflowing without end from the middle of her flower, and it seeped between her legs onto her thighs...\nI lapped up a lot of it with my tongue and swallowed it.
+//［ランファ］：コウジさん‥‥もう‥‥お願いです、コウジさん‥‥。
+[LANHUA]: Kouji-san...I want it...please, Kouji-san....
+//［コウジ］：わかったよ、ランファ‥‥。
+[KOUJI]: I got it, Lanhua....
+//私はゆっくりと彼女の身体を抱き上げ、自分の腰の上にまたがらせる。ランファは静かに、腰を落としていった‥‥。
+I slowly lifted her body up, so it straddled my hips. Lanhua calmly lowered her hips...
+//ra04
+
+//［ランファ］：あぁぁぁぁぁ‥‥コウジさん‥‥コウジさんっ！！
+[LANHUA]: Ahhhhhh...Kouji-san...Kouji-san-!!
+//予想以上の滑らかさで、私のモノは呑み込まれていった。ランファは柔らかく私を包み込み、遠慮がちに腰を動かし始める。
+With more ease than I expected, my dick was swallowed up by her pussy. Lanhua softly wrapped around me, and slowly started moving her hips.
+//［ランファ］：んあぅぅ、コウジさん‥‥お願いです、もっともっと突き上げて！
+[LANHUA]: Nhaa, Kouji-san...please, fuck me harder!
+//暖かい感触が、下半身に広がってくる。ランファが腰をグラインドさせるたびに、吸い込まれるような感覚が私を襲う。
+A warm sensation enveloped my lower body. As Lanhua grinded her hips against mine, it felt like she was sucking me up.
+//［ランファ］：お願いです、コウジさん‥‥コウジさんも‥‥。
+[LANHUA]: Please, Kouji-san...You too....
+//遠慮がちに動いていた腰が、次第に速くなっていく。眉間にシワをよせて、一心不乱に腰を上下に動かすランファに合わせ、私も少し強すぎるくらい、腰を下から突き上げた。
+Her hips' slow, careful movements gradually quickened. Her eyebrows furrowed,\nand to meet Lanhua's unrelenting hip movements, I thrust upwards, perhaps a little too strongly.
+//［ランファ］：きゃぅっ！！　いいの‥‥いいのっ！！
+[LANHUA]: Kya-!! Yes...Yes-!!
+//［コウジ］：もっと、動いて！
+[KOUJI]: I'll move more!
+//［ランファ］：あン、もう‥‥もう‥‥あぅっ、あっ！　そんな‥‥んあぅぅっ！！
+[LANHUA]: Ahn, more...more...oh, ah-! That's...Mmohh!
+//ランファの小ぶりの乳房をそっと握ってみる。彼女は、その私の手に、自分の手を重ねてきた。
+I gently palmed Lanhua's small breasts. She, in turn, leaned foward onto my hands.
+//［ランファ］：もっと強く握って下さい‥‥あなたを、もっと感じたい‥‥。
+[LANHUA]: Rub me harder, please...I want to feel you more...
+//［ランファ］：強くして‥‥あなたの存在を、もっともっと、私に感じさせて下さいっ！
+[LANHUA]: Harder...I want to feel you more, more-!
+//［コウジ］：くっ‥‥‥‥
+[KOUJI]: Kh-...
+//［ランファ］：いっしょに‥‥一緒にイッて下さい！　今っっ！！
+[LANHUA]: Let's come...together! Now-!!
+//［コウジ］：ランファ！
+[KOUJI]: Lanhua!
+//頭がスパークする中で、私はランファの存在を強く感じていた‥‥‥‥。
+As a spark went off in my head, I felt Lanhua's presence strongly...
+//［コウジ］：な、なぁ、ランファ‥‥。
+[KOUJI]: H-hey, Lanhua....
+//おかしなものだが、彼女をより知ってしまった途端、以前ほど気さくに話しかけられなくなっていた。何故か、先程のことを強く意識してしまう。
+Strangely, before I could get to know her better, the earlier honest tone of the conversation had gone.\nFor some reason, I became quite conscious of our relations just now.
+//ランファの方は、別段今までと変わった感じはあまり無い。それがかえって、自分にとって面白くはなかった。
+My feelings towards Lanhua, however, hadn't changed at all. To the contrary, she wasn't very interesting to me.
+//［ランファ］：なんでしょうか？　コウジさん。
+[LANHUA]: What is it? Kouji-san.
+//［コウジ］：このあいだ、確か第２次調査隊シップの中で、夢を思い出せと言っただろう‥‥。
+[KOUJI]: All this time, you definitely told me to remember the dream I had about the second investigative team's ship...
+//［コウジ］：あれはいったい、どういう意味なんだ。
+[KOUJI]: What did you mean by that?
+//［ランファ］：コウジさんは最近、記憶がはっきりとしていないんじゃないですか？
+[LANHUA]: Kouji-san, haven't you had memory problems recently?
+//［コウジ］：えっ？　あぁ、確かに‥‥。
+[KOUJI]: Eh-? Ah, that's true...
+//［ランファ］：夢には色々なファクターが凝縮されています。何でもない夢に、実は重要な意味が隠されている事もあるんです。
+[LANHUA]: Many factors condense together in a dream.  A seemingly unimportant dream can hide important meanings.
+//［コウジ］：へぇ、涼子先生みたいなことを言うね。
+[KOUJI]: Huh, that sounds like something Ryouko-sensei would say.
+//言ってから気付いた。私が今使った固有名詞‥‥いったい誰のことだ？
+As I said it, I realized. The proper noun I used...just who did it refer to?
+//［ランファ］：目をつぶって、胸の前で手を組んで、そして‥‥。
+[LANHUA]: Close your eyes, clasp your hands in front of your chest, and....
+//［ランファ］：そしてじっと考えるんです。そうすると、無くしたものを取り戻すことができるかも知れません。
+[LANHUA]: ...and stay still as you think. If you do that, I think you'll find the things that are lost.
+//［コウジ］：目の前で手を組んで‥‥‥‥<$0C>あっ！
+[KOUJI]: Clasp my hands in front of me....Ah-!
+//私の胸ポケットには、無くしたはずのマイクロディスクが、差し込まれていた。
+In my chest pocket, the formerly missing micro disc was there again.
+//いったい、なぜ‥‥‥‥。
+Why on earth...
+//［コウジ］：ランファ、君が‥‥？
+[KOUJI]: Lanhua, did you...?
+//ゆっくりと、首を横に振るランファは、少し悲しそうな表情をしていた。この表情、どこかで‥‥。
+Lanhua slowly cocked her head to one side, showing me a slightly sorrowful expression. Where have I seen that expression....
+//［ランファ］：マイクロディスクの再生なら‥‥。
+[LANHUA]: ...Play back that micro disc...
+//［ランファ］：マイクロディスクの再生なら、そこのプレイヤーで可能です。
+[LANHUA]: That player could play back that micro disc.
+//ランファが指さす先には、ディスプレイに繋がっているＭＤの再生装置があった。
+Lanhua pointed in front of her at the micro disc playback device already plugged into the display.
+//［ランファ］：どうなさったのですか？
+[LANHUA]: Did something happen?
+//［コウジ］：い、いや‥‥見るよ。
+[KOUJI]: No...look.
+//この心のしこりはなんだろうか‥‥。私の無意識下では、盛んに警報が鳴っていた。
+What was this lump in my chest...before I realized it, an active alarm was ringing.
+//ＭＤを再生しては、いけない‥‥？
+Will I be unable to play back the micro disc, after all...?
+//トレイに乗ったＭＤが、再生装置に吸い込まれる時、私は居てもたってもいられない強迫観念に襲われてきた。
+As the playback machine swallowed the micro disc on the tray, I was gripped by the overwhelming feeling that I wouldn't be able to stay.
+//再生が始まった‥‥。
+The machine started playing back...
+//ディスプレイには、つばのある帽子を被った髭面の男が、何かを叫んでいる。風体からして、この男が船長なのだろう。
+On the display, a bearded man wearing a brimmed hat was shouting something. From his appearance, you could tell this man was the captain.
+//傍らにはビアンカもいて、何かに向かって叫んでいるようだ。音声はよく聞き取れない‥‥。
+Beside him, Bianca was also shouting towards something. I couldn't make out the sounds clearly....
+//［コウジ］：何をしているんだ‥‥彼らは？
+[KOUJI]: What are they doing?
+//妙な映像だった‥‥恐らく、部屋の片隅にセットされた記録装置が捉えた映像だろうが、問題はその内容だ。
+It was a strange scene...Perhaps this was taken from a recorder placed in the corner of the room, but the contents were more important.
+//船長らしき男と、ビアンカは、さかんに何か言い合っていた。だがしかし、彼らはお互いに言い合っていたのではない。
+The captain-like man and Bianca were actively yelling to something, but they didn't seem to be yelling to each other.
+//何もなく誰もいない空間に向かって、言葉を発しているようだった。辛うじて認識できるその言葉の内容を聞いて、私は愕然とした。
+Towards this space with no one and nothing there, words were being flung about. I could barely recognize the words being spoken, but I was stunned.
+//［コウジ］：私の、名前だ‥‥‥‥。
+[KOUJI]: Th-they're yelling my name...
+//心臓の動悸音が頭の中でけたたましく反響し、自分の息づかいが、やけにうるさく感じる。じわりと眉から落ちてくる汗が、目にしみた。
+My heart pounded loudly in my head, and my breathing became quite noisy. Sweat dripped gently from my eyebrows down into my eyes.
+//いったい彼らは、私の名前を叫んで何をしているというのだ‥‥？
+Why on earth were they screaming my name, and what were they doing?
+//映像はそれで終了した。
+The recording stopped there.
+//意味もない横線がモニター上を縦横無尽に走り回り、耳障りなノイズを発しはじめる。映像の記録が終わりに達したことをあらわしていた。
+Meaningless horizontal lines freely travelled around the monitor, and a tinnitus-inducing sound started to play.\nI became aware that I'd reached the end of the recording.
+//私はディスプレイから顔をあげると、ランファの方を見た。彼女はまだ、ディスプレイの方を無表情にじっと見つめている。
+I looked up from the display towards Lanhua. She was still staring blankly at the display.
+//［コウジ］：ランファ、これはいったい‥‥。
+[KOUJI]: Lanhua, what on earth...
+//［ランファ］：コウジさん、現実を見つめて下さい。そして、夢を夢と認識して下さい‥‥。
+[LANHUA]: Kouji-san, get a grip on reality. Then, start recognizing dreams as dreams...
+//［ランファ］：コウジさんは、もうすでに記憶が戻っているはずです。
+[LANHUA]: Your memories will come back soon.
+//［コウジ］：ど、どういうことだ‥‥？
+[KOUJI]: Wh-what do you mean...?
+//［ランファ］：コウジさん自身が、現実から逃れようとしているのです。
+[LANHUA]: Kouji-san, you've been running away from reality.
+//［コウジ］：なぜ、夢の中で言われた事を、君が言うんだ？
+[KOUJI]: Why did you say the things I heard in a dream?
+//自分の意識だけが、はるか虚空のかなたに飛んでいってしまったような、そんな感覚だ。頭の中では、白い霧がたちこめ、思考能力を低下させる。
+I felt that only my consciousness had flown beyond the void. A white mist had covered my mind, and my thinking capacity had decreased.
+//私には、彼女の言うことを、理解できる状態になかった‥‥。
+I became unable to understand what she was saying...
+//［コウジ］：ランファ、君はいったい‥‥。
+[KOUJI]: Lanhua, what on earth are you....
+//［ランファ］：下で待っています。
+[LANHUA]: Please wait for me below.
+//［コウジ］：下？
+[KOUJI]: Below?
+//［ランファ］：そのとき、全てをお話します‥‥。
+[LANHUA]: When the time comes, I will explain everything...
+//［ランファ］：では、私はもう行きます。こことも、もう‥‥‥‥。
+[LANHUA]: Then, I'll be going. This place, too...
+//［コウジ］：ら、ランファ‥‥‥‥。
+[KOUJI]: L-Lanhua......
+//［コウジ］：ま、待ってくれ‥‥ランファ！！
+[KOUJI]: Wait, wait for me...Lanhua!!
+//［コウジ］：ランファ！！
+[KOUJI]: LANHUA!!
+//［ファル］：コウジ！
+[FAR]: Kouji!
+//［コウジ］：ファル‥‥。
+[KOUJI]: Far...
+//［ファル］：あなたは監禁していたはずよ。どうやって部屋から出たの？
+[FAR]: You're supposed to be in confinement. How did you get out of that room?
+//［コウジ］：か、勝手に出たことは謝るが‥‥‥。
+[KOUJI]: I-I'm sorry I selfishly left...
+//［ファル］：コウジ‥‥。
+[FAR]: Kouji....
+//ファルはゆっくりと私に近づいてくる。
+Far slowly approached me.
+//［ファル］：私に、コレを使わせないで。
+[FAR]: Please don't use this on me.
+//コレと言いながら、ファルは腰に吊ってある銃をポンと１回叩いた。表情はかなり厳しい‥‥本気だ。
+As she said "this", Far pulled out a gun hanging from her hip and patted it once. Her expression was quite grave...she's serious.
+//［コウジ］：わかった、ファル‥‥だけど、１つだけ聞かせて欲しいんだ。
+[KOUJI]: I understand, Far...but please hear me out, just this once.
+//［コウジ］：ランファのことだ。
+[KOUJI]: It's about Lanhua.
+//ランファには、不可解な部分が多すぎる。私には、彼女が何らかの情報を得ているのではないかと、ほとんど確信に近い自信を持っていた。
+There were too many things about Lanhua I didn't understand. She didn't tell me about the various situations at all,\nand held a near-absolute self-confidence.
+//そして、例のマイクロ・ディスクに関する事も。
+Besides, there was the issue about the micro disc, too.
+//だが、意に反してファルの口から出た言葉は‥‥‥‥。
+But to my surprise, the words that came out of Far's mouth were...
+//［ファル］：ランファって‥‥誰のことなの？
+[FAR]: Lanhua...who is that?
+//［コウジ］：えっ‥‥？　ら、ランファは、ランファだろう？
+[KOUJI]: Eh-? L-Lanhua is Lanhua, right?
+//［ファル］：知らないわ。
+[FAR]: I don't know who that is.
+//［コウジ］：冗談言うなよ、彼女はこの船のクルーで、君の助手だろう？
+[KOUJI]: Stop pulling my leg, she was one of the crew here, one of your assistants, wasn't she?
+//［ファル］：私の助手はトレイシー１人よ。
+[FAR]: My only assistant is Tracy.
+//［コウジ］：ふ、ふざけるなよ、彼女は‥‥。
+[KOUJI]: S-stop messing around, she's....
+//［ファル］：コウジ、あなたがどういうつもりで、そんな事を言ってくるのかわからないけど、作り話で混乱させようとしても、無駄よ。
+[FAR]: Kouji, what are you trying to say? I don't understand what you're saying, but such a fabrication won't confuse me.
+//［コウジ］：バカ言うなよ！
+[KOUJI]: STOP FUCKING WITH ME!
+//私はファルの肩に手を置いて、身体を揺さぶった。ファルの目には、やや恐怖の色も見て取れる。
+I pushed my hands on Far's shoulders and shook her. She gave me a terrified look.
+//［ファル］：痛っ‥‥や、やめて。
+[Far]: It hurts...stop it.
+//［コウジ］：ついさっきまで、彼女と‥‥ランファと話していたんだぞ。
+[KOUJI]: Up until just now, I was speaking to her...to Lanhua.
+//［ファル］：‥‥夢でも見たんじゃないの？
+[FAR]: ...Are you sure it wasn't just a dream?
+//［コウジ］：夢なんかじゃない、これは現実だ！
+[KOUJI]: It wasn't a dream, it was reality!
+//［ファル］：こ、コウジ‥‥。
+[FAR]: K-Kouji...
+//私はほとんど叫ぶようにして、断言した。私自身、断言したかった‥‥。
+I was mostly shouting, but I stopped talking. I, myself, stopped talking...
+//彼女の腰のホルスターから銃を抜くと、さっと身体を離す。突然の事だったので、ファルは唖然として見ていた。
+I pulled the gun out of her hip holster, and suddenly let go of her. The sudden act stunned Far.
+//［ファル］：ば、バカな真似はよして、コウジ。
+[FAR]: S-stop with the dumb imitations, Kouji.
+//［コウジ］：バカはどっちだ。
+[KOUJI]: Who's the dumb one here?
+//［ファル］：コウジ、落ちついて頂戴‥‥。
+[FAR]: Kouji, please calm down... 
+//［ファル］：今あなたには焦りの色しか見えない‥‥深呼吸をして、落ちつきなさい。
+[FAR]: Right now, you're a panicked color...breathe in deep, and calm down.
+//［コウジ］：‥‥ランファの事はもういい。１つ教えてくれ。
+[KOUJI]: ...I won't press you further about Lanhua. Please tell me one thing, though.
+//［ファル］：な、なに？
+[FAR]: Which is?
+//［コウジ］：このシップの中で、下、と言ったとき、それはどの場所を指す？
+[KOUJI]: On this ship, what place does "below" refer to?
+//［ファル］：下？
+[FAR]: Below?
+//［コウジ］：そうだ。
+[KOUJI]: Yes.
+//［ファル］：このシップは単層構造だから、下のブロックというのは存在しないわ。
+[FAR]: This ship is constructed in one layer, so there's no floor below us.
+//［コウジ］：‥‥だとしたら？
+[KOUJI]: ...So then?
+//［ファル］：だとしたら、恐らく惑星の事かもしれない‥‥。
+[FAR]: So then, that would mean the planet...
+//［コウジ］：惑星？
+[KOUJI]: Planet?
+//［ファル］：エイレートのことよ。
+[FAR]: Yes, the planet {Eirate}.
+//［ファル］：私を、どうするの？
+[FAR]: What are you going to do to me?
+//［コウジ］：確か、この船にはシャトルがあったな。あれは惑星上へ降りることができるのか？
+[KOUJI]: This ship does indeed have a shuttle. Is it possible to land on the planet?
+//［ファル］：‥‥ええ、可能よ。
+[FAR]: ...Yeah, it's possible.
+//［コウジ］：では格納庫まで、案内してもらおうか。
+[KOUJI]: Then, guide me to the hangar.
+//［ファル］：‥‥わかったわ。
+[FAR]: ...I got it.
+//静かな廊下に、２人の靴の音が響きわたっていた。
+In the quiet corridor, our footsteps echoed.
+//ファルはさっきから、ずっと黙っている。後ろを歩く私の手に、銃が握られているためかもしれない。
+Far had been silent since then. Maybe it was because I was walking behind her, gripping a gun.
+//黙々と歩く彼女の背中を見ながら、私はランファの事を考えていた。
+As I silently stared at her back, I thought about Lanhua.
+//さきほどのファルを見ていると、どうも嘘を付いているようには見えなかった。すると、本当にランファの事を知らないのかも‥‥。
+When I looked at Far earlier, I didn't see a trace of a lie. Did she really not know about Lanhua?
+//知らないのではなく、知らなかった事になったのではないか‥‥マインドコントロール‥‥？
+Maybe it wasn't that she didn't know, but that she somehow forgot...could it be mind control?
+//そんな、取り留めのない考えが頭を駆けめぐっているとき、ファルが私に語りかけてきた。
+As these fading thoughts ran around in my head, Far spoke to me.
+//［ファル］：惑星へ降りて、どうするの？
+[FAR]: Why are you descending onto the planet?
+//前を向きながら、ファルは私に尋ねた。歩みはそのままだ。
+As she faced forward, Far questioned me. Her pace continued.
+//［コウジ］：わからないよ‥‥。
+[KOUJI]: I don't know....
+//［ファル］：わからないって‥‥銃を突きつけてまで、惑星に降りるつもりなんでしょう？
+[FAR]: "I don't know"...so while you're pointing a gun, you still plan to descend onto the planet?
+//［コウジ］：ランファ‥‥彼女が、何か手がかりを握っているのかもしれないんだ。
+[KOUJI]: Lanhua...I think she was holding some kind of clue.
+//［ファル］：‥‥‥‥‥‥。
+[FAR]: ......
+//恐らく、また私の作り話が始まったと思ったのかも知れない。ファルはしゃべるのを止めて、再び黙々と歩きだした。
+She may have thought my tale had yet to begin. Far stopped talking and silently continued walking.
+//私は、ランファが現実にいたと信じている。いや、信じたかった‥‥。
+I believe Lanhua really existed in this reality. No, I wanted to believe...
+//だが、私以外の全ての人間が、それを否定したら‥‥本当にそれが現実だと言えるのだろうか。
+But if I deny the existence of everyone except myself...Can I really call that reality?
+//そしてそのとき、唯一の現実でさえ、否定されてしまうんじゃないか‥‥？
+And then, even that singular reality can be denied, can't it...? 
+//ドアの前へやってくると、ファルは私の方を振り向いた。
+As we arrived at the door, Far turned to me.
+//［ファル］：シャトルの操縦は？
+[FAR]: Who's piloting the shuttle?
+//［コウジ］：えっ？　そ、操縦？
+[KOUJI]: Huh-? P-piloting?
+//［コウジ］：できたら、やって欲しいんだけど。
+[KOUJI]: If I could, I would gladly do it, but...
+//［ファル］：やらせるつもり、なんでしょう？
+[FAR]: I take it you're leaving it to me, right?
+//［コウジ］：無理強いはしないよ。でも、君だってシャトル１機、無駄にはしたくないだろう？
+[KOUJI]: Don't push yourself. But then, because we only have one shuttle, we don't want to mess up, right?
+//ファルは怪訝そうな表情で私を見ていた。銃を突きつけている人間が、無理強いはしないと言うのは、自分でも何か妙な気がする。
+Far shot me a dubious look. To someone at gunpoint, "don't push yourself" must be a strange thing to hear.
+//ファルはしばらく私の事を見つめていたが、きびすをかえすと格納庫のドアを開けて入っていった。
+Far stared at me for a while, but she turned her heels, opened the door to the hangar, and entered it.
+//［トレイシー］：あら、お２人でどうなさったんですか？
+[TRACY]: Ara, what's going on with you two?
+//［ファル］：トレイシー‥‥シャトルの発進準備をして頂戴。
+[FAR]: Tracy...Please prepare the shuttle for liftoff.
+//［トレイシー］：あらあら‥‥２人で、ですの？
+[TRACY]: Ara ara...for two people, right?
+//［ファル］：トレイシー、お願い、黙って用意をして頂戴‥‥。
+[FAR]: Tracy, please, shut up and get it ready...
+//［トレイシー］：フフ、野暮は聞きっこなしですね。
+[TRACY]: Hehe, I won't pry any further.
+//［ファル］：どうするの？　私は‥‥。
+[FAR]: What's going on? I was....
+//［コウジ］：操縦をしてもらう。惑星へ降りるまでね。
+[KOUJI]: Please pilot us until we get to the planet's surface.
+//［ファル］：わかったわ‥‥‥。
+[FAR]: I got it......
+//［コウジ］：その後は、君をちゃんと解放するよ。
+[KOUJI]: After that, I'll properly release you.
+//［ファル］：あなたはどうするのよ。
+[FAR]: What do you plan to do?
+//［コウジ］：私は‥‥‥考えていない。
+[KOUJI]: I...haven't considered that.
+//［ファル］：ちょっと、あんな遺跡しかない辺境の惑星に降り立って、生きていけると思ってるの？
+[FAR]: Hold on, do you think you can descend to that frontier planet of only ruins and live there?
+//［コウジ］：さあね‥‥。
+[KOUJI]: Well...
+//［ファル］：さあねって‥‥コウジ‥‥。
+[FAR]: "Well" what?...Kouji...
+//［コウジ］：自分で言うのもなんだけど、そう言うほかはないんだよ。
+[KOUJI]: You've already said it to me, and there's no other way to say it.
+//［コウジ］：（そう、惑星に降りてどうなるか、自分でもわかっちゃいない‥‥。）
+[KOUJI]: (Right, I haven't really figured out what to do once I've descended onto the planet...)
+//［コウジ］：（でも、何かを得ることが出来るかもしれないんだ‥‥。）
+[KOUJI]: (But, I might still be able to gain something...)
+//惑星へ降りるまで、ファルとはほとんど言葉を交わさなかった。
+Until we got to the planet, I didn't exchange any words with Far.
+//彼女は無言で操縦し、私は無言で後部座席に座っている。２人の間の空気は、相変わらず張りつめていた。
+Far wordlessly piloted, and I wordlessly sat in the back seat. The air between us was tense, as usual.
+//私はふと、辺りを見回してみた‥‥。
+I glanced at my surroundings...
+//星の海、と形容するのがわかるような気がする。大小様々の星星が、目の前に存在していた。数はちょっとわからない。文字どおり天文学的数字だ。
+It was a veritable sea of stars. Big and small stars of all types twinkled before me.\nI couldn't count them all; the number was literally astronomical.
+//湾曲してコクピットを取り囲んでいる硬質ガラスには、恒星などの光を直視しないよう、薄暗くフィルターがかかっていたが、周りで輝く星々をみることは十分可能だった。
+The curved hard glass surrounding cockpit dimly filtered the indirect star light, and I could clearly see the shining stars surrounding me.
+//［コウジ］：綺麗な星だな‥‥。
+[KOUJI]: How beautiful the stars are...
+//0130
+
+//様々な色を発色しながら輝く星々は、幻想的で、ある意味では非現実的といっても良かった。
+The multi-colored shining stars were fantastic and, in a manner of speaking, unreal.
+//しかし、これが非現実で夢だと言うなら、それもまたいいなとも思う。
+However, even if this were some unreal dream, I think it'd still be fine.
+//流れる川に身を委ねる落ち葉のように、全てを幻想に委ねてしまうのも悪くはないと、私は星の輝きを見ながら考えていた。
+Even entrusting myself to the fantasy like a fallen leaf in a running stream would be nice, I thought as I watched the stars twinkle.
+//そもそも『現実』とは、いったい何だろうか‥‥。
+In any case, what even is "reality"?...
+//いま生きている、空間と時間のことを指しているのか？　自分たちが精一杯生きている世界を‥‥。
+Does it mean the space and time I'm currently living in? The world we ourselves are living in to the fullest...
+//でもそれは単に、『夢ではない』とパラフレーズするだけの概念でしかない。
+But that's simply a way to paraphrase the concept of "not a dream", isn't it?
+//自分が現実と認識して、始めてその根拠となるあやふやなものに、いったいどれだけの確信が持てるのか‥‥。
+Because the base reasons for acknowledging reality amount to such ambiguous concepts, just what should I place my confidence in?
+//でも、それはそれで、いいではないかと思う。
+But even so, I think it might be OK.
+//今を生きていると信じ、これが現実だと信じられるなら、そここそ現実の世界と考えられるのではないか。
+If I believe that I'm living now, and believe that this is reality, shouldn't I consider this the real world as well?
+//今いる自分が、例え夢の存在だとしても、その中で精一杯あがけるだけあがいてやるのは、そう無為だとは思えない‥‥。
+Even if my self here and now exists in a dream, as long as I just give it my all, it won't be a waste.
+//そんなことを考えている自分に、少し驚きもする。意外に、『現実』を受けとめてしまう方なのかもしれない。
+As I thought about that, I became a little surprised. Unexpectedly, I may have just accepted this as "reality".
+//［コウジ］：（誰の夢かはわからないが、やるだけやらしてもらうさ‥‥。）
+[KOUJI]: (This might be someone's dream, but I can only struggle on...)
+//［ファル］：コウジ‥‥。<$05>
+[FAR]: Kouji...
+//fa11
+
+//fa09
+
+//一挙に、想像の世界から現実に戻されてしまった。予想外に近づいていたファルに、私はドキリとしてしまう。
+I snapped back to reality at once. Far, who had unexpectedly come near me, gave me quite a shock.
+//ずっと、私のことを見ていたのだろうか‥‥。
+It seemed she'd been staring at me for some time...
+//［ファル］：深刻の色を発しているわ‥‥。
+[FAR]: You're giving off a serious color...
+//［コウジ］：自分にとってはね。巻き込んで、すまないと思ってる。
+[KOUJI]: I *am* serious. I'm sorry about getting you involved in this.
+//［コウジ］：それよりも、操縦はしなくてもいいのか？
+[KOUJI]: By the way, is it OK for you not to be piloting anymore?
+//［ファル］：オートパイロットモードになっているの。行き先も、あなたが設定したんでしょう？
+[FAR]: I've engaged the auto-pilot mode. Before you go, you've made some plans, haven't you?
+//［コウジ］：どういうことだ‥‥？
+[KOUJI]: How do I say this...?
+//［ファル］：いいわ、無理に聞こうとは思わないから‥‥。
+[FAR]: It's OK, don't force yourself to answer...
+//ファルは前方に向き直ると、再び押し黙ってしまった‥‥。
+Far turned around to the front and was silent once more...
+//［コウジ］：（まぁいいさ‥‥‥‥。）
+[KOUJI]: (Well, it's fine...)
+//ここまで行き違いが進行していると、些細な事はもうどうでもよくなってくる。
+Up until now, I'd made mistakes, but these trivialities didn't matter anymore.
+//私はそう考えると、足を伸ばし、シートにぐっともたれ掛かった。惑星エイレートはもう、目の前にまで迫っている‥‥。
+With this in mind, I stretched my legs and laid down on the sheet. The planet {Eirate} was within reach...

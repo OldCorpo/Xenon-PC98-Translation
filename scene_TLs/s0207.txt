@@ -1,0 +1,692 @@
+//s0207
+
+//［女］：起きなさい、宏治クン。
+[Woman]: Wake up, Kouji-kun.
+//どうやら夢かもしれない‥‥この私を揺り起こすやつなど、この世界にいるわけがない。
+It feels like a dream...The person who would shake me awake doesn't seem to be from this world.
+//フン、愚民どもめ、夢にまで現れて私を苦しめようとするとはな‥‥。
+Hmph, what ignorant fools, to appear in my dreams to irritate me...
+//［女］：ほら、起きなさい、宏治クン。
+[Woman]: Come on, please wake up, Kouji-kun.
+//［コウジ］：フン、うるさいヤツめ。黙って居ろ。
+[KOUJI]: Hmph, what a noisy one you are. Shut up.
+//［女］：起きなさい。
+[Woman]: Please wake up.
+//［コウジ］：うるさいブタども、私こそは大宇宙‥‥。
+[KOUJI]: You noisy animal, I am the universal....
+//［沙夜香］：どう、目が覚めた？
+[Sayaka]: Well, have you awakened?
+//［コウジ］：フン、ランファならお目覚めのキッスをしてくれるところだな。
+[KOUJI]: Hmph, if it were Ranphar, she would have awakened me with a kiss.
+//［沙夜香］：外人に知り合いなんか、いないわ。
+[Sayaka]: I've never met such a foreigner before.
+//［コウジ］：まぁ、外人には違いないだろうがな。
+[KOUJI]: Well, she *must* be a foreigner.
+//手で前髪をすこうとしたが、動かない。手どころか、足も身体も、動かすことができなかった。
+Even as I tried to run my hand through my hair, I didn't move. I couldn't move my arms, legs, or body.
+//［沙夜香］：フフ、しばらくそこにいてもらうわ。
+[Sayaka]: Huhu, that seems to have been there for quite a while.
+//下を見てみると、妙な革ベルトで、がんじがらめに縛られている。動くのは手先と首から上だけだ。
+As I looked down, I found I was bound at the hands and feet by strange leather belts. All I could move were my fingers, my neck, and my head.
+//［コウジ］：私に縛られる趣味はないがな。
+[KOUJI]: I have no interest in bondage, you know.
+//［沙夜香］：私も縛る趣味はないのだけどね。
+[Sayaka]: *I* don't have any interest in bondage, either, though.
+//［コウジ］：おい、女。すぐにこのベルトを解かないと‥‥。
+[KOUJI]: Hey, woman. If you don't untie this belt immediately...
+//［沙夜香］：どうするというの？　フフ、その格好で。
+[Sayaka]: What will you do? Huhu, in that state.
+//［沙夜香］：さぁ、無駄なおしゃべりはこれくらいにしておきましょう。
+[Sayaka]: Now, keep those useless utterings to yourself from now on.
+//［コウジ］：恵はどうした？
+[KOUJI]: What happened to Megumi?
+//［沙夜香］：元通り縛って、今度は眠って貰っているわ。
+[Sayaka]: I tied her back up, and this time I made her fall asleep.
+//［沙夜香］：それに‥‥ウフフ、見えない？　あなたの斜め前に座っている女性が。
+[Sayaka]: Speaking of which...Uhuhu, haven't you seen? The woman sitting diagonally across from you.
+//［コウジ］：なんだと？
+[KOUJI]: What?
+//mai04b
+
+//［コウジ］：ほぉ、ご丁寧に舞を連れてきてくれた訳か。
+[KOUJI]: Ho~, how polite of you to have brought Mai here.
+//［沙夜香］：この子が、何らかのキーを握っていることはわかっているわ。
+[Sayaka]: I know this girl is holding some sort of key.
+//［コウジ］：キーだと？　フン、何も知らないのだな。
+[KOUJI]: A key? Hmph, I know nothing about that.
+//［沙夜香］：えぇ、彼女にはもう何も期待はしていないわ。だけど‥‥。
+[Sayaka]: Yes, now I don't expect anything from her. But...
+//そう言いながら、沙夜香は私に詰め寄ってきた。
+As she said this, Sayaka drew close to me.
+//［沙夜香］：あなたには凄く期待をしているの。
+[Sayaka]: I *do* expect something from you.
+//［コウジ］：過分な期待は、ありがた迷惑だが。
+[KOUJI]: Your overenthusiasm is quite unwelcome.
+//［沙夜香］：あなた、ずいぶんとあの涼子を、てなずけたものね。
+[Sayaka]: You've really tamed that Ryouko, haven't you?
+//［コウジ］：フン、あの女は私の奴隷だ。誰にもわたさんぞ。
+[KOUJI]: Indeed, that woman is my slave. I won't hand her over to anybody.
+//［沙夜香］：あきれた、恵さんという恋人がいるのに？
+[Sayaka]: I'm astounded, is your lover Megumi here?
+//［コウジ］：恵は私の妻だ。父親の権力は私のモノだ。
+[KOUJI]: Megumi is my wife. Her father's power is mine to control.
+//［沙夜香］：‥‥恵さんのお父上も、知っているの？
+[Sayaka]: ...You know Megumi's father?
+//［コウジ］：うむ、知っている。
+[KOUJI]: Indeed, I know him.
+//［沙夜香］：ほ、本当に？
+[Sayaka]: R-really now?
+//沙夜香の表情が明るくなる。権力にこびを売る輩の、典型的な卑屈の表情だ。
+Sayaka's expression became brighter. She wore a suitably servile expression for someone who had to flatter those in power.
+//［コウジ］：無論、嘘などではない。
+[KOUJI]: Certainly, it is not a lie.
+//実際、嘘ではない。私は嘘は嫌いだ。確かに恵に父親がいるのは、彼女から聞いている。
+It really wasn't a lie. I hate lies. I heard from Megumi herself that her father was here.
+//だが知っているのと、親しいのとでは、雲泥くらいの隔たりがあるのだ。
+However, there is a world of difference between knowing someone and being close to someone.
+//もっともそのことを、この高慢チキな女に教えてやる義務を、私は背負ってはいない。
+Still, teaching such a thing to this haughty bitch is not my burden to bear.
+//［沙夜香］：私に協力してくれるなら、あなたには悪いようにしないわ。
+[Sayaka]: If you'll lend me a hand, I won't do you any harm.
+//［コウジ］：これのどこが、悪くないのだ？
+[KOUJI]: What harm could I possibly do to you in this state?
+//私は、縛り上げられている自分の身体を、ぐるりと見回した。首から上だけが、かろうじて動く程度だ。
+I slowly looked around at my bound body. Only my head and neck were able to move, and with great difficulty at that.
+//［沙夜香］：まだ、あなたの協力を得られると決まった訳ではないですからね。協力を拒否した場合は‥‥。
+[Sayaka]: I still haven't decided whether I'll accept your help. I still have the option to refuse...
+//［コウジ］：どうなるのだ。
+[KOUJI]: What will you do?
+//［沙夜香］：その辺は、たくましい想像力を働かせて頂戴。
+[Sayaka]: To that end, why don't you try using that big noggin of yours?
+//［沙夜香］：何かご質問は？
+[Sayaka]: Got any questions or concerns?
+//［コウジ］：ある。
+[KOUJI]: I do.
+//［沙夜香］：あら、なにかしら。
+[Sayaka]: Ara, what could that be?
+//［コウジ］：フン、それはな‥‥‥‥。
+[KOUJI]: Hmph, well, that's....
+//　◆ 貴様の目的は‥‥‥‥。
+◆ About your goals....
+//　◆ 舞をどうする気だ‥‥‥‥。
+◆ What will you do with Mai...
+//　◆ 涼子はどこに‥‥‥‥。
+◆ Where is Ryouko...
+//　◆ 恵はこれからどうなる‥‥‥‥。
+◆ What will happen to Megumi...
+//［コウジ］：貴様の目的は、いったい何だ？
+[KOUJI]: What exactly are your goals?
+//［沙夜香］：全世界の征服よ。
+[Sayaka]: I aim to conquer the world.
+//［沙夜香］：フフ、あなた流のジョークを言ったのだけど、お気に召さなかったようね。
+[Sayaka]: Huhu, it seems like a joke you might tell, but it seems you're not pleased by it.
+//［コウジ］：では、本当は何だ？
+[KOUJI]: Then, what are they really?
+//［沙夜香］：あのドリームプログラムというマシンが実用化されれば、人の精神を自由に操ることができるのでしょう？
+[Sayaka]: If we were to put that Dream Program machine into use, it would allow humans' spirits to be freely manipulated, right?
+//［コウジ］：そんなことはできんぞ、あの大宇宙海賊霊子エナジー増幅ジェネレータ２ではなっ。
+[KOUJI]: That's not something my Universal Pirate Reiko Energy Amplifying Generator 2 can do.
+//［沙夜香］：まぁいいわ。それを利用して法務局での、私の地位の確立が目的よ。
+[Sayaka]: Well, fine, then. Establishing my status in the Legal Affairs Bureau by using it is my main goal.
+//［コウジ］：くだらん‥‥‥‥。
+[KOUJI]: Worthless....
+//［沙夜香］：くだらないですって！？
+[Sayaka]: Who are you calling worthless?!
+//［コウジ］：くだらんから、くだらんと言ったまでだ。
+[KOUJI]: I said "worthless", because you *are* worthless.
+//あまりの下等な正当化に、反吐が出そうになってしまった。
+With such a vulgar justification, I felt like vomiting.
+//バカな女め、目的が全世界の征服であれば、いくらでも手を組んでやったものを。
+What an idiotic woman. If she wanted to conquer the whole world, she would have joined forces with as many people as she wanted.
+//［沙夜香］：あまり、私を怒らせない方がいいわよ。
+[Sayaka]: You'd better not piss me off.
+//［コウジ］：ほぉ、怒らせると、どうなるのだ？
+[KOUJI]: Hoh~, what will you do if I piss you off?
+//バシィ！<$05><$04><$30>
+
+//［沙夜香］：おわかり？　もう質問はないのかしら。
+[Sayaka]: Got it? Now, you should have no questions.
+//［コウジ］：舞をどうする気だ。
+[KOUJI]: What will you do to Mai?
+//［沙夜香］：別に、彼女は殺しやしないわよ。ただ、触媒とかいうのに使うのでしょう？
+[Sayaka]: I don't really want to kill her. Only to use her as a medium of sorts.
+//［沙夜香］：彼女には、普通の人と異なった感応力があるそうね。それを利用できないか、模索しているところよ。
+[Sayaka]: That girl is unusually sensitive compared to normal humans. I'll try to find some use for her.
+//［コウジ］：舞は私のモノだ。
+[KOUJI]: Mai is mine.
+//［沙夜香］：はいはい、じゃあ、あなたが私に協力してくれるのかしら？
+[Sayaka]: Yes, yes, well, are you going to help me?
+//［コウジ］：涼子はどこにいる？
+[KOUJI]: Where is Ryouko?
+//［沙夜香］：とりあえず、私の手中にあるとだけ言っておきましょう。
+[Sayaka]: For now, let's just say she's in the palm of my hand.
+//［沙夜香］：あの女、宏治様、宏治様って、バカじゃないかしら。あなたのどこが、そんなにいいのかしらねぇ。
+[Sayaka]: That woman keeps babbling "Kouji-sama, Kouji-sama", like some fool. It seems she really likes some part of you.
+//［コウジ］：フン、愚か者には、決してわからないのだろう。
+[KOUJI]: Hmph, a buffoon certainly wouldn't understand.
+//沙夜香の片方の眉が、ピクリと跳ね上がる。つくづく、感情的な女だった。
+One of Sayaka's eyebrows jumped up. What an expressive woman she is.
+//［沙夜香］：フフ、よっぽど涼子先生のこと、気に入っているようね。
+[Sayaka]: Huhu, it seems you've taken quite the interest in Ryouko-sensei.
+//勘のいい女だ、私の一番嫌いなタイプだ。
+What a perceptive woman, exactly the type I hate most.
+//［沙夜香］：あの涼子は目障りだわ。マシンのアーキテクチャを聞いたら、殺してしまおうかしら。
+[Sayaka]: That Ryouko is such an eyesore. Since she's the architect of this machine, I wonder if I should kill her.
+//［コウジ］：なに！　あれは私のモノだ。何かしてみろ、ただじゃすまさんぞ、女。
+[KOUJI]: WHAT! That woman is MY possession. Whatever you're trying, I will pay you back, woman.
+//バシィッ！<$04><$30><$05>
+
+//［コウジ］：フン、この私が暴力に屈すると思っているのか。
+[KOUJI]: Hm, do you really think I will submit to violence?
+//［沙夜香］：黙っていなさい。
+[Sayaka]: Be quiet.
+//［コウジ］：フン、私は暴力には屈しないぞ、決してな。
+[KOUJI]: Hmph, I certainly won't submit to violence.
+//［コウジ］：痛い、ご免なさい‥‥私が悪かった、もうしゃべりません‥‥えん。
+[KOUJI]: It hurts, I'm sorry...it was my bad, I won't say anything again...not.
+//［沙夜香］：最初から、そうすればいいの。
+[Sayaka]: It would have been nice if you'd done that from the start.
+//フン、『しゃべりません』の後に“円”をくっつけたのに、こいつは気付かないようだ。バカめ、誰もそんな約束はしていないのになっ。
+Hmph, she didn't even notice the "not" I added after "won't say anything again". Fool, no one would make a promise like that.
+//［コウジ］：フハハハハッ。
+[KOUJI]: Fuhahahaha-.
+//私は状況判断も的確だ。無為に騒ぎ立てるのは、愚の骨頂というものだろう。しばらくだけ、静かにしてやるとするか。
+I assessed the situation correctly. Needlessly making a big fuss is the height of stupidity. For now, I'll just stay quiet.
+//［沙夜香］：もう、質問はないのかしら？
+[Sayaka]: Well, do you have any other questions?
+//［コウジ］：恵はこれからどうなるのか？
+[KOUJI]: What will happen to Megumi?
+//［沙夜香］：あなたが協力してくれないのなら、彼女を利用するしかないわよね。
+[Sayaka]: If you lend me a hand, I won't make use her.
+//［沙夜香］：彼女を利用して、父親からたっぷりと資金をしぼりとるのよ。
+[Sayaka]: Using her, I can wring out quite a big sum of capital from her father.
+//［コウジ］：資金をしぼりとるだけか？
+[KOUJI]: You're only going to wring him out of some capital?
+//［沙夜香］：無論、涼子に協力してもらうことになるでしょうね。
+[Sayaka]: Of course, Ryouko will assist me.
+//［コウジ］：涼子が研究を続行するものか。
+[KOUJI]: Ryouko will continue her research.
+//［沙夜香］：フフン、あなたのためなら、するでしょうよ。
+[Sayaka]: Ho hum, if it's for you, she'll do it.
+//［沙夜香］：涼子先生には、せいぜいただ働きをして戴くことになるわね、フフ‥‥。
+[Sayaka]: For Ryouko-sensei, it will only take a small move for her to partake fully, huhu...
+//［コウジ］：なかなか小賢しいことを、考えているな。気に入った。
+[KOUJI]: What a clever scheme you've thought up. I'm interested.
+//［沙夜香］：あなたが協力してくれれば、全て落着するのだけど。
+[Sayaka]: If you'll lend me a hand, we can settle everything.
+//［コウジ］：質問はもうない。貴様の小賢しい企みは、全て理解した。
+[KOUJI]: I no longer have any questions. Explain your clever plan in full.
+//［コウジ］：ときに、沙夜香とやら。
+[KOUJI]: Speaking of which, Sayaka-or-whatever.
+//［沙夜香］：なにかしら？
+[Sayaka]: What's the matter?
+//［コウジ］：今の正確な時間を教えて欲しい。
+[KOUJI]: Please tell me the current time.
+//［沙夜香］：どうしたのよ、急に。
+[Sayaka]: What's this, all of a sudden?
+//［コウジ］：いや、見たいＴＶ番組があるのでな。
+[KOUJI]: It's just, there's a TV program I want to watch.
+//時刻を聞いて、唖然とした。何ということだ、ビアンカとの戦いまで、あと数分しかないではないか‥‥。
+As I heard the time, I was struck dumb. What the hell, there's only a few minutes until the fight with Bianca...
+//焦りを感じるが、これを沙夜香に気取られてはならなかった。こちらが弱みを見せれば、ハイエナのごとく食らい付くに違いない。
+I was irritated, but I didn't let it show to Sayaka. If I showed any weakness, she'd certainly devour me like a hyena.
+//［沙夜香］：少しは協力する気になったかしら。
+[Sayaka]: It seems you're a little interested in helping me out, am I right?
+//［コウジ］：フン、そうだな。
+[KOUJI]: Hmph, you guessed right.
+//沙夜香は満足そうに私の目の前までやってくると、懐から黒っぽいケースを取り出した。どうやら、タバコらしい。
+Satisfied, Sayaka came up to me, and from her bosom, took out a blackish case. It seemed like a cigarette case.
+//［沙夜香］：どう、吸う？
+[Sayaka]: Well, do you smoke?
+//沙夜香は、やけに慣れた手つきでパックから１本取り出すと、私の鼻の前にヒラヒラとタバコをかざした。
+With a practiced motion, Sayaka took a cigarette out of the pack and wiggled it in front of my nose.
+//決して安っぽくない匂いが、鼻こうをツンとつく。私はこう見えてもタバコにはうるさい。
+The decidedly rich odor pricked my nostrils. I shut my mouth as I looked at the cigarette.
+//［コウジ］：もらおうか。
+[KOUJI]: Give me one, would you?
+//ぶっきらぼうにそう言うと、私は首を伸ばし、ゴールドで縁取られたフィルタの部分を口にくわえた。
+As I bluntly spoke, I raised my head and clasped my lips around the gold-bordered filter.
+//沙夜香は、これまた決して安物ではなさそうなライターで火を点けた。
+Sayaka lit a rather expensive-looking lighter.
+//少しだけ気分が晴れるようだった。深く、深呼吸をするように肺の中を煙で満たす。
+The mood cleared up a little. With deep, deep breaths, I filled my lungs with smoke.
+//甚だ遺憾ながら、どうやら宇宙海賊ご用達のモノより、ちょびっとだけウマいようだった。
+With deep regret, somehow, compared to space pirate errands, this was just a little more pleasant.
+//もっともそれを認めるのは、宇宙海賊の名に恥じるというものだ。
+As I came to terms with this more fully, I became ashamed to call myself a space pirate.
+//［コウジ］：フッ、青臭いのを吸っているな‥‥。
+[KOUJI]: Hooo-, what a grassy smell I just inhaled...
+//［沙夜香］：あっ、そう。
+[Sayaka]: Ah-, that's right.
+//沙夜香は別に憶した様子もなく、私の唇に挟んであったタバコを引き抜くと、床にポイと投げ捨てた。
+As though she had just remembered, Sayaka pulled the cigarette from my lips and threw it carelessly onto the floor.
+//未練がましくタバコの後を追う私の目の先で、沙夜香のハイヒールが、先程まで私の口にあったタバコを踏みつける。
+As I ruefully followed it with my eyes, Sayaka's high heel crushed the cigarette that had just been in my mouth.
+//ご丁寧に、足首のひねりまで入れられて、それは無惨な姿になり果ててしまった。
+As she twisted her ankle thoroughly onto it, it became a pitiful shape.
+//くっ‥‥まだ一息しか吸っていないのだぞ。
+Kh-...I can't even take another puff from it.
+//［沙夜香］：‥‥呆れた、泣いているの？　あなた。
+[Sayaka]: ...My goodness, are you crying?
+//［コウジ］：誰が泣いているか。涙は心の汗だ。
+[KOUJI]: Who's crying? These tears are sweat of my heart.
+//［沙夜香］：何を訳の分からない事を言っているのよ。
+[Sayaka]: I don't understand the point of what you just said.
+//沙夜香は肩をしゃくりあげると、両手を腰に添えて私の目の前に立った。仁王立ちだ。
+Sayaka shrugged her shoulders, put her hands on her hips, and stood up before me. What an imposing stance.
+//［沙夜香］：じゃあ、そろそろ本題に入らせて戴くわ。
+[Sayaka]: Well, we should return to the problem at hand.
+//［コウジ］：本題？
+[KOUJI]: Problem at hand?
+//［沙夜香］：答えは２つに１つ。私に協力して生きながらえるか、拒否して死ぬか。
+[Sayaka]: Answer me one of the two: Will you help me and live, or reject me and die?
+//拒否しての生、という選択肢は、どうやら状況的に無いらしい。最強の宇宙海賊は、状況分析も的確なのだ。
+It seemed the option to reject her and live was not possible. The strongest space pirate has correctly analyzed the situation.
+//［コウジ］：フン、最近の政府機関は、恫喝も仕事にはいっているのか。
+[KOUJI]: Hmph, so intimidation is a part of the job for the latest government agencies?
+//［沙夜香］：聞き分けがない人に対してだけ、ね。
+[Sayaka]: Hey, it's just a way of dealing with people who don't understand what I ask of them.
+//［コウジ］：人にお願いをする時は、お願いしますと頭を下げるものだ。父親にそう教わらなかったのか？
+[KOUJI]: When people make requests, they say "please" and bow their heads. Did your father not teach you that?
+//［沙夜香］：減らず口はそこまでよ。返事は？
+[Sayaka]: Your back talk ends there. Your response?
+//［コウジ］：さてな‥‥‥‥。
+[KOUJI]: Let's see....
+//目の前に立つ女性の目尻が、キリリとつり上がったように見えた。剣呑な光を目の中から発している。
+The corners of her eyes seemed to lift up. There shone an ominous light in her eyes.
+//自分でも損な性格とは思うが、私の自尊心が許さない。敵に迎合して、自分の信念を曲げるくらいなら、玉砕を選んだ方がましである。
+Even though I was in a losing position, my self-esteem didn't waver. Pandering to the enemy would be a slight against my beliefs, so choosing honorable defeat would be preferable.
+//しかも、この肉体は脆弱な宏治とやらいう男のものだ。この肉体が滅びたとき、私の思念体がいかなる運命を辿るのか、多少の興味もあった。
+However, this physical body was that puny Kouji's possession. When this body is destroyed, if my thought body were to chase whatever destiny awaited, that might be somewhat interesting.
+//［コウジ］：私は最強の宇宙海賊だ。貴様ごときに指図される謂れはない。
+[KOUJI]: I am the strongest space pirate. I have no reason to be commanded by the likes of you.
+//胸を張って言ったつもりだったが、椅子に縛られているのでモゾモゾと上半身を動かしただけにとどまった。非常に情けない。
+I intended to puff my chest out with pride as I said it, but, being bound to the chair, my upper body only strained against the bindings. It was quite pitiful.
+//［沙夜香］：フン、何が宇宙海賊よ。どこでかじったかは知らないけど、その知識と才能はぜひ貸してもらうわ。
+[Sayaka]: Hmph, what space pirate? I have no idea what's gotten into you, but lend me that knowledge and talent.
+//［コウジ］：地位の確立のためか？
+[KOUJI]: For the sake of establishing my position?
+//［沙夜香］：そうよっ！
+[Sayaka]: That's right!
+//バカなやつめ。世界征服と言えば、まだ心が動かされたのだがな‥‥。
+How foolish. If she's to talk about world conquest, my heart has not been moved yet...
+//典型的な官僚主義、権威主義だった。権威への忠誠が絶対善としか考えられない偏狭な輩には、相応しい処遇があるものだ。
+What a typical authoritarian bureaucracy. For someone who so narrow-mindedly, unthinkingly holds fidelity to authority as an absolute good, I know a fitting treatment.
+//［沙夜香］：じゃあ、あなたに用はないわ。可愛さ余ってにくさ百倍よ。
+[Sayaka]: Well, I have no use for you now. You're a hundred times more abominable than you are adorable.
+//［沙夜香］：この装置を稼働させれば、シナプスの２～３万本は焼き切れるそうじゃない。
+[Sayaka]: If I were to turn on this instrument, I'd fry 20-30 thousand synapses, wouldn't I?
+//［コウジ］：ほぉ、それは楽しみだ‥‥。
+[KOUJI]: Ho~, that would be fun...
+//［舞］：宏治サン！
+[Mai]: Kouji-san!
+//［舞］：宏治サン、これはいったい‥‥。
+[Mai]: Kouji-san, what on earth...
+//［コウジ］：気付いたか。
+[KOUJI]: You noticed?
+//［舞］：これはいったい、どういうことなんですか？
+[Mai]: What on earth is happening here?
+//［コウジ］：うむ、どうやら私はいま、沙夜香という女に殺されかかっているらしい。
+[KOUJI]: Indeed, right now, it seems I'm about to be killed by this Sayaka woman.
+//［舞］：そ、そんな‥‥！？
+[Mai]: Th-that's...?!
+//［コウジ］：舞、私は貴様の事を、一番大事に思っていた。それだけは、忘れないで欲しい。
+[KOUJI]: Mai, I think of you as the most important person. Please, don't forget that.
+//［舞］：私も‥‥私も、宏治サンのことを好きでした‥‥。
+[Mai]: I...I, too, liked Kouji-san...
+//［コウジ］：ではあの世というものがあれば、そこでいつか会おう。
+[KOUJI]: Then, if there is another world, let us meet again there.
+//［舞］：そ、そんな‥‥宏治サン‥‥いや‥‥。
+[Mai]: You can't...Kouji-san...no...
+//［沙夜香］：純愛ドラマは、そこまでよっ！
+[Sayaka]: Your lovey dovey drama ends there!
+//［コウジ］：フン、悪玉らしくなってきたではないか。
+[KOUJI]: Hmph, you've become quite villainous, haven't you?
+//［沙夜香］：このスイッチを入れれば、あなたは死ぬわ。
+[Sayaka]: If I flip this switch, you will die.
+//［コウジ］：それはどうかな。
+[KOUJI]: And so what if I do?
+//［沙夜香］：フン、強がりもこれまでね。
+[Sayaka]: Hmph, your bluffing also ends here.
+//［コウジ］：その前に１つ。
+[KOUJI]: Before that, one thing.
+//［沙夜香］：なに？　もう遅いわよ。
+[Sayaka]: What? It's already too late.
+//［コウジ］：いや、コンパネから次の数式を打ち込まれると、非常に困るのでな。
+[KOUJI]: No, the next formula needs to be typed from the control panel, but it's very complicated.
+//私が、延々とデバッグ用ルーチンの数式を言い始めると、沙夜香は興味津々に聞き耳をたてている。
+As I started reciting the formula to debug the routine on and on, Sayaka's ears perked up with great interest as she listened.
+//［沙夜香］：それが、なんなのよ。
+[Sayaka]: What's that for?
+//［コウジ］：いや、これを入力されると、私は非常に恐い。恐ろしい苦しみに悶えながら、死んでしまうのだからな。
+[KOUJI]: No, I'm very afraid of letting someone do this by brute force. I'm so anguished by this fearsome suffering, I could die.
+//［沙夜香］：ふーん。
+[Sayaka]: Hmmmm.
+//バカめ、まんじゅう恐い攻撃とも知らずになっ！
+Fool, you have no idea of my truly fearsome attack!
+//［沙夜香］：そこまでしたら、さすがに可哀想よね。楽に死なせてあげるわ。
+[Sayaka]: Since you've said all that, it does seem quite pitiful. I'll happily let you die that way.
+//［コウジ］：な、なんだと！
+[KOUJI]: W-WHAT!
+//［沙夜香］：せめてもの情けよ。
+[Sayaka]: That's as much sympathy as I have right now.
+//［コウジ］：ばーか、ばーか、お前のかあちゃんデーベーソ！
+[KOUJI]: Watch your words, or the bogeyman will get you!
+//［沙夜香］：な、なんですって！
+[Sayaka]: W-What are you saying?!
+//［コウジ］：おら、恐かったらかかってこい、この放射性回虫のダブル年増ババアがっ！！
+[KOUJI]: Hey, if you're so afraid, come and get me, you radioactive parasite of an old hag!!
+//オーラグラスを眼前にかけていれば、彼女の身体から憤怒の光が漏れていたに違いない。
+As though I were wearing spirit glasses, I could see an aura of anger shining forth from her body.
+//［コウジ］：沙夜香。
+[KOUJI]: Sayaka.
+//［沙夜香］：なによっ！
+[Sayaka]: What?!
+//［コウジ］：いま何時だっ！？
+[KOUJI]: WHAT TIME IS IT?
+//沙夜香から時刻を聞き、私はほくそ笑む。ジャストだ！
+As I heard the time from Sayaka, I chuckled to myself. Just in time!
+//［コウジ］：さぁ、やれ！
+[KOUJI]: Now, DO IT!
+//［沙夜香］：お望み通り、恐ろしい苦しみに悶えなさい！
+[Sayaka]: As you wish, be anguished by this fearsome suffering!
+//［コウジ］：ムッ‥‥‥‥。
+[KOUJI]: M-....
+//［沙夜香］：ホーッホッホッホ！
+[Sayaka]: Ho~hohoho!
+//［コウジ］：（意識が遠のいて‥‥いく‥‥。）
+[KOUJI]: (My consciousness is going...far...away..)
+//［涼子］：宏治さまっ！！
+[Ryouko]: Kouji-sama-!!
+//［コウジ］：（涼子か‥‥‥？）
+[KOUJI]: (Ryouko...?)
+//［コウジ］：（むぅ‥‥‥‥。）
+[KOUJI]: (Mm...)
+//［コウジ］：（成功、する‥‥の‥‥だろう‥‥か‥‥‥‥。）<$05>
+[KOUJI]: (It'll...be...successful...right......?)
+//r&s
+
+//xenon_29
+
+//［涼子］：宏治さまっ！
+[Ryouko]: Kouji-sama-!
+//［沙夜香］：りょ、涼子！　いったいいつのまに‥‥。
+[Sayaka]: Ry-Ryouko! Just when did you...
+//［涼子］：こ、宏治様‥‥‥‥うそ‥‥‥‥。
+[Ryouko]: K-Kouji-sama...it can't be...
+//［沙夜香］：フン、どうやって抜け出してきたか知らないけど‥‥。
+[Sayaka]: Hmph, I don't know how you slipped out, but...
+//r&sb
+
+//［涼子］：沙夜香ぁ～、役人だからって、許さないわよ！！　私の宏治様に‥‥。
+[Ryouko]: Sayakaaa~, you're a government official, so I won't forgive this!! Doing this to my Kouji-sama...
+//［沙夜香］：ほーっほっほ、もう遅いわ、彼の脳はもうペチャンコのパイ状態になっているわよ。
+[Sayaka]: Ho~hoho, you're too late, his brain is already a flattened pie in that noggin of his.
+//［涼子］：な、な、な‥‥なんでえすってぇぇぇっ！！！
+[Ryouko]: W-w-w...WHAT DID YOU SAY!!!
+//［沙夜香］：あなたも、同じめに、あわせてあげるわっ！
+[Sayaka]: I'll let you join him in kind, too!
+//［涼子］：三十路前にしてやっと伴侶を見つけたのにぃぃ‥‥。
+[Ryouko]: And I'd just found my partner before I'd hit my thirties...
+//［沙夜香］：あら、それは残念ね。年増の恨み辛みは恐いこと。
+[Sayaka]: Ara, how unfortunate. The grudges built up over years can be quite terrifying.
+//［涼子］：くらえぇっ、悔しさ倍増ジェラシー・パーーーーッンチィィ！！
+[Ryouko]: Take this, my regrets doubled up, JEALOUSY PUUUUUUUUNCH!!
+//r&sc
+
+//［涼子］：このぉ～！　私の宏治様に、私のぉ！！
+[Ryouko]: YOU~! How could you do this to my Kouji-sama, my Kouji-sama!!
+//［沙夜香］：痛っ‥‥痛い、痛いわ、やめてぇっ！
+[Sayaka]: Ow...ow, that hurts, stop it!
+//ゲシッ、ゲシッ、ゲシッ！
+
+//［涼子］：くそっ、くそっ、このぉぉ～！！
+[Ryouko]: Fuck, shit, YOU~!!
+//［涼子］：宏治様はねっ、私のモノなのよ！　三十路を迎える前に、やっと、やっと見つけた伴侶だと思ったのにぃ！
+[Ryouko]: Kouji-sama was MINE! I thought I'd finally, finally found my partner before hitting thirty!
+//［涼子］：このっ、このっ！！
+[Ryouko]: You bitch, you bitch!!
+//［沙夜香］：きゃぁぁ、やめてぇぇ‥‥お願い‥‥痛っ、痛いわ‥‥もう堪忍してぇぇぇっ！！
+[Sayaka]: Kyaaaa, stop iiiit....please...ow, that hurts...please have mercyyyyy!!
+//［涼子］：こっちはねっ、堪忍袋の緒が切れてんのよっ！
+[Ryouko]: The drawstring on my bag of mercy has been cut!
+//［涼子］：資金ぐりの時も、いつもいつも私の邪魔をして、役人の権威を振りかざせばいいと思って‥‥。
+[Ryouko]: Also, even when we were raising capital, you were always intruding on me, wielding your bureaucratic authority like some badge of honor...
+//［沙夜香］：痛い、痛いよぉ～！
+[Sayaka]: Oww, that hurts!
+//［涼子］：それにあなた、ちょっと羽振りがいいからって、このあいだ若い男を連れて歩いてたじゃない！
+[Ryouko]: On top of that, as soon as you were doing a little well for yourself, you started coming for my young man, didn't you!
+//［沙夜香］：そ、それと何の関係が‥‥。
+[Sayaka]: Th-there's no connection there....
+//［涼子］：あるわよ、にくったらしいわねっ！
+[Ryouko]: There IS one, you revolting bitch!
+//ゲシッ、ゲシッ、ゲシッ。
+
+//［沙夜香］：あぅ、あぅ‥‥。
+[Sayaka]: Au, au....
+//［涼子］：アシカか、あんたは。くのぉ、くのぉぉっ！！
+[Ryouko]: What are you, a sea lion? You, YOUUU!!
+//［涼子］：寝たふりをしたってね、ダメなのよね、もう！
+[Ryouko]: Faking sleep won't do you any favors, now!
+//［涼子］：ああ、涙が出てきちゃったわ‥‥あぁぁ、宏治様ぁぁ‥‥グスン。
+[Ryouko]: Ahh, my tears are coming out...Ahhh, Kouji-samaaa....*sob*
+//［涼子］：沙夜香ぁ、年増の恨み辛みは、酷いわよぉ！
+[Ryouko]: Sayakaa, the years really build up some cruel grudges!
+//［舞］：りょ、涼子姉さん‥‥もう沙夜香さん、気を失ってます。
+[Mai]: Ry-Ryouko nee-san...Sayaka-san has already passed out.
+//［涼子］：ま、舞‥‥大丈夫だった？
+[Ryouko]: M-Mai...you're all right?
+//［舞］：私は‥‥私は大丈夫です。
+[Mai]: I...I'm fine.
+//［涼子］：よかった、大切な妹になにかあったら、どうしようかって‥‥。
+[Ryouko]: Thank goodness, if anything happened to my dear little sister, I don't know what I'd do...
+//［舞］：んもおう、なによ、あんなひどい事をして‥‥。
+[Mai]: Mmm, come on, she's done something horrible...
+//［恵］：サンキュッ、涼子先生。
+[Megumi]: Thank you, Ryouko-sensei.
+//［涼子］：恵チャン、平気だった？
+[Ryouko]: Mai-chan, are you feeling well?
+//［恵］：うん、解いてくれて、ありがと‥‥。
+[Megumi]: Yes, please explain the situation to me...
+//［涼子］：痕になっちゃってるわね‥‥。
+[Ryouko]: You've gotten a scar....
+//［恵］：この沙夜香って女性、ぜったいサドだよ。私のことを縛るとき、もう嬉々としていたもん。
+[Megumi]: This Sayaka woman, is definitely a sadist. When she tied me up, she was elated.
+//［涼子］：でも良かったわ、無事で‥‥。
+[Ryouko]: But thank goodness, you're not harmed...
+//［恵］：そ、それよりも宏治が‥‥。
+[Megumi]: B-besides that, Kouji...
+//［涼子］：間にあわなかったの‥‥？
+[Ryouko]: Did we not make it...?
+//［舞］：う、うそ‥‥。
+[Mai]: I-it can't be....
+//r&m&m
+
+//［舞］：う、うそ‥‥宏治サン‥‥。
+[Mai]: I-it can't be...Kouji-san...
+//［恵］：し、死んじゃったの？
+[Megumi]: D-did he die?
+//［涼子］：わからない‥‥でも、脳味噌が恐らくパイ投げのパイのようになっちゃっているんじゃ‥‥。
+[Ryouko]: I don't know...however, his brains are probably splattered like a pie inside...
+//［舞］：いやぁぁぁっ！
+[Mai]: Noooooo!
+//［涼子］：舞、取り乱すんじゃありませんよ。
+[Ryouko]: Mai, please don't break down.
+//［舞］：だって‥‥だって‥‥。
+[Mai]: But...but...
+//［恵］：それよりも、この沙夜香ってヤツ、どうする？
+[Megumi]: Besides, what will you do to Sayaka?
+//［涼子］：そうね、どこかその辺に捨てちゃいましょう。
+[Ryouko]: Good question. I'll cast her somewhere off to the side.
+//［舞］：そんな、生ゴミじゃないんだから、お姉さん‥‥。
+[Mai]: Sh-she's not some kitchen scraps, Onee-san...
+//［恵］：宏治を殺した女よ、八つ裂きにしても、やりたりないくらいよっ。
+[Megumi]: For the woman who killed Kouji, even ripping her limb from limb won't be enough.
+//［舞］：そうですけど‥‥。
+[Mai]: That's true, but...
+//［涼子］：そうねぇ、やっぱり、その辺に捨てましょう。
+[Ryouko]: Indeed, we really should cast her out.
+//［恵］：宏治ぃ、私の為に目を覚まして‥‥。
+[Mai]: Koujii, please awaken for me....
+//［舞］：宏治サンは、私のことを一番大事だって、言っていました。
+[Mai]: Kouji-san said I was the most important person to him.
+//［恵］：なによぉ、私は結婚を申し込まれているんですからねっ！
+[Mai]: Whaat? But he proposed to me!
+//［涼子］：こらこら、２人とも時と場所をわきまえなさい。
+[Ryouko]: Hey, both of you, have some discretion about this time and place.
+//［舞］：だって、涼子姉さん‥‥。
+[Mai]: But, Ryouko nee-san...
+//［涼子］：ほらほら、そんな泣きそうな顔をしないで。とにかく、宏治様をこのままにしておいたら‥‥。
+[Ryouko]: Now, now, don't start crying on me. In any case, if we leave Kouji-sama here...
+//むくっ。<$05><$04><$30>
+
+//r&m&mb
+
+//［涼子・舞・恵］：きゃぁぁぁぁぁっ～！！
+[Ryouko, Mai, Megumi]: Kyaaaaaaaa~!!
+//［涼子］：ここここ、宏治様‥‥？
+[Ryouko]: K-K-K-K-Kouji-sama...?
+//［恵］：い、生きて‥‥。
+[Megumi]: Y-you're alive....
+//［舞］：生きてらしたんですかっ？
+[Mai]: You're alive?
+//［コウジ］：ご挨拶だな、私が生きていたら、まるで困るような口振りだ。
+[KOUJI]: Greetings. It seems me being alive has been difficult for you to put into words.
+//［涼子］：と、とんでも無いです‥‥けど、よくご無事で。
+[Ryouko]: N-not at all...but, it's good to know you're fine.
+//［コウジ］：うむ、どうやら、終わったようだ。
+[KOUJI]: Indeed, it seems it's over.
+//［涼子］：おわった‥‥？
+[Ryouko]: Over...?
+//［コウジ］：そうだ‥‥‥‥。
+[KOUJI]: That's right...
+//［コウジ］：とりあえず、やるべきことは終わった‥‥。
+[KOUJI]: In other words, I finished what I wanted to....
+//［コウジ］：だが、当分こちらに足止めか‥‥‥‥。
+[KOUJI]: However, for the time being, I've been stranded here....
+//［コウジ］：フン、まぁいい。この時代、この世界でやるべきことを見つければすむことだ。
+[KOUJI]: Hmph, well, fine. In this era, in this world, if I find something to do, I'll be at ease.
+//［コウジ］：そしてそれを見つけるのは、至極簡単と言える‥‥。
+[KOUJI]: And finding it is exceedingly easy....
+//［コウジ］：我がゆくは、覇王への道のみ‥‥。
+[KOUJI]: I tread only the path of an overlord...
+//その後、私は‥‥‥‥。<$05>
+After that, I....
+//all2
+
+//xenon_06
+
+//実はまだ、私は開発途上の地球という惑星にいる。未だ、この脆弱な肉体の中に宿りながら‥‥。
+The truth was, I was still on this developing planet called Earth. I was still stuck in this puny body...
+//［恵］：ああン、宏治ぃ‥‥お願いよ、もっともっと、ナメナメしてあげるからぁ‥‥。
+[Megumi]: Ahhhm, Koujii...please, lick me more and more....
+//［舞］：宏治サン‥‥私が身体を綺麗にして差し上げます。
+[Mai]: Kouji-san...please make my body beautiful.
+//［涼子］：ちょっと、姉の私を差し置いて‥‥ほら、宏治様。この胸で感じて下さいまし。
+[Ryouko]: Hold it, as the elder sister, I go first...here, Kouij-sama. Please feel my breasts.
+//［恵］：フフン、２号以下はお黙り。私が正妻なんですからねっ。
+[Megumi]: Huhum~, pipe down, numbers 2 and 3. After all, I'm his real wife.
+//［沙夜香］：んぐんぐ。
+[Sayaka]: 
+//［涼子］：２号以下でも、宏治様はね、私のことを‥‥。
+[Ryouko]: I may be number 2, but Kouji-sama still...
+//［舞］：私のことを一番大切だって、言ってくれたんですよね。
+[Mai]: He said I'm the most important to him.
+//［恵］：ねぇ、宏治ぃ‥‥今日は私の番よね？
+[Megumi]: Hey, Koujii...today, it's my turn, right?
+//［涼子］：私のはずよ、恵チャン、あなた昨日したでしょ？
+[Ryouko]: It should be my turn, Megumi-chan. You did it yesterday, didn't you?
+//［舞］：ねぇ、お姉さん、一緒に私もまぜて‥‥。
+[Mai]: Hey, onee-san, let me in the mix.
+//［涼子］：いくら妹の頼みでも、それは聞けないわね。
+[Ryouko]: I've allowed you a lot of things as my little sister, but I can't do that.
+//［沙夜香］：んぐんぐ‥‥。
+[Sayaka]: 
+//［コウジ］：フン、一時的にせよ、未来の私の肉体へのアクセスができたのだからな‥‥。
+[KOUJI]: Hmm, even if temporarily, I was able to access the future me's physical body...
+//［コウジ］：チャンネルは常時開かれた状態だ‥‥。
+[KOUJI]: The channel is frequently open...
+//［コウジ］：フン、まぁシンクロはすぐに出来るようにはなったがな。
+[KOUJI]: Hmm, well, it seems I will be able to synchro again.
+//［宏治］：《みんな、お前のせいだろうが。もう２度と、あんな機械は作らせないぜ。》
+[Kouji]: "Everyone, it was all thanks to you. I won't have to use that machine ever again."
+//［コウジ］：《大丈夫だ、私が作る。》
+[KOUJI]: "It's all fine, I made it, after all."
+//［宏治］：《根本的解決にはならないなぁ‥‥。》
+[Kouji]: "I can't solve the issue at the root, can I..."
+//［コウジ］：《もうすぐ、かどうかはわからないが、そのうちモノラル・ジェネレータが完成する。》
+[KOUJI]: "I don't know what will happen next, but you should finish my Monoral generator."
+//［宏治］：《モノラル‥‥なんだって？》
+[Kouji]: "Monoral...what's that?"
+//［コウジ］：《モノラル・ジェネレータだ。双方のジェネレータをシンクロさせなくても、片方からの通信で思念体のチェンジが可能だ。》
+[KOUJI]: "The Monoral generator. Even when the generators on both sides can't be synchronized, through communications from one side, thought bodies can be swapped."
+//［宏治］：《本当だろうな‥‥。》
+[Kouji]: "Are you serious...?"
+//［コウジ］：《本当だ。少なくとも私はそう信じているぞ。》
+[KOUJI]: "I'm serious. Have a little faith in me."
+//［宏治］：《それが信用できないって言ってるんだよ。》
+[Kouji]: "I told you before that I can't trust you."
+//［コウジ］：《では、通信を切る。また１週間後だ‥‥。》
+[KOUJI]: "Well, then, I'm cutting our communications. See you in a week..."
+//［宏治］：《あぁ、とっとっと失せろ！》
+[Kouji]: "Ahh, h-h-hold on!"
+//［コウジ］：《短気はカルシウム不足だな。もう少し、魚を食え。》
+[KOUJI]: "Your impatience must be from a calcium deficit. Eat some more fish."
+//［宏治］：《‥‥‥‥‥‥。》
+[Kouji]: "........"
+//［コウジ］：《こちらはこちらで、色々とあってな、結構しんどかったのだぞ。》
+[KOUJI]: "On this side, I ran into quite a lot, but I dealt with it reasonably."
+//［宏治］：《自業自得だ、ったく。》
+[Kouji]: "You reap what you sow, bastard."
+//［恵］：宏治様、どうしたんですか？
+[Megumi]: Kouji-sama, what's going on?
+//［コウジ］：うむ、少し考え事をしていただけだ。おい、沙夜香！
+[KOUJI]: Why, I'm just thinking of a few things. Hey, Sayaka!
+//［沙夜香］：は、はい。
+[Sayaka]: Y-yes.
+//［コウジ］：貴様、もっと気合いを入れてくわえないか！
+[KOUJI]: Put a little more effort into it!
+//［沙夜香］：はい‥‥宏治様‥‥。
+[Sayaka]: Yes...Kouji-sama...
+//［コウジ］：法務局の上層部のヒヒ爺いどもは、既に手中にあるのだろうなっ？
+[KOUJI]: The legal affair bureau's upper brass will be within our grasp soon, won't they?
+//［沙夜香］：はい、もう大変でした。縛られたり、浣腸をされたり、ろうそくを垂らされたりして‥‥。
+[Sayaka]: Yes, they'll be difficult. We'll tie them up, give them enemas, and hang candles above them...
+//［コウジ］：フン、どうせ貴様も喜んでやっていたんだろう。
+[KOUJI]: Hmm, at any rate, you're enjoying this, too, aren't you?
+//［沙夜香］：そんなぁ、宏治様以外の人じゃイヤです。ほら、見て下さい、お尻とか胸に、こんなにキスマークが‥‥。
+[Sayaka]: Come on, I won't do it with anyone other than Kouji-sama. Here, look, my butt and chest are covered with this many hickeys....
+//［コウジ］：お前はこれをしゃぶっていろっ！
+[KOUJI]: Come and suck on this!
+//ずぼっ。
+
+//［沙夜香］：んぐっ‥‥んんんん‥‥。
+[Sayaka]: *glug*...mmmmmmm...
+//［コウジ］：いつか、あの宏治とやらいう脆弱な思念体とチェンジする前に、こちらで王政を敷いておいてやろう。
+[KOUJI]: At some point, before swapping with that weak thought body named Kouji, I will impose monarchical rule here.
+//［コウジ］：私の、ささやかなお詫びというやつだ。ありがたく思え。
+[KOUJI]: My humble apology. I'm grateful to him.
+//［涼子］：頼もしいですわ、宏治様。
+[Ryouko]: You're so reliable, Kouji-sama.
+//［恵］：宏治ぃ‥‥じゃなかった、宏治様、式場はどこにする？
+[Megumi]: Koujii...no, Kouji-sama, where's the chapel?
+//［舞］：宏治様、私のことを一番気に入ってくださっているんですよね‥‥。
+[Mai]: Kouji-sama, please tell me that I'm the one you're most interested in....
+//［女性一同］：きゃぁぁ～、素敵ぃ、宏治様ぁぁぁっ！！<$05>
+[All the girls at once]: Kyaaa~, you're so wonderful, Kouji-samaaaa!!
+//　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ<$04><$30><$05>
+
+//（おかしいな‥‥。）
+(How strange...)
+//足音はいつまでたっても止まず、そればかりかどんどん遠ざかっているような気すらした。
+The unending, continuous footsteps seemed to be steadily getting farther and farther.
+//（じょ、冗談じゃないぞ‥‥何とかしなくちゃ。）
+(Th-this is no joke...I have to do something...)
+//　◆ 無論、あの足音のする方へ行った方がいい。
+◆ Naturally, I should follow those footsteps.
+//　◆ 現状把握の為にも、もう少し１人で調べてみよう。
+◆ To get a better grip on my situation, I should investigate here alone.
+//無論、あの足音のする方へ行った方がいい。
+Naturally, I should follow those footsteps.
+//第一、ここはどこかもわからないのだ。小さく反響している足音の後を、そっと付いていった。
+First of all, I don't even know where I am. I quietly followed the faintly echoing footsteps.

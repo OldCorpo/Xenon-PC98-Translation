@@ -1,0 +1,90 @@
+//<$0C><$04><$30><$05>
+
+//言い様のない不安に襲われていたのも事実だった。私は、手近なドアを開けると、その中に身を潜めた‥‥。
+It's true that I was stricken by an indescribable anxiety. As I opened the door by my hand, my body was enveloped by it...
+//（寒いな‥‥‥‥。）
+(It's cold......)
+//その部屋は寒々としていた。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れている。
+That room was cold. I could see my breath in front of me, swaying back and forth.
+//どうやら、妙な場所へ出てしまったようだが‥‥。
+Somehow, I wanted to get out of this strange place...
+//ドンドンドン、ドンドンドン！<$04><$32><$05>
+*bang bang bang*, *bang bang bang*!
+//私は屈んでパネルをのぞき込んだ。そこには小さな文字で、こうディスプレイされていた。
+I bent over and peeked at the panel. It was displayed in small print.
+//（そうだ、だんだん、思い出してきたぞ‥‥‥‥。）
+(That's right, I'm slowly remembering...)
+//（私は、これを利用して‥‥‥‥。）
+(If I use this...)
+//‥‥‥‥‥‥。<$05><$04><$33>
+
+//ra&to03
+
+//ra&to03b
+
+//ra&to03c
+
+//［トレイシー］：コウジ様、お気をつけ下さい。
+[TRACY]: Kouji-sama, please be careful.
+//［ランファ］：コウジ様ぁ、ランファの為に、きっと帰ってきて下さぁい。
+[LANHUA]: Kouji-samaa, for my sake, please definitely come baack.
+//［コウジ］：うむ、このジェネレータは私が大幅に改良したものだからな。理論上は完璧だ。
+[KOUJI]: Indeed, I made a great improvement to this generator. It's theoretically complete.
+//［トレイシー］：はい、そう信じています。
+[TRACY]: Yes, I believe so.
+//［ランファ］：私も‥‥私もですぅ。
+[LANHUA]: I...I think so, too.
+//私は、あまり上等とは言えないクッションの上に仰向けになりながら、２人の心配そうな顔を交互に見た。
+As I laid down upon the shabby cushion, the two exchanged worried looks.
+//小さな眼鏡を掛けてる金髪の女は、トレイシーという。私の秘書兼、参謀でかつ奴隷の女だ。
+The blonde woman with glasses was Tracy. My secretary, staff member, and slave.
+//よく気の付く性格は、まことに秘書に相応しい。全銀河秘書にしたいベスト１０というのがあれば、その中に間違いなく名を連ねたろう。
+The most common personality she showed was a straightforward secretary. If I were to rank the 10 best secretaries of the entire Milky Way, she would certainly be among them.
+//そして、大きなレモンイエローのリボンがトレードマークの、まだあどけなさの取れない顔つきの女は、ランファという。
+Also, the unbearably innocent woman with the trademark big lemon-yellow ribbon is Lanhua.
+//この機動シップ《クワドラ》の機関士兼、航海士でかつ私の奴隷だ。
+She is this mobile ship {Quadra}'s engineer, navigator, and my slave.
+//脳のシナプスの２、３万本は、常に焼き切れている、ちょっと間の抜けた女だ。だが、メカに対する知識は深く、この《クワドラ》に無くてはならない存在である。
+The twenty or thirty thousand synapses in her brain are frequently burned out, so she's a little dumb. However, she has deep knowledge of mechas, and is an irreplaceable presence on the {Quadra}.
+//［コウジ］：大宇宙海賊御用達霊子エナジー増幅ジェネレータの準備は万端か？
+[KOUJI]: Did you finish preparing the Universal Pirate Company Reiko Energy Amplifying Generator?
+//［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。
+[LANHUA]: Yes, the numerical data you spoke of has already been input.
+//［トレイシー］：後は、ファルネリアさんのシンクロを待つだけですわ。
+[TRACY]: All we have to do now is wait for Farnelia's synchronization.
+//［コウジ］：うむ。
+[KOUJI]: Indeed.
+//私はうなずきながら、隣の装置に入っている女性を横目で見た。
+As I nodded, I glanced sideways at the woman placed in the equipment next to me.
+//［コウジ］：（後は、あの女が上手くシンクロしてくれれば‥‥。）
+[KOUJI]: (As long as this woman will synchronize well...)
+//彼女‥‥ファルネリアという名前の女性は、非常に精神感応の力に優れている。今回この計画には、彼女のような人材が必要不可欠だったのだ。
+She was...a woman named Farnelia, with unusually good telepathic abilities. Personnel like her will be a vital, irreplaceable part of my plans this time.
+//大宇宙海賊御用達霊子エナジー増幅ジェネレータ‥‥私が付けたナイスネームのこの装置は、人体から霊子エネルギーを分離する。
+The Galactic Pirate Company Reiko energy amplifying generator...this well-named system I made would extract Reiko energy from human bodies. 
+//早い話が、幽体分離装置である。
+In short, it's a device to separate ethereal bodies from physical ones.
+//私のような屈強の宇宙海賊は、力だけではない。広大な銀河宇宙の情報をも、一手に担っておかなくてはならない。
+All a brawny galactic pirate like me needs is power. I can't collect information from all over the vast Milky Way galaxy all by myself.
+//そして今回の計画は、大宇宙海賊という地位を、さらに不動のモノにしてしまおうという試みなのだ。
+Therefore, my current plans are trying to entrench my position as a galactic pirate further.
+//幽体となれば、どのような場所であれ入り込むことが可能な上、時間的距離はゼロに等しくなる。つまり、情報の隠蔽は、私に対しては事実上不可能となるのだ。
+In ethereal form, it's possible to enter any place, and the time delay becomes equal to zero. In other words, it becomes impossible to hide any information from me.
+//もっとも幽体フライトには、強力な精神感応者が触媒として必要になった。そこでファルネリアというプロフェッサを、かっぱらってきたという次第だ。
+However, ethereal flight requires a strong telepathic medium. That's why I pilfered the professor Farnelia.
+//屈強の大宇宙海賊でかつ大天才である私が、改良をくわえたジェネレータだ。万が一にも失敗は無い‥‥はずだ。
+Being a brawny galactic pirate and a gifted, talented genius, I improved upon the generator. There's next to no chance of failure...probably.
+//［トレイシー］：コウジ様、いかがなされましたか？
+[TRACY]: Kouji-sama, have you finished?
+//［コウジ］：うむ、武者震いというやつだろう。少しゾクゾクする。
+[KOUJI]: Indeed, I'm shaking with excitement, even throbbing a bit.
+//［トレイシー］：頼もしい限りですわ。
+[TRACY]: You can depend on us.
+//［ランファ］：がんばって下さいね、コウジ様ぁ。
+[LANHUA]: Please give it your all, Kouji-samaa.
+//［コウジ］：では、行ってくることにしよう。
+[KOUJI]: Well then, let's get going.
+//私はそう言うと、ゆっくりと目をつぶった。まわりで響いていた重々しい稼働音が、少しずつ小さくなっていく。
+As I said that, I slowly closed my eyes. A heavy moving sound rang all around, and slowly died down.
+//私は心地よい振動と静寂に、身を委ねていった‥‥‥‥。<$05>
+I silently surrendered my body to the pleasant vibration...

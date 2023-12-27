@@ -1,0 +1,406 @@
+//s0306a
+
+//［宏治］：んー、じゃあランファ、かな？
+[Kouji]: Mm, well, then, Ranphar, I guess.
+//［コウジ］：黙って聞くのだ。あの時の君は本当にラブリィだったと言うのだ。
+[KOUJI]: Be quiet and listen to me. At that time, say, "You were really quite lovely."
+//［コウジ］：いいから、この通り言うのだ。ただし、トレイシーの前では決して言うな。いいな？
+[KOUJI]: It's fine, just speak as I speak. But, don't say a word of this to Tracy. Got it?
+//［宏治］：あっ、ランファは、ちょっとまだ残ってくれ。
+[Kouji]: Ah-, Ranphar, wait here for a bit.
+//［ランファ］：はい、なんですか？
+[RANPHAR]: Yes, is something the matter?
+//［トレイシー］：ランファ、ちゃんとコウジ様の面倒を看てあげるのですよ。
+[TRACY]: Ranphar, please take care of KOUJI-sama's matters.
+//［ランファ］：わかってるわよぉ、もう、早く行って。
+[RANPHAR]: Understood~. Just go already.
+//［ランファ］：トレイシーったら、いつまでたってもランファのことを子供扱いなんだからぁ。
+[RANPHAR]: Tracy's always treating me like a child.
+//［宏治］：と、とりあえず、明かりが眩しいから、少し暗くしてくれよ。
+[Kouji]: A-anyway, it's too bright here, so please dim the lights.
+//パチッ。
+*click*
+//［宏治］：ちょっと暗すぎるんだけど‥‥。
+[Kouji]: Uh, now it's a little too dark...
+//［ランファ］：んー、加減がむつかしいですぅ‥‥。
+[RANPHAR]: Nngh, it's a little hard to control...
+//［ランファ］：なんでしょうか‥‥。
+[RANPHAR]: What's with this thing?
+//［宏治］：（ラブリィだったなんて、言うのかよ‥‥。）
+[Kouji]: (Do I say, "You were really quite lovely" right now?)
+//［ランファ］：あの、何かランファ、怒られるようなこと‥‥。
+[RANPHAR]: Um, you seem kind of angry at me...
+//［宏治］：いや、違うって。
+[Kouji]: No, I'm not.
+//［宏治］：いや、何でもない‥‥気にしないでくれ。
+[Kouji]: No, it's nothing...don't mind me.
+//［ランファ］：あの‥‥どうしたんですか？
+[RANPHAR]: Um...is something the matter?
+//［ランファ］：はい、なんでしょうか。
+[RANPHAR]: Yes, what is it?
+//［宏治］：ランファに話さなきゃならない事があるんだ。
+[Kouji]: Ranphar, there's something I have to tell you.
+//［ランファ］：ま、まさか‥‥。
+[RANPHAR]: C-could it be...?
+//［宏治］：そのまさかさ。
+[Kouji]: Yes?
+//［ランファ］：ランファは、もうコウジ様に必要ないんでしょうか？
+[RANPHAR]: KOUJI-sama has no use for Ranphar anymore?
+//［宏治］：ガクッ、何か話がそれてるような‥‥。
+[Kouji]: Wh-what are you saying?
+//［ランファ］：ランファ、がんばります。何でもします。エンジンも格納庫も、もっともっとピカピカにします。掃除炊事お洗濯も、がんばっちゃいますぅ。
+[RANPHAR]: I'll give it my all, no matter what the task is. I'll make the engine or the hangar absolutely sparkling. If it's cleaning, cooking, or laundry, I'll do my best, too.
+//［ランファ］：だから‥‥だから、捨てないで下さいぃ～うるうるぅ。
+[RANPHAR]: So...so please, don't send me away~*sob*.
+//［宏治］：誰が捨てるって言ってるのさ。
+[Kouji]: No one's talking about sending you away.
+//［ランファ］：捨てないんですか？
+[RANPHAR]: You're not firing me?
+//［宏治］：人聞きの悪い、オレはそんなこと、しないぞ。
+[Kouji]: I'm not a scoundrel.
+//［ランファ］：ホント？
+[RANPHAR]: Really?
+//［宏治］：本当。
+[Kouji]: Really.
+//［ランファ］：ウソですぅ‥‥。
+[RANPHAR]: You're lying to me...
+//［宏治］：なんで。
+[Kouji]: I'm not.
+//［ランファ］：だってだって‥‥顔が真面目ですぅ‥‥。
+[RANPHAR]: But, but...you looked so serious...
+//［宏治］：顔が真面目だと、何でウソなの。
+[Kouji]: I am serious, so why would I lie there?
+//［ランファ］：だってだって‥‥コウジ様って、真面目な顔をしてウソを吐きます。
+[RANPHAR]: But, but...KOUJI-sama will lie even when he looks serious.
+//［宏治］：（何てヤツだ、コウジ！）
+[Kouji]: (That KOUJI's such a bastard!)
+//［ランファ］：違うんですか？
+[RANPHAR]: Doesn't he?
+//［宏治］：捨てるなんて、もったいない‥‥じゃなくて、とにかく違う。
+[Kouji]: I wouldn't even consider firing...I mean, in any case, that's not it.
+//［ランファ］：なんでしょうか？
+[RANPHAR]: Then what is it?
+//［ランファ］：どうしたんですか、宏治様ぁ。
+[RANPHAR]: What's the matter, Kouji-sama?
+//［宏治］：何の話をしてたっけ？
+[Kouji]: What was I about to say to you again?
+//［ランファ］：んと、ランファを捨てないって話です。
+[RANPHAR]: Um, it was about not firing me.
+//［宏治］：違うよ、最初の方。
+[Kouji]: No, that was the first topic.
+//［ランファ］：んー、なんでした？
+[RANPHAR]: Mm, then what was it?
+//［宏治］：なんだっけ。
+[Kouji]: What was it.
+//［ランファ］：んー。
+[RANPHAR]: Hmm...
+//［宏治］：そうだ、思い出した。コウジじゃないって話だよ。
+[Kouji]: Oh yeah, that's right. It was about me not being KOUJI.
+//［宏治］：君には、謝らなくちゃならないんだ。
+[Kouji]: I have to apologize to you.
+//［ランファ］：‥‥何を、ですか？
+[RANPHAR]: ...for what?
+//［宏治］：オレは宏治だけど、君らが言う海賊コウジじゃあない。
+[Kouji]: I may be KOUJI, but not the pirate KOUJI you ladies speak of.
+//［ランファ］：どういう‥‥ことですか？
+[RANPHAR]: What...do you mean by that?
+//［宏治］：上手く言えないけど、別人なんだ。
+[Kouji]: I can't explain it well, but I'm a different person.
+//［ランファ］：記憶を無くしてるから、なんですか？
+[RANPHAR]: Was it because you lost your memories?
+//［宏治］：違う。性格、人格、意識、全て別と思った方がいい。というか、全然別なんだよ、実際。
+[Kouji]: No. It's better if you think of my character, personality, and consciousness as something entirely different. In other words, a whole different person, really.
+//［ランファ］：よくわかりません‥‥。
+[RANPHAR]: I don't get it...
+//［宏治］：んー‥‥意外に難しいな。
+[Kouji]: Mm, this is harder than I thought.
+//［ランファ］：ランファのことが、嫌いなんですか？
+[RANPHAR]: Do you hate Ranphar?
+//［宏治］：違うよ。
+[Kouji]: No, I don't.
+//［ランファ］：じゃあ、好き？
+[RANPHAR]: Well, then, do you like me?
+//［宏治］：何でそうなるかなぁ‥‥。
+[Kouji]: Why would you suddenly jump to that?
+//［ランファ］：じゃあ、嫌い？
+[RANPHAR]: T-then do you hate me?
+//［ランファ］：嫌いなんですねっ、やっぱり‥‥。
+[RANPHAR]: You really do hate me, don't you...
+//［宏治］：ち、違うってば。
+[Kouji]: No, I told you, I don't.
+//［ランファ］：ランファ、童顔だし胸だってトレイシーほどないし、どっちかというとペッタンコだし‥‥。
+[RANPHAR]: But, my face is so childlike, and my chest can't compare with Tracy's. Every part of me leaves something to be desired...
+//［宏治］：そういうことじゃないんだけど‥‥。
+[Kouji]: But I don't think that way about you...
+//［ランファ］：じゃあ、どういうことですか？
+[RANPHAR]: Well, what do you think?
+//［宏治］：だから、オレは宏治であって、コウジじゃない‥‥あぁ、もういいよ。オレも混乱しそうだ。
+[Kouji]: As I said, I'm Kouji, not KOUJI...agh, forget it. I'm confused too.
+//［ランファ］：クスクスッ、コウジ様はコウジ様です。それでいいんじゃないですか？
+[RANPHAR]: Heehee, KOUJI-sama is KOUJI-sama. Isn't that a good thing?
+//［宏治］：（もしかしてランファ、気付いているんじゃないかな‥‥。）
+[Kouji]: (Has Ranphar not realized it yet?)
+//［宏治］：（暗に、言うなってこと？）
+[Kouji]: (Or has she already implied it?)
+//［ランファ］：えっ、どうしたんですか？　急に‥‥。
+[RANPHAR]: Um, what's the matter? You just...
+//［宏治］：あの時の君は、その、本当にラブリィだったよ‥‥。（げっ！）
+[Kouji]: At that time, you were really quite lovely... (Geh!)
+//ra01b
+
+//ra01b_m
+
+//［ランファ］：な、何故ですか？　コウジ様‥‥‥‥。
+[RANPHAR]: H-how? KOUJI-sama......
+//［宏治］：何故って‥‥‥。
+[Kouji]: What do you mean by "how?"...
+//［ランファ］：あの時の事は、忘れろって‥‥。
+[RANPHAR]: I thought you'd forgotten about that time....
+//［宏治］：んなこと言ったの、しょうがねぇなぁ、アイツ‥‥<$0C>ランファ？
+[Kouji]: Nn, I told you before, I can't help it, he...<$0C>Ranphar?
+//両目に涙をためたランファが、胸の前で両手を硬く握りしめ、首を小刻みに振りながらイヤイヤをしていた。
+With tears filling her eyes, Ranphar clasped her hands tightly before her and quickly shook her head.
+//［ランファ］：コウジ様、ランファ、あの時の事を忘れたこと、ありませんっ。
+[RANPHAR]: KOUJI-sama, Ranphar has never forgotten that time.
+//［宏治］：ら、ランファ‥‥。
+[Kouji]: R-Ranphar...
+//［ランファ］：コウジ様‥‥コウジ様が許してくれるなら、ランファ‥‥ランファ‥‥。
+[RANPHAR]: KOUJI-sama...If you will forgive me, Ranphar...Ranphar...
+//［宏治］：（くそぉ、コウジのやつ、こんないい子を泣かせるなんて‥‥。）
+[Kouji]: (Dammit, KOUJI, to make such a good woman cry...)
+//オレは意を決して語りだした。これは、彼女に言っておかなくては、フェアじゃない。
+I spoke to her resolutely. It wasn't fair to keep this from her.
+//［ランファ］：プロポーションも歳の割に子供っぽいのは気にしてるんです。でも、でも、コウジ様をお慕いする想いだけは、トレイシーにだって負けないつもりでしたっ。
+[RANPHAR]: I'm worried that my proportions are childlike for my age. But, but, in terms of yearning for KOUJI-sama, even I won't lose to Tracy.
+//［ランファ］：それはメカフェチで、エンジンやシャトルに頬摺りしたりする時もあるけど、だけど、だけど‥‥コウジ様のことを忘れたことは、１度だってありませんっ！
+[RANPHAR]: Because I'm a mecha freak, there are times I'll rub my cheek against the engine or the shuttle, but, but...I've never forgetten about KOUJI-sama!
+//［宏治］：だ、誰もそんなこと、言ってないじゃないか。
+[Kouji]: N-no one is talking about something like that, ok?
+//［ランファ］：ふぇ～～んっ、コウジ様が、コウジ様が‥‥。
+[RANPHAR]: Wahhhh~~mm, KOUJI-sama, KOUJI-sama....
+//しょうがないなぁ‥‥。
+There's no other way....
+//［ランファ］：こ、コウジ‥‥んっ！？
+[RANPHAR]: K-KOUJI...?!
+//オレはランファの唇を自分のそれでふさいだ。目を大きく見開くと、オレのことを当惑と困惑の表情で見つめている。
+I pressed my lips tightly to Ranphar's. Her eyes widened, and stared at me in a mix of bewilderment and embarrassment.
+//こうなったら仕方がない。ヒステリーの女性を黙らせるのは、これが１番だ。
+I had to do this. Of all the ways to quiet a hysterical girl, this is the best.
+//［ランファ］：んっ‥‥‥‥んん‥‥‥‥。
+[RANPHAR]: Mm-......mmm........
+//手は若干強張っているが、オレの胸に軽く添えられているだけで、拒絶はない。
+Her arms stiffened somewhat, and she propped herself up lightly against my chest, but she didn't refuse.
+//ra01c
+
+//次第に身体の強張りが解けてくると、ランファは目をトロンとさせてこの状況に陶酔してきた。
+As her body relaxed, I saw Ranphar becoming dizzy at the situation.
+//腕を遠慮がちに、おずおずとオレの首の後ろにまわしてくる。口で言っているほど、慣れてはいないな、こいつ。
+With some hesitation, she timidly wrapped her arms around my neck. Just as she said, she's not used to this.
+//［ランファ］：コウジ様、嬉しい‥‥コウジ様ぁ‥‥。
+[RANPHAR]: KOUJI-sama, I'm so happy...KOUJI-sama...
+//オレは彼女の柔らかい唇をふさぎながら、ゆっくりと後ろのベッドへ倒れていった‥‥。
+As I stuffed her mouth shut, we gently fell onto the bed behind us....
+//ra02_m
+
+//［ランファ］：優しくして‥‥下さい‥‥。
+[RANPHAR]: Please...be gentle...
+//［宏治］：あぁ、わかってる。
+[Kouji]: Ahh, I will.
+//［ランファ］：コウジ様‥‥‥‥。
+[RANPHAR]: KOUJI-sama......
+//ランファは、濡れそぼった子猫の様に震えているようだった。しかし目はうるみ、頬も身体も、ほんのりと赤みがかっている。
+Ranphar was shaking like a wet kitty. But in my blurred vision, her face and body were all faintly tinged red.
+//彼女は何かを訴えかけるような、そんな表情でオレを見つめていた。オレは彼女が‥‥ランファのことが、たまらなく愛しく感じてきた。
+She stared at me with an entreating look. I had the irresistible urge to adore her...to adore Ranphar.
+//［宏治］：ランファ‥‥‥‥。
+[Kouji]: Ranphar...
+//そっと抱きしめてみる。ビクっと一度だけ身体を硬直させるが、それはすぐに解けた。
+I softly hugged her. She stiffened up in shock for a moment, but quickly relaxed up again.
+//ふわりとしていて、柔らかかった。きゃしゃのようで、意外に肉付きは悪くない。
+She was really quite plump and soft. She was rather delicate, and her body was really quite pleasant.
+//首筋に息を吹きかけると、ビクっと身体が痙攣させる。
+As I breathed on the back of her neck, her body tensed up in response.
+//［ランファ］：コウジ様‥‥あぁ、コウジ様ぁ‥‥‥。
+[RANPHAR]: KOUJI-sama...ahhh, KOUJI-sama....
+//ランファはオレに甘えるように、頬をすり寄せてくる。ただ抱き合っているだけで、こんなにも幸せな気分になるものだろうか。
+Ranphar sweetly snuggled her cheek against mine. I felt a wonderful happiness just by hugging like this.
+//そっとランファの唇を自分のでふさいだ。柔らかく、暖かい。オレは構わず舌を奥深く差し込んだ。
+I softly pressed my lips to Ranphar's. They were soft and warm. I unreservedly stuck my tongue deep into her mouth.
+//［ランファ］：んっ‥‥んんん‥‥。
+[RANPHAR]: Mm-...mmmm....
+//差し込まれたオレの舌に、ランファは自分の舌を遠慮がちに絡めてきた。オレはその舌を思いきり吸って、自分の口腔へと招き入れる。
+Ranphar, in turn, unabashedly entwined her own tongue around mine. I sucked on her tongue to my heart's content, and invited it into my own mouth.
+//［ランファ］：んぐ‥‥んんんんっ‥‥‥‥。
+[RANPHAR]: Mgh...mmmmm-......
+//唾液を流し込むと、ランファは喉をならして飲んだ。オレの背中に回されていた手に、力が入る。
+As saliva ran down her throat, Ranphar drank down the excess. She pressed her arms further into my back.
+//［ランファ］：んはぁぁ、コウジ様ぁ‥‥。
+[RANPHAR]: Nhaaa, KOUJI-samaa....
+//［宏治］：柔らかいな、ランファの身体は。
+[Kouji]: Your body's quite soft, Ranphar.
+//さすがに胸や腰などは、あのトレイシーなどには及ばないが、要所要所は意外に肉付きが悪くない。
+Indeed, her chest and waist may not be as proportionate as Tracy, but she was still curvy in all the right places.
+//オレは、腰を抱き寄せて、尻の肉を軽く掴んだ。ふにゃっという柔らかい感触が伝わってくる。
+I pulled her hips close to me and lightly grasped her ass. A fluffy, soft feeling enveloped my hands.
+//［宏治］：柔らかいね、ランファのお尻。
+[Kouji]: Your ass is quite soft, too.
+//［ランファ］：もっともっと、揉んで下さい‥‥。
+[RANPHAR]: Please, rub it more...
+//オレは、小さな胸とお尻を抱き寄せながら、彼女の服を丁寧に１枚ずつ、剥いでいった‥‥。
+I pulled her small chest and ass closer, and carefully peeled off her clothing, one item at a time...
+//ra02b_m
+
+//［宏治］：面白いブラだね。
+[Kouji]: What a curious bra.
+//［ランファ］：はい、形状記憶合金性のスティールが、中に入っていて、身体の格好に合わせてくれるという‥‥。
+[RANPHAR]: Yes, it's made of shape memory alloy, so when put on, it conforms to the shape of the body...
+//［宏治］：わ、わかったわかった‥‥。
+[Kouji]: I-I got it, I got it...
+//［ランファ］：それで、この‥‥んっ！
+[RANPHAR]: And on top of that, it...Mm-!
+//オレは盛んに開く可愛らしい唇を、再びオレのでふさいだ。今度は、ランファの方から舌を差し込んでくる。
+Once more, I suddenly pressed my lips to her cute open lips. This time, Ranphar stuck her tongue into my mouth.
+//優しく胸元の下着を横にずらしていく。どのような体型にもマッチするそれは、しかしたやすくオレの思い通りに横にずれた。
+I lightly slid her bra aside. The shape of the material seemed to shift to match her body underneath, but it slid off as I had expected.
+//可愛らしい小さな乳首を指の腹で転がしてみる。次第に硬くなってコリコリしていくのがわかった。
+I rolled my fingertips over her cute, small nipples. They would gradually harden as I played with them.
+//［ランファ］：んはぁぁ、気持ちいいです‥‥あん‥‥。
+[RANPHAR]: Nhaaaaah, that feels good...Ahm....
+//髪の毛に触れてみる。フワリとした感触が、手のひらに心地よさを伝えてくる。柔らかく、流れるような髪の毛だった。
+I ran my hands through her hair. Her soft, flowing hair filled my palms with a pleasant lightness.
+//［宏治］：じゃあ、邪魔な下着はとっちゃおうな。
+[Kouji]: Now, let's remove those panties in the way.
+//［ランファ］：恥ずかしいですぅ‥‥。
+[RANPHAR]: It's embarrassing....
+//ra02c_m
+
+//下半身のハイレグショーツを下にずらすと、薄い茂みが姿を現す。触ってみるとサラサラしている。オレのとは大違いだ。
+As I slid down her high-waist panties, a thin bush revealed itself. In stark contrast to mine, it seemed silky to the touch.
+//［ランファ］：あン、そこは‥‥あっ、コウジ様ぁ‥‥。
+[RANPHAR]: Ahm, don't look there...Ah-, KOUJI-sama....
+//膣内はしっとりと湿っていた。オレの指先で、クチャクチャと、湿った音を立てている。
+Her pussy was quite damp. As I fingered her, it made slick, wet sounds.
+//［ランファ］：んっ‥‥あぁぁ、もう‥‥あぁぁぁ、ダメですぅ‥‥。
+[RANPHAR]: Mm-...Ahhh, please...ahhhhhh, you can't...
+//［宏治］：何が、ダメなんだい？
+[Kouji]: What can't I do?
+//［ランファ］：お願いですぅ‥‥あぁぁ、お願いしますぅ‥‥。
+[RANPHAR]: Please...Ahhh, I'm begging you...
+//［宏治］：フフン、何のお願い？
+[Kouji]: Hehe, what are you begging me for?
+//［ランファ］：ああン、イジワルしないで下さい。欲しいんです、アレが欲しいんですっ！
+[RANPHAR]: Ahhhm, please stop teasing me. I want *that* instead!
+//［宏治］：よし、上になってみな。
+[Kouji]: All right, I'll get on top. 
+//むにゅむにゅ‥‥‥‥。
+*stretch stretch*......
+//［ランファ］：あふぅぅぅぅぅっ、コウジ様ぁぁぁぁっ！
+[RANPHAR]: Ahooooooo, KOUJI-samaaaaa-!
+//［宏治］：うわっ、ランファのアソコって、結構ムニュムニュしてるね。
+[Kouji]: Whoa, your pussy is really stretching, isn't it?
+//［ランファ］：ああン！　ムニュムニュしてるんですぅ‥‥もっともっと、エッチなことを言って下さい！
+[RANPHAR]: Ahhhm! It is stretching...please, say more perverted things!
+//［宏治］：白い液がアソコから出てるぞ。
+[Kouji]: A white liquid is coming out from there.
+//［ランファ］：あぁ、イヤ、ランファ、そんなにエッチじゃありませんっ！
+[RANPHAR]: Ahh, no, Ranphar isn't that lewd!
+//［宏治］：こんなにＨな液を出していて、そんなことを言うのか！
+[Kouji]: You dare to say that when such a lewd liquid is coming out from you?!
+//ずりゅっ、ずりゅっ、ずりゅっ、ずりゅっ。
+*squelch*, *slish*, *squelch*, *slish*.
+//［ランファ］：あはぁぁぁぁ、も、もう‥‥ああぁぁ、凄いっっ！！
+[RANPHAR]: Ahaaaa, y-yes...Ahhhhh, amazing-!!
+//［宏治］：もっともっと、腰を大きく動かすんだ。
+[Kouji]: I'll move my hips even more now.
+//［ランファ］：はい、こうですか‥‥こうですか！？
+[RANPHAR]: Yes, like this...like this?!
+//［宏治］：そう‥‥もっと速く！
+[Kouji]: Yes...and even faster!
+//［ランファ］：アン、アン、あっ、あっ、も、もう‥‥ダメ‥‥あっ！
+[RANPHAR]: Ahn, ahn, ah-, ah-, p-please...oh no....ah-!
+//［宏治］：出すぜ。
+[Kouji]: Now cum.
+//［ランファ］：あぁぁ、ランファ、いっちゃうぅぅぅぅぅぅぅぅぅっ！！！
+[RANPHAR]: Ahhhh, I'm cummingggg!!
+//ドクドクドクドク、ドクッ、ドクッ‥‥。
+*spurt spurt spurt spurt*, *spurt*, *spurt*....
+//［ランファ］：あはぁぁぁぁぁぁ‥‥コウジ様ぁぁぁ‥‥。
+[RANPHAR]: Ahaaaaaaa...KOUJI-samaaaa....
+//ドクドク、ドクッ、ドクッ‥‥‥‥。
+*spurt spurt*, *spurt*, *spurt*......
+//［ランファ］：あふっ、んく、あぁぁ、んんん‥‥いやん、ビクビクしてるぅ‥‥。
+[RANPAHR]: Ahooo, ng, ahhhh, mmmmm....no, I'm still sensitive...
+//［宏治］：すげぇ締め付けだなぁ‥‥ま、まさか処女とか？
+[Kouji]: You're gripping me so tightly...w-were you a virgin?
+//［ランファ］：んもう、プリプリですぅ、処女はコウジ様に捧げましたっ！
+[RANPHAR]: Oh, come on, I'm still tender, I already offered my virginity to you!
+//［宏治］：そ、そうだったか‥‥‥‥うーむ‥‥‥‥。
+[Kouji]: I-is that so...Hmmmm......
+//［宏治］：ランファさ、処女をコウジに捧げたって言ってたよな。
+[Kouji]: Hey, Ranphar, you said that you offered your virginity to me, right?
+//［ランファ］：はい‥‥ポッ。
+[RANPHAR]: Yes...*blush*
+//［宏治］：いつも、こんなことしていたの？
+[Kouji]: Have you been doing this for long?
+//［ランファ］：そんなぁ‥‥エイレートが初めてで、今回が２回目ですぅ。
+[RANPHAR]: Don't make me say it...since Eirate was my first time, this would be my second time.
+//［宏治］：に、２回目！？　２回目であんな大胆な‥‥。
+[Kouji]: O-only your second? Damn, and you were so bold...
+//［ランファ］：コウジ様を‥‥その‥‥。
+[RANPHAR]: KOUJI-sama...um....
+//やや物怖じしたような表情を浮かべながら、ランファはオレを見つめている。
+As Ranphar stared at me, her expression changed to one of fear.
+//［宏治］：‥‥なんだい？
+[Kouji]: ....What is it?
+//［ランファ］：その‥‥‥‥。
+[RANPHAR]: Um......
+//［宏治］：どうしたのさ。
+[Kouji]: Did something happen?
+//今のランファは、叱られやしないかと、言い出せずにいる子供という感じだった。
+The Ranphar before me now seemed like a child who'd been scolded into silence.
+//ピンときたオレは、顔に笑みを浮かべて、
+As it clicked, a smile spread over my face.
+//［宏治］：別に怒りやしないから、言ってごらん。
+[Kouji]: I won't be angry or anything, just tell me.
+//［ランファ］：好きって言ってしまって、構いませんか？
+[RANPHAR]: Does it bother you if I tell you I love you?
+//［宏治］：‥‥えっ？　な、なんで？
+[Kouji]: ...Huh? Wh-why?
+//［ランファ］：構いませんか？
+[RANPHAR]: Does it bother you?
+//ともすれば厳しすぎるくらいの顔で、ランファはオレに質問をした。
+Ranphar repeated her question with an intense expression.
+//［宏治］：その‥‥全然、構わないと思うけど‥‥。
+[Kouji]: Um...it, it's really not a problem...
+//［ランファ］：ンフフ‥‥コウジ様、好きですっ、きゃっ！
+[RANPHAR]: Ehehe....KOUJI-sama, I love you, kya-!
+//彼女は両手を頬に当てて、左右に身体を振っている。いったいどうしたというのだ。
+She laid both hands on her cheeks, and twisted her body left and right. What is going on with her?
+//［宏治］：ど、どうしたの？
+[Kouji]: Wh-what's going on?
+//［ランファ］：好きって言ったのって、本当に久々で‥‥感激してるんですぅ。
+[RANPHAR]: It's been such a long time since I last said I love you...so I'm pretty excited.
+//［宏治］：なんで？
+[Kouji]: Why has it been so long?
+//［ランファ］：だって、コウジ様、好きって言うなって言うから‥‥。
+[RANPHAR]: Because, KOUJI-sama, you said not to tell you, "I love you"....
+//［宏治］：（な、何てやつだ‥‥コウジのやつ、処女まで奪っておきながら‥‥。）
+[Kouji]: (Wh-what a bastard....That KOUJI bastard, stealing her virginity...)
+//［宏治］：ま、あれだね。
+[Kouji]: Ah, so it was that.
+//［ランファ］：それは、コウジ様の自信のなせるワザですね。もうすぐ、ビアンカさんのシップに追いつきますよ。
+[RANPHAR]: That was something KOUJI-sama did to boost his confidence, wasn't it? We'll be approaching Bianca-san's ship soon.
+//［ランファ］：さぁ、コウジ様って、本当に凄く予想外の事をするヒトでしたしぃ‥‥。
+[RANPHAR]: Now, KOUJI-sama was really someone who did things totally unexpected...
+//［ランファ］：はい、奇計とか奇策とか、よく相手に言われてました。
+[RANPHAR]: Yes, he was one who always spoke his plans and schemes to his opponents.
+//［ランファ］：何を考えてるんですか？
+[RANPHAR]: What are you thinking about?
+//［ランファ］：もちろん、知ってます。だって、ビアンカさんは‥‥。
+[RANPHAR]: Of course, I know. After all, Bianca-san was...
+//［ランファ］：どうしましたんですか？
+[RANPHAR]: Is something the matter?
+//［ランファ］：さっすがぁ。バッチグーですねっ！
+[RANPHAR]: Ah, just as expected. Excellent!
+//［ランファ］：それでこそ、コウジ様ですっ。
+[RANPHAR]: I feel the same, KOUJI-sama.

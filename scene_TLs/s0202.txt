@@ -1,0 +1,480 @@
+//s0202
+
+//［涼子］：宏治クン、大丈夫だった？
+[Ryouko]: Kouji-kun, are you ok?
+//［涼子］：ゴメンなさい、ちょっと刺激が強すぎたのかしら。
+[Ryouko]: Sorry, was this time overly stimulating?
+//［涼子］：まだ、少し混乱しているようね。でも、脳のシナプスは焼き切れていないようだから、安心して。
+[Ryouko]: You still seem a little confused. But rest assured, your brain synapses don't seem burned out.
+//［涼子］：あっ、まだしゃべらないでいいわ。私の言うことが理解できる？　できるなら一回だけ、うなずいて。
+[Ryouko]: Ah-please don't talk just yet. Do you understand what I'm saying? If you do, nod once.
+//コクン。
+*nod*
+//［涼子］：いいわ、じゃあ、私のことは見えているわね？
+[Ryouko]: Good. Then, can you see me?
+//［涼子］：良かったぁ‥‥意識昏倒で倒れたときは、さすがの私もビビっちゃったわ。
+[Ryouko]: Great...when you fainted, I was afraid, of course.
+//［涼子］：一応、宏治クンの身体は精密検査をしておいたけど、異状はなさそうよ。
+[Ryouko]: I've made a precise examination of your body, and for now, there doesn't seem to be anything wrong.
+//［涼子］：でもあのドリームプログラムマシンもね、一応理論上は完璧だったのよ。
+[Ryouko]: Although, that dream program machine is also theoretically complete, for now.
+//［涼子］：ま、理論と実際に隔たりがあるのは、研究者の宿命よね。
+[Ryouko]: Well, for researchers, it's unavoidable that there's a gap between theory and practice.
+//［涼子］：でも言うでしょ？　失敗は成功の元って。これに懲りずに、また協力して頂戴。
+[Ryouko]: But as they say, failure is the root of success. If I don't learn from this experience, please help me once more.
+//［涼子］：だーいじょうぶよ、そんな顔をしなくても。今度こそ、成功してみせるわっ。
+[Ryouko]: Don't make that face, it's OK. This time will be successful.
+//［涼子］：でも、舞の取り乱しようといったら、なかったわ‥‥あの子ね、あれでもあなたの事が好きなのよ。
+[Ryouko]: But with Mai's distraught state, it might not be...Despite that, that girl likes you.
+//［涼子］：姉の私から言うのも何だけど、あの子の気持ち、無にしないで欲しいわ。
+[Ryouko]: Speaking as her older sister, please don't ignore that girl's feelings.
+//［涼子］：フフ、あなたにガールフレンドがいるのは、わかっているわよ。でもね‥‥あら、宏治クン？
+[Ryouko]: Hehe, I know you have a girlfriend. But also...ara, Kouji-kun?
+//ドサッ。
+
+//［涼子］：ちょっと、宏治クン、ねぇ、大丈夫？　宏治クン！？
+[Ryouko]: Hold it, Kouji-kun, are you OK? Kouji-kun?!
+//［涼子］：大変だわ、顔が真っ青‥‥宏治クン、ねぇ、宏治クン‥‥‥‥。<$05>
+[Ryouko]: This is bad, your face is blue...Kouji-kun, hey, Kouji-kun....
+//そうか‥‥私は、ジェネレータを利用して‥‥。
+That's right...I used the generator....
+//だが、この脆弱な肉体は、いったいどうしたことだ。これが、私の身体なのか‥‥？
+But, what's with this puny body. Is it my body...?
+//やけに、動きにくい。
+It's really hard to move.
+//いや、私の意識自体に問題があるのか‥‥。
+No, it might be problem with my consciousness itself...
+//‥‥さま‥‥。
+...sama...
+//ん‥‥？
+Hm...?
+//《コウジ様‥‥‥‥。》
+"Kouji-sama..."
+//ん、この声は‥‥‥‥。
+Mm, that sound...
+//《まだ‥‥‥‥混乱しているのですか‥‥‥‥。》
+"Are...still messed up...?"
+//誰だ、貴様は‥‥‥‥。
+Who could that be...?
+//いや、これは私に語りかける声ではない。直接脳に‥‥？
+No, this was not something spoken to me. It was directly in my brain...?
+//聞き覚えがある‥‥そうだ、あれは‥‥‥‥。
+It feels familiar...that's right, it's...
+//［トレイシー］：まだ、記憶が混乱しているのですか？
+[TRACY]: Are your memories still messed up?
+//トレイシー？　なぜ、彼女が‥‥。
+Tracy? Why is she....
+//［男］：記憶は混乱はしていない。状況に混乱しているんだ。
+[Man]: My memories are not messed up. It's the situation that's messed up.
+//［トレイシー］：ジェネレータの副作用なのかしら‥‥。
+[TRACY]: It might be side effects of the generator...
+//［男］：ジェネレータ‥‥？
+[Man]: Generator...?
+//［トレイシー］：大丈夫ですか、コウジ様。
+[TRACY]: It's ok, Kouji-sama.
+//さっきから話している、この雄々しい声‥‥私の？
+The manly voice I heard earlier...was that mine?
+//いや、違う。私ではない‥‥。
+No, it can't be. It's not mine...
+//［男］：あの、トレイシー‥‥だったよね？
+[Man]: Uh, Tracy...was it?
+//［男］：君って、どういう人なの？
+[Man]: Who are you, exactly?
+//［トレイシー］：質問の意味が、よくわからないのですが‥‥。
+[TRACY]: I don't understand the meaning of your question...
+//トレイシーは、少なくとも私に対して話しかけている。だが、この受け答えをしているのは誰なのだ‥‥。
+At least Tracy was talking to me. However, who's the one responding...?
+//声は少なくとも私のモノだ。だがしかし、私ではない‥‥。
+At least that voice was mine. But, it wasn't *me*...
+//［男］：んと、じゃあね、ここで何をしているの？
+[Man]: Um, well, what are you doing here?
+//［トレイシー］：ここで、いま？
+[TRACY]: Here, now?
+//［男］：そう。
+[Man]: Yes.
+//［トレイシー］：混乱をされているコウジ様に、状況の説明をして差し上げています。
+[TRACY]: Since you seem confused, Kouji-sama, I'll explain the situation to you.
+//むぅ‥‥自由に声が出せぬ‥‥。トレイシー、私に気付け‥‥くそ、どうしたことだ。
+Hmmm...I can't freely speak...Tracy, please notice me...shit, what's going on?
+//目の前にいて、話も聞こえ、それを理解し認識しているのに、なぜ自発的に行動ができないのか‥‥。
+In front of me, I can hear their speech, and I can understand and recognize them, so why can't I move freely...?
+//ひょっとすると、これは夢というものか‥‥。
+It's possible this is a dream...
+//いや、夢を見ているという夢なのかもしれない。マイナスのマイナスは、プラスという訳だ。つまり、現実‥‥？
+No, it might be a dream I see while dreaming. The negative of a negative is a positive. So, is this reality...?
+//私は、消えゆく意識の中で、さらにその夢の可能性も考えていた‥‥。<$05>
+In my faded consciousness, I pondered that possibility of a dream even further...
+//‥‥‥‥いったいあれは‥‥‥‥。
+...What on earth is that....
+//‥‥‥‥ん？
+....Mm?
+//そういえば、ここは‥‥‥‥。
+If that's the case, where could...
+//ここはどこだろうか‥‥‥‥。
+Where could this be...?
+//これではまるで、モルモットみたいではないか‥‥。
+In this situation, I feel like a damn guinea pig...
+//以前にもこんなことがなかったか‥‥？　どうも、記憶がはっきりとしない‥‥。
+Haven't I felt this before...? Somehow, my memory is fuzzy...
+//ここは、《クワドラ》ではないようだが‥‥。
+This isn't the "Quadra", but...
+//　◆ とりあえず、この狭苦しい病室を出るとしよう。
+◆ In any case, I should get out of this tiny, miserable sick ward.
+//　◆ 室内フォンを利用して、誰かを呼び出せないだろうか‥‥
+◆ I should use the landline and call someone...
+//とりあえず、この狭苦しい病室を出るとしよう。
+In any case, I should get out of this tiny, miserable sick ward.
+//狭苦しい部屋、か‥‥。
+Tiny, miserable room...
+//室内フォンを利用して、誰かを呼び出せないだろうか‥‥。
+I should use the landline to call someone...
+//［コウジ］：室内フォンか‥‥。
+[KOUJI]: The landline...
+//ピポピポパピポ‥‥。<$04><$34><$05>
+*beep boop beep boop beep boop*...
+//［コウジ］：‥‥‥‥‥。
+[KOUJI]: .........
+//［コウジ］：早く出るのだ。大海賊を待たせるとは、何たることよ。
+[KOUJI]: Come on, pick up. What is the meaning of making this great pirate wait?
+//何回目かの呼び出し音を聞き、受話器を握りつぶそうとしたとき‥‥。
+The dial tone sounded several times, then the receiver on the other end was seemingly picked up...
+//カチャッ。
+*click*
+//［コウジ］：私は宇宙海賊のコウジである。
+[KOUJI]: I'm the galactic pirate KOUJI.
+//［女の声］：あらあら、２０１号の患者さんね。
+[Woman's voice]: Ara ara, the patient in 201.
+//［コウジ］：いや、患者ではない。コウジだ。
+[KOUJI]: No, I'm not a patient. I'm KOUJI.
+//［女の声］：はいはい、しょうがないわね、涼子先生に言っておかなくちゃ‥‥ブツブツ。
+[Woman's voice]: Right, right, well, it can't be helped. I have to tell Ryouko-sensei...Hehe.
+//ブチッ。
+*clunk*
+//［コウジ］：フン、まぁいい。さてと‥‥。
+[KOUJI]: Hmph, well that's fine. Now then...
+//xenon_25
+
+//私は、さっと部屋を見回してみた。
+I slowly looked around the room.
+//太陽光線が淡く差し込んでいる。どこからか、鳥のさえずりも聞こえてくるようだった。
+The sun rays were dimly filtering through. I heard the chirping sounds of birds from somewhere.
+//どうやら、ここはどこぞの惑星上らしい。しかも、ひどく開発途上にある古代文明だ。
+I was on some planet-like place, somehow. However, there was some dreadfully developing ancient civilization here.
+//空調設備はろくに整備もしていないらしい。耳障りなファンの音を部屋中に響かせ、不快指数を上昇させている。
+The air conditioning probably needed maintenance. The annoying sound of fans filled the room, and raised the uncomfortability index.
+//［コウジ］：まぁ、いいだろう‥‥。
+[KOUJI]: Well, it's fine...
+//私はベッドから立ち上がると、安っぽいスリッパに足を通した。ふむ、履き心地は悪くない。
+I stood up from the bed, and slid on cheap-looking slippers. Hmm, they feel quite comfortable.
+//しかし身体の調子がやけにおかしい。身体の節々が痛み、しかも間接を折り曲げると筋肉が痛い。
+However, my body's condition is really odd. My muscles ache, or maybe just unnaturally bending them makes them ache.
+//どうやら、かなり脆弱な肉体らしい。このような肉体を保持する精神も、脆弱であることが用意に想像がつく。
+This body is somehow quite puny. A mind that preserves this kind of body can easily imagine how vulnerable it is.
+//［コウジ］：宇宙海賊には、ほど遠い肉体だな‥‥。
+[KOUJI]: This body is far from that of a galactic pirate...
+//［コウジ］：フン、まぁいい。さて、ドアは‥‥ここか。
+[KOUJI]: Hmph, well, it's ok. Now, then, the door is...here.
+//バコッ！<$05><$04><$30>
+
+//ふむ、ドアは自動ではなく、手動と。
+Hmm, the door is not automatic, but hand-operated.
+//私の状況分析は的確だ。どうやら、かなり原始文明らしいな、ここは‥‥。
+I analyzed the situation correctly. Somehow, this place felt rather like one from the original civilization...
+//私は赤くなった額をさすりながら、部屋を後にした‥‥。
+Rubbing my reddened forehead, I left from the room...
+//室内は冷房を入れていたか、あるいは廊下に暖房をきかせているのか‥‥非常に不快だった。
+Either the room I came from was kept cold, or the corridor was kept hot...I was quite uncomfortable.
+//［コウジ］：ゴミゴミしていて、不衛生な場所だ。
+[KOUJI]: This place feels so messy and unsanitary.
+//あちこちに、良く見ると、何かのアルミ缶やパックが無造作に置いてあったりする。不衛生でかつ管理もずさんだ。
+Looking closely, were army packs and tins littered all over the place. It was poorly maintained and quite unsanitary.
+//［コウジ］：どうやら、かなり開発途上の文明らしい。
+[KOUJI]: This seems like a developing civilization.
+//たまにすれ違う何人かの者たちは、魚の腐ったような、やる気のない光を目に浮かべながら、傍らを寡黙に通り過ぎていく。
+When some people pass by me, their eyes are glazed over, like rotting fish, as they silently walk by.
+//［宏治］：ふむ、原住民はヒューマノイドが大半だな。
+[KOUJI]: Curious, the natives seem to be mostly humanoids.
+//しかし妙だった。ここにいる者たちは、例外無く顔に不気味な笑みを浮かべ、リスのようにオドオドしているではないか。
+It's quite odd, though. The people here seem to have, without exception, uncannily creepy smiles plastered on their faces, and act nervously, like squirrels.
+//いったい、何がそんなに不安なのか‥‥。
+What on earth could be the cause of that unease...?
+//［コウジ］：いや、待てよ‥‥‥。
+[KOUJI]: No, hold on...
+//この惑星では独裁政治が長きにわたり続いており、民衆たちの間には貧困と差別と怠惰が蔓延している。
+This planet's despotic government has continued for quite a long time, so sloth, poverty, and discrimination have infested the general public.
+//だとすれば、雄々しい私の姿を見て、憲兵か何かだと勘違いしても、不思議はない。
+If that's the case, if a military police officer sees a manly figure like me, they might get the wrong idea.
+//［コウジ］：フム、下々の考えそうなことだ‥‥。
+[KOUJI]: Indeed, I need to think deeper about them...
+//いや、逆とも考えられるな‥‥。
+No, *they* should be thinking deeper about *me*...
+//腐敗した民主主義が長く続き、強いカリマスマ性を保有した強力な指導者を、こやつらは強く欲しているのだ。
+If this corruption of democracy continues, they'll want a strong, charismatic leader.
+//そこに、私のような最強の宇宙海賊が現れたものだから、妙に落ちつきがなかったのだ。うむ、そうに違いない。
+In that scenario, the strongest galactic pirate (me) has appeared before them, so it'd be weird if they didn't calm down. That much is certain.
+//［コウジ］：フフン。
+[KOUJI]: Heheh.
+//的確な分析をした後は、気分がよくなる。私は、軽快なステップを踏みながら、廊下を進んでいった‥‥。
+After correctly analyzing the situation, I felt much better. With a spring in my step, I descended down the corridor... 
+//ドカッ！<$04><$30><$05>
+*bump*!
+//［女］：ちょっと、よそ見してないでよ！
+[Woman]: Hey, don't look away!
+//［女］：なによ、その魚の腐ったような目は。オドオドしちゃって、まるでリスか何かね‥‥フンッ。
+[Woman]: What is with those eyes like a dead fish, and that nervous behavior? It's like you're a squirrel...Hm.
+//その女は言いたいことだけ言うと、さっさときびすを返して立ち去ってしまった。
+After saying only her piece, that woman quickly turned on her heels and walked away.
+//［コウジ］：フン、まぁいい。
+[KOUJI]: Hmph, well, it's fine.
+//［コウジ］：さて、これから現状の把握をせねばならんな‥‥。
+[KOUJI]: Now then, I have to get a good grasp on this current situation...
+//　◆ とりあえず上に昇ってみよう。
+◆ Anyway, I'm going up.
+//　◆ 自室に戻った方が、よさそうだな‥‥。
+◆ Returning to my room seems like a good idea...
+//　◆ 下に降りて、いろいろと観察してみよう。
+◆ I'll go down to investigate a bit.
+//とりあえず上に昇ってみよう。
+Anyway, I'm going up.
+//上から、この惑星を見おろして状況を確認し、しかるのち、今後のプランを練る‥‥。
+From above, I'll be able to confirm this planet's situation and then formulate a plan for the near future...
+//［コウジ］：うむ、我ながら名案だ‥‥。
+[KOUJI]: Indeed, I thought of this good idea myself...
+//とすると、屋上か‥‥。
+Then to get there, the rooftop...
+//ふと脇のエレベータに目が止まる。
+Suddenly, my eyes landed on the elevator next to me.
+//［コウジ］：決して、楽をしようという訳ではないが‥‥。
+[KOUJI]: Well, I'm not here to enjoy myself, but...
+//そう、文明の進行度を確かめるのだ。どの程度の文明レベルを持っているのか、確かめるのは決して無為とは思えない。
+That's right, I can confirm the civilization's progress. Whatever level of civilization this one has achieved, I have to see it myself.
+//［コウジ］：ふぅ、ラクチンだ‥‥。
+[KOUJI]: Hm, the latch...
+//エレベータの中は、空調が行き届いているようだった。汗をかいた身体には、やや涼しかったが、寒いほどではない。
+Inside th elevator, the air conditioning was working. As my sweat dried from my body, I felt quite cool, but not cold.
+//１つずつ、光る番号が増えていくのをボーっと見ていると、何故か庶民に成り下がった気がするのは何故か‥‥。
+As I stared at the lit up number increasing one by one, I wondered why the decline of the masses intrigued me so...
+//［コウジ］：フン、私らしからぬ‥‥。
+[KOUJI]: Hmph, this isn't like me...
+//ゴミゴミとした惑星だった。
+What a filthy planet.
+//不規則な建物の並びは土地開発の未熟を露呈し、スモッグに覆われた空は環境保全が行き届いていないことを証明している。
+The row of unordered buildings exposed the immaturity of the land development, and the smoggy skies proved the inadequate protection of the environment.
+//おまけに、この屋上ときたら、恒星の紫外線をそのまま浴びる危険な場所で、しかも掃除も満足にされていないらしく、薄汚い。
+On top of that, since I got to this rooftop, the star's ultraviolet rays bathed this place in danger, but cleaning this place wouldn't satisfy me, it was so dirty.
+//［コウジ］：とんだ開発途上の惑星だ‥‥。
+[KOUJI]: This star is probably under development...
+//宇宙は広い。どのような惑星があるかはわからない。しかしここは格別だ。格別に酷い。
+The universe is expansive. I have no idea what kinds of stars are out there. However, this one was pretty. Pretty terrible, that is.
+//［コウジ］：フン‥‥。
+[KOUJI]: Hum...
+//私がきびすをかえしかけたとき、後ろから、
+As I turned on my heels, from behind me,
+//［女の声］：宏治サン‥‥。
+[Woman's voice]: Kouji-san...
+//［女の子］：良かった、死んでしまったかと思った‥‥。
+[Girl]: Oh thank goodness, I thought you had died...
+//失礼な女だった。いきなり人を殺そうとするとは。
+What a rude woman, suddenly killing people like that.
+//［コウジ］：誰だ、貴様は？
+[KOUJI]: Who the hell are you?
+//［女の子］：舞です‥‥宏治サン。どうしたんですか？　私、屋上が好きだから、よく来てるんです。
+[Girl]: I'm Mai...Kouji-san. What happened to you? I like the rooftop, so I come here often.
+//［コウジ］：私の知り合いに舞という女はいない。誰かと間違えているのではないか？
+[KOUJI]: I don't know any woman named Mai. Are you sure you're not mistaking me for someone else?
+//［舞］：そ、そんな‥‥宏治サン。
+[Mai]: How could you...Kouji-san.
+//さんの敬称に、妙な発音をする女だった。この女は私のことを知っているらしいが‥‥。
+She pronounced that honorific -san strangely. This woman seemed to know who I am...
+//［コウジ］：誰だ、貴様は。
+[KOUJI]: Who exactly are you?
+//［舞］：ですから舞です。宏治サン、怒ってるんですか？
+[Mai]: As I said, I'm Mai. Kouji-san, are you mad?
+//［コウジ］：怒ってなどいない。質問をしているだけだ。
+[KOUJI]: I'm not mad. I was just asking a question.
+//［舞］：ま、まさか‥‥そんな‥‥。
+[Mai]: It-it couldn't be...it can't be...
+//［コウジ］：どうしたのだ？
+[KOUJI]: What happened?
+//［舞］：宏治サン、お、おかしくなっちゃったの？
+[Mai]: Kouji-san, did something strange happen?
+//舞は、私の顔をおそるおそる、のぞき見るような目で凝視している。
+Mai gazed at my face with frightened, peeping eyes.
+//重ね重ね、失礼な女だった。今度は人を変人扱いか。
+What an exceedingly rude woman. Now she's treating *me* like some weirdo.
+//［コウジ］：いいか、良く聞け。どうも私のことを変人扱いしているようだが、それは違う。私は宇宙海賊のコウジだ。
+[KOUJI]: OK, listen here. Stop treating me like a weirdo, because I'm not. I'm the galactic space pirate KOUJI.
+//［舞］：や、やっぱり‥‥おかしくなっちゃったんですね。
+[Mai]: A-as I thought...something strange DID happen.
+//［舞］：私が、きっと宏治サンを元通りにします。ですから、ですから‥‥。
+[Mai]: I certainly returned Kouji-san to normal. But, but...
+//［コウジ］：何を泣いているのだ。
+[KOUJI]: Why are you crying?
+//［舞］：だって‥‥だって‥‥宏治サンがおかしくなって‥‥。
+[Mai]: Because...because...Kouji-san is acting strange...
+//［コウジ］：そんなに私の顔がおかしいか。
+[KOUJI]: Is my face really so strange to you?
+//［舞］：やっぱり、おかしいです。
+[Mai]: Something strange really did happen.
+//私は、このぶしつけな女を無視することにした。どうやら、私の事をからかっているようだ。
+I ignored this impolite woman. She seemed to be somehow mocking me.
+//［舞］：私、お姉さんに言ってきます。宏治サン、病室でお休みになっていて下さい。お願いです。
+[Mai]: My elder sister told me to pass this along. Kouji-san, rest in the sick room, please.
+//［コウジ］：フン、開発途上惑星の原住民は、礼儀を知らんらしいな。
+[KOUJI]: Hmph, the natives of this developing star don't have any manners, do they?
+//自室に戻った方が、よさそうだな‥‥。
+Returning to my room seems like a good idea...
+//まずは自室に戻り、現状の考察を行う。しかるのち、何らかの行動を起こすのが合理的だろう。
+First, I'll go back to my room to evaluate my current situation. After that, it would be rational to carry out some plan.
+//ここでこうしていても、ラチがあかないのは事実のようだ。大宇宙海賊は、無駄なことはしないのだ。
+Even if I do this here, the latch wasn't set. A galactic space pirate won't waste effort on useless tasks.
+//［コウジ］：うむ、我ながら、論理的だ‥‥。
+[KOUJI]: Hm, I am quite logical...
+//別に部屋へ涼みに戻るわけではない。そんな情けないことは、私のプライドが許さない。
+I shouldn't return to some other room to cool off. My pride won't allow such a pitiful retreat.
+//［コウジ］：ふぅ、なかなか涼しい‥‥身体が休まるというものだ。
+[KOUJI]: Heh. It's quite cool...my body is at rest.
+//部屋へ入ると、冷風が傍らを通り過ぎる。心地よい感覚を少しだけ味わった。
+I entered the room, and the cool wind flowed over my body. I tasted just a bit of relief.
+//部屋へ戻ってくると、妙なことに気付いた。部屋を出たときと、間取りが違うような気がする。
+As I returned to my room, I noticed something odd. As I exited the room, I realized the floor layout was different.
+//いや、間取り以前に、根本的に部屋が違う。答えは単純だ。部屋を間違えたのだろう。
+No, putting aside the floor layout, the room was fundamentally different. The answer was simple: I had entered the wrong room.
+//ここはどうやら、私があの涼子とかいう女と対面した場所だった。
+This was somehow the place where I spoke to that Ryouko woman.
+//［コウジ］：涼子はいないようだな‥‥。
+[KOUJI]: Ryouko doesn't seem to be here...
+//部屋の中には、何かの専門書の他は、これといって置いてはいない。典型的な書斎とも言うべき場所だ。
+In the room, besides some specialized books, there was nothing of note there. This place seemed like a typical study.
+//本は、精神医学から病理医学、応用物理工学、数理科学など、多彩に取り揃えてある。
+The variety of assorted books ranged from neurology to pathology, applied physics, and mathematical sciences.
+//［コウジ］：ふむ、未開の文明地にしては、そこそこの本を読んでいるな。
+[KOUJI]: Hm, so in an undeveloped civilization, you'd read a lot of books.
+//ふと傍らにある本が目についた。専門書とは違ったが、分厚く、意味深である。
+Suddenly, one of the books nearby caught my eye. It was different from the other specialty books. It was thick, so it held much meaning.
+//中には、ドリームプログラムと命名された機械の設計図とその概要が網羅されていた。
+The contents comprised a blueprint for a machine called a "dream program" and its overview.
+//速読を用いて、ものの１０秒ほどで読破する。
+Speed reading, it took me about 10 seconds to finish.
+//［コウジ］：ほぉ、なるほど。コンピュータ・ルームか‥‥。
+[KOUJI]: Ho, so that's how it is. The computer room...
+//私は、本をもとあった場所に、丁寧に戻しておいた。
+I politely returned the book back to its original spot.
+//あの涼子という女、使えそうだ‥‥。
+It seems that Ryouko woman uses it...
+//［コウジ］：さてと、どうしたものかな‥‥。
+[KOUJI]: Well, what does she do with it...
+//下に降りて、いろいろと観察してみよう。
+As I descend, I should observe a few things.
+//まずは階下に降り、現状の観察および分析を行う。しかるのち、何らかの行動を起こすのが合理的だろう。
+First, as I head downstairs, I'll analyze and observe my current situation. After that, it would be rational to carry out some plan.
+//大宇宙海賊は、効率を優先する。無駄なことは一切省くポリシーを私は持っている。
+A galactic pirate prioritizes efficacy first. My policy is that useless matters should be cut out entirely.
+//［コウジ］：うむ、我ながら、効率的だ‥‥。
+[KOUJI]: Hm, I am efficient...
+//別にロビーに置いてあるであろう新聞の類を、読みにいく訳ではない。大宇宙海賊は、そんなオヤジ臭いことはしないのだ。
+I didn't come down to the lobby just to read the news posted there. A galactic pirate doesn't behave like an old geezer.
+//エレベータから降りると、まっさきにソファの傍らに置いてある新聞コーナーへと行く。
+As I got off the elevator, I immediately went to the news corner by the sofa.
+//ニュースペーパーこそ、その地域の文化文明を知る、もっとも効率的な情報源なのだ。
+The newspaper itself told about the area's culture and civilization, and therefore, it was an efficient source of information. 
+//パサッ。<$04><$32><$05>
+*flip*
+//［女］：宏治！
+[Woman]: Kouji!
+//［女］：何だ、ちゃんと生きてるじゃない。立って新聞なんて広げて、オジン臭いことしないでよ。
+[Woman]: Well, aren't you lively. Standing there spreading out the newspaper, isn't that what old geezers do?
+//［女］：舞さんから連絡があったときは、心臓が停止するかと思ったわ。
+[Woman]: When I heard from Mai-san, my heart nearly stopped.
+//［コウジ］：舞？
+[KOUJI]: Mai?
+//［女］：そうよ‥‥でも、ちょっぴり安心したわ。
+[Woman]: That's right...but, I'm a bit worried.
+//［女］：なによぉ、あなたの恋人の、恵でしょ？　もう、しっかりしてよ。
+[Woman]: Whaaat? I'm your lover, Megumi, aren't I? Come on, get it together.
+//恵と名乗る女は、私の両肩に手をかけて、ガクガクと前後ゆさぶった。少しめまいがしてくる。
+The woman named Megumi placed her hands on my shoulders and shook me back and forth roughly. It made me slightly dizzy.
+//［恵］：あの先生には気をつけなさいって、いつも言っていたのに‥‥。
+[Megumi]: I keep telling you, please be careful about that doctor...
+//［コウジ］：あの先生とは、涼子のことか？
+[KOUJI]: By "that doctor", do you mean Ryouko?
+//［恵］：当たり前でしょ。
+[Megumi]: Exactly.
+//［コウジ］：なぜ、涼子に気を付けねばならないのだ。
+[KOUJI]: Why exactly should I be careful around Ryouko?
+//［恵］：そ、それは、あの先生がちょっとイっちゃってるから‥‥あっ、このこと、彼女に言っちゃダメよ。
+[Megumi]: Th-that's because that doctor's kinda cuckoo...ah, please don't tell her that I said that.
+//バツの悪そうな表情を浮かべながら、恵は私に耳打ちをする。どうも意味がよくわからない。
+An ashamed look spread over her face as Megumi pulled at my ear. I have no idea what the meaning of that gesture is.
+//［コウジ］：イっちゃうと、なぜ気を付けねばならないのだ。
+[KOUJI]: You say she's crazy, but why do you think I have to be careful around her?
+//［恵］：ちょっと、ふざけてる場合？　まぁ、簡単な試験で割のいいバイトとかいって、最初に紹介したのは私だけど‥‥。
+[Megumi]: Are you pulling my leg? Well, even though participating in simple experiments might be a cheap way of getting cash, I was the one who introduced you at first...
+//［恵］：でもあの先生、宏治のこと妙に気に入っちゃってるのよね。
+[Megumi]: But that doctor has some strange interest in you.
+//［コウジ］：そうなのか。
+[KOUJI]: Is that so.
+//［恵］：そうよぉ‥‥あっ、宏治！
+[Megumi]: Yes, it is...Ah, Kouji!
+//［コウジ］：なんだ。
+[KOUJI]: What is it?
+//［恵］：‥‥あの女性と、別に何もないでしょうねっ。
+[Megumi]: ...There's nothing happening between you and that woman, is there?
+//［コウジ］：何もないとは、何だ？
+[KOUJI]: What is this "nothing happening" business about?
+//［恵］：あなた、どうも年増好みっぽいとこがあるし。
+[Megumi]: You *do* display some bias towards a certain age.
+//［コウジ］：ふむ、肉の交わりのことか？
+[KOUJI]: Oh, you mean for fucking?
+//［恵］：ばっ‥‥直接的過ぎるわよっ、なによ、もう‥‥。
+[Megumi]: Y-you're way too direct, why would you, ugh...
+//自分で話を振っておいて、恥ずかしがるとは身勝手な女だ。私は、強引に話題を元に戻した。
+Even when she's the one who brought it up, she's still the one who got embarrassed. How selfish. I forced us back to the original topic of the conversation.
+//［コウジ］：さきほどの話だが、なぜあの涼子が‥‥？
+[KOUJI]: Earlier, you were saying something about why Ryouko was...?
+//［恵］：そうそう、あの先生、次々と使えない機械を作っては、開発費を大量に消費してるんだから。
+[Megumi]: That's right, that doctor has repeatedly been using that untested machine, using up a lot of our resources.
+//［コウジ］：ほぅ、次々と。
+[KOUJI]: Ho~, repeatedly?
+//［恵］：もう、パパに言って、厳重に抗議してもらおうかしら。
+[Megumi]: When I told papa about it, he adamantly defended her.
+//［コウジ］：パパ？　パパというとパトロンのことか？
+[KOUJI]: Papa? Does "Papa" mean your patron?
+//［恵］：ば、バカ言わないでよ！　私のパパよ、この医療センターのスポンサーだって、あなた知ってるでしょ？
+[Megumi]: D-don't be ridiculous! My papa is the sponsor of this clinical center. You know that, right?
+//［恵］：とにかく今から涼子先生のところへ行くわ。後で貴方の部屋にも行くから、待っていて頂戴。
+[Megumi]: Anyway, from now on, you'll be going to see Ryouko-sensei. Afterwards, I'll be going to your room, so please wait for me.
+//［コウジ］：待て、恵とやら。
+[KOUJI]: Hold on, Megumi or whatever.
+//［恵］：な、なによぉ、その呼び方は。
+[Megumi]: W-what's with the way you called me?
+//［コウジ］：ここは、何という惑星だ？
+[KOUJI]: What planet are we on?
+//［恵］：はぁ？
+[Megumi]: Huh?
+//［コウジ］：惑星名を答えよと言っている。
+[KOUJI]: Please tell me the name of the planet.
+//［恵］：あんた、頭これ？
+[Megumi]: Are you right in that head of yours?
+//目の前の女は、こめかみの横で人差し指をクルクル回している。私はその手を握りしめ、真顔でもう一度、
+The woman in front of me waved her pointer finger in circles around my forehead. I grabbed her hand and asked earnestly once more.
+//［コウジ］：惑星名は？
+[KOUJI]: The planet's name is?
+//［恵］：ど、どうしちゃったのよ‥‥そんな‥‥。
+[Megumi]: W-what's going on with you...going on like that...
+//［コウジ］：ふむ、知らない訳か。無教養はこれだから‥‥。
+[KOUJI]: Hm, you don't know, do you? Because you're so uncultivated...
+//［恵］：バカ言わないでよ。地球に決まってるでしょ！　もう行くわ！
+[Megumi]: Stop messing around, it's obviously Earth! I'm leaving already!
+//［コウジ］：地球、だと‥‥？
+[KOUJI]: Earth, you said...?
+//［コウジ］：フン、まぁいい‥‥。
+[KOUJI]: Hmph, well, that's fine...
+//［コウジ］：まぁいい、部屋へ戻って、少し休みたい気分だ。
+[KOUJI]: It's fine, I'll return to my room for a short rest.
+//最強の宇宙海賊とはいえ、疲労もすればトイレにもいく。しかもこの脆弱な身体は、どうも疲労度が激しい。
+Even the strongest galactic pirate has to go to the toilet to relieve fatigue. However, this body, weak as it is, *can* take quite the beating.
+//少し、部屋で休み、しかるのちに行動を起こすことにしよう。
+I'll rest in my room for a while. After that, I'll start taking action.
+//［コウジ］：フン、合理的だ‥‥。まさに論理的で効率的だ。とにかく、夜まで‥‥。
+[KOUJI]: Indeed, how rational....it's exactly, theoretically efficient. Then, until night falls...
