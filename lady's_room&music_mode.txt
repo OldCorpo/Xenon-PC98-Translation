@@ -1,25 +1,25 @@
 The following texts can be found in the Lady's room (after you've cleared the game).
 
-LADYfS@ROOM
+LADYâ€™Sã€€ROOM
 
-@Ÿ æ‚Éi‚Þ			-> Next picture
-@Ÿ ÅŒã”ö‚Éi‚Þ		-> Jump to last picture
-@Ÿ ƒƒjƒ…[‚É–ß‚é		-> Return to the menu
+ã€€â—† å…ˆã«é€²ã‚€			-> Next picture
+ã€€â—† æœ€å¾Œå°¾ã«é€²ã‚€		-> Jump to last picture
+ã€€â—† ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«æˆ»ã‚‹		-> Return to the menu
 
-@Ÿ ‘O‚Éi‚Þ			-> Precedent picture
+ã€€â—† å‰ã«é€²ã‚€			-> Precedent picture
 
-@Ÿ Å‰‚ÌŠG‚É–ß‚é	-> Jump to first picture
+ã€€â—† æœ€åˆã®çµµã«æˆ»ã‚‹	-> Jump to first picture
 
 
 Some text as well in the MUSIC MODE :
-`@ƒ~ƒ…[ƒWƒbƒNƒ‚[ƒh@` -> `@Music Mode@`
+ï½žã€€ãƒŸãƒ¥ãƒ¼ã‚¸ãƒƒã‚¯ãƒ¢ãƒ¼ãƒ‰ã€€ï½ž -> ï½žã€€Music Modeã€€ï½ž
 
 And the tracks'names :
 
 	Desert Storm
 	XENON
-	Ranfa	-> I'm willing to change it to "Lanhua"
-	’±		-> Butterfly
+	Ranphar
+	è¶		-> Butterfly
 	<< QUADRA >> (Now I know how to romanize Kuwadora)
 	Ending II
 	Synaps	-> Maybe "Synapses" would be better ? (Anyway, after a dictionary check, I discovered that "synapse" takes an "E".)
