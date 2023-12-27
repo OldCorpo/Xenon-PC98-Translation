@@ -2,7 +2,7 @@
 XENON ~The limbs of phantasmagoria~ : Translation project
 
 Advancement :
-	Translation : 11.52%
+	Translation : (Not yet updated, close to 80)%
 
 ======
 
@@ -20,3 +20,9 @@ In the translation, I use the following code :
  as :
 	肉奴隷			Sex slave
 	トレイシーの憂鬱	Tracy's melancholy
+
+======
+
+The (mostly complete) scene translations are located in the scene_TL directory.
+They are more or less broken down by scene, but there is some overlap.
+Current second pass TL progress: Start of s0106
