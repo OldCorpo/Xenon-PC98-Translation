@@ -1,24 +1,24 @@
-もくじ
+Table of Contents
 
-プロローグ			１
+Prologue			１
 
-起動方法			２
+How to Start the Game			２
 
-ゲームの進め方		３
+How to Play the Game		３
 
-ＨＤＤを使用する場合	４
+When Using an HDD	４
 
-キャラクタ紹介		５
+Character Introduction		５
 
-ボツキャラ紹介		１４
+Unused Characters		１４
 
-ボツ原画紹介		１５
+Unused Artwork		１５
 
-シーズウェアなう		１９
+Seedsware Now		１９
 
-アフターサポート		２４
+After-Sales Support		２４
 
-制作スタッフ		25
+Production Staff		25
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
@@ -31,6 +31,6 @@
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
-■起動方法
-	パソコン本体の電源を入れ、ドライブ１にディスクＡ、ドライブ２にディスクＢを
-セットしりセットボタンを押して下さい。
+■ How to start the game.
+    Turn on your computer, insert Disc A into Drive 1 and Disc B into Drive 2,
+then press the Start button.
