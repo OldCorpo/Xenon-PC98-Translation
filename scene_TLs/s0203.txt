@@ -245,7 +245,7 @@ I'll use my Ultra Super Magnum Kick on it.
 //ゴーーーン‥‥‥‥。
 
 //［コウジ］：スネから血が出てしまったではないか‥‥おっ。
-[KOUJI]: My shin isn't' bleeding, is it...Oh.
+[KOUJI]: My Shin isn't bleeding, or is it... Damn.
 //［コウジ］：なぜ、目から涙がにじみでているのだ‥‥？
 [KOUJI]: Why are tears coming out of my eyes...?
 //［コウジ］：フム、この脆弱な肉体では、恐らくマグナムキックの１００分の１ほどの威力も出まい。
