@@ -251,7 +251,7 @@ That's right, I can confirm the civilization's progress. Whatever level of civil
 //［コウジ］：ふぅ、ラクチンだ‥‥。
 [KOUJI]: Hm, the latch...
 //エレベータの中は、空調が行き届いているようだった。汗をかいた身体には、やや涼しかったが、寒いほどではない。
-Inside th elevator, the air conditioning was working. As my sweat dried from my body, I felt quite cool, but not cold.
+Inside the elevator, the air conditioning was working. As my sweat dried from my body, I felt quite cool, but not cold.
 //１つずつ、光る番号が増えていくのをボーっと見ていると、何故か庶民に成り下がった気がするのは何故か‥‥。
 As I stared at the lit up number increasing one by one, I wondered why the decline of the masses intrigued me so...
 //［コウジ］：フン、私らしからぬ‥‥。

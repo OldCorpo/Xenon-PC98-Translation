@@ -363,7 +363,7 @@ Ryouko made a complicated expression. Did she put her own little sister's future
 //［涼子］：は、はい！
 [Ryouko]: Y-yes, sir!
 //［コウジ］：（一刻の猶予もできんな‥‥。）
-[KOUJI]: (I can't hesistate for even a second...)
+[KOUJI]: (I can't hesitate for even a second...)
 //［コウジ］：（本来の私の肉体に入っているのが、この肉体の‥‥脆弱な精神の持ち主であれば‥‥。）
 [KOUJI]: (In my original physical body, this physical body's...pitiful spirit's master resides...)
 //［コウジ］：（ビアンカに勝てるはずも無い‥‥。）

@@ -71,7 +71,7 @@ She had small glasses on, and as I looked at her kind smile, my unease seemed to
 //［トレイシー］：どうです、ご気分は？
 [Tracy]: How are you doing today?
 //そう言いながら、トレイシーはベッドのシーツを整え、替わりの衣服を椅子の上に畳んでいる。
-As she said this, Tracy tidied the bedsheets and placed the clothes splayed there on the seat.
+As she said this, Tracy tidied the bed sheets and placed the clothes splayed there on the seat.
 //てきぱきとした動作が、なかなか心地よかった。
 With those quick movements, I felt truly better.
 //［コウジ］：気分は、それほど悪くはないけど‥‥。
@@ -321,7 +321,7 @@ She seemed slightly frightened, but not distraught.
 //［コウジ］：ああ‥‥どうやら、そうらしい。
 [Kouji]: Ah...yes, it is.
 //私のこの返答に、彼女は少し当惑したようだ。
-On hearing my response, she became a bit embarassed.
+On hearing my response, she became a bit embarrassed.
 //だが実際、これ以外言いようが無いのも事実だった。私が、自分の名前を知ったのは、ほんの数時間前なのだから‥‥。
 In truth, I can't say it any other way. After all, I learned my own name just a few hours ago...
 //［コウジ］：以前も、この辺りで会ったよね。
