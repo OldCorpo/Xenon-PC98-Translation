@@ -13,7 +13,7 @@ I silently walked among apparent artifacts and odd rubble. Partially finished wo
 //しかし、長い年月のあいだに風化したそれらは、私の靴底で簡単に砕け散り、砂と変わっていった。
 However, after weathering over many years, they easily crumbled underfoot and became dust.
 //ふと立ち止まって脇を見ると、階段らしきものを発見した。手すりのようなものに、弦巻状の植物が複雑に絡み付いている。
-As I suddently stopped to look to my side, I noticed what looked like a ladder. Ringlike plants were intricately entangled in the seemingly handmade structure.
+As I suddenly stopped to look to my side, I noticed what looked like a ladder. Ringlike plants were intricately entangled in the seemingly handmade structure.
 //構造的な建設ができるということは、意外に文明が、栄えていたのかもしれない‥‥。
 If they were capable of structural construction, the previous civilization must have been quite cultured and prosperous...
 //［コウジ］：（上の階には、いったい何があるんだろう‥‥。）
@@ -177,7 +177,7 @@ Why am I here....
 //［宏治］：ど、どういうことです。
 [Kouji]: What are you talking about?
 //［涼子］：人間の意識を、３２次元マトリクスの構造配列論に収束させる、１６次変換の公式が、ついに妹の手によって発見されたのよ。
-[Ryouko]: My younger sister finally derived, by hand, the 16th transformation formula on the convergence of human consciousness to the stuctural array theory of a 32-dimensional matrix.
+[Ryouko]: My younger sister finally derived, by hand, the 16th transformation formula on the convergence of human consciousness to the structural array theory of a 32-dimensional matrix.
 //［宏治］：い、妹‥‥？
 [Kouji]: S-sister...?
 //［涼子］：そこにいるわ、あなたの後ろにね‥‥。
@@ -433,7 +433,7 @@ She slowly came up to me.
 //［コウジ］：２千年か‥‥‥‥。
 [KOUJI]: Two thousand years...
 //私はもう一度、あたりを見回してみた。あと２千年、か‥‥‥‥。
-I lookd around me once more. The next two thousand years, huh...
+I looked around me once more. The next two thousand years, huh...
 //「長いようで、短い時間だ‥‥‥‥。」
 "How long that short time seems..."
 //「はい‥‥‥‥。」

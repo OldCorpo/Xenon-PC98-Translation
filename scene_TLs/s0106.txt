@@ -765,7 +765,7 @@ As I walked for a while, I remembered the overall layout of the ship. This kind 
 //恐らく１０人も搭乗すれば、乗員オーバーになってしまう、小型シップなのだろう。
 Even 10 people would probably exceed the small ship's capacity.
 //ゆっくりと廊下を歩いて見ていくうちに、ドアには例外無く小さなプレートが貼り付けてある事に気付いた。
-As I slowly walked down the corridor, looking around, I noticed a miniscule plate fixed to the door.
+As I slowly walked down the corridor, looking around, I noticed a minuscule plate fixed to the door.
 //恐らくクルーの名前や部署、なのかもしれない。
 It's probably the name of a crew member or a department.
 //１つ１つ順に目で追っていくと、ふと目にとまったプレートがある。他のとは大きさが明らかに違っていた。

@@ -11,7 +11,7 @@ Where should I go this time...?
 //手前左の方から、異音が聞こえてくるようだが‥‥。
 I hear an odd sound coming from my left....
 //良く見ると、階段がある。どうやら、下っているようだ。しかも、この身体に響きわたる重低音は、この先から聞こえてくるようだった。
-As I look more closely, there is a ladder. It seems to be going down. I heard the low, deep sound from earlier reverbrating through my body.
+As I look more closely, there is a ladder. It seems to be going down. I heard the low, deep sound from earlier reverberating through my body.
 //オレは手すりにつかまりながら、慎重に階段を下りていった。
 Gripping the handrail, I carefully descended the ladder.
 //［トレイシー］：あら、コウジ様、いかがなさいました？　ご用なら、お呼びして下されば‥‥。
@@ -157,7 +157,7 @@ Tracy's expression lost its edge and slightly eased up. Agh, navigating this top
 //［宏治］：さて、どうしたものかな‥‥。
 [Kouji]: Now, what should I do...
 //一際、大きなドアの前に立った。中からは、重厚な音が響きわたり、鼓膜を盛んに刺激する。
-I stood before a particularly large door. A low, heavy sound reverbrated from within, pounding on my eardrums.
+I stood before a particularly large door. A low, heavy sound reverberated from within, pounding on my eardrums.
 //この中は‥‥‥‥。
 Inside was....
 //［宏治］：‥‥‥‥‥‥‥‥‥。
@@ -321,7 +321,7 @@ It seems best to leave the engine room as it is.
 //そう考えると、オレは今来たドアの方へ向き直った。そのとき‥‥。
 With that in mind, I turned towards the door ahead. Right then...
 //重々しいサウンドの中で、やけにクリアな音が響きわたった。下の方からみたいだが‥‥。
-In the middle of the heavy sound around me, an unusually clear tone reverbrated. It seems to be coming from below...
+In the middle of the heavy sound around me, an unusually clear tone reverberated. It seems to be coming from below...
 //ハシゴを降りてみようか‥‥。
 It looks like I'll have to descend that ladder...
 //気にならないと言えば、嘘になる。危険そうだったら、すぐに戻ってくればいいじゃないか。

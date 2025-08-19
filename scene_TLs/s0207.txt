@@ -615,11 +615,11 @@ The truth was, I was still on this developing planet called Earth. I was still s
 //［宏治］：《根本的解決にはならないなぁ‥‥。》
 [Kouji]: "I can't solve the issue at the root, can I..."
 //［コウジ］：《もうすぐ、かどうかはわからないが、そのうちモノラル・ジェネレータが完成する。》
-[KOUJI]: "I don't know what will happen next, but you should finish my Monoral generator."
+[KOUJI]: "I don't know what will happen next, but you should finish my Monaural generator."
 //［宏治］：《モノラル‥‥なんだって？》
-[Kouji]: "Monoral...what's that?"
+[Kouji]: "Monaural...what's that?"
 //［コウジ］：《モノラル・ジェネレータだ。双方のジェネレータをシンクロさせなくても、片方からの通信で思念体のチェンジが可能だ。》
-[KOUJI]: "The Monoral generator. Even when the generators on both sides can't be synchronized, through communications from one side, thought bodies can be swapped."
+[KOUJI]: "The Monaural generator. Even when the generators on both sides can't be synchronized, through communications from one side, thought bodies can be swapped."
 //［宏治］：《本当だろうな‥‥。》
 [Kouji]: "Are you serious...?"
 //［コウジ］：《本当だ。少なくとも私はそう信じているぞ。》
