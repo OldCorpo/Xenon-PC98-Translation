@@ -1,0 +1,672 @@
+//s0102
+s0102
+//　◆ セーブする。
+　◆ Save
+//　◆ ゲームを続ける。
+　◆ Continue
+//　データ１　　
+　Slot 1
+//　データ２
+　Slot 2
+//　データ３
+　Slot 3
+//　データ４
+　Slot 4
+//save1
+save1
+//データ１にセーブしました。
+The game was saved in slot 1.
+//save2
+save2
+//データ２にセーブしました。
+The game was saved in slot 2.
+//save3
+save3
+//データ３にセーブしました。
+The game was saved in slot 3.
+//save4
+save4
+//データ４にセーブしました。
+The game was saved in slot 4.
+//　　　　　　コウジさん、目覚める時間ですよ‥‥。<$04><$30><$05>
+　　　　Kohji-san, it's time to wake up.<$04><$30><$05>
+//　　　　　　　　目覚めの‥‥時間‥‥？<$04><$30><$05>
+　　　　　　　Time...to wake up?<$04><$30><$05>
+//　　　　　　　　　コウジさん‥‥。<$04><$30><$05>
+Kohji-san...<$04><$30><$05>
+//　　　　コウジ‥‥？　それが私の名前なのか‥‥？<$04><$30><$05>
+　　　　　Kohji? Is this my name?<$04><$30><$05>
+//1010b_m
+1010b_m
+//以前にも、同じ様な事がなかっただろうか‥‥？
+Had the same thing happened before?
+//口で否定はしたものの、あまり人に大声で話せる内容で無いのも、確かなようだった。
+I'd have liked to deny it, but it's not the kind of thing I should say out loud.
+//しばらく思案している僕を見て、涼子は、
+Ryouko, who seemed to be pondering over something while scrutinizing me, finally said:
+//［涼子］：宏治クン、私はこれでも医者よ。恥ずかしがる必要など、全くないの。
+[Ryouko]: Kouji-kun, I am a physician, there is no need for you to feel any shame in front of me.
+//［宏治］：ええ‥‥‥。
+[Kouji]: Yeah...
+//［涼子］：‥‥‥‥‥‥。
+[Ryouko]: ‥‥‥‥‥‥//。
+//静かな昼下がり、という形容が相応しかった。
+We could accurately describe it as a peaceful afternoon.
+//都会の雑踏とは無縁のこの場所は、微妙な、メンタルな部分に依存する人たちに、快適な環境を提供してくれている。
+Far from the city's throng, this place was a comfy environment offered to delicate, mentally dependent people.
+//ブラインドから洩れる陽射しが、天候の良さを物語っている。外からは時折、鳥のさえずり声が聞こえるだけで、あたりは概ね静かだ‥‥。
+The sunlight seeping through the blinds indicated good weather.\nAll that could be heard was the occasional sound of chirping birds...
+//［宏治］：どうしても、言わなくてはダメですか？
+[Kouji]: Do I really have to tell you ?
+//［涼子］：ええ。貴重なサンプル情報となるのですからね。
+[Ryouko]: Yes, you should, as it could be an important sample.
+//［宏治］：わかりました‥‥でも、笑わないで下さいよ。
+[Kouji]: OK...But please don't laugh.
+//［涼子］：大丈夫よ‥‥じゃあ最初から、覚えているだけでいいから、出来るだけ詳しく話して頂戴。
+[Ryouko]: Don't worry about it. Now, then, tell me what you can remember as precisely as possible.
+//僕はゆっくりと、記憶の糸を辿りだした。
+I then started to unravel the threads of my memory.
+//夢というのは、見ているときはやけにクリアであるのに、起きてしばらくすると、あっという間に忘却してしまう、そんな性質がある。
+Dreams are fleeting by nature. They are so clear the moment you see them,\nbut as soon as you wake up, they vanish into oblivion.
+//僕はできるだけ鮮明に、夢の内容を思いだそうと試みた‥‥。
+Endeavoring to remember my dream as distinctly as possible, I said:
+//［宏治］：まず僕は‥‥‥‥。
+[Kouji]: First, I...
+//　◆ いつの間にか、ボイラー室のような所にいた‥‥。
+　◆ ...found myself in some sort of boiler room.
+//　◆ どこか、見知らぬ病室のような場所で目覚めた‥‥。
+　◆ ...woke up somewhere in a sort of hospital room.
+//［宏治］：いつの間にか、ボイラー室のような所にいた‥‥。
+[Kouji]: ...found myself in some sort of boiler room.
+//［涼子］：ボイラー室？　またずいぶんと具体的ね。
+[Ryouko]: A boiler room? Hm, that's rather tangible.
+//［宏治］：えぇ、そのようです‥‥もっとも確信はないんですけど。
+[Kouji]: Yeah, it seemed like that...But I'm not really sure.
+//［涼子］：何となく、ボイラー室っぽかったと、そういうこと？
+[Ryouko]: At least, it was somewhat like a boiler room, wasn't it?
+//［宏治］：そうです。
+[Kouji]: Yes, it was.
+//僕自身も、それほど自信は無かった。
+Even I wasn't really sure myself.
+//しかし、あのボイラー室特有の熱く騒がしい感覚が、未だに脳裏に焼き付いていたのだ。
+But its heat and rowdiness were still etched into my mind.
+//［涼子］：わかったわ‥‥それで、中なんかは、どうなっていたのかしら？
+[Ryouko]: OK...Then, what was its interior like?
+//［宏治］：やけに寒々としていたような、そんな気がしました。
+[Kouji]: It was awfully frigid. It was that kind of feeling.
+//［涼子］：寒々と‥‥ボイラー室なのに？
+[Ryouko]: You felt a _boiler_ room was frigid?
+//［宏治］：そ、そうですね‥‥何か変ですね。
+[Kouji]: Yes, I admit that's strange.
+//［涼子］：まぁいいわ。それから、どうしたのかしら？
+[Ryouko]: OK, that's fine. From there, what did you do?
+//［宏治］：それから、何だかいたたまれなくなって、そこを出たような気がします。
+[Kouji]: From there, I think I suddenly felt like I couldn't bear it any more, and I ran away.
+//［涼子］：わかったわ‥‥他に、気付いた点とか、あるかしら？
+[Ryouko]: OK...Did you notice anything else?//-857
+//［宏治］：そうですね‥‥‥‥。
+[Kouji]: Yeah...//->TO 857|800
+//［宏治］：どこか、見知らぬ病室のような場所で目覚めた‥‥。
+[Kouji]: ...woke up somewhere in a sort of hospital room .
+//［涼子］：病室？
+[Ryouko]: A hospital room?
+//［宏治］：えぇ‥‥もっとも確信はないんですけど‥‥。
+[Kouji]: Yeah. I am not really sure, though...
+//［涼子］：何となく、病室っぽかったと、そういうこと？
+[Ryouko]: But it looked like a hospital room, didn't it?
+//しかし、あの病院特有の、白く寒々しい感覚が、未だに脳裏に焼き付いていたのだ。
+But the white walls and its frigidness were still etched into my mind.//->755
+//［涼子］：わかったわ‥‥それで、部屋の中なんかは、どうなっていたのかしら？
+[Ryouko]: OK...Then, what was it like inside the room?
+//［涼子］：寒々と‥‥それは、室温？　それとも感覚的に？
+[Ryouko]: You say frigid... Are you talking about the temperature, or the sentiment it gave off?
+//［宏治］：室温です。
+[Kouji]: The temperature.
+//［涼子］：あら、即答ね。どうしてそう考えたの？
+[Ryouko]: Oh! an immediate reply. Why do you think so?
+//［宏治］：ええと、僕は確か裸で、着るモノを捜していたような気がしたからです。
+[Kouji]: Er... that's because I was naked, so I was looking for anything to wear.
+//［涼子］：‥‥なるほどね。それから？
+[Ryouko]: ...I see. Then?
+//［宏治］：それから僕は‥‥‥‥。
+[Kouji]: Then, I...
+//［涼子］：わかったわ、それで？
+[Ryouko]: OK. Then?
+//［宏治］：ええと、看護婦さんを呼ぼうとして‥‥。
+[Kouji]: Er, I tried to call a nurse.
+//［涼子］：ナースを？　すると、ブザーを押したのね。
+[Ryouko]: A nurse? So, you looked for a buzzer.
+//［宏治］：いいえ、ブザーはベッドにありませんでした。
+[Kouji]: No. There wasn't any buzzer around the bed.
+//［涼子］：捜したの？
+[Ryouko]: You looked for one?
+//僕はちょっと考えた。なぜブザーが無かったのか、夢の中で思案したような気がしたのだ。
+I thought a little about it. I had the feeling I tried to figure out why there wasn't any buzzer during my dream.
+//［宏治］：‥‥もしかしたら、病室じゃ無かったのかも知れません。
+[Kouji]: ...Maybe it wasn't a hospital room after all.
+//［涼子］：フフ、本当に病室か否かということは、あまり重要ではないの。
+[Ryouko]: *chuckle* Whether it's a hospital room or not, that's not what's important here.
+//［宏治］：‥‥？
+[Kouji]: ...?
+//［涼子］：そう宏治クンが思った、ということが大事なのよ。
+[Kouji]: What matters is that _you_ thought it was a hospital room.
+//［宏治］：そんなものですか‥‥。
+[Kouji]: Is that so...?
+//［涼子］：そんなものよ。
+[Ryouko]: Indeed.
+//涼子は薄く笑みをこぼすと、何かのノートに、私の言葉を書き取っていった。
+Ryouko, showing a wry smile, was writing down my words on her notebook.
+//［宏治］：それから、何だかいたたまれなくなって、部屋を出たような気がします。
+[Kouji]:Then, I think I couldn't stand being there any more. I left the room.//->727
+//［宏治］：部屋の中を、いろいろと見たような気がします。
+[Kouji]: I think I investigated all over the room.
+//［涼子］：ふーん‥‥どんな部屋だったのかしら？
+[Ryouko]: Hmm... What kind of room was it?
+//［宏治］：確か、カーテンのような、ついたてがあって‥‥あっ！
+[Kouji]: If I remember correctly, there was a folding screen that looked like a curtain... Ah!
+//［涼子］：どうしたの？
+[Ryoulo]: What is it?
+//［宏治］：そうだ、僕が病室だと思ったのは、多分あのついたてを見たからだと思います。
+[Kouji]: That's it! I surely thought it was a hospital room because I saw that folding screen.
+//［涼子］：ついたて、ね‥‥。わかったわ、それで？
+[Ryouko]: A folding screen...OK, then?
+//［宏治］：あと、花瓶に綺麗な花がいけてありました。
+[Kouji]: Then, there was a vase with beautiful flowers in it.
+//［涼子］：その花は何色だったの？
+[Ryouko]: What color were these flowers?
+//［宏治］：確か‥‥‥‥。
+[Kouji]: They were...//->816
+//　◆ 居たたまれなくなって、部屋を出た‥‥。
+◆ I couldn't bear being here any longer, so I left the room.
+//　◆ ナースを呼ぼうとした‥‥。
+◆ I tried to call for a nurse.
+//［宏治］：居たたまれなくなって、部屋を出た‥‥そんな気がします。
+I couldn't bear being here any longer, so I left the room. That's what I think I did.
+//［涼子］：居たたまれなくなって‥‥寂しいとか、そういう感じかしら？
+[Ryouko]: You couldn't bear staying in the room... Was it because you were alone?
+//［宏治］：そうですね、ここには居られないという強迫観念みたいのが、芽生えた感じでした。
+[Kouji]: Not really. I think there was some growing compulsion that dictated I couldn't stay in this place.//->726
+//［宏治］：ナースを呼ぼうとした‥‥ような気がしました。
+[Kouji]: I get the feeling I tried to call for a nurse.
+//［涼子］：ナースを？
+[Ryouko]: A nurse?
+//［宏治］：はい、どうもよく覚えていないのですが‥‥。
+[Kouji]: Yes. But I don't really remember.
+//　◆ 森のような緑色。
+　◆ ...forest green.
+//　◆ 透き通った青色。
+　◆ ...crystalline blue.
+//　◆ 情熱的な赤色。
+/*　◆ ...passionate, crimson red.
+//［宏治］：森のような緑色、だったと思います。
+[Kouji]: I think they were forest green.
+//［涼子］：緑色、ね‥‥わかったわ。他に何か、あったかしら？
+[Ryouko]: Green... Understood. Was there anything else?
+//［宏治］：透き通った青色、だったと思います。
+[Kouji]: I think they were crystalline blue.
+//［涼子］：青色、ね‥‥わかったわ。他に何か、あったかしら？
+[Ryouko]: Blue... Understood. Was there anything else?
+//［宏治］：情熱的な赤色、だったと思います。
+[Kouji]: I think they were passionate, crimson red.
+//［涼子］：赤色、ね‥‥わかったわ。他に何か、あったかしら？
+[Ryouko]: Red... Understood. Was there anything else?
+//［宏治］：そうだ、パソコンか何かの端末みたいのが、置いてあったような気がします。
+[Kouji]: Yeah, there was as well some sort of terminal, a computer?
+//［涼子］：‥‥端末？
+[Ryouko]: ...A terminal?
+//［宏治］：ええ、そこには確か‥‥‥‥。
+[Kouji]: Yeah, and on it...
+//確か、何かの文字がディスプレイされていたような気がした。
+I had the feeling that some sort of text was displayed on it.
+//簡単で、それでいて的を射た言葉‥‥。
+That was a mere word. And yet, it went straight to the point.
+//［宏治］：そうだ、確か“ＤＲＥＡＭ”と書かれていたような気がします。
+[Kouji]: Yeah, I think “ＯＮＥＩＲＯＳ” was written on it.
+//［涼子］：ＤＲＥＡＭ‥‥文字通り解釈すれば、夢ということね。
+/*[Ryouko]: ＯＮＥＩＲＯＳ... Literally, it means dream.
+//［宏治］：はい、でも変ですよね。
+[Kouji]: Yes, but that's weird, isn't it?
+//［涼子］：そんなことはないわ。夢の中で、夢と認識することは、得てしてあることよ。
+[Ryouko]: Not at all. Being able to acknowledge your dream as a dream is a common occurrence.
+//［宏治］：そんなもんでしょうか‥‥。
+[Kouji]: Really?
+//［涼子］：フフ、そんなものよ‥‥。
+[Ryouko]: *chuckle* Yes, indeed.//->
+//［宏治］：そうだ、確かドアが‥‥‥‥。
+[Kouji]: Also, the door was...
+//［涼子］：ドアが、どうかしたの？
+[Ryouko]: What about the door?
+//［宏治］：ええ。ドアが自動だったんですが‥‥。
+[Kouji]: The door was an automatic one.
+//［涼子］：まぁ、自動ドアはそれほど珍しくはないわね。
+[Ryouko]: Well, automatic doors are not that rare nowadays.
+//［宏治］：違うんです。そのドアが‥‥‥‥。
+[Kouji]: That's not it. I think...
+//　◆ 異様に厚かったような気がした‥‥。
+　◆ ...the door was unexpectedly thick.
+//　◆ 銀色に輝いていたような気がした‥‥。
+　◆ ...the door was sparkling silver.
+//［宏治］：異様に厚かったような気がした‥‥。
+[Kouji]: ...the door was unexpectedly thick.
+//［涼子］：厚い？
+[Ryouko]: Thick?
+//［宏治］：ええ何だか、潜水艦のドアみたいに分厚かったような気がしました。
+[Kouji]: Yeah. I think it looked like a submarine's door.
+//［涼子］：厚いドア、ね‥‥。
+[Ryouko]: A thick door...
+//涼子の手元は盛んに動いているが、目は薄く遠くを見ている。
+Ryouko's hands were moving energetically, yet it seemed her eyes were languidly looking far away.
+//２つのことを、同時にできるらしかった。大したものだと思う。
+I thought being able to do both these things at the same time was quite a feat.//->TO 893
+//［宏治］：銀色に輝いていたような気がした‥‥。
+[Kouji]: ...the door was sparkling silver.
+//［涼子］：銀色に？
+[Ryouko]: Silver?
+//［宏治］：えぇ、確かそんな気がしたんですが‥‥。
+[Kouji]: Yeah. That's what I think I saw but...
+//［涼子］：ふむ、銀色のドア‥‥と。
+[Ryouko]: *chuckle* A silver door...//->879
+//［涼子］：それで、ドアから出て、夢はおしまい？
+[Ryouko]: Then, you fled by the door and your dream ended there?
+//［宏治］：いいえ、それからが不可解な夢になって‥‥。
+[Kouji]: No, from here on, it becomes inscrutable.
+//［涼子］：ふむ‥‥。
+[Ryouko]: Hmmm....
+//涼子は再び遠く見るような目をすると、何かを思案するような仕草をした。
+Again, Ryouko was staring far away, as if pondering over something.
+//［涼子］：では、話して頂戴。
+[Ryouko]: Well then, please continue.
+//［宏治］：えぇ‥‥確か僕は、廊下のような場所に出たのですが‥‥。
+[Kouji]: OK...If I remember correctly, I arrived at a corridor...
+//［涼子］：廊下ね？
+[Ryouko]: A corridor?
+//［宏治］：えぇ、そうです。外は‥‥。
+[Kouji]: Yeah. The atmosphere was...
+//　◆ ゾクッとするような寒気が充満していて‥‥。
+　◆ ...overflowing with frigidness.
+//　◆ ムワッとするような暖気が充満していて‥‥。
+　◆ ...overflowing with warmth.
+//［宏治］：ゾクッとするような寒気が充満していて‥‥身体が震えたのを覚えています。
+[Kouji]:...overflowing with frigidness. I remember I was shivering from the cold.
+//［宏治］：ムワッとするような暖気が充満していて‥‥身体から汗が浮き出たのを覚えています。
+[Kouji]:...overflowing with warmth. I remember I was sweating from the heat.
+//［宏治］：やけに、無機質な場所でした。
+[Kouji]: It was a really inorganic place.
+//［涼子］：無機質なのは、恐らくそうする必然性があるからよ。
+[Ryouko]: Well, you couldn't help the fact that it was inorganic.
+//［宏治］：いえ、違うんです。
+[Kouji]: No, that's not it.
+//［涼子］：どう、違うの？
+[Ryouko]: What was it, then?
+//なかなか上手く、言葉では伝わらないものだ。僕は、この感覚を伝える言葉を慎重に吟味した。
+It was something hard to express with words. That's why I strove to choose\nthe right words to convey the right feeling.
+//［宏治］：何と言えばいいのか‥‥そう、やけに現実感を欠くような感じで、不安がヒシヒシと伝わってくるような‥‥。
+[Kouji]: How to put it... It was as if the place was lacking a sense of reality, making me really uneasy.
+//［涼子］：夢だもの、現実感を欠くのは、むしろ当然じゃなくて？
+[Ryouko]: It's a dream. Isn't it natural that that it lacks reality?
+//［宏治］：そう言われれば、そうですけど‥‥。
+[Kouji]: Now that you say it, that's true but...
+//何か、違うような気がした。
+Somehow, I felt it wasn't right.
+//確かに夢なのだから、現実感を欠くのは当然と言えば当然だった。だけど、その一言では済ませられない何かも、同時に感じていたのは確かなのだ。
+Of course it seemed natural that it lacked reality because it was a dream. But,\nsomething was keeping me from resigning myself to that.
+//［涼子］：いいわ、じゃあその先を‥‥。
+[Ryouko]: It's OK, tell me, what else happened?
+//［宏治］：えっ、えぇ‥‥。
+[Kouji]: Huh? All right...
+//思考を途中で中断された不愉快に、少しだけ襲われたが、僕は気を取り直して夢の続きを語りだした。
+Being interrupted during my thinking was rather uncomfortable, but,\nregaining my composure, I resumed recounting my dream.
+//［宏治］：そうだ、その場で何か、かなり不愉快なことがあって‥‥。
+[Kouji]: Yeah. There was something really unpleasant in this place.
+//［涼子］：不愉快なこと？
+[Ryouko]: Something unpleasant?
+//［宏治］：はい。それは確か‥‥。
+[Kouji]: Yes. It was...
+//　◆ 無機質で、耳障りな高い音。
+　◆ ...an inorganic, grating, high-pitched sound.
+//　◆ 生々しく、頭に響いてくる重低音。
+　◆ ...a vivid, low-pitched sound echoing in my head.
+//［宏治］：無機質で、耳障りな高い音‥‥だったと思います。
+[Kouji]: I think it was an inorganic, grating, high-pitched sound.
+//［涼子］：それは確かに不快かもね。でも、どこか有機的な‥‥重い心音のような音も、同時に聞こえたんじゃなくて？
+[Ryouko]: Indeed, that must be unpleasant. But, at the same time,\n          did you also hear an organic sound, resembling your heartbeat?
+//［宏治］：生々しく、頭に響いてくる重低音、だったと思います。
+[Kouji]: I think it was a vivid, low-pitched sound echoing in my head.
+//［涼子］：重低音‥‥ふむ。
+[Ryouko]: A low-pitched sound... *chuckle*
+//涼子は、ノート上で忙しく動かしていた手を少しだけ止めると、
+Ryouko, whose hand was busy jotting things down in her notebook, stopped and said:
+//［涼子］：どうにも居たたまれなくなってきた、というところかしら。
+[Ryouko]: Did you feel like you couldn't help but run away?
+//［宏治］：えぇ、そうでした‥‥何故わかるんですか？
+[Kouji]: Huh? That's exactly right...How did you know?
+//［涼子］：何年この仕事を、私がしていると思って？
+[Ryouko]: How many years do you think I've been doing this job?
+//［宏治］：す、すみません‥‥。
+[Kouji]: I-I'm sorry...
+//［涼子］：フフ、謝らなくてもいいわ。でも、面白いわね‥‥。
+[Ryouko]: *chuckle*, no need to apologize. But that's funny...
+//［宏治］：何がです？
+[Kouji]: What's funny?
+//［涼子］：さっきから話を聞いていると、人が１人も出てこないわ。
+[Ryouko]: Since I started listening to your story, not a single person made an appearance.
+//［宏治］：‥‥‥‥‥‥。
+[Kouji]: ‥‥‥‥‥‥//。
+//［涼子］：‥‥なに？
+[Ryouko]: ...What is it?
+//［宏治］：いえ、出て来るんです。ただ‥‥。
+[Kouji]: Actually, people do appear. It's just that...
+//［涼子］：ただ‥‥何かしら？
+[Ryouko]: Just that...what?
+//［宏治］：とにかく、続きを聞いて下さい‥‥。
+[Kouji]: Anyway, listen to what I'm about to tell you.
+//僕は、夢の中の廊下で出会った少女のことを話してみた。
+I tried to talk about the girl I met in the corridor.
+//［宏治］：確か彼女は‥‥。
+[Kouji]: If I remember correcty, she was wearing...
+//　◆ レモンイエローの大きなリボンをしていて‥‥。
+　◆ ...a large lemon yellow ribbon...
+//　◆ ダークシルバーの比較的小さなリボンに‥‥。
+　◆ ...a relatively small dark silver ribbon...
+//［宏治］：レモンイエローの大きなリボンをしていて‥‥。
+[Kouji]: ...a large lemon yellow ribbon...
+//［宏治］：ダークシルバーの比較的小さなリボンに‥‥。
+[kouji]: ...a relatively small dark silver ribbon...
+//　◆ フワリとした厚手の服装‥‥。
+　◆ ...and soft but heavy clothing...
+//　◆ ワインレッドの露出度の高い服‥‥。
+　◆ ...and an expensive-looking showy wine red dress...
+//［宏治］：フワリとした厚手の服装‥‥だったと思います。
+[Kouji]: ...and soft but heavy clothing...I think.
+//［涼子］：身体的な特徴は、どんなものかしら？
+[Ryouko]: Was there anything peculiar about her physique?
+//［宏治］：身体的な特徴ですか。そうですね‥‥。
+[Kouji]: Something peculiar? Indeed there was...
+//［宏治］：ワインレッドの露出度の高い服‥‥だったと思います。
+[Kouji]: ...and an expensive-looking showy wine red dress...I think.
+//　◆ 大きなクリクリとした目をしていて‥‥。
+　◆ Her eyes were big and round...
+//　◆ 切れ長の細い目をしていて‥‥。
+　◆ Her eyes were small and slanted...
+//［宏治］：大きなクリクリとした目をしていて、童顔‥‥というか、まだあどけない少女という感じでした。
+[Kouji]: Her eyes were big and round, with a somewhat child-like face.\n         She gave the feeling of a pristine maiden.
+//［涼子］：ふーん‥‥。
+[Ryouko]: Hmm...
+//［宏治］：あどけない少女なんですが、どことなくミステリアスな感じもうけました‥‥。
+[Kouji]: She may have seemed innocent, but there was a vaguely mysterious aura around her.//If all answers were correct ->TO 1057
+//［宏治］：切れ長の細い目をしていて、大人の女性という感じがしました。
+[Kouji]: Her eyes were small and slanted, like a fully grown-up woman.
+//［涼子］：大人、ね‥‥。
+[Ryouko]: Grown-up, hmm...
+//［宏治］：眼鏡も掛けていたような気もしましたけど‥‥。
+[Kouji]: She was wearing glasses, too, if I remember correctly.
+//［宏治］：‥‥‥‥‥‥‥‥。
+[Kouji]: ‥‥‥‥‥‥‥‥//。
+//［宏治］：あの‥‥何か？
+[Kouji]: Err... is something amiss?
+//涼子は、書き取っていたメモを睨んで、しばらく思案していた。おもむろに顔をこちらへ向けると、
+Ryouko, who was glaring at her notebook, seemed deep in thought for a moment.\nThen, she turned her gaze towards me and said:
+//［涼子］：‥‥宏治クン、どうもあなた、言っていることに矛盾があるようだわ。
+[Ryouko]: ...Kouji-kun, it seems there are inconsistencies in what you're saying.
+//［宏治］：そ、そりゃあ夢の中の事ですから‥‥。
+[Kouji]: W-Well, no surprise, that's a dream after all.
+//［涼子］：夢の進行に矛盾があっても構わないけど、分析するためのファクターに、矛盾があってはならないの。
+[Ryouko]: I don't mind that there might be inconsistencies in a dream's progression,\n          but contradictions in its analytic factors can't be overlooked.
+//［宏治］：どういうことです？
+[Kouji]: What do you mean?
+//［涼子］：説明は難しいわね‥‥つまり、宏治クンが夢の中で女性として存在していても構わないのだけど‥‥。
+[Ryouko]: That's hard to explain. Look, it's not as if I care whether\n          there are women in your dreams,
+//［涼子］：その事を退けるようなファクターがあってはならない、ということね。
+/*[Ryouko]: But there is no factor that can sweep these discrepancies away.
+//［宏治］：何のことだか、ちっともわからないんですけど‥‥。
+[Kouji]: I'm not sure I understood what you mean by "these discrepancies".
+//［涼子］：もう一度、最初からね。
+[Ryouko]: Let's go over it again, from the top.
+//［宏治］：も、もう一度、ですか‥‥。
+[Kouji]: A-Again? B-but...
+//［涼子］：そっ、もう一度。
+[Ryouko]: Yes, again.
+//［宏治］：ふぅ‥‥。
+[Kouji]: *sigh*
+//僕は溜息を１つ吐くと、もう一度、夢の内容を思いだそうと記憶の糸を辿りだした。
+Heaving a long sigh, I once again started to unravel the threads of my memory.
+//［涼子］：‥‥ずいぶんと、具体的ね。
+[Ryouko]: ...That's very substantial.
+//［宏治］：えぇ、自分でもそう思います。でも‥‥。
+[Kouji]: Yeah, I think so myself, but...
+//［涼子］：なに？
+[Ryouko]: What is it?
+//［宏治］：何といったら‥‥誰かに印象が似ているんです。だけど、それが誰かはわかりません。
+/*[Kouji]: How to put it... she left an impression like someone else familiar to me. But, I don't know who that "someone else" is.
+//［涼子］：よくあることよ。夢の中の人物に、現実の世界の個人が投影されるということは。
+[Ryouko]: That happens often. Projecting real individuals into one's dream is not a rare thing.
+//［宏治］：そうみたいですね‥‥。
+[Kouji]: Yeah, it does seem so...
+//［涼子］：２人の違う人物を、足して２で割ったようなキャラクタだって、夢の中に出てくるケースもあるのよ。
+[Ryouko]: Building a new character from two different actual people is common, too.
+//どうも違うような気がするが、それを上手く言えなかった。
+I thought she wasn't right about that, but I smoothly avoided saying so.
+//夢の中では、それが何か、僕は知っていたような気がしたのだが‥‥。
+I had the feeling that in my dream, I knew something about that, but...
+//［涼子］：その女の子とは、どうなったの？
+[Ryouko]: Then, what happened with the girl?
+//［宏治］：どうなったのって‥‥自己紹介をして‥‥。
+[Kouji]: What happened? Well, we introduced ourselves.
+#Maybe it can be : "she introduced ourself". But as we saw inside the dream, he had no idea who he was, so he couldn't introduce himself. But does he remember that?
+#But I chose "we" because of line 1085.
+//［涼子］：彼女の名前は？
+[Ryouko]: What was her name?
+//［宏治］：‥‥名前、ですか。
+[Kouji]: ...Her name?
+//［涼子］：そう、名前。自己紹介をしたのなら、お互いに名前を名乗り合ったでしょう？
+[Ryouko]: Yes, her name. If you introduced yourselves, then you exchanged your names?
+//［宏治］：そういえば‥‥。
+[Kouji]: Now that you mention it...
+//［宏治］：僕は、自分自身の名前を言えなかった気がします。
+[Kouji]: I think I couldn't even say my own name.
+//［涼子］：故意に言わなかったの？　それとも言いたくても言えなかった？
+[Ryouko]: Is it because you didn't want to, or because you just couldn't do it even though you meant to?
+//この辺は、記憶が極めてあやふやだ。ただ、故意に名前を隠す、ということは無いように思えた。
+At this point, my memory was extremely vague. However, I didn't think I was hiding my name on purpose.
+//そう思うと僕は、その事を涼子に伝えた。
+With that thought, I said to Ryouko:
+//［宏治］：後者‥‥だと思います。
+[Kouji]: I think it's the latter.
+//［涼子］：なるほど、言いたくても言えなかったと。
+[Ryouko]: I see, so you couldn't say it even though you meant to.
+//［宏治］：はい。
+[Kouji]: Yes.
+//［宏治］：夢の中での宏治クンは、名無しのゴンベ？
+[Ryouko]: So the Kouji-kun in your dream was a John Doe?
+#The game here makes a mistake. I am quite sure that's Ryouko who's talking.
+#I don't understand the word "ゴンベ". Apparently, that's Munchlax's name... But Munchlax didn't exist at that time.
+#I'll ask a native about that. (after asking, it's just some kind of idiom to designate a nameless person. My friend didn't know the details.
+#I can't think of an idiom to translate it in English.
+//［宏治］：いえ、名無しではなくて、名前を思い出せなかったんだと思います。
+[Kouji]: No, I couldn't recall my name, but I think I had one.
+//［涼子］：ふむ‥‥で、その女の子の名前は？
+[Ryouko]: *chuckle* Then, what was her name?
+//［宏治］：女の子？
+[Kouji]: Her?
+//［涼子］：ほら、あなたの夢に出てきたという、女性の事よ。
+[Ryouko]: Hey! the girl you saw in your dream.
+//［宏治］：あぁ、確か‥‥。
+[Kouji]: Ah...Hmm...
+//［宏治］：すみません、思い出せません。
+[Kouji]: Sorry, I can't remember.
+//［涼子］：そう‥‥。
+[Ryouko]: I see.
+//［宏治］：すみません。
+[Kouji]: Sorry.
+//［涼子］：フフ、別にすまなそうな顔をしなくても、いいのよ。明確に覚えている方がまれなのだから。
+[Ryouko]: *chuckle* Don't make such a remorseful face. Seldom do people remember such things in their dream.
+//［宏治］：はい‥‥。
+[Kouji]: OK.
+//［涼子］：それから？
+[Ryouko]: What happened next?
+//［宏治］：それから‥‥‥‥。
+[Kouji]: Next...
+//それから、僕はどうしたんだろうか‥‥。
+(Then, what did I do?)//I added parentheses to clearly show he is thinking by himself.
+//どこか、寒々としたところに行ったような記憶がある。そしてそこで、何かを見て、驚愕して‥‥‥‥。
+I think I landed somewhere in a bleak place. Then, I saw something really surprising...
+//妙に記憶があやふやだった。大事な部分だけ忘れ去っているのを認識する、そんな焦燥感に襲われていた。
+The contents of my memory were oddly vague. I felt frustrated when I realized\nI was completely forgetting only the most important parts.
+//［宏治］：思い出せません‥‥。
+[Kouji]: I can't remember...
+//［涼子］：そう、残念だわ。
+[Ryouko]: I see. That's a shame.
+//ブラインドからもれてくる陽射しは、もうかなり中の方まで進入してくる。それは、意外に時間が経過していることを僕に教えていた。
+The sunlight seeping through the blind wasn't as vertical as before.\nThanks to that, I learned that quite some time had passed without me noticing it.
+//涼子はペンを机の上に置くと、少し厳しい顔をして自分のとったメモを見つめている。
+Ryouko, putting her pen on top of her desk, somewhat sternly gazed at her notebook.
+//［涼子］：願望充足‥‥というのを知っているかしら？　宏治クン。
+[Ryouko]: Have you ever heard of the notion of "wish fulfilment", Kouji-kun?
+//涼子はふいに顔をあげると、僕を直視した。
+Ryouko, suddenly raising her head, stared me right in the eyes.
+//僕には何のことを言っているのか、よく理解できなかったようだ。
+I didn't really know how I was supposed to answer to that.
+//［宏治］：願望充足‥‥‥‥願望の充足、の事ですか？
+[Kouji]: Wish fulfillment... Is it about the fulfillment of wishes?
+//［涼子］：フフ、面白いわね、キミ。
+[Ryouko]: *chuckle* What a funny fellow you are.
+//涼子は薄く笑みをこぼすと、ゆっくり足を組み替えた。不本意ながら、目がそちらへ向いてしまう。
+Ryouko, showing a wry smile, slowly re-crossed her legs. Without meaning to,\nI turned my eyes towards them.
+//［涼子］：願望充足の評価は、夢を分析するときの、１つの指標の事よ。
+[Ryouko]: The assessment of wish fulfillment is one of the indicators used for dream analysis.
+//［宏治］：指標？
+[Kouji]: An indicator?
+//［涼子］：どんな夢にもね、一定以上の意味があり、心的価値が存在するという学説があるの。
+[Ryouko]: Whatever the dream, there is a theory that there is more than\none fixed meaning, that a psychological value also exists.
+//［宏治］：でも‥‥‥‥。
+[Kouji]: But...
+//どうも納得がいかない。僕の見た夢は、息苦しく、孤独感に苛まされ、ひしひしと恐怖が伝わってくるという感じだった。
+I couldn't agree with her. In my dream, I was tormented by solitude, stricken with fear.
+//どこが願望の充足になるというのだろうか。僕はそのことを、彼女に伝えた。
+How on earth is that "wish fulfillment"? When I asked her about this, she said,
+//［涼子］：見た目で判断するのは、良くないわね。
+[Ryouko]: You shouldn't judge by appearances only.
+//［宏治］：でも、あの夢が僕の願望をあらわしているなんて‥‥僕は別にマゾじゃありません。
+[Kouji]: But, thinking this dream unveils my wishes... I am no masochist, you know.
+//［涼子］：じゃあ、潜在的なマゾかもね。
+[Ryouko]: Then, maybe you're a latent masochist.
+//［宏治］：先生‥‥。
+[Kouji]: Sensei...
+#Can't choose between Doctor and Sensei and something else better suited. I think Doctor sounds wrong.
+//僕は思いの外、不本意な顔をしていたのだろう。涼子はちょっと悪戯っ子のような表情をすると、
+Unexpectedly, I made a reluctant face. With a mischievous expression on her face, she said,
+//［涼子］：フフ、冗談よ。そんな顔をしないの。
+[Ryouko]: *chuckle* That was a joke! Don't take it so seriously.
+//［涼子］：でも精神医学の分野ではね、その夢があらわす本当の意味を考察しなくては、意味がないの。
+[Ryouko]: But you know, the aim of us psychiatrists is to inquire about the true meaning behind one's dream.
+//［宏治］：本当の意味‥‥？
+[Kouji]: The true meaning?
+//［涼子］：そう。例えば夢の冒頭‥‥確か、病室のようなベッドで１人きり‥‥。
+[Ryouko]: Yes. Let's take the beginning of your dream, for example. You were all alone on a bed in some kind of hospital room, weren't you?
+//［涼子］：それは、あなたの現状をあらわしているわ。確か昨日、恵さんが今日来るという連絡を受けたわよね？
+[Ryouko]: That reveals your current condition. If memory serves, Megumi\ntold you yesterday that she would be coming today, didn’t she?
+//［宏治］：恵？
+[Kouji]: Megumi?
+//［涼子］：あなたの、ガールフレンドでしょう？
+[Ryouko]: She’s your girlfriend, isn’t she? 
+//そうだった。恵というのは、僕のガールフレンドの事だ。
+That was true. The person named Megumi was my girlfriend.
+//彼女は今日、僕の様子を見にやってくることになっていた。
+Today, she’ll come pay me a visit.
+//［宏治］：えぇ、確かに今日、恵が来ますけど‥‥。
+[Kouji]: Yeah, that's true, Megumi's coming here today, but...
+//［涼子］：それで、あなたの願望が強い孤独感となって現れたのね。
+[Ryouko]: Therefore, your desire was realized as this strong feeling of\nsolitude in your dream.
+//［涼子］：外に出ると聞こえてきた心音のような音は、孤独なあなたの回帰願望をあらわしているのでしょう。
+[Ryouko]: The fact that you heard a sound resembling heartbeats from the outside, sounds quite like regression.
+//［宏治］：回帰願望？
+[Kouji]: Regression?
+//［涼子］：えぇ。母胎こそ孤独をいやす安息の地、という訳。
+[Ryouko]: Yes. A land of rest that soothes one's loneliness as one's\nmother's womb does.
+//［涼子］：でも、そんな息苦しく孤独な夢に現れた１人の女性‥‥彼女と会ったとき、安堵にも似た感覚を抱かなかった？
+[Ryouko]: I mean, when you met that woman in this stifling dream of yours,\nweren't you embraced by a feeling similar to relief?
+//［宏治］：言われてみれば‥‥。
+[Kouji]: Now that you mention it...
+//［涼子］：露出度も高いことを考慮すると、あなたのリビド（性衝動）も誘因するかもしれない。
+[Ryouko]: Taking into consideration the high degree of skin exposure,\nmaybe your libido (i.e. your sexual urges) worked as an incentive.
+//［宏治］：え？
+[Kouji]: Eh?
+//［涼子］：最近ガールフレンドと、していないんじゃなくて？
+[Ryouko]: You haven’t been doing it with your girlfriend lately, have you?
+//［宏治］：そ、それは‥‥ぷ、プライベートな事です。
+[Kouji]: U-um...I’d rather not say, it’s a private matter.
+#I would like to know what someone thinks of my translation.
+//あまりに図星だったので、少々どもってしまった。それを見すかしたように、彼女は目を細めて薄く笑う。
+As she hit the mark, I stuttered a little. It seemed she hadn't missed that,\nas she was showing a faint smile.
+//［宏治］：（何でこうなるかなぁ‥‥。）
+[Kouji]: (How did it come to this?...)
+//［涼子］：フフ、このくらいにしておきましょうか、今日は。
+[Ryouko]: *chuckle* Let's call it a day for now.
+//［宏治］：ええ‥‥。
+[Kouji]: Yeah...
+//僕は椅子を立ち上がった。膝が少し痛い。長い間、同じ格好で座っていたせいだろう。
+I stood up from the chair. My knees were a little sore, since I had sat\nin the same position for a long time.
+//ブラインドからもれる陽射しは、かなり長く、オレンジ色の光を室内に満たしていた。
+The sunlight seeping through the blind was now nearly horizontal.\nSunset rays filled the entire room.
+//［宏治］：（今日は、ずいぶんと長いカウンセリングになったな‥‥。）
+[Kouji]: (Today, the counseling dragged on, didn’t it...)
+//［涼子］：そうそう、肝心な事を聞かなくては‥‥。
+[Ryouko]: Ah! I'd almost forgotten. I have something crucial to ask you.
+//涼子は真面目な表情に戻ると、僕の方を向いた。切れ長の目が、冷静に僕を射ていた。
+Ryouko, reverting to a serious mood, turned towards me. She looked at me\nserenely with her slit eyes.
+//［涼子］：最近、変わったこと、ある？　特に、メンタルな部分で‥‥。
+[Ryouko]: Have you noticed any changes lately? Particularly mental changes.
+//［宏治］：メンタルな部分、ですか‥‥。
+[Kouji]: Any mental changes...?
+//［涼子］：そう。
+[Ryouko]: Yes, have there been any?
+//［宏治］：別に無いですね。ちょっと物忘れが多い、程度かな。
+[Kouji]: Not really. I think I just tend to forget things a little.
+//［涼子］：フフ、それは元々じゃないの？
+[Ryouko]: *chuckle* But haven't you always been a scatterbrain?
+//［宏治］：あっ、酷いなぁ。でも、最近うっかりというのが多くて。
+[Kouji]: Ah, you're so mean! But lately, I have been acting a bit absentmindedly...
+//［涼子］：もしかして、固有名詞とかがすぐに出てこないとか？
+[Ryouko]: For instance, might you be unable to remember some proper nouns?
+//［宏治］：そう、それ。
+[Kouji]: Yeah, that's it.
+//［涼子］：固有名詞の忘却は、老化の第１歩と言うわ。気を付けなさい。
+[Ryouko]: Forgetting proper nouns is said to be the first step towards senility.\nBe careful.
+//［涼子］：フフ、またそんな顔をする。冗談よ、まだ若いんだから、沢山吸収して、沢山忘れなさい。
+[Ryouko]: *chuckle* You made that face again. It was a joke. You're still young,\nso you're free to let it go in one ear and out the other.
+//かなわないな、この人には‥‥。
+I’m not in the same league as this woman...
+//しかし最近、物忘れがひどいのは確かだった。どうも記憶がはっきりとしない、そんな事を考える事が、少なくなかった。
+But it’s true that lately, I've been forgetting a lot of things. I've noticed that my memory constantly becomes vague.
+//何と言ったらいいのだろう‥‥。
+What should I say?
+//ほんの数時間前のことも、あまり自信がなかった。いや、もしかしたら、数分前のことさえ‥‥。
+I wasn't even sure about what happened a few hours ago. Nay, maybe even\nwhat happened a few minutes ago.
+//意外に考えていた時間が短くなかったようだ。涼子は心配そうに僕をのぞき込んできた。
+To my surprise, it seemed I’d spent a lot of time in thought. Ryouko was peeking\nat me with a worried look on her face.
+//［涼子］：どうしたの？　これから何をするか、もう忘れたとか？
+[Ryouko]: What is it? Have you already forgotten what you're supposed to do now?
+//［宏治］：ち、違いますよ。少し考え事をしていただけで‥‥。
+[Kouji]: N-Not at all, I was just thinking a little.
+//［涼子］：今日は、アレの採取は無しですからね。
+[Ryouko]: We still haven't collected _those_ pieces of data today, have we?
+//［宏治］：な、何言ってるんですか！
+[Kouji]: W-What are you talking about?!
+//僕は、少しムキになって強い口調で抗議した。涼子は僕の顔を見て、クスクスと笑っている。顔が赤らんでいたかもしれない。
+Losing my mind over something trivial, I protested with a harsh tone.\nRyouko was gazing at my face, giggling. I may have blushed.
+//先日、データの採集ということで、妙なモノを採取された覚えがある。僕は怪訝に思いながらも、協力はした。
+I recalled that the other day, I had an unusual experiment performed on me by Ryouko,\nwho had claimed she was doing it to gather some data. Even though I was suspicious,\nI had agreed to lend a hand.
+//でも、精神分析に、なんで必要なのかな‥‥健康診断でもあるまいに‥‥。
+But I still couldn't see the point of it; weren't we supposed to do psychoanalysis?\nSo why a physical examination?
+//［宏治］：今日はもう、失礼して構いませんか？
+[Kouji]: Do you mind if I leave now for today?
+//［涼子］：えぇ‥‥明日は、また協力してもらうわ。
+[Ryouko]: No. By the way, I'd like you to assist me tomorrow.
+//［宏治］：精神分析、の方ですよね。
+[Kouji]: For the psychoanalysis, right?
+//［涼子］：フフ、もちろんよ。
+[Ryouko]:*chuckle* Of course.
+//涼子が面白そうな目で僕を見つめている。
+Ryouko was gazing at me, a sparkle of interest in her eyes.
+//僕は先ほど、恵のことを思い出せなかったことが、気になっていた‥‥。
+I was worrying over the fact that I had totally forgotten about Megumi.
