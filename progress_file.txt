@@ -30,7 +30,7 @@ scene_TLs/s0305.txt:14
 scene_TLs/s0306a.txt:7
 scene_TLs/s0306b.txt:9
 scene_TLs/s0401.txt:32
-scene_TLs/s0402.txt:10
-scene_TLs/s0403.txt:103
+scene_TLs/s0402.txt:4
+scene_TLs/s0403.txt:6
 
 It should be updated as it changes.
