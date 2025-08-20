@@ -1,4 +1,4 @@
-At this point this is the list of lines missing a translation in each file:
+At this point this is the number of lines missing a translation in each file:
 
 scene_TLs/s0001.txt:0
 scene_TLs/s0101.txt:0
