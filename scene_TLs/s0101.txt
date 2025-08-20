@@ -1,0 +1,320 @@
+//s0101
+s0101
+//0020
+0020
+//外に出た途端、少しムッとした暖気に襲われた。
+The moment I left the room, I was struck by a light warmth.
+//（暑いな‥‥‥‥。）
+(It's hot...)
+//室内では、どうやら冷房が効いていたらしい。
+It seemed the air conditioning was working inside the room.
+//いや、室外に暖房が効いているのかもしれないが‥‥。
+Or perhaps, it was the heating that was working outside the room...
+//（やけに無機質なところだ‥‥‥‥。）
+(What a cold, inorganic corridor...)
+//気温とは対照的に、冷え冷えとした廊下が、私の目の前にあった。
+Contrasting with the actual temperature, a lonely, unnerving corridor unwound before my eyes.
+//申し訳なさそうに端に置いてある観葉植物が、いくぶん私の心を安心させるが、どうも現実感に欠ける所だった。
+Although the decorative plants set apologetically against the walls somewhat brightened the atmosphere, this place didn't feel real.
+//往来の廊下という雰囲気はあるものの、人は１人としていない。
+I thought this corridor would be teeming with passers-by, but no one was to be seen.
+//目の前に見える廊下、ドア、椅子そして観葉植物と‥‥。
+Be it doors, chairs or decorative plants...
+//確かに私の目の前にあるし、触ることもできる。だがこうも現実感を欠くのはいったい何故だろうか‥‥‥‥。
+Without any doubt, they were right before my eyes and I could even touch them. Yet, why did they feel like they weren't real?
+//しかし、この音はいったいなんだろうか‥‥。
+Moreover, what was that noise?
+//キーンという耳障りな音が、さっきから、どこからともなく聞こえてくる。
+Just earlier, a chilling, ear-piercing sound that came out of nowhere had been pervading the area.
+//最初は耳鳴りかと思ったが、どうやら本当に聞こえてきているらしい。
+I first thought I was suffering from tinnitus, but it seemed I was really hearing something.
+//コッ‥‥コッ‥‥コッ‥‥。
+/**tap* *tap* *tap*
+//（‥‥ん？）
+(...Mmh?)
+//（な、なんだ‥‥？）
+(W-What?)
+//廊下の向こう側から音が聞こえてきた。それは段々と近づいてくる‥‥。
+I could hear a sound gradually getting closer and closer from the other side of the corridor...
+//どうやら、誰かの足音のようだ‥‥‥‥。
+It sounded like someone's footsteps...
+//　◆ この場にとどまって、あの足音の正体を確かめてやる。
+　◆ I'll stay here to uncover who's walking out there.
+//　◆ 手近なドアに、隠れた方がいいかも知れない。
+　◆ Maybe it'd be better if I hide behind that nearby door.
+//s0301
+s0301
+//s0201
+s0201
+//（暑い‥‥‥‥。）
+(Hot...)
+//（やけに無機質なところ‥‥‥‥。）
+(A horrifyingly inorganic place...)
+//誰かの足音のよう‥‥‥‥。
+Seems like someone's footsteps...
+//s0401
+s0401
+//この場にとどまって、あの足音の正体を確かめてやる。
+I'll stay here to uncover who's walking out there.
+//そう威勢良く決めたものの、妙に緊張してしまう。恥ずかしいことに、自分の心音が耳まで届いてきそうだった。
+After making this bold decision, strangely, I started becoming nervous. Embarrassingly, \nI could even hear my loud heartbeats reaching my ears.
+//（靴底が、床を踏む音だろうか‥‥？）
+(Without doubt, this is the sound of shoes tapping on the floor...)
+//どうやらそれが一番近い解答と思えた。底の堅い、ブーツか何かをはいているのかも知れない。
+This was the most probable answer. Probably some hard-soled boots.
+//コッ‥‥コッ‥‥‥‥‥‥。
+/**tap* *tap* ...
+//不意に音が止まる。どうしたというんだ‥‥‥‥。
+Suddenly, the sound stopped. Just what was up there...?
+//［女性の声］：あっ‥‥‥‥。
+[Woman's voice]: Ah...
+//不意に後ろから声がした。心臓が、口から飛び出しそうになるのを辛うじて押さえる。
+A voice suddenly echoed behind me. I barely managed to keep my heart from jumping out of my chest.
+//ra_bast
+ra_bast
+//ra_ba_b
+ra_ba_b
+//手近なドアに、隠れた方がいいかも知れない。
+Maybe it'd be better if I hide behind that nearby door.
+//私にはまだ、どうもこの状況が良く呑み込めていなかった。異様なくらい、不安を感じる。
+I still couldn't grasp the situation at hand. Moreover, uneasiness was still lingering within me.
+//ドアの中から様子をうかがってみるのも、１つの手だろう。
+Peeking to the corridor from behind the door was a good way to analyse the situation.
+//不意に音が止まる。どうしたというんだ‥‥‥？
+The sound suddenly stopped. What happened...?
+//声だ‥‥しかも女性の‥‥？
+A voice... and a woman's voice on top of that...?
+//私はドアの窓の端から、彼女の様子をうかがった。
+Looking through the door's window, I carefully inspected the woman.
+//ちょうど、私がいたはずの部屋から出てくると、その女性はキョロキョロとあたりを見回した。
+Leaving the room I was just in, the woman was looking around listlessly at her surroundings.
+//もしかすると、私のことを捜しているのだろうか‥‥？
+Could it be that she was looking for me...?
+//あまりにドアに寄り掛かり過ぎたので、思わず手でスイッチを押してしまったらしい。
+Probably because I was leaning excessively on the door, I unintentionally ended up pushing the switch to open it.
+//［目の前の女性］：あっ‥‥‥‥。
+[Woman before me]: Ah...
+//bast_m01
+bast_m01
+//［私］：き、君は‥‥‥？
+[Me]: Wh-who are you...?
+//［目の前の女性］：‥‥‥‥‥‥。
+[Woman before me]: ......
+//薄暗い場所にたたずむ女性は、少し怯えているような感じだった。
+The fact that a woman was loitering alone in such a gloomy place gave me an ominous feeling.
+//いやむしろ、女性というよりは、あどけなさの残る美少女、という感じだ。
+Nay, more than a woman, she gave the feeling of a pristine and exquisite maiden.
+//私に、よほど驚いたのだろう。目の前の少女は、怪訝そうな表情をしてじっと押し黙っている。
+She seemed surprised to see me. Showing a puzzled face, she was keeping silent.
+//［私］：（それにしても‥‥‥。）
+[Me]: (At any rate, I should...)
+//ra01
+ra01
+//ra01_m
+ra01_m
+//特徴的な女の子だった‥‥。
+She certainly was a peculiar woman.
+//暗く透き通った髪の毛とは対象に、大きなレモンイエローのリボン、露出度の高い胸部分のワインレッドの色調‥‥。
+Crystalline but dark hair, wearing a large lemon yellow ribbon and a showy wine red brassiere - indeed that was peculiar.
+//見ていて、少しクラクラしてしまいそうだった。
+As I looked closer, she seemed quite disoriented.
+//下半身に目を移すとさらにドキッとした。左右両側に大きく切れ込んだスリットが、真っ白な太股を惜しげもなく露出している。
+I was all the more shocked when I saw the lower half of her body. Her pure white thighs\nwere shamelessly exposed through two large slits on either side of her uniform.
+//［私］：（ナース‥‥‥‥だろうか？）
+[Me]: (Is she...a nurse?)
+//非現実的な場面に、これまた非現実的なナースの登場という訳だった。
+In this unrealistic setting, an all the more unrealistic nurse just made her entrance.
+//大きくクリクリとした目が、また可愛らしく良く動いていた。
+Her big round eyes were moving gently in her sockets.
+//［目の前の女性］：ランファ‥‥。
+[Woman before me]: Ranphar...
+//［私］：‥‥えっ？
+[Me]: ...Huh?
+//［ランファ］：私の名前‥‥‥‥。
+[RANPHAR]: That's my name...
+//［私］：そ、そうか。私は‥‥‥‥。
+[Me]: Is that so? Well, mine is...
+//そう言いかけて、はたと気付いてしまった。私の名前‥‥‥‥？
+Saying that, I suddenly realized. My name...?
+//不思議なものだった。自分の身長や体重、趣味などは思い出すことができた。丁度資料を調べるように、自分のデータを読むことができるのだ。
+That was a mystery. I knew my height, my weight, even my hobbies. As if I was sifting\nsome sort of document, I could read my personal data.
+//だが、名前の部分になると、ちょうどそこの文字の部分に、網が掛かって読めなくなるような、そんな感じだった。
+However, concerning my name, especially the way it was spelt, I couldn't read it. It was as if it was entangled deep in my memories.
+//［私］：私は‥‥私はいったい誰だ？
+[Me]: W-Who in the world am I?
+//［ランファ］：‥‥‥‥‥‥。
+[RANPHAR]:......
+//［私］：教えてくれないか？　私はいったい‥‥‥‥。
+[Me]: Could you please tell me? Who I am...
+//［私］：あっ、待ってくれ！‥‥ランファ！？
+[Me]: Hey! Wait!... Ranphar!?
+//［私］：（冗談じゃない、ここでまた１人にさせられてたまるか‥‥。）
+//[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
+//気が少し動転していたのかもしれない‥‥。
+Maybe she was a little upset...
+//いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
+Before I realized, I had arrived in an utterly frigid place. I could see my breath\nbillowing out like smoke, and I was shaking like a leaf in the wind.
+//ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
+It seemed that I ended up in an unusual place while I was roaming the area,\nlooking for this girl called Ranphar.
+//0040
+0040
+//xenon_13
+xenon_13
+//（ここは‥‥‥‥？）
+(Where am I...?)
+//妙な場所だった。
+That was an unusual place.
+//目の前には、何に使うのか用途不明なカプセル状の機材が数体、置いてあった。
+Several capsule-like instruments of unknown utility were placed inside the room.
+//もっとも、メカニカルな診療台が数台置いてある手術室、と考えられなくもない。
+It was plausible that this was an operating room, filled with several mechanical medical exam tables.
+//（最新の医療設備、というヤツだろうか‥‥‥‥？）
+(Maybe these are state-of-the-art medical devices...?)
+//重々しいサウンドが、頭に響きわたる。私は再び、頭痛に見舞われてきた。
+A loud sound rang through my head. Once more, I was assaulted by a terrible headache.
+//ふと、目の前の装置を見てみると、なにやらランプが点滅している。私はそれに若干の興味を抱いた。
+Then, as soon as I glanced at the device, some kind of light started blinking. I found myself quite enthralled by that light.
+//　◆ もっとよく見てみよう。
+◆ Let's look a little closer.
+//　◆ この頭痛は耐え難い。部屋を早く出よう。
+◆ I can't stand this headache. I'll leave this room at once.
+//もっとよく見てみよう。
+Let's look a little closer.
+//この頭痛は耐え難い。部屋を早く出よう。
+I can't stand this headache. I'll leave this room at once.
+//私が部屋を早々に立ち去ろうした時‥‥‥‥。
+But as soon as I tried to leave the room...
+//（あっ‥‥‥‥。）
+(Ah...)
+//ドアは無情にも、私の目の前で退路をふさいでしまった‥‥。
+The door was ruthlessly blocking my retreat.
+//（どういうことだ‥‥私を、閉じこめるつもりか‥‥？）
+(What the... Are they trying to shut me in?)
+//ドンドンドン、ドンドンドン！<$04><$30><$05>
+*bang* *bang* *bang*! <$04><$30><$05>
+//\n　
+\n
+//無駄とはわかっていても、言い様のない不安と緊張が、私の手を動かし続けた。
+Though I knew it was useless, anxiety and fear were making my hands move on their own.
+//意に反して、ドアは冷然と私の前に立ちふさがっている。
+/*But the door, impervious to my will, still prevented me from fleeing.
+//私の拳で、どうこうなる硬さではないらしい。私は、赤く腫れた拳をさすりながら、
+My swollen fists started aching quickly enough - they weren't as hard as the door.
+//（ダメか‥‥‥‥。）
+(Is it hopeless...?)
+//部屋の中は相変わらず寒々としていて、静寂の音を醸し出しているようだった。
+The room was as frigid as ever, wrapped in a deafening silence.
+//私が嘆息して部屋をぐるりと見回すと、ふと目に入ってくるものがあった。
+I went on looking all around me, gasping. It was then that something caught my attention.
+//先ほどの、チカチカと点滅しているランプだった。
+It was the flickering light I had seen before.
+//何か気になる‥‥大きな球面状のガラスに覆われたカプセル状の機械は、私に、その中にまで興味を抱かせた。
+It piqued my curiosity. I wanted to see what was laying behind the capsule's glass, to know what was inside.
+//近くへ寄ってみると、点滅しているものを確認することはできた。
+Getting closer, I finally understood what was the source of that light.
+//（何だ‥‥？）
+(What's this?)
+//0040b
+0040b
+//側面下方に付いてある、小さなコンソールパネルが点滅している。そこから、ピッ、ピッ、という電子音が、断続的に鳴っているようだ。
+Below on the side, a small console panel was blinking. You could hear \na strident sound intermittently stemming from it.
+//私は屈んでパネルをのぞき込んでみる。そこには小さな文字で、こうディスプレイされていた。
+Crouching down, I peered at the monitor. On it the following characters were displayed:
+//　　　　　　　　　　　　　P.P.E.<$05><$04><$30>
+　　　　　　　　　　　　　P.P.E.<$05><$04><$30>
+//\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER<$05><$04><$30>
+\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER<$05><$04><$30>
+//\n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
+\n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
+//（サイキック‥‥<$0C>プログラムエンコーダ‥‥？）
+(Psychic...<$0C> Program Encoder...?)
+//（いったい‥‥‥‥。）
+(What...)
+//（いったい何だろう‥‥これは‥‥？）
+(What the heck is that?)
+//不透明なガラスで覆われたカプセル状の機械は、静かに、しかし重いサウンドを響かせている。
+A heavy sound was resounding from the inside of the capsule.
+//（オペレーティング‥‥何かが作動中、ということだろうか‥‥。）
+(Operating? So does that mean it is in use?)
+//手で、目の前のガラスをコンコンと叩いてみる。厚みのある音がかえってきたが、中には何か入っていそうな感じだ。
+I started knocking at the glass. It sounded hollow, yet I had the feeling something was in there.
+//（かなり丈夫そうなガラスだが‥‥‥‥。）
+(The glass looks quite sturdy...)
+//私がそう思ったとき‥‥‥‥。
+Just as I thought that...
+//私が手をかざしたその時、重々しいガラスが静かにスライドし始めた。
+While I held my hands aloft, the thick glass started to slide silently.
+//何かのセンサーが、埋め込まれていたのかも知れない‥‥。
+Maybe I'd activated some sort of built-in sensors...
+//fa01
+fa01
+//（‥‥！？）<$04><$30><$05>
+(...!?)<$04><$30><$05>
+//（こ、これは‥‥‥‥。）
+(What...)
+//（何だ、これは‥‥‥‥。）
+(What is this...?)
+//カプセルの中には、赤毛の女性が横たわっている。しかも、一糸まとわぬ全裸だった。
+Inside the capsule, a red-haired woman was lying down, stark naked.
+//女性というよりはまだ、あどけなさの残る少女、という形容の方が相応しい気もする。肉付きは意外に悪くない。
+Her figure was quite attractive, yet more than that of a woman, she gave off the feeling of a pristine maiden.
+//（どういうことだ‥‥なぜ、こんな少女がここに‥‥‥‥<$0C>はっ！？）
+(What the... Why is there a woman inside...<$0C> Wha!?)
+//（ま、まさか‥‥‥！？）
+(D-Don't tell me...!?)
+//そっと、首筋の部分に手を当ててみる。そこは柔らかく、暖かかった。
+I gently laid my hands on the nape of her neck. It was soft and warm.
+//（どうやら、生きてはいるようだが‥‥‥‥。）
+(It seems she's alive...)
+//（何を‥‥‥しているんだろうか‥‥？）
+(What... am I doing?)
+//私が、彼女の身体に触れようとした時‥‥‥‥。
+The moment I tried to touch her body...
+//プシューーー‥‥‥‥。<$04><$30><$05>
+Pshhhh...<$04><$30><$05>
+//ビービービー、ビービービー‥‥。
+*beep* *beep* *beep*
+//（な、何だ‥‥どうしたんだ‥‥！？）
+(What? What's going on!?)
+//何かの警告音が、部屋中をこだまする。音は下方から発されていた。
+An alarm-like sound was echoing through the room. The sound was coming from below.
+//先ほどのパネルには、こう表示されていた‥‥。
+The panel was now displaying this message:
+//\n　　　　　　　　　　　Now decoding ...<$04><$30><$05>
+\n　　　　　　　　　　　Now decoding ...<$04><$30><$05>
+//　
+　
+//何か、マズいことでもしてしまったのだろうか‥‥？
+Did I do something wrong?
+//警告音が頭に響きわたる‥‥私は、少し吐き気をもよおしてきた。
+The alarm was resounding through my head. I was getting a bit nauseous.
+//（何か、とんでもない事をしてしまったのかも知れない‥‥。）
+(Maybe I did something I shouldn't have.)
+//再び、めまいと頭痛に襲われ始めた私は、頭を振りながら、少しでもこの音から遠ざかろうとしていた‥‥。
+Again, I started to feel dizzy. In an attempt to ease my headache, I tried to move away from the sound. 
+//0030
+0030
+//（うぅ‥‥‥‥あ、頭が‥‥‥‥。）
+(Uhh... My head...)
+//未だ頭に響いてくるこの不快な音は、いっこうに止む気配すらなかった。
+That obnoxious sound was still blowing my head. Its presence hadn't waned at all.
+//（ここは、さっきの廊下‥‥？）
+(Am I in the corridor from before?)
+//（いや、どうも違うようだが‥‥‥‥。）
+(No, this seems a bit different...)
+//もはや、どこをどう進んでいるのかもわからなかった。
+I had no clue where I ought to go.
+//私は頭を抑えながら、闇雲に歩き回る‥‥。
+Holding my head in my hands, I desperately roamed about...
+//（出口は‥‥‥‥出口は、どこなんだ‥‥！？）
+(Exit...Where is the exit!?)
+//（誰か‥‥‥‥。）
+(Please, someone...)
+//不安と緊張、そして恐怖が、私の意識を次第に遠いものへとしていった‥‥‥‥。
+Anxiety and tension, followed by fear, were gradually taking my awareness away...
+//（意識が‥‥‥‥‥‥。）
+(I'm losing it...)
+//（夢なら早く‥‥早くさめてくれ‥‥‥‥。）
+(If this is a dream...please, let it end already...)
+//消えゆく意識の中で私は、さきほどの少女の姿を、ぼんやりと思い出していた‥‥‥‥。
+While my consciousness was drifting away, I faintly remembered the young woman I saw before...

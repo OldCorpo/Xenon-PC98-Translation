@@ -1,0 +1,36 @@
+At this point this is the list of lines missing a translation in each file:
+
+scene_TLs/s0001.txt:0
+scene_TLs/s0101.txt:0
+scene_TLs/s0102.txt:0
+scene_TLs/s0103.txt:0
+scene_TLs/s0104.txt:1
+scene_TLs/s0105.txt:7453
+scene_TLs/s0106.txt:16
+scene_TLs/s0107.txt:0
+scene_TLs/s0108.txt:0
+scene_TLs/s0109.txt:7
+scene_TLs/s0110.txt:9
+scene_TLs/s0111.txt:1
+scene_TLs/s0112.txt:18
+scene_TLs/s0201.txt:5
+scene_TLs/s0202.txt:4
+scene_TLs/s0203.txt:22
+scene_TLs/s0204.txt:19
+scene_TLs/s0205.txt:12
+scene_TLs/s0206.txt:16
+scene_TLs/s0207.txt:17
+scene_TLs/s0301b.txt:2
+scene_TLs/s0302a.txt:18
+scene_TLs/s0302b.txt:1
+scene_TLs/s0303a.txt:1
+scene_TLs/s0303b.txt:14
+scene_TLs/s0304.txt:19
+scene_TLs/s0305.txt:14
+scene_TLs/s0306a.txt:7
+scene_TLs/s0306b.txt:9
+scene_TLs/s0401.txt:32
+scene_TLs/s0402.txt:10
+scene_TLs/s0403.txt:103
+
+It should be updated as it changes.
