@@ -1,3 +1,15 @@
+Translation Status.
+
+The files at scene_TLs/ are expected to be concatenated into a script-japanese-with-translation.txt using gnu cat command, or a similar tools. Concatenation needs to be done in order.
+
+Missing lines can be easily counted using gnu tools like the following example:
+
+grep -c ^$'\r' scene_TLs/*.txt
+
+And the following to see which line is missing:
+
+grep -n ^$'\r' scene_TLs/*.txt
+
 At this point this is the number of lines missing a translation in each file:
 
 scene_TLs/s0001.txt:0
@@ -33,4 +45,4 @@ scene_TLs/s0401.txt:32
 scene_TLs/s0402.txt:4
 scene_TLs/s0403.txt:6
 
-It should be updated as it changes.
+This file should be updated as translation completes.
