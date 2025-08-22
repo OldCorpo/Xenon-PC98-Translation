@@ -1,5 +1,5 @@
 //s0202
-
+s0202
 //［涼子］：宏治クン、大丈夫だった？
 [Ryouko]: Kouji-kun, are you ok?
 //［涼子］：ゴメンなさい、ちょっと刺激が強すぎたのかしら。
@@ -31,7 +31,7 @@
 //［涼子］：フフ、あなたにガールフレンドがいるのは、わかっているわよ。でもね‥‥あら、宏治クン？
 [Ryouko]: Hehe, I know you have a girlfriend. But also...ara, Kouji-kun?
 //ドサッ。
-
+Thump.
 //［涼子］：ちょっと、宏治クン、ねぇ、大丈夫？　宏治クン！？
 [Ryouko]: Hold it, Kouji-kun, are you OK? Kouji-kun?!
 //［涼子］：大変だわ、顔が真っ青‥‥宏治クン、ねぇ、宏治クン‥‥‥‥。<$05>
@@ -153,7 +153,7 @@ The dial tone sounded several times, then the receiver on the other end was seem
 //［コウジ］：フン、まぁいい。さてと‥‥。
 [KOUJI]: Hmph, well that's fine. Now then...
 //xenon_25
-
+xenon_25
 //私は、さっと部屋を見回してみた。
 I slowly looked around the room.
 //太陽光線が淡く差し込んでいる。どこからか、鳥のさえずりも聞こえてくるようだった。
@@ -175,7 +175,7 @@ This body is somehow quite puny. A mind that preserves this kind of body can eas
 //［コウジ］：フン、まぁいい。さて、ドアは‥‥ここか。
 [KOUJI]: Hmph, well, it's ok. Now, then, the door is...here.
 //バコッ！<$05><$04><$30>
-
+Bam!<$05><$04><$30>
 //ふむ、ドアは自動ではなく、手動と。
 Hmm, the door is not automatic, but hand-operated.
 //私の状況分析は的確だ。どうやら、かなり原始文明らしいな、ここは‥‥。
