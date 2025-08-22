@@ -474,7 +474,7 @@ The girl took my hand and apologized as she straightened up.
 //［女］：どうも、ごめんなさい。
 [Girl]: Thank you. Sorry for the trouble.
 //to_bast
-
+to_bast
 //［コウジ］：あ、あなたは‥‥？
 [Kouji]: And y-you are?
 //［女］：私はトレイシー‥‥あなたのお世話を、仰せつかっていますわ。
