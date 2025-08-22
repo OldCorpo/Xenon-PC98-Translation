@@ -43,6 +43,6 @@ scene_TLs/s0306a.txt:0
 scene_TLs/s0306b.txt:0
 scene_TLs/s0401.txt:32
 scene_TLs/s0402.txt:0
-scene_TLs/s0403.txt:6
+scene_TLs/s0403.txt:0
 
 This file should be updated as translation completes.
