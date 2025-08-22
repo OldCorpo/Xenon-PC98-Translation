@@ -1,7 +1,7 @@
 //Ｃ
-
+Ｃ
 //xenon_21
-
+xenon_21
 //ほとんど廃墟と化した遺跡の中を、私は歩いていた。
 In the middle of the ruins, I journeyed on.
 //黄褐色の不気味な光が、うっすらと差し込んで足下を照らしている‥‥恐らくこの惑星の、年老いた衛星が放つ光だろう。
@@ -27,9 +27,9 @@ But even then, my curiosity couldn't lose against the ordeals before me.
 //ところどころ破損した箇所を慎重に避けながら、私はゆっくりと階段を上がっていった。
 Carefully avoiding broken rungs along the way, I slowly made my way up the ladder.
 //1020_3
-
+1020_3
 //1020_2
-
+1020_2
 //［コウジ］：（ここは‥‥‥‥。）
 [KOUJI]: (What is this?)
 //目の前には、比較的長い道が、一直線に奥へと伸びていた‥‥。
@@ -69,7 +69,7 @@ I was highly anxious, and my heartbeat quickened. This door leads to...?
 //予測以上の確信をもって、私はドアを開けた‥‥‥‥。<$05><$04><$34>
 With more confidence than I expected, I opened the door...
 //xenon_09
-
+xenon_09
 //［宏治］：ここは‥‥コンピュータ・ルーム！？
 [Kouji]: This is...the computer room?!
 //重々しい稼働音が耳に響いてくる。ここは、あのコンピュータ・ルームだ。
@@ -89,7 +89,7 @@ Why am I here....
 //［宏治］：め、恵か！？
 [Kouji]: M-Megumi?!
 //meg02
-
+meg02
 //［宏治］：恵じゃないか、何をやっているんだ‥‥。
 [Kouji]: Well, if it isn't you, Megumi. What are you doing here...
 //［恵］：宏治、バカぁ！
@@ -113,7 +113,7 @@ Why am I here....
 //［宏治］：と、とにかく‥‥早く縄をとかなくちゃ。
 [Kouji]: In any case, I'll undo those ropes quickly.
 //meg06
-
+meg06
 //［恵］：あ、ありがとう‥‥宏治。
 [Megumi]: T-thanks...Kouji.
 //［宏治］：結構色っぽいんだなぁ、恵ってさ。
@@ -129,9 +129,9 @@ Why am I here....
 //［涼子］：宏治クン‥‥。
 [Ryouko]: Kouji-kun....
 //ryo01
-
+ryo01
 //ryo01_m
-
+ryo01_m
 //［涼子］：宏治クン、あなたの意識は‥‥そして思念は、もうすぐ完全に投影される。
 [Ryouko]: Kouji-kun, your consciousness...and thoughts will soon be projected.
 //［宏治］：な、何を言っているんですか‥‥？
@@ -205,9 +205,9 @@ Wake up......
 //［宏治］：ここは‥‥‥‥‥‥。
 [Kouji]: This is......
 //mai04
-
+mai04
 //mai04_m
-
+mai04_m
 //［宏治］：ま、舞さん！？
 [Kouji]: M-Mai-san?!
 //［宏治］：ま、舞さん‥‥その格好は‥‥‥‥。
@@ -237,9 +237,9 @@ Wake up......
 //［沙夜香］：宏治クン！！
 [Sayaka]: Kouji-kun!!
 //saya03
-
+saya03
 //saya03_m
-
+saya03_m
 //［宏治］：さ、沙夜香さん！？
 [Kouji]: S-Sayaka-san?!
 //［沙夜香］：よかったわ、間にあって‥‥大丈夫だった？
@@ -281,7 +281,7 @@ Sayaka pulled a handgun from her bosom and pointed it at Ryouko. She looked seri
 //［涼子］：フッ、好きにするがいいわ‥‥。
 [Ryouko]: Heh, do as you like...
 //ガチャッ‥‥。<$05><$04><$30>
-
+Clank... <$05><$04><$30>
 //［沙夜香］：な、何をしたの！　涼子！？
 [Sayaka]: W-what are you doing! Ryouko?!
 //［涼子］：舞、後は頼んだわ‥‥。
@@ -323,9 +323,9 @@ A heavy moving sound slowly, gradually became fainter and fainter...
 //僕は心地よい虚脱感に、身を委ねていった‥‥‥‥。<$04><$30><$05>
 I surrendered my body to the pleasant feeling of collapse...
 //Ｅ
-
+Ｅ
 //1040b
-
+1040b
 //そうか、ここは‥‥‥‥。
 That's right, this was......
 //ゆっくりと周りを見回した。あれ果ててはいるが、中央のＣＰＵ本体は、未だ悠然とそびえ立っている。
@@ -349,7 +349,7 @@ She slowly came up to me.
 //［ランファ］：そうですか、良かった‥‥。
 [LANHUA]: I see, that's good news...
 //xenon_10
-
+xenon_10
 //［コウジ］：あれから、どのくらいの時間が経ったのかな。
 [KOUJI]: Since then, how much time has passed?
 //［ランファ］：あれから‥‥？
@@ -475,4 +475,4 @@ Once more, I looked at the test tube next to me...
 //そこには私と舞の‥‥人類の唯一の種が、眠っているのだ‥‥‥‥。<$05>
 There, the seed born from Mai and me...the only one of all of humanity, was sleeping...
 //　　　　　　　　ＤＲＥＡＭ＿１　‥‥　ＥＮＤ<$04><$30><$05>
-
+　　　　　　　　ＤＲＥＡＭ＿１　‥‥　ＥＮＤ<$04><$30><$05>
