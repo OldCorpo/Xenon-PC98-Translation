@@ -1,5 +1,5 @@
 //s0110
-
+s0110
 //［コウジ］：（何だ‥‥‥‥。）
 [KOUJI]: (What happened....)
 //何かの音で、現実に引き戻される。自動ドアの音だろうか‥‥。
@@ -77,7 +77,7 @@ Lanhua shook her head "no".
 //［コウジ］：ら、ランファ‥‥？
 [KOUJI]: La-Lanhua...?
 //xenon_22
-
+xenon_22
 //［コウジ］：君か‥‥さっき部屋に入ってきたの。
 [KOUJI]: Back then...it was you who entered the room.
 //ランファは唇をそっと、私のそれに押しつけてきた。柔らかく暖かい感触に、少し気持ちが落ちつく気がした‥‥。
@@ -87,7 +87,7 @@ She unreservedly put her wriggling tongue in my mouth. She looked innocent, but 
 //私は彼女を抱き抱えると、そっとベッドに横たえた‥‥。
 I hugged her close, and gently laid down on the bed...
 //ra02
-
+ra02
 //［ランファ］：コウジさん‥‥優しいのですね‥‥。
 [LANHUA]: Kouji-san...You're quite kind...
 //［コウジ］：優しい女性には、優しさを返したくなるもんだよ。
@@ -137,7 +137,7 @@ As she said that, she closed her legs. As I stared at Lanhua...
 //私はゆっくりと、彼女の衣服を脱がしていく。ボタンやファスナのようなものは付いておらず、ランファが手を添えただけで、それはするりと彼女から離れていった。
 I slowly took her clothes off. As I unattached the buttons and fasteners, with only Lanhua's hands holding them together, they slipped away from her.
 //ra02b
-
+ra02b
 //抱きしめると折れてしまいそうな、きゃしゃな身体だったが、要所の肉付きは悪くなかった。
 Though they seemed on the verge of breaking when I held her, her delicate body's key parts were quite plump.
 //［ランファ］：お願い‥‥コウジさんも‥‥その‥‥。
@@ -175,7 +175,7 @@ Lanhua was drooling from the side of her mouth, like she couldn't take it anymor
 //私は最後の下着を身体からはぎ取ると、彼女は生まれたままの姿になった‥‥。
 As I  removed her last panties from her body, she was in her birthday suit...
 //ra02c
-
+ra02c
 //［ランファ］：コウジさん‥‥あまり、見ないで‥‥恥ずかしいから‥‥。
 [LANHUA]: Kouji-san...Please don't stare...it's embarrassing...
 //消え入りそうな声でランファが私に懇願する。だが、見るなと言う方が無理な話だ。
@@ -211,7 +211,7 @@ Nectar was overflowing without end from the middle of her flower, and it seeped 
 //私はゆっくりと彼女の身体を抱き上げ、自分の腰の上にまたがらせる。ランファは静かに、腰を落としていった‥‥。
 I slowly lifted her body up, so it straddled my hips. Lanhua calmly lowered her hips...
 //ra04
-
+ra04
 //［ランファ］：あぁぁぁぁぁ‥‥コウジさん‥‥コウジさんっ！！
 [LANHUA]: Ahhhhhh...Kouji-san...Kouji-san-!!
 //予想以上の滑らかさで、私のモノは呑み込まれていった。ランファは柔らかく私を包み込み、遠慮がちに腰を動かし始める。
@@ -545,7 +545,7 @@ The curved hard glass surrounding cockpit dimly filtered the indirect star light
 //［コウジ］：綺麗な星だな‥‥。
 [KOUJI]: How beautiful the stars are...
 //0130
-
+0130
 //様々な色を発色しながら輝く星々は、幻想的で、ある意味では非現実的といっても良かった。
 The multi-colored shining stars were fantastic and, in a manner of speaking, unreal.
 //しかし、これが非現実で夢だと言うなら、それもまたいいなとも思う。
@@ -573,9 +573,9 @@ As I thought about that, I became a little surprised. Unexpectedly, I may have j
 //［ファル］：コウジ‥‥。<$05>
 [FAR]: Kouji...
 //fa11
-
+fa11
 //fa09
-
+fa09
 //一挙に、想像の世界から現実に戻されてしまった。予想外に近づいていたファルに、私はドキリとしてしまう。
 I snapped back to reality at once. Far, who had unexpectedly come near me, gave me quite a shock.
 //ずっと、私のことを見ていたのだろうか‥‥。
