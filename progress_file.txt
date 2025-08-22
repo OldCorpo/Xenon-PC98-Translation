@@ -18,7 +18,7 @@ scene_TLs/s0102.txt:0
 scene_TLs/s0103.txt:0
 scene_TLs/s0104.txt:0
 scene_TLs/s0105.txt:0
-scene_TLs/s0106.txt:16
+scene_TLs/s0106.txt:0
 scene_TLs/s0107.txt:0
 scene_TLs/s0108.txt:0
 scene_TLs/s0109.txt:7
