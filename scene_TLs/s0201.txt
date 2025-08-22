@@ -1,5 +1,5 @@
 //<$0C><$04><$30><$05>
-
+<$0C><$04><$30><$05>
 //言い様のない不安に襲われていたのも事実だった。私は、手近なドアを開けると、その中に身を潜めた‥‥。
 It's true that I was stricken by an indescribable anxiety. As I opened the door by my hand, my body was enveloped by it...
 //（寒いな‥‥‥‥。）
@@ -17,13 +17,13 @@ I bent over and peeked at the panel. It was displayed in small print.
 //（私は、これを利用して‥‥‥‥。）
 (If I use this...)
 //‥‥‥‥‥‥。<$05><$04><$33>
-
+....... <$05><$04><$33>
 //ra&to03
-
+ra&to03
 //ra&to03b
-
+ra&to03b
 //ra&to03c
-
+ra&to03c
 //［トレイシー］：コウジ様、お気をつけ下さい。
 [TRACY]: Kouji-sama, please be careful.
 //［ランファ］：コウジ様ぁ、ランファの為に、きっと帰ってきて下さぁい。
