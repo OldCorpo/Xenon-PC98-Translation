@@ -1,5 +1,5 @@
 //s0301b
-
+s0301b
 //現状把握の為にも、もう少し１人で調べてみよう。
 To get a better grip on my situation, I should investigate here alone.
 //まずは、手近なところから、かな‥‥。
@@ -353,7 +353,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［宏治］：そうだな‥‥。
 [Kouji]: That's right...
 //s0301a
-
+s0301a
 //［宏治］：ランファ、君が説明するんだ。
 [Kouji]: Ranphar, you explain.
 //［ランファ］：はい、わかりました！

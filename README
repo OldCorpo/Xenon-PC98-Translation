@@ -6,6 +6,10 @@ Advancement :
                                                  and other things)
 				  Refer to the progress_file.txt for more info.
 
+	At this point translation is basically complete, next step would be HexEdit
+	the .CC game files with a hex tool like wxMEdit, which unfortunately I don't 
+	have the skill to.
+
 ======
 
 In the translation, I use the following code :
@@ -28,4 +32,5 @@ In the translation, I use the following code :
 The (mostly complete) scene translations are located in the scene_TLs directory.
 They are more or less broken down by scene, but there is some overlap.
 Current second pass TL progress: Start of s0106
+
 

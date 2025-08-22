@@ -1,7 +1,7 @@
 //s0106
-
+s0106
 //xenon_14
-
+xenon_14
 //やけに騒がしいな‥‥‥‥。
 It's really noisy...
 //一体何だ、この耳障りな音は‥‥‥‥。
@@ -157,7 +157,7 @@ On the monitor, that blonde-haired woman Tracy showed up. Each interaction is in
 //私は、ファルの後に続いて、室内へと入って行った‥‥。
 I followed behind Far as we entered the room...
 //0010_2
-
+0010_2
 //［トレイシー］：プロフェッサ、とりあえず命に別状はありませんでした。
 [Tracy]: Professor, there haven't been any changes in the meantime.
 //［ファル］：そう、それは良かったわ‥‥怪我なんかは？
@@ -177,9 +177,9 @@ I followed behind Far as we entered the room...
 //ファルはしばらく、ベッドに寝ている女性を凝視している。トレイシーと何か言葉を交わしているが、私の関心はすでに救出された者へと移っていた‥‥。
 For a while, Far stared at the sleeping woman. After exchanging a few words with Tracy, I moved my attention to the rescued person... 
 //bi01
-
+bi01
 //xenon_05
-
+xenon_05
 //２０歳前後とおぼしい顔立ちの女性が、静かに寝ていた。
 A woman about 20 years old was quietly sleeping before us.
 //意外に大きな胸が、きつそうにシャツを押し上げていて、呼吸のたびに大きく上下している。
@@ -319,7 +319,7 @@ Bianca, was it...
 //［ファル］：コウジ、どうしたのよ、コウジ！
 [Far]: Kouji, what are you doing? Kouji!
 //fa_ba_b
-
+fa_ba_b
 //［コウジ］：あっ‥‥な、なにか？
 [Kouji]: Ah...What?
 //［ファル］：もう、聞いていなかったの？
@@ -365,7 +365,7 @@ I didn't have the time I needed to think about these things.
 //私は、ファルに連れられて、格納庫とおぼしい場所へと案内されていた。
 Following Far, I was guided to what was probably the hangar.
 //0060
-
+0060
 //ハンガーデッキの上には、小型のシャトルがスタンバイしていた。
 On the hangar deck, a small-scale shuttle was on standby.
 //エンジンらしき音が、格納庫内に響きわたっている。恐らくこれを利用して、第２次調査隊のシップへと乗り込むのだろう。
@@ -427,7 +427,7 @@ Awaken...?
 //私は、黙ってシャトルの搭乗タラップに足を掛けた‥‥。
 I silently got on the shuttle's boarding ramp...
 //xenon_07
-
+xenon_07
 //［コウジ］：（いったい‥‥‥‥。）
 [Kouji]: (What on earth...)
 //［コウジ］：（いったい、誰がいるのだろうか‥‥‥‥。）
@@ -435,7 +435,7 @@ I silently got on the shuttle's boarding ramp...
 //私はシャトル発進の衝撃の中でも、そのことにしか頭にはなかった‥‥。<$05>
 During the shuttle's liftoff, I only thought about that...
 //xenon_19
-
+xenon_19
 //独特の加重が、身体後方に掛かってきた。身体をシートの背もたれに押しつけられ、やや息苦しくなってくる。
 A unique kind of weight hung on my back. As I leaned on my seat's backrest, I felt slightly suffocated.
 //まわりを見回すと、きらびやかな宝石の中を飛んでいるようだった。星々の海、という形容がまことに相応しい‥‥。
@@ -547,7 +547,7 @@ Maybe Lanhua can explain that to me.
 //私は壁のパネルを操作し、エンジンルームへと入っていった‥‥。
 I operated the wall panel, and entered the engine room...
 //0070
-
+0070
 //［ファル］：あら、どうしたの、コウジ。何か、思い出したの？
 [Far]: Ara, what's going on, Kouji. Did you remember something?
 //［コウジ］：いや、残念ながら全く‥‥。
@@ -699,7 +699,7 @@ Some metallic sound echoed around me. It sounded like something fell onto a bed.
 //私が、音のした方へ行ってみると‥‥‥‥。
 I moved in the direction of the sound...
 //ra06
-
+ra06
 //［コウジ］：（ランファ‥‥何をしているんだろう‥‥？）
 [Kouji]: (Lanhua...What is she doing...?)
 //いくつかの工作器具が床にちらばっていた。修理か何かを、しているんだろうか‥‥。
@@ -709,9 +709,9 @@ I didn't feel the need to hide, so I called out in a casual tone.
 //［コウジ］：ランファ。
 [Kouji]: Lanhua.
 //ra06b
-
+ra06b
 //ra06b_m
-
+ra06b_m
 //［ランファ］：こ、コウジさん‥‥。
 [Lanhua]: K-Kouji-san...
 //［コウジ］：何をやっているんだい、こんな所で？
@@ -801,7 +801,7 @@ The well-ordered curtains, beds, side communication panels,  terminals, desks, a
 //［コウジ］：これは‥‥‥‥。
 [Kouji]: This is....
 //0110
-
+0110
 //端末の脇にあったから気付きにくかったが、横に立てかけるように分厚い本が置いてある。
 Beside the terminals, I barely noticed it, but there was a thick book leaning sideways.
 //［コウジ］：（何の本だろう‥‥？）
@@ -835,7 +835,7 @@ Maybe it was written in a hurry. I flipped to the last page.
 //［コウジ］：ん？　これは‥‥。
 [Kouji]: Hm? What's this...
 //0120
-
+0120
 //そこには、小さな記録用マイクロディスク（ＭＤ）がはさんであった。
 I found a small micro disc between the pages.
 //航海日誌の最後に‥‥一体、どういうことだろうか。
@@ -887,7 +887,7 @@ As I turned toward the door....
 //やや声の調子がおかしい。それが放送の声だと気付くまで、私はあたりを見回してしまった。
 Her voice had a strange tone. As I looked around me, I realized it was the sound of a broadcast.
 //xenon_15
-
+xenon_15
 //ガガーーーンッッ！！！<$05><$04><$30>
 *KABOOOOOM*!
 //突然、天井と地面が反転したかと思うと、私は腰を床に、したたか打ちつけていた。

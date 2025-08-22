@@ -1,7 +1,7 @@
 //s0306b
-
+s0306b
 //bi02
-
+bi02
 //［ビアンカ］：フハハ、よく来たな、コウジ。
 [BIANCA]: Wuhahaha, so kind of you to come, KOUJI.
 //［ビアンカ］：フッ、私の姿に臆したか。
@@ -43,7 +43,7 @@
 //［宏治］：ほ、本当だってば！
 [Kouji]: I-I mean it!
 //bi02b
-
+bi02b
 //ビシィィィッッ！！！<$04><$30><$05>
 *Basheeeee*!!!
 //［宏治］：ちょ、ちょっと今のは効いたぞ。
@@ -143,7 +143,7 @@
 //［コウジ］：いちっ！！！
 [KOUJI]: ONE!!!
 //bi06
-
+bi06
 //［ビアンカ］：な、何の‥‥真似だ‥‥。
 [BIANCA]: Wh-what...are you doing...?
 //［宏治］：うん、何の真似だろうな。
@@ -199,7 +199,7 @@
 //［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥<$0C>な、なにをする！？
 [BIANCA]: Hehe, I'm quite pleased that you seem surprised. Whatever you try, you'll never...W-what are you doing?
 //bi06b
-
+bi06b
 //［ビアンカ］：んんっ‥‥！？
 [BIANCA]: Mmm-...!?
 //［宏治］：（奥歯の横だったな‥‥どこだ‥‥？）
@@ -217,8 +217,7 @@
 //［ビアンカ］：んっ‥‥‥‥。
 [BIANCA]: Mm-......
 //bi06c
-
-//［宏治］：（奥歯の、外側かな‥‥ここか？　ツンツン。）
+bi06c
 [Kouji]: (Could it be on the outside of her molar...here? *sniff sniff*.)
 //［宏治］：（よーし、こうなったら、徹底的に調べてやる。）
 [Kouji]: (Ahh, if it's here, I'll have to investigate it thoroughly.)
@@ -259,7 +258,7 @@
 //［宏治］：（とれたーーー！！！）
 [Kouji]: (I GOT IT---!!!)
 //bi06d
-
+bi06d
 //［宏治］：フッフッフ‥‥。
 [Kouji]: Heheheh....
 //［宏治］：ビアンカ、残念だったな。
@@ -305,9 +304,9 @@
 //［宏治］：び、びびびビアンカ‥‥その、愛してる‥‥。
 [Kouji]: B-B-B-Bianca....um, I love you....
 //bi06e
-
+bi06e
 //bi06e_m
-
+bi06e_m
 //［ビアンカ］：えっ‥‥？
 [BIANCA]: Huh....?
 //［宏治］：《おい、本当に大丈夫かよ‥‥。》
