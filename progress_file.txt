@@ -30,7 +30,7 @@ scene_TLs/s0202.txt:0
 scene_TLs/s0203.txt:0
 scene_TLs/s0204.txt:0
 scene_TLs/s0205.txt:0
-scene_TLs/s0206.txt:16
+scene_TLs/s0206.txt:0
 scene_TLs/s0207.txt:17
 scene_TLs/s0301b.txt:0
 scene_TLs/s0302a.txt:18
