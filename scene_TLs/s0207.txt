@@ -1,5 +1,5 @@
 //s0207
-
+s0207
 //［女］：起きなさい、宏治クン。
 [Woman]: Wake up, Kouji-kun.
 //どうやら夢かもしれない‥‥この私を揺り起こすやつなど、この世界にいるわけがない。
@@ -47,7 +47,7 @@ As I looked down, I found I was bound at the hands and feet by strange leather b
 //［コウジ］：なんだと？
 [KOUJI]: What?
 //mai04b
-
+mai04b
 //［コウジ］：ほぉ、ご丁寧に舞を連れてきてくれた訳か。
 [KOUJI]: Ho~, how polite of you to have brought Mai here.
 //［沙夜香］：この子が、何らかのキーを握っていることはわかっているわ。
@@ -143,7 +143,7 @@ What an idiotic woman. If she wanted to conquer the whole world, she would have 
 //［コウジ］：ほぉ、怒らせると、どうなるのだ？
 [KOUJI]: Hoh~, what will you do if I piss you off?
 //バシィ！<$05><$04><$30>
-
+Bash! <$05><$04><$30>
 //［沙夜香］：おわかり？　もう質問はないのかしら。
 [Sayaka]: Got it? Now, you should have no questions.
 //［コウジ］：舞をどうする気だ。
@@ -175,7 +175,7 @@ What a perceptive woman, exactly the type I hate most.
 //［コウジ］：なに！　あれは私のモノだ。何かしてみろ、ただじゃすまさんぞ、女。
 [KOUJI]: WHAT! That woman is MY possession. Whatever you're trying, I will pay you back, woman.
 //バシィッ！<$04><$30><$05>
-
+Bam! <$04><$30><$05>
 //［コウジ］：フン、この私が暴力に屈すると思っているのか。
 [KOUJI]: Hm, do you really think I will submit to violence?
 //［沙夜香］：黙っていなさい。
@@ -405,9 +405,9 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 //［コウジ］：（成功、する‥‥の‥‥だろう‥‥か‥‥‥‥。）<$05>
 [KOUJI]: (It'll...be...successful...right......?)
 //r&s
-
+r&s
 //xenon_29
-
+xenon_29
 //［涼子］：宏治さまっ！
 [Ryouko]: Kouji-sama-!
 //［沙夜香］：りょ、涼子！　いったいいつのまに‥‥。
@@ -417,7 +417,7 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 //［沙夜香］：フン、どうやって抜け出してきたか知らないけど‥‥。
 [Sayaka]: Hmph, I don't know how you slipped out, but...
 //r&sb
-
+r&sb
 //［涼子］：沙夜香ぁ～、役人だからって、許さないわよ！！　私の宏治様に‥‥。
 [Ryouko]: Sayakaaa~, you're a government official, so I won't forgive this!! Doing this to my Kouji-sama...
 //［沙夜香］：ほーっほっほ、もう遅いわ、彼の脳はもうペチャンコのパイ状態になっているわよ。
@@ -433,13 +433,13 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 //［涼子］：くらえぇっ、悔しさ倍増ジェラシー・パーーーーッンチィィ！！
 [Ryouko]: Take this, my regrets doubled up, JEALOUSY PUUUUUUUUNCH!!
 //r&sc
-
+r&sc
 //［涼子］：このぉ～！　私の宏治様に、私のぉ！！
 [Ryouko]: YOU~! How could you do this to my Kouji-sama, my Kouji-sama!!
 //［沙夜香］：痛っ‥‥痛い、痛いわ、やめてぇっ！
 [Sayaka]: Ow...ow, that hurts, stop it!
 //ゲシッ、ゲシッ、ゲシッ！
-
+Thump, thump, thump!
 //［涼子］：くそっ、くそっ、このぉぉ～！！
 [Ryouko]: Fuck, shit, YOU~!!
 //［涼子］：宏治様はねっ、私のモノなのよ！　三十路を迎える前に、やっと、やっと見つけた伴侶だと思ったのにぃ！
@@ -461,7 +461,7 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 //［涼子］：あるわよ、にくったらしいわねっ！
 [Ryouko]: There IS one, you revolting bitch!
 //ゲシッ、ゲシッ、ゲシッ。
-
+Thump, thump, thump.
 //［沙夜香］：あぅ、あぅ‥‥。
 [Sayaka]: Au, au....
 //［涼子］：アシカか、あんたは。くのぉ、くのぉぉっ！！
@@ -501,7 +501,7 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 //［舞］：う、うそ‥‥。
 [Mai]: I-it can't be....
 //r&m&m
-
+r&m&m
 //［舞］：う、うそ‥‥宏治サン‥‥。
 [Mai]: I-it can't be...Kouji-san...
 //［恵］：し、死んじゃったの？
@@ -539,9 +539,9 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 //［涼子］：ほらほら、そんな泣きそうな顔をしないで。とにかく、宏治様をこのままにしておいたら‥‥。
 [Ryouko]: Now, now, don't start crying on me. In any case, if we leave Kouji-sama here...
 //むくっ。<$05><$04><$30>
-
+Puff. <$05><$04><$30>
 //r&m&mb
-
+r&m&mb
 //［涼子・舞・恵］：きゃぁぁぁぁぁっ～！！
 [Ryouko, Mai, Megumi]: Kyaaaaaaaa~!!
 //［涼子］：ここここ、宏治様‥‥？
@@ -573,9 +573,9 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 //その後、私は‥‥‥‥。<$05>
 After that, I....
 //all2
-
+all2
 //xenon_06
-
+xenon_06
 //実はまだ、私は開発途上の地球という惑星にいる。未だ、この脆弱な肉体の中に宿りながら‥‥。
 The truth was, I was still on this developing planet called Earth. I was still stuck in this puny body...
 //［恵］：ああン、宏治ぃ‥‥お願いよ、もっともっと、ナメナメしてあげるからぁ‥‥。
@@ -659,7 +659,7 @@ The truth was, I was still on this developing planet called Earth. I was still s
 //［コウジ］：お前はこれをしゃぶっていろっ！
 [KOUJI]: Come and suck on this!
 //ずぼっ。
-
+Splat.
 //［沙夜香］：んぐっ‥‥んんんん‥‥。
 [Sayaka]: *glug*...mmmmmmm...
 //［コウジ］：いつか、あの宏治とやらいう脆弱な思念体とチェンジする前に、こちらで王政を敷いておいてやろう。
@@ -675,7 +675,7 @@ The truth was, I was still on this developing planet called Earth. I was still s
 //［女性一同］：きゃぁぁ～、素敵ぃ、宏治様ぁぁぁっ！！<$05>
 [All the girls at once]: Kyaaa~, you're so wonderful, Kouji-samaaaa!!
 //　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ<$04><$30><$05>
-
+　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ<$04><$30><$05>
 //（おかしいな‥‥。）
 (How strange...)
 //足音はいつまでたっても止まず、そればかりかどんどん遠ざかっているような気すらした。

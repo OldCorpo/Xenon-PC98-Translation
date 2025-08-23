@@ -1,5 +1,5 @@
 //s0302a
-
+s0302a
 //左へ曲がってみようか‥‥。
 This seems to bend to the right....
 //しかし、左へ曲がったら確か反対側の廊下へ出るはずだ。さっき、そこからやって来たんだ。
@@ -207,11 +207,11 @@ Since I didn't feel the need to conceal myself, I called out quite naturally.
 //［宏治］：ランファ。
 [Kouji]: Ranphar.
 //ra06c
-
+ra06c
 //xenon_26
-
+xenon_26
 //ra06c_m
-
+ra06c_m
 //［ランファ］：あっ、コウジ様！
 [RANPHAR]: Ah-, KOUJI-sama!
 //ランファはオレに気付くと、手を止めてすぐに顔を破顔させる。彼女は、嬉しさを全身で表現する女の子だった。
@@ -599,7 +599,7 @@ This is no laughing matter...I'm all alone again...
 //オレはきびすを返すと、ランファと名乗る女性を、後から追いかけていった。
 I turned on my heels and chased after the woman named Ranphar.
 //‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
-
+...<$0C>...<$0C>...
 //こ、ここは‥‥。
 Wh-what...
 //何だ‥‥？
@@ -661,9 +661,9 @@ If you ask me, I get the impression that the woman named Farnelia is not at all 
 //傍らのコンパネに手を伸ばしてみる。見よう見まねだ。
 I reached for the control panel beside me. I did as the others did.
 //xenon_08
-
+xenon_08
 //fa10
-
+fa10
 //［ファル］：フンフン、フフン‥‥。<$04><$30><$05>
 [FAR]: Hum hum, hu-hum...
 //後ろでドアが閉まった途端、あたりが静寂に包まれる。
@@ -721,7 +721,7 @@ I laid my arms on the back of the sofa and stared at the ceiling. I have a lot o
 //［宏治］：だけど、これ本当に夢？
 [Kouji]: But, is this really a dream?
 //ギュッ。
-
+Squeeze.
 //［宏治］：イチチチ‥‥やっぱ痛い。
 [Kouji]: Eetch-tch-tch...That really hurts.
 //［宏治］：でも、痛いという夢を見ているだけなのかも、しれないぞ。
@@ -889,7 +889,7 @@ Inevitably, I was likely to get caught or stuck on something, so even if it were
 //オレは不可抗力という文字を頭に浮かべながら、正面の曇りガラスに覆われたドアに、勢い良く倒れ込んでいった。
 As the word "inevitability" hung in my head, I forcefully collapsed through the frosted glass door before me.
 //fa04
-
+fa04
 //［ファル］：きゃっ！！
 [FAR]: Kyaaah-!!
 //［宏治］：どわわわっ！？
@@ -909,7 +909,7 @@ As the word "inevitability" hung in my head, I forcefully collapsed through the 
 //もつれそうだった。立とうとしたがうまくいかず、オレはおっとっとをしながら前につんのめり、彼女の下半身に抱きついてしまう。
 It was quite complicated. I couldn't stand up properly. As I winced, I fell forward, grabbing onto her lower body.
 //ガバッ。
-
+Grab.
 //［ファル］：なっ‥‥あ、あ、あ‥‥。
 [FAR]: Wh-...ah, ah, ah...
 //［宏治］：だから、不可抗力‥‥。
@@ -937,11 +937,11 @@ As I rubbed my cheek, still dizzy, I confusedly apologized.
 //［ファル］：なによ、まだいるじゃない‥‥。
 [FAR]: Why the hell are you still here...?
 //fa02
-
+fa02
 //fa02b
-
+fa02b
 //fa02_m
-
+fa02_m
 //［ファル］：私は出てってと言ったのよ。
 [FAR]: I said, get out.
 //［宏治］：いちおう、バスルームからは出たけど‥‥覗くつもりはなかったんだ。ゴメン‥‥。
@@ -1131,15 +1131,15 @@ Didn't she say something about a medium...?
 //［宏治］：（舞さーんっ！！）
 [Kouji]: (MAI-SAAN-!!)
 //ふにゃ。
-
+Hmm.
 //［ファル］：きゃっ、何すんのよっ！
 [FAR]: Kya-, what are you doing!
 //fa03
-
+fa03
 //fa03b
-
+fa03b
 //fa03_m
-
+fa03_m
 //［宏治］：あれ、き、君は‥‥。
 [Kouji]: Huh? Y-you're...
 //［ファル］：こんなとこで何をやってるのよ！
@@ -1177,7 +1177,7 @@ Didn't she say something about a medium...?
 //［宏治］：うわっ、ナイス！
 [Kouji]: Yeah, nice!
 //バキッ！<$05><$04><$30>
-
+Crack!<$05><$04><$30>
 //［宏治］：んな、バスタオルを身体に巻いただけで、男の上になんてまたがるのが悪いんだよ。
 [Kouji]: Hey, with only a bath towel wrapped around you, straddling a man is dangerous.
 //［ファル］：な、なによぉ‥‥。

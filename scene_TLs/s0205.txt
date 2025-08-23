@@ -1,5 +1,5 @@
 //s0205
-
+s0205
 //　◆ コンピュータ・ルームへ行き、ジェネレータの調整だ。
 ◆ I'll go to the computer room to adjust the generator.
 //　◆ 舞を捜しに行こう。
@@ -185,7 +185,7 @@ I suddenly felt a loss of balance from my inner ear. As I felt the earth beneath
 //地面が急速に私の方へと起きあがってくる。意識が遠のいていく‥‥私は床の冷たさを感じながら‥‥。<$05>
 The earth rapidly rose towards me. My consciousness faded far away...as I felt the coldness of the bed...
 //Ｄ
-
+Ｄ
 //（ファル‥‥‥‥。）<$05>
 (Far......)
 //（そうだ、ファルがエンコーダと一緒に‥‥。）<$05>
@@ -209,7 +209,7 @@ As I almost strengthened my conviction, I spoke towards the voice.
 //［男の声］：誰だ！？<$05>
 [Man's voice]: Who are you?!
 //ko01
-
+ko01
 //［コウジ］：貴様では、ビアンカには勝てん。
 [KOUJI]: You will not prevail against Bianca.
 //［男］：さ、さっき、『よけろ』って耳元で叫んだ男か！？
@@ -453,11 +453,11 @@ Indeed, I likely lost consciousness outside my room, but...
 //［コウジ］：色仕掛けか。フン、どいつもこいつも‥‥。
 [KOUJI]: You're seducing me for your own ends, aren't you? Hmph, just like everyone else...
 //xenon_24
-
+xenon_24
 //［沙夜香］：その強がり、いつまで続くのかしらね。
 [Sayaka]: I wonder, how long will you continue that bluff?
 //saya05
-
+saya05
 //［沙夜香］：ウフフ、どお？
 [Sayaka]: Uhuhu, what do you think?
 //［沙夜香］：こう見えてもね、私は自信があるのよ。
@@ -473,7 +473,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：ほーら、こうすれば‥‥。
 [Sayaka]: See, if I do *this*...
 //りゅっ、りゅっ、りゅっ‥‥。
-
+Squeak, squeak, squeak...
 //［沙夜香］：口で強がっても、こっちは正直よねぇ～。
 [Sayaka]: Even if you're bluffing up there, down here is quite honest.
 //［コウジ］：私は自分を偽るのが嫌いでな。
@@ -495,7 +495,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：こんなに、パンパンに腫れ上がって‥‥あぁぁ、もう出そうなのね！
 [Sayaka]: It's swollen this much...Ahhh, it's coming!
 //saya04
-
+saya04
 //［沙夜香］：あぁぁ、出して‥‥沙夜香の口の中に！！
 [Sayaka]: Ahhh, cum...right in my mouth!!
 //ドクドクドク、ドクッ、ドクッ！！
@@ -503,7 +503,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：んぐ‥‥。
 [Sayaka]: *gulp*....
 //saya04b
-
+saya04b
 //［沙夜香］：んぐ、ごく、ごくっ‥‥。
 [Sayaka]: *gulp*, *suck* *suck*...
 //［沙夜香］：コホコホッ‥‥ごく‥‥。
@@ -527,7 +527,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：な、なによ‥‥きゃぁぁっ！！
 [Sayaka]: What's with that...Kyaaaa!!
 //saya02
-
+saya02
 //［沙夜香］：や、やめて‥‥痛っ！
 [Sayaka]: S-stop...it hurts!
 //［コウジ］：フン、処女でもあるまい、演技はやめろ。
@@ -535,11 +535,11 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：そ、そんな‥‥まだ十分濡れてない‥‥。
 [Sayaka]: That's...I'm still not wet enough...
 //ずりゅぅぅぅぅぅぅぅぅっっ！！
-
+Sigh...!!
 //［沙夜香］：きゃぁぁぁっ！　い、痛いぃぃっ！！
 [Sayaka]: Kyaaaaa! It huuuurts!!
 //ずちゅっ、ずちゅっ、ずちゅっ‥‥。
-
+Gsh, gsh, gsh...
 //［沙夜香］：痛っ‥‥痛いわ、やめっ‥‥あぁぁぁぁっ！！
 [Sayaka]: It hurts... it hurts so much, stop....Ahhhh!!
 //［沙夜香］：止めて！　お、お願い‥‥くぅぅっ！
@@ -575,7 +575,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：いやよ、いやぁぁ！　妊娠しちゃうぅっ！！
 [Sayaka]: No, nooo! I'll get pregnant!!
 //どぷっ、どぷっ、どぷっ！！
-
+Sploch, sploch, sploch!!
 //［沙夜香］：いやぁぁぁぁぁっ、膣内にドクドク入ってくるぅぅっ！！
 [Sayaka]: NOOOOOOO, it's pumping out inside me!!
 //ぐったりとした沙夜香の目には、大粒の涙が浮かんでいる。どうやら、こればかりは本当のようだった。
