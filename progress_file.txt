@@ -36,7 +36,7 @@ scene_TLs/s0301b.txt:0
 scene_TLs/s0302a.txt:0
 scene_TLs/s0302b.txt:0
 scene_TLs/s0303a.txt:0
-scene_TLs/s0303b.txt:14
+scene_TLs/s0303b.txt:0
 scene_TLs/s0304.txt:19
 scene_TLs/s0305.txt:14
 scene_TLs/s0306a.txt:0
