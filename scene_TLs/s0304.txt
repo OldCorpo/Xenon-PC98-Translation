@@ -1,9 +1,9 @@
 //s0304a
-
+s0304a
 //［宏治］：だがあのナイスバデーは、犯罪的ですらあるな。
 [Kouji]: But that smokin' hot bod of hers is downright criminal.
 //s0304b
-
+s0304b
 //ヒンヤリとして、静かな部屋だった。ここでは、警報の音があまりうるさくはない。
 The room was calm and chilly. That alarm from earlier wasn't blaring here.
 //オレは室内を見回した。エンコーダはその質感と色彩により、まるで墓石のように、暗闇の中でその存在を誇示している。
@@ -93,7 +93,7 @@ As I closed the door...
 //［宏治］：な、何だ、誰だ！？
 [Kouji]: Wh-what? Who's that?!
 //ビシィィィィッッ！！！<$04><$30><$05>
-
+Blast!!!<$04><$30><$05>
 //［宏治］：（で、電撃‥‥！？）
 [Kouji]: (An e-electrical blast?!)
 //［ビアンカ］：フッ、私の電撃ムチをもろに受けるとは、おろかな男よ‥‥。
@@ -259,7 +259,7 @@ As I closed the door...
 //［宏治］：その‥‥とりあえず、こっちに座らない？
 [Kouji]: Um...well, let's have a seat here, shall we?
 //to03
-
+to03
 //［トレイシー］：なんでしょうか、コウジ様。
 [TRACY]: What is the matter, KOUJI-sama?
 //［宏治］：（素敵だったなんて、言うのかよ‥‥。）
@@ -285,7 +285,7 @@ As I closed the door...
 //［トレイシー］：はい、では‥‥。
 [TRACY]: All right, then...
 //シュルッ‥‥。
-
+Swoosh...
 //［宏治］：ちょちょちょ、何で服を脱ぎ出すの‥‥。
 [Kouji]: Ho-ho-hold it, why are you taking your clothes off...
 //［トレイシー］：ですが、少し寝ると‥‥。
@@ -297,9 +297,9 @@ As I closed the door...
 //［宏治］：えっ？　そ、そうなの‥‥？
 [Kouji]: Huh? I-is that so....
 //to02
-
+to02
 //to02_m
-
+to02_m
 //［トレイシー］：‥‥どうされました？
 [TRACY]: ...How are you feeling?
 //［宏治］：女性に添い寝してもらうなんて、始めてなんだよ。ホント。
@@ -339,7 +339,7 @@ As I closed the door...
 //［トレイシー］：ウフフ、どちらも魅力的ですのよ。
 [TRACY]: Ehehe, but you're both so charismatic.
 //to03_m
-
+to03_m
 //［宏治］：惑星エイレートで過ごしたときのことを、覚えているかい？
 [Kouji]: Do you remember the time we passed by planet Eirate?
 //［トレイシー］：えっ‥‥。
@@ -411,7 +411,7 @@ Tracy's voice was wavering. She seemed a little afraid of my words, and stared a
 //［宏治］：それって、どういう‥‥<$0C>んっ！？
 [Kouji]: By easy fix, what do- Mm-!?
 //to03b
-
+to03b
 //柔らかい唇が、そっとオレの口にかぶさってきた。熱い吐息を口腔に感じながら、オレは痺れるような感覚に見舞われてきた。
 She firmly pressed her soft lips to mine. As I felt her warm breath in my mouth, a shiver ran down my spine.
 //ただ唇を押しつけているだけの、ライトなキスだったが、オレの感覚を麻痺させるに十分過ぎるほど濃厚だった。
@@ -419,9 +419,9 @@ As she only pressed her lips to mine, it was a light kiss, but the numbing effec
 //オレはゆっくりと、身体をベッドへ倒していった‥‥。
 I gently fell onto the bed...
 //to09
-
+to09
 //to09_m
-
+to09_m
 //［トレイシー］：コウジ様‥‥。
 [TRACY]: KOUJI-sama...
 //ゾクッとするような、色っぽい目だった。溜まってる時だったら、この目で見つめられるだけで、イっちまいそうだ。
@@ -475,9 +475,9 @@ Her tits were so big that they couldn't fit in my hands, so I played with them a
 //目を潤ませながらも、にこやかに微笑みかけるトレイシーの身体をそっとベッドに横たえると、オレはゆっくりと、彼女の衣服の分離作業をし始めた。
 Even as her eyes watered, she maintained an impish smile. I laid Tracy's body down on the bed, and slowly started undressing her.
 //to09b
-
+to09b
 //to09b_m
-
+to09b_m
 //透き通るような肌が、オレの目の前にあらわになっている。トレイシーは、少し切なそうな目をしながら、
 Her clear skin laid bare before me. As Tracy shot an acute glance at me,
 //［宏治］：えっ、なんだい？
@@ -509,7 +509,7 @@ Signaling to her with that masculine growl, I pounced on Tracy. I couldn't bear 
 //［トレイシー］：あはぁぁぁ、そうよ、無茶苦茶にしてっ！！
 [TRACY]: Ahaaa, yes, you're so aggressive!!
 //to09c
-
+to09c
 //オレは下着を破るようにむしり取ると、彼女の身体にむしゃぶりついた。
 I tore off her bikini bottom and grappled with her body.
 //乳房を絞りあげ、小さくない乳首を捻り、量感あるヒップを鷲掴みにし、怒張した股間をさかんにこすりつけた。
@@ -531,7 +531,7 @@ As she vigorously pumped my rod in one hand, with a pleading look in her eye, Tr
 //そう言うと、トレイシーはオレのモノを握りながら、上に被さってきた‥‥。
 With that, gripping my cock, Tracy straddled my hips...
 //to08
-
+to08
 //［トレイシー］：凄く太い‥‥あぁぁ、早く、早く入れたい‥‥。
 [TRACY]: It's so big...Ahhh, I want to put it inside me already...
 //トレイシーはオレのモノを、盛んに自分の花弁へと擦り付けていた。ゆっくりと肉棒を前後に動かし、秘所の湿り具合を確かめる。
@@ -539,7 +539,7 @@ Tracy eagerly slipped my rod between her love petals. As she gently rocked back 
 //十分過ぎるほど潤っているそこは、オレのモノを今にも奥深くまで呑み込もうと蠢動していた。
 Now that she was incredibly slippery, she had engulfed me deep inside her, and was writhing about.
 //じゅぶぶぶぶぶぶっっ‥‥。
-
+Sluush...
 //［トレイシー］：んっ‥‥んあぅ‥‥あぁぁぁぁぁぁぁぁっっ！！
 [TRACY]: Mm- Mmahh...AHHHhhhh---!!
 //狭い穴を抜けるような感覚に、オレはいい知れぬ快楽を覚えていた。
@@ -554,7 +554,7 @@ Tracy's hip movements were exquisite. She gently rose until I could see my secon
 After that, her hips gyrated back and forth, her folds thoroughly milking me, until she gently rose again to reveal my head.
 //単調な動作だったが、それは脳天まで麻痺してしまうほどの快楽を醸し出した。
 That monotone movement alone evoked a pleasure that numbed me to my core.
-//彼女の花弁の肉圧と、腰使いは絶品だ。
+!//彼女の花弁の肉圧と、腰使いは絶品だ。
 The way she clenched her flesh walls and moved her hips was supreme.
 //［トレイシー］：んふぅぅ、どう‥‥あっ、どう‥‥ですか、私の膣内は‥‥。
 [TRACY]: Mhooo, how...ah-, how...does it feel, inside me...?
@@ -563,7 +563,7 @@ The way she clenched her flesh walls and moved her hips was supreme.
 //［トレイシー］：あはぁぁ、嬉しい‥‥もっともっと、気持ちよくなって下さいっ！！
 [TRACY]: Mhmmm, my pleasure...please, let me give you even more!!
 //ずちゅっ、ぬりゅっ、ずちゅっ、ぬりゅっ。
-
+Squish, squish, squish, squish.
 //次第に早くなっていく腰の動きに同調して、目の前では量感溢れるバストが、たぷんたぷんと揺れていた。
 As she gradually quickened her hip movements, her voluminous tits swayed back and forth.
 //オレそれをたっぷりと揉みしだいた。柔らかく弾力があるそれは、オレの手の中で自由自在に変形する。
@@ -575,11 +575,11 @@ I thoroughly groped her breasts. They were soft and supple, and they kneaded and
 //［トレイシー］：もっともっと‥‥乳首をひねってっ！
 [TRACY]: Pinch my nipples...harder-!
 //ぎゅぅぅぅっ！！
-
+Ghnuhhhhg!!
 //［トレイシー］：あふぅぅっ！　もう‥‥もうダメ、噛んで‥‥私の乳首を、噛んでっ！！
 [TRACY]: Mphoooo-! Now...come, bite them...bite my nipples-!!
 //ガリッ！！
-
+Pinch!!
 //［トレイシー］：あひぃぃっっ！！！
 [TRACY]: AHIIIII!!!
 //オレがトレイシーの乳首を強く噛んだ途端、彼女の膣圧がぐっと上がった。
