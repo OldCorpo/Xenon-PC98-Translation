@@ -1,5 +1,5 @@
 //all
-
+all
 //［宏治］：実はまだ、オレは《クワドラ》にいたりする。
 [Kouji]: The truth is, I've returned back to the {Quadra}.
 //［トレイシー］：ランファ、このお皿をテーブルに並べて頂戴。
@@ -31,7 +31,7 @@
 //［ビアンカ］：炊事関連は苦手なのに‥‥。
 [BIANCA]: But I'm awful at cooking....
 //チャッチャッチャッチャッ‥‥。
-
+Chopchopchopchopchop...
 //［トレイシー］：まぁ、手さばきは、ランファよりも上手ですわ。
 [TRACY]: Well, when it comes down to it, I'm still better at Ranphar at maneuvering.
 //［ランファ］：なによぉ、トレイシー、プリプリよぉ。私だってねっ！
@@ -89,7 +89,7 @@
 //［ファル・ランファ］：あなたに言われたくない！
 [FAR and RANPHAR]: I won't hear it from you!
 //ズズズズズ、ドン。
-
+Zrrrrrrrrrr, thomp.
 //［ビアンカ］：ふぅ‥‥。
 [BIANCA]: *sigh*....
 //［ファル］：あっ、ビアンカさん、ずるいわ！
@@ -215,7 +215,7 @@
 //［ファル］：あン、ダメよ！
 [FAR]: Ah, wait!
 //fa07
-
+fa07
 //［ファル］：もう、ケモノよぉ、コウジったらぁ！
 [FAR]: You're such a beast, KOUJI!
 //［宏治］：オレはケモノだ、がるるるる。
@@ -271,11 +271,11 @@
 //［宏治］：うん、するする。
 [Kouji]: All right, here goes.
 //ぐぐっ‥‥‥‥。
-
+Guh...
 //［ファル］：痛っ‥‥ちょ、ちょっとそんなにいきなりは‥‥。
 [FAR]: Ow...hold on, if you do it all of a sudden....
 //ぬりゅぅぅぅぅぅぅぅ‥‥‥‥。
-*
+Rub rub rub rub...
 //［ファル］：あっ、ダメ‥‥あぁぁぁぁっっ！！
 [FAR]: Ah-, no...Aaaahhhh!!
 //［宏治］：もう全部入っちゃったよ。
@@ -333,7 +333,7 @@
 //［宏治］：よし、ベッドだ！
 [Kouji]: All right, there's the bed!
 //fa06
-
+fa06
 //［ファル］：あぁぁ、もう‥‥無茶苦茶にしてっ！
 [FAR]: Ahhh, come on...rough me up!
 //［宏治］：よしっ！　こうかっ！？
@@ -341,11 +341,11 @@
 //［ファル］：もっと、脚をいっぱいに広げて頂戴！
 [FAR]: Please, spread my legs further apart!
 //ぐぐぐぅぅぅっ！！
-
+Guhhhhhh!
 //［ファル］：そのまま突き入れてっ！
 [FAR]: Yes, plunge it into me like that!
 //ずりゅっっ！！！
-
+Slip!!!
 //［ファル］：あはぁぁぁっ！　奥まで当たってるぅっ！！
 [FAR]: Ahaaaaaaa-! You put it so deep inside me!!
 //［宏治］：すっごく締め付けてるぜ、アソコが‥‥。
@@ -519,7 +519,7 @@ And so we passed every day like that......
 //　　　　　　　　ＤＲＥＡＭ＿３β　‥‥　ＥＮＤ<$04><$30><$05>
 　　　　　　　　ＤＲＥＡＭ＿３β　‥‥　ＥＮＤ<$04><$30><$05>
 //ra03
-
+ra03
 //［ランファ］：んっ‥‥んんっ‥‥。
 [RANPHAR]: Mm-....Mmm-....
 //［宏治］：もっと、横に舌を動かして。
@@ -573,7 +573,7 @@ And so we passed every day like that......
 //［ランファ］：あン、どっちでもいいですぅ‥‥あはぁぁぁ。
 [RANPHAR]: Ahm, both are fine with me...ahaaaa.
 //ra05
-
+ra05
 //［宏治］：出すぜ！
 [Kouji]: I'm cumming!
 //［ランファ］：くださいっ！　お顔にぃぃっっ！！
@@ -581,7 +581,7 @@ And so we passed every day like that......
 //ドクドクドクっ！！<$04><$30><$05>
 *spurt spurt spurt*!!
 //ra05b
-
+ra05b
 //［ランファ］：ああン、ネバネバするぅ‥‥。
 [RANPHAR]: Ahhm, you've gotten me all sticky...
 //［宏治］：それにはな、タンパク質が、たーっぷりと含まれてるんだぞ。
@@ -599,7 +599,7 @@ And so we passed every day like that......
 //［宏治］：もっと奥まで入りそう。
 [Kouji]: Go a little deeper.
 //ずるっ。
-
+*slide*
 //［ランファ］：んんぐっ、げぇぇ‥‥ゲホゲホ！
 [RANPHAR]: Nnngh, *gag*...*cough* *cough*!
 //［宏治］：おっとごめん、奥まで入れすぎちゃった。
@@ -697,9 +697,9 @@ And so we passed every day like that......
 //［ランファ］：ランファ、飛ぶぅぅぅぅぅぅぅぅぅぅぅぅっっっ！！！<$05>
 [RANPHAR]: I'M FLYIIIIIINGG!!
 //　　　　　　　　ＤＲＥＡＭ＿３γ　‥‥　ＥＮＤ<$04><$30><$05>
-
+　　　　　　　　ＤＲＥＡＭ＿３γ　‥‥　ＥＮＤ<$04><$30><$05>
 //bi05
-
+bi05
 //［ビアンカ］：あぁぁぁぁぁぁぁぁ、コウジぃ、コウジぃっ！！
 [BIANCA]: Ahhhhhh, KOUJI, KOUJII!!
 //［宏治］：は、激しすぎるよ、ビアンカ‥‥。
@@ -769,7 +769,7 @@ And so we passed every day like that......
 //［ビアンカ］：あぁぁぁ、コウジぃ、私、幸せよぉっ！！<$05>
 [BIANCA]: Ahhh, KOUJIi, I'M SO HAPPY!!
 //　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ<$04><$30><$05>
-
+　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ<$04><$30><$05>
 //［ランファ］：たぶん、牽引ビームに、《クワドラ》が捉えられたんだと思います。
 [RANPHAR]: It's probably been captured by the {Quadra}'s tractor beam.
 //［ランファ］：ビアンカさんの、性格でしょうね、きっと。
@@ -1111,9 +1111,9 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：はい、わかりました‥‥。
 [TRACY]: Yes, I understand...
 //to05
-
+to05
 //to05_m
-
+to05_m
 //［トレイシー］：んん‥‥あぅぅぅぅ‥‥。
 [TRACY]: Ngg....auuuu....
 //［コウジ］：フン、何を言っているのか、わからないな。
@@ -1233,9 +1233,9 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：あぁぁ、私はメス犬ぅぅっ！　入れてぇぇぇぇっ！！
 [TRACY]: Ahhhhh, I'm a slutty biiitch! Put it in meeee!!
 //to04
-
+to04
 //ずりゅぅぅぅぅぅぅぅぅぅぅぅぅっっ！！！
-*
+Sluuuuuuuuuuuuuuuuuuuuuuuuuurp!!!
 //［トレイシー］：あぁぁぁぁぁぁぁぁっ！　いいぃぃぃぃぃぃっっ！！
 [TRACY]: AHHHHHHH-! YEEEESSSSSS!!
 //［コウジ］：フン、メス犬がっ！
@@ -1243,13 +1243,13 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：凄いぃぃ、凄くいいのっ！！
 [TRACY]: It feels sooo good!!
 //ずちゅっ、ずちゅっ、ずちゅっ。
-*
+*squish* *squish* *squish*
 //［トレイシー］：あっ、あっ、あっ！　ダメっ、そんなっ‥‥強くしたらっ‥‥あぁぁぁぁっ！！
 [TRACY]: Ah-, ah-, ah-! Wait, if you fuck me...so roughly...Ahhhh-!!
 //［トレイシー］：（だ、ダメぇぇぇ‥‥突かれるたびに、お腹が‥‥。）
 [TRACY]: (Oh, oh no...every time he thrusts into me, my insides....)
 //ずちゅぅっ！
-
+*guuush*!
 //［トレイシー］：あがっ！
 [TRACY]: Agh-!
 //［コウジ］：どうした、突けと言ったのは、お前だぞ。
@@ -1257,7 +1257,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：そうです‥‥私です‥‥もっともっと、突いて下さいっ！
 [TRACY]: That's right...I did...please, fuck me harder-!
 //ずりゅぅぅぅぅぅっ！！
-
+*sliiiiip*!!
 //［トレイシー］：あくぅぅぅぅっ！
 [TRACY]: Akhhhhh-!
 //［トレイシー］：（だ、ダメ‥‥便意が限界に‥‥来てる‥‥んぐっ！）
@@ -1305,9 +1305,9 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［コウジ］：よーし、お望み通り、叩いてやるぞ！　ひとつ！！
 [KOUJI]: All right, just as you wished, I'll whip you! ONE!
 //ビシィィィッ！！<$05><$04><$30>
-
+*smack*!!<$05><$04><$30>
 //to05b
-
+to05b
 //［トレイシー］：きゃぅぅぅっ！！
 [TRACY]: KYAAAAOOOOWWWWWW!!
 //［トレイシー］：あっ‥‥あっ‥‥あぁぁぁぁ‥‥‥‥。
@@ -1331,9 +1331,9 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［コウジ］：ふたーつっ！
 [KOUJI]: TWOOO-!
 //びしぃぃぃぃぃぃっっ！！<$05><$04><$30>
-
+*whooooooosh*!!<$05><$04><$30>
 //to05c
-
+to05c
 //［トレイシー］：んくぅぅぅぅぅぅぅっっ！！
 [TRACY]: NKHHHUUUUuuu-!!
 //［トレイシー］：（が、我慢するのよ、トレイシー‥‥あくっ。）
@@ -1353,11 +1353,11 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //びしぃぃぃぃぃぃぃぃぃぃぃぃぃっっ！！！！<$05><$04><$30>
 *PSHHHHHHHHHHHHH*!!!!
 //to05d
-
+to05d
 //［トレイシー］：‥‥んがぁぁっ！
 [TRACY]: ....NGAAAh-!
 //ぶりゅっ。
-
+Brrrrrrrrrr.
 //［トレイシー］：だ、ダメ‥‥も、もう‥‥あがっ。
 [TRACY]: I-I can't....P-please....agh.
 //［コウジ］：どうした？　まだ３回だぞ。
@@ -1401,17 +1401,17 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：肉奴隷ですっ！！
 [TRACY]: SEX SLAVE!!
 //ぶりゅりゅりゅっ！！
-
+*SHAKE*!
 //［コウジ］：よし、出せ！
 [KOUJI]: Well done, now GO!
 //びしぃぃぃぃぃぃぃぃぃっ！！<$04><$30><$05>
-
+*whooooooooooosh*<$04><$30><$05>
 //［トレイシー］：もう、イクぅぅぅぅぅぅぅぅぅぅぅぅっっ！！！
 [TRACY]: I, I'M GOIIIIING-!!!
 //to05e
-
+to05e
 //どばばばばばばばばばばばばばばばばばばっっっっっ！！！！！<$05>
-
+*sploshhhhhhhhhhhhhhh*!!!!!<$05>
 //［トレイシー］：そう‥‥私はトレイシー‥‥。
 [TRACY]: Yes...I'm Tracy....
 //［トレイシー］：ここは調査船《クワドラ》‥‥惑星エイレート付近‥‥。
@@ -1785,7 +1785,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：あぁぁぁ、わかったわ‥‥‥‥。
 [TRACY]: Ahhhhh, I will......
 //to09c_m
-
+to09c_m
 //［コウジ］：足を開いて‥‥。
 [KOUJI]: Spread your legs...
 //［トレイシー］：あ、足を‥‥‥‥。
@@ -1923,7 +1923,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：いいわ‥‥これはあなたのモノよ‥‥。
 [TRACY]: OK...They're yours, after all...
 //to07
-
+to07
 //ぎゅぎゅぎゅぅぅぅぅぅぅぅぅっ！！！
 *pinch, squish, squeeeeeeze*!!!
 //［トレイシー］：あくぅぅぅ‥‥痛っ‥‥あぁぁぁぁ、そ、そんなにしぼらないで‥‥。
