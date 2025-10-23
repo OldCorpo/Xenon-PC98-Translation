@@ -950,7 +950,7 @@ Being interrupted during my thinking was rather uncomfortable, but,\nregaining m
 //［宏治］：無機質で、耳障りな高い音‥‥だったと思います。
 [Kouji]: I think it was an inorganic, grating, high-pitched sound.
 //［涼子］：それは確かに不快かもね。でも、どこか有機的な‥‥重い心音のような音も、同時に聞こえたんじゃなくて？
-[Ryouko]: Indeed, that must be unpleasant. But, at the same time,\n          did you also hear an organic sound, resembling your heartbeat?
+[Ryouko]: Indeed, that must be unpleasant. But, at the same time,\ndid you also hear an organic sound, resembling your heartbeat?
 //［宏治］：生々しく、頭に響いてくる重低音、だったと思います。
 [Kouji]: I think it was a vivid, low-pitched sound echoing in my head.
 //［涼子］：重低音‥‥ふむ。
@@ -1010,7 +1010,7 @@ I tried to talk about the girl I met in the corridor.
 //　◆ 切れ長の細い目をしていて‥‥。
 　◆ Her eyes were small and slanted...
 //［宏治］：大きなクリクリとした目をしていて、童顔‥‥というか、まだあどけない少女という感じでした。
-[Kouji]: Her eyes were big and round, with a somewhat child-like face.\n         She gave the feeling of a pristine maiden.
+[Kouji]: Her eyes were big and round, with a somewhat child-like face.\nShe gave the feeling of a pristine maiden.
 //［涼子］：ふーん‥‥。
 [Ryouko]: Hmm...
 //［宏治］：あどけない少女なんですが、どことなくミステリアスな感じもうけました‥‥。
@@ -1032,11 +1032,11 @@ Ryouko, who was glaring at her notebook, seemed deep in thought for a moment.\nT
 //［宏治］：そ、そりゃあ夢の中の事ですから‥‥。
 [Kouji]: W-Well, no surprise, that's a dream after all.
 //［涼子］：夢の進行に矛盾があっても構わないけど、分析するためのファクターに、矛盾があってはならないの。
-[Ryouko]: I don't mind that there might be inconsistencies in a dream's progression,\n          but contradictions in its analytic factors can't be overlooked.
+[Ryouko]: I don't mind that there might be inconsistencies in a dream's progression,\nbut contradictions in its analytic factors can't be overlooked.
 //［宏治］：どういうことです？
 [Kouji]: What do you mean?
 //［涼子］：説明は難しいわね‥‥つまり、宏治クンが夢の中で女性として存在していても構わないのだけど‥‥。
-[Ryouko]: That's hard to explain. Look, it's not as if I care whether\n          there are women in your dreams,
+[Ryouko]: That's hard to explain. Look, it's not as if I care whether\nthere are women in your dreams...
 //［涼子］：その事を退けるようなファクターがあってはならない、ということね。
 /*[Ryouko]: But there is no factor that can sweep these discrepancies away.
 //［宏治］：何のことだか、ちっともわからないんですけど‥‥。
@@ -5752,7 +5752,7 @@ I slowly turned the page. But, there was nothing more written. Is this the end..
 //変わりに、メモ用紙がしおりの様にページの間に挟まっていた。そこには、先程の落ちついた様子は微塵もなく、かなり慌てたような字で、こう書きなぐってあった。
 Instead, a page from a memo pad, used as bookmark, was stuck in the middle of the pages. There, something was written in frantic handwriting, completely unlike the previous records.
 //‥‥‥‥沙夜香　連絡先：法務局\n　　　　　　　　電話番号××××－××××－‥‥‥‥。
-......SAYAKA  CONTRACT: LEGAL AFFAIRS BUREAU \n        PHONE NUMBER ××××－××××－......
+......SAYAKA  CONTRACT: LEGAL AFFAIRS BUREAU \n PHONE NUMBER ××××－××××－......
 //はっと気付いた僕は、ポケットからしわくちゃになったメモ用紙を取り出した。丸い可愛らしい字で、同じ電話番号が記載されているのを確認する。
 I suddenly realized, and pulled out a crumpled memo pad page from my pocket. I confirmed that the same phone number was recorded in round, cute letters.
 //［宏治］：（沙夜香さん‥‥？）
