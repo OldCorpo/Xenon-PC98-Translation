@@ -329,7 +329,7 @@ Being interrupted during my thinking was rather uncomfortable, but,\nregaining m
 //［宏治］：無機質で、耳障りな高い音‥‥だったと思います。
 [Kouji]: I think it was an inorganic, grating, high-pitched sound.
 //［涼子］：それは確かに不快かもね。でも、どこか有機的な‥‥重い心音のような音も、同時に聞こえたんじゃなくて？
-[Ryouko]: Indeed, that must be unpleasant. But, at the same time,\n          did you also hear an organic sound, resembling your heartbeat?
+[Ryouko]: Indeed, that must be unpleasant. But, at the same time,\ndid you also hear an organic sound, resembling your heartbeat?
 //［宏治］：生々しく、頭に響いてくる重低音、だったと思います。
 [Kouji]: I think it was a vivid, low-pitched sound echoing in my head.
 //［涼子］：重低音‥‥ふむ。
@@ -389,7 +389,7 @@ I tried to talk about the girl I met in the corridor.
 //　◆ 切れ長の細い目をしていて‥‥。
 　◆ Her eyes were small and slanted...
 //［宏治］：大きなクリクリとした目をしていて、童顔‥‥というか、まだあどけない少女という感じでした。
-[Kouji]: Her eyes were big and round, with a somewhat child-like face.\n         She gave the feeling of a pristine maiden.
+[Kouji]: Her eyes were big and round, with a somewhat child-like face.\nShe gave the feeling of a pristine maiden.
 //［涼子］：ふーん‥‥。
 [Ryouko]: Hmm...
 //［宏治］：あどけない少女なんですが、どことなくミステリアスな感じもうけました‥‥。
@@ -411,11 +411,11 @@ Ryouko, who was glaring at her notebook, seemed deep in thought for a moment.\nT
 //［宏治］：そ、そりゃあ夢の中の事ですから‥‥。
 [Kouji]: W-Well, no surprise, that's a dream after all.
 //［涼子］：夢の進行に矛盾があっても構わないけど、分析するためのファクターに、矛盾があってはならないの。
-[Ryouko]: I don't mind that there might be inconsistencies in a dream's progression,\n          but contradictions in its analytic factors can't be overlooked.
+[Ryouko]: I don't mind that there might be inconsistencies in a dream's progression,\nbut contradictions in its analytic factors can't be overlooked.
 //［宏治］：どういうことです？
 [Kouji]: What do you mean?
 //［涼子］：説明は難しいわね‥‥つまり、宏治クンが夢の中で女性として存在していても構わないのだけど‥‥。
-[Ryouko]: That's hard to explain. Look, it's not as if I care whether\n          there are women in your dreams,
+[Ryouko]: That's hard to explain. Look, it's not as if I care whether\nthere are women in your dreams...
 //［涼子］：その事を退けるようなファクターがあってはならない、ということね。
 /*[Ryouko]: But there is no factor that can sweep these discrepancies away.
 //［宏治］：何のことだか、ちっともわからないんですけど‥‥。
