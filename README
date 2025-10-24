@@ -10,9 +10,11 @@ Advancement :
     would be use the tools at from the Tools repo and follow instructions. 
     
     Prior to using the tools in the url below, use scene-merge.sh to 
-    merge scene_TLs into a single script-japanese-with-translation.txt.
-    That file needs to be copied into translation\_script-japanese.txt 
-    in the Tools repo, which is basically the same file but renamed.
+    merge scene_TLs into a single script-japanese-with-translation.txt,
+    and Formatter.bat to create a _script-japanese.txt file that needs 
+    to be copied into translation\_script-japanese.txt in the Tools repo.
+
+    Then follow instructions in:
 
     https://github.com/OldCorpo/Xenon-PC98-Tools
 
@@ -44,6 +46,7 @@ In the translation, I use the following code :
 The (mostly complete) scene translations are located in the scene_TLs directory.
 They are more or less broken down by scene, but there is some overlap.
 Current second pass TL progress: Start of s0106
+
 
 
 
