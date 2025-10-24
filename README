@@ -15,11 +15,15 @@ Advancement :
     to be copied into translation\_script-japanese.txt in the Tools repo.
 
     Then follow instructions in:
+    
+    https://github.com/XenonTranslation/tools    
 
-    https://github.com/OldCorpo/Xenon-PC98-Tools
+    Unfortunately, after checking there, apparently some of the tools/code 
+    are broken, so the options from here are, either fix the issues or 
+    otherwise HexEdit the .CC game files with a hex tool like wxMEdit, 
+    which unfortunately I don't have the skill to.
 
-    More intermediate tools might be needed.
-	Way to go!
+    Apparently the issue is at the first step, Merge.
 
 
 ==========================
@@ -46,6 +50,7 @@ In the translation, I use the following code :
 The (mostly complete) scene translations are located in the scene_TLs directory.
 They are more or less broken down by scene, but there is some overlap.
 Current second pass TL progress: Start of s0106
+
 
 
 
