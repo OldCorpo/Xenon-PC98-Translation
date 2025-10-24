@@ -10,6 +10,15 @@ And the following to see which line is missing:
 
 grep -n ^$'\r' scene_TLs/*.txt
 
+
+At this point the translated and implemented in-game files are:
+
+S00.CC
+S00B.CC
+S00C.CC
+S0101.CC
+S0102.CC
+
 At this point this is the number of lines missing a translation in each file:
 
 scene_TLs/s0001.txt:0
