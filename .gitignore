@@ -4,4 +4,8 @@
 #temp files from Word
 ~$*
 
+# ignore .bak files
+*.bak
+
 src/_script-japanese.txt
+
