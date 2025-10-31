@@ -1,0 +1,34 @@
+ＸＥＮＯＮ ～夢幻の肢体～
+XENON ~The limbs of phantasmagoria~ : Translation project
+
+==========================
+====== LEGACY NOTES ======
+==========================
+
+In the translation, I use the following code :
+
+ - When a line starts with '/*', it means I am not satisfied with
+ the translation I used and that it needs rephrasing.
+ - Some other things are explained at the beginning of src/Formatter.c
+ (the source code of the formatter)
+ 
+ The file 'translation-notes.rtf' serves as a notepad for me.
+ 
+ The file 'title_screen_tracy's_melancholy_jap.BMP' shows the title screen of the last ending.
+ I don't know how this is stored in the game but, this will have to be translated
+ as :
+	肉奴隷			Sex slave
+	トレイシーの憂鬱	Tracy's melancholy
+
+======
+
+The (mostly complete) scene translations are located in the scene_TLs directory.
+They are more or less broken down by scene, but there is some overlap.
+Current second pass TL progress: Start of s0106
+
+
+
+
+
+
+
