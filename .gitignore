@@ -4,4 +4,14 @@
 #temp files from Word
 ~$*
 
+# ignore .bak files
+*.bak
+
+# ignoring executables at root folder level
+Formatter.exe
+LineCounter.exe
+countlines.bat
+scene-merge.sh
+
 src/_script-japanese.txt
+
