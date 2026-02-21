@@ -26,6 +26,13 @@ The (mostly complete) scene translations are located in the scene_TLs directory.
 They are more or less broken down by scene, but there is some overlap.
 Current second pass TL progress: Start of s0106
 
+======
+
+    - When a line starts with '/*', it means I am not satisfied with
+    the translation I used and that it needs rephrasing.
+    - Some other things are explained at the beginning of src/Formatter.c
+    (the source code of the formatter)
+
 
 
 
