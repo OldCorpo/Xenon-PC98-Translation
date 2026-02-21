@@ -8,27 +8,22 @@ Advancement :
 
 	At this point, translation is basically complete in length, next step 
     would be use the tools at from the Tools repo and follow instructions. 
+
+Usage:
+
+    Use scene-merge.sh to merge scene_TLs into a single 
+	script-japanese-with-translation.txt file.
+
+    Use Formatter.bat to create a _script-japanese.txt file.
+
+	The _script-japanese.txt that needs to be copied into 
+	translation\_script-japanese.txt in the Tools repo.
+   
+    Then follow instructions at:
     
-    Prior to using the tools in the url below, use scene-merge.sh to 
-    merge scene_TLs into a single script-japanese-with-translation.txt,
-    and Formatter.bat to create a _script-japanese.txt file that needs 
-    to be copied into translation\_script-japanese.txt in the Tools repo.
-
-    Then follow instructions in:
-    
-    https://github.com/XenonTranslation/tools    
-
-    Unfortunately, after checking there, apparently some of the tools/code 
-    are broken, so the options from here are, either fix the issues or 
-    otherwise HexEdit the .CC game files with a hex tool like wxMEdit, 
-    which unfortunately I don't have the skill to.
-
-    Apparently the issue is at the first step, Merge.
+    https://github.com/OldCorpo/Xenon-PC98-Tools   
 
     For additional info check the notes folder, notes/legacy_notes.txt
 
-    - When a line starts with '/*', it means I am not satisfied with
-    the translation I used and that it needs rephrasing.
-    - Some other things are explained at the beginning of src/Formatter.c
-    (the source code of the formatter)
+
 
