@@ -29,259 +29,259 @@ s0302b
 //［宏治］：あのね‥‥じゃあ別の聞き方だ。君の、ここでの役割はなに？
 [Kouji]: Umm...well, I'll ask it another way. What role do you play here?
 //［トレイシー］：それは‥‥混乱をされているコウジ様に、状況の説明をして差し上げることですわ。
-[TRACY]: Well...I'm here to explain the situation to you, since you're confused.
+[Tracy]: Well...I'm here to explain the situation to you, since you're confused.
 //［宏治］：さっきと同じじゃないの。
 [Kouji]: Isn't that the same answer you just gave me?
 //［トレイシー］：でも、それが質問の回答として相応しいように思われますが‥‥？
-[TRACY]: But, don't you think it's a suitable answer to the question you posed to me?
+[Tracy]: But, don't you think it's a suitable answer to the question you posed to me?
 //［宏治］：うーん。
 [Kouji]: Mm-mm.
 //［トレイシー］：何をお悩みになっているのですか？　私に出来ることがあれば、遠慮無く言って下さい。
-[TRACY]: What's bothering you? If there's anything I can do to help, please don't hesitate to ask.
+[Tracy]: What's bothering you? If there's anything I can do to help, please don't hesitate to ask.
 //［宏治］：‥‥じゃあ質問を変えよう。
 [Kouji]: ...Well, then, I'll change the question.
 //［宏治］：ここはいったいどこなんだ。
 [Kouji]: Where in the world is this place?
 //［トレイシー］：ここ、とおっしゃられますと、今コウジ様がおられる場所ですか？
-[TRACY]: And by "here", do you mean to say, "the place where Kouji-SAMA is located now"?
+[Tracy]: And by "here", do you mean to say, "the place where Kouji-SAMA is located now"?
 //［トレイシー］：ベッドの上に寝ておられますわ。
-[TRACY]: Well, you're resting on top of the bed.
+[Tracy]: Well, you're resting on top of the bed.
 //［トレイシー］：何かお気に触られる事でも？
-[TRACY]: Has something rubbed you the wrong way?
+[Tracy]: Has something rubbed you the wrong way?
 //［宏治］：いや‥‥オレの聞き方が悪かった。
 [Kouji]: No...I must have asked it the wrong way.
 //［トレイシー］：お心遣い、感謝しますわ。
-[TRACY]: Thank you for understanding.
+[Tracy]: Thank you for understanding.
 //［宏治］：んー‥‥‥。
 [Kouji]: Nnmm...
 //［宏治］：ランファって子だけど、いったいどういう女性？
 [Kouji]: Just what kind of woman is that Ranphar girl?
 //［トレイシー］：どういう女性と言われても‥‥。
-[TRACY]: How should I describe her...
+[Tracy]: How should I describe her...
 //［宏治］：トレイシーが感じる事で構わないよ。
 [Kouji]: I don't care about your personal feelings towards her.
 //［トレイシー］：ちょっとコウジ様に優しくしてもらってるからって、やたらと鼻にかけてる子ですね。
-[TRACY]: She's the kind of girl who, when Kouji-sama is even a little nice towards her, really takes it to heart.
+[Tracy]: She's the kind of girl who, when Kouji-sama is even a little nice towards her, really takes it to heart.
 //［トレイシー］：その他には？
-[TRACY]: Anything else you want to know?
+[Tracy]: Anything else you want to know?
 //［宏治］：彼女は、ここで何をしているの？
 [Kouji]: What exactly does she do here?
 //［トレイシー］：こことおっしゃられますと、《クワドラ》でですか？
-[TRACY]: By "here", do you mean the Kuwadora?
+[Tracy]: By "here", do you mean the Kuwadora?
 //［宏治］：クワドラ？
 [Kouji]: Kuwadora?
 //［トレイシー］：《クワドラ》がなにか？
-[TRACY]: Do you know what the Kuwadora is?
+[Tracy]: Do you know what the Kuwadora is?
 //［宏治］：いやその、話の腰を折って悪かった。続けてくれ。
 [Kouji]: Oh, sorry to interrupt. Please continue.
 //［トレイシー］：彼女は主に機関部の整備やチェック、航行機器類を任されていますわ。
-[TRACY]: She's primarily responsible for the engine department's checks and maintenance, but the navigation equipment is also under her domain.
+[Tracy]: She's primarily responsible for the engine department's checks and maintenance, but the navigation equipment is also under her domain.
 //［宏治］：機関部？　航行機器？
 [Kouji]: You said something about the engine department? And the navigation equipment?
 //［トレイシー］：それが、なにか‥‥？
-[TRACY]: Yes, what about them?
+[Tracy]: Yes, what about them?
 //［宏治］：い、いや‥‥じゃあ君は？
 [Kouji]: Uh, never mind...what about you?
 //［トレイシー］：コウジ様が行う様々なことを、サポートさせて戴くのが、私の役目です。
-[TRACY]: My role is to run Kouji-sama's errands and provide support.
+[Tracy]: My role is to run Kouji-sama's errands and provide support.
 //［宏治］：うーん‥‥。
 [Kouji]: Hmmmm....
 //［宏治］：なぜオレの事を知っているんだい？
 [Kouji]: Why do you know so much about me?
 //［トレイシー］：あの‥‥どういう意味でしょうか？
-[TRACY]: Umm...what do you mean by that?
+[Tracy]: Umm...what do you mean by that?
 //［宏治］：コウジ、コウジって。オレは君たちのことなんて、全然知らないんだぜ。
 [Kouji]: Always with the "Kouji, Kouji". I know nothing about you ladies.
 //［トレイシー］：それは、恐らく記憶が一時的に混乱しているからですわ。
-[TRACY]: That's probably because your memories become fuzzy every hour or so.
+[Tracy]: That's probably because your memories become fuzzy every hour or so.
 //［宏治］：だから、記憶は確かだってば。オレは宏治であって‥‥。
 [Kouji]: I'm telling you, you have to believe that my memories are right. Because I'm Kouji...
 //［トレイシー］：ええ、コウジ様です。
-[TRACY]: Yes, you're Kouji-sama.
+[Tracy]: Yes, you're Kouji-sama.
 //［宏治］：だからぁ‥‥だいたい何さ、さっきからその『コウジ様』ってのは。
 [Kouji]: I keep telling you...to begin with, what's with that "Kouji-sama" from earlier?
 //［トレイシー］：コウジ様は、コウジ様です。それ以外に、お呼びできません。
-[TRACY]: Kouji-sama is Kouji-sama. I can't call you any other way.
+[Tracy]: Kouji-sama is Kouji-sama. I can't call you any other way.
 //［宏治］：んー‥‥。
 [Kouji]: Mmmm--...
 //［宏治］：《クワドラ》とはいったい何なんだい？
 [Kouji]: What is the "Kuwadora", exactly?
 //［トレイシー］：と、おっしゃられますと？
-[TRACY]: Are you asking me?
+[Tracy]: Are you asking me?
 //［宏治］：さっき、その‥‥《クワドラ》がどうとか、そういう話をしただろう？
 [Kouji]: Earlier, you said something about that..."Kuwadora", didn't you?
 //［トレイシー］：ええ、しました。
-[TRACY]: Yes, I did.
+[Tracy]: Yes, I did.
 //［宏治］：じゃあ《クワドラ》とはいったい何か？　という疑問を呈示させてもらおう。
 [Kouji]: Well, you brought up the question in my mind: what exactly is the "Kuwadora"?
 //［トレイシー］：スペックを言えばよろしいのですか？
-[TRACY]: Will it help if I talk about its specs?
+[Tracy]: Will it help if I talk about its specs?
 //［宏治］：‥‥ま、まあそうかな。
 [Kouji]: ...I don't know, but tell me anyway.
 //［トレイシー］：《クワドラ》はカルバドル級軽機動シップを大幅にチューンナップされた、高速機動シップです。
-[TRACY]: The "Kuwadora" is a Calvador-class light mobile ship that's been heavily tuned up into a high-speed mobile ship.
+[Tracy]: The "Kuwadora" is a Calvador-class light mobile ship that's been heavily tuned up into a high-speed mobile ship.
 //［トレイシー］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
-[TRACY]: It is 52 meters long, the engine runs on ethereal photon energy, and the craft is fitted with hyperdrive capabilities...
+[Tracy]: It is 52 meters long, the engine runs on ethereal photon energy, and the craft is fitted with hyperdrive capabilities...
 //［トレイシー］：火器はイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など一発ですわ‥‥あら、私としたことが。ホホホ。
-[TRACY]: The armaments consist of 3 ion cannons and two photon blasters, which would take out a superficial cruiser in one hit...oh my, did I do that? Hohoho.
+[Tracy]: The armaments consist of 3 ion cannons and two photon blasters, which would take out a superficial cruiser in one hit...oh my, did I do that? Hohoho.
 //［宏治］：ええと‥‥。
 [Kouji]: Ummm....
 //［トレイシー］：最大搭乗員数は２０人、でもフルオートのエンジンや航行機能などで、最低３人にまで削減することが可能です。
-[TRACY]: The maximum capacity is 20 persons, but, due to the full-auto engine and self-flight capabilities, it can be run by as few as 3 people.
+[Tracy]: The maximum capacity is 20 persons, but, due to the full-auto engine and self-flight capabilities, it can be run by as few as 3 people.
 //［宏治］：ね、ねぇ‥‥。
 [Kouji]: H-hey...
 //［トレイシー］：その他にも、タキオンを利用したハイパーウェイブ通信機能や‥‥。
-[TRACY]: Besides that, it has tachyon-based hyperdrive communication capabilities and...
+[Tracy]: Besides that, it has tachyon-based hyperdrive communication capabilities and...
 //［宏治］：トレイシー。
 [Kouji]: Tracy.
 //［トレイシー］：はい。なんでしょうか？
-[TRACY]: Yes, what is it?
+[Tracy]: Yes, what is it?
 //［宏治］：その、それって何の冗談？
 [Kouji]: I-is that your idea of a joke?
 //［トレイシー］：冗談？　私、冗談とイカの頭は嫌いですの。コウジ様、知ってらっしゃるはずでしょう？
-[TRACY]: Joke? I have no use for a joke like that. Kouji-sama, do you think you understand?
+[Tracy]: Joke? I have no use for a joke like that. Kouji-sama, do you think you understand?
 //［宏治］：じゃあ何かい、ここはその、《クワドラ》とやらいう宇宙船の中で、もしかして宇宙空間中に浮かんでいるとか？
 [Kouji]: Well, in any case, we're in the middle of the "Kuwadora" space ship, so could it be possible that we're floating through outer space right now?
 //［トレイシー］：もしかしなくても、おっしゃる通りですわ。
-[TRACY]: It's not just a possibility, it's exactly as you say.
+[Tracy]: It's not just a possibility, it's exactly as you say.
 //［宏治］：‥‥質問を変えよう。
 [Kouji]: ...Let's talk about something else.
 //［宏治］：ジェネレータって言っていたけど‥‥。
 [Kouji]: You said something about a generator...
 //［トレイシー］：ジェネレータ‥‥ですか？
-[TRACY]: The generator...?
+[Tracy]: The generator...?
 //［宏治］：そう、さっきから、ちらほら耳にするんだけど。
 [Kouji]: Yes. For a while now, I've been hearing about it here and there.
 //［トレイシー］：あれは、コウジ様が手に入れられた、大宇宙海賊御用達霊子エナジー増幅ジェネレータです。
-[TRACY]: That's your own sweat and blood, the Galactic Pirate Company Reiko energy amplifying generator.
+[Tracy]: That's your own sweat and blood, the Galactic Pirate Company Reiko energy amplifying generator.
 //［宏治］：だ、大宇宙‥‥なんだって？
 [Kouji]: Th-the Galactic...what?
 //［トレイシー］：大宇宙海賊御用達霊子エナジー増幅ジェネレータ、です。
-[TRACY]: The Galactic Pirate Company Reiko energy amplifying generator.
+[Tracy]: The Galactic Pirate Company Reiko energy amplifying generator.
 //［宏治］：なんだよ、そのイカれた名前は。
 [Kouji]: What's with that nutty name?
 //［トレイシー］：コウジ様が自ら、命名されたのではありませんか。
-[TRACY]: Kouji-sama, you named it yourself, didn't you?
+[Tracy]: Kouji-sama, you named it yourself, didn't you?
 //［宏治］：えっ？　お、オレが‥‥？
 [Kouji]: Huh-? I-I did?
 //［トレイシー］：はい、そうですわ。
-[TRACY]: Yes, you did.
+[Tracy]: Yes, you did.
 //［宏治］：‥‥‥‥‥。
 [Kouji]: .........
 //［宏治］：じゃあさ‥‥。
 [Kouji]: Well, then...
 //［トレイシー］：はい。
-[TRACY]: Yes?
+[Tracy]: Yes?
 //［宏治］：その、大宇宙‥‥‥あぁ、どうでもいい、ジェネレータって呼ぶけど、それって一体何なのさ。
 [Kouji]: That, Galactic...augh, whatever, I'll just call it the generator. What exactly is that generator?
 //［トレイシー］：機能の概説を、お求めになられているのでしょうか？
-[TRACY]: Are you asking me to summarize its capabilities?
+[Tracy]: Are you asking me to summarize its capabilities?
 //［宏治］：そ。そのジェネレータの機能の概説とやらを、教えてくれ。
 [Kouji]: Yes. Please give me a summary of that generator's capabilities.
 //［トレイシー］：私も詳しくは知らないのですが、コウジ様がおっしゃるに、何でも大変なシロモノとか。
-[TRACY]: I don't know the specifics, but from Kouji-sama has said, it's a very important appliance.
+[Tracy]: I don't know the specifics, but from Kouji-sama has said, it's a very important appliance.
 //［宏治］：た、大変なシロモノ‥‥それが機能の概説？
 [Kouji]: A-an important appliance...Is that your summary of its capabilities?
 //［トレイシー］：コウジ様が、それしかお教え下さらなかったのではありませんか。
-[TRACY]: Kouji-sama never told me anything else about it.
+[Tracy]: Kouji-sama never told me anything else about it.
 //［宏治］：そ、そうだっけ？
 [Kouji]: Th-that's it, then?
 //［トレイシー］：そうですわ。
-[TRACY]: Yes, that's all I can say.
+[Tracy]: Yes, that's all I can say.
 //［宏治］：んー、じゃあオレはそれを、どうやって使用していた？
 [Kouji]: Mmm, well, how did I use that?
 //［トレイシー］：ファルネリア様を触媒になさって、それを利用して霊子エナジーを解放するとか、おっしゃっていました。
-[TRACY]: You've stated that with Farnelia-sama acting as a medium, you used it to release your Reiko energy.
+[Tracy]: You've stated that with Farnelia-sama acting as a medium, you used it to release your Reiko energy.
 //［宏治］：ファルネリア‥‥？
 [Kouji]: Farnelia...?
 //［トレイシー］：触媒の女性です。
-[TRACY]: Yes, the woman medium.
+[Tracy]: Yes, the woman medium.
 //［宏治］：ファルネリアって、いったい誰のことさ。
 [Kouji]: Who exactly is Farnelia?
 //［トレイシー］：ジェネレータを利用するための、触媒の女性です。
-[TRACY]: She's the woman medium you use for the generator.
+[Tracy]: She's the woman medium you use for the generator.
 //［宏治］：触媒の女性って？
 [Kouji]: And what do you mean by a woman medium?
 //［トレイシー］：詳しくは存じません。
-[TRACY]: I don't know the details.
+[Tracy]: I don't know the details.
 //［宏治］：あっ、もしかして変なカプセルの中にいた、赤毛の女の子？
 [Kouji]: Ah-, could it be that she was the red-haired girl in the strange capsule?
 //［トレイシー］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
-[TRACY]: Yes, that was her. That capsule itself was part of the Galactic Pirate...
+[Tracy]: Yes, that was her. That capsule itself was part of the Galactic Pirate...
 //［宏治］：それはもういいよ。でも、その大宇宙海賊ってのは、いったい何のことさ。
 [Kouji]: I get it, you can stop right there. But then, what on earth is that Galactic Pirate thing?
 //［トレイシー］：コウジ様の事ですわ。
-[TRACY]: It's your own business.
+[Tracy]: It's your own business.
 //［宏治］：お、オレ？
 [Kouji]: M-mine?
 //［宏治］：‥‥冗談だろ？
 [Kouji]: ...You're kidding, right?
 //［トレイシー］：そんな、恐れ多い。
-[TRACY]: Joking would be disrespectful to you.
+[Tracy]: Joking would be disrespectful to you.
 //［宏治］：本当なの？
 [Kouji]: So you really mean it?
 //［トレイシー］：もちろんですわ。
-[TRACY]: Of course I do.
+[Tracy]: Of course I do.
 //［宏治］：わははは。
 [Kouji]: Wahahaha.
 //［トレイシー］：こ、コウジ様？
-[TRACY]: K-Kouji-sama?
+[Tracy]: K-Kouji-sama?
 //［宏治］：涼子先生だな、その手は喰わないぜ。わははは。
 [Kouji]: Doctor Ryouko, is that you, please stop biting my hand, wahahaha.
 //［トレイシー］：コウジ様、お気を確かに‥‥‥。
-[TRACY]: Kouji-sama, please stay calm...
+[Tracy]: Kouji-sama, please stay calm...
 //［宏治］：おーい、涼子せんせー！　その辺に隠れてるんだろ！？
 [Kouji]: Heeey, Doctor Ryoukooo! Are you hiding around there?!
 //［トレイシー］：こ、コウジ様、ゴミ箱をあさって一体何を‥‥。
-[TRACY]: K-Kouji-sama, why on earth are you flipping that wastebasket...?
+[Tracy]: K-Kouji-sama, why on earth are you flipping that wastebasket...?
 //［宏治］：出てこいよぉ、涼子先生！
 [Kouji]: Come out, Doctor Ryouko!
 //［トレイシー］：ど、どうしましょう‥‥コウジ様がとうとう‥‥。
-[TRACY]: Wh-what is happening...Kouji-sama, you're 
+[Tracy]: Wh-what is happening...Kouji-sama, you're 
 //［宏治］：とうとうって何だよ、とうとうって。失礼な。
 [Kouji]: ""? What do you mean, ""? Sorry.
 //［トレイシー］：で、ですが‥‥‥。
-[TRACY]: B-but...
+[Tracy]: B-but...
 //［宏治］：君も君だよ。涼子先生に言われて、オレを騙そうとしたって、そうは問屋が‥‥。
 [Kouji]: You are you. Doctor Ryouko told me that I'd be tricked into being in such a room...
 //［トレイシー］：あら、呼び出しだわ。誰かしら？
-[TRACY]: Hey, you called out a name. Who is that?
+[Tracy]: Hey, you called out a name. Who is that?
 //［ランファ］：トレイシー、まだそこにいるの？
 [RANPHAR]: Tracy, you're still here?
 //［トレイシー］：ランファ、何があったのです？
-[TRACY]: Ranphar, has something happened?
+[Tracy]: Ranphar, has something happened?
 //［ランファ］：もうプリプリよぉ。コウジ様のおそばに、そんなに長く‥‥。
 [RANPHAR]: I'm frustrated already. When I'm away from Kouji-sama for that long...
 //［トレイシー］：人それぞれに、役割というものがあるのです。それより用はなんですか？
-[TRACY]: We each have our own roles. What do you want beyond that?
+[Tracy]: We each have our own roles. What do you want beyond that?
 //［ランファ］：ファルネリア様が、お目覚めになって‥‥。
 [RANPHAR]: Farnelia-sama has awoken...
 //［トレイシー］：それで、どうしたのです？
-[TRACY]: And what about it?
+[Tracy]: And what about it?
 //［ランファ］：暴れ出しちゃって、手に負えなくなっちゃったの‥‥。
 [RANPHAR]: She exploded in a rage, and she's become too much for me to handle...
 //［トレイシー］：何とかなさい。あなたの役目でしょう？
-[TRACY]: Please, manage her somehow. It's your duty, isn't it?
+[Tracy]: Please, manage her somehow. It's your duty, isn't it?
 //［ランファ］：そんなぁ、看護はむしろトレイシーの役目じゃない。私はぜんぜんダメよぉ。
-[RANPHAR]: Oh, come on, TRACY, your role isn't a nurse. I can't do it at all.
+[RANPHAR]: Oh, come on, Tracy, your role isn't a nurse. I can't do it at all.
 //［トレイシー］：しょうがないわね、じゃあファルネリア様の部屋は？
-[TRACY]: Fine, then. Well, where is Farnelia's room?
+[Tracy]: Fine, then. Well, where is Farnelia's room?
 //［ランファ］：ＶＩＰルーム。
 [RANPHAR]: It's the VIP room.
 //［トレイシー］：わかったわ、今からいきます。
-[TRACY]: Got it. I'll go immediately.
+[Tracy]: Got it. I'll go immediately.
 //［ランファ］：早くしてね。あっ、コウジ様ぁ。
 [RANPHAR]: Please hurry. Ah-, Kouji-sama.
 //［ランファ］：ランファ、コウジ様が記憶を無くされても、ずっと愛して‥‥。
 [RANPHAR]: Ranphar has always loved Kouji-sama, even when his memories aren't there...
 //［トレイシー］：さて、雑音は消してと。
-[TRACY]: There, that racket has gone down.
+[Tracy]: There, that racket has gone down.
 //［トレイシー］：何かありましたら、ベッド傍らのコンパネを利用して下さい。
-[TRACY]: If anything comes up, please use the control panel next to the bed.
+[Tracy]: If anything comes up, please use the control panel next to the bed.
 //［宏治］：あ、あぁ‥‥。
 [Kouji]: Ah, umm...
 //［トレイシー］：それでは、ごゆっくりお休み下さい‥‥。
-[TRACY]: Now, then, please have a pleasant rest....
+[Tracy]: Now, then, please have a pleasant rest....
 //トレイシーという女性がいなくなると、あたりは途端に静寂が訪れた。
 The woman named Tracy disappeared, and the room was suddenly silent.
 //オレは手を頭の後ろにまわすと、ベッドの上に仰向けに倒れ込む。
@@ -347,11 +347,11 @@ Just as I thought of tearing off the sheets and fleeing this harsh reality...
 //［女］：ちょっと、早くここから出しなさい！
 [Woman]: Hold it, come out from there already!
 //［トレイシー］：困ります、お願いです。
-[TRACY]: Please, he's struggling right now.
+[Tracy]: Please, he's struggling right now.
 //［女］：私は、権力と暴力には、絶対に屈しませんからねっ！
 [Woman]: I absolutely won't bend to such power and strength!
 //［トレイシー］：ファルネリア様、少しお静かに‥‥。
-[TRACY]: Farnelia-sama, please be quiet...
+[Tracy]: Farnelia-sama, please be quiet...
 //ファルネリア？
 Farnelia?
 //というと、ジェネレータとやらの触媒とかいう女性か‥‥確か、赤毛の‥‥。

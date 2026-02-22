@@ -15,11 +15,11 @@ As I look more closely, there is a ladder. It seems to be going down. I heard th
 //オレは手すりにつかまりながら、慎重に階段を下りていった。
 Gripping the handrail, I carefully descended the ladder.
 //［トレイシー］：あら、コウジ様、いかがなさいました？　ご用なら、お呼びして下されば‥‥。
-[TRACY]: Ara, Kouji-sama, what has happened? If you needed me, you could have called me....
+[Tracy]: Ara, Kouji-sama, what has happened? If you needed me, you could have called me....
 //［宏治］：トレイシーじゃないか。
 [Kouji]: Well, if it isn't Tracy.
 //［トレイシー］：ご気分は良くなられましたか？
-[TRACY]: Have you gotten better?
+[Tracy]: Have you gotten better?
 //にっこりと微笑むトレイシーよりも、オレはその背後に見える、仰々しい機器類に目を奪われてしまった。
 Leaving aside the sweetly smiling Tracy, as I looked behind her, a bombastically colored machine caught my attention.
 //ディスプレイには何かの記号が網羅され、あちこちのランプは忙しく点滅を繰り返し、コンパネからは断続的に電子音が流れ出て、重々しい稼働音が部屋内にこだましている。
@@ -31,19 +31,19 @@ But what surprised me most was the view outside the window in front of me. I loo
 //［宏治］：星が見える‥‥。
 [Kouji]: I see the stars....
 //［トレイシー］：ええ、いちおう窓は毎日拭いていますから、いつも綺麗に‥‥。
-[TRACY]: Yes, this window gets cleaned once a day, so it's always clear....
+[Tracy]: Yes, this window gets cleaned once a day, so it's always clear....
 //［宏治］：違う、そういうことじゃない。
 [Kouji]: No, I'm not talking about that.
 //［トレイシー］：あの‥‥コウジ様？
-[TRACY]: Umm...Kouji-sama?
+[Tracy]: Umm...Kouji-sama?
 //［宏治］：お、オレは認めないぞ。何かのトリックに決まっている。
 [Kouji]: I-I don't believe it. There must be some sort of trick.
 //［トレイシー］：何が、でしょうか。
-[TRACY]: Is something wrong?
+[Tracy]: Is something wrong?
 //［宏治］：夢だ、これは夢なんだ。確か涼子先生、ドリームプログラムとか何とか、言っていたじゃないか。
 [Kouji]: This is a dream, this *has* to be a dream. Ryouko-sensei definitely said something about a dream-program-something.
 //［トレイシー］：ど、どうなさったのですか？
-[TRACY]: Wh-what has happened to you?
+[Tracy]: Wh-what has happened to you?
 //［宏治］：夢に違いない。そうだ、コレは夢だ。その証拠に、見ろっ！
 [Kouji]: There's no doubt this is a dream. That's right, this is a dream. See, here is the proof!
 //わははと笑いながら、オレは自分のコブシを、手近の、やたらと堅そうな黒光りする壁に、思いきり叩きつけた。夢ならば痛くない‥‥。
@@ -51,11 +51,11 @@ As I laughed openly, I punched my fist indiscriminately into the black shining w
 //ゴーーーんッ！！
 *BOOOOONG*!!
 //［トレイシー］：きゃっ！　こ、コウジ様、大丈夫ですか！？
-[TRACY]: Kya-! K-Kouji-sama, are you all right?!
+[Tracy]: Kya-! K-Kouji-sama, are you all right?!
 //頬を伝う涙の感触を感じながら、オレはコブシを抱えてうずくまった。痛いぞ、これは‥‥無茶苦茶、痛い。
 As I felt the tears streaming down my face, I covered my throbbing fist. It hurts, this is...really quite painful.
 //［トレイシー］：こ、コウジ様‥‥大変だわ、ちょっとお待ちになって下さいね。あっ、怪我した方の手に、触らないようお願いします！
-[TRACY]: K-Kouji-sama...this is bad, please wait right there. Ah-, please don't touch your hurt hand!
+[Tracy]: K-Kouji-sama...this is bad, please wait right there. Ah-, please don't touch your hurt hand!
 //トレイシーが部屋の隅にある戸棚を開けて、何かをゴソゴソと捜している間、オレは真っ赤に腫れ上がったコブシをさすりながら、ボーっと窓の外を見ていた。
 Tracy opened a cabinet in the corner of the room. As she rustled about searching for something, I rubbed my red swollen fist as I looked out the window.
 //痛い‥‥‥‥。
@@ -69,11 +69,11 @@ No, that would be too unscientific. It has to be a dream. That's right, I'm righ
 //白い箱を抱えて、慌てて駆け寄ってくるトレイシーが視界に入った。彼女も、やっぱり夢の中の人物なのかな‥‥。
 As she carried a white box, a hurried, running Tracy entered my field of vision. So she's a character in my dream, huh...
 //［トレイシー］：さぁ、コウジ様、手をお出しになって下さい。
-[TRACY]: Now, Kouji-sama, please stretch out your hand.
+[Tracy]: Now, Kouji-sama, please stretch out your hand.
 //［宏治］：えっ？　あぁ‥‥。
 [Kouji]: Eh-? Ah....
 //［トレイシー］：ちょっと痛いかもしれませんが、我慢して下さいね。
-[TRACY]: This might hurt a little, but please endure.
+[Tracy]: This might hurt a little, but please endure.
 //［宏治］：えっ‥‥<$0C>んぎゃぉう！！
 [Kouji]: Eh-...ngYOWww!!
 //どこかに得体の知れない猛獣がいるのではと一瞬疑ったが、何のことはない、自分の声だった。
@@ -81,21 +81,21 @@ For an instant, I thought there was some unknown wild beast somewhere that made 
 //トレイシーはオレのコブシ部分をさすっている。骨折の有無でも、確かめているのだろうか。何とも乱暴だと思うが‥‥。
 Tracy wrapped up my fist. She seemed to be checking whether there were any broken bones. I had acted rather violently, but...
 //［トレイシー］：大丈夫です、軽い打撲ですね。よかったですわ‥‥軽くシップしておけば、すぐに良くなります。
-[TRACY]: You're OK, it was only a light blow. How lucky you are...if you place a soft wet cloth on it, it should heal quickly.
+[Tracy]: You're OK, it was only a light blow. How lucky you are...if you place a soft wet cloth on it, it should heal quickly.
 //デレっとした顔をしているに違いないと思った。誰だって、美人に優しく手を握られてニコっと微笑まれたら、今のオレのようになるだろう。
 I must have had on quite an affectionate expression. In my position, having my hand held so gently by a beautiful woman as she smiled sweetly, anyone else would have done the same.
 //［トレイシー］：あの‥‥どうかなさいましたか？
-[TRACY]: Um...what's come over you?
+[Tracy]: Um...what's come over you?
 //［宏治］：い、いや‥‥その、ありがとう、トレイシー。
 [Kouji]: Oh, it's nothing...just, thank you, Tracy.
 //［トレイシー］：そ、そんな‥‥ありがとうだなんて‥‥。
-[TRACY]: T-there's...no need for a "thank you"...
+[Tracy]: T-there's...no need for a "thank you"...
 //トレイシーは、頬を赤く染めて俯きながらモジモジと肩を横に動かしている。それに同期して、量感溢れるバストがユサユサと揺れるのはさすがだった。
 As Tracy blushed bright red, she squirmed about. At the same time, naturally, her overflowing bust swayed heavily.
 //単に礼を言っただけなのだが、彼女の挙動は、いちいち意味がよくわからない。
 It was only an expression of gratitude, but her conduct suggested things I didn't understand.
 //［トレイシー］：私の顔に、何か付いています？
-[TRACY]: Is there something on my face?
+[Tracy]: Is there something on my face?
 //［宏治］：い、いや‥‥その‥‥。
 [Kouji]: Um, no...but...
 //［宏治］：（何か、話題、話題と‥‥。）
@@ -109,49 +109,49 @@ It was only an expression of gratitude, but her conduct suggested things I didn'
 //［宏治］：そ、そうだトレイシー。ファルネリアとかいう女性は、どうなったんだい？
 [Kouji]: Oh yeah, Tracy. What's happened to that Farnelia woman?
 //［トレイシー］：自室におられますが‥‥それが、なにか？
-[TRACY]: She returned to her room...what about it?
+[Tracy]: She returned to her room...what about it?
 //［宏治］：自室って？
 [Kouji]: What is her room like?
 //［トレイシー］：ＶＩＰルームです。大切な賓客をお招きしたとき、コウジ様がいつもお使いになるお部屋ですわ。
-[TRACY]: It's a VIP room. Whenever we have esteemed guests of honor over, Kouji-sama always ends up using that room.
+[Tracy]: It's a VIP room. Whenever we have esteemed guests of honor over, Kouji-sama always ends up using that room.
 //［宏治］：ふーん‥‥。
 [Kouji]: Hmmmm....
 //［宏治］：（賓客ねぇ‥‥大切なお客様なのかな‥‥。）
 [Kouji]: (Guests of honor, huh...probably some big shot guests...)
 //［トレイシー］：コウジ様のお部屋から、比較的近いはずですわ。
-[TRACY]: Because it's Kouji-sama's room, it should be quite close by.
+[Tracy]: Because it's Kouji-sama's room, it should be quite close by.
 //［宏治］：（後で行ってみるのも、手だな‥‥。）
 [Kouji]: (I gotta find my way over there afterward...)
 //［宏治］：ランファは、いまどこにいるのかな‥‥。
 [Kouji]: Where could Ranphar be...?
 //［トレイシー］：ランファ‥‥何故でしょうか？
-[TRACY]: Ranphar...why would you need to know that?
+[Tracy]: Ranphar...why would you need to know that?
 //トレイシーの表情が、やや翳る。
 Tracy's expression darkened a bit.
 //［宏治］：ほら、君らのことを把握しておくのは、多分オレの役目みたいだし‥‥。
 [Kouji]: Look, you two seem to have a firm grasp on most of my duties....
 //［トレイシー］：ウフフ、そうですわね。
-[TRACY]: Uhuhu, that's certainly true.
+[Tracy]: Uhuhu, that's certainly true.
 //トレイシーの表情から険が取れて、いくぶん和やかになる。んー、何だかこの辺は複雑そうだ。
 Tracy's expression lost its edge and slightly eased up. Agh, navigating this topic will be complicated.
 //［トレイシー］：彼女はこのブリッジか、エンジンルーム、あるいは格納庫に行けば大抵いると思います。
-[TRACY]: I think she's probably on the bridge, in the engine room, or in some hangar around here.
+[Tracy]: I think she's probably on the bridge, in the engine room, or in some hangar around here.
 //［宏治］：ふーん、メカのあるところに彼女ありって感じだね。
 [Kouji]: Hmmm, so wherever there's some machinery around, she's probably there?
 //［トレイシー］：フフ、そうですわね。
-[TRACY]: Huhu, that's just right.
+[Tracy]: Huhu, that's just right.
 //［宏治］：んじゃ、そういうことで。
 [Kouji]: Mm, well, let's wrap this up.
 //［トレイシー］：あら、もう行ってしまわれるのですか？
-[TRACY]: Ara, do you have to get going already?
+[Tracy]: Ara, do you have to get going already?
 //［宏治］：とりあえず、色々と見てみたいんでね。
 [Kouji]: In any case, I have a few things to check up on.
 //［トレイシー］：ここはコウジ様のシップです。遠慮なさらずに、存分に見て下さい。
-[TRACY]: This is Kouji-sama's ship. Don't be so reserved, look around as much as you like.
+[Tracy]: This is Kouji-sama's ship. Don't be so reserved, look around as much as you like.
 //［宏治］：存分に、ねぇ‥‥。
 [Kouji]: As much as I like, huh...
 //［トレイシー］：えぇ、何かあれば、遠慮無く呼んで下さい。
-[TRACY]: Yes, if there is anything, don't hesitate to call for me, please.
+[Tracy]: Yes, if there is anything, don't hesitate to call for me, please.
 //［宏治］：うん、そうさせてもらうよ‥‥。
 [Kouji]: All right, I'll leave that to you....
 //［宏治］：さて、どうしたものかな‥‥。
@@ -411,11 +411,11 @@ As my hands gripped the cold metal, rung by rung, I carefully climbed down the l
 //［ランファ］：言うなれば、ランファとコウジ様の、愛の結晶と言えるかもしれませんね。
 [RANPHAR]: You could say it's the fruit of Ranphar and Kouji-sama's love.
 //［トレイシー］：何が愛の結晶ですか！
-[TRACY]: What's the fruit of love here?!
+[Tracy]: What's the fruit of love here?!
 //［ランファ］：‥‥‥あっ、回線がオンになってるぅ。トレイシー、盗み聞きするなんて、フェアじゃないわっ！
 [RANPHAR]: ...Ah, the circuit's on again. Tracy, it's not fair to eavesdrop like that!
 //［トレイシー］：不可抗力は盗み聞きとは申しません。それよりも、人のいないところで散々‥‥。
-[TRACY]: I'm sorry, but I couldn't help but eavesdrop. Besides, with absolutely no one around...
+[Tracy]: I'm sorry, but I couldn't help but eavesdrop. Besides, with absolutely no one around...
 //［ランファ］：さて、雑音は消しちゃってと。
 [RANPHAR]: There, that interference is gone.
 //［ランファ］：コウジ様、どうしました？
@@ -629,7 +629,7 @@ Wh-what...
 //［ランファ］：はい！　まっかせて下さいっ！
 [RANPHAR]: Yes! Leave it to me!
 //［トレイシー］：あの、私の方が理路整然と説明できると思いますが‥‥。
-[TRACY]: Um, I'd like it if you could explain this in a logically sound way...
+[Tracy]: Um, I'd like it if you could explain this in a logically sound way...
 //\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼<$04><$32><$05>
 VIP ROOM
 //重厚なプレートに、ＶＩＰルームと書かれた部屋の前にオレはたった。
@@ -1043,31 +1043,31 @@ fa02_m
 //［宏治］：確か、こうして‥‥このボタンを押すんだったな。
 [Kouji]: If I remember correctly, I do this...I push this button.
 //［トレイシー］：コウジ様、こちらでしたか。
-[TRACY]: Oh, Kouji-sama, you were here all along?
+[Tracy]: Oh, Kouji-sama, you were here all along?
 //［宏治］：トレイシーじゃないか、どうしたのさ？
 [Kouji]: Well, if it isn't Tracy, what's going on?
 //［トレイシー］：はい、本船の進路上にＧ２型大型シップを確認しましたが、いかがなさいますか？
-[TRACY]: Well, we confirmed the presence of a type G2 carrier ship in the path of our vessel. What should we do?
+[Tracy]: Well, we confirmed the presence of a type G2 carrier ship in the path of our vessel. What should we do?
 //［宏治］：Ｇ２型って言われても‥‥どのくらいの大きさなんだい？
 [Kouji]: Even if you tell me it's a type G2...how big is it?
 //［トレイシー］：概算で、本《クワドラ》の、約７倍強というところです。
-[TRACY]: Roughly speaking, it's about 7 times the size of this Kuwadora ship.
+[Tracy]: Roughly speaking, it's about 7 times the size of this Kuwadora ship.
 //［宏治］：ずいぶん大きなやつだなぁ。旅客機か何かなんじゃないの？
 [Kouji]: It's quite large, then, isn't it? Is it some kind of passenger ship?
 //［トレイシー］：いえ、この宙域は旅客路線から大きく外れています。
-[TRACY]: No, this sector of space is far removed from the passenger line.
+[Tracy]: No, this sector of space is far removed from the passenger line.
 //［宏治］：ふーん、なんだろう。
 [Kouji]: Hmm, what could it be?
 //［トレイシー］：現状では、何とも申し上げられません。
-[TRACY]: I'm terribly sorry about this situation.
+[Tracy]: I'm terribly sorry about this situation.
 //［宏治］：こういう時の対処マニュアルみたいのって、ないの？
 [Kouji]: Isn't there some sort of manual on how to deal with times like these?
 //［トレイシー］：マニュアルとおっしゃられましても‥‥。
-[TRACY]: You've never spoken to me about a manual...
+[Tracy]: You've never spoken to me about a manual...
 //［宏治］：じゃあ、いつもコウジが‥‥オレがやっていた対処法は？
 [Kouji]: Well, how does Kouji...how do I deal with situations like these?
 //［トレイシー］：あっ、はい‥‥とりあえず移動型の索敵ブイを放出して、相手の正体を確認するのが当面の対処法になると思います。
-[TRACY]: Ah-, yes...for now, sending out a mobile search buoy to confirm the other party's identity would be an appropriate move.
+[Tracy]: Ah-, yes...for now, sending out a mobile search buoy to confirm the other party's identity would be an appropriate move.
 //［宏治］：うん、じゃあそれでいこう。
 [Kouji]: All right, then let's do that.
 //［宏治］：なんかこう、緊迫感がないよなぁ。気にはなるけど‥‥。

@@ -25,13 +25,13 @@ ra&to03b
 //ra&to03c
 ra&to03c
 //［トレイシー］：コウジ様、お気をつけ下さい。
-[TRACY]: Kouji-sama, please be careful.
+[Tracy]: Kouji-sama, please be careful.
 //［ランファ］：コウジ様ぁ、ランファの為に、きっと帰ってきて下さぁい。
 [LANHUA]: Kouji-samaa, for my sake, please definitely come baack.
 //［コウジ］：うむ、このジェネレータは私が大幅に改良したものだからな。理論上は完璧だ。
 [Kouji]: Indeed, I made a great improvement to this generator. It's theoretically complete.
 //［トレイシー］：はい、そう信じています。
-[TRACY]: Yes, I believe so.
+[Tracy]: Yes, I believe so.
 //［ランファ］：私も‥‥私もですぅ。
 [LANHUA]: I...I think so, too.
 //私は、あまり上等とは言えないクッションの上に仰向けになりながら、２人の心配そうな顔を交互に見た。
@@ -51,7 +51,7 @@ The twenty or thirty thousand synapses in her brain are frequently burned out, s
 //［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。
 [LANHUA]: Yes, the numerical data you spoke of has already been input.
 //［トレイシー］：後は、ファルネリアさんのシンクロを待つだけですわ。
-[TRACY]: All we have to do now is wait for Farnelia's synchronization.
+[Tracy]: All we have to do now is wait for Farnelia's synchronization.
 //［コウジ］：うむ。
 [Kouji]: Indeed.
 //私はうなずきながら、隣の装置に入っている女性を横目で見た。
@@ -75,11 +75,11 @@ However, ethereal flight requires a strong telepathic medium. That's why I pilfe
 //屈強の大宇宙海賊でかつ大天才である私が、改良をくわえたジェネレータだ。万が一にも失敗は無い‥‥はずだ。
 Being a brawny galactic pirate and a gifted, talented genius, I improved upon the generator. There's next to no chance of failure...probably.
 //［トレイシー］：コウジ様、いかがなされましたか？
-[TRACY]: Kouji-sama, have you finished?
+[Tracy]: Kouji-sama, have you finished?
 //［コウジ］：うむ、武者震いというやつだろう。少しゾクゾクする。
 [Kouji]: Indeed, I'm shaking with excitement, even throbbing a bit.
 //［トレイシー］：頼もしい限りですわ。
-[TRACY]: You can depend on us.
+[Tracy]: You can depend on us.
 //［ランファ］：がんばって下さいね、コウジ様ぁ。
 [LANHUA]: Please give it your all, Kouji-samaa.
 //［コウジ］：では、行ってくることにしよう。

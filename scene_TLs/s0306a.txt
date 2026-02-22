@@ -11,7 +11,7 @@ s0306a
 //［ランファ］：はい、なんですか？
 [RANPHAR]: Yes, is something the matter?
 //［トレイシー］：ランファ、ちゃんとコウジ様の面倒を看てあげるのですよ。
-[TRACY]: Ranphar, please take care of Kouji-sama's matters.
+[Tracy]: Ranphar, please take care of Kouji-sama's matters.
 //［ランファ］：わかってるわよぉ、もう、早く行って。
 [RANPHAR]: Understood~. Just go already.
 //［ランファ］：トレイシーったら、いつまでたってもランファのことを子供扱いなんだからぁ。

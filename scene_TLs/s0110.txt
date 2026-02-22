@@ -499,15 +499,15 @@ Far shot me a dubious look. To someone at gunpoint, "don't push yourself" must b
 //ファルはしばらく私の事を見つめていたが、きびすをかえすと格納庫のドアを開けて入っていった。
 Far stared at me for a while, but she turned her heels, opened the door to the hangar, and entered it.
 //［トレイシー］：あら、お２人でどうなさったんですか？
-[TRACY]: Ara, what's going on with you two?
+[Tracy]: Ara, what's going on with you two?
 //［ファル］：トレイシー‥‥シャトルの発進準備をして頂戴。
 [FAR]: Tracy...Please prepare the shuttle for liftoff.
 //［トレイシー］：あらあら‥‥２人で、ですの？
-[TRACY]: Ara ara...for two people, right?
+[Tracy]: Ara ara...for two people, right?
 //［ファル］：トレイシー、お願い、黙って用意をして頂戴‥‥。
 [FAR]: Tracy, please, shut up and get it ready...
 //［トレイシー］：フフ、野暮は聞きっこなしですね。
-[TRACY]: Hehe, I won't pry any further.
+[Tracy]: Hehe, I won't pry any further.
 //［ファル］：どうするの？　私は‥‥。
 [FAR]: What's going on? I was....
 //［コウジ］：操縦をしてもらう。惑星へ降りるまでね。

@@ -689,15 +689,15 @@ Squeeze.
 //［宏治］：内線の呼び出しか‥‥誰だろう‥‥。
 [Kouji]: Someone's calling from the phone extension...who could it be...?
 //［トレイシー］：コウジ様、お取り込み中申し訳ございません。
-[TRACY]: Kouji-sama, I'm terribly sorry for the disorder...
+[Tracy]: Kouji-sama, I'm terribly sorry for the disorder...
 //［ファル］：きゃっ、私、まだ裸よ‥‥。
 [FAR]: Kya-, I'm still naked...
 //［トレイシー］：申し訳ございません。しかし‥‥。
-[TRACY]: I'm so very sorry. But...
+[Tracy]: I'm so very sorry. But...
 //［宏治］：いいぜ、どうした？
 [Kouji]: It's fine, what's going on?
 //［トレイシー］：あっ、はい‥‥さきほど、《クワドラ》の航路上にいた大型シップからの威嚇砲撃です。
-[TRACY]: Ah, yes...just earlier, in the middle of the route, the [Kuwadora] was hit by a warning missile from a large-scale ship.
+[Tracy]: Ah, yes...just earlier, in the middle of the route, the [Kuwadora] was hit by a warning missile from a large-scale ship.
 //［宏治］：威嚇砲撃ぃ？
 [Kouji]: A warning missile? 
 //［ファル］：どうしたのよ、コウジ‥‥。
@@ -705,21 +705,21 @@ Squeeze.
 //［宏治］：わからんよ、全く状況が見えない。
 [Kouji]: I don't know, I haven't gotten a grasp on the situation.
 //［トレイシー］：いかがなさいますか？
-[TRACY]: What should I do?
+[Tracy]: What should I do?
 //［宏治］：んー、そのＧ２型宇宙船は、いまどこだよ。
 [Kouji]: Mm, where is that G2-class galactic cruiser?
 //［トレイシー］：我々の、すぐ上です。
-[TRACY]: It's directly above us.
+[Tracy]: It's directly above us.
 //ガガーーーンッッ！！！<$04><$30><$05>
 *KABOOOM*!!!
 //［宏治］：なんだ、どうした！？　また砲撃か！？
 [Kouji]: What the hell?! Was that another missile?!
 //［トレイシー］：接舷されました。
-[TRACY]: It's docking by us now.
+[Tracy]: It's docking by us now.
 //［宏治］：せ、接舷！？　何のために。
 [Kouji]: It's docking?! Why?
 //［トレイシー］：恐らくこちらへ乗り込み、白兵戦を行うものと予想されます。
-[TRACY]: They probably plan to board us and engage in close combat.
+[Tracy]: They probably plan to board us and engage in close combat.
 //［宏治］：は、白兵！？
 [Kouji]: C-close combat?
 //ピュイィィ～～～～。<$04><$32><$05>
@@ -727,7 +727,7 @@ Twiiiiii...<$04><$32><$05>
 //［ファル］：きゃぁ、なに、どうしたの！？
 [FAR]: Kya-, what the hell is going on?!
 //［トレイシー］：何者かが、艦内放送を乗っ取りました。
-[TRACY]: Someone is hijacking the intercoms.
+[Tracy]: Someone is hijacking the intercoms.
 //［宏治］：なんだって！？
 [Kouji]: WH-WHAT?!
 //［女の声］：『憶病にして脆弱な、宇宙海賊を名乗るコウジに告ぐ‥‥。』
@@ -753,13 +753,13 @@ Twiiiiii...<$04><$32><$05>
 //［宏治］：な、何の音だ！？
 [Kouji]: Wh-what the hell was that noise?!
 //［トレイシー］：侵入されました！　コウジ様！！
-[TRACY]: We've been breached! Kouji-sama!!
+[Tracy]: We've been breached! Kouji-sama!!
 //［宏治］：侵入！？
 [Kouji]: BREACHED?
 //［宏治］：いかがって‥‥とにかく様子を見に行ってみる。トレイシーも、敵に備えるんだ。
 [Kouji]: What to do...in any case, I need to meet with her. Tracy, come with me, too.
 //［トレイシー］：はい、お気をつけて！
-[TRACY]: Yes, be careful!
+[Tracy]: Yes, be careful!
 //［宏治］：どうやら、ちょっとヤバそうだ。オレは様子を見に行く。
 [Kouji]: This is gonna be rough. I'm going to meet her.
 //［ファル］：私も‥‥。

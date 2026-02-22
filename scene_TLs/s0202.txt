@@ -61,17 +61,17 @@ No, this was not something spoken to me. It was directly in my brain...?
 //聞き覚えがある‥‥そうだ、あれは‥‥‥‥。
 It feels familiar...that's right, it's...
 //［トレイシー］：まだ、記憶が混乱しているのですか？
-[TRACY]: Are your memories still messed up?
+[Tracy]: Are your memories still messed up?
 //トレイシー？　なぜ、彼女が‥‥。
 Tracy? Why is she....
 //［男］：記憶は混乱はしていない。状況に混乱しているんだ。
 [Man]: My memories are not messed up. It's the situation that's messed up.
 //［トレイシー］：ジェネレータの副作用なのかしら‥‥。
-[TRACY]: It might be side effects of the generator...
+[Tracy]: It might be side effects of the generator...
 //［男］：ジェネレータ‥‥？
 [Man]: Generator...?
 //［トレイシー］：大丈夫ですか、コウジ様。
-[TRACY]: It's ok, Kouji-sama.
+[Tracy]: It's ok, Kouji-sama.
 //さっきから話している、この雄々しい声‥‥私の？
 The manly voice I heard earlier...was that mine?
 //いや、違う。私ではない‥‥。
@@ -81,7 +81,7 @@ No, it can't be. It's not mine...
 //［男］：君って、どういう人なの？
 [Man]: Who are you, exactly?
 //［トレイシー］：質問の意味が、よくわからないのですが‥‥。
-[TRACY]: I don't understand the meaning of your question...
+[Tracy]: I don't understand the meaning of your question...
 //トレイシーは、少なくとも私に対して話しかけている。だが、この受け答えをしているのは誰なのだ‥‥。
 At least Tracy was talking to me. However, who's the one responding...?
 //声は少なくとも私のモノだ。だがしかし、私ではない‥‥。
@@ -89,11 +89,11 @@ At least that voice was mine. But, it wasn't *me*...
 //［男］：んと、じゃあね、ここで何をしているの？
 [Man]: Um, well, what are you doing here?
 //［トレイシー］：ここで、いま？
-[TRACY]: Here, now?
+[Tracy]: Here, now?
 //［男］：そう。
 [Man]: Yes.
 //［トレイシー］：混乱をされているコウジ様に、状況の説明をして差し上げています。
-[TRACY]: Since you seem confused, Kouji-sama, I'll explain the situation to you.
+[Tracy]: Since you seem confused, Kouji-sama, I'll explain the situation to you.
 //むぅ‥‥自由に声が出せぬ‥‥。トレイシー、私に気付け‥‥くそ、どうしたことだ。
 Hmmm...I can't freely speak...Tracy, please notice me...shit, what's going on?
 //目の前にいて、話も聞こえ、それを理解し認識しているのに、なぜ自発的に行動ができないのか‥‥。

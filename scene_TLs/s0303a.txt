@@ -237,29 +237,29 @@ s0303a
 //［ランファ］：呼び出しですぅ、トレイシーだわ、きっと。
 [RANPHAR]: Oh, a call's coming in, probably Tracy.
 //［トレイシー］：ランファ、まだそこにいるのですか？
-[TRACY]: Ranphar, are you still there?
+[Tracy]: Ranphar, are you still there?
 //［ランファ］：なによぉ、せっかくいい時だったのにぃ‥‥。
 [RANPHAR]: Whaaat is it, at this precious time...
 //［トレイシー］：いい時って、なんですか、もう。
-[TRACY]: What do you mean, "precious time"? Come on.
+[Tracy]: What do you mean, "precious time"? Come on.
 //［ランファ］：それより、なーに？　用は。
 [RANPHAR]: Forget it. What do you want?
 //［トレイシー］：あ、そうでした。コウジ様、ファルネリア様が、お目覚めになりましたが‥‥。
-[TRACY]: Ah, I have news. Kouji-sama, Farnelia-sama has awakened...
+[Tracy]: Ah, I have news. Kouji-sama, Farnelia-sama has awakened...
 //［トレイシー］：少々取り乱しておいでで、大変です。
-[TRACY]: She's become a little out of control, so I'm having trouble with her.
+[Tracy]: She's become a little out of control, so I'm having trouble with her.
 //［ランファ］：暴れてるってこと？　麻酔薬でもうっちゃいなさいよ、お尻にプスって。
 [RANPHAR]: Is she acting violently? Just inject some tranquilizer into her butt.
 //［トレイシー］：動物じゃないんですから、そんなことはできません。ランファ、あなた行ってちょうだい。
-[TRACY]: She's not some animal, so I can't do that. Ranphar, please go to her.
+[Tracy]: She's not some animal, so I can't do that. Ranphar, please go to her.
 //［ランファ］：な、何よそれぇ‥‥看護はトレイシーの役目じゃない。
 [RANPHAR]: Why meee...isn't nursing *your* duty, Tracy?
 //［トレイシー］：私はジェネレータ計測結果のまとめに忙しいのです。
-[TRACY]: I'm busy taking measurements of the generator.
+[Tracy]: I'm busy taking measurements of the generator.
 //［ランファ］：プリプリよぉ、コウジ様ぁ‥‥。
 [RANPHAR]: I'm really upset, Kouji-samaa....
 //［トレイシー］：こら、コウジ様にお願いしてもダメです。
-[TRACY]: Now, don't go pleading to Kouji-sama.
+[Tracy]: Now, don't go pleading to Kouji-sama.
 //［ランファ］：ねぇ、コウジ様ぁ‥‥ウルウル。
 [RANPHAR]: Hey, Kouji-samaa...*sniffle*
 //［宏治］：行ってきなよ、ランファ。
@@ -267,17 +267,17 @@ s0303a
 //［ランファ］：えぇぇ～！！
 [RANPHAR]: WHAAAAT~~!!
 //［トレイシー］：さっ、コウジ様もああおっしゃってる訳だし。
-[TRACY]: See, even Kouji-sama said to do it.
+[Tracy]: See, even Kouji-sama said to do it.
 //［ランファ］：もうプリプリよぉ。
 [RANPHAR]: Hmph, I'm still upset.
 //［トレイシー］：ファルネリア様は、ＶＩＰルームにおいでです。よろしく頼むわ。
-[TRACY]: Farnelia-sama is in the VIP room. I'm leaving her to you.
+[Tracy]: Farnelia-sama is in the VIP room. I'm leaving her to you.
 //［ランファ］：しょうがないわねっ、じゃあ今から行く。
 [RANPHAR]: Fine, then. I'll go now.
 //［トレイシー］：よろしくね‥‥あっ、コウジ様。
-[TRACY]: Good luck...Ah, Kouji-sama.
+[Tracy]: Good luck...Ah, Kouji-sama.
 //［トレイシー］：私、心の底からコウジ様のことをご心配申し上げて‥‥。
-[TRACY]: From the bottom of my heart, I've been worried about you, Kouji-sama...
+[Tracy]: From the bottom of my heart, I've been worried about you, Kouji-sama...
 //［ランファ］：ハイハイ、雑音は消さないとねっ。
 [RANPHAR]: All right, I've got to go calm down that commotion.
 //［ランファ］：何かあったら、ベッド傍らのコンパネを利用して下さい。もう飛んでやって来ますからっ！
