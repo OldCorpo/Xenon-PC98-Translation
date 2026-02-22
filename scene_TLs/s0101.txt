@@ -29,7 +29,7 @@ Just earlier, a chilling, ear-piercing sound that came out of nowhere had been p
 //最初は耳鳴りかと思ったが、どうやら本当に聞こえてきているらしい。
 I first thought I was suffering from tinnitus, but it seemed I was really hearing something.
 //コッ‥‥コッ‥‥コッ‥‥。
-/**tap* *tap* *tap*
+*tap* *tap* *tap*
 //（‥‥ん？）
 (...Mmh?)
 //（な、なんだ‥‥？）
@@ -63,7 +63,7 @@ After making this bold decision, strangely, I started becoming nervous. Embarras
 //どうやらそれが一番近い解答と思えた。底の堅い、ブーツか何かをはいているのかも知れない。
 This was the most probable answer. Probably some hard-soled boots.
 //コッ‥‥コッ‥‥‥‥‥‥。
-/**tap* *tap* ...
+*tap* *tap* ...
 //不意に音が止まる。どうしたというんだ‥‥‥‥。
 Suddenly, the sound stopped. Just what was up there...?
 //［女性の声］：あっ‥‥‥‥。
@@ -197,7 +197,7 @@ The door was ruthlessly blocking my retreat.
 //無駄とはわかっていても、言い様のない不安と緊張が、私の手を動かし続けた。
 Though I knew it was useless, anxiety and fear were making my hands move on their own.
 //意に反して、ドアは冷然と私の前に立ちふさがっている。
-/*But the door, impervious to my will, still prevented me from fleeing.
+But the door, impervious to my will, still prevented me from fleeing.
 //私の拳で、どうこうなる硬さではないらしい。私は、赤く腫れた拳をさすりながら、
 My swollen fists started aching quickly enough - they weren't as hard as the door.
 //（ダメか‥‥‥‥。）

@@ -89,7 +89,7 @@ I just wanted to go on riding the elevator. The moment this fleeting yearning em
 //チーン‥‥。<$04><$30><$05>
 *ding* <$04><$30><$05>
 //［宏治］：現実とは、こういうものさ‥‥。
-/*[Kouji]: Reality's always like this, huh...
+[Kouji]: Reality's always like this, huh...
 //あらためてそう認識すると、僕はエレベータをゆっくりと降りていった。
 Realizing this once again, I sluggishly exited the elevator.
 //1030

@@ -197,7 +197,7 @@ I couldn't bear being here any longer, so I left the room. That's what I think I
 //　◆ 透き通った青色。
 　◆ ...crystalline blue.
 //　◆ 情熱的な赤色。
-/*　◆ ...passionate, crimson red.
+　◆ ...passionate, crimson red.
 //［宏治］：森のような緑色、だったと思います。
 [Kouji]: I think they were forest green.
 //［涼子］：緑色、ね‥‥わかったわ。他に何か、あったかしら？
@@ -223,7 +223,7 @@ That was a mere word. And yet, it went straight to the point.
 //［宏治］：そうだ、確か“ＤＲＥＡＭ”と書かれていたような気がします。
 [Kouji]: Yeah, I think “ＯＮＥＩＲＯＳ” was written on it.
 //［涼子］：ＤＲＥＡＭ‥‥文字通り解釈すれば、夢ということね。
-/*[Ryouko]: ＯＮＥＩＲＯＳ... Literally, it means dream.
+[Ryouko]: ＯＮＥＩＲＯＳ... Literally, it means dream.
 //［宏治］：はい、でも変ですよね。
 [Kouji]: Yes, but that's weird, isn't it?
 //［涼子］：そんなことはないわ。夢の中で、夢と認識することは、得てしてあることよ。
@@ -417,7 +417,7 @@ Ryouko, who was glaring at her notebook, seemed deep in thought for a moment.\nT
 //［涼子］：説明は難しいわね‥‥つまり、宏治クンが夢の中で女性として存在していても構わないのだけど‥‥。
 [Ryouko]: That's hard to explain. Look, it's not as if I care whether\nthere are women in your dreams...
 //［涼子］：その事を退けるようなファクターがあってはならない、ということね。
-/*[Ryouko]: But there is no factor that can sweep these discrepancies away.
+[Ryouko]: But there is no factor that can sweep these discrepancies away.
 //［宏治］：何のことだか、ちっともわからないんですけど‥‥。
 [Kouji]: I'm not sure I understood what you mean by "these discrepancies".
 //［涼子］：もう一度、最初からね。
@@ -437,7 +437,7 @@ Heaving a long sigh, I once again started to unravel the threads of my memory.
 //［涼子］：なに？
 [Ryouko]: What is it?
 //［宏治］：何といったら‥‥誰かに印象が似ているんです。だけど、それが誰かはわかりません。
-/*[Kouji]: How to put it... she left an impression like someone else familiar to me. But, I don't know who that "someone else" is.
+[Kouji]: How to put it... she left an impression like someone else familiar to me. But, I don't know who that "someone else" is.
 //［涼子］：よくあることよ。夢の中の人物に、現実の世界の個人が投影されるということは。
 [Ryouko]: That happens often. Projecting real individuals into one's dream is not a rare thing.
 //［宏治］：そうみたいですね‥‥。

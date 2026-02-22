@@ -266,7 +266,7 @@ As I look further to the left, I saw a relatively small desk with a simple monit
 //ディスプレイ上には、何かの文字が表示されているようだった。
 Something was being displayed on the monitor, some sort of word...
 //ＤＲＥＡＭ‥‥‥‥。
-/*ＯＮＥＩＲＯＳ‥‥‥‥。
+ＯＮＥＩＲＯＳ‥‥‥‥。
 //文字通り解釈すれば、“夢”ということか‥‥‥。
 Translating faithfully, it meant "dream".
 //ピピピピ、ポーン。
@@ -282,7 +282,7 @@ It seemed light sensors were built-in because it reacted when I stood in front o
 //私がふと思い浮かんだ単語を認識しようとしたとき、ドアの外で何か物音がした。
 While trying to understand the meaning behind this word, a sort of sound came from beyond the door.
 //コトッ‥‥コトッ‥‥。
-/**knock* *knock*
+*knock* *knock*
 //（何だ‥‥‥‥？）
 (What's that...?)
 //微かだが、音がしたようだ。いや、ドアの外ではない。ドアが音を立てたのだ。
