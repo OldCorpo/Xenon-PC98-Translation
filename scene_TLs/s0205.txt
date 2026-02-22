@@ -5,13 +5,13 @@ s0205
 //　◆ 舞を捜しに行こう。
 ◆ I'll go search for Mai.
 //［コウジ］：コンピュータ・ルームへ行き、ジェネレータの調整だ。
-[KOUJI]: I'll go to the computer room to adjust the generator.
+[Kouji]: I'll go to the computer room to adjust the generator.
 //ジェネレータの調整こそが、もっとも優先されてしかるべき行為だろう。
 The generator adjustment should be conducted before anything else.
 //この脆弱な肉体に宿っていた、貧弱な精神の持ち主とも、コンタクトを取りたいことだしな‥‥。
 I also want to make contact with the master of the weak spirit residing in this puny body...
 //［コウジ］：舞を捜しに行こう。
-[KOUJI]: I'll go search for Mai.
+[Kouji]: I'll go search for Mai.
 //彼女無くして、ジェネレータの存在はあり得ない。精神の同調も不都合はないようだ。
 If she isn't here, the generator's useless. Spirit tuning would also be inefficient.
 //涼子１人に任せておくのは、いささか心許ないからな‥‥。
@@ -27,13 +27,13 @@ Yes, it's certainly worth confirming...
 //［沙夜香］：さっきは、涼子先生に連れて行かれて、特別病棟にでも入れられたのかと思ったけど。
 [Sayaka]: You were following Ryouko-sensei into the special ward, weren't you?
 //［コウジ］：特別病棟？
-[KOUJI]: The special ward?
+[Kouji]: The special ward?
 //［沙夜香］：フフ、ちょっと、イっちゃってる人用の病棟よ。
 [Sayaka]: Hehe, well, it's the ward for loonies.
 //目の前の失礼な女は、私がイっちゃっていると暗喩しているらしい。私は己のことを、こやつにわからせねばならない義務感を感じた。
 The impolite woman before me was implying I was insane. I felt an inexplicable duty towards this cur.
 //［コウジ］：フン、我がゆくは、星の大海のみ‥‥。
-[KOUJI]: Hmph, I am known, across the vast sea of stars, as...
+[Kouji]: Hmph, I am known, across the vast sea of stars, as...
 //［沙夜香］：やっぱりイっちゃってるわ、あなた。フフ‥‥。
 [Sayaka]: You really are a loony. Hehe....
 //沙夜香は肩をしゃくりあげて、クスクス笑っている。唐突に顔をあげると、
@@ -41,11 +41,11 @@ Sayaka raised her shoulders as she giggled. She suddenly lifted her head.
 //［沙夜香］：でも、おかしくなって、逆に頭が良くなっちゃたようね。
 [Sayaka]: But even though you've become weird, your head will soon clear up.
 //［コウジ］：フン、この惑星のヤツらは、会う度に頭がおかしいとか言うのが、習慣らしいな。
-[KOUJI]: Hmph, are this planet's inhabitants accustomed to telling people they're weird when they meet?
+[Kouji]: Hmph, are this planet's inhabitants accustomed to telling people they're weird when they meet?
 //［沙夜香］：フフ、マイナスかけるマイナスはプラスになるということよ。
 [Sayaka]: Hehe, well, as they say, a minus of a minus is a plus.
 //［コウジ］：‥‥つまりこの宿主の宏治とやらは元々おかしくて、私が入ったことにより天才的となった‥‥。
-[KOUJI]: ...So you're telling me that the host Kouji was originally weird, and he was an even greater genius than me?
+[Kouji]: ...So you're telling me that the host Kouji was originally weird, and he was an even greater genius than me?
 //［沙夜香］：そういうところ、やっぱり普通じゃないわね。
 [Sayaka]: Speaking of which, he really wasn't ordinary.
 //［沙夜香］：それよりも、どう？
@@ -53,31 +53,31 @@ Sayaka raised her shoulders as she giggled. She suddenly lifted her head.
 //私ににじりよってくると、沙夜香は私に小さく耳打ちするような声で言った。
 As she sidled up to me, Sayaka said this to me in a rather hushed tone.
 //［コウジ］：どう、とは？
-[KOUJI]: What do you mean, what do you think?
+[Kouji]: What do you mean, what do you think?
 //［沙夜香］：さっきの話の続きよ。あのマシンのこと、あなた詳しいんでしょ？
 [Sayaka]: Continuing from earlier, you know a lot about that machine, don't you?
 //［コウジ］：フン、聞いて驚け、私も同コンセプトのマシンを、製作した事がある。
-[KOUJI]: Hmph, you might be surprised to hear this, but I have built a machine with the same concept.
+[Kouji]: Hmph, you might be surprised to hear this, but I have built a machine with the same concept.
 //［沙夜香］：そ、それって本当！？
 [Sayaka]: Is-is that really true?!
 //［コウジ］：別に信じて貰う必要はないがな‥‥。
-[KOUJI]: Of course, you don't have to believe me...
+[Kouji]: Of course, you don't have to believe me...
 //［沙夜香］：じゃあ、信じない。
 [Sayaka]: Then, I don't believe you.
 //［コウジ］：まて、本当だぞ。
-[KOUJI]: Wait, I'm serious, though.
+[Kouji]: Wait, I'm serious, though.
 //［沙夜香］：信じられないわ。
 [Sayaka]: I can't believe you.
 //［コウジ］：本当だったら本当だ。
-[KOUJI]: If it's true, it's true.
+[Kouji]: If it's true, it's true.
 //［沙夜香］：ウソ、信じない。
 [Sayaka]: Yeah, I don't believe that.
 //［コウジ］：貴様、私のことが信じられないか！？
-[KOUJI]: What, are you that distrustful of me?!
+[Kouji]: What, are you that distrustful of me?!
 //［沙夜香］：信じてもらう必要がないって、今言ったじゃない。
 [Sayaka]: Didn't you say just now, "You don't have to believe me"?
 //［コウジ］：うむ、そういえばそうだ。じゃあ失礼する。
-[KOUJI]: Indeed, I did say that. I apologize for the misunderstanding.
+[Kouji]: Indeed, I did say that. I apologize for the misunderstanding.
 //きびすを返しかけた後方から、沙夜香の焦りの声がかかってくる。いちいち非合理的な行動をする女だった。
 As I turned my heel on her, Sayaka's strident voice called out to me. This woman really does unreasonable things at every turn.
 //［沙夜香］：ちょ、ちょっと待ってよ。
@@ -85,103 +85,103 @@ As I turned my heel on her, Sayaka's strident voice called out to me. This woman
 //［沙夜香］：話がまだ済んでいないわ。
 [Sayaka]: We haven't finished talking yet.
 //［コウジ］：話すことなど無いがな。
-[KOUJI]: We don't have anything more to talk about.
+[Kouji]: We don't have anything more to talk about.
 //［沙夜香］：あるわ、例のドリームプログラムのことよ。
 [Sayaka]: We do, in fact, things like the dream program.
 //［コウジ］：ほぉ、なぜその事を知っている？
-[KOUJI]: Hoh~, how do you know about that?
+[Kouji]: Hoh~, how do you know about that?
 //途端に押し黙る沙夜香を見ながら、私は侮蔑にも似た声音で彼女に言い放った。
 As I looked at Sayaka, who had suddenly fallen silent, I declared to her, insultingly:
 //［コウジ］：フン、奸計をめぐらす小悪党か。貴様と手を組むなどあり得ないことだ。
-[KOUJI]: Humph, what a scheming little scoundrel you are. I couldn't imagine lending a hand to the likes of you.
+[Kouji]: Humph, what a scheming little scoundrel you are. I couldn't imagine lending a hand to the likes of you.
 //［沙夜香］：だったら、例のコンピュータルームへは、一歩も立ち入らせないわよ。
 [Sayaka]: Then, you haven't even been allowed in the computer room yet.
 //［沙夜香］：でも、私の言うとおりにしてくれれば‥‥。
 [Sayaka]: However, if you do as I say...
 //［コウジ］：ことわる。
-[KOUJI]: I refuse.
+[Kouji]: I refuse.
 //［沙夜香］：なんでよっ。
 [Sayaka]: Why?
 //［コウジ］：フン、じゃあ教えてやろう。貴様のことが嫌いだからだ。
-[KOUJI]: Hmph, I'll tell you why. Because you're annoying, that's why.
+[Kouji]: Hmph, I'll tell you why. Because you're annoying, that's why.
 //［コウジ］：私の奴隷になるというのなら、考えてやってもいいがな。その時は私のところへ来い。
-[KOUJI]: If you were to become my slave, I might consider it. When you're ready, come to me.
+[Kouji]: If you were to become my slave, I might consider it. When you're ready, come to me.
 //［沙夜香］：コンピュータ・ルームへは、誰も入れないわよっ！
 [Sayaka]: Nobody has ever set foot in the computer room!
 //ウソでも、話を聞くくらいは言った方が良かったか‥‥。
 It was a lie, but it was quite pleasant to the ear...
 //［コウジ］：フン、恒星の影に入ったか‥‥。
-[KOUJI]: Hmm, have we entered the star's shadow...?
+[Kouji]: Hmm, have we entered the star's shadow...?
 //［コウジ］：ここにいても身体が冷えるだけだな‥‥。
-[KOUJI]: I'm getting colder just being here...
+[Kouji]: I'm getting colder just being here...
 //再びエレベータへ向かう私の後ろから、遠慮がちに声がかかってくる。
 As I turned towards the elevator once more, a reserved voice called out.
 //［涼子］：宏治様。
 [Ryouko]: Kouji-sama.
 //［コウジ］：何だ、ここにいたのか‥‥。
-[KOUJI]: What is it? Is she here...?
+[Kouji]: What is it? Is she here...?
 //［涼子］：舞は、見つかりません。
 [Ryouko]: I couldn't find Mai.
 //［コウジ］：見つけるのが貴様の役目だ。役立たずめ。
-[KOUJI]: Finding her is your duty, you blockhead.
+[Kouji]: Finding her is your duty, you blockhead.
 //［涼子］：そんなぁ、私だってね、一生懸命‥‥。
 [Ryouko]: Come onnn, I've already tried as hard as I could...
 //［コウジ］：ジロッ。
-[KOUJI]: *sneer*
+[Kouji]: *sneer*
 //［涼子］：アハハ‥‥その、もうちょっとがんばって捜してみようかしら。
 [Ryouko]: Ahaha...I guess I'll look a little harder.
 //［涼子］：その、やっぱり舞を？
 [Ryouko]: Uh, for Mai, right?
 //［コウジ］：あたりまえだ。
-[KOUJI]: Of course.
+[Kouji]: Of course.
 //［涼子］：いちおう、あれでも私の妹なんです。あの子に害があるような事は‥‥。
 [Ryouko]: After all, she is my sister. If she were to come to harm...
 //［コウジ］：舞は無事だ。あくまで触媒なのだからな‥‥。
-[KOUJI]: Mai is fine. After all, she's the catalyst...
+[Kouji]: Mai is fine. After all, she's the catalyst...
 //［涼子］：ホッ‥‥。
 [Ryouko]: Hoh-...
 //［コウジ］：だが急がねばならんな‥‥速くしなければ、私の肉体が‥‥。
-[KOUJI]: However, time is of essence...If you don't do this quickly, my physical body will...
+[Kouji]: However, time is of essence...If you don't do this quickly, my physical body will...
 //［涼子］：ど、どうなっちゃうんですか？
 [Ryouko]: Wh-what will happen?
 //［コウジ］：ムチでビシビシ叩かれて、黒こげになる。
-[KOUJI]: I will beat you relentlessly with a whip until you are black and blue.
+[Kouji]: I will beat you relentlessly with a whip until you are black and blue.
 //［涼子］：は、はい‥‥。
 [Ryouko]: Y-yes....
 //［コウジ］：コンピュータ・ルームへ入るにはどうしたらいい？
-[KOUJI]: How would we go about entering the computer room?
+[Kouji]: How would we go about entering the computer room?
 //［涼子］：一応、沙夜香女史がキーを持っているから‥‥。
 [Ryouko]: For now, Miss Sayaka has a key...
 //［コウジ］：では、それを奪ってこい。
-[KOUJI]: Well, then, take it from her and bring it here.
+[Kouji]: Well, then, take it from her and bring it here.
 //［涼子］：そんなぁ、私、クビになっちゃいますよぉ‥‥。
 [Ryouko]: If I do that, I'll be fired....
 //［コウジ］：私が養ってやる。
-[KOUJI]: I'll support you.
+[Kouji]: I'll support you.
 //［涼子］：えっ？　そ、それってもしかして‥‥。
 [Ryouko]: Eh-? That would mean...
 //［コウジ］：私は、後で自室へ戻る。それまでに連れてこい！
-[KOUJI]: I'll be returning to my room. Until then, catch up to her!
+[Kouji]: I'll be returning to my room. Until then, catch up to her!
 //［涼子］：はーい。
 [Ryouko]: Ye--s.
 //［コウジ］：フン、さてと、これからどうするか‥‥。
-[KOUJI]: Hm, now then, what to do from here...
+[Kouji]: Hm, now then, what to do from here...
 //あたりはもう暗くなり、人影は全くといっていいほど見えない。どうやら、予想以上に時間の進み方が速いらしい。
 It had darkened around me, and I couldn't see anyone around.  Time had somehow elapsed quite a bit faster than I had expected.
 //［コウジ］：確か、自転周期は約８万６４００秒だったな‥‥。
-[KOUJI]: Indeed, the rotation period is about 86400 seconds...
+[Kouji]: Indeed, the rotation period is about 86400 seconds...
 //私の時代では、すでに６０進法は廃れている。よりデジタルに、６４進法が用いられているのだ。
 In my time, base 60 is already outdated. Digitally, base 64 is more commonly used.
 //次にすべき事を思案していたとき、突然それはやってきた。
 The time for thinking about what I should do next came quite suddenly.
 //［コウジ］：むっ、どうしたことだ‥‥。
-[KOUJI]: Mm, what to do....
+[Kouji]: Mm, what to do....
 //［コウジ］：ライトは点いている‥‥とすると‥‥。
-[KOUJI]: The lights are coming on...it seems...
+[Kouji]: The lights are coming on...it seems...
 //三半規管に、急激な失調感が訪れた。地面が揺れたと思ったら、片膝を床についていた。
 I suddenly felt a loss of balance from my inner ear. As I felt the earth beneath me trembling, I fell on one knee onto the bed.
 //［コウジ］：くっ‥‥大宇宙海賊たる、この私が‥‥。
-[KOUJI]: Kuh...I'm a galactic pirate, dammit...
+[Kouji]: Kuh...I'm a galactic pirate, dammit...
 //地面が急速に私の方へと起きあがってくる。意識が遠のいていく‥‥私は床の冷たさを感じながら‥‥。<$05>
 The earth rapidly rose towards me. My consciousness faded far away...as I felt the coldness of the bed...
 //Ｄ
@@ -191,33 +191,33 @@ The earth rapidly rose towards me. My consciousness faded far away...as I felt t
 //（そうだ、ファルがエンコーダと一緒に‥‥。）<$05>
 (That's right, Far was with the encoder...)
 //［コウジ］：（そうか、ここは思念を結ぶアストラル界‥‥。）
-[KOUJI]: (Then, this place must be the astral plane uniting thoughts...)
+[Kouji]: (Then, this place must be the astral plane uniting thoughts...)
 //［コウジ］：（時間と空間を超越した、超空間‥‥‥‥。）
-[KOUJI]: (A super space surpassing all space and time...)
+[Kouji]: (A super space surpassing all space and time...)
 //［コウジ］：（すると、あの声は‥‥‥‥。）
-[KOUJI]: (Which means, that sound...)
+[Kouji]: (Which means, that sound...)
 //［男の声］：‥‥絶対に助けに行ってやるからな。待っていろ‥‥。
 [Man's voice]: ...I must go to save her. Please wait for me...
 //私はほぼ確信を込めて、声に向かって言い放った。
 As I almost strengthened my conviction, I spoke towards the voice.
 //［コウジ］：貴様では無理だ。
-[KOUJI]: Your actions are futile.
+[Kouji]: Your actions are futile.
 //［男の声］：な、なに‥‥。
 [Man's voice]: Wh-what...
 //［コウジ］：貴様では無理だと言ったのだ。
-[KOUJI]: I said, your actions are futile.
+[Kouji]: I said, your actions are futile.
 //［男の声］：誰だ！？<$05>
 [Man's voice]: Who are you?!
 //ko01
 ko01
 //［コウジ］：貴様では、ビアンカには勝てん。
-[KOUJI]: You will not prevail against Bianca.
+[Kouji]: You will not prevail against Bianca.
 //［男］：さ、さっき、『よけろ』って耳元で叫んだ男か！？
 [Man]: Just now, were you the man who shouted in my ear, "Move aside!"?
 //［男］：誰だ、お前は。
 [Man]: Just who are you?
 //［コウジ］：私のことか？
-[KOUJI]: Me?
+[Kouji]: Me?
 //［男］：そうだよ。
 [Man]: Yes, you.
 //［男］：ま、待て。オレが当てよう。
@@ -229,229 +229,229 @@ ko01
 //［男］：単なる夢。
 [Man]: A mere dream.
 //［コウジ］：私は妄想でもないし、２重人格でもないし、そしてこれは夢ではない。
-[KOUJI]: I'm neither a delusion, nor another personality, and this is not a dream.
+[Kouji]: I'm neither a delusion, nor another personality, and this is not a dream.
 //［男］：じゃあ何だよ。
 [Man]: Well, then, what are you?
 //［コウジ］：私こそ、天才かつ大宇宙の覇者たらんとする、大海賊である。
-[KOUJI]: I am the genius pirate who'll one day become the supreme ruler of this universe.
+[Kouji]: I am the genius pirate who'll one day become the supreme ruler of this universe.
 //［男］：はぁ？
 [Man]: Huh?
 //［コウジ］：ビアンカとの一件、こちらから見させてもらった。どうやら、意識が不定期にシンクロしているようだ。
-[KOUJI]: You've showed me your dealings with Bianca from here. Our consciousnesses are somehow irregularly synchronized.
+[Kouji]: You've showed me your dealings with Bianca from here. Our consciousnesses are somehow irregularly synchronized.
 //［男］：ま、まさか、こっちで言うところのコウジ？　宇宙海賊とかいう？
-[Man]: C-could it be that you're the one they call KOUJI? The space pirate?
+[Man]: C-could it be that you're the one they call Kouji? The space pirate?
 //［コウジ］：それ以外に、どういうコウジがいるというのだ？
-[KOUJI]: Apart from that, could they mean any other KOUJI?
+[Kouji]: Apart from that, could they mean any other Kouji?
 //［宏治］：オレだって宏治だ！
 [Kouji]: But I'm Kouji!
 //［コウジ］：うむ、言われてみればそうだな。では宏治ではなくコウジであると言っておこうか、宏治。
-[KOUJI]: Indeed, it's as you say. Then why not call me not "Kouji", but "KOUJI"?
+[Kouji]: Indeed, it's as you say. Then why not call me not "Kouji", but "Kouji"?
 //［宏治］：訳のわからない事を、悠長に話してる場合かよ。
 [Kouji]: Is this the kind of place to leisurely blabber about those unintelligible things?
 //［コウジ］：私は、質問に答えただけだが。
-[KOUJI]: I only answered your question.
+[Kouji]: I only answered your question.
 //［宏治］：だー、どうだっていい。それよりも、見させてもらったって言ったよな、どういうことだよ。
 [Kouji]: Well, it's fine either way. Besides, you said I showed you something. What do you mean by that?
 //［コウジ］：見させてもらったということだ。
-[KOUJI]: I meant you showed me.
+[Kouji]: I meant you showed me.
 //［宏治］：バカにしてんのか？
 [Kouji]: Are you making a fool of me?
 //［コウジ］：いいか、脆弱なる者よ。
-[KOUJI]: It's fine, puny fellow.
+[Kouji]: It's fine, puny fellow.
 //［宏治］：何だよ、その『ぜいじゃく』ってのは。
 [Kouji]: What's with calling me puny?
 //［コウジ］：脆弱というのは、身体や精神などがもろく弱いことだ。
-[KOUJI]: Puny means your body and spirit are weak.
+[Kouji]: Puny means your body and spirit are weak.
 //［宏治］：そんなこと訊いてるんじゃねぇ。
 [Kouji]: I didn't ask for a definition.
 //［コウジ］：いいか、ビアンカを甘く見てはいけない。
-[KOUJI]: It's fine then, Bianca doesn't look fondly at you.
+[Kouji]: It's fine then, Bianca doesn't look fondly at you.
 //［宏治］：別に、甘くなんて見ちゃいないよ。
 [Kouji]: She hasn't really looked at me fondly at all.
 //［コウジ］：逃げなかった事に関しては褒めてやろう。私の経歴に、傷が付くところだった。
-[KOUJI]: I should praise you for not running away. It would have damaged my reputation.
+[Kouji]: I should praise you for not running away. It would have damaged my reputation.
 //［宏治］：じゃあ逃げてみるか。
 [Kouji]: Then, should I run away?
 //［コウジ］：フッ、貴様があのファルネリアを慕っているのは分かっている。故に逃げないこともな。
-[KOUJI]: Hmph, I know you yearn for Farnelia. Therefore, you won't run away.
+[Kouji]: Hmph, I know you yearn for Farnelia. Therefore, you won't run away.
 //［宏治］：ちっ、お見通しかよ。
 [Kouji]: Tch, you're insightful.
 //［コウジ］：いいか。この貧弱な肉体と、反射神経から推測するに、貴様の技量では決してビアンカにはかなうまい。
-[KOUJI]: This is fine. Judging from this puny body's reflexes, you won't beat Bianca with your skills.
+[Kouji]: This is fine. Judging from this puny body's reflexes, you won't beat Bianca with your skills.
 //［宏治］：ムカッ！　んなこと、やってみなくちゃわからないだろ！
 [Kouji]: Argh! You can't make that judgment until I try it!
 //［コウジ］：いや、１２０％無理だ。
-[KOUJI]: To the contrary, it's 120% futile.
+[Kouji]: To the contrary, it's 120% futile.
 //［宏治］：なんだよ、その２０％増しは！
 [Kouji]: What's with that extra 20%?!
 //［コウジ］：今から言うことを良く聞け。ビアンカとの戦いは、定められた時刻に行うのだ。
-[KOUJI]: Listen to me carefully now. You will carry out your battle with Bianca at the designated time.
+[Kouji]: Listen to me carefully now. You will carry out your battle with Bianca at the designated time.
 //［宏治］：勝手な事をいいやがるぜ。じゃあ何時何分何曜日だ。
 [Kouji]: Fine, I'll listen to your selfish demands. What day and what time?
 //［宏治］：その呼び方はやめろってば。
 [Kouji]: Also, stop calling me that.
 //［コウジ］：ビアンカはああ見えて、なかなか手強い。
-[KOUJI]: Just from looking at Bianca, it's apparent she's quite strong.
+[Kouji]: Just from looking at Bianca, it's apparent she's quite strong.
 //［宏治］：そりゃ、あの体つきと、迫力を見ればわかるよ。おまけに電撃ムチまでモロにくらっちまって‥‥。
 [Kouji]: It's true, you can tell from looking at her forceful figure. Besides, her electric whip would utterly consume you...
 //［コウジ］：いくら私の身体をもってしても、中に入っている思念体が脆弱でかつ貧弱であれば、ヤツを倒すのは不可能だ。
-[KOUJI]: Even with my body, if the controlling thought body were weak and deficient, it would be impossible to defeat her.
+[Kouji]: Even with my body, if the controlling thought body were weak and deficient, it would be impossible to defeat her.
 //［宏治］：喧嘩うってんのかよ、おい。
 [Kouji]: Hey, are you going to set up the fight or what?
 //［コウジ］：今からそう、ちょうど１万８千秒後‥‥。
-[KOUJI]: Starting from now, it'll be about 18000 seconds...
+[Kouji]: Starting from now, it'll be about 18000 seconds...
 //［宏治］：は？　時間で言えよ、時間で。
 [Kouji]: Huh? Tell me the time, the time.
 //［コウジ］：５時間後だ。こちらのジェネレータを利用して、一時的に私の意識を、そちらへ強制的にシンクロさせる。
-[KOUJI]: 5 hours from now. Using the generator over here, my consciousness will temporarily be forcibly synchronized with yours.
+[Kouji]: 5 hours from now. Using the generator over here, my consciousness will temporarily be forcibly synchronized with yours.
 //［宏治］：こちらの‥‥ジェネレータ？
 [Kouji]: The...generator?
 //［コウジ］：シンクロ時間は、私の概算でおよそ３秒。そのあいだに、私がビアンカを倒す。
-[KOUJI]: The synchronization time, by my guess, is about 3 seconds. In that time, I will defeat Bianca.
+[Kouji]: The synchronization time, by my guess, is about 3 seconds. In that time, I will defeat Bianca.
 //［宏治］：冗談言うなよ、あんな凶悪な女、３秒でどうこうできるもんじゃないぜ。
 [Kouji]: Stop joking around, how can you possibly do that in 3 seconds to such a brutish woman?
 //［コウジ］：貴様は、私の思念がシンクロする時刻を逆算し、ビアンカとの戦いのタイミングをセッティングするのだ。
-[KOUJI]: Counting back from the time my thoughts synchronize, you will set the time for a battle with Bianca.
+[Kouji]: Counting back from the time my thoughts synchronize, you will set the time for a battle with Bianca.
 //［宏治］：だいたい、何で５時間後なんだよ。
 [Kouji]: Why is it in 5 hours in the first place?
 //［コウジ］：そのあいだ、ジェネレータのシンクロ時間の計算を算出するからだ。こちらの原始的な機構は、私の天才的頭脳をもってしても、なかなかこれが困難で‥‥。
-[KOUJI]: Because in the meantime, the generator needs to calculate the synchronization time. Even with my genius intellect, the primitive structures here are difficult to work with...
+[Kouji]: Because in the meantime, the generator needs to calculate the synchronization time. Even with my genius intellect, the primitive structures here are difficult to work with...
 //［宏治］：さっきから聞いていて疑問なんだが、お前はいったい今、どこにいるんだ？
 [Kouji]: I've had this question on my mind since a while ago, but where even are you right now?
 //［コウジ］：地面の上だ。
-[KOUJI]: On the ground.
+[Kouji]: On the ground.
 //［宏治］：おい。
 [Kouji]: Oh, come on.
 //［コウジ］：地面の上というのは惑星上ということだ。恐らく、太古の地球ということになるだろう。
-[KOUJI]: By "on the ground", I mean on this planet. You could probably say, on the ancient earth.
+[Kouji]: By "on the ground", I mean on this planet. You could probably say, on the ancient earth.
 //［宏治］：ち、ちきゅー！？
 [Kouji]: E-Earth?!
 //［コウジ］：これは類推だが、恐らく貴様がいた時代の、貴様の脆弱な肉体の中に私はいる。
-[KOUJI]: This is an analogy, but I'm probably in your puny body, in your time.
+[Kouji]: This is an analogy, but I'm probably in your puny body, in your time.
 //［宏治］：な、なんだってぇ！？
 [Kouji]: WHAAAAT?!
 //［コウジ］：いちいちリアクションが大きいヤツだ。恐らく我々の思念体が、そっくり入れ替わってしまったということだ。
-[KOUJI]: You're just full of big reactions, aren't you? We've likely swapped thought bodies.
+[Kouji]: You're just full of big reactions, aren't you? We've likely swapped thought bodies.
 //［宏治］：入れ替わった‥‥？
 [Kouji]: Swapped...?
 //［コウジ］：うむ、どうやら双方の時代のジェネレータが時空を越え、シンクロしてしまったのだろう。
-[KOUJI]: Indeed, somehow, the generators in both our times seem to have surpassed time to synchronize with each other.
+[Kouji]: Indeed, somehow, the generators in both our times seem to have surpassed time to synchronize with each other.
 //［宏治］：んなご都合主義的なことが、あってたまるかよ！
 [Kouji]: Doesn't this feel like an opportunistic coincidence?!
 //［コウジ］：現実逃避か。肉体も脆弱なれば、精神も‥‥。
-[KOUJI]: You're avoiding reality, aren't you? If the body is so puny, the mind must be, too...
+[Kouji]: You're avoiding reality, aren't you? If the body is so puny, the mind must be, too...
 //［宏治］：うるせぇほっとけ。そんなこと、本当にあり得るのか？
 [Kouji]: Shuddup already. Has such a thing really happened?
 //［コウジ］：思念体は、あくまで形而上のものでしかない。
-[KOUJI]: Thought bodies are, after all, mere metaphysical entities.
+[Kouji]: Thought bodies are, after all, mere metaphysical entities.
 //［宏治］：はぁ？
 [Kouji]: Huh??
 //［コウジ］：つまりだ、感性形式によるアポステリオリな経験現象としてではなく、理性的思考によってのみ、初めて捉えることができる究極の事象のことだ。
-[KOUJI]: In other words, they're not a posteriori experiential phenomena dependent on the senses, but the ultimate phenomena resulting from being able to think theoretically in the first place.
+[Kouji]: In other words, they're not a posteriori experiential phenomena dependent on the senses, but the ultimate phenomena resulting from being able to think theoretically in the first place.
 //［宏治］：‥‥まぁいい、じゃあ、あり得るとしてだ。
 [Kouji]: ...OK then. Well, let me ask you a few things.
 //［宏治］：涼子先生はどうした？
 [Kouji]: How is Ryouko-sensei?
 //［コウジ］：あぁ、あの女か。あの女なら、私の奴隷にしてやったぞ、安心しろ。
-[KOUJI]: Ahh, that woman. That woman has become my slave, so you can calm down.
+[Kouji]: Ahh, that woman. That woman has become my slave, so you can calm down.
 //［宏治］：おい！　冗談言うな！！
 [Kouji]: Hey! Stop pulling my leg!!
 //［コウジ］：私はトレイシー同様、冗談とイカの頭が嫌いでな。
-[KOUJI]: Tracy and I are the same, we both hate joking as a useless endeavour.
+[Kouji]: Tracy and I are the same, we both hate joking as a useless endeavour.
 //［宏治］：ま、舞さんには、まさか手を出してないだろうな。
-[KOUJI]: Well, what about Mai? She didn't just take it lying down, did she?
+[Kouji]: Well, what about Mai? She didn't just take it lying down, did she?
 //［コウジ］：安心しろ、ジェネレータの触媒としての適性をみるため、肉体の交わりをしただけだ。
-[KOUJI]: Rest assured, to probe her aptitude as a medium for the generator, I only had sex with her.
+[Kouji]: Rest assured, to probe her aptitude as a medium for the generator, I only had sex with her.
 //［宏治］：んぎゃおぅ！！
 [Kouji]: NNGyau!!
 //［コウジ］：どうした、ひきつけか？
-[KOUJI]: What, were you attracted to her?
+[Kouji]: What, were you attracted to her?
 //［宏治］：てめぇ、彼女はオレが狙ってたんだ！　あんな清純な子は、今時めったに‥‥。
 [Kouji]: You bastard, I was aiming for her! Pure girls like her are so rare...
 //［コウジ］：んひゃひゃ。
-[KOUJI]: Nhyahya.
+[Kouji]: Nhyahya.
 //［コウジ］：うむ、どうやら、意識が遠のいているようだ‥‥。
-[KOUJI]: Indeed, our consciousnesses are somehow far apart...
+[Kouji]: Indeed, our consciousnesses are somehow far apart...
 //［宏治］：どういうことだ？
 [Kouji]: What are you talking about?
 //［コウジ］：つまり、んひゃひゃ。
-[KOUJI]: In other words, nhyahya...
+[Kouji]: In other words, nhyahya...
 //［コウジ］：どうやら、貴様の脆弱な肉体に入っている私の強靭な‥‥。
-[KOUJI]: Somehow, inserted into your puny physical body, my tough, rigid...
+[Kouji]: Somehow, inserted into your puny physical body, my tough, rigid...
 //［宏治］：形容詞ははぶけよ。
 [Kouji]: Leave out the adjectives, will ya?
 //［コウジ］：つまりだ、私の意識が回復しだしているということだ。
-[KOUJI]: In other words, my consciousness recuperated.
+[Kouji]: In other words, my consciousness recuperated.
 //［宏治］：今、意識が遠のくって言ったじゃないか。
 [Kouji]: Just now, didn't you say our consciousnesses are far apart?
 //［コウジ］：夢の中での意識が遠のけば、必然的に現実の意識が回復するのは自明の理であろう。
-[KOUJI]: If our dream consciousnesses are far apart, it's self-evident that the recuperation of our real consciousnesses was inevitable.
+[Kouji]: If our dream consciousnesses are far apart, it's self-evident that the recuperation of our real consciousnesses was inevitable.
 //［宏治］：勝手なやつだぜ。
 [Kouji]: Well, isn't that just convenient for you.
 //［コウジ］：こちらにも、都合というものがある。
-[KOUJI]: I, too, thought it quite convenient.
+[Kouji]: I, too, thought it quite convenient.
 //［宏治］：じゃ、じゃあお前が本当にコウジだという証拠をくれ。
-[Kouji]: Well-well, show me proof that you're really KOUJI.
+[Kouji]: Well-well, show me proof that you're really Kouji.
 //［コウジ］：なんだ、それは。
-[KOUJI]: What's the meaning of that?
+[Kouji]: What's the meaning of that?
 //［宏治］：これが夢じゃないっていう保証が欲しいんだよ。
 [Kouji]: I want some assurance that this isn't a dream.
 //［コウジ］：ふむ、では、トレイシーとランファのどちらかを選べ。
-[KOUJI]: Fine, then. Choose between Tracy and Ranphar.
+[Kouji]: Fine, then. Choose between Tracy and Ranphar.
 //［宏治］：へ？
 [Kouji]: Eh?
 //［コウジ］：選ぶのだ。
-[KOUJI]: Make a choice.
+[Kouji]: Make a choice.
 //［宏治］：んー、じゃあ‥‥‥‥。
 [Kouji]: Well, then....
 //［コウジ］：よし、では惑星エイレートで過ごした時のことを言ってやれ。
-[KOUJI]: Right, then talk to them about passing over the planet {Eirate}.
+[Kouji]: Right, then talk to them about passing over the planet {Eirate}.
 //［コウジ］：それで恐らく確信してもらえる事だろう。
-[KOUJI]: That should be enough to convince you.
+[Kouji]: That should be enough to convince you.
 //［宏治］：なんだよ、それは。
 [Kouji]: How is that enough?
 //［コウジ］：いいから、この通り言うのだ。ただし、他の女の前では決して言うな。いいな？
-[KOUJI]: Just speak as I say. However, don't speak a word of it to the other woman. Do you understand?
+[Kouji]: Just speak as I say. However, don't speak a word of it to the other woman. Do you understand?
 //［宏治］：訳がわからないぞ。
 [Kouji]: What's the point of all this?
 //［コウジ］：むっ、マズい。いいか、５時間後だ、忘れるな‥‥。<$05>
-[KOUJI]: Oh, oh no. Well, then, in 5 hours. Don't forget...
+[Kouji]: Oh, oh no. Well, then, in 5 hours. Don't forget...
 //［コウジ］：‥‥‥<$0C>‥‥‥<$0C>‥‥‥。
-[KOUJI]: .........
+[Kouji]: .........
 //どうやら、意識が回復してきたようだった。私の浮遊していた思念が、すーっと身体に入っていく感覚が起きる。
 My consciousness had somehow recuperated. My drifting thoughts were suddenly thrust back into my body.
 //視覚も戻ってきたようだ‥‥ゆっくりと目を開けてみる。
 My sight also seemed to have returned...I slowly opened my eyes.
 //［コウジ］：どうやら、自室のようだが‥‥。
-[KOUJI]: This seems like my room...
+[Kouji]: This seems like my room...
 //確か、意識を失ったのは自室外だったはずだが‥‥。
 Indeed, I likely lost consciousness outside my room, but...
 //［コウジ］：フン、意識を失っても、何とか帰ってくるとは、さすが大宇宙海賊‥‥んひゃひゃ。
-[KOUJI]: Hmph, to have lost consciousness and somehow come back, it's truly worthy of a space pirate...Nhyahya.
+[Kouji]: Hmph, to have lost consciousness and somehow come back, it's truly worthy of a space pirate...Nhyahya.
 //［沙夜香］：なーに、さっきからバカな独り言を言っているのよ。
 [Sayaka]: Helloooo? You've been talking to yourself like a dummy this whole time.
 //［沙夜香］：うふふーん。
 [Sayaka]: Uhuhu~.
 //［コウジ］：何だ、貴様は。
-[KOUJI]: Who the hell are you?
+[Kouji]: Who the hell are you?
 //［沙夜香］：沙夜香よっ！
 [Sayaka]: I'm Sayaka, of course!
 //［コウジ］：そんな事を聞いているのではない。なぜそんな格好をしている。
-[KOUJI]: I didn't hear that. Why are you making that pose?
+[Kouji]: I didn't hear that. Why are you making that pose?
 //［沙夜香］：んもう、つれないのね。ここまで、私が運んできてあげたのよ。
 [Sayaka]: Humph, how cold, after I came all this way to you.
 //［コウジ］：その格好と、運ぶことと、いったい何の関連があるのだ？
-[KOUJI]: Is there some relationship between that pose and the fact that you came here?
+[Kouji]: Is there some relationship between that pose and the fact that you came here?
 //［沙夜香］：そんな、尖らないでよ。
 [Sayaka]: You don't have to get so nervous.
 //［コウジ］：目的はなんだ？
-[KOUJI]: What is your aim, anyway?
+[Kouji]: What is your aim, anyway?
 //［沙夜香］：目的はね、あ・な・た。
 [Sayaka]: My aim is, Y. O. U.
 //［沙夜香］：私ね、あなたのことを‥‥。
 [Sayaka]: You know, I wanted to....
 //［コウジ］：色仕掛けか。フン、どいつもこいつも‥‥。
-[KOUJI]: You're seducing me for your own ends, aren't you? Hmph, just like everyone else...
+[Kouji]: You're seducing me for your own ends, aren't you? Hmph, just like everyone else...
 //xenon_24
 xenon_24
 //［沙夜香］：その強がり、いつまで続くのかしらね。
@@ -463,11 +463,11 @@ saya05
 //［沙夜香］：こう見えてもね、私は自信があるのよ。
 [Sayaka]: I *do* have confidence in my looks.
 //［コウジ］：パイズリのか？
-[KOUJI]: Are you going to give me a tittyfuck?
+[Kouji]: Are you going to give me a tittyfuck?
 //［沙夜香］：違うわ！　このプロポーションにね、男どもははいつくばるのよ。
 [Sayaka]: No! These proportions are enough to make any man grovel before me.
 //［コウジ］：はいつくばる奴が、どうかしている。
-[KOUJI]: What do you think of becoming my groveling slave?
+[Kouji]: What do you think of becoming my groveling slave?
 //［沙夜香］：フフン、口ではそんなこと言っても、アソコはもうビンビンじゃない‥‥。
 [Sayaka]: Huhu, even if you say that, you're quite lively there already, aren't you...?
 //［沙夜香］：ほーら、こうすれば‥‥。
@@ -477,11 +477,11 @@ Squeak, squeak, squeak...
 //［沙夜香］：口で強がっても、こっちは正直よねぇ～。
 [Sayaka]: Even if you're bluffing up there, down here is quite honest.
 //［コウジ］：私は自分を偽るのが嫌いでな。
-[KOUJI]: I hate attempts to deceive me.
+[Kouji]: I hate attempts to deceive me.
 //［沙夜香］：本当に変ね、あなたって‥‥そんな風に感じる男性って、初めてよ。
 [Sayaka]: You're really weird, you know that...this is the first time a man has made me feel this way.
 //［コウジ］：倒れている人を自室に運んで、いきなりパイズリを始める女も、初めてだがな。
-[KOUJI]: Well, this is the first time a woman I've defeated has come to my room and, without warning, started giving me a tittyfuck.
+[Kouji]: Well, this is the first time a woman I've defeated has come to my room and, without warning, started giving me a tittyfuck.
 //［沙夜香］：もう、こんなにビクビクしちゃってくるくせに‥‥。
 [Sayaka]: And yet, you're still so hard....
 //［沙夜香］：ほら、やせ我慢しないで、イっちゃいなさいよ。若いんだから、１回くらいどうってことないんでしょ？
@@ -511,19 +511,19 @@ saya04b
 //［沙夜香］：ずいぶん、たまっていたようね。
 [Sayaka]: You've certainly been saving up, haven't you?
 //［コウジ］：フン、やけに手慣れているな。
-[KOUJI]: Heh, you're awfully skilled at this.
+[Kouji]: Heh, you're awfully skilled at this.
 //［沙夜香］：どう？　私の気持ち、わかってもらえたかしら。
 [Sayaka]: So? Did my feelings come through to you?
 //［コウジ］：フン、おい女。
-[KOUJI]: Hey, woman.
+[Kouji]: Hey, woman.
 //［沙夜香］：な、なによ‥‥急に。
 [Sayaka]: Wh-what do you want...all of a sudden.
 //［コウジ］：こんなので私を誘惑したつもりか。
-[KOUJI]: Did you intend to seduce me this way?
+[Kouji]: Did you intend to seduce me this way?
 //［沙夜香］：男のなんて、みんな同じよね、アソコをビクビクさせてイっちゃったくせに。
 [Sayaka]: All you men are the same, even after getting you hard and making you cum.
 //［コウジ］：では、私が普通の男と違うのを、見せてやろう。
-[KOUJI]: Then, let met show you that I'm no ordinary man.
+[Kouji]: Then, let met show you that I'm no ordinary man.
 //［沙夜香］：な、なによ‥‥きゃぁぁっ！！
 [Sayaka]: What's with that...Kyaaaa!!
 //saya02
@@ -531,7 +531,7 @@ saya02
 //［沙夜香］：や、やめて‥‥痛っ！
 [Sayaka]: S-stop...it hurts!
 //［コウジ］：フン、処女でもあるまい、演技はやめろ。
-[KOUJI]: Hmph, stop with the theatrics, you're not a virgin.
+[Kouji]: Hmph, stop with the theatrics, you're not a virgin.
 //［沙夜香］：そ、そんな‥‥まだ十分濡れてない‥‥。
 [Sayaka]: That's...I'm still not wet enough...
 //ずりゅぅぅぅぅぅぅぅぅっっ！！
@@ -545,33 +545,33 @@ Gsh, gsh, gsh...
 //［沙夜香］：止めて！　お、お願い‥‥くぅぅっ！
 [Sayaka]: Stop it! P-please...Kuuhhh!
 //［コウジ］：フン、だんだん、濡れてきたではないか。
-[KOUJI]: Hmph, little by little, you *are* getting wet, aren't you?
+[Kouji]: Hmph, little by little, you *are* getting wet, aren't you?
 //［沙夜香］：そ、そんな‥‥痛っ！　あぁぁぁ、いやぁぁぁっ！！
 [Sayaka]: Y-you...It hurts! Ahhhh, noooooo!!
 //［沙夜香］：お願い‥‥やめっ‥‥痛っ、いやよ、いやぁっ！！
 [Sayaka]: Please...stop...it hurts, it hurts, noooo!!
 //［コウジ］：フン、女の悲鳴は心地よいＢＧＭだ。そのうち歓喜の悲鳴にかわるものだ。
-[KOUJI]: Hum, a woman's cries are truly satisfying BGM. Those cries will soon turn to pleasure.
+[Kouji]: Hum, a woman's cries are truly satisfying BGM. Those cries will soon turn to pleasure.
 //［沙夜香］：か、変わるわけ‥‥あぁぁぁぁっ！！
 [Sayaka]: Th-they will not....Ahhhhh!!
 //［コウジ］：貴様が始めたことだ。自業自得だろう。
-[KOUJI]: You started this. You reap what you sow.
+[Kouji]: You started this. You reap what you sow.
 //［沙夜香］：くぅぅぅ‥‥。
 [Sayaka]: Kuuu....
 //［コウジ］：なんだ、嬉し泣きか。
-[KOUJI}: Could those be tears of joy?
+[Kouji}: Could those be tears of joy?
 //［沙夜香］：お、お願い‥‥くぅぅ‥‥あぅ、あぅ‥‥。
 [Sayaka]: P-please...Kuu...Ow, ow....
 //［コウジ］：フン、では膣内に出してやろう、特別になっ！
-[KOUJI]: Hmm, well, then, especially for you, I'll cum right inside your pussy!
+[Kouji]: Hmm, well, then, especially for you, I'll cum right inside your pussy!
 //［沙夜香］：いや‥‥だ、ダメよ！　膣内はダメ！！
 [Sayaka]: No...you can't! You can't cum inside!!
 //［コウジ］：心にも無いこと言うな。
-[KOUJI]: But your heart says differently.
+[Kouji]: But your heart says differently.
 //［沙夜香］：いやよ‥‥膣内なんて、絶対だめぇっ！！
 [Sayaka]: No...you absolutely can't cum inside me!!
 //［コウジ］：遅いな‥‥くっ。
-[KOUJI]: Too late...Ku-.
+[Kouji]: Too late...Ku-.
 //［沙夜香］：いやよ、いやぁぁ！　妊娠しちゃうぅっ！！
 [Sayaka]: No, nooo! I'll get pregnant!!
 //どぷっ、どぷっ、どぷっ！！
@@ -587,15 +587,15 @@ Moving slowly, Sayaka gently put her clothes back on. As she did, she severely t
 //［沙夜香］：酷いことをするのね、でも、これで私の‥‥。
 [Sayaka]: You did a horrible thing, but here, I'm...
 //［コウジ］：何を寝ぼけたことを言っている。くれると言うモノはもらうがな。
-[KOUJI]: What are you muttering half-asleep about? I didn't *do* something to you, I *gave* you something.
+[Kouji]: What are you muttering half-asleep about? I didn't *do* something to you, I *gave* you something.
 //［沙夜香］：くっ‥‥。
 [Sayaka]: Kh...
 //［コウジ］：フン、涼子の方がまだ可愛げがあったな。
-[KOUJI]: Hmph, you're not nearly as cute as Ryouko was.
+[Kouji]: Hmph, you're not nearly as cute as Ryouko was.
 //［沙夜香］：な、なんですって‥‥あの女も‥‥？
 [Sayaka]: What are you talking about...Her, too...?
 //［コウジ］：最近の役人は、コールガールのような事も行うらしい。文字どおり公僕という訳か。
-[KOUJI]: It seems the latest government officials can become call girls, too. Truly befitting of the title "public servant".
+[Kouji]: It seems the latest government officials can become call girls, too. Truly befitting of the title "public servant".
 //さすがに、沙夜香の顔はみるみる紅潮していった。
 Indeed, Sayaka's face flushed bright red.
 //［沙夜香］：わ、私だってね、仕事でなければ、誰があんたなんかと‥‥。
@@ -605,24 +605,24 @@ As Sayaka said this, she made a face as if to say, "I'm done for." As she covere
 //この女は意外にウブだったようだ。色仕掛けなど、最初からやめればよかったものを。
 This woman was unusually naive. It would have been better for her not to seduce me in the first place.
 //［コウジ］：フン、仕事の為か。ポリシーも何もないヤツがよく言う詭弁だな。
-[KOUJI]: Hmm, for work, eh? Sounds like sophistry right out of those policy-less bastards' mouths.
+[Kouji]: Hmm, for work, eh? Sounds like sophistry right out of those policy-less bastards' mouths.
 //［沙夜香］：ちくしょう！
 [Sayaka]: FUCK!
 //沙夜香がコブシを私に叩きつけてきた。私は手のひらで、それをスポっと受けとめる。
 Sayaka swung her fist at me, only for it to smack right into the palm of my hand.
 //［コウジ］：ほぉ、勇ましいな。
-[KOUJI]: Hoh~, how brave of you.
+[Kouji]: Hoh~, how brave of you.
 //［沙夜香］：あのマシンはね、政府が搾取するわ、必ずね！
 [Sayaka]: The government will surely bleed that machine dry!
 //［コウジ］：私が、だろう？　一人称と三人称をきちんと使い分けろ。
-[KOUJI]: You mean "I will"? Don't mix up the first and third persons.
+[Kouji]: You mean "I will"? Don't mix up the first and third persons.
 //［沙夜香］：この恨み、はらさないでおかないからっ！
 [Sayaka]: I'm not letting go of this grudge!
 //［コウジ］：マタロウか、お前は。
-[KOUJI]: You've got quite the chip on your shoulder, don't you?
+[Kouji]: You've got quite the chip on your shoulder, don't you?
 //［コウジ］：それよりも、舞の方だ。触媒がいなくては、シンクロすることも、ままならん。
-[KOUJI]: Besides, I have Mai to worry about. If a medium is not present, I can't synchronize.
+[Kouji]: Besides, I have Mai to worry about. If a medium is not present, I can't synchronize.
 //［コウジ］：向こうの宏治には、５時間後と言っておいたが‥‥やつがビアンカに黒コゲにされるのは明らかだ。
-[KOUJI]: To Kouji, I said that I'd be there in 5 hours...it's obvious he'll be charred to a crisp by Bianca.
+[Kouji]: To Kouji, I said that I'd be there in 5 hours...it's obvious he'll be charred to a crisp by Bianca.
 //［コウジ］：はやいところ、行動をおこさなくては‥‥。
-[KOUJI]: I have to move as quickly as possible...
+[Kouji]: I have to move as quickly as possible...

@@ -19,7 +19,7 @@ to01_m
 //どうやら、私が寝ている間、彼女が看病をしていたらしかった。
 It seemed that, as I was sleeping, she was tending to my sickness.
 //［コウジ］：君が‥‥？
-[Kohji]: You've been...?
+[Kouji]: You've been...?
 //［トレイシー］：ええ。
 [Tracy]: Yes.
 //トレイシーはニコッと微笑むと、私の目の前で足を組み替えた。少し焦ってしまう。
@@ -29,45 +29,45 @@ As she arranged the sheets covering my body, she said,
 //［トレイシー］：ここは私たちのシップです、安心して下さい。
 [Tracy]: Relax, please, this is our ship.
 //［コウジ］：私は、いったい‥‥‥‥。
-[Kohji]: What on earth did I....
+[Kouji]: What on earth did I....
 //［トレイシー］：覚えていないのですか？
 [Tracy]: Have you remembered?
 //［コウジ］：残念ながら、記憶がはっきりとしないんだ‥‥。
-[Kohji]: Unfortunately, my memory is unclear...
+[Kouji]: Unfortunately, my memory is unclear...
 //これは事実だった。確か私は、例のシップの中でランファと話をしていて‥‥。
 This was a fact. I was definitely last on a ship talking to Ranphar...
 //それからどうしたのか、あまりよく覚えていなかった。
 Whatever happened after that, I don't remember.
 //［コウジ］：そうだ、例のシップはどうなったんだい？
-[Kohji]: That's right, what happened to the ship I was on?
+[Kouji]: That's right, what happened to the ship I was on?
 //［トレイシー］：恒星ナーズへ墜ちました‥‥。
 [Tracy]: It fell into the star Nuz...
 //［コウジ］：お、墜ちたって‥‥！？
-[Kohji]: It fell...?!
+[Kouji]: It fell...?!
 //［トレイシー］：エンジンの、突然の異常出力によって、操舵不能となり、恒星の重力に捕らわれました。
 [Tracy]: Because the engine output suddenly spiked, it became impossible to maneuver, and the star's gravity captured it.
 //［コウジ］：結局、生存者は‥‥。
-[Kohji]: In the end, the survivors...
+[Kouji]: In the end, the survivors...
 //［トレイシー］：今となっては、確かめる手だてがありません‥‥。
 [Tracy]: Even now, there's no way to confirm it...
 //［コウジ］：そうだね‥‥。
-[Kohji]: So that's how it is....
+[Kouji]: So that's how it is....
 //［トレイシー］：救難信号の件は一応、定時連絡システムが、まだ生きていたため、という理由になると思います。
 [Tracy]: As to the matter of the distress signal, for the time being, I believe that the regular communications system was still working.
 //［コウジ］：定時連絡システムか‥‥‥‥。
-[Kohji]: The regular communications system, huh...
+[Kouji]: The regular communications system, huh...
 //［トレイシー］：幸い、プロフェッサがあなたを見つけられたのは、幸運でした。
 [Tracy]: Fortunately, the professor found you. It was a sign of good luck.
 //［コウジ］：そうかもね‥‥ランファは？
-[Kohji]: That might be true...anyway, what happened to Ranphar?
+[Kouji]: That might be true...anyway, what happened to Ranphar?
 //［トレイシー］：ランファ‥‥？
 [Tracy]: Ranphar...?
 //［コウジ］：そうだよ、ランファはどうしたんだ。
-[Kohji]: Yeah, how is Ranphar doing?
+[Kouji]: Yeah, how is Ranphar doing?
 //［トレイシー］：ランファは‥‥私と一緒に、ここへ残っていましたけど‥‥。
 [Tracy]: Ranphar had...remained here with me...
 //［コウジ］：じょ、冗談はよしてくれ。私は、彼女と話しているときに‥‥。
-[Kohji]: Lay off the jokes, will you. I was talking to her at the time...
+[Kouji]: Lay off the jokes, will you. I was talking to her at the time...
 //［トレイシー］：冗談ではありません。彼女は、私と一緒にコンソールオペレートをしていました。
 [Tracy]: I'm not joking. She was operating the console with me.
 //トレイシーは、ちょっぴりムッとしたような表情をしたが、眼鏡のフレームをツイと持ち上げると、すぐに元のスマイルへと戻る。
@@ -83,53 +83,53 @@ No, this situation is the same as before......
 //［トレイシー］：どうなさったんですか？
 [Tracy]: Is something the matter?
 //［コウジ］：なぁ、トレイシー。
-[Kohji]: Hey, Tracy.
+[Kouji]: Hey, Tracy.
 //［トレイシー］：なんでしょうか？
 [Tracy]: Yes, what is it?
 //［コウジ］：夢で見ていたことが現実になる事って、あると思うかい？
-[Kohji]: Do you think there have been cases where something seen in a dream becomes reality?
+[Kouji]: Do you think there have been cases where something seen in a dream becomes reality?
 //［トレイシー］：さぁ、どうでしょう。パラ・サイコロジーの観点からですと、それは予知とカテゴライズされると思いますが。
 [Tracy]: What about it? From the perspective of parapsychology, I'd say that's categorized as a form of precognition.
 //［コウジ］：予知、か‥‥。
-[Kohji]: Precognition....
+[Kouji]: Precognition....
 //［トレイシー］：予知をしても、それを忘れている場合があるのです。
 [Tracy]: There are cases of precognition where subjects forget afterward.
 //［コウジ］：忘れている場合？
-[Kohji]: They forget afterwards?
+[Kouji]: They forget afterwards?
 //［トレイシー］：予知夢を見ながら、それを忘れてしまうのですが、ある時ふっと、既視感覚となって思い出すことはあり得ますね。
 [Tracy]: In precognitive dreams, if you forget something, at some point, you'll suddenly experience deja vu as you remember.
 //［コウジ］：既視感覚‥‥‥‥。
-[Kohji]: Deja vu......
+[Kouji]: Deja vu......
 //［トレイシー］：既視感覚はほとんどの場合、予知夢に依存するのです。
 [Tracy]: Deja vu is largely derived from precognitive dreams.
 //［コウジ］：じゃあ、今こうして話している事が、夢である確率は？
-[Kohji]: Then, is it likely that the conversation we're having right now is in a dream?
+[Kouji]: Then, is it likely that the conversation we're having right now is in a dream?
 //［トレイシー］：それは‥‥数学的確率論であらわされる性質のものでは、無いと思いますが。
 [Tracy]: As to that...in terms of a mathematical property representable by probability theory, I don't think that exists.
 //［コウジ］：概算で構わないさ。敢えて算出するとすれば、だよ。勘でも構わない。
-[Kohji]: Estimation doesn't matter. Even if you could estimate it, that is. Instinct doesn't matter, either.
+[Kouji]: Estimation doesn't matter. Even if you could estimate it, that is. Instinct doesn't matter, either.
 //［トレイシー］：可能性、というパラフレーズが許されるのであれば‥‥。
 [Tracy]: The probability, if you'll allow me to paraphrase....
 //［トレイシー］：十分にあり得ると思います。
 [Tracy]: I think it's quite possible it exists.
 //［コウジ］：夢と現実を見分ける方法は？
-[Kohji]: What about a way to differentiate dreams from reality?
+[Kouji]: What about a way to differentiate dreams from reality?
 //［トレイシー］：残念ながら、ありません。
 [Tracy]: I'm sorry, but that doesn't exist.
 //［コウジ］：よくある例の方法は？　ほら、夢の中で頬をつねってみるとか‥‥。
-[Kohji]: Aren't there already a few example ways, though? Like, pinching someone's cheek if they're dreaming...
+[Kouji]: Aren't there already a few example ways, though? Like, pinching someone's cheek if they're dreaming...
 //［トレイシー］：夢の中でも感覚器や知覚が働くことは、証明されています。ですから、その方法は無理だと思います。
 [Tracy]: It has been confirmed that in a dream, your senses and perceptions are working. For that reason, I don't think that method will work.
 //［コウジ］：じゃあ、どうすればいいのさ。
-[Kohji]: Well, what do I do?
+[Kouji]: Well, what do I do?
 //［トレイシー］：ですから、方法が無い、というのがパラ・サイコロジーの統一的見解です。
 [Tracy]: Parapsychology's unified stance is that there is no method.
 //［コウジ］：じゃあトレイシー、君はいったい何をよりどころにして、日々を生活しているんだい？
-[Kohji]: Then, Tracy, what do you take as a basis for daily life?
+[Kouji]: Then, Tracy, what do you take as a basis for daily life?
 //［トレイシー］：私‥‥ですか？
 [Tracy]: Me...?
 //［コウジ］：そう。
-[Kohji]: Yes.
+[Kouji]: Yes.
 //［トレイシー］：私は、夢や現実にあまりこだわらない方だと思います。
 [Tracy]: To me, the difference between dreams and reality isn't something to worry over.
 //［トレイシー］：現実であれ、非現実であれ‥‥‥‥。
@@ -139,33 +139,33 @@ No, this situation is the same as before......
 //［トレイシー］：フフ、これはプロフェッサの受け売りですのよ。
 [Tracy]: Hehe, I'm just repeating the professor's thoughts, though.
 //［コウジ］：ファルの‥‥。
-[Kohji]: Far's....
+[Kouji]: Far's....
 //［トレイシー］：自分という存在に確信が持てないのは、むしろ当然だって、彼女はいつも言ってましたわ。
 [Tracy]: "It's quite natural to have no way of confirming my own existence," was something she used to say.
 //［コウジ］：むしろ当然、か‥‥‥‥。
-[Kohji]: "It's quite natural", huh...
+[Kouji]: "It's quite natural", huh...
 //私は腕を頭の後ろで組むと、天井をじっと見つめた。
 I put my arms behind my head and stared at the ceiling.
 //ふと、胸の部分に腕があたると、堅い感触がかえってくる。
 As I put my arm on my chest, I felt something hard.
 //［コウジ］：（あっ‥‥‥‥。）
-[Kohji]: (Ah-...)
+[Kouji]: (Ah-...)
 //胸のポケットには、私が第２次調査隊のシップで見つけた、あの映像記録用ＭＤが忍ばせてあった。
 In my chest pocket, I still had the micro disc video recording that I picked up from the second investigative team's ship.
 //［コウジ］：（どうやら、これだけは夢じゃないらしい‥‥。）
-[Kohji]: (So it wasn't a dream after all....)
+[Kouji]: (So it wasn't a dream after all....)
 //さっと部屋の中を見回す。あった。どうも端末横の装置が、プレイヤーらしい。
 As I glanced around the room, I found it. Next to the terminal, there was a player-like device.
 //［トレイシー］：どうしました？
 [Tracy]: What is it?
 //［コウジ］：あぁ‥‥ええと、水を一杯もらえないかな。
-[Kohji]: Aah...Um, could you please get me a glass of water?
+[Kouji]: Aah...Um, could you please get me a glass of water?
 //［トレイシー］：水ですか、ハイ。
 [Tracy]: One glass of water, coming up.
 //トレイシーは、横にあったサイドテーブルから、水が満たされたグラスを私に手渡した。
 Tracy pulled a full glass of water from the coffee table beside her and handed it to me.
 //［コウジ］：いや、水ではなくて‥‥んー、そうだな。
-[Kohji]: Well, maybe not water...hm, oh yeah.
+[Kouji]: Well, maybe not water...hm, oh yeah.
 //怪訝そうに私を見つめるトレイシーを、いかに煙に巻こうかと考えていると、ベッド脇のコンパネが鳴り出した。
 As Tracy looked at me suspiciously, pondering how I was deceiving her, the control panel by the bed started ringing. 
 //ピーピッ‥‥ピーピッ。<$04><$32><$05>
@@ -179,7 +179,7 @@ As Tracy looked at me suspiciously, pondering how I was deceiving her, the contr
 //［トレイシー］：はい、どうかなさいましたか？
 [Tracy]: Yes, how do you do?
 //［ファル］：コウジは‥‥？
-[Far]: What about Kohji...?
+[Far]: What about Kouji...?
 //［トレイシー］：ここにいますが‥‥。
 [Tracy]: He's here, too....
 //［ファル］：磁気嵐が去って、本部と連絡が取れるようになったわ。
@@ -195,29 +195,29 @@ As Tracy looked at me suspiciously, pondering how I was deceiving her, the contr
 //［トレイシー］：どうしたのかしら‥‥。
 [Tracy]: What has happened...?
 //［コウジ］：行ってきたら？　もう大丈夫だから‥‥。
-[Kohji]: Do you have to go? Will it be OK...?
+[Kouji]: Do you have to go? Will it be OK...?
 //［トレイシー］：そうですか‥‥では、しばらくしたら、また戻ってきますね。
 [Tracy]: It could be...well, if it's only for a moment, I'll return.
 //そう言い残すと、トレイシーは部屋からいそいそと出ていってしまった‥‥。
 With those words, Tracy left the room hurriedly....
 //［コウジ］：（しかし、ファル‥‥何だか、様子が変だったけど‥‥。）
-[Kohji]: (The thing is, Far....seemed a little weird....)
+[Kouji]: (The thing is, Far....seemed a little weird....)
 //［コウジ］：（まあ、いいさ。）
-[Kohji]: (Well, it's probably fine.)
+[Kouji]: (Well, it's probably fine.)
 //さっそく胸ポケットから、映像記録用のＭＤを取り出す。端末横の再生装置に入れようとすると、
 I immediately took out the micro disc from my chest pocket. I placed it into the playback device next to the terminal.
 //［コウジ］：（電源が、来ていないじゃないか‥‥。）
-[Kohji]: (There's no power here....)
+[Kouji]: (There's no power here....)
 //［コウジ］：（どうしたらいいんだろうか‥‥。）
-[Kohji]: (What should I do....)
+[Kouji]: (What should I do....)
 //［コウジ］：（そうだ、他の部屋に行ってみたら‥‥‥‥。）
-[Kohji]: (Oh right, I can go to another room....)
+[Kouji]: (Oh right, I can go to another room....)
 //これは意外に悪くない考えに思えた。私は脇にあった着替えに袖を通すと、ドアへ向かっていった。
 I thought this wasn't a bad idea, so I put on the change of clothes next to me and headed out the door.
 //こういう時の私は、どうやら直情的らしい‥‥。
 At the time, I was pretty straightforward...
 //［コウジ］：（さてと、このＭＤを再生できる機械は‥‥‥‥。）
-[Kohji]: (Well, then, where should I find another device to play this recorder back?)
+[Kouji]: (Well, then, where should I find another device to play this recorder back?)
 //　◆ ファルに聞いてみよう。
 ◆ Let's see if Far's room has one.
 //　◆ 格納庫にあったような気が‥‥。
@@ -259,21 +259,21 @@ Bianca was sound asleep. Her large chest was moving up and down.
 //どうやら、大丈夫らしい‥‥。
 She seems fine....
 //［コウジ］：（プレイヤーに電源はきている‥‥。）
-[Kohji]: (The player is connected to power....)
+[Kouji]: (The player is connected to power....)
 //私は、イジェクトボタンを押すと、機械的な音とともにトレイが出てきた。
 I pressed the eject button, and with a mechanical sound, the tray slid out.
 //私は、それにＭＤを乗せると、再生ボタンを押そうとした。そのとき‥‥。
 I placed the disc in, and pushed the button again. Right then....
 //［コウジ］：な、何だ‥‥どうしたんだ‥‥！？
-[Kohji]: What....what's going on?!
+[Kouji]: What....what's going on?!
 //上を見上げてみる。電灯に異常はないようだが‥‥‥‥。
 As I looked up, the lights weren't acting strangely...
 //［コウジ］：き、気のせいなのか‥‥。
-[Kohji]: I-It must be my imagination...
+[Kouji]: I-It must be my imagination...
 //［コウジ］：ま、まただ‥‥。
-[Kohji]: P-probably...
+[Kouji]: P-probably...
 //［コウジ］：うっ‥‥め、目が‥‥‥。
-[Kohji]: Ughhh...My eyes....
+[Kouji]: Ughhh...My eyes....
 //ど、どうしたというんだ‥‥視界がぼやけてきたような、そんな気がする。
 Wh-what's going on...my vision is going blurry.
 //め、目が‥‥‥‥‥。
@@ -287,13 +287,13 @@ Everything around me seems to be going white....
 //［宏治］：違う、違うんだ！！
 [Kouji]: It can't be, It can't be!!
 //［コウジ］：（い、いったい今のは‥‥‥‥。）
-[Kohji]: (What just happened....)
+[Kouji]: (What just happened....)
 //［コウジ］：（白昼夢‥‥？）
-[Kohji]: (A daydream...?)
+[Kouji]: (A daydream...?)
 //私は頭を２、３度横にふると、気を取り直してＭＤ再生機に向きなおった。ディスプレイはＲＥＡＤＹ表示をしたままだ。
 As I shook my head twice or thrice, I turned my attention to the repaired recorder playback machine. The display read "READY".
 //［コウジ］：ＭＤの再生が先だろう‥‥<$0C>あっ！！
-[Kohji]: The recorder playback comes first...<$0C>Ah!!
+[Kouji]: The recorder playback comes first...<$0C>Ah!!
 //目の前のトレイには、ＭＤが乗ってはいなかった。どこへ行ったんだ！？
 The tray in front of me no longer had the micro disc. Where did it go?!
 //慌てて傍らの時計を見てみる。ほんの数十秒しか経過していない‥‥。
@@ -309,7 +309,7 @@ With that in mind, I rose to my feet....
 //［女の声］：あんた、誰だい？
 [Woman's voice]: And who might you be?
 //［コウジ］：えっ‥‥‥‥。
-[Kohji]: Uhh......
+[Kouji]: Uhh......
 //bi_bast
 bi_bast
 //bi_ba_b
@@ -317,33 +317,33 @@ bi_ba_b
 //１人の女性が、私の前に立つ。ビアンカだった。
 A woman was standing in front of me. It was Bianca.
 //［コウジ］：き、君は‥‥目が、さめたのかい？
-[Kohji]: Y-you woke up?
+[Kouji]: Y-you woke up?
 //［ビアンカ］：あ、あんた‥‥‥‥。
 [Bianca]: Y-you...
 //［コウジ］：‥‥？
-[Kohji]: ...?
+[Kouji]: ...?
 //ビアンカは私の顔を見つめると、驚愕の表情を作りながら後ずさった。
 As Bianca studied my face, she stepped back, astonished.
 //［コウジ］：わ、私が何か‥‥‥‥。
-[Kohji]: What...what did I......
+[Kouji]: What...what did I......
 //［ビアンカ］：こ、ここは‥‥セカンドシップなのか！？
 [Bianca]: This is...the second ship?!
 //［コウジ］：セカンドシップ？
-[Kohji]: Second ship? What do you mean?
+[Kouji]: Second ship? What do you mean?
 //［ビアンカ］：第２次調査隊じゃないのか？
 [Bianca]: This is the second investigative team's ship, isn't it?
 //どうやらセカンドシップが、第２次調査隊艦船の俗称らしい。私は首を横に振ると、
 It seemed the "second ship" was just an abbreviation for "second investigative team's ship." I shook my head.
 //［コウジ］：違う。ここは、言ってみればサードシップの中さ。
-[Kohji]: No. We're in the middle of what you'd call the "third ship".
+[Kouji]: No. We're in the middle of what you'd call the "third ship".
 //［ビアンカ］：第３次調査隊が、派遣されたのか！？
 [Bianca]: They dispatched a third investigative team?!
 //［コウジ］：いちいちリアクションが大きいな、君は‥‥。
-[Kohji]: You're being quite dramatic....
+[Kouji]: You're being quite dramatic....
 //［ビアンカ］：あんたがいたんじゃ、このサードシップも先が長くないわね‥‥。
 [Bianca]: If you're here, you weren't on the third ship for very long, were you....
 //［コウジ］：私のことを、知っているのか？
-[Kohji]: Do you know about me?
+[Kouji]: Do you know about me?
 //［ビアンカ］：知っているも何も‥‥あんたは、第２次調査隊を全滅させた、張本人じゃないのさ！<$05><$04><$30>
 [Bianca]: I know everything...You were the very one who eliminated the second investigative team!
 //xenon_27
@@ -351,17 +351,17 @@ xenon_27
 //\n\n\n　
 \n\n\n
 //［コウジ］：い、今なんて‥‥。
-[Kohji]: Wh-what did you just say...
+[Kouji]: Wh-what did you just say...
 //［ビアンカ］：し、しらばっくれて、どういうつもりさ。
 [Bianca]: G-give me a break, what are you talking about?
 //［コウジ］：しらばっくれてなんかいない。私に記憶は無いんだ‥‥。
-[Kohji]: Don't "give me a break" me. I don't remember a thing....
+[Kouji]: Don't "give me a break" me. I don't remember a thing....
 //［ビアンカ］：あ、あんたはそう言って、セカンドシップでも‥‥‥‥。
 [Bianca]: You, you said that same thing on the second ship....
 //［コウジ］：ふ、ファル‥‥。
-[Kohji]: F-Far...
+[Kouji]: F-Far...
 //［ファル］：コウジ、ここにいたのね‥‥。
-[Far]: Oh, Kohji, you were here this whole time....
+[Far]: Oh, Kouji, you were here this whole time....
 //意外に厳しいファルの表情に、私は黙るしかなかった。ＭＤのことが、バレたんだろうか‥‥。
 Far was looking at me so sternly, I couldn't help but stop talking. She probably found out about the micro disc....
 //［ファル］：ビアンカさん、お目覚めになられましたね。私はキャプテンのファルです。
@@ -375,11 +375,11 @@ Far was looking at me so sternly, I couldn't help but stop talking. She probably
 //［ファル］：ええ、わかっています。
 [Far]: Yes, I know.
 //［コウジ］：わかってるだって！？
-[Kohji]: What, you know?!
+[Kouji]: What, you know?!
 //私は、かなり甲高い声を出してしまった。そのくらい、ファルの発言に驚いてしまったからだ。
 I shouted quite shrilly, because Far's comment really shocked me.
 //［ファル］：コウジ‥‥磁気嵐が弱まったので、あなたの名前を本部に問い合わせてみたわ‥‥。
-[Far]: Kohji...the magnetic storm has weakened, so I asked HQ about your name....
+[Far]: Kouji...the magnetic storm has weakened, so I asked HQ about your name....
 //［ファル］：あなたの名前は、第２次調査隊の名簿に存在しなかった‥‥。
 [Far]: Your name is absent from the roster of the second investigative team....
 //［ビアンカ］：だって、彼は第１次調査隊シップの中で、見つけたんだ。
@@ -393,7 +393,7 @@ I was stunned, probably for a while. Up until now, they were only barely convinc
 //しかしその存在すら否定された今‥‥‥‥私は、いったい誰なんだ？
 But now, that existence has been denied...Then, who even am I?
 //［ファル］：コウジ、あなたは一体、何者なの‥‥。
-[Far]: Kohji, who the hell are you...?
+[Far]: Kouji, who the hell are you...?
 //自分が聞きたいくらいだ、そんなことを私は考えていた‥‥‥‥。
 I wanted to ask that myself. I pondered that question....
 //私はいったい、誰なんだ‥‥‥‥？
@@ -409,7 +409,7 @@ The door seemed to have a hardware-based lock, so I probably can't leave anymore
 //私は手を頭の後ろで組んで、天井をぼーっと見つめる。議論は、私自身の中で、既に散々なされていた。
 I put my arms behind my head and stared at the ceiling. It seemed controversy had become thoroughly embedded in my very being.
 //［コウジ］：自分は一体、誰なのか‥‥。
-[Kohji]: Just who the hell am I....
+[Kouji]: Just who the hell am I....
 //私はもう何度めかになる自問を、繰り返した。
 I've repeated that question to myself so many times already.
 //そんなことを考えながら、私はまぶたを閉じた‥‥。

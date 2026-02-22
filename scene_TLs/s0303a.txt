@@ -9,7 +9,7 @@ s0303a
 //［ランファ］：しろみ！　なんちってぇ～。
 [RANPHAR]: 
 //［ランファ］：コウジ様ぁ‥‥ウルウル。
-[RANPHAR]: KOUJI-sama...*sob sob*
+[RANPHAR]: Kouji-sama...*sob sob*
 //［宏治］：ど、どうしたの、急に涙をためて‥‥。
 [Kouji]: You're crying, all of a sudden...Wh-what's come over you? 
 //［ランファ］：本当にランファのことを、忘れてしまったんですか？
@@ -23,11 +23,11 @@ s0303a
 //［ランファ］：私はぁ‥‥。
 [RANPHAR]: I'm...
 //［ランファ］：コウジ様の心の恋人、なんですぅ！
-[RANPHAR]: KOUJI-sama's romantic partner, of course!
+[RANPHAR]: Kouji-sama's romantic partner, of course!
 //［ランファ］：きゃっ、今のは冗談ですからね。本当は、コウジ様をお慕いするランファなんですぅ。
-[RANPHAR]: Kya-, I was just joking. In truth, I only pine for KOUJI-sama.
+[RANPHAR]: Kya-, I was just joking. In truth, I only pine for Kouji-sama.
 //［ランファ］：ここは、コウジ様と愛を育むための、ベッドの上なんですぅ。
-[RANPHAR]: This is the bed where I nurture love with KOUJI-sama.
+[RANPHAR]: This is the bed where I nurture love with Kouji-sama.
 //［宏治］：あ、あのね‥‥場所だよ、もっと大きな意味での場所。
 [Kouji]: Uh, um...I didn't mean this exact location, I meant this overall place.
 //［ランファ］：ここは、《クワドラ》です。
@@ -49,7 +49,7 @@ s0303a
 //［宏治］：そう、あの眼鏡の美人。
 [Kouji]: Yes, that bespectacled beauty.
 //［ランファ］：コウジ様っ！
-[RANPHAR]: KOUJI-sama!
+[RANPHAR]: Kouji-sama!
 //［ランファ］：いま、何て言いましたか！？
 [RANPHAR]: Just now, what did you say?!
 //［宏治］：こ、恐い声出して、どうしたんだよ。
@@ -81,7 +81,7 @@ s0303a
 //［ランファ］：きゃっ、ホントですか！？
 [RANPHAR]: W-Wait, ARE YOU SERIOUS?!
 //［ランファ］：あン、コウジ様ぁ‥‥。
-[RANPHAR]: Hmph, KOUJI-sama....
+[RANPHAR]: Hmph, Kouji-sama....
 //［宏治］：あ、あのさぁ、トレイシーって人のことだけど‥‥。
 [Kouji]: A-as I was saying, about that Tracy woman...
 //［ランファ］：トレイシーですか？　もう、ランファの若さと可愛さに嫉妬ばかりしてる、行かず後家なんですぅ。
@@ -95,7 +95,7 @@ s0303a
 //［ランファ］：ホントですぅ。でも最近は、ジェネレータの計測をやってたみたいですけど‥‥後はよく知りません。
 [RANPHAR]: It's the truth. But more recently, she seemed to be making measurements about the generator...I don't know what she did afterwards, though.
 //［ランファ］：だってぇ、コウジ様はコウジ様じゃないですか。
-[RANPHAR]: Like I said, KOUJI-sama isn't KOUJI-sama.
+[RANPHAR]: Like I said, Kouji-sama isn't Kouji-sama.
 //［宏治］：オレは君らのことを、残念ながら知らない‥‥。
 [Kouji]: I'm sorry, but I really don't know anything about you all...
 //［ランファ］：ウルウルぅ‥‥。
@@ -103,7 +103,7 @@ s0303a
 //［宏治］：じゃなくて、覚えてないけど、君らがオレのことを知ってるのはどう考えても不公平じゃないか。
 [Kouji]: Or rather, I don't remember, but you all know so much about me. However you look at it, it's not fair.
 //［ランファ］：だって、コウジ様の事を知らないなんて、ここじゃモグリですぅ。
-[RANPHAR]: But, I don't know anything about KOUJI-sama. You're a stranger here.
+[RANPHAR]: But, I don't know anything about Kouji-sama. You're a stranger here.
 //［宏治］：も、もぐり‥‥うーむ。
 [Kouji]: A stranger....hmmm.
 //［ランファ］：《クワドラ》ですか？
@@ -113,7 +113,7 @@ s0303a
 //［宏治］：じゃなくて、ど忘れってやつかな、うん。
 [Kouji]: No, it's more like I've forgotten it, yeah.
 //［ランファ］：《クワドラ》は、コウジ様とランファの、愛の結晶なんですっ。
-[RANPHAR]: The "Kuwadora" is the fruit of KOUJI-sama's and Ranphar's love.
+[RANPHAR]: The "Kuwadora" is the fruit of Kouji-sama's and Ranphar's love.
 //［宏治］：あ、愛の結晶‥‥？
 [Kouji]: T-the fruit of our love?
 //［ランファ］：そうです！
@@ -149,7 +149,7 @@ s0303a
 //［ランファ］：私も詳しいことは知らないんですけど‥‥。
 [RANPHAR]: I don't know the exact details, but...
 //［ランファ］：確かコウジ様、大宇宙海賊御用達霊子エナジー増幅ジェネレータって、言ってました。
-[RANPHAR]: KOUJI-sama, you've definitely called it the Galactic Pirate Company Reiko energy amplifying generator.
+[RANPHAR]: Kouji-sama, you've definitely called it the Galactic Pirate Company Reiko energy amplifying generator.
 //［ランファ］：きゃぁっ！
 [RANPHAR]: Kya-!
 //［宏治］：ど、どうした！？
@@ -165,7 +165,7 @@ s0303a
 //［宏治］：まぁいい、とにかくなんだよ、そのイカれた名前は。
 [Kouji]: Take it easy. In any case, what the hell is with that ridiculous name?
 //［ランファ］：コウジ様が、ご自身で付けたイカした名前ですよっ。
-[RANPHAR]: KOUJI-sama, you came up with that ridiculous name yourself.
+[RANPHAR]: Kouji-sama, you came up with that ridiculous name yourself.
 //［ランファ］：はい、そうでーす。とってもラブリィだと、思いますけどぉ。
 [RANPHAR]: Yes, that's riiiight. I think it's perfectly lovely.
 //［ランファ］：はい。
@@ -197,7 +197,7 @@ s0303a
 //［宏治］：なんだよ、その触媒ってさ。
 [Kouji]: What do you mean by medium?
 //［ランファ］：コウジ様が言ったことですぅ、ランファは知りませんっ！
-[RANPHAR]: KOUJI-sama, you said it yourself, Ranphar has no idea!
+[RANPHAR]: Kouji-sama, you said it yourself, Ranphar has no idea!
 //［宏治］：むぅ‥‥あ、そういえば‥‥。
 [Kouji]: Mmm...Ah, speaking of which...
 //［ランファ］：どうしたんですか？
@@ -207,7 +207,7 @@ s0303a
 //［ランファ］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
 [RANPHAR]: Yes, that's right. That capsule itself is part of the Galactic Pirate...
 //［ランファ］：コウジ様の事ですぅ。
-[RANPHAR]: So you want to know about KOUJI-sama?
+[RANPHAR]: So you want to know about Kouji-sama?
 //［宏治］：オレ？
 [Kouji]: Me?
 //［ランファ］：はいっ。
@@ -217,7 +217,7 @@ s0303a
 //［ランファ］：冗談は好きですけど、冗談じゃありませんっ。
 [RANPHAR]: While I like to joke around, this isn't a joke.
 //［ランファ］：もちろんですぅ。コウジ様こそ、私の愛しい‥‥。
-[RANPHAR]: Of course! KOUJI-sama is my beloved...
+[RANPHAR]: Of course! Kouji-sama is my beloved...
 //［宏治］：じゃなくて！
 [Kouji]: No, that's not what I mean!
 //［ランファ］：大宇宙海賊様ですぅ。
@@ -225,9 +225,9 @@ s0303a
 //［ランファ］：‥‥？
 [RANPHAR]: ...Huh?
 //［ランファ］：コウジ様っ、その涼子せんせって、いったい誰なんですか？
-[RANPHAR]: KOUJI-sama, who on earth is that that Dr. Ryouko you're addressing?
+[RANPHAR]: Kouji-sama, who on earth is that that Dr. Ryouko you're addressing?
 //［ランファ］：コウジ様ぁ、机の引き出しを開けて、何をしてるんですか？
-[RANPHAR]: KOUJI-sama, what are you doing, opening that desk drawer?
+[RANPHAR]: Kouji-sama, what are you doing, opening that desk drawer?
 //［ランファ］：もうプリプリですぅ、涼子って、誰なんですか！？
 [RANPHAR]: Now I'm mad, who the heck is Dr. Ryouko?!
 //［宏治］：涼子は涼子先生だよ、オレの知り合いの女性で‥‥。
@@ -245,7 +245,7 @@ s0303a
 //［ランファ］：それより、なーに？　用は。
 [RANPHAR]: Forget it. What do you want?
 //［トレイシー］：あ、そうでした。コウジ様、ファルネリア様が、お目覚めになりましたが‥‥。
-[TRACY]: Ah, I have news. KOUJI-sama, Farnelia-sama has awakened...
+[TRACY]: Ah, I have news. Kouji-sama, Farnelia-sama has awakened...
 //［トレイシー］：少々取り乱しておいでで、大変です。
 [TRACY]: She's become a little out of control, so I'm having trouble with her.
 //［ランファ］：暴れてるってこと？　麻酔薬でもうっちゃいなさいよ、お尻にプスって。
@@ -257,17 +257,17 @@ s0303a
 //［トレイシー］：私はジェネレータ計測結果のまとめに忙しいのです。
 [TRACY]: I'm busy taking measurements of the generator.
 //［ランファ］：プリプリよぉ、コウジ様ぁ‥‥。
-[RANPHAR]: I'm really upset, KOUJI-samaa....
+[RANPHAR]: I'm really upset, Kouji-samaa....
 //［トレイシー］：こら、コウジ様にお願いしてもダメです。
-[TRACY]: Now, don't go pleading to KOUJI-sama.
+[TRACY]: Now, don't go pleading to Kouji-sama.
 //［ランファ］：ねぇ、コウジ様ぁ‥‥ウルウル。
-[RANPHAR]: Hey, KOUJI-samaa...*sniffle*
+[RANPHAR]: Hey, Kouji-samaa...*sniffle*
 //［宏治］：行ってきなよ、ランファ。
 [Kouji]: Go, Ranphar.
 //［ランファ］：えぇぇ～！！
 [RANPHAR]: WHAAAAT~~!!
 //［トレイシー］：さっ、コウジ様もああおっしゃってる訳だし。
-[TRACY]: See, even KOUJI-sama said to do it.
+[TRACY]: See, even Kouji-sama said to do it.
 //［ランファ］：もうプリプリよぉ。
 [RANPHAR]: Hmph, I'm still upset.
 //［トレイシー］：ファルネリア様は、ＶＩＰルームにおいでです。よろしく頼むわ。
@@ -275,9 +275,9 @@ s0303a
 //［ランファ］：しょうがないわねっ、じゃあ今から行く。
 [RANPHAR]: Fine, then. I'll go now.
 //［トレイシー］：よろしくね‥‥あっ、コウジ様。
-[TRACY]: Good luck...Ah, KOUJI-sama.
+[TRACY]: Good luck...Ah, Kouji-sama.
 //［トレイシー］：私、心の底からコウジ様のことをご心配申し上げて‥‥。
-[TRACY]: From the bottom of my heart, I've been worried about you, KOUJI-sama...
+[TRACY]: From the bottom of my heart, I've been worried about you, Kouji-sama...
 //［ランファ］：ハイハイ、雑音は消さないとねっ。
 [RANPHAR]: All right, I've got to go calm down that commotion.
 //［ランファ］：何かあったら、ベッド傍らのコンパネを利用して下さい。もう飛んでやって来ますからっ！

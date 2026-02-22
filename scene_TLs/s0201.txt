@@ -29,7 +29,7 @@ ra&to03c
 //［ランファ］：コウジ様ぁ、ランファの為に、きっと帰ってきて下さぁい。
 [LANHUA]: Kouji-samaa, for my sake, please definitely come baack.
 //［コウジ］：うむ、このジェネレータは私が大幅に改良したものだからな。理論上は完璧だ。
-[KOUJI]: Indeed, I made a great improvement to this generator. It's theoretically complete.
+[Kouji]: Indeed, I made a great improvement to this generator. It's theoretically complete.
 //［トレイシー］：はい、そう信じています。
 [TRACY]: Yes, I believe so.
 //［ランファ］：私も‥‥私もですぅ。
@@ -47,17 +47,17 @@ She is this mobile ship {Quadra}'s engineer, navigator, and my slave.
 //脳のシナプスの２、３万本は、常に焼き切れている、ちょっと間の抜けた女だ。だが、メカに対する知識は深く、この《クワドラ》に無くてはならない存在である。
 The twenty or thirty thousand synapses in her brain are frequently burned out, so she's a little dumb. However, she has deep knowledge of mechas, and is an irreplaceable presence on the {Quadra}.
 //［コウジ］：大宇宙海賊御用達霊子エナジー増幅ジェネレータの準備は万端か？
-[KOUJI]: Did you finish preparing the Universal Pirate Company Reiko Energy Amplifying Generator?
+[Kouji]: Did you finish preparing the Universal Pirate Company Reiko Energy Amplifying Generator?
 //［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。
 [LANHUA]: Yes, the numerical data you spoke of has already been input.
 //［トレイシー］：後は、ファルネリアさんのシンクロを待つだけですわ。
 [TRACY]: All we have to do now is wait for Farnelia's synchronization.
 //［コウジ］：うむ。
-[KOUJI]: Indeed.
+[Kouji]: Indeed.
 //私はうなずきながら、隣の装置に入っている女性を横目で見た。
 As I nodded, I glanced sideways at the woman placed in the equipment next to me.
 //［コウジ］：（後は、あの女が上手くシンクロしてくれれば‥‥。）
-[KOUJI]: (As long as this woman will synchronize well...)
+[Kouji]: (As long as this woman will synchronize well...)
 //彼女‥‥ファルネリアという名前の女性は、非常に精神感応の力に優れている。今回この計画には、彼女のような人材が必要不可欠だったのだ。
 She was...a woman named Farnelia, with unusually good telepathic abilities. Personnel like her will be a vital, irreplaceable part of my plans this time.
 //大宇宙海賊御用達霊子エナジー増幅ジェネレータ‥‥私が付けたナイスネームのこの装置は、人体から霊子エネルギーを分離する。
@@ -77,13 +77,13 @@ Being a brawny galactic pirate and a gifted, talented genius, I improved upon th
 //［トレイシー］：コウジ様、いかがなされましたか？
 [TRACY]: Kouji-sama, have you finished?
 //［コウジ］：うむ、武者震いというやつだろう。少しゾクゾクする。
-[KOUJI]: Indeed, I'm shaking with excitement, even throbbing a bit.
+[Kouji]: Indeed, I'm shaking with excitement, even throbbing a bit.
 //［トレイシー］：頼もしい限りですわ。
 [TRACY]: You can depend on us.
 //［ランファ］：がんばって下さいね、コウジ様ぁ。
 [LANHUA]: Please give it your all, Kouji-samaa.
 //［コウジ］：では、行ってくることにしよう。
-[KOUJI]: Well then, let's get going.
+[Kouji]: Well then, let's get going.
 //私はそう言うと、ゆっくりと目をつぶった。まわりで響いていた重々しい稼働音が、少しずつ小さくなっていく。
 As I said that, I slowly closed my eyes. A heavy moving sound rang all around, and slowly died down.
 //私は心地よい振動と静寂に、身を委ねていった‥‥‥‥。<$05>

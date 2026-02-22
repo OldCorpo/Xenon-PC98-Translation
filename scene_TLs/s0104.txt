@@ -177,7 +177,7 @@ She sighed. Her expression was that of exasperation.
 //［目の前の女］：本来なら、それは私のセリフなんだけどね‥‥まぁ、いいわ。
 [Woman before me]: That should be my line... Well, whatever.
 //［目の前の女］：私は、ファル‥‥ファルネリアよ、コウジさん。
-[Woman before me]: Call me Far. Farneria is my full name, Kohji-san.
+[Woman before me]: Call me Far. Farneria is my full name, Kouji-san.
 //私は、ファルと名乗る目の前の女性を、改めて見つめてみた。
 I was once again staring at the woman before me who called herself Far.
 //透き通るような赤い髪、大きくキリっとした目、薄く笑みがこぼれる口元‥‥。
@@ -185,7 +185,7 @@ Crystalline red hair, big and tense eyes, a faint smile...
 //左耳上に付けているのは何だろうか‥‥アクセサリか、あるいは無線のレシーバか何かだろうか。
 What was she wearing above her left ear? Some accessory? Or was it some sort of wireless receiver or something...?
 //［私］：そういえば、いま私のことをコウジって‥‥？
-[Me]: Come to think of it. Now, you called me Kohji...? 
+[Me]: Come to think of it. Now, you called me Kouji...? 
 //［ファル］：あなたの名前じゃない。
 [Far]: Isn't that your name?
 //［私］：私の、名前？
@@ -195,7 +195,7 @@ What was she wearing above her left ear? Some accessory? Or was it some sort of 
 //xenon_16
 xenon_16
 //［私］：（コウジ‥‥コウジというのか‥‥。）
-[Me]: (Kohji... Am I Kohji?)
+[Me]: (Kouji... Am I Kouji?)
 //［ファル］：そう、覚えていないのね‥‥。
 [Far]: That's right, you don't remember, do you...
 //ファルは少し憂いがかった表情をすると、私のところへ歩み寄った。
@@ -213,43 +213,43 @@ I had only just realized, but my outfit was quite sparse. A nearly see-through s
 //薄いシャツの胸部分には、確かにネームプレートが付いていた。自重により、少し下へ垂れ下がっている。
 There was, indeed, a nametag on the breast of this thin shirt. It was hanging down by its own weight.
 //そこには、確かにコウジと記してある。どうやら、コウジというのが私の名前らしかった。
-And, indeed, "Kohji" was inscribed there. It seemed that Kohji was my name.
+And, indeed, "Kouji" was inscribed there. It seemed that Kouji was my name.
 //そういえば、聞き覚えが無い訳ではなかった‥‥。
 Speaking of which, it wasn't as though I had never heard that name before.
 //コウジ、か‥‥‥‥。
-Kohji...?
+Kouji...?
 //［ファル］：どう、思い出した？
 [Far]: Did you remember something?
 //［コウジ］：いや、何となく聞き覚えがある程度で‥‥‥でも、ありがとう。
-[Kohji]: No, I just feel like I've heard it before... But, thank you.
+[Kouji]: No, I just feel like I've heard it before... But, thank you.
 //［ファル］：えっ、どういうこと？
 [Far]: Huh? What do you mean?
 //［コウジ］：いや‥‥なんというか、自分の名前だけでも知ることができたのは、大きな収穫だった。
-[Kohji]: Well...it's just that I'm very glad I could at least learn my own name.
+[Kouji]: Well...it's just that I'm very glad I could at least learn my own name.
 //［ファル］：フフ、大げさね‥‥でもあなたの顔、本当に黄色いわ。
 [Far]: *chuckle* You're exaggerating. But your face is truly yellow.
 //［コウジ］：黄色？
-[Kohji]: Yellow?
+[Kouji]: Yellow?
 //［ファル］：あっ、ごめんなさい。黄色はね、感謝の気持ちを表しているの。
 [Far]: Ah, sorry. The emotion yellow stands for is that of gratitude.
 //［コウジ］：‥‥‥‥‥‥。
-[Kohji]: ‥‥‥‥‥‥
+[Kouji]: ‥‥‥‥‥‥
 //［ファル］：ごめんなさい、私はちょびっとだけ、精神感応の能力があって、人の感情を色で読みとることができるのよ。
 [Far]: I should explain: I have a limited ability to see into people's hearts. I can perceive their emotions as colours.
 //［コウジ］：へぇ、じゃあ今の色は？
-[Kohji]: Really? Then, what color am I now?
+[Kouji]: Really? Then, what color am I now?
 //［ファル］：明るい青、かしら。
 [Far]: Perhaps a light blue.
 //［コウジ］：それはなに？
-[Kohji]: And what does that mean?
+[Kouji]: And what does that mean?
 //［ファル］：感銘の色よ。
 [Far]: Awe.
 //［コウジ］：ファル‥‥ネリアさん、だったかな。
-[Kohji]: You are Far...neria-san, right?
+[Kouji]: You are Far...neria-san, right?
 //［ファル］：ファルで構わないわ。
 [Far]: Just call me Far.
 //［コウジ］：わかった、ファル。じゃあ早速教えてほしいんだが‥‥。
-[Kohji]: Okay, Far. Well, I'd like you to tell me quickly...
+[Kouji]: Okay, Far. Well, I'd like you to tell me quickly...
 //［ファル］：あら、何を教えてほしいの？
 [Far]: Oh? What do you want me to tell you?
 //彼女は質問を受けて当惑する教師、という感じだった。
@@ -257,19 +257,19 @@ She sounded like a teacher gotten perplex by a sudden question.
 //やや怪訝そうな表情をしているファルに対峙して、私は、足下を指さしながら、
 Facing a puzzled Far, with a finger pointed at the ground, I said:
 //［コウジ］：ここさ。
-[Kohji]: About here.
+[Kouji]: About here.
 //［ファル］：‥‥ここ？
 [Far]: ...Here?
 //［コウジ］：ここは、いったいどこなんだ？　医療センターなどにしては、やけに設備が仰々しいが‥‥。
-[Kohji]: Where the heck is this place? Even for a medical center, the equipment is rather gaudy...
+[Kouji]: Where the heck is this place? Even for a medical center, the equipment is rather gaudy...
 //［ファル］：医療センター‥‥いったい、何を言っているの？
 [Far]: A medical centre? Just what are you talking about?
 //［コウジ］：‥‥‥？
-[Kohji]: ‥‥‥？
+[Kouji]: ‥‥‥？
 //［ファル］：かなり、記憶が欠落しているみたいね、コウジ‥‥。
-[Far]: Kohji, it seems you really don't remember...
+[Far]: Kouji, it seems you really don't remember...
 //［コウジ］：ち、違うのか？
-[Kohji]: A-am I wrong?
+[Kouji]: A-am I wrong?
 //フゥと１つ溜息を吐くと、ファルは肩をしゃくりあげるようなゼスチャーをしてみせる。
 Sighing deeply, Far shrugged.
 //少し、切なげな表情を私に向けると、ゆっくりと口を開き始めた。
@@ -281,11 +281,11 @@ Turning a somewhat pained face towards me, she slowly opened her mouth.
 //壁に埋め込まれているコンソールパネルが鳴り出した。硬い電子音が、あたりの空気をピリピリと振動させる。
 The console panel built into the wall started to squeal. A stringent electronic sound permeated the atmosphere.
 //［コウジ］：な、なんだ‥‥？
-[Kohji]: W-What's...?
+[Kouji]: W-What's...?
 //［ファル］：ブリッジからだわ、解析が終わったのかしら？
 [Far]: It's from the bridge, does that mean they finished the analysis?
 //［コウジ］：（ブリッジ‥‥？　解析‥‥‥？？）
-[Kohji]: (Bridge...? Analysis...??)
+[Kouji]: (Bridge...? Analysis...??)
 //ファルは手慣れたように、近くのコンパネを指で叩いている。
 Far knocked on the console panel as though she'd done so a thousand times.
 //しばらくすると、眼鏡を掛けた綺麗な女性が、モニターに映し出された。
@@ -307,35 +307,35 @@ After some time, a pretty girl wearing glasses appeared on the screen.
 //［ファル］：フフ、早く教えてあげてね。我、救出に成功せり、ってね。
 [Far]: *chuckle* Please inform her soon. Tell her that the rescue was a success.
 //［コウジ］：（ブリッジって‥‥艦船じゃあるまいし、いったいどういうことだ‥‥？）
-[Kohji]: (A bridge? So are we on board a warship? What's the meaning of this?)
+[Kouji]: (A bridge? So are we on board a warship? What's the meaning of this?)
 //［コウジ］：（それに、プロフェッサと呼ばれていたけど‥‥‥。）
-[Kohji]: (Moreover, she called her "Professor"...)
+[Kouji]: (Moreover, she called her "Professor"...)
 //［ファル］：‥‥どうかしたの？　怪訝そうな顔をしているわね。
 [Far]: ...Is something the matter? You look confused.
 //［コウジ］：そうだろうさ。ここはどこ、私は誰、という状況だからね。
-[Kohji]: What did you expect? I'm still wondering, What's this place? Who am I?
+[Kouji]: What did you expect? I'm still wondering, What's this place? Who am I?
 //［ファル］：じゃあ、心して聞いて頂戴‥‥。
 [Far]: Then listen to me carefully.
 //［ファル］：ここは、辺境のナーズ星系‥‥恒星ナーズのほぼ真上にあたるわ。
 [Far]: We're inside the Naaz star system, at the known universe's borderland. We're currently on standby around Naaz.
 //［コウジ］：‥‥‥‥‥！？
-[Kohji]: ‥‥‥‥‥！？
+[Kouji]: ‥‥‥‥‥！？
 //［ファル］：驚いているようね‥‥無理はないかも。
 [Far]: You look pretty shocked. I guess that's understandable.
 //［コウジ］：じゃ、じゃあここは‥‥‥‥。
-[Kohji]: Then, this place...
+[Kouji]: Then, this place...
 //0100
 0100
 //［ファル］：そうよ‥‥‥‥。
 [Far]: Yes‥‥‥‥
 //［コウジ］：き、君はいったい‥‥‥‥。
-[Kohji]: W-who are you‥‥‥‥？
+[Kouji]: W-who are you‥‥‥‥？
 //［ファル］：私は超心理学者のファル、ファルネリア‥‥。
 [Far]: I am Far, Farneria, a parapsychologist.
 //［ファル］：あなたは、第２次調査隊の唯一の生き残りとして、私たちに救助されたの‥‥‥。
 [Far]: You are the sole survivor from the Second Investigative Squadron, and we rescued you.
 //［コウジ］：‥‥！？
-[Kohji]: ‥‥！？
+[Kouji]: ‥‥！？
 //唯一の‥‥‥‥<$0C>生き残り‥‥‥‥？
 Sole...<$0C> survivor...?
 //‥‥‥‥この、私が‥‥‥‥‥‥‥‥。
@@ -350,7 +350,7 @@ Ordering me to wait here, Far left the room at a fast pace.
 //看護の者をよこすという事だったが‥‥‥‥。
 Was it to dispatch a nurse for me?
 //［コウジ］：看護、か‥‥‥‥。
-[Kohji]: A nurse...?
+[Kouji]: A nurse...?
 //あらためて、自分の姿を確認してみる。
 Once again, I took a look at myself.
 //薄手のシャツ１枚に、丈の比較的短いズボン、それに胸についたネームプレート‥‥それが、私の身につけているモノの、全てだった。
@@ -370,7 +370,7 @@ And yet...
 //逆に言えば、分かっているのは、それだけとも言える。
 You could say that was all that I knew.
 //［コウジ］：まぁ、いいさ‥‥。
-[Kohji]: Well, whatever.
+[Kouji]: Well, whatever.
 //改めて部屋を見回してみる。意外に綺麗に片づいた部屋だった。
 I looked around the room one more time. It was unexpectedly clean.
 //右側には、ついたてのようなモノが置いてある。しかし、誰かと相部屋、という訳でもなさそうだ。
@@ -380,7 +380,7 @@ On my left, there was a device resembling a computer terminal, yet nothing was d
 //質素、という言葉が相応しい部屋だった‥‥。
 The word "plain" really aptly fit this room.
 //［コウジ］：これで、ドアにカギが掛かっていたら、ほとんど監禁だな‥‥。
-[Kohji]: If the door were locked, you could practically call this confinement...
+[Kouji]: If the door were locked, you could practically call this confinement...
 //言ってみて、改めて気付いた。そうか、その可能性もあるな‥‥。
 On second thought, now that I said it, I realized that I could actually have been locked in here.
 //　◆ ドアを開けてみよう。
@@ -408,7 +408,7 @@ We were inside a spaceship, passing right over a star.
 //この部屋から出ることができたとしても、ただそれだけということだ。
 Even if I left this room, there was nothing more I could do.
 //［コウジ］：生殺与奪は、完全に向こうが握っているということか。
-[Kohji]: I'm completely at the mercy of those people...
+[Kouji]: I'm completely at the mercy of those people...
 //私は、わざと声に出して言ってみた。これは、考えすぎというものだろうか‥‥。
 I said this phrase aloud on purpose. Maybe I was over-thinking it...
 //幸い、ベッドは柔らかく寝心地は良さそうだった。

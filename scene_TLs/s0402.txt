@@ -121,7 +121,7 @@ s0402
 //［トレイシー］：ううん、何でもないの‥‥あぁぁ‥‥。
 [TRACY]: D-don't worry about it...ahhhh....
 //［トレイシー］：（バイブのスイッチが、入ったんだわ‥‥遠隔リモコンの‥‥コウジ様が‥‥。）
-[TRACY]: (The vibrator's switch has been turned on...from the remote control...by KOUJI-sama...)
+[TRACY]: (The vibrator's switch has been turned on...from the remote control...by Kouji-sama...)
 //［ビアンカ］：トレイシー、病室に案内しようか？
 [BIANCA]: Tracy, do you need to go to the sick ward?
 //［トレイシー］：大丈夫よ、心配しないで‥‥ちょっと外に出てくる。
@@ -135,7 +135,7 @@ s0402
 //［トレイシー］：‥‥んっ‥‥‥‥。
 [TRACY]: ...Mm......
 //［トレイシー］：（バイブが稼働した時は、コウジ様が呼んでらっしゃるとき‥‥。）
-[TRACY]: (Whenever the vibrator moves, it's like KOUJI-sama is calling me...)
+[TRACY]: (Whenever the vibrator moves, it's like Kouji-sama is calling me...)
 //［トレイシー］：（遅れたら、どんなに酷いお仕置きが待っているか‥‥。）
 [TRACY]: (If I'm late, some kind of cruel task will be waiting for me...)
 //［トレイシー］：（で、でも‥‥んくっ。）
@@ -179,13 +179,13 @@ s0402
 //［トレイシー］：（と、とにかく足の後ろにでも‥‥‥‥。）
 [TRACY]: (In, in any case, not behind my leg......)
 //［ランファ］：あっ、あとコウジって人が、いたよね。
-[RANPHAR]: Ah-, that KOUJI fellow was here, too, right?
+[RANPHAR]: Ah-, that Kouji fellow was here, too, right?
 //［トレイシー］：（ドキッ！）　こ、コウジ様が、なにか？
-[TRACY]: (Ba-dump!) W-well, what /about/ K-KOUJI-sama?
+[TRACY]: (Ba-dump!) W-well, what /about/ K-Kouji-sama?
 //［ランファ］：えーっ、コウジさまぁ？
-[RANPHAR]: Hmmmm, KOUJI-sama?
+[RANPHAR]: Hmmmm, Kouji-sama?
 //［トレイシー］：こ、コウジさんよ。コウジさん。
-[TRACY]: K-KOUJI. I meant Mr. KOUJI.
+[TRACY]: K-Kouji. I meant Mr. Kouji.
 //［ランファ］：ねー、トレイシー。
 [RANPHAR]: Heeey, Tracy.
 //［トレイシー］：な、なにかしら。
@@ -249,45 +249,45 @@ s0402
 //［トレイシー］：ランファ、ごめんなさい‥‥。
 [TRACY]: Ranphar, forgive me...
 //［トレイシー］：あっ、コウジ様！？
-[TRACY]: Ah-, KOUJI-sama?!
+[TRACY]: Ah-, Kouji-sama?!
 //［トレイシー］：（いけない！　すっかり忘れてしまっていたわ‥‥。）
 [TRACY]: (It can't be! I'd completely forgotten...)
 //［トレイシー］：（あぁぁ、どうしましょう‥‥コウジ様に嫌われでもしたら‥‥。）
-[TRACY]: (Ahhh, what do I do...even if KOUJI-sama dislikes it...)
+[TRACY]: (Ahhh, what do I do...even if Kouji-sama dislikes it...)
 //［トレイシー］：す、すみませんでした。あの‥‥。
 [TRACY]: I-I'm so sorry. Um...
 //［コウジ］：遅れたことか？
-[KOUJI]: Was there something delaying you?
+[Kouji]: Was there something delaying you?
 //［トレイシー］：申し訳ありません。どのようなお仕置きも、覚悟しています‥‥。
 [TRACY]: I apologize deeply. There was an errand I remembered...
 //［コウジ］：フン、殊勝ではないか。
-[KOUJI]: Hm, nothing out of the ordinary, I hope?
+[Kouji]: Hm, nothing out of the ordinary, I hope?
 //［コウジ］：ときに、さっきの女性は誰だ？
-[KOUJI]: Speaking of which, who was that woman from earlier?
+[Kouji]: Speaking of which, who was that woman from earlier?
 //［トレイシー］：さっきの‥‥？
 [TRACY]: From earlier?
 //［コウジ］：フッ、お前が唇を奪った女性だ。
-[KOUJI]: Hm, the woman whose lips you stole away.
+[Kouji]: Hm, the woman whose lips you stole away.
 //［トレイシー］：ランファ？
 [TRACY]: Ranphar?
 //［コウジ］：そうか、ランファというのか。
-[KOUJI]: Oh, her name is Ranphar?
+[Kouji]: Oh, her name is Ranphar?
 //［トレイシー］：か、彼女が‥‥何か？
 [TRACY]: Well..what about her?
 //［コウジ］：なかなかだな‥‥。
-[KOUJI]: Well, about her...
+[Kouji]: Well, about her...
 //［トレイシー］：ど、どういう‥‥ことでしょうか？
 [TRACY]: What do you mean...?
 //［コウジ］：トレイシー、お前はあの女を落とせ。
-[KOUJI]: Tracy, dominate that woman.
+[Kouji]: Tracy, dominate that woman.
 //［トレイシー］：えぇっ！？
 [TRACY]: Huuuh?!
 //［コウジ］：そして、お前の言いなりになるように、仕込んでおくんだ。
-[KOUJI]: And once you have, train her the same way you have been trained.
+[Kouji]: And once you have, train her the same way you have been trained.
 //［トレイシー］：そ、そんな‥‥なぜ‥‥なぜですか？
 [TRACY]: Wh-why do you want that?
 //［コウジ］：僕が、彼女のことを気に入ったからだ。
-[KOUJI]: Because I've taken an interest in her.
+[Kouji]: Because I've taken an interest in her.
 //［トレイシー］：‥‥！？
 [TRACY]: ...?!
 //［トレイシー］：（な、なんなの‥‥それって‥‥。）
@@ -297,33 +297,33 @@ s0402
 //［トレイシー］：（な、何をドキドキしているの、トレイシー‥‥。）
 [TRACY]: (C-calm yourself, Tracy...)
 //［トレイシー］：（別に、コウジ様は私のことを捨てるとか、そう言った訳じゃないわ。）
-[TRACY[: (It's not as though KOUJI-sama is throwing me away or anything.)
+[TRACY[: (It's not as though Kouji-sama is throwing me away or anything.)
 //［トレイシー］：（捨てる‥‥？）
 [TRACY]: (Throwing me away...?)
 //［トレイシー］：（ま、まさかコウジ様は、私のことにもう飽きられて‥‥。）
-[TRACY]: (P-perhaps KOUJI-sama has had enough of me...)
+[TRACY]: (P-perhaps Kouji-sama has had enough of me...)
 //［トレイシー］：（い、イヤよ、イヤ‥‥そんな‥‥。）
 [TRACY]: (No, no, no...it can't be...)
 //［トレイシー］：（コウジ様がいない人生なんて、考えられない‥‥。）
-[TRACY]: (I can't imagine a life without KOUJI-sama...)
+[TRACY]: (I can't imagine a life without Kouji-sama...)
 //［トレイシー］：（あぁぁぁ、どうしたらいいの‥‥私‥‥。）
 [TRACY]: (Ahhhh, what should I do...)
 //［トレイシー］：（そんな‥‥コウジ様‥‥あぁぁぁ‥‥。）
-[TRACY]: (KOUJI-sama...don't...aaaaah....)
+[TRACY]: (Kouji-sama...don't...aaaaah....)
 //［コウジ］：どうした、トレイシー。涙を浮かべて。
-[KOUJI]: What's going on, Tracy? Your eyes are tearing up.
+[Kouji]: What's going on, Tracy? Your eyes are tearing up.
 //［トレイシー］：あぁぁ、コウジ様、私を捨てないで下さい！
-[TRACY]: Ahhh, KOUJI-sama, please don't throw me away!
+[TRACY]: Ahhh, Kouji-sama, please don't throw me away!
 //［トレイシー］：私、何でもします。コウジ様がしろということなら‥‥お願いです、何でも命じて下さい。
-[TRACY]: I'll do anything. Anything you say, KOUJI-sama...please, command me.
+[TRACY]: I'll do anything. Anything you say, Kouji-sama...please, command me.
 //［コウジ］：ほぉ、何でもするのか。
-[KOUJI]: Ho~, anything I ask?
+[Kouji]: Ho~, anything I ask?
 //［トレイシー］：はい！　お願いです、ですから‥‥ですから‥‥。
 [TRACY]: Yes! Anything you say. Just...just...
 //［トレイシー］：んっ‥‥‥‥。
 [TRACY]: Mm-.....
 //［トレイシー］：（あぁぁ、コウジ様のキス‥‥優しい‥‥。）
-[TRACY]: (Ahhhh, KOUJI-sama kisses...so gently...)
+[TRACY]: (Ahhhh, Kouji-sama kisses...so gently...)
 //［トレイシー］：（どうぞ、私の舌をぞんぶんになぶって下さい‥‥。）
 [TRACY]: (Go ahead, please nibble my tongue to your heart's content...)
 //［トレイシー］：（そう、もっともっと‥‥んぐっ‥‥。）
@@ -333,21 +333,21 @@ s0402
 //［トレイシー］：んんんっ‥‥‥‥あはぁぁぁぁ‥‥。
 [TRACY]: Mmmmm-.....ahaaaaa....
 //［コウジ］：可愛いヤツだな、僕がお前のことを捨てる訳がないだろう。
-[KOUJI]: How cute you are, I wouldn't throw you away.
+[Kouji]: How cute you are, I wouldn't throw you away.
 //［トレイシー］：ほ、本当に‥‥？
 [TRACY]: R-really?
 //［コウジ］：うん。トレイシー、君が一番に決まっている。
-[KOUJI]: Mhm. Tracy, you're the best.
+[Kouji]: Mhm. Tracy, you're the best.
 //［トレイシー］：あぁぁ、コウジ様‥‥コウジ様ぁ‥‥。
-[TRACY]: Ahhhh, KOUJI-sama...KOUJI-sama....
+[TRACY]: Ahhhh, Kouji-sama...Kouji-sama....
 //［コウジ］：何でもすると言ったな。
-[KOUJI]: You said you would do anything, didn't you?
+[Kouji]: You said you would do anything, didn't you?
 //［コウジ］：では、あのランファという女のことは、頼んだぞ。
-[KOUJI]: Then, I leave the matter of that Ranphar girl to you.
+[Kouji]: Then, I leave the matter of that Ranphar girl to you.
 //［コウジ］：あと、そこに落ちているバイブ、きちんと尻に入れておけ。
-[KOUJI]: Afterwards, put that vibe that fell out securely back up your butt.
+[Kouji]: Afterwards, put that vibe that fell out securely back up your butt.
 //［トレイシー］：コウジ様が喜んで下さるなら、私は何でも‥‥。
-[TRACY]: Anything to please KOUJI-sama...
+[TRACY]: Anything to please Kouji-sama...
 //［トレイシー］：そうよ、それが私たちの愛なの‥‥‥‥。<$05>
 [TRACY]: Yes, that was the love between us....
 //［ランファ］：トレイシー、お話って、なに？
@@ -361,7 +361,7 @@ s0402
 //［トレイシー］：（あぁぁ、私、どうしたらいいの‥‥。）
 [TRACY]: (Ahh, what should I do...)
 //［トレイシー］：（コウジ様‥‥お願いです‥‥‥‥。）
-[TRACY]: (KOUJI-sama...please...)
+[TRACY]: (Kouji-sama...please...)
 //［ランファ］：あの、お話がないのなら、部署に戻りたいんですけど‥‥。
 [RANPHAR]: Um, if you have nothing to talk about, I want to go back to my room...
 //［トレイシー］：（警戒しているわ‥‥それはそうよね‥‥。）
@@ -577,15 +577,15 @@ ra&to02
 //［ランファ］：んぐんぐ‥‥。
 [RANPHAR]: Mmfmmf....
 //［コウジ］：よくやったな、トレイシー。
-[KOUJI]: You did well, Tracy.
+[Kouji]: You did well, Tracy.
 //［コウジ］：見させてもらったが、なかなかの手際だぞ。
-[KOUJI]: You have shown splendid technique here.
+[Kouji]: You have shown splendid technique here.
 //［トレイシー］：はい‥‥コウジ様のためなら‥‥。
-[TRACY]: Yes...for KOUJI-sama....
+[TRACY]: Yes...for Kouji-sama....
 //［ランファ］：トレイシー‥‥誰？
 [RANPHAR]: Tracy...who's that?
 //［トレイシー］：コウジ様よ‥‥ランファ、あなたのご主人様になるお方‥‥。
-[TRACY]: This is KOUJI-sama...Ranphar, he's the man who will become your master...
+[TRACY]: This is Kouji-sama...Ranphar, he's the man who will become your master...
 //［ランファ］：トレイシーのご主人様？
 [RANPHAR]: Is he your master, Tracy?
 //［トレイシー］：そうよ、とっても素敵なお方よ‥‥。
@@ -601,26 +601,26 @@ ra&to02
 //［ランファ］：はーい、ご主人様。
 [RANPHAR]: Ye~s, master.
 //［コウジ］：フッ、元気があっていい。今日から、僕の部屋に来させろ。
-[KOUJI]: Hm, it's good to have such energy. Starting today, you'll come to my room.
+[Kouji]: Hm, it's good to have such energy. Starting today, you'll come to my room.
 //［トレイシー］：えっ‥‥きょ、今日から‥‥！？
 [TRACY]: Huuuh...S-Starting today...?!
 //［トレイシー］：わ、わかりました‥‥。
 [TRACY]: I-I understand...
 //［コウジ］：お前も、来るんだ。
-[KOUJI]: Tracy, that applies to you, too.
+[Kouji]: Tracy, that applies to you, too.
 //［トレイシー］：わ、私も？
 [TRACY]: M-Me, too?
 //［コウジ］：ただし、お前は見ているだけだがな‥‥フフッ。
-[KOUJI]: However, you'll only be watching...Haha.
+[Kouji]: However, you'll only be watching...Haha.
 //［トレイシー］：そ、そんな‥‥。
 [TRACY]: H-how cruel...
 //［トレイシー］：い、いえ‥‥こ、コウジ様の命じるままに‥‥。
-[TRACY]: B-but...If it's what KOUJI-sama commands...
+[TRACY]: B-but...If it's what Kouji-sama commands...
 //［トレイシー］：（そうよ、コウジ様は私が一番と言って下さったわ‥‥。）
-[TRACY]: (That's right, KOUJI-sama said before that I was his number one...)
+[TRACY]: (That's right, Kouji-sama said before that I was his number one...)
 //［トレイシー］：（ランファとしたって、別に構わないわ‥‥。）
 [TRACY]: (Someone like Ranphar doesn't matter as much...)
 //［トレイシー］：（コウジ様は、私だけのご主人様よ‥‥。）
-[TRACY]: (KOUJI-sama is my only master...)
+[TRACY]: (Kouji-sama is my only master...)
 //［トレイシー］：（そうよ‥‥ずっと、ずっと‥‥。）
 [TRACY]: (Yes...forever and ever...)

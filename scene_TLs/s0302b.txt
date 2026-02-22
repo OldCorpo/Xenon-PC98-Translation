@@ -43,7 +43,7 @@ s0302b
 //［宏治］：ここはいったいどこなんだ。
 [Kouji]: Where in the world is this place?
 //［トレイシー］：ここ、とおっしゃられますと、今コウジ様がおられる場所ですか？
-[TRACY]: And by "here", do you mean to say, "the place where KOUJI-SAMA is located now"?
+[TRACY]: And by "here", do you mean to say, "the place where Kouji-SAMA is located now"?
 //［トレイシー］：ベッドの上に寝ておられますわ。
 [TRACY]: Well, you're resting on top of the bed.
 //［トレイシー］：何かお気に触られる事でも？
@@ -61,7 +61,7 @@ s0302b
 //［宏治］：トレイシーが感じる事で構わないよ。
 [Kouji]: I don't care about your personal feelings towards her.
 //［トレイシー］：ちょっとコウジ様に優しくしてもらってるからって、やたらと鼻にかけてる子ですね。
-[TRACY]: She's the kind of girl who, when KOUJI-sama is even a little nice towards her, really takes it to heart.
+[TRACY]: She's the kind of girl who, when Kouji-sama is even a little nice towards her, really takes it to heart.
 //［トレイシー］：その他には？
 [TRACY]: Anything else you want to know?
 //［宏治］：彼女は、ここで何をしているの？
@@ -83,7 +83,7 @@ s0302b
 //［宏治］：い、いや‥‥じゃあ君は？
 [Kouji]: Uh, never mind...what about you?
 //［トレイシー］：コウジ様が行う様々なことを、サポートさせて戴くのが、私の役目です。
-[TRACY]: My role is to run KOUJI-sama's errands and provide support.
+[TRACY]: My role is to run Kouji-sama's errands and provide support.
 //［宏治］：うーん‥‥。
 [Kouji]: Hmmmm....
 //［宏治］：なぜオレの事を知っているんだい？
@@ -91,17 +91,17 @@ s0302b
 //［トレイシー］：あの‥‥どういう意味でしょうか？
 [TRACY]: Umm...what do you mean by that?
 //［宏治］：コウジ、コウジって。オレは君たちのことなんて、全然知らないんだぜ。
-[Kouji]: Always with the "KOUJI, KOUJI". I know nothing about you ladies.
+[Kouji]: Always with the "Kouji, Kouji". I know nothing about you ladies.
 //［トレイシー］：それは、恐らく記憶が一時的に混乱しているからですわ。
 [TRACY]: That's probably because your memories become fuzzy every hour or so.
 //［宏治］：だから、記憶は確かだってば。オレは宏治であって‥‥。
 [Kouji]: I'm telling you, you have to believe that my memories are right. Because I'm Kouji...
 //［トレイシー］：ええ、コウジ様です。
-[TRACY]: Yes, you're KOUJI-sama.
+[TRACY]: Yes, you're Kouji-sama.
 //［宏治］：だからぁ‥‥だいたい何さ、さっきからその『コウジ様』ってのは。
-[Kouji]: I keep telling you...to begin with, what's with that "KOUJI-sama" from earlier?
+[Kouji]: I keep telling you...to begin with, what's with that "Kouji-sama" from earlier?
 //［トレイシー］：コウジ様は、コウジ様です。それ以外に、お呼びできません。
-[TRACY]: KOUJI-sama is KOUJI-sama. I can't call you any other way.
+[TRACY]: Kouji-sama is Kouji-sama. I can't call you any other way.
 //［宏治］：んー‥‥。
 [Kouji]: Mmmm--...
 //［宏治］：《クワドラ》とはいったい何なんだい？
@@ -139,7 +139,7 @@ s0302b
 //［宏治］：その、それって何の冗談？
 [Kouji]: I-is that your idea of a joke?
 //［トレイシー］：冗談？　私、冗談とイカの頭は嫌いですの。コウジ様、知ってらっしゃるはずでしょう？
-[TRACY]: Joke? I have no use for a joke like that. KOUJI-sama, do you think you understand?
+[TRACY]: Joke? I have no use for a joke like that. Kouji-sama, do you think you understand?
 //［宏治］：じゃあ何かい、ここはその、《クワドラ》とやらいう宇宙船の中で、もしかして宇宙空間中に浮かんでいるとか？
 [Kouji]: Well, in any case, we're in the middle of the "Kuwadora" space ship, so could it be possible that we're floating through outer space right now?
 //［トレイシー］：もしかしなくても、おっしゃる通りですわ。
@@ -161,7 +161,7 @@ s0302b
 //［宏治］：なんだよ、そのイカれた名前は。
 [Kouji]: What's with that nutty name?
 //［トレイシー］：コウジ様が自ら、命名されたのではありませんか。
-[TRACY]: KOUJI-sama, you named it yourself, didn't you?
+[TRACY]: Kouji-sama, you named it yourself, didn't you?
 //［宏治］：えっ？　お、オレが‥‥？
 [Kouji]: Huh-? I-I did?
 //［トレイシー］：はい、そうですわ。
@@ -179,11 +179,11 @@ s0302b
 //［宏治］：そ。そのジェネレータの機能の概説とやらを、教えてくれ。
 [Kouji]: Yes. Please give me a summary of that generator's capabilities.
 //［トレイシー］：私も詳しくは知らないのですが、コウジ様がおっしゃるに、何でも大変なシロモノとか。
-[TRACY]: I don't know the specifics, but from KOUJI-sama has said, it's a very important appliance.
+[TRACY]: I don't know the specifics, but from Kouji-sama has said, it's a very important appliance.
 //［宏治］：た、大変なシロモノ‥‥それが機能の概説？
 [Kouji]: A-an important appliance...Is that your summary of its capabilities?
 //［トレイシー］：コウジ様が、それしかお教え下さらなかったのではありませんか。
-[TRACY]: KOUJI-sama never told me anything else about it.
+[TRACY]: Kouji-sama never told me anything else about it.
 //［宏治］：そ、そうだっけ？
 [Kouji]: Th-that's it, then?
 //［トレイシー］：そうですわ。
@@ -225,19 +225,19 @@ s0302b
 //［宏治］：わははは。
 [Kouji]: Wahahaha.
 //［トレイシー］：こ、コウジ様？
-[TRACY]: K-KOUJI-sama?
+[TRACY]: K-Kouji-sama?
 //［宏治］：涼子先生だな、その手は喰わないぜ。わははは。
 [Kouji]: Doctor Ryouko, is that you, please stop biting my hand, wahahaha.
 //［トレイシー］：コウジ様、お気を確かに‥‥‥。
-[TRACY]: KOUJI-sama, please stay calm...
+[TRACY]: Kouji-sama, please stay calm...
 //［宏治］：おーい、涼子せんせー！　その辺に隠れてるんだろ！？
 [Kouji]: Heeey, Doctor Ryoukooo! Are you hiding around there?!
 //［トレイシー］：こ、コウジ様、ゴミ箱をあさって一体何を‥‥。
-[TRACY]: K-KOUJI-sama, why on earth are you flipping that wastebasket...?
+[TRACY]: K-Kouji-sama, why on earth are you flipping that wastebasket...?
 //［宏治］：出てこいよぉ、涼子先生！
-[KOUJI]: Come out, Doctor Ryouko!
+[Kouji]: Come out, Doctor Ryouko!
 //［トレイシー］：ど、どうしましょう‥‥コウジ様がとうとう‥‥。
-[TRACY]: Wh-what is happening...KOUJI-sama, you're 
+[TRACY]: Wh-what is happening...Kouji-sama, you're 
 //［宏治］：とうとうって何だよ、とうとうって。失礼な。
 [Kouji]: ""? What do you mean, ""? Sorry.
 //［トレイシー］：で、ですが‥‥‥。
@@ -251,7 +251,7 @@ s0302b
 //［トレイシー］：ランファ、何があったのです？
 [TRACY]: Ranphar, has something happened?
 //［ランファ］：もうプリプリよぉ。コウジ様のおそばに、そんなに長く‥‥。
-[RANPHAR]: I'm frustrated already. When I'm away from KOUJI-sama for that long...
+[RANPHAR]: I'm frustrated already. When I'm away from Kouji-sama for that long...
 //［トレイシー］：人それぞれに、役割というものがあるのです。それより用はなんですか？
 [TRACY]: We each have our own roles. What do you want beyond that?
 //［ランファ］：ファルネリア様が、お目覚めになって‥‥。
@@ -271,9 +271,9 @@ s0302b
 //［トレイシー］：わかったわ、今からいきます。
 [TRACY]: Got it. I'll go immediately.
 //［ランファ］：早くしてね。あっ、コウジ様ぁ。
-[RANPHAR]: Please hurry. Ah-, KOUJI-sama.
+[RANPHAR]: Please hurry. Ah-, Kouji-sama.
 //［ランファ］：ランファ、コウジ様が記憶を無くされても、ずっと愛して‥‥。
-[RANPHAR]: Ranphar has always loved KOUJI-sama, even when his memories aren't there...
+[RANPHAR]: Ranphar has always loved Kouji-sama, even when his memories aren't there...
 //［トレイシー］：さて、雑音は消してと。
 [TRACY]: There, that racket has gone down.
 //［トレイシー］：何かありましたら、ベッド傍らのコンパネを利用して下さい。

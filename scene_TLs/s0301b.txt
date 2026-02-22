@@ -21,9 +21,9 @@ The alarm reverberated through my head...I felt a little nauseous.
 //［私］：き、君は‥‥？
 [Me]: W-who are you...?
 //［女］：コウジ様、いつの間にお目覚めになったのですか？
-[Woman]: KOUJI-sama, when did you awaken?
+[Woman]: Kouji-sama, when did you awaken?
 //［私］：コウジ？
-[Me]: KOUJI?
+[Me]: Kouji?
 //［女］：どうしましょう‥‥ジェネレータのせいなのかしら？
 [Woman]: What to do...was it the generator's fault?
 //［私］：いったい‥‥いったい何を言っているんだ？
@@ -31,7 +31,7 @@ The alarm reverberated through my head...I felt a little nauseous.
 //［私］：あれ‥‥？　電気が消えたのかな‥‥。
 [Me]: Huh...? The electricity's been cut...
 //［女］：コウジ様、お気を確かに。
-[Woman]: KOUJI-sama, please be cautious.
+[Woman]: Kouji-sama, please be cautious.
 //地面が唐突に自分の方へ、せり上がってくるような感覚に見舞われた。
 I was suddenly struck with the feeling that the ground was gradually rising towards me.
 //ドサッという音を聞いて、オレは自分が倒れたことを知った。
@@ -41,7 +41,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 //そう考えると、ドアの方へと後戻りしはじめた。
 As I thought that, I started turning back towards the door.
 //［私］：コウジ‥‥さま？
-[Me]: KOUJI...sama?
+[Me]: Kouji...sama?
 //ドサッという音を聞いて、オレは自分が倒れたことを知る。床の冷たさが、心地よかった‥‥。
 As I heard a thud, I realize I had fallen down. The cool feeling of the ground was quite pleasant...
 //ヒンヤリとした硬い感触を頬に感じながら、オレは自分の身に降り懸かった災厄を、克明に思い出していた‥‥。
@@ -253,7 +253,7 @@ The problem here is, this sleeping comfort is nice, and the soft feeling of the 
 //なんだ、何も問題は無いじゃないか。
 What the heck, there's no problem at all, is there.
 //コウジ様‥‥‥‥コウジ‥‥‥‥‥‥。
-KOUJI-sama....KOUJI.......
+Kouji-sama....Kouji.......
 //何だ‥‥‥‥。
 What is it...
 //綺麗な透き通った声が２つ、オレを呼んでいるようだった‥‥。
@@ -261,13 +261,13 @@ Two lovely, clear voices seemed to call out to me....
 //オレはゆっくりと、固く閉じていた目を開けてみた‥‥。
 I slowly and gently opened my tightly shut eyelids....
 //［右の女］：ああン、コウジ様、コウジ様ぁ～。
-[Woman on the right]: Ahhhn, KOUJI-sama, KOUJI-samaa~.
+[Woman on the right]: Ahhhn, Kouji-sama, Kouji-samaa~.
 //［左の女］：良かった‥‥コウジ様‥‥。
-[Woman on the left]: Thank goodness...KOUJI-sama....
+[Woman on the left]: Thank goodness...Kouji-sama....
 //［左の女］：ご気分はいかがです？
 [Woman on the left]: Are you feeling well?
 //［右の女］：よかったですぅ、コウジ様が生きてらして‥‥。
-[Woman on the right]: What good news, KOUJI-sama seems to be alive....
+[Woman on the right]: What good news, Kouji-sama seems to be alive....
 //［左の女］：ご気分が、すぐれないのですか？
 [Woman on the left]: Could it be, you're not feeling well?
 //［右の女］：ハイ！　ランファが何でも聞いちゃいますぅ。
@@ -285,9 +285,9 @@ I slowly and gently opened my tightly shut eyelids....
 //［宏治］：‥‥誰だっけ？
 [Kouji]: ...Who are you again?
 //［左の女］：トレイシーです。私はコウジ様の最も大切な‥‥‥‥ポッ。
-[Woman on the left]: I'm TRACY. I'm KOUJI-sama's most important...*blush*.
+[Woman on the left]: I'm TRACY. I'm Kouji-sama's most important...*blush*.
 //［右の女］：ランファだって、ランファだってコウジ様の、大切で掛け替えのない女性なんだからぁ。
-[Woman on the right]: RANPHAR too, RANPHAR is KOUJI-sama's important, irreplaceable woman.
+[Woman on the right]: RANPHAR too, RANPHAR is Kouji-sama's important, irreplaceable woman.
 //［トレイシー］：ランファ、それは言い過ぎです。私が１番の‥‥。
 [TRACY]: RANPHAR, that's talking yourself up too much. I'm his number one....
 //［ランファ］：ランファだモン。
@@ -321,7 +321,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［トレイシー］：さっ、ほら。
 [TRACY]: Now, go.
 //［ランファ］：コウジ様、何かあったら、呼んで下さいね。
-[RANPHAR]: KOUJI-sama, if anything happens, please call me, OK?
+[RANPHAR]: Kouji-sama, if anything happens, please call me, OK?
 //［宏治］：あ、ああ‥‥わかった。
 [Kouji]: Ah, uhhh...I got it.
 //［ランファ］：フンフン‥‥。
@@ -329,7 +329,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［トレイシー］：困った子ね‥‥まったく。
 [TRACY]: What a troublesome child...truly.
 //［トレイシー］：コウジ様、ご気分はいかがですか？
-[TRACY]: KOUJI-sama, how do you feel?
+[TRACY]: Kouji-sama, how do you feel?
 //［宏治］：あ、ああ‥‥その、悪くないけど、その様って、やめてくれない？
 [Kouji]: Ah, uhhh...I feel well, but could you drop the "-sama" when you call my name?
 //［トレイシー］：そんな‥‥恐れ多いこと、できませんわ。
@@ -359,13 +359,13 @@ s0301a
 //［ランファ］：はい、わかりました！
 [RANPHAR]: Yes, understood!
 //［トレイシー］：コウジ様、そういうことは私が‥‥。
-[TRACY]: KOUJI-sama, in that case, what should I...
+[TRACY]: Kouji-sama, in that case, what should I...
 //［ランファ］：トレイシー、あなた、まだエンコーダの計測結果をまとめていないでしょっ！
 [RANPHAR]: Tracy, you still haven't summarized the measurement results of the encoder, have you?!
 //［トレイシー］：あっ、そういえば‥‥。
 [TRACY]: Ah-, now that you mention it...
 //［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
-[RANPHAR]: Huhum~, KOUJI-sama will be mad if you don't finish.
+[RANPHAR]: Huhum~, Kouji-sama will be mad if you don't finish.
 //［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
 [TRACY]: Ahhhh, wh-what should I do....
 //［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。
@@ -373,7 +373,7 @@ s0301a
 //［ランファ］：ランファが面倒見てあげますねっ。
 [RANPHAR]: See, I look after you, don't I?
 //［トレイシー］：しょうがないわ‥‥じゃあコウジ様、お仕事を終えたら、すぐに参ります。
-[TRACY]: I guess there's no way around it...Well, KOUJI-sama, I'll return as soon as I'm done.
+[TRACY]: I guess there's no way around it...Well, Kouji-sama, I'll return as soon as I'm done.
 //［ランファ］：ほらっ、行った行った！
 [RANPHAR]: Now, go, go!
 //［トレイシー］：んもう‥‥。
@@ -381,7 +381,7 @@ s0301a
 //［ランファ］：困るわよねっ、自分の仕事そっちのけで‥‥プンプン。
 [RANPHAR]: How bothersome your own work must be...hehe.
 //［ランファ］：あっ、コウジ様ぁ、気分はどうですか？
-[RANPHAR]: Ah-, KOUJI-sama, how do you feel?
+[RANPHAR]: Ah-, Kouji-sama, how do you feel?
 //［ランファ］：そんなぁ、できませんっ。
 [RANPHAR]: Come on, I can't do that.
 //［宏治］：ふぅ‥‥まぁいい。とにかく、身体を起こしてくれない？
@@ -389,7 +389,7 @@ s0301a
 //［ランファ］：はーい、わかりましたっ。
 [RANPHAR]: Ye~s, I understand.
 //［ランファ］：ウフッ、コウジ様っ。
-[RANPHAR]: Oof, KOUJI-sama.
+[RANPHAR]: Oof, Kouji-sama.
 //［宏治］：んー、じゃあ、とりあえず話を聞きたいんだけど。
 [Kouji]: Mm-, well, anyway, I have something to ask you. 
 //［ランファ］：はい、何を話したらいいんでしょうか。

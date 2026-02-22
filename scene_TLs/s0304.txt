@@ -13,7 +13,7 @@ It seemed no one was around...
 //オレがドアへ戻りかけたとき‥‥。
 As I closed the door...
 //［女の声］：久しぶりだな、コウジ‥‥。
-[Woman's voice]: It's been a while, KOUJI...
+[Woman's voice]: It's been a while, Kouji...
 //［宏治］：だ、誰だお前は。
 [Kouji]: Wh-who are you?
 //［女］：誰だとはご挨拶だな、私の顔を忘れたか。
@@ -81,7 +81,7 @@ As I closed the door...
 //［ビアンカ］：ええい、黙れ黙れ！　奸計にハメた当事者の貴様に、私の悔しさがわかってたまるか！！
 [BIANCA]: Yeah, shut up already! May you, the perpetrator who entangled me, know the depths of my suffering!!
 //［宏治］：コブシを握りしめながら、熱演するなよ。
-[Kouji]: KOUJI isn't here, so quit your act already.
+[Kouji]: Kouji isn't here, so quit your act already.
 //［宏治］：裏切る？
 [Kouji]: A betrayal?
 //［宏治］：ファルを！？
@@ -165,17 +165,17 @@ Blast!!!<$04><$30><$05>
 //［男］：ビアンカとの一件、こちらから見させてもらった。どうやら、意識が不定期にシンクロしているようだ。
 [Man]: You've showed me your dealings with Bianca from here. Our consciousnesses are somehow irregularly synchronized.
 //［宏治］：ま、まさか、こっちで言うところのコウジ？　宇宙海賊とかいう？
-[Kouji]: C-could it be that you're the one they call KOUJI? The space pirate?
+[Kouji]: C-could it be that you're the one they call Kouji? The space pirate?
 //［宏治］：んー、じゃあトレイシー、かな？
 [Kouji]: Well, then, maybe TRACY?
 //［コウジ］：よし、では惑星エイレートで過ごしたあのときを、覚えているか？
-[KOUJI]: Good, then do you remember that time you revolved about the planet Eirate?
+[Kouji]: Good, then do you remember that time you revolved about the planet Eirate?
 //［コウジ］：黙って聞くのだ。あの時の君は本当に素敵だったと言ってやれ。それで恐らく確信してもらえる事だろう。
-[KOUJI]: Shut up and listen to me. At that time, say to her, "you're really wonderful." That should be enough to gain her trust.
+[Kouji]: Shut up and listen to me. At that time, say to her, "you're really wonderful." That should be enough to gain her trust.
 //［コウジ］：いいから、この通り言うのだ。ただし、ランファの前では決して言うな。いいな？
-[KOUJI]: Just speak as I say. However, don't speak a word of it to Ranphar. Do you understand?
+[Kouji]: Just speak as I say. However, don't speak a word of it to Ranphar. Do you understand?
 //［コウジ］：むっ、マズい。いいか、５時間後だ、忘れるな‥‥。
-[KOUJI]: Oh, oh no. Well, then, in 5 hours. Don't forget...
+[Kouji]: Oh, oh no. Well, then, in 5 hours. Don't forget...
 //［宏治］：ぶちって、電話じゃないんだ、おい！
 [Kouji]: Hey, don't leave me hanging, this isn't some phone call, HEY!
 //［宏治］：ちょっと、まだ聞きたいことが‥‥この‥‥。<$05>
@@ -185,13 +185,13 @@ Blast!!!<$04><$30><$05>
 //［ランファ］：きゃぅっ！
 [RANPHAR]: Kya-!
 //［トレイシー］：こ、コウジ様‥‥。
-[TRACY]: K-KOUJI-sama...
+[TRACY]: K-Kouji-sama...
 //［宏治］：あれ、トレイシーにランファ‥‥。
 [Kouji]: Oh, Tracy...and Ranphar....
 //［トレイシー］：よかったですわ、コウジ様。
-[TRACY]: Oh, thank goodness, KOUJI-sama.
+[TRACY]: Oh, thank goodness, Kouji-sama.
 //［ランファ］：コウジ様ぁ‥‥ランファ、ランファ、すっっごく‥‥。
-[RANPHAR]: KOUJI-sama...Ranphar, was awfully...
+[RANPHAR]: Kouji-sama...Ranphar, was awfully...
 //［トレイシー］：心配していましたのよ、私‥‥。
 [TRACY]: Worried about you. I...
 //［ランファ］：ちょっとぉ、私が感激の言葉を言おうとしてたんですからねっ！
@@ -217,9 +217,9 @@ Blast!!!<$04><$30><$05>
 //［宏治］：そうか、オレはあの電撃ムチをモロにくらって‥‥。
 [Kouji]: I see, then I really ate the full force of that electric whip...
 //［トレイシー］：どういたします？　コウジ様。
-[TRACY]: What's going on, KOUJI-sama?
+[TRACY]: What's going on, Kouji-sama?
 //［ランファ］：コウジ様ぁ‥‥。
-[RANPHAR]: KOUJI-samaa...
+[RANPHAR]: Kouji-samaa...
 //［宏治］：フン、君らの言いたいことはわかってるさ。
 [Kouji]: Hmm, I get what you two are trying to say.
 //［宏治］：ビアンカのシップを追跡、しかる後、エンコーダとファルを奪い返す！
@@ -235,7 +235,7 @@ Blast!!!<$04><$30><$05>
 //［宏治］：が、ガツーンってね‥‥。
 [Kouji]: W-with a bang, you say...
 //［宏治］：（フン、コウジってヤツの言うとおりにするのはシャクだけど、ファルを助けるのが最優先だからな‥‥。）
-[Kouji]: (Hmph, I hate that I'm doing exactly what that KOUJI wanted, but saving Far is more important...)
+[Kouji]: (Hmph, I hate that I'm doing exactly what that Kouji wanted, but saving Far is more important...)
 //［宏治］：（あれが夢でないとすると、今は１５時、２０時にシンクロが行われるという訳か‥‥。）
 [Kouji]: (If that wasn't a dream, I should be synchronizing with him in 15 to 20 hours...)
 //［宏治］：（夢でないとすると‥‥？）
@@ -247,7 +247,7 @@ Blast!!!<$04><$30><$05>
 //［宏治］：あっ、トレイシーは、ちょっとまだ残ってくれ。
 [Kouji]: Ah-, Tracy, wait a minute.
 //［ランファ］：トレイシー、ちゃんとコウジ様の面倒を見てあげてよっ。
-[RANPHAR]: Tracy, please fulfill KOUJI-sama's demands.
+[RANPHAR]: Tracy, please fulfill Kouji-sama's demands.
 //［トレイシー］：わかっています。さっ、行ってらっしゃい。
 [TRACY]: Understood. Now, go on.
 //［トレイシー］：フフ、あの子ったら、しょうがないわね‥‥。
@@ -261,7 +261,7 @@ Blast!!!<$04><$30><$05>
 //to03
 to03
 //［トレイシー］：なんでしょうか、コウジ様。
-[TRACY]: What is the matter, KOUJI-sama?
+[TRACY]: What is the matter, Kouji-sama?
 //［宏治］：（素敵だったなんて、言うのかよ‥‥。）
 [Kouji]: (What did she call "splendid", anyway...)
 //［トレイシー］：あの、どうしたのですか？
@@ -275,7 +275,7 @@ to03
 //［宏治］：いや、何でもない。気にしないでくれ‥‥。
 [Kouji]: Never mind, it's nothing. Don't mind me...
 //［トレイシー］：フフ、変なコウジ様‥‥。
-[TRACY]: Hehe, KOUJI-sama, you're weird...
+[TRACY]: Hehe, Kouji-sama, you're weird...
 //［宏治］：（そうだよな、夢か否かの保証なんて、つまらん‥‥。）
 [Kouji]: (That's right, I need to confirm whether this is a dream, ugh...)
 //［トレイシー］：どうしましたか？
@@ -311,29 +311,29 @@ to02_m
 //［トレイシー］：何でしょうか？
 [TRACY]: What could that be?
 //［宏治］：オレは宏治であって、海賊のコウジではない。
-[Kouji]: I'm actually Kouji, not the pirate KOUJI.
+[Kouji]: I'm actually Kouji, not the pirate Kouji.
 //［宏治］：は、はいってさ‥‥え。
 [Kouji]: Y-yeah, that's...it.
 //［トレイシー］：コウジ様、あなたのそういう優しさが、私は好き‥‥。
-[TRACY]: KOUJI-sama, I really like when you're so kind...
+[TRACY]: Kouji-sama, I really like when you're so kind...
 //［宏治］：そんなに、コウジの事が‥‥。
-[Kouji]: Do you really care so much about KOUJI...?
+[Kouji]: Do you really care so much about Kouji...?
 //［トレイシー］：ウフフ、違いますのよ。
 [TRACY]: Ehehehe, that's not it.
 //［トレイシー］：私がコウジ様を敬愛している‥‥ある意味では正しいのですけど、ある意味では違いますわ。
-[TRACY]: I have a deep respect for KOUJI-sama...so in some ways, that's right, but in others, it's not.
+[TRACY]: I have a deep respect for Kouji-sama...so in some ways, that's right, but in others, it's not.
 //［トレイシー］：あなたが、本来のコウジ様ではないことは、早い時期からわかっていました‥‥。
-[TRACY]: I knew from early on that you weren't KOUJI-sama...
+[TRACY]: I knew from early on that you weren't Kouji-sama...
 //［トレイシー］：でも、あなたには暖かさを感じる。コウジ様の雄々しい気質には、存在しないものだったかもしれない‥‥。
-[TRACY]: However, I could feel your kindness. KOUJI-sama's usual manly bravado might have been absent there...
+[TRACY]: However, I could feel your kindness. Kouji-sama's usual manly bravado might have been absent there...
 //［宏治］：と、トレイシー‥‥。
 [Kouji]: Then, Tracy...
 //［トレイシー］：ファルネリア様を救出しに行くと、お決めになりましたよね。
 [TRACY]: We've really decided to save Farnelia-sama, haven't we?
 //［トレイシー］：恐らく、コウジ様も同じ決定をなさったと思います。
-[TRACY]: I feel KOUJI-sama would have done the same.
+[TRACY]: I feel Kouji-sama would have done the same.
 //［トレイシー］：私には偶然とは思えません。あなたと、コウジ様が同一人物だとしても、ちっとも驚きません。
-[TRACY]: This is no accident to me. It wouldn't be odd for you and KOUJI-sama to be the same character.
+[TRACY]: This is no accident to me. It wouldn't be odd for you and Kouji-sama to be the same character.
 //［宏治］：あんな軽薄なヤツと一緒にしないで欲しいな。
 [Kouji]: Don't lump me with that bastard so easily.
 //［トレイシー］：ウフフ、どちらも魅力的ですのよ。
@@ -363,7 +363,7 @@ Tracy's voice was wavering. She seemed a little afraid of my words, and stared a
 //［トレイシー］：う、ウソ‥‥。
 [TRACY]: Y-yes...
 //［トレイシー］：だってコウジ様、あのときのことはもう忘れろって‥‥。
-[TRACY]: But, KOUJI-sama, you said you'd forgotten that time...
+[TRACY]: But, Kouji-sama, you said you'd forgotten that time...
 //［宏治］：そんなこと言ったの？あいつ。しょうがないなぁ‥‥。
 [Kouji]: Did I say that? That bastard. What will I do with him...
 //［トレイシー］：私、片時も忘れたことはありません！
@@ -379,15 +379,15 @@ Tracy's voice was wavering. She seemed a little afraid of my words, and stared a
 //［トレイシー］：あなたさえ許して下さるなら、私‥‥。
 [TRACY]: I-if you'll allow it, I...
 //［トレイシー］：コウジ様？
-[TRACY]: KOUJI-sama?
+[TRACY]: Kouji-sama?
 //［宏治］：ゴメンよ、トレイシー。オレが軽率だった。
 [Kouji]: I apologize, Tracy. I was being hasty.
 //［トレイシー］：なぜ、謝られるのですか？
 [TRACY]: Why are you apologizing?
 //［宏治］：その、君がそういう反応を示すとは思わなかった。ヤツの言うとおりとはいえ、軽率な発言だった。
-[Kouji]: Well, I didn't think you would react that way. Unlike what KOUJI predicted, you reacted quite strongly.
+[Kouji]: Well, I didn't think you would react that way. Unlike what Kouji predicted, you reacted quite strongly.
 //［宏治］：オレは宏治であって、海賊のコウジではない。だから、君の気持ちには応えられない。
-[Kouji]: I'm Kouji, not the pirate KOUJI, so I can't understand your feelings.
+[Kouji]: I'm Kouji, not the pirate Kouji, so I can't understand your feelings.
 //［トレイシー］：なぜ‥‥？
 [TRACY]: Why...?
 //［宏治］：なぜって、君とその素敵な過去を共有していないからさ。
@@ -397,7 +397,7 @@ Tracy's voice was wavering. She seemed a little afraid of my words, and stared a
 //［宏治］：じゃあ、コウジのことは‥‥。
 [Kouji]: Then you really do have feelings...
 //［トレイシー］：でも、私はコウジ様も敬愛していますわ。あなたと同様に‥‥。
-[TRACY]: But, I also feel deep respect for KOUJI-sama, just as I do for you...
+[TRACY]: But, I also feel deep respect for Kouji-sama, just as I do for you...
 //［トレイシー］：ファルネリア様を救出しに行くと、お決めになりました。
 [TRACY]: You've really decided to go save Farnelia-sama.
 //［宏治］：そ、それはさぁ‥‥。
@@ -423,7 +423,7 @@ to09
 //to09_m
 to09_m
 //［トレイシー］：コウジ様‥‥。
-[TRACY]: KOUJI-sama...
+[TRACY]: Kouji-sama...
 //ゾクッとするような、色っぽい目だった。溜まってる時だったら、この目で見つめられるだけで、イっちまいそうだ。
 Her eyes went wide with lust. It must have been too long since I last did it, since I almost came just from her gaze.
 //オレは、透き通るような髪の毛に、そっと手を触れた。指の間から、キラキラと流れ落ちるそれは、掌に心地よい感触をもたらす。
@@ -437,7 +437,7 @@ Her tongue movements were unmatched. As she wrapped my tongue about hers, she pu
 //オレたちは夢中で舌を絡め合い、双方の唾液を飲み合った。
 As we entangled our tongues in each other, we exchanged saliva.
 //［トレイシー］：ん‥‥コウジ様‥‥んっ‥‥んんっ‥‥。
-[TRACY]: Mmm...KOUJI-sama...mmm-...mmmmm-....
+[TRACY]: Mmm...Kouji-sama...mmm-...mmmmm-....
 //トレイシーは両手でオレの髪を優しくかき上げると、そっと唇を離す。唾液が薄く、口の間に糸を引いていた。
 With both hands, Tracy brushed my hair gently and pulled her lips away. A thin string of saliva hung between our mouths.
 //［トレイシー］：どうなさいまいした？
@@ -465,7 +465,7 @@ As I tried to say Tracy's name, my tongue got twisted. It was because of her dam
 //オレは彼女の胸を指さしながら、祈るような気持ちでトレイシーを見た。
 As I pointed at her breasts, I looked at her with pleading eyes.
 //［トレイシー］：もちろんですわ‥‥これは、コウジ様のです。
-[TRACY]: Of course you can...After all, they're yours, KOUJI-sama.
+[TRACY]: Of course you can...After all, they're yours, Kouji-sama.
 //鼻血が出そうになるセリフを聞きながら、オレは胸をそっと手で触ってみた。柔らかく、弾力がある。
 As I heard those nosebleed-causing words, I gently grabbed her breasts. They were soft and a bit bouncy.
 //もはや包み込むことが不可能なそれは、オレの掌の中で、思うように形を変えていった。
@@ -487,7 +487,7 @@ Her clear skin laid bare before me. As Tracy shot an acute glance at me,
 //［宏治］：どういうこと‥‥？
 [Kouji]: What do you mean...?
 //［トレイシー］：好きになさって下さい‥‥私は、コウジ様の命じることであれば、何でもしますわ。
-[TRACY]: Please do as you want...I'll do anything KOUJI-sama orders me to.
+[TRACY]: Please do as you want...I'll do anything Kouji-sama orders me to.
 //［宏治］：な、何でも？
 [Kouji]: A-Anything, you say?
 //［トレイシー］：はい、何でも‥‥。
@@ -605,7 +605,7 @@ Even as I came, Tracy's walls coiled around my rod, milking every last drop of m
 //ドクッ、ドクッ‥‥‥‥<$0C>ドクンッ！
 *spurt*, *spurt*....*spurt*!
 //［トレイシー］：あぁぁぁ、コウジ様‥‥コウジ様‥‥んっ。
-[TRACY]: Ahhh, KOUJI-sama...KOUJI-sama...mmm.
+[TRACY]: Ahhh, Kouji-sama...Kouji-sama...mmm.
 //柔らかい唇がオレのに重ねられてきた。すぐに彼女の舌が、オレの口を割って入ってくる。
 She laid her soft lips upon mine, and immediately stuck her tongue inside my mouth.
 //オレたちは互いの舌を絡め合いながら、ゆっくりと快楽の余韻に浸っていった‥‥。<$05>
@@ -617,7 +617,7 @@ As we wriggled our tongues together, we basked in the afterglow...
 //［宏治］：すっごく良かった‥‥。
 [Kouji]: That was amazing...
 //［トレイシー］：ウフフ、コウジ様もですわ‥‥。
-[TRACY]: Ehehe, you were amazing yourself, KOUJI-sama...
+[TRACY]: Ehehe, you were amazing yourself, Kouji-sama...
 //［宏治］：あっ、ヤバ‥‥また硬くなってきちゃった。
 [Kouji]: Oh dear...I've become hard again.
 //［トレイシー］：ウフフ、お若いですわね。
@@ -627,19 +627,19 @@ As we wriggled our tongues together, we basked in the afterglow...
 //［宏治］：ん？　何というか、これから、ビアンカのシップに乗り込むってのに、あまり緊迫感がないよなぁ。
 [Kouji]: Hm? I've felt no sense of urgency since Bianca boarded our ship.
 //［トレイシー］：それは、コウジ様の自信のなせるワザですわ。もうすぐ、ビアンカさんのシップに追いつきますね。
-[TRACY]: That's the effect of KOUJI-sama's confidence. We'll catch up to Bianca's ship very soon.
+[TRACY]: That's the effect of Kouji-sama's confidence. We'll catch up to Bianca's ship very soon.
 //［宏治］：うん‥‥ホンモノのコウジだったら、どうしたろうな、こういう場合。
-[Kouji]: Yeah...What would the real KOUJI-sama do in this kind of situation?
+[Kouji]: Yeah...What would the real Kouji-sama do in this kind of situation?
 //［トレイシー］：さぁ‥‥あの方は、本当に予想外のことをなさる方でしたから‥‥。
 [TRACY]: Well...if that fellow really encountered something unpredicted...
 //［宏治］：予想外？
 [Kouji]: Unpredicted?
 //［トレイシー］：えぇ、奇策や奇計はコウジ様の代名詞と言えましょう。
-[TRACY]: Yes, that's what KOUJI-sama calls all peculiar schemes and plans.
+[TRACY]: Yes, that's what Kouji-sama calls all peculiar schemes and plans.
 //［トレイシー］：何を考えていますの？
 [TRACY]: What are you thinking about?
 //［宏治］：いやね、奇策や奇計は、コウジの代名詞なんだろ？
-[Kouji]: Well, that's how KOUJI-sama refers to all those peculiar schemes and plans, right?
+[Kouji]: Well, that's how Kouji-sama refers to all those peculiar schemes and plans, right?
 //［宏治］：そのことは、ビアンカも？
 [Kouji]: Does Bianca's count among them?
 //［トレイシー］：当然、知っておいででしょう。
@@ -653,11 +653,11 @@ As we wriggled our tongues together, we basked in the afterglow...
 //［宏治］：といっても、相手の裏をかくというだけだけどね。
 [Kouji]: However, it will require betting on my opponent.
 //［トレイシー］：それでこそ、コウジ様ですわっ。
-[TRACY]: That, too, is just like KOUJI-sama.
+[TRACY]: That, too, is just like Kouji-sama.
 //［宏治］：さて、どうなることやら‥‥。
 [Kouji]: Now, how to go about this...
 //［宏治］：（聞いてるか、コウジ！）
-[Kouji]: (Do you hear me, KOUJI?!)
+[Kouji]: (Do you hear me, Kouji?!)
 //［宏治］：（何だか、自分に怒鳴りつけているような気がして、何だな‥‥。）
 [Kouji]: (I get the feeling I'm just shouting at myself, what the hell...)
 //［宏治］：（まぁいい、５時間後、期待してるからな‥‥。）<$05>
