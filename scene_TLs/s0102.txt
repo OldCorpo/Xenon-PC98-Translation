@@ -49,7 +49,7 @@ Ryouko, who seemed to be pondering over something while scrutinizing me, finally
 //［宏治］：ええ‥‥‥。
 [Kouji]: Yeah...
 //［涼子］：‥‥‥‥‥‥。
-[Ryouko]: ‥‥‥‥‥‥//。
+[Ryouko]: ‥‥‥‥‥‥
 //静かな昼下がり、という形容が相応しかった。
 We could accurately describe it as a peaceful afternoon.
 //都会の雑踏とは無縁のこの場所は、微妙な、メンタルな部分に依存する人たちに、快適な環境を提供してくれている。
@@ -103,9 +103,9 @@ But its heat and rowdiness were still etched into my mind.
 //［宏治］：それから、何だかいたたまれなくなって、そこを出たような気がします。
 [Kouji]: From there, I think I suddenly felt like I couldn't bear it any more, and I ran away.
 //［涼子］：わかったわ‥‥他に、気付いた点とか、あるかしら？
-[Ryouko]: OK...Did you notice anything else?//-857
+[Ryouko]: OK...Did you notice anything else?
 //［宏治］：そうですね‥‥‥‥。
-[Kouji]: Yeah...//->TO 857|800
+[Kouji]: Yeah...
 //［宏治］：どこか、見知らぬ病室のような場所で目覚めた‥‥。
 [Kouji]: ...woke up somewhere in a sort of hospital room .
 //［涼子］：病室？
@@ -115,7 +115,7 @@ But its heat and rowdiness were still etched into my mind.
 //［涼子］：何となく、病室っぽかったと、そういうこと？
 [Ryouko]: But it looked like a hospital room, didn't it?
 //しかし、あの病院特有の、白く寒々しい感覚が、未だに脳裏に焼き付いていたのだ。
-But the white walls and its frigidness were still etched into my mind.//->755
+But the white walls and its frigidness were still etched into my mind.
 //［涼子］：わかったわ‥‥それで、部屋の中なんかは、どうなっていたのかしら？
 [Ryouko]: OK...Then, what was it like inside the room?
 //［涼子］：寒々と‥‥それは、室温？　それとも感覚的に？
@@ -157,7 +157,7 @@ I thought a little about it. I had the feeling I tried to figure out why there w
 //涼子は薄く笑みをこぼすと、何かのノートに、私の言葉を書き取っていった。
 Ryouko, showing a wry smile, was writing down my words on her notebook.
 //［宏治］：それから、何だかいたたまれなくなって、部屋を出たような気がします。
-[Kouji]:Then, I think I couldn't stand being there any more. I left the room.//->727
+[Kouji]:Then, I think I couldn't stand being there any more. I left the room.
 //［宏治］：部屋の中を、いろいろと見たような気がします。
 [Kouji]: I think I investigated all over the room.
 //［涼子］：ふーん‥‥どんな部屋だったのかしら？
@@ -175,7 +175,7 @@ Ryouko, showing a wry smile, was writing down my words on her notebook.
 //［涼子］：その花は何色だったの？
 [Ryouko]: What color were these flowers?
 //［宏治］：確か‥‥‥‥。
-[Kouji]: They were...//->816
+[Kouji]: They were...
 //　◆ 居たたまれなくなって、部屋を出た‥‥。
 ◆ I couldn't bear being here any longer, so I left the room.
 //　◆ ナースを呼ぼうとした‥‥。
@@ -185,7 +185,7 @@ I couldn't bear being here any longer, so I left the room. That's what I think I
 //［涼子］：居たたまれなくなって‥‥寂しいとか、そういう感じかしら？
 [Ryouko]: You couldn't bear staying in the room... Was it because you were alone?
 //［宏治］：そうですね、ここには居られないという強迫観念みたいのが、芽生えた感じでした。
-[Kouji]: Not really. I think there was some growing compulsion that dictated I couldn't stay in this place.//->726
+[Kouji]: Not really. I think there was some growing compulsion that dictated I couldn't stay in this place.
 //［宏治］：ナースを呼ぼうとした‥‥ような気がしました。
 [Kouji]: I get the feeling I tried to call for a nurse.
 //［涼子］：ナースを？
@@ -231,7 +231,7 @@ That was a mere word. And yet, it went straight to the point.
 //［宏治］：そんなもんでしょうか‥‥。
 [Kouji]: Really?
 //［涼子］：フフ、そんなものよ‥‥。
-[Ryouko]: *chuckle* Yes, indeed.//->
+[Ryouko]: *chuckle* Yes, indeed.
 //［宏治］：そうだ、確かドアが‥‥‥‥。
 [Kouji]: Also, the door was...
 //［涼子］：ドアが、どうかしたの？
@@ -257,7 +257,7 @@ That was a mere word. And yet, it went straight to the point.
 //涼子の手元は盛んに動いているが、目は薄く遠くを見ている。
 Ryouko's hands were moving energetically, yet it seemed her eyes were languidly looking far away.
 //２つのことを、同時にできるらしかった。大したものだと思う。
-I thought being able to do both these things at the same time was quite a feat.//->TO 893
+I thought being able to do both these things at the same time was quite a feat.
 //［宏治］：銀色に輝いていたような気がした‥‥。
 [Kouji]: ...the door was sparkling silver.
 //［涼子］：銀色に？
@@ -265,7 +265,7 @@ I thought being able to do both these things at the same time was quite a feat./
 //［宏治］：えぇ、確かそんな気がしたんですが‥‥。
 [Kouji]: Yeah. That's what I think I saw but...
 //［涼子］：ふむ、銀色のドア‥‥と。
-[Ryouko]: *chuckle* A silver door...//->879
+[Ryouko]: *chuckle* A silver door...
 //［涼子］：それで、ドアから出て、夢はおしまい？
 [Ryouko]: Then, you fled by the door and your dream ended there?
 //［宏治］：いいえ、それからが不可解な夢になって‥‥。
@@ -351,7 +351,7 @@ Ryouko, whose hand was busy jotting things down in her notebook, stopped and sai
 //［涼子］：さっきから話を聞いていると、人が１人も出てこないわ。
 [Ryouko]: Since I started listening to your story, not a single person made an appearance.
 //［宏治］：‥‥‥‥‥‥。
-[Kouji]: ‥‥‥‥‥‥//。
+[Kouji]: ‥‥‥‥‥‥
 //［涼子］：‥‥なに？
 [Ryouko]: ...What is it?
 //［宏治］：いえ、出て来るんです。ただ‥‥。
@@ -393,7 +393,7 @@ I tried to talk about the girl I met in the corridor.
 //［涼子］：ふーん‥‥。
 [Ryouko]: Hmm...
 //［宏治］：あどけない少女なんですが、どことなくミステリアスな感じもうけました‥‥。
-[Kouji]: She may have seemed innocent, but there was a vaguely mysterious aura around her.//If all answers were correct ->TO 1057
+[Kouji]: She may have seemed innocent, but there was a vaguely mysterious aura around her.
 //［宏治］：切れ長の細い目をしていて、大人の女性という感じがしました。
 [Kouji]: Her eyes were small and slanted, like a fully grown-up woman.
 //［涼子］：大人、ね‥‥。
@@ -401,7 +401,7 @@ I tried to talk about the girl I met in the corridor.
 //［宏治］：眼鏡も掛けていたような気もしましたけど‥‥。
 [Kouji]: She was wearing glasses, too, if I remember correctly.
 //［宏治］：‥‥‥‥‥‥‥‥。
-[Kouji]: ‥‥‥‥‥‥‥‥//。
+[Kouji]: ‥‥‥‥‥‥‥‥
 //［宏治］：あの‥‥何か？
 [Kouji]: Err... is something amiss?
 //涼子は、書き取っていたメモを睨んで、しばらく思案していた。おもむろに顔をこちらへ向けると、
@@ -507,7 +507,7 @@ With that thought, I said to Ryouko:
 //［宏治］：それから‥‥‥‥。
 [Kouji]: Next...
 //それから、僕はどうしたんだろうか‥‥。
-(Then, what did I do?)//I added parentheses to clearly show he is thinking by himself.
+(Then, what did I do?)
 //どこか、寒々としたところに行ったような記憶がある。そしてそこで、何かを見て、驚愕して‥‥‥‥。
 I think I landed somewhere in a bleak place. Then, I saw something really surprising...
 //妙に記憶があやふやだった。大事な部分だけ忘れ去っているのを認識する、そんな焦燥感に襲われていた。

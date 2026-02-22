@@ -25,7 +25,7 @@ The words Ryouko-sensei spoke before resurfaced within me.
 //『どんな夢にも一定以上の意味があり、心的価値が存在する‥‥。』
 『Whatever the dream, there is a theory that there is more than\none fixed meaning, that a psychological value also exists.』
 //‥‥‥‥‥‥‥‥。
-‥‥‥‥‥‥‥‥//。
+‥‥‥‥‥‥‥‥
 //心的価値？
 Psychological value?
 //例えば僕が昨日見たあの夢‥‥‥‥。
@@ -191,7 +191,7 @@ Without me realizing it, we’d become the only ones left in the corridor.
 //あたりはシンと静まり返っていて、舞の息づかいさえも、僕の耳にとどいてきそうだった‥‥。
 The surroundings went dead quiet. Only Mai's breathing still lingered in my ears.
 //［舞］：‥‥‥‥‥‥。
-[Mai]:‥‥‥‥‥‥//。
+[Mai]:‥‥‥‥‥‥
 //［宏治］：あの‥‥。
 [Kouji]: Er...
 //［舞］：そろそろ‥‥。
@@ -273,7 +273,7 @@ Though her words may have been blunt, her face was showing a carefree smile. It 
 //［恵］：ふーん、私はてっきりまた、女の子とおしゃべりでもしていたのかと思った。
 [Megumi]: Hmph! I was pretty sure you were having some idle chat with a girl.
 //［恵］：‥‥‥‥‥‥。
-[Megumi]: ‥‥‥‥‥‥//。
+[Megumi]: ‥‥‥‥‥‥
 //［恵］：うん、大丈夫みたいね、感心感心。
 [Megumi]: Never mind, you seem OK. Well done!
 //恵の常套手段なのだ、これは。
@@ -537,17 +537,17 @@ saya01_m
 //［宏治］：だ、だから、さっきから‥‥‥‥あれ？　沙夜香さん、どこに行ったの‥‥？
 [Kouji]: A-As I said, before... Huh? Sayaka-san, where are you?
 //［沙夜香］：宏治クン‥‥ちょっと、宏治クン‥‥‥‥‥‥。
-[Sayaka]: Kouji-kun! Hey! Kouji-kun‥‥‥‥‥‥//。
+[Sayaka]: Kouji-kun! Hey! Kouji-kun‥‥‥‥‥‥
 //‥‥‥‥‥。
-‥‥‥‥‥//。
+‥‥‥‥‥
 //‥‥‥‥‥‥‥‥‥‥‥。
-‥‥‥‥‥‥‥‥‥‥‥//。
+‥‥‥‥‥‥‥‥‥‥‥
 //やけに、暑かった‥‥‥‥。
 It was incredibly hot...
 //個室は、ひんやりとしていて、心地よかったはずだ‥‥。
 My room should have been nice, cool, and comfortable...
 //遠くの方で、誰かが僕を呼ぶ声が聞こえてくる‥‥‥‥‥‥。
-From far away, I could hear someone's voice calling after me ‥‥‥‥‥‥//。Then, line 86 and then, next (1852nd) line.
+From far away, I could hear someone's voice calling after me ‥‥‥‥‥‥
 //ここは、どこなのだろうか‥‥‥‥。
 Where is this place...?
 //消えゆく意識の中で、僕はそんなことを考えていた‥‥‥‥‥。

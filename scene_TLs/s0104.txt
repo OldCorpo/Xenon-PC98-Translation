@@ -3,7 +3,7 @@ s0104
 //xenon_18
 xenon_18
 //‥‥‥‥‥‥‥‥‥。
-‥‥‥‥‥‥‥‥‥//。
+‥‥‥‥‥‥‥‥‥
 //やけに、暑い‥‥‥‥。
 It's so incredibly hot...
 //個室は、ひんやりとしていて、心地よかった‥‥。
@@ -165,11 +165,11 @@ She sighed. Her expression was that of exasperation.
 //［目の前の女］：サイコロジカル・マシーンよ。サイキックプログラム・エンコーダ、がその名称。
 [Woman before me]: The Psyche Machine. This one is called the Psychic Program Encoder.
 //［私］：‥‥‥‥‥‥。
-[Me]: ‥‥‥‥‥‥//。
+[Me]: ‥‥‥‥‥‥
 //［目の前の女］：‥‥‥‥‥‥。
-[Woman before me]: ‥‥‥‥‥‥//。
+[Woman before me]: ‥‥‥‥‥‥
 //［私］：‥‥君は‥‥‥‥。
-[Me]: ‥‥Who‥‥‥‥//。
+[Me]: ‥‥Who‥‥‥‥
 //［目の前の女］：‥‥えっ？
 [Woman before me]: ...Huh?
 //［私］：だいたい、君はいったい何者なんだ？
@@ -233,7 +233,7 @@ Kohji...?
 //［ファル］：あっ、ごめんなさい。黄色はね、感謝の気持ちを表しているの。
 [Far]: Ah, sorry. The emotion yellow stands for is that of gratitude.
 //［コウジ］：‥‥‥‥‥‥。
-[Kohji]: ‥‥‥‥‥‥//。
+[Kohji]: ‥‥‥‥‥‥
 //［ファル］：ごめんなさい、私はちょびっとだけ、精神感応の能力があって、人の感情を色で読みとることができるのよ。
 [Far]: I should explain: I have a limited ability to see into people's hearts. I can perceive their emotions as colours.
 //［コウジ］：へぇ、じゃあ今の色は？
@@ -327,7 +327,7 @@ After some time, a pretty girl wearing glasses appeared on the screen.
 //0100
 0100
 //［ファル］：そうよ‥‥‥‥。
-[Far]: Yes‥‥‥‥//。
+[Far]: Yes‥‥‥‥
 //［コウジ］：き、君はいったい‥‥‥‥。
 [Kohji]: W-who are you‥‥‥‥？
 //［ファル］：私は超心理学者のファル、ファルネリア‥‥。
