@@ -249,7 +249,7 @@ With good timing, Far called out to me.
 //［コウジ］：確かに‥‥。
 [Kouji]: Really...
 //［ファル］：調査はできない、通信はできない、おまけに帰ることすらできないという訳。
-[Far]: They couldn't investigate, communicate, or even evacuate. //Yes, I know a truer translation is "go home" or "return", but this just *sounds* better out loud.
+[Far]: They couldn't investigate, communicate, or even evacuate. 
 //［コウジ］：じゃあ、君たちは‥‥また同じ轍を踏むんじゃないのか？
 [Kouji]: Well, aren't you folks...heading into the same rut?
 //［ファル］：違うわ。私たちは、遺跡発掘のプロじゃないの。第３次調査隊と名は付いているけど‥‥。

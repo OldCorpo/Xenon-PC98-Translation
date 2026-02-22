@@ -159,7 +159,7 @@ bi06
 //［コウジ］：《シンクロ時間が過ぎてしまったようだ。後は宏治、貴様にかかっている。》
 [KOUJI]: {The synchro time seems to have already passed. I'm leaving the rest to you, Kouji.}
 //［宏治］：《んな、無茶苦茶な！》
-[Kouji]: {Hey, what the fuck?!} //TL note: Could be "Don't leave me here!" or "Just like that?", but I thought this was more appropriate as an exclamation of outrage/frustration/confusion.
+[Kouji]: {Hey, what the fuck?!} 
 //［コウジ］：《これが現実なのだ。現実から目を背けようとするな。》
 [KOUJI]: {This is reality. Don't turn away from it.}
 //［宏治］：《説教たれてるんじゃねぇ！　１秒で倒すというアレはどうした！？》
