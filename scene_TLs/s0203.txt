@@ -9,17 +9,17 @@ Farnelia...why is she here...?
 //［男］：これから、どうするんだい？
 [Man]: Where is this place?
 //［ファル］：私の自由を保証してくれるなら‥‥。
-[FAR]: If you could please ensure my freedom...
+[Far]: If you could please ensure my freedom...
 //［男］：無論、そういう約束だからね。
 [Man]: Of course, as we promised.
 //［ファル］：じゃあ、手近の有人惑星で下ろして頂戴。
-[FAR]: Well, then, let's go down to the nearby populated planet.
+[Far]: Well, then, let's go down to the nearby populated planet.
 //［男］：ああ、オーケーだ。
 [Man]: OK.
 //何だと、彼女がいなければ、ジェネレータは機能しないではないか。極めて合理的であるはずの私が、一体何を言っている。
 What is this? If she hadn't said that, the generator shouldn't run. What am I, an extremely reasonable being, saying here?
 //［ファル］：でもコウジ、エンコーダは、どうするの‥‥？
-[FAR]: But Kouji, what will you do about the encoder...?
+[Far]: But Kouji, what will you do about the encoder...?
 //［男］：‥‥残念だけど、あいつは返せない。
 [Man]: ...It's a shame, but I can't return it.
 //その通りだ。さすが私だ。
@@ -29,11 +29,11 @@ That's right. That's just what I'd do.
 //何だと。
 What.
 //［ファル］：どういうことなの？
-[FAR]: What are you talking about?
+[Far]: What are you talking about?
 //［男］：さっきも言ったろう？　そのエンコーダとやらを利用してやるってヨコシマな輩は、いくらでも出てきそうなもんだって。
 [Man]: Didn't I say it earlier? The Yokoshima fellow who uses the encoder and such will pay any amount necessary.
 //［ファル］：じゃあ、あれを‥‥。
-[FAR]: Then, that's...
+[Far]: Then, that's...
 //［男］：うん、とりあえず君には悪いけど、破棄させてもらう。あんなの、百害あって一利無しだ。
 [Man]: Yes, it might be difficult for you now, but I'll destroy it. That destructive thing hasn't done us any good.
 //これは夢だ、夢に違いない。私が、このような非合理的な事をする訳がないではないか。

@@ -9,7 +9,7 @@ all
 //［ビアンカ］：私は炊事関連は苦手でな。ムチさばきなら得意だぞ。
 [Bianca]: I'm pretty incapable when it comes to cooking. I'm much better at handling a whip.
 //［ファル］：ほらほら、コウジぃ、お尻ばかり見てないで、お鍋を見て。
-[FAR]: Now, now, Kouji, stop watching my butt, and watch the pot.
+[Far]: Now, now, Kouji, stop watching my butt, and watch the pot.
 //［ランファ］：あっ、お鍋がふいてるぅ！
 [Lanhua]: Ah-, the pot is boiling over!
 //［トレイシー］：あらあら、大変‥‥火はこれくらい、かしら？
@@ -17,7 +17,7 @@ all
 //［ビアンカ］：私に訊かれても困るぞ。炊事関連は苦手でな。
 [Bianca]: I can't really help you there. I'm no good at cooking.
 //［ファル］：お醤油とって頂戴、お醤油。
-[FAR]: Pass the soy sauce, please.
+[Far]: Pass the soy sauce, please.
 //［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ～！
 [Lanhua]: Ahhhh-! I spilled the miso soup~!
 //［トレイシー］：しょうがないわねぇ、ほら、フキフキ。
@@ -25,7 +25,7 @@ all
 //［ランファ］：んっ、もう、私の肌はデリケートなんですからねっ。もうちょっと優しく拭いてっ。
 [Lanhua]: Ng, aw, but my skin is delicate. Could you wipe it a littler softer?
 //［ファル］：ちょっとトレイシー、このネギはみじん切りよ。
-[FAR]: Wait, Tracy, those spring onions should be julienned.
+[Far]: Wait, Tracy, those spring onions should be julienned.
 //［トレイシー］：あら、すみません‥‥。あっ、ビアンカさん、卵といて下さいな。
 [Tracy]: Oh my, I'm sorry...Ah-, Bianca, could you bring the eggs over here?
 //［ビアンカ］：炊事関連は苦手なのに‥‥。
@@ -39,11 +39,11 @@ Chopchopchopchopchop...
 //［トレイシー］：はいはい、ランファは食べるのはお上手よ。
 [Tracy]: Indeed, you're better at eating.
 //［ファル］：ほらほらランファ、そんな顔をしてないで、そろそろ食器を並べて頂戴。これと‥‥んしょ、はい、これ。
-[FAR]: Now, now, Lanhua, quit pouting about it, and please set the tableware. There, and...mmhup, yes, there.
+[Far]: Now, now, Lanhua, quit pouting about it, and please set the tableware. There, and...mmhup, yes, there.
 //［ランファ］：えー、私が盛るのぉ？
 [Lanhua]: Huh? Am I supposed to serve everyone?
 //［ファル］：トレイシーと私は、忙しいのよ、見ればわかるでしょ？
-[FAR]: Well, if you'd look, you'd see Tracy and I are busy.
+[Far]: Well, if you'd look, you'd see Tracy and I are busy.
 //［ビアンカ］：私は、炊事関連は苦手だぞ。
 [Bianca]: Hey, I'm awful at cooking.
 //［ランファ］：プリプリよぉ！　ぶー。
@@ -51,11 +51,11 @@ Chopchopchopchopchop...
 //［トレイシー］：なんです、食事中に下品ですよ。
 [Tracy]: Why, it's rather impolite to do it in the middle of a meal.
 //［ファル］：味見をしてみましょう。んっ、デリーシャス！
-[FAR]: It's time to taste. Mm, delicious!
+[Far]: It's time to taste. Mm, delicious!
 //［ランファ］：あー、それは私のオカズよぉ！
 [Lanhua]: Ahh, that's the small dish I made!
 //［ファル］：カラアゲの１つくらいなによ。
-[FAR]: Why is there only one karaage left?
+[Far]: Why is there only one karaage left?
 //［ランファ］：私、おなか空いてたのにぃ‥‥。
 [Lanhua]: Well, I was hungry....
 //［ビアンカ］：そんな目をしても、私のはやらぬぞ。
@@ -63,7 +63,7 @@ Chopchopchopchopchop...
 //［トレイシー］：さぁ、コウジ様、そろそろお席に‥‥。
 [Tracy]: Well, Kouji-sama, you should be seated soon...
 //［ファル］：じゃあ、私の‥‥。
-[FAR]: Then, my...
+[Far]: Then, my...
 //［ランファ］：ランファの隣が空いてるよっ！
 [Lanhua]: I have some space next to me!
 //［ビアンカ］：コウジは、私の隣がいいと言っているぞ。
@@ -75,35 +75,35 @@ Chopchopchopchopchop...
 //［ビアンカ］：あっ、トレイシー、いつの間に‥‥。
 [Bianca]: Ah-, Tracy, when did you...?
 //［ファル］：じゃあ、反対側には私が座るわね。
-[FAR]: Then, I'm sitting across from him.
+[Far]: Then, I'm sitting across from him.
 //［ランファ］：ランファが座るのっ！
 [Lanhua]: I'm sitting down there!
 //［ファル］：ちょっとランファ‥‥んっ、ちょっとあなた、ここは私の椅子よっ。
-[FAR]: Hold on, Lanhua...mm, wait, dear, that's my seat.
+[Far]: Hold on, Lanhua...mm, wait, dear, that's my seat.
 //［ランファ］：ずるいですぅ、椅子を移動させるなんて。
 [Lanhua]: Hey, moving around the chairs like that's not fair.
 //［ファル］：ちょっとあなた、お尻が大きいわよ。
-[FAR]: Wait, dear, your butt is too big.
+[Far]: Wait, dear, your butt is too big.
 //［トレイシー］：ほらほら、２人とも椅子取りゲームじゃあるまいし。
 [Tracy]: Well, if it isn't a game of taking chairs between the two of you.
 //［ファル・ランファ］：あなたに言われたくない！
-[FAR and Lanhua]: I won't hear it from you!
+[Far and Lanhua]: I won't hear it from you!
 //ズズズズズ、ドン。
 Zrrrrrrrrrr, thomp.
 //［ビアンカ］：ふぅ‥‥。
 [Bianca]: *sigh*....
 //［ファル］：あっ、ビアンカさん、ずるいわ！
-[FAR]: Ah-, Bianca, that's unfair!
+[Far]: Ah-, Bianca, that's unfair!
 //［ランファ］：椅子ごと移動させるなんて‥‥ずるいですぅ！
 [Lanhua]: Moving the chair like that...it's not fair!
 //［トレイシー］：はい、コウジ様、あーーーん。
 [Tracy]: All right, Kouji-sama, say ahhhhh.
 //［ファル］：それは私の役目よ、トレイシー。
-[FAR]: That's my duty, Tracy.
+[Far]: That's my duty, Tracy.
 //［ビアンカ］：コウジは私の手から食べたいんだよなっ。
 [Bianca]: Kouji wants to be fed by me, don't you?
 //［ファル］：私よねっ！
-[FAR]: No, he wants that from me!
+[Far]: No, he wants that from me!
 //［ランファ］：ランファですぅ‥‥。
 [Lanhua]: It should be me....
 //［トレイシー］：無論、私ですわ。
@@ -123,7 +123,7 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：夜は夜で、疲れるんだよなぁ‥‥。
 [Kouji]: I'll be tired come nighttime...
 //［ファル］：コウジ、どうしたのよ？　湿っぽい顔しちゃって。
-[FAR]: Kouji, what's going on? Your face is moist.
+[Far]: Kouji, what's going on? Your face is moist.
 //［トレイシー］：どこか痛むのですか？　何だったら私が看病‥‥。
 [Tracy]: Does it hurt anywhere? If anything's the matter, I can examine you...
 //［ランファ］：ランファが元気づけてあげるわっ！
@@ -133,63 +133,63 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：‥‥という訳らしい。ふぅ‥‥。<$05>
 [Kouji]: ...That's how it is. Hooo....<$05>
 //［ファル］：ほら、洗ってあげるわ。
-[FAR]: Now, I'll wash you.
+[Far]: Now, I'll wash you.
 //［宏治］：わははは、くすぐったいよ。
 [Kouji]: Wahahaha, that tickles.
 //［ファル］：だーめ、ちゃんと洗わないと、お口でしてあげないから。
-[FAR]: Now, now, I have to wash you properly, or you can't go in my mouth.
+[Far]: Now, now, I have to wash you properly, or you can't go in my mouth.
 //［宏治］：えっ、ホント？　じゃあ、飲んでくれる？
 [Kouji]: Huh, really? Well, can I drink it?
 //［ファル］：しょうがないわねぇ‥‥ウフフ、いいわよ、飲んであげる。
-[FAR]: I guess I have no choice...Ehehe, sure, I'll let you drink it.
+[Far]: I guess I have no choice...Ehehe, sure, I'll let you drink it.
 //［宏治］：いょっしゃーっ。
 [Kouji]: All riiiight.
 //［ファル］：なにリキんでんのよ、まったく‥‥。
-[FAR]: Good grief, what are you straining yourself for...
+[Far]: Good grief, what are you straining yourself for...
 //ブクブクブクブク‥‥。
 *tickle tickle tickle*....
 //［宏治］：わははは、くすぐったいよ、ファル。
 [Kouji]: Wahahaha, that tickles, Far.
 //［ファル］：お尻も洗ってあげるわ。むこう向いて。
-[FAR]: I have to wash your butt too. Turn around.
+[Far]: I have to wash your butt too. Turn around.
 //［宏治］：こう？　わはははは。
 [Kouji]: Like this? Wahahahaha.
 //［ファル］：んもう、雰囲気ないわね。
-[FAR]: Ng, come on, you're ruining the mood.
+[Far]: Ng, come on, you're ruining the mood.
 //［宏治］：だってさ、くすぐったいんだから、しょうがない‥‥うっ。
 [Kouji]: But I'm so ticklish there, I can't help it....Ooh.
 //［ファル］：コウジのって、かわいいわね。ちっちゃくて。
-[FAR]: Kouji's is so cute and tiny.
+[Far]: Kouji's is so cute and tiny.
 //［宏治］：尻の穴が大きかったら、不気味だぞ。
 [Kouji]: It would be a little uncanny if my butthole were big.
 //［ファル］：んもう‥‥もっと感じてよっ。
-[FAR]: Come on...feel it a little more.
+[Far]: Come on...feel it a little more.
 //［宏治］：感じてるって。
 [Kouji]: I'm feeling it.
 //［ファル］：どれどれ‥‥す、凄いわ‥‥こんなに硬くて‥‥。
-[FAR]: Now, how...a-amazing...you're this hard....
+[Far]: Now, how...a-amazing...you're this hard....
 //［宏治］：ちょっと、そんなに上下にしごいたら‥‥感じちゃうぜ。
 [Kouji]: Hold it, if you rub me up and down like that...I'll get turned on.
 //［ファル］：フフ、ほら、今度は前向いて。
-[FAR]: Hehe, now, turn around back to the front.
+[Far]: Hehe, now, turn around back to the front.
 //［ファル］：フフ、こんなにそびえ立っちゃって‥‥。
-[FAR]: Hehe, how it towers over everything...
+[Far]: Hehe, how it towers over everything...
 //［宏治］：しょうがないだろ、ファルが刺激するんだから。
 [Kouji]: I can't help it when you're stimulating me so much.
 //［ファル］：ほら、してあげるから、私の顔の前に‥‥。
-[FAR]: Now, since I'm doing it for you, point it in front of my face...
+[Far]: Now, since I'm doing it for you, point it in front of my face...
 //［宏治］：こう？
 [Kouji]: Like this?
 //［ファル］：パクッ。
-[FAR]: *gulp*
+[Far]: *gulp*
 //ワチュワチュワチュ‥‥。
 *glurp* *slurp* *slurp*....
 //［宏治］：んぉぉ、こ、このまったりとした舌使いと、なま暖かい口腔の感覚といったら‥‥。
 [Kouji]: Ngohhh, with such a comfortable tongue technique, and that naked warmth of your mouth....
 //［ファル］：もうひょっひょ、あひひはいへ。
-[FAR]: Shpwead youh wegh, jup a wibble.
+[Far]: Shpwead youh wegh, jup a wibble.
 //［ファル］：あひほ、ひはふほ！
-[FAR]: Youh wegh, shpwead dem!
+[Far]: Youh wegh, shpwead dem!
 //［宏治］：あぁ、脚を開くのね。
 [Kouji]: Ahh, you mean I should spread my legs apart.
 //クリクリッ。
@@ -197,191 +197,191 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：ぬぅ、あ、アヌスまで‥‥。
 [Kouji]: Ngh, ah, my butthole...
 //［ファル］：ンフフ‥‥。
-[FAR]: Nhehe....
+[Far]: Nhehe....
 //［宏治］：で、出そうだよ、ファル‥‥このまま出していい？
-[Kouji]: I-I'm gonna cum, FAR...can I cum like this?
+[Kouji]: I-I'm gonna cum, Far...can I cum like this?
 //［ファル］：うん。
-[FAR]: Mhm.
+[Far]: Mhm.
 //［宏治］：で、でるぞ！
 [Kouji]: I-I'm cumming!
 //［ファル］：もう、こんなに大量に射精するなんて‥‥。
-[FAR]: Mm, wow, you really came a lot....
+[Far]: Mm, wow, you really came a lot....
 //［宏治］：ご、ゴメン‥‥あんまり気持ちよかったもんだから。
 [Kouji]: M-my bad...it's because it felt really good.
 //［ファル］：フフ、いいわ。でも、まだまだいけそうね。
-[FAR]: Hehe, it's fine. But, it's still so rigid.
+[Far]: Hehe, it's fine. But, it's still so rigid.
 //［宏治］：あぁ、いけるぜ。ファル！
 [Kouji]: Ah, let's do it. Far!
 //［ファル］：あン、ダメよ！
-[FAR]: Ah, wait!
+[Far]: Ah, wait!
 //fa07
 fa07
 //［ファル］：もう、ケモノよぉ、コウジったらぁ！
-[FAR]: You're such a beast, Kouji!
+[Far]: You're such a beast, Kouji!
 //［宏治］：オレはケモノだ、がるるるる。
 [Kouji]: That's right, I'm a beast, gawrrrr!
 //［ファル］：バカね‥‥あぁぁ、もっと突いて、激しくっ！
-[FAR]: Dummy...Ahhhh, fuck me harder, and faster!
+[Far]: Dummy...Ahhhh, fuck me harder, and faster!
 //［宏治］：こうか、こうか！？
 [Kouji]: Like this, and this?!
 //［ファル］：あぁぁ、そうよ、そうよっ、もっとグリグリしてっ！
-[FAR]: Ahhhh, yesss, yes, rub me more and more!
+[Far]: Ahhhh, yesss, yes, rub me more and more!
 //［宏治］：こうかぁぁっ！？
 [Kouji]: Like THIS?!!!
 //グリグリグリ！！！
 *rub rub rub*!!
 //［ファル］：あふぅぅぅ‥‥もっと胸も揉んでちょうだい！
-[FAR]: Ahoooo...please, rub my breasts more!
+[Far]: Ahoooo...please, rub my breasts more!
 //むにゅっ、むにゅっ。
 *knead, knead*.
 //［ファル］：もっと強くよっ！
-[FAR]: Harder!
+[Far]: Harder!
 //ぎゅぅぅぅっっ！！
 *pullll*!!
 //［ファル］：あはぁぁっ！　痛いけど、気持ちいいわっ！　乳首も、乳首もひねってぇ！！
-[FAR]: Ahaaaa-! It hurts, but it feels so good! My nipples, pinch my nipples too!!
+[Far]: Ahaaaa-! It hurts, but it feels so good! My nipples, pinch my nipples too!!
 //むぎゅぅぅぅっっ！！！
 *squeeeeeeze*!!!
 //［ファル］：あぁぁぁ、いいわ、すごいわっ！　感じちゃう！！
-[FAR]: Ahhhhh, yes, amazing! It feels amazing!!
+[Far]: Ahhhhh, yes, amazing! It feels amazing!!
 //［宏治］：ヌルヌルして、ぎゅぅぎゅぅ締め付けてくる‥‥ファルのアソコが。
 [Kouji]: It's so wet, and it's wrapping around me so pleasantly...your pussy, that is.
 //［ファル］：気持ちいいって、言ってっ！
-[FAR]: It feels good, say it!
+[Far]: It feels good, say it!
 //［宏治］：気持ちいいよ、最高だよ！
 [Kouji]: It feels amazing, the best!
 //［ファル］：私も、私も気持ちいいわっ！
-[FAR]: I, I feel amazing too!
+[Far]: I, I feel amazing too!
 //［宏治］：ねぇ、ファル。
-[FAR]: Hey, Far.
+[Far]: Hey, Far.
 //［ファル］：な、なに‥‥あっ、あっ‥‥。
-[FAR]: Wh-what...ah-, ah-....
+[Far]: Wh-what...ah-, ah-....
 //［宏治］：お尻でしちゃ、だめ？
 [Kouji]: Can I fuck you in your ass?
 //［ファル］：えー、アナルセックス！？　ホントにケダモノね、あなたって。
-[FAR]: Huh-? Anal sex?! You really are a beast.
+[Far]: Huh-? Anal sex?! You really are a beast.
 //［宏治］：な、何だよ‥‥別に、いいかなって‥‥うじうじ。
 [Kouji]: Wh-what...I was just wondering....
 //［ファル］：んもう、しょうがないわねっ。
-[FAR]: Mm, well, I suppose you can.
+[Far]: Mm, well, I suppose you can.
 //［宏治］：えっ？　いいの？
 [Kouji]: Really? It's OK?
 //［ファル］：フフ、いいわよ。でも、優しくしてね。
-[FAR]: Hehe, it's OK. Just, be gentle.
+[Far]: Hehe, it's OK. Just, be gentle.
 //［宏治］：うん、するする。
 [Kouji]: All right, here goes.
 //ぐぐっ‥‥‥‥。
 Guh...
 //［ファル］：痛っ‥‥ちょ、ちょっとそんなにいきなりは‥‥。
-[FAR]: Ow...hold on, if you do it all of a sudden....
+[Far]: Ow...hold on, if you do it all of a sudden....
 //ぬりゅぅぅぅぅぅぅぅ‥‥‥‥。
 Rub rub rub rub...
 //［ファル］：あっ、ダメ‥‥あぁぁぁぁっっ！！
-[FAR]: Ah-, no...Aaaahhhh!!
+[Far]: Ah-, no...Aaaahhhh!!
 //［宏治］：もう全部入っちゃったよ。
 [Kouji]: All of it's in there.
 //［ファル］：あ、イヤっ、まだ‥‥んっ、まだちょっと、キツいわ‥‥。
-[FAR]: Ah, no, it's still...nng, it still stings...
+[Far]: Ah, no, it's still...nng, it still stings...
 //［宏治］：ゆっくり、動かすね。
 [Kouji]: I'll start moving, slowly.
 //ずっ、ずっ‥‥ずりゅっ、ずりゅっ‥‥。
 *slip, slip*....*slide*, *slide*...
 //［ファル］：んっ‥‥何だか、変な感じよ、コウジ‥‥。
-[FAR]: Nggh-....It feels kind of weird, Kouji....
+[Far]: Nggh-....It feels kind of weird, Kouji....
 //［宏治］：どんな感じ？
 [Kouji]: What does it feel like?
 //［ファル］：く、口じゃ表現できない感じなの‥‥あっ、あっ！、あっ！
-[FAR]: I-I can't put it into words...Ah-, ah-! Ah!
+[Far]: I-I can't put it into words...Ah-, ah-! Ah!
 //［宏治］：こっちも、結構ヌルヌルして、ギュウギュウ締め付けてくるね‥‥。
 [Kouji]: Here, too, you're awfully wet, and gripping me so tightly....
 //［ファル］：あっ、あっ‥‥そ、そんなに速く動いたら‥‥ダメ‥‥何だか、変になっちゃいそうよぉっ！
-[FAR]: Ah-, ah....i-if you move so quickly...nooo...I-I feel kind of weird!
+[Far]: Ah-, ah....i-if you move so quickly...nooo...I-I feel kind of weird!
 //［宏治］：お、オレも何だか‥‥くっ！
 [Kouji]: M-me, too...something is...Kuh!
 //［ファル］：あぁぁ、そんなに突き上げたら‥‥うっ！
-[FAR]: Ahhhh, if you ram me so roughly...Oooh-!
+[Far]: Ahhhh, if you ram me so roughly...Oooh-!
 //［宏治］：まだまだ、イッたらダメだぜ。
 [Kouji]: It's still too early for me to cum.
 //［ファル］：もう、のぼせちゃいそう‥‥。
-[FAR]: I'm getting dizzy already...
+[Far]: I'm getting dizzy already...
 //［宏治］：じゃあ、この格好のまま、ベッドへ行こう。
 [Kouji]: Well, that's OK, let's move to the bed.
 //［ファル］：えぇ！　こ、この格好のまま？
-[FAR]: Yeah! I-is this position OK?
+[Far]: Yeah! I-is this position OK?
 //［宏治］：そう。その方が、いいじゃん。
 [Kouji]: Yes. Just like that.
 //［ファル］：だ、誰か来たら、どうするのよ。カギ掛けてないわよ、部屋のドア。
-[FAR]: I-if someone comes in, what'll we do? There's no lock on the door.
+[Far]: I-if someone comes in, what'll we do? There's no lock on the door.
 //［宏治］：チッチッチ。だから刺激的なんだろ？　ほら、いくぜ。
 [Kouji]: Tut-tut. Why do you think I'm being so rough? Now, let's fuck.
 //［ファル］：あン、ダメだったらぁ。
-[FAR]: Um, we caaan't.
+[Far]: Um, we caaan't.
 //［宏治］：転ばないでくれよ。ファルが転んだら、アレが骨折しちまうよ。
 [Kouji]: Hey, don't roll around. If you do, my boner might just break.
 //［ファル］：骨折なんてする訳ないでしょ！
-[FAR]: I-I don't mean to cause it any harm!
+[Far]: I-I don't mean to cause it any harm!
 //［ファル］：ったくもぉ、しょうがないんだから‥‥。
-[FAR]: Oh, fine, I guess I have no choice...
+[Far]: Oh, fine, I guess I have no choice...
 //［宏治］：なんか、つながったまま歩くのって、結構感じるかも。
 [Kouji]: I think I hear someone walking over here, like they might be tailing us.
 //［ファル］：わ、私はそれどころじゃないわ。歩きにくくて‥‥。
-[FAR]: Th-that's not what I hear. It's just footsteps...
+[Far]: Th-that's not what I hear. It's just footsteps...
 //［宏治］：人間には四つん這いは向いてないんだよね。
 [Kouji]: No one's crawling on all fours over here, right?
 //［ファル］：あン‥‥そ、そんなに揺らしたら、お尻の穴が広がっちゃう！
-[FAR]: Ahng....I-if you sway like that, you'll stretch out my asshole!
+[Far]: Ahng....I-if you sway like that, you'll stretch out my asshole!
 //［宏治］：よし、ベッドだ！
 [Kouji]: All right, there's the bed!
 //fa06
 fa06
 //［ファル］：あぁぁ、もう‥‥無茶苦茶にしてっ！
-[FAR]: Ahhh, come on...rough me up!
+[Far]: Ahhh, come on...rough me up!
 //［宏治］：よしっ！　こうかっ！？
 [Kouji]: Yes! Like this?!
 //［ファル］：もっと、脚をいっぱいに広げて頂戴！
-[FAR]: Please, spread my legs further apart!
+[Far]: Please, spread my legs further apart!
 //ぐぐぐぅぅぅっ！！
 Guhhhhhh!
 //［ファル］：そのまま突き入れてっ！
-[FAR]: Yes, plunge it into me like that!
+[Far]: Yes, plunge it into me like that!
 //ずりゅっっ！！！
 Slip!!!
 //［ファル］：あはぁぁぁっ！　奥まで当たってるぅっ！！
-[FAR]: Ahaaaaaaa-! You put it so deep inside me!!
+[Far]: Ahaaaaaaa-! You put it so deep inside me!!
 //［宏治］：すっごく締め付けてるぜ、アソコが‥‥。
 [Kouji]: You're really squeezing me a lot down there...
 //［ファル］：そうよ、そうよっ、あっ、あっ‥‥もっともっと、速く動かしてっ！
-[FAR]: Yes, like that, ah-, ah-...please, fuck me faster!
+[Far]: Yes, like that, ah-, ah-...please, fuck me faster!
 //［宏治］：くのっ、むんっ、くっ。
 [Kouji]: It's-, so-, kh-.
 //［ファル］：あぐぅぅっ‥‥も、もうダメ‥‥イっちゃいそう‥‥あぅ！！
-[FAR]: Aghhhh...I-I can't hold it any longer...I'm gonna cum...Ah-!
+[Far]: Aghhhh...I-I can't hold it any longer...I'm gonna cum...Ah-!
 //［宏治］：オレも、限界だよ‥‥ファル‥‥。
 [Kouji]: I'm at my limit too...Far....
 //［ファル］：コウジぃ、キスして‥‥お願い‥‥キスしながら、射精してっ！
-[FAR]: Kouji, kiss me...please...kiss me as you cum-!
+[Far]: Kouji, kiss me...please...kiss me as you cum-!
 //［宏治］：いいぜ。
 [Kouji]: OK.
 //［ファル］：んっ‥‥んんんんっ‥‥。
-[FAR]: Mm-...mmmmmm-...
+[Far]: Mm-...mmmmmm-...
 //［宏治］：んぐっ、んぐっ。
 [Kouji]: Mmgh, mmgh.
 //［ファル］：んふあぁぁ‥‥もっと唾液を飲ませてっ！
-[FAR]: Mhaaaa...let me drink your juices-!
+[Far]: Mhaaaa...let me drink your juices-!
 //［ファル］：んぐっ、ゴクゴク、ゴクッ‥‥。
-[FAR]: Ngh, *slurp slurp*, *slurp*....
+[Far]: Ngh, *slurp slurp*, *slurp*....
 //［宏治］：もうイクぜ！
 [Kouji]: I'm gonna cum!
 //［ファル］：あン、膣内に出して構わない‥‥あっ、今日は‥‥んっ！　膣内でも大丈夫なのっ！
-[FAR]: Ahm, it's OK to cum inside...ah-, today...Mm-! It's OK to cum in my pussy!
+[Far]: Ahm, it's OK to cum inside...ah-, today...Mm-! It's OK to cum in my pussy!
 //［宏治］：いくぜ、ファル！！
-[Kouji]: Here I cum, FAR!!
+[Kouji]: Here I cum, Far!!
 //［ファル］：きてぇぇぇぇぇぇぇぇぇぇぇっっっ！！！
-[FAR]: Cuuuummmmmmm!!
+[Far]: Cuuuummmmmmm!!
 //ドクドクドクッ！　ドクッ、ドクッ‥‥‥‥。
 *spurt spurt spurt*! *spurt*, *spurt*.....
 //［ファル］：いっくぅぅぅぅぅぅぅぅぅぅぅぅぅっっっ！！！！<$05>
-[FAR]: I'M CUMMINNGGGGGGG!!!!
+[Far]: I'M CUMMINNGGGGGGG!!!!
 //　　　　　というような毎日を、過ごしましたとさ‥‥‥‥。<$05>
 And so we passed every day like that......
 //　　　　　　　　ＤＲＥＡＭ＿３α　‥‥　ＥＮＤ<$04><$30><$05>
@@ -951,37 +951,37 @@ Lanhua's original mischievous smile returned. Once more, I had to shake the onco
 //首尾良くトレイシーを助け出したオレたちは、ビアンカの私室にまでやってきていた。
 As Tracy had successfully helped us out, we made our way to Bianca's private room.
 //［ファル］：どうしたの？
-[FAR]: What is it?
+[Far]: What is it?
 //［ファル］：夢遊病者みたいよ、あなた。
-[FAR]: You look like you're sleepwalking.
+[Far]: You look like you're sleepwalking.
 //［私］：プロフェッサ‥‥。
 [Me]: Professor....
 //［ファル］：ストレス？　私がカウンセリングしてあげましょうか？
-[FAR]: Is it stress? Shall I give you some counseling?
+[Far]: Is it stress? Shall I give you some counseling?
 //［私］：いいえ、そんなんじゃ、ありません。
 [Me]: No, there's no need for that.
 //［ファル］：フフ、目の下にクマができているわよ。あなたの彼、夜が激しいのかな‥‥？
-[FAR]: Hehe, you've got some dark circles under your eyes. Has your boyfriend been restless at night...?
+[Far]: Hehe, you've got some dark circles under your eyes. Has your boyfriend been restless at night...?
 //［ファル］：今日は、エイレートの遺跡発掘がメインになるわ、準備しておいて頂戴。
-[FAR]: Today, our top priority is the excavation of Eirate's ruins, so please make preparations.
+[Far]: Today, our top priority is the excavation of Eirate's ruins, so please make preparations.
 //［私］：ええ‥‥。
 [Me]: Awww.....
 //［ファル］：それから、彼だけど‥‥。
-[FAR]: The next matter is him, though...
+[Far]: The next matter is him, though...
 //［私］：‥‥彼？
 [Me]: ...Him?
 //［ファル］：ほら、第２次調査隊からこちらにきた。
-[FAR]: Yeah, the guy who came from the second investigation team.
+[Far]: Yeah, the guy who came from the second investigation team.
 //［私］：コウジ‥‥？
 [Me]: Kouji...?
 //［ファル］：そうそう、そのコウジ。ウフフ、そういえば、あなたの彼と名前がいっしょじゃない。
-[FAR]: Yes, that Kouji. Ufufu, speaking of him, your boyfriend's name is the same as his, isn't it?
+[Far]: Yes, that Kouji. Ufufu, speaking of him, your boyfriend's name is the same as his, isn't it?
 //［ファル］：ちゃんと、面倒見てあげてね。
-[FAR]: That'll be quite confusing, won't it?
+[Far]: That'll be quite confusing, won't it?
 //［私］：‥‥ええ。
 [Me]: ...yeah.
 //［ファル］：ちょっとイイ男だからって、浮気なんか、しちゃだめよ。じゃね。
-[FAR]: He's quite a good man, but you shouldn't go fooling around with him. Bye now!
+[Far]: He's quite a good man, but you shouldn't go fooling around with him. Bye now!
 //［私］：浮気‥‥浮気じゃないわ‥‥。
 [Me]: It's not...fooling around...
 //［私］：私は‥‥‥‥。

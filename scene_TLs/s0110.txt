@@ -355,19 +355,19 @@ I became unable to understand what she was saying...
 //［コウジ］：ランファ！！
 [Kouji]: Lanhua!!
 //［ファル］：コウジ！
-[FAR]: Kouji!
+[Far]: Kouji!
 //［コウジ］：ファル‥‥。
 [Kouji]: Far...
 //［ファル］：あなたは監禁していたはずよ。どうやって部屋から出たの？
-[FAR]: You're supposed to be in confinement. How did you get out of that room?
+[Far]: You're supposed to be in confinement. How did you get out of that room?
 //［コウジ］：か、勝手に出たことは謝るが‥‥‥。
 [Kouji]: I-I'm sorry I selfishly left...
 //［ファル］：コウジ‥‥。
-[FAR]: Kouji....
+[Far]: Kouji....
 //ファルはゆっくりと私に近づいてくる。
 Far slowly approached me.
 //［ファル］：私に、コレを使わせないで。
-[FAR]: Please don't use this on me.
+[Far]: Please don't use this on me.
 //コレと言いながら、ファルは腰に吊ってある銃をポンと１回叩いた。表情はかなり厳しい‥‥本気だ。
 As she said "this", Far pulled out a gun hanging from her hip and patted it once. Her expression was quite grave...she's serious.
 //［コウジ］：わかった、ファル‥‥だけど、１つだけ聞かせて欲しいんだ。
@@ -381,19 +381,19 @@ Besides, there was the issue about the micro disc, too.
 //だが、意に反してファルの口から出た言葉は‥‥‥‥。
 But to my surprise, the words that came out of Far's mouth were...
 //［ファル］：ランファって‥‥誰のことなの？
-[FAR]: Lanhua...who is that?
+[Far]: Lanhua...who is that?
 //［コウジ］：えっ‥‥？　ら、ランファは、ランファだろう？
 [Kouji]: Eh-? L-Lanhua is Lanhua, right?
 //［ファル］：知らないわ。
-[FAR]: I don't know who that is.
+[Far]: I don't know who that is.
 //［コウジ］：冗談言うなよ、彼女はこの船のクルーで、君の助手だろう？
 [Kouji]: Stop pulling my leg, she was one of the crew here, one of your assistants, wasn't she?
 //［ファル］：私の助手はトレイシー１人よ。
-[FAR]: My only assistant is Tracy.
+[Far]: My only assistant is Tracy.
 //［コウジ］：ふ、ふざけるなよ、彼女は‥‥。
 [Kouji]: S-stop messing around, she's....
 //［ファル］：コウジ、あなたがどういうつもりで、そんな事を言ってくるのかわからないけど、作り話で混乱させようとしても、無駄よ。
-[FAR]: Kouji, what are you trying to say? I don't understand what you're saying, but such a fabrication won't confuse me.
+[Far]: Kouji, what are you trying to say? I don't understand what you're saying, but such a fabrication won't confuse me.
 //［コウジ］：バカ言うなよ！
 [Kouji]: STOP FUCKING WITH ME!
 //私はファルの肩に手を置いて、身体を揺さぶった。ファルの目には、やや恐怖の色も見て取れる。
@@ -403,53 +403,53 @@ I pushed my hands on Far's shoulders and shook her. She gave me a terrified look
 //［コウジ］：ついさっきまで、彼女と‥‥ランファと話していたんだぞ。
 [Kouji]: Up until just now, I was speaking to her...to Lanhua.
 //［ファル］：‥‥夢でも見たんじゃないの？
-[FAR]: ...Are you sure it wasn't just a dream?
+[Far]: ...Are you sure it wasn't just a dream?
 //［コウジ］：夢なんかじゃない、これは現実だ！
 [Kouji]: It wasn't a dream, it was reality!
 //［ファル］：こ、コウジ‥‥。
-[FAR]: K-Kouji...
+[Far]: K-Kouji...
 //私はほとんど叫ぶようにして、断言した。私自身、断言したかった‥‥。
 I was mostly shouting, but I stopped talking. I, myself, stopped talking...
 //彼女の腰のホルスターから銃を抜くと、さっと身体を離す。突然の事だったので、ファルは唖然として見ていた。
 I pulled the gun out of her hip holster, and suddenly let go of her. The sudden act stunned Far.
 //［ファル］：ば、バカな真似はよして、コウジ。
-[FAR]: S-stop with the dumb imitations, Kouji.
+[Far]: S-stop with the dumb imitations, Kouji.
 //［コウジ］：バカはどっちだ。
 [Kouji]: Who's the dumb one here?
 //［ファル］：コウジ、落ちついて頂戴‥‥。
-[FAR]: Kouji, please calm down... 
+[Far]: Kouji, please calm down... 
 //［ファル］：今あなたには焦りの色しか見えない‥‥深呼吸をして、落ちつきなさい。
-[FAR]: Right now, you're a panicked color...breathe in deep, and calm down.
+[Far]: Right now, you're a panicked color...breathe in deep, and calm down.
 //［コウジ］：‥‥ランファの事はもういい。１つ教えてくれ。
 [Kouji]: ...I won't press you further about Lanhua. Please tell me one thing, though.
 //［ファル］：な、なに？
-[FAR]: Which is?
+[Far]: Which is?
 //［コウジ］：このシップの中で、下、と言ったとき、それはどの場所を指す？
 [Kouji]: On this ship, what place does "below" refer to?
 //［ファル］：下？
-[FAR]: Below?
+[Far]: Below?
 //［コウジ］：そうだ。
 [Kouji]: Yes.
 //［ファル］：このシップは単層構造だから、下のブロックというのは存在しないわ。
-[FAR]: This ship is constructed in one layer, so there's no floor below us.
+[Far]: This ship is constructed in one layer, so there's no floor below us.
 //［コウジ］：‥‥だとしたら？
 [Kouji]: ...So then?
 //［ファル］：だとしたら、恐らく惑星の事かもしれない‥‥。
-[FAR]: So then, that would mean the planet...
+[Far]: So then, that would mean the planet...
 //［コウジ］：惑星？
 [Kouji]: Planet?
 //［ファル］：エイレートのことよ。
-[FAR]: Yes, the planet {Eirate}.
+[Far]: Yes, the planet {Eirate}.
 //［ファル］：私を、どうするの？
-[FAR]: What are you going to do to me?
+[Far]: What are you going to do to me?
 //［コウジ］：確か、この船にはシャトルがあったな。あれは惑星上へ降りることができるのか？
 [Kouji]: This ship does indeed have a shuttle. Is it possible to land on the planet?
 //［ファル］：‥‥ええ、可能よ。
-[FAR]: ...Yeah, it's possible.
+[Far]: ...Yeah, it's possible.
 //［コウジ］：では格納庫まで、案内してもらおうか。
 [Kouji]: Then, guide me to the hangar.
 //［ファル］：‥‥わかったわ。
-[FAR]: ...I got it.
+[Far]: ...I got it.
 //静かな廊下に、２人の靴の音が響きわたっていた。
 In the quiet corridor, our footsteps echoed.
 //ファルはさっきから、ずっと黙っている。後ろを歩く私の手に、銃が握られているためかもしれない。
@@ -463,17 +463,17 @@ Maybe it wasn't that she didn't know, but that she somehow forgot...could it be 
 //そんな、取り留めのない考えが頭を駆けめぐっているとき、ファルが私に語りかけてきた。
 As these fading thoughts ran around in my head, Far spoke to me.
 //［ファル］：惑星へ降りて、どうするの？
-[FAR]: Why are you descending onto the planet?
+[Far]: Why are you descending onto the planet?
 //前を向きながら、ファルは私に尋ねた。歩みはそのままだ。
 As she faced forward, Far questioned me. Her pace continued.
 //［コウジ］：わからないよ‥‥。
 [Kouji]: I don't know....
 //［ファル］：わからないって‥‥銃を突きつけてまで、惑星に降りるつもりなんでしょう？
-[FAR]: "I don't know"...so while you're pointing a gun, you still plan to descend onto the planet?
+[Far]: "I don't know"...so while you're pointing a gun, you still plan to descend onto the planet?
 //［コウジ］：ランファ‥‥彼女が、何か手がかりを握っているのかもしれないんだ。
 [Kouji]: Lanhua...I think she was holding some kind of clue.
 //［ファル］：‥‥‥‥‥‥。
-[FAR]: ......
+[Far]: ......
 //恐らく、また私の作り話が始まったと思ったのかも知れない。ファルはしゃべるのを止めて、再び黙々と歩きだした。
 She may have thought my tale had yet to begin. Far stopped talking and silently continued walking.
 //私は、ランファが現実にいたと信じている。いや、信じたかった‥‥。
@@ -485,13 +485,13 @@ And then, even that singular reality can be denied, can't it...?
 //ドアの前へやってくると、ファルは私の方を振り向いた。
 As we arrived at the door, Far turned to me.
 //［ファル］：シャトルの操縦は？
-[FAR]: Who's piloting the shuttle?
+[Far]: Who's piloting the shuttle?
 //［コウジ］：えっ？　そ、操縦？
 [Kouji]: Huh-? P-piloting?
 //［コウジ］：できたら、やって欲しいんだけど。
 [Kouji]: If I could, I would gladly do it, but...
 //［ファル］：やらせるつもり、なんでしょう？
-[FAR]: I take it you're leaving it to me, right?
+[Far]: I take it you're leaving it to me, right?
 //［コウジ］：無理強いはしないよ。でも、君だってシャトル１機、無駄にはしたくないだろう？
 [Kouji]: Don't push yourself. But then, because we only have one shuttle, we don't want to mess up, right?
 //ファルは怪訝そうな表情で私を見ていた。銃を突きつけている人間が、無理強いはしないと言うのは、自分でも何か妙な気がする。
@@ -501,31 +501,31 @@ Far stared at me for a while, but she turned her heels, opened the door to the h
 //［トレイシー］：あら、お２人でどうなさったんですか？
 [Tracy]: Ara, what's going on with you two?
 //［ファル］：トレイシー‥‥シャトルの発進準備をして頂戴。
-[FAR]: Tracy...Please prepare the shuttle for liftoff.
+[Far]: Tracy...Please prepare the shuttle for liftoff.
 //［トレイシー］：あらあら‥‥２人で、ですの？
 [Tracy]: Ara ara...for two people, right?
 //［ファル］：トレイシー、お願い、黙って用意をして頂戴‥‥。
-[FAR]: Tracy, please, shut up and get it ready...
+[Far]: Tracy, please, shut up and get it ready...
 //［トレイシー］：フフ、野暮は聞きっこなしですね。
 [Tracy]: Hehe, I won't pry any further.
 //［ファル］：どうするの？　私は‥‥。
-[FAR]: What's going on? I was....
+[Far]: What's going on? I was....
 //［コウジ］：操縦をしてもらう。惑星へ降りるまでね。
 [Kouji]: Please pilot us until we get to the planet's surface.
 //［ファル］：わかったわ‥‥‥。
-[FAR]: I got it......
+[Far]: I got it......
 //［コウジ］：その後は、君をちゃんと解放するよ。
 [Kouji]: After that, I'll properly release you.
 //［ファル］：あなたはどうするのよ。
-[FAR]: What do you plan to do?
+[Far]: What do you plan to do?
 //［コウジ］：私は‥‥‥考えていない。
 [Kouji]: I...haven't considered that.
 //［ファル］：ちょっと、あんな遺跡しかない辺境の惑星に降り立って、生きていけると思ってるの？
-[FAR]: Hold on, do you think you can descend to that frontier planet of only ruins and live there?
+[Far]: Hold on, do you think you can descend to that frontier planet of only ruins and live there?
 //［コウジ］：さあね‥‥。
 [Kouji]: Well...
 //［ファル］：さあねって‥‥コウジ‥‥。
-[FAR]: "Well" what?...Kouji...
+[Far]: "Well" what?...Kouji...
 //［コウジ］：自分で言うのもなんだけど、そう言うほかはないんだよ。
 [Kouji]: You've already said it to me, and there's no other way to say it.
 //［コウジ］：（そう、惑星に降りてどうなるか、自分でもわかっちゃいない‥‥。）
@@ -571,7 +571,7 @@ As I thought about that, I became a little surprised. Unexpectedly, I may have j
 //［コウジ］：（誰の夢かはわからないが、やるだけやらしてもらうさ‥‥。）
 [Kouji]: (This might be someone's dream, but I can only struggle on...)
 //［ファル］：コウジ‥‥。<$05>
-[FAR]: Kouji...
+[Far]: Kouji...
 //fa11
 fa11
 //fa09
@@ -581,17 +581,17 @@ I snapped back to reality at once. Far, who had unexpectedly come near me, gave 
 //ずっと、私のことを見ていたのだろうか‥‥。
 It seemed she'd been staring at me for some time...
 //［ファル］：深刻の色を発しているわ‥‥。
-[FAR]: You're giving off a serious color...
+[Far]: You're giving off a serious color...
 //［コウジ］：自分にとってはね。巻き込んで、すまないと思ってる。
 [Kouji]: I *am* serious. I'm sorry about getting you involved in this.
 //［コウジ］：それよりも、操縦はしなくてもいいのか？
 [Kouji]: By the way, is it OK for you not to be piloting anymore?
 //［ファル］：オートパイロットモードになっているの。行き先も、あなたが設定したんでしょう？
-[FAR]: I've engaged the auto-pilot mode. Before you go, you've made some plans, haven't you?
+[Far]: I've engaged the auto-pilot mode. Before you go, you've made some plans, haven't you?
 //［コウジ］：どういうことだ‥‥？
 [Kouji]: How do I say this...?
 //［ファル］：いいわ、無理に聞こうとは思わないから‥‥。
-[FAR]: It's OK, don't force yourself to answer...
+[Far]: It's OK, don't force yourself to answer...
 //ファルは前方に向き直ると、再び押し黙ってしまった‥‥。
 Far turned around to the front and was silent once more...
 //［コウジ］：（まぁいいさ‥‥‥‥。）
