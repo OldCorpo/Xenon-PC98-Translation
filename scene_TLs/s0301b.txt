@@ -36,7 +36,7 @@ The alarm reverberated through my head...I felt a little nauseous.
 I was suddenly struck with the feeling that the ground was gradually rising towards me.
 //ドサッという音を聞いて、オレは自分が倒れたことを知った。
 As I heard a thud, I realized I had fallen down.
-//ヒンヤリとした硬い感触を頬に感じながら、オレは自分の身に降り懸かった災厄を、克明に思い出していた‥‥。<$05>
+//ヒンヤリとした硬い感触を頬に感じながら、オレは自分の身に降り懸かった災厄を、克明に思い出していた‥‥。
 As I felt something cold and hard against my cheek, I remembered my calamitous fall in great detail....
 //そう考えると、ドアの方へと後戻りしはじめた。
 As I thought that, I started turning back towards the door.
@@ -176,7 +176,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 [Kouji]: Ryo-ryo-ryo-....
 //［涼子］：ほら、お・や・す・み‥‥‥‥チュッ。
 [Ryouko]: Now, now, it's time. to. sleep....*kiss*
-//［宏治］：りょ、涼子‥‥せんせ‥‥‥‥。<$05>
+//［宏治］：りょ、涼子‥‥せんせ‥‥‥‥。
 [Kouji]: Ry-Ryouko...sensei....
 //［宏治］：‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
 [Kouji]: ............
@@ -240,7 +240,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 [Kouji]: I DON'T WANT TO DIE YET! I STILL HAVE SO MANY THINGS I WANT TO DO!!
 //［涼子］：大げさねぇ、じゃいくわよ！
 [Ryouko]: Don't shout so loudly, now here we go!
-//［宏治］：末代まで呪ってやるからなーーーーーっっ！！！<$05>
+//［宏治］：末代まで呪ってやるからなーーーーーっっ！！！
 [Kouji]: CURSE YOU FOR GENERATIONS TO COME---!!
 //そうだ、はっきりと思い出してきた‥‥。
 That's it, I remembered it clearly...

@@ -348,7 +348,7 @@ s0402
 [Kouji]: Afterwards, put that vibe that fell out securely back up your butt.
 //［トレイシー］：コウジ様が喜んで下さるなら、私は何でも‥‥。
 [Tracy]: Anything to please Kouji-sama...
-//［トレイシー］：そうよ、それが私たちの愛なの‥‥‥‥。<$05>
+//［トレイシー］：そうよ、それが私たちの愛なの‥‥‥‥。
 [Tracy]: Yes, that was the love between us....
 //［ランファ］：トレイシー、お話って、なに？
 [Lanhua]: Tracy, you had something to talk to me about?
@@ -546,8 +546,8 @@ ra&to01
 [Lanhua]: Ahh, Tracy, your tongue is in my...it's going inside my aaaasssss-!!!
 //［ランファ］：ランファ、どうなっちゃうの‥‥あぅっ‥‥何だか‥‥トレイシー！　あぁぁぁぁぁっっ！！
 [Lanhua]: I feel so strange....Aooo...something's...Tracy! Ahhhhhhh-!!
-//［トレイシー］：ウフフ、可愛らしい子‥‥。<$05>
-[Tracy]: Ehehe, how adorable you are...<$05>
+//［トレイシー］：ウフフ、可愛らしい子‥‥。
+[Tracy]: Ehehe, how adorable you are...
 //ra&to02
 ra&to02
 //［ランファ］：あふぅぅぅ‥‥トレイシー‥‥。

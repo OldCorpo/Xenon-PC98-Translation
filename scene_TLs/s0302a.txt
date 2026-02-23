@@ -630,7 +630,7 @@ Wh-what...
 [Lanhua]: Yes! Leave it to me!
 //［トレイシー］：あの、私の方が理路整然と説明できると思いますが‥‥。
 [Tracy]: Um, I'd like it if you could explain this in a logically sound way...
-//\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼<$04><$32><$05>
+//\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
 VIP ROOM
 //重厚なプレートに、ＶＩＰルームと書かれた部屋の前にオレはたった。
 On a thick, heavy plate in front of the room before me, the words "VIP ROOM" were inscribed.
@@ -664,7 +664,7 @@ I reached for the control panel beside me. I did as the others did.
 xenon_08
 //fa10
 fa10
-//［ファル］：フンフン、フフン‥‥。<$04><$30><$05>
+//［ファル］：フンフン、フフン‥‥。
 [Far]: Hum hum, hu-hum...
 //後ろでドアが閉まった途端、あたりが静寂に包まれる。
 As the door closed behind me, I was enveloped in silence.
@@ -842,7 +842,7 @@ I briefly strained my ears. However, I couldn't hear any sounds of her using the
 I've heard this sound since just a while ago. This sound...
 //最初は耳鳴りだと思っていたが、なにやら甲高い音が微かに聞こえてくる。
 At first, I thought it was just tinnitus, but I faintly heard this high-pitched sound.
-//何の音かな‥‥。<$04><$30><$05>
+//何の音かな‥‥。
 What kind of sound is it...?
 //シャワー‥‥？<$0C>　バスルームか？
 The shower...? From the bathroom?
@@ -914,7 +914,7 @@ Grab.
 [Far]: Wh-...ah, ah, ah...
 //［宏治］：だから、不可抗力‥‥。
 [Kouji]: As I said, it's inevitable...
-//ガキーンッ！<$04><$30><$05>
+//ガキーンッ！
 *smack*!!
 //目から火花が散りそうな、容赦ない一撃だった。シャワーの取っ手を手にした彼女が、ブルブルと震えているのが分かる。
 She'd hit me mercilessly enough to make me see stars. She had one hand gripping the shower handle, and I realized she was quivering.
@@ -1036,7 +1036,7 @@ fa02_m
 [Kouji]: Is she more cruel or more normal of a woman? I can't make heads or tails of her.
 //［宏治］：ま、いいさ。それよりも、彼女から話を少しは聞けそうだし‥‥。
 [Kouji]: Well, no matter. Besides, I have questions to ask her...
-//ピーピッ、ピーピッ‥‥。<$04><$30><$05>
+//ピーピッ、ピーピッ‥‥。
 *BEEEEP*, *BEEEEP*...
 //［宏治］：ん？　誰だろう‥‥。
 [Kouji]: Hm? Who could that be...?
@@ -1176,8 +1176,8 @@ fa03_m
 [Far]: Kyaaa-!!
 //［宏治］：うわっ、ナイス！
 [Kouji]: Yeah, nice!
-//バキッ！<$05><$04><$30>
-Crack!<$05><$04><$30>
+//バキッ！
+Crack!
 //［宏治］：んな、バスタオルを身体に巻いただけで、男の上になんてまたがるのが悪いんだよ。
 [Kouji]: Hey, with only a bath towel wrapped around you, straddling a man is dangerous.
 //［ファル］：な、なによぉ‥‥。
@@ -1188,7 +1188,7 @@ Crack!<$05><$04><$30>
 [Kouji]: Speaking of which, whether it's kidnapping or confinement, they're both rather strong words...
 //［宏治］：んー、コウジってヤツは、いったいどういうヤツなんだ。
 [Kouji]: Nng, what kind of person was that Kouji bastard, anyway?
-//ピーピッ、ピーピッ‥‥。<$04><$32><$05>
+//ピーピッ、ピーピッ‥‥。
 *BEEEEP*, *BEEEEP*...
 //［宏治］：なんかこう、緊迫感がないようなぁ。気にはなるけど‥‥。
 [Kouji]: Well, there's no sense of urgency here. I'm curious, but...

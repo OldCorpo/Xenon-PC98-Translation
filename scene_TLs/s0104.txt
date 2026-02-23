@@ -116,8 +116,8 @@ In this sultry atmosphere, with a loud low sound resonating through my head...My
 How can I get out of this place?
 //私は、壁に手を当てて、めまいを押さえた。と、その時‥‥‥‥。
 Struggling to get a grip, I pushed my hands against the wall. Suddenly...
-//ウィーーン‥‥‥‥。<$04><$30><$05>
-*slide*<$04><$30><$05>
+//ウィーーン‥‥‥‥。
+*slide*
 //（タッチセンサー、だったのか‥‥‥‥。）
 (A touch sensor...?)
 //今は、一刻も早くこの騒音から逃れたかった。
@@ -357,8 +357,8 @@ Once again, I took a look at myself.
 A thin shirt, a relatively short pair of trousers, and this nametag attached to my chest. That's everything I was wearing.
 //身体に異状はなさそうだった。そこらへんを、少し歩いてみる。
 Nothing seemed wrong with my body. I tried walking, remaining inside the area dictated by Far. 
-//コッ‥‥コッ‥‥コッ‥‥‥‥。<$04><$30><$05>
-*tap* *tap* *tap*<$04><$30><$05>
+//コッ‥‥コッ‥‥コッ‥‥‥‥。
+*tap* *tap* *tap*
 //意味もなく部屋を歩き回ると、硬い音が部屋に響きわたる。
 I was walking aimlessly in circles inside the room, the hard sounds of my footsteps echoing throughout.
 //今は、ブーツのような靴を借りて、かろうじて素足という事態だけは免れていた。
@@ -419,7 +419,7 @@ I fell back on the cool sheets, and, crossing my hands behind my head, stared at
 [Kouji]: Well, I guess I shouldn't worry...
 //そんな事を考えていたとき、
 If I think about it,
-//ピーピッ、ピーピッ‥‥‥‥。<$04><$30><$05>
+//ピーピッ、ピーピッ‥‥‥‥。
 *BEEEEP* *BEEEEP*
 //［コウジ］：な、何だ‥‥！？
 [Kouji]: What was that!?
@@ -619,7 +619,7 @@ Far and her team would then be the third investigative team...
 What could they be investigating?
 //ドアの前にやってくると、私は手を差し伸べた。少し、緊張する。
 I reached out once in front of the door. I was slightly anxious.
-//ウィーン‥‥。<$04><$30><$05>
+//ウィーン‥‥。
 *Swoosh*...
 //意に反して、ドアはすんなりと外への出口を呈示した。
 To my surprise, the door led smoothly outside.
@@ -689,7 +689,7 @@ Was there really something there...with unease and anticipation, I quietly walke
 A low, heavy sound rang out. I was definitely close to the engine room.
 //その時‥‥‥‥。
 Right then...
-//ウィーン‥‥‥‥。<$04><$30><$05>
+//ウィーン‥‥‥‥。
 *Swoosh*...
 //［女］：あっ‥‥。
 [Girl]: Ah-

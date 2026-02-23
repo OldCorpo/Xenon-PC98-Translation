@@ -44,7 +44,7 @@ bi02
 [Kouji]: I-I mean it!
 //bi02b
 bi02b
-//ビシィィィッッ！！！<$04><$30><$05>
+//ビシィィィッッ！！！
 *Basheeeee*!!!
 //［宏治］：ちょ、ちょっと今のは効いたぞ。
 [Kouji]: Th-that was a really effective blow.
@@ -355,5 +355,5 @@ bi06e_m
 [Bianca]: Huh-?
 //［ファル・ランファ・トレイシー］：えぇっ～！？
 [Far, Lanhua, and Tracy]: Huuuuuh?!
-//で、その後どうなったかというと‥‥‥‥。<$05>
+//で、その後どうなったかというと‥‥‥‥。
 After that, what happened was......

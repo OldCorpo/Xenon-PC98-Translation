@@ -142,8 +142,8 @@ What an idiotic woman. If she wanted to conquer the whole world, she would have 
 [Sayaka]: You'd better not piss me off.
 //［コウジ］：ほぉ、怒らせると、どうなるのだ？
 [Kouji]: Hoh~, what will you do if I piss you off?
-//バシィ！<$05><$04><$30>
-Bash! <$05><$04><$30>
+//バシィ！
+Bash! 
 //［沙夜香］：おわかり？　もう質問はないのかしら。
 [Sayaka]: Got it? Now, you should have no questions.
 //［コウジ］：舞をどうする気だ。
@@ -174,8 +174,8 @@ What a perceptive woman, exactly the type I hate most.
 [Sayaka]: That Ryouko is such an eyesore. Since she's the architect of this machine, I wonder if I should kill her.
 //［コウジ］：なに！　あれは私のモノだ。何かしてみろ、ただじゃすまさんぞ、女。
 [Kouji]: WHAT! That woman is MY possession. Whatever you're trying, I will pay you back, woman.
-//バシィッ！<$04><$30><$05>
-Bam! <$04><$30><$05>
+//バシィッ！
+Bam! 
 //［コウジ］：フン、この私が暴力に屈すると思っているのか。
 [Kouji]: Hm, do you really think I will submit to violence?
 //［沙夜香］：黙っていなさい。
@@ -402,7 +402,7 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 [Kouji]: (Ryouko...?)
 //［コウジ］：（むぅ‥‥‥‥。）
 [Kouji]: (Mm...)
-//［コウジ］：（成功、する‥‥の‥‥だろう‥‥か‥‥‥‥。）<$05>
+//［コウジ］：（成功、する‥‥の‥‥だろう‥‥か‥‥‥‥。）
 [Kouji]: (It'll...be...successful...right......?)
 //r&s
 r&s
@@ -538,8 +538,8 @@ r&m&m
 [Mai]: But, Ryouko nee-san...
 //［涼子］：ほらほら、そんな泣きそうな顔をしないで。とにかく、宏治様をこのままにしておいたら‥‥。
 [Ryouko]: Now, now, don't start crying on me. In any case, if we leave Kouji-sama here...
-//むくっ。<$05><$04><$30>
-Puff. <$05><$04><$30>
+//むくっ。
+Puff. 
 //r&m&mb
 r&m&mb
 //［涼子・舞・恵］：きゃぁぁぁぁぁっ～！！
@@ -570,7 +570,7 @@ r&m&mb
 [Kouji]: And finding it is exceedingly easy....
 //［コウジ］：我がゆくは、覇王への道のみ‥‥。
 [Kouji]: I tread only the path of an overlord...
-//その後、私は‥‥‥‥。<$05>
+//その後、私は‥‥‥‥。
 After that, I....
 //all2
 all2
@@ -672,10 +672,10 @@ Splat.
 [Megumi]: Koujii...no, Kouji-sama, where's the chapel?
 //［舞］：宏治様、私のことを一番気に入ってくださっているんですよね‥‥。
 [Mai]: Kouji-sama, please tell me that I'm the one you're most interested in....
-//［女性一同］：きゃぁぁ～、素敵ぃ、宏治様ぁぁぁっ！！<$05>
+//［女性一同］：きゃぁぁ～、素敵ぃ、宏治様ぁぁぁっ！！
 [All the girls at once]: Kyaaa~, you're so wonderful, Kouji-samaaaa!!
-//　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ<$04><$30><$05>
-　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ<$04><$30><$05>
+//　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ
+　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ
 //（おかしいな‥‥。）
 (How strange...)
 //足音はいつまでたっても止まず、そればかりかどんどん遠ざかっているような気すらした。

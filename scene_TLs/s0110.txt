@@ -570,7 +570,7 @@ Even if my self here and now exists in a dream, as long as I just give it my all
 As I thought about that, I became a little surprised. Unexpectedly, I may have just accepted this as "reality".
 //［コウジ］：（誰の夢かはわからないが、やるだけやらしてもらうさ‥‥。）
 [Kouji]: (This might be someone's dream, but I can only struggle on...)
-//［ファル］：コウジ‥‥。<$05>
+//［ファル］：コウジ‥‥。
 [Far]: Kouji...
 //fa11
 fa11

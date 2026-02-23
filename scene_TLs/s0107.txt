@@ -1,10 +1,10 @@
 //s0107
 s0107
-//　　　　　　宏治さん、目覚める時間ですよ‥‥。<$04><$30><$05>
+//　　　　　　宏治さん、目覚める時間ですよ‥‥。
 	Kouji-san, it's time to wake up...
-//　　　　　　　　　宏治さん‥‥。<$04><$30><$05>
+//　　　　　　　　　宏治さん‥‥。
 		Kouji-san....
-//　　　　宏治‥‥？　それが私の名前なのか‥‥？<$04><$30><$05>
+//　　　　宏治‥‥？　それが私の名前なのか‥‥？
 	Kouji...? Is that my name?
 //［宏治］：‥‥はっ！！
 [Kouji]: ...Hah-!!
@@ -186,7 +186,7 @@ I didn't know what I was thinking. Intuition might be a suitable word for it.
 As I considered that...
 //xenon_20
 xenon_20
-//プルルルル‥‥‥‥プルルルル‥‥‥‥。<$04><$32><$05>
+//プルルルル‥‥‥‥プルルルル‥‥‥‥。
 *ring ring ring*...
 //［宏治］：（な、なんだ‥‥。）
 [Kouji]: (What...)
@@ -212,8 +212,8 @@ Whatever the case, there's no reason not to enter the room, so settling this mat
 On top of it all, it feels unusual not to enter the room assigned to me.
 //そんな風に考えると、僕はドアのノブをつかみ、そっと手前に引いてみた。
 With that in mind, I grabbed the doorknob and pulled it towards me.
-//キーーーー‥‥‥‥。<$04><$32><$05>
-*creeeeak*<$04><$32><$05>
+//キーーーー‥‥‥‥。
+*creeeeak*
 //今度、潤滑油でも買ってこないと‥‥そんなつまらないことを考えながら、僕は部屋へ入っていった‥‥。
 I need to buy some lubricant...as I thought of that trivial matter, I entered the room...
 //部屋には誰もいないようだ‥‥電気は、単に僕の消し忘れだったのだろう。
@@ -450,16 +450,16 @@ Here, like other places around the clinical center, there was no one around. The
 It was an inorganic, deserted room, but more than anything, the fact that there was movement brought me some relief.
 //ここには静寂が無かった‥‥。
 This place wasn't silent after all...
-//ガタッ‥‥。<$04><$32><$05>
-*clatter*<$04><$32><$05>
+//ガタッ‥‥。
+*clatter*
 //［宏治］：だ、誰か‥‥いるのか？
 [Kouji]: Is-is someone there?
 //［宏治］：誰だ！？
 [Kouji]: Who's there?!
 //その時、機器類の陰から、素早くドアへ向かう人影があった。僕は無我夢中で、その影に向かって体当たりをしていた。
 Right then, from behind the machinery, there appeared a person's silhouette moving quickly toward the door.\nLosing myself in the moment, I turned toward that silhouette and bumped into it.
-//ドカッ！！<$04><$32><$05>
-*bump*!<$04><$32><$05>
+//ドカッ！！
+*bump*!
 //［女の声］：いったーい‥‥ちょっとぉー手加減してよネ、宏治クン。
 [Woman's voice]: Oww...Could you please help me up, Kouji-kun?
 //［宏治］：あれ？
@@ -758,5 +758,5 @@ Ryouko looked at me with a far-reaching gaze. No, not at me, but at something be
 [Ryouko]: Now, I will slowly count to 3. At that time, Kouji-kun, you will...
 //だんだん、涼子の声が遠くなっていった。僕は消えゆく意識の中で、これからみる夢に思いを馳せていた‥‥‥‥。
 Gradually, Ryouko's voice got farther and farther away. As my consciousness faded, my thoughts were whisked away into a dream...
-//では、ひとつ‥‥‥<$0C>ふたつ‥‥‥‥<$0C>みっつ‥‥‥‥。<$05><$04><$31>
-Then, one......<$0C>Two.......<$0C>Three.......<$05><$04><$31>
+//では、ひとつ‥‥‥<$0C>ふたつ‥‥‥‥<$0C>みっつ‥‥‥‥。
+Then, one......<$0C>Two.......<$0C>Three.......

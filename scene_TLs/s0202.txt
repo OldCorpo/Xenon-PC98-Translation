@@ -34,7 +34,7 @@ s0202
 Thump.
 //［涼子］：ちょっと、宏治クン、ねぇ、大丈夫？　宏治クン！？
 [Ryouko]: Hold it, Kouji-kun, are you OK? Kouji-kun?!
-//［涼子］：大変だわ、顔が真っ青‥‥宏治クン、ねぇ、宏治クン‥‥‥‥。<$05>
+//［涼子］：大変だわ、顔が真っ青‥‥宏治クン、ねぇ、宏治クン‥‥‥‥。
 [Ryouko]: This is bad, your face is blue...Kouji-kun, hey, Kouji-kun....
 //そうか‥‥私は、ジェネレータを利用して‥‥。
 That's right...I used the generator....
@@ -102,7 +102,7 @@ In front of me, I can hear their speech, and I can understand and recognize them
 It's possible this is a dream...
 //いや、夢を見ているという夢なのかもしれない。マイナスのマイナスは、プラスという訳だ。つまり、現実‥‥？
 No, it might be a dream I see while dreaming. The negative of a negative is a positive. So, is this reality...?
-//私は、消えゆく意識の中で、さらにその夢の可能性も考えていた‥‥。<$05>
+//私は、消えゆく意識の中で、さらにその夢の可能性も考えていた‥‥。
 In my faded consciousness, I pondered that possibility of a dream even further...
 //‥‥‥‥いったいあれは‥‥‥‥。
 ...What on earth is that....
@@ -130,7 +130,7 @@ Tiny, miserable room...
 I should use the landline to call someone...
 //［コウジ］：室内フォンか‥‥。
 [Kouji]: The landline...
-//ピポピポパピポ‥‥。<$04><$34><$05>
+//ピポピポパピポ‥‥。
 *beep boop beep boop beep boop*...
 //［コウジ］：‥‥‥‥‥。
 [Kouji]: .........
@@ -174,8 +174,8 @@ This body is somehow quite puny. A mind that preserves this kind of body can eas
 [Kouji]: This body is far from that of a galactic pirate...
 //［コウジ］：フン、まぁいい。さて、ドアは‥‥ここか。
 [Kouji]: Hmph, well, it's ok. Now, then, the door is...here.
-//バコッ！<$05><$04><$30>
-Bam!<$05><$04><$30>
+//バコッ！
+Bam!
 //ふむ、ドアは自動ではなく、手動と。
 Hmm, the door is not automatic, but hand-operated.
 //私の状況分析は的確だ。どうやら、かなり原始文明らしいな、ここは‥‥。
@@ -216,7 +216,7 @@ In that scenario, the strongest galactic pirate (me) has appeared before them, s
 [Kouji]: Heheh.
 //的確な分析をした後は、気分がよくなる。私は、軽快なステップを踏みながら、廊下を進んでいった‥‥。
 After correctly analyzing the situation, I felt much better. With a spring in my step, I descended down the corridor... 
-//ドカッ！<$04><$30><$05>
+//ドカッ！
 *bump*!
 //［女］：ちょっと、よそ見してないでよ！
 [Woman]: Hey, don't look away!
@@ -378,7 +378,7 @@ I didn't come down to the lobby just to read the news posted there. A galactic p
 As I got off the elevator, I immediately went to the news corner by the sofa.
 //ニュースペーパーこそ、その地域の文化文明を知る、もっとも効率的な情報源なのだ。
 The newspaper itself told about the area's culture and civilization, and therefore, it was an efficient source of information. 
-//パサッ。<$04><$32><$05>
+//パサッ。
 *flip*
 //［女］：宏治！
 [Woman]: Kouji!

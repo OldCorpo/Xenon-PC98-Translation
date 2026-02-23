@@ -100,5 +100,5 @@ As I felt Far's gaze on my back...
 [Far]: .........
 //［ファル］：私、こんな所でいったい何をやっていたのかしら‥‥。
 [Far]: What on earth am I doing in a place like this...?
-//［ファル］：なぜ、１人でこの惑星に‥‥‥‥？<$05>
+//［ファル］：なぜ、１人でこの惑星に‥‥‥‥？
 [Far]: Why would he travel alone on this planet...?

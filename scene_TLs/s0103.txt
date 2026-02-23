@@ -86,8 +86,8 @@ It seemed that unpleasant heat was only present in the corridor.
 [Kouji]: (I feel a little better...)
 //ずっとこのままエレベータに乗っていたい‥‥そんな淡い願望を抱いていたとき、
 I just wanted to go on riding the elevator. The moment this fleeting yearning embraced me...
-//チーン‥‥。<$04><$30><$05>
-*ding* <$04><$30><$05>
+//チーン‥‥。
+*ding* 
 //［宏治］：現実とは、こういうものさ‥‥。
 [Kouji]: Reality's always like this, huh...
 //あらためてそう認識すると、僕はエレベータをゆっくりと降りていった。

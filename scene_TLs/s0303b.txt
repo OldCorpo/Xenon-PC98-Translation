@@ -458,7 +458,7 @@ As I felt her tongue around me, a pleasant numbness swept over me...
 [Far]: Excuse me! With skin as supple as this, where on earth did you get 80 years from?
 //［宏治］：まさか、８０じゃなくて８００ってのも、ゴメン被るぜ。
 [Kouji]: Don't tell me, you're not 80, but 800? Please forgive me.
-//バキィィッ！！<$04><$30><$05>
+//バキィィッ！！
 *smack*!!
 //［宏治］：（つくづく手の早い女性だな‥‥。）
 [Kouji]: (Really, what a short-tempered woman...)
@@ -670,7 +670,7 @@ Squeeze.
 [Kouji]: All right.
 //［ファル］：じゃ‥‥‥‥。
 [Far]: Well...
-//ゴゴゴゴゴッッ！！<$04><$30><$05>
+//ゴゴゴゴゴッッ！！
 *rumble rumble rumble*!!
 //［宏治］：イテッ！
 [Kouji]: OW!
@@ -682,7 +682,7 @@ Squeeze.
 [Far]: But, what on earth just happened?
 //［宏治］：そうだな‥‥凄い衝撃だったけど‥‥。
 [Kouji]: I wonder that too...what a big quake that was...
-//ピーピッ、ピーピッ‥‥。<$04><$31><$05>
+//ピーピッ、ピーピッ‥‥。
 *BEEP*, *BEEP*...
 //［宏治］：な、何だ‥‥？
 [Kouji]: Wh-what is it?
@@ -710,7 +710,7 @@ Squeeze.
 [Kouji]: Mm, where is that G2-class galactic cruiser?
 //［トレイシー］：我々の、すぐ上です。
 [Tracy]: It's directly above us.
-//ガガーーーンッッ！！！<$04><$30><$05>
+//ガガーーーンッッ！！！
 *KABOOOM*!!!
 //［宏治］：なんだ、どうした！？　また砲撃か！？
 [Kouji]: What the hell?! Was that another missile?!
@@ -722,8 +722,8 @@ Squeeze.
 [Tracy]: They probably plan to board us and engage in close combat.
 //［宏治］：は、白兵！？
 [Kouji]: C-close combat?
-//ピュイィィ～～～～。<$04><$32><$05>
-Twiiiiii...<$04><$32><$05>
+//ピュイィィ～～～～。
+Twiiiiii...
 //［ファル］：きゃぁ、なに、どうしたの！？
 [Far]: Kya-, what the hell is going on?!
 //［トレイシー］：何者かが、艦内放送を乗っ取りました。

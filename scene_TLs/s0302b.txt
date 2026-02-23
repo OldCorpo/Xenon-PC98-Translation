@@ -302,7 +302,7 @@ But if I treat this as real, it's real. Am I really here, in outer space...?
 No, no, that's not scientific at all. There's no way that's the case.
 //まっ、慌てる必要はないさ‥‥ゆっくりと‥‥。
 Well, there's no need to fret about it...let's just drift...
-//‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。<$05>
+//‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
 .........................
 //［宏治］：（ドキッ‥‥涼子先生！？）
 [Kouji]: (Ba-bump...Doctor Ryouko?!)
@@ -398,7 +398,7 @@ In front of me, a thick, heavy door forbade me from going further.
 [Kouji]: Doesn't seem like anyone's here...
 //良く見るとドアには、目線の高さにプレートが貼ってあった。
 As I looked closely at the door, I noticed a plate at eye level.
-//　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼<$04><$32><$05>
+//　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
 ▼  VIP ROOM  ▼
 //ＶＩＰというと、重要人物のことだよな‥‥。
 So this is for Very Important People...
