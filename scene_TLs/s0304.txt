@@ -25,61 +25,61 @@ As I closed the door...
 //［宏治］：あっ、もしかして、ビアンカって人？
 [Kouji]: Ah-, you're that Bianca person, aren't you?
 //［ビアンカ］：とぼけるのもそこまでだ。既に《クワドラ》は、我が手中にある。
-[BIANCA]: I see you've stopped playing dumb. The [Kuwadora] is already mine.
+[Bianca]: I see you've stopped playing dumb. The [Kuwadora] is already mine.
 //［宏治］：ふーん、そうなんだ。
 [Kouji]: Hmmm, is that so?
 //［ビアンカ］：貴様の機動シップは、既に私の手中にある、とこう言っているのだぞ。
-[BIANCA]: I said, your ship is already in my hands.
+[Bianca]: I said, your ship is already in my hands.
 //［宏治］：それくらい聞いていればわかるさ。で、エンコーダを奪いに来たんだろ？
 [Kouji]: Just as I thought. You came here to steal the encoder, didn't you?
 //［ビアンカ］：‥‥‥‥‥‥。
-[BIANCA]: .........
+[Bianca]: .........
 //［宏治］：なんだい、人の顔をジロジロみて。
 [Kouji]: What are you staring at me for?
 //［ビアンカ］：‥‥あまり焦っては、いないようだな。
-[BIANCA]: ...You don't seem irritated at all.
+[Bianca]: ...You don't seem irritated at all.
 //［宏治］：んー、それなりに緊迫感は感じてるんだけどね。
 [Kouji]: Mmm, I do feel a sense of urgency, though.
 //［ビアンカ］：どんな逆境からでも、挽回できるという自信か？
-[BIANCA]: Do you have confidence that no matter how the situation disfavors you, you'll prevail?
+[Bianca]: Do you have confidence that no matter how the situation disfavors you, you'll prevail?
 //［宏治］：自信ってのとは、ちょっと違うね。
 [Kouji]: Well, I wouldn't say confidence there.
 //［ビアンカ］：では、なんだ？
-[BIANCA]: Then, what is it?
+[Bianca]: Then, what is it?
 //［宏治］：そうだなぁ、ま、平たく言えば、他人事。
 [Kouji]: Hmm, well, in simple terms, it's not my problem.
 //［ビアンカ］：貴様、悔しくはないのか、エンコーダを奪われるのが。
-[BIANCA]: Are you really not regretful that I'll steal the encoder?
+[Bianca]: Are you really not regretful that I'll steal the encoder?
 //［宏治］：悔しくはないが、残念だな。
 [Kouji]: I don't regret it, but it is a pity.
 //［ビアンカ］：どういうことだ。
-[BIANCA]: What do you mean by that?
+[Bianca]: What do you mean by that?
 //［宏治］：ちょうど破棄しようと思っていたところさ。
 [Kouji]: I was just about to destroy the thing.
 //［ビアンカ］：正気か？　このエンコーダの可能性を考えないのか！？
-[BIANCA]: Are you serious? Have you considered what this encoder is capable of?!
+[Bianca]: Are you serious? Have you considered what this encoder is capable of?!
 //［宏治］：考えたから、破棄しようとしてる。
 [Kouji]: It's precisely because I've thought of it that I'm going to destroy it.
 //［ビアンカ］：フン、たちの悪い冗談だな。
-[BIANCA]: Hmph, what a cruel joke.
+[Bianca]: Hmph, what a cruel joke.
 //［宏治］：冗談じゃないさ。
 [Kouji]: It's no joke.
 //［ビアンカ］：まぁいい。貴様には借りがたっぷりとあったからな。
-[BIANCA]: Well, fine. You already owe me a hefty debt.
+[Bianca]: Well, fine. You already owe me a hefty debt.
 //［宏治］：借り？
 [Kouji]: A debt?
 //［ビアンカ］：思い起こせば、５年前‥‥。
-[BIANCA]: Thinking back, about five years ago...
+[Bianca]: Thinking back, about five years ago...
 //［ビアンカ］：貴様の汚い奸計にはまり、私は生死の境をさまよった‥‥。
-[BIANCA]: I got entangled in your dirty scheme and straddled the line between life and death...
+[Bianca]: I got entangled in your dirty scheme and straddled the line between life and death...
 //［宏治］：なんだよ、その汚い奸計ってさ。
 [Kouji]: What was that dirty scheme anyway?
 //［ビアンカ］：知れたこと！　私を置き去りにして‥‥私は脱獄するまで軍収容所でわびしい毎日を‥‥。
-[BIANCA]: That's obvious! You deserted me...until I broke out, I spent every wretched day in that military detention...
+[Bianca]: That's obvious! You deserted me...until I broke out, I spent every wretched day in that military detention...
 //［宏治］：苦労したんだなぁ。
 [Kouji]: You went through a lot, didn't you?
 //［ビアンカ］：ええい、黙れ黙れ！　奸計にハメた当事者の貴様に、私の悔しさがわかってたまるか！！
-[BIANCA]: Yeah, shut up already! May you, the perpetrator who entangled me, know the depths of my suffering!!
+[Bianca]: Yeah, shut up already! May you, the perpetrator who entangled me, know the depths of my suffering!!
 //［宏治］：コブシを握りしめながら、熱演するなよ。
 [Kouji]: Kouji isn't here, so quit your act already.
 //［宏治］：裏切る？
@@ -97,17 +97,17 @@ Blast!!!<$04><$30><$05>
 //［宏治］：（で、電撃‥‥！？）
 [Kouji]: (An e-electrical blast?!)
 //［ビアンカ］：フッ、私の電撃ムチをもろに受けるとは、おろかな男よ‥‥。
-[BIANCA]: Hum, take the full force of my electric whip, you despicable bastard...
+[Bianca]: Hum, take the full force of my electric whip, you despicable bastard...
 //［宏治］：（か、身体が、痺れて‥‥‥‥。）
 [Kouji]: (M-my body is going numb...)
 //［ビアンカ］：フハハハハ‥‥エンコーダと、触媒の女はもらっていくぞ！
-[BIANCA]: Wahahahaha...the encoder and that woman medium are MINE!
+[Bianca]: Wahahahaha...the encoder and that woman medium are MINE!
 //［宏治］：くっ‥‥。
 [Kouji]: Gh....
 //［ビアンカ］：命だけは取らないでおいてやる。悔しかったら、奪い返しに来て見ろ！
-[BIANCA]: I'll spare you just your life. If you want it, come and take it from me!
+[Bianca]: I'll spare you just your life. If you want it, come and take it from me!
 //［ビアンカ］：ハッハッハ‥‥‥‥。
-[BIANCA]: Ha ha ha...
+[Bianca]: Ha ha ha...
 //‥‥‥‥。
 .......
 //‥‥‥‥‥‥‥。

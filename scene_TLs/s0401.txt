@@ -7,7 +7,7 @@ all
 //［ランファ］：んもぉ、ビアンカさん、ちょっとは手伝って下さいよぉ。
 [Lanhua]: Ah, come on. Bianca, could you please help me out?
 //［ビアンカ］：私は炊事関連は苦手でな。ムチさばきなら得意だぞ。
-[BIANCA]: I'm pretty incapable when it comes to cooking. I'm much better at handling a whip.
+[Bianca]: I'm pretty incapable when it comes to cooking. I'm much better at handling a whip.
 //［ファル］：ほらほら、コウジぃ、お尻ばかり見てないで、お鍋を見て。
 [FAR]: Now, now, Kouji, stop watching my butt, and watch the pot.
 //［ランファ］：あっ、お鍋がふいてるぅ！
@@ -15,7 +15,7 @@ all
 //［トレイシー］：あらあら、大変‥‥火はこれくらい、かしら？
 [Tracy]: My, my, what a mess...the heat should be about here, perhaps?
 //［ビアンカ］：私に訊かれても困るぞ。炊事関連は苦手でな。
-[BIANCA]: I can't really help you there. I'm no good at cooking.
+[Bianca]: I can't really help you there. I'm no good at cooking.
 //［ファル］：お醤油とって頂戴、お醤油。
 [FAR]: Pass the soy sauce, please.
 //［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ～！
@@ -29,7 +29,7 @@ all
 //［トレイシー］：あら、すみません‥‥。あっ、ビアンカさん、卵といて下さいな。
 [Tracy]: Oh my, I'm sorry...Ah-, Bianca, could you bring the eggs over here?
 //［ビアンカ］：炊事関連は苦手なのに‥‥。
-[BIANCA]: But I'm awful at cooking....
+[Bianca]: But I'm awful at cooking....
 //チャッチャッチャッチャッ‥‥。
 Chopchopchopchopchop...
 //［トレイシー］：まぁ、手さばきは、ランファよりも上手ですわ。
@@ -45,7 +45,7 @@ Chopchopchopchopchop...
 //［ファル］：トレイシーと私は、忙しいのよ、見ればわかるでしょ？
 [FAR]: Well, if you'd look, you'd see Tracy and I are busy.
 //［ビアンカ］：私は、炊事関連は苦手だぞ。
-[BIANCA]: Hey, I'm awful at cooking.
+[Bianca]: Hey, I'm awful at cooking.
 //［ランファ］：プリプリよぉ！　ぶー。
 [Lanhua]: *huff huff*! *sigh*
 //［トレイシー］：なんです、食事中に下品ですよ。
@@ -59,7 +59,7 @@ Chopchopchopchopchop...
 //［ランファ］：私、おなか空いてたのにぃ‥‥。
 [Lanhua]: Well, I was hungry....
 //［ビアンカ］：そんな目をしても、私のはやらぬぞ。
-[BIANCA]: Even if you look at me that way, I'm not going to stop.
+[Bianca]: Even if you look at me that way, I'm not going to stop.
 //［トレイシー］：さぁ、コウジ様、そろそろお席に‥‥。
 [Tracy]: Well, Kouji-sama, you should be seated soon...
 //［ファル］：じゃあ、私の‥‥。
@@ -67,13 +67,13 @@ Chopchopchopchopchop...
 //［ランファ］：ランファの隣が空いてるよっ！
 [Lanhua]: I have some space next to me!
 //［ビアンカ］：コウジは、私の隣がいいと言っているぞ。
-[BIANCA]: Kouji, I told you my side is free.
+[Bianca]: Kouji, I told you my side is free.
 //［ランファ］：ずるいですぅ、ランファの隣が‥‥。
 [Lanhua]: That's not fair, my side is...
 //［トレイシー］：はい、コウジ様。お座りになってくださいね。
 [Tracy]: Yes, Kouji-sama, please be seated here.
 //［ビアンカ］：あっ、トレイシー、いつの間に‥‥。
-[BIANCA]: Ah-, Tracy, when did you...?
+[Bianca]: Ah-, Tracy, when did you...?
 //［ファル］：じゃあ、反対側には私が座るわね。
 [FAR]: Then, I'm sitting across from him.
 //［ランファ］：ランファが座るのっ！
@@ -91,7 +91,7 @@ Chopchopchopchopchop...
 //ズズズズズ、ドン。
 Zrrrrrrrrrr, thomp.
 //［ビアンカ］：ふぅ‥‥。
-[BIANCA]: *sigh*....
+[Bianca]: *sigh*....
 //［ファル］：あっ、ビアンカさん、ずるいわ！
 [FAR]: Ah-, Bianca, that's unfair!
 //［ランファ］：椅子ごと移動させるなんて‥‥ずるいですぅ！
@@ -101,7 +101,7 @@ Zrrrrrrrrrr, thomp.
 //［ファル］：それは私の役目よ、トレイシー。
 [FAR]: That's my duty, Tracy.
 //［ビアンカ］：コウジは私の手から食べたいんだよなっ。
-[BIANCA]: Kouji wants to be fed by me, don't you?
+[Bianca]: Kouji wants to be fed by me, don't you?
 //［ファル］：私よねっ！
 [FAR]: No, he wants that from me!
 //［ランファ］：ランファですぅ‥‥。
@@ -111,7 +111,7 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：あの爆発で、例のエンコーダが吹き飛んでからというもの‥‥。
 [Kouji]: That explosion blew away the encoder...
 //［ビアンカ］：すまぬ、私のせいで‥‥。
-[BIANCA]: Sorry, that was my fault...
+[Bianca]: Sorry, that was my fault...
 //［宏治］：い、いやビアンカは悪くないって‥‥。
 [Kouji]: N-no, Bianca, it wasn't your fault...
 //［宏治］：もともと破壊するはずだったエンコーダだ、オレにとっては望ましい結果のはずだったけど‥‥。
@@ -129,7 +129,7 @@ Zrrrrrrrrrr, thomp.
 //［ランファ］：ランファが元気づけてあげるわっ！
 [Lanhua]: I'll cheer you up!
 //［ビアンカ］：ジロッ、コウジはな、私と‥‥。
-[BIANCA]: *glance* Kouji should be together with me....
+[Bianca]: *glance* Kouji should be together with me....
 //［宏治］：‥‥という訳らしい。ふぅ‥‥。<$05>
 [Kouji]: ...That's how it is. Hooo....<$05>
 //［ファル］：ほら、洗ってあげるわ。
@@ -701,35 +701,35 @@ ra05b
 //bi05
 bi05
 //［ビアンカ］：あぁぁぁぁぁぁぁぁ、コウジぃ、コウジぃっ！！
-[BIANCA]: Ahhhhhh, Kouji, KoujiI!!
+[Bianca]: Ahhhhhh, Kouji, KoujiI!!
 //［宏治］：は、激しすぎるよ、ビアンカ‥‥。
 [Kouji]: Y-you're being too intense, Bianca....
 //［ビアンカ］：もっと‥‥もっともっと深くぅ！
-[BIANCA]: Deeper...put it deeper in me!
+[Bianca]: Deeper...put it deeper in me!
 //ずりゅっ、ずちゃっ、ぐちゃっ！
 *slish*, *slush*, *slursh*!
 //［ビアンカ］：ああン、コウジぃ‥‥私のこと、許してくれる？
-[BIANCA]: Ahhhhm, Kouji...will you forgive me?
+[Bianca]: Ahhhhm, Kouji...will you forgive me?
 //［宏治］：さぁ、どうしよっかなぁ‥‥。
 [Kouji]: Now, what should I do...?
 //［ビアンカ］：そんなぁ‥‥あふぅ、コウジの言うことなら‥‥あっ、何でも‥‥んくっ、聞くわ。
-[BIANCA]: D-don't tease me...ahoo, whatever Kouji says...ah-, no matter what...ngh, I'll obey.
+[Bianca]: D-don't tease me...ahoo, whatever Kouji says...ah-, no matter what...ngh, I'll obey.
 //［宏治］：本当？
 [Kouji]: Really now?
 //［ビアンカ］：本当よっ、本当よっ！　しろといったら、何でもしてあげる。
-[BIANCA]: Yes, really! Whatever you say, I'll do it.
+[Bianca]: Yes, really! Whatever you say, I'll do it.
 //［宏治］：何でもするんだなっ！？
 [Kouji]: Whatever I say?!
 //［ビアンカ］：何でもするわっ！
-[BIANCA]: Yes, whatever you say!
+[Bianca]: Yes, whatever you say!
 //［宏治］：じゃあ、あんな所を舐めろっていったら、舐める？
 [Kouji]: Well, what if I told you to lick that place?
 //［ビアンカ］：うん、うん、舐めてあげるっ！
-[BIANCA]: Yes, yes, I'll lick it!
+[Bianca]: Yes, yes, I'll lick it!
 //［宏治］：（おぉ、何だか、今後が楽しみだなぁ‥‥。）
 [Kouji]: (Mm, something tells me this will be quite enjoyable...)
 //［ビアンカ］：ああん、コウジぃ、もっともっと、腰を突き上げてっ！
-[BIANCA]: Ahhhm, Koujii, please thrust your hips more!
+[Bianca]: Ahhhm, Koujii, please thrust your hips more!
 //［宏治］：よーしっ、それ！　それっ！！
 [Kouji]: All right then, take this! and THIS!!
 //くちゅっ、りゅっ、むちゅっ！
@@ -737,37 +737,37 @@ bi05
 //［宏治］：なぁ、ビアンカさぁ。
 [Kouji]: Hey, Bianca.
 //［ビアンカ］：なに‥‥あっ、んっ、あぁぁぁっ‥‥。
-[BIANCA]: What...Ah-, mm, ahhhhh....
+[Bianca]: What...Ah-, mm, ahhhhh....
 //［宏治］：海賊家業で、何をやってたの？
 [Kouji]: What did you do as a pirate?
 //［ビアンカ］：な、なによ急に‥‥んっ、んっ。
-[BIANCA]: That came out of the blue...mm, mm.
+[Bianca]: That came out of the blue...mm, mm.
 //［宏治］：いや、何となくきになったもんでさ。
 [Kouji]: I mean, you don't have to answer if you don't want to.
 //［ビアンカ］：実を言うと、コウジを追ってたのよ‥‥。
-[BIANCA]: Well, honestly, I was chasing Kouji....
+[Bianca]: Well, honestly, I was chasing Kouji....
 //［ビアンカ］：あのときは、コウジが憎くてしょうがなかったの‥‥非道な事は１つも行ってないわっ。
-[BIANCA]: At that time, even if Kouji didn't like it, I had no choice...there's not one bad thing I wouldn't do.
+[Bianca]: At that time, even if Kouji didn't like it, I had no choice...there's not one bad thing I wouldn't do.
 //［宏治］：どうやって、生計をたててたのさ。
 [Kouji]: So how did you make a living then?
 //［ビアンカ］：そ、それは‥‥行く先々で、ドカチンのバイトをしながら‥‥。
-[BIANCA]: Um, well...right before I went, I was doing manual labor...
+[Bianca]: Um, well...right before I went, I was doing manual labor...
 //［宏治］：クククッ‥‥苦労したんだなぁ。
 [Kouji]: Kekeke...it must have been hard on you.
 //［ビアンカ］：そうよっ、３日に１回は、インスタントのチャンポンを食べて‥‥。
-[BIANCA]: It sure was, I only got to eat instant noodles once every 3 days...
+[Bianca]: It sure was, I only got to eat instant noodles once every 3 days...
 //［宏治］：よし、これからはオレのモノを食わしてやるぞ。
 [Kouji]: All right, from now on, you'll be eating my cock.
 //［ビアンカ］：あぁぁ！　そうよ、嬉しいわっ！　もっともっと、食べさせてぇぇぇっ！！！
-[BIANCA]: Ahhh! Yes, I'm so happy! Please, let me eat it moreeee!
+[Bianca]: Ahhh! Yes, I'm so happy! Please, let me eat it moreeee!
 //［宏治］：吸い付くようだね、ビアンカの膣内ってさ。
 [Kouji]: Your pussy is really sucking me in.
 //［ビアンカ］：そうよっ！　ここだけは、毎日毎日、この日のために鍛えてきたんだからぁぁっ！！
-[BIANCA]: Yes, it is! I've been training every day to be able to do this!!
+[Bianca]: Yes, it is! I've been training every day to be able to do this!!
 //［宏治］：くっ、もういっちゃいそう‥‥。
 [Kouji]: Kh, I'm going to cum...
 //［ビアンカ］：あぁぁぁ、コウジぃ、私、幸せよぉっ！！<$05>
-[BIANCA]: Ahhh, Koujii, I'M SO HAPPY!!
+[Bianca]: Ahhh, Koujii, I'M SO HAPPY!!
 //　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ<$04><$30><$05>
 　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ<$04><$30><$05>
 //［ランファ］：たぶん、牽引ビームに、《クワドラ》が捉えられたんだと思います。

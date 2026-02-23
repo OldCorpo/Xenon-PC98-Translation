@@ -421,11 +421,11 @@ kai_bast
 //［コウジ］：（むっ‥‥‥ビアンカ！？）
 [Kouji]: (B-Bianca?!)
 //［ビアンカ］：裏切った代償は、それなりに払って貰うぞ、コウジ！
-[BIANCA]: This is what you get for betraying us, Kouji!
+[Bianca]: This is what you get for betraying us, Kouji!
 //［男の声］：裏切る？
 [Man's voice]: Betraying?
 //［ビアンカ］：くだらぬ話はここまでだ、エンコーダと触媒の女は、もらっていく！
-[BIANCA]: Your useless babbling ends here. I'm taking you to the encoder and that catalyst woman!
+[Bianca]: Your useless babbling ends here. I'm taking you to the encoder and that catalyst woman!
 //［男の声］：ファルを！？
 [Man's voice]: To Far?!
 //［コウジ］：（どうやら、こちらの世界の宏治とやらいうヤツか‥‥。）
@@ -433,13 +433,13 @@ kai_bast
 //［コウジ］：（みすみす、エンコーダを‥‥。）
 [Kouji]: (From right under my nose, the encoder...)
 //［ビアンカ］：ほう、さすがに表情が変わったな。そうでなくては、奪い甲斐が無いというものだ。
-[BIANCA]: Ho~, it does seem that your expression has changed. However, that doesn't change the fact that the stolen goods are gone.
+[Bianca]: Ho~, it does seem that your expression has changed. However, that doesn't change the fact that the stolen goods are gone.
 //［男の声］：エンコーダなんかに未練は無いが、ファルは置いていけ。
 [Man]: She had no attachments to that encoder, so Far left it there.
 //［コウジ］：（バカな事を言うな。あのエンコーダ無くして‥‥。）
 [Kouji]: (What bullshit. He got rid of the encoder...)
 //［ビアンカ］：フン、命令できる立場か！
-[BIANCA]: Hmph, like you're in any place to give orders!
+[Bianca]: Hmph, like you're in any place to give orders!
 //［コウジ］：マズい‥‥よけろ！　電撃がくるぞ！！
 [Kouji]: This is bad...Move aside! An electric shock is coming!!
 //［涼子］：ど、どうしたの宏治クン‥‥。

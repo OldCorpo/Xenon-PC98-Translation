@@ -57,31 +57,31 @@ s0402
 //［トレイシー］：だけど、そうした現状に、横槍が入るような展開が訪れたのよ‥‥。
 [Tracy]: But, a certain new development punctured that situation like a balloon...
 //［ビアンカ］：ねぇ、トレイシー。
-[BIANCA]: Hey, Tracy.
+[Bianca]: Hey, Tracy.
 //［トレイシー］：‥‥あっ、はい、なんでしょうか？
 [Tracy]: ....Ah-, yes, what is it?
 //［ビアンカ］：今日、やっと調査隊がエイレートから帰ってくるけど‥‥。
-[BIANCA]: Today, that investigative team should be returning from Earth, right?
+[Bianca]: Today, that investigative team should be returning from Earth, right?
 //［トレイシー］：そうですね‥‥今回は、少し長かったですね。
 [Tracy]: Indeed, they should...It has been a while longer this time, hasn't it?
 //［ビアンカ］：そうかい？　私も行きたかったなぁ。
-[BIANCA]: Really? Then I should have gone, too.
+[Bianca]: Really? Then I should have gone, too.
 //［トレイシー］：‥‥ビアンカさんはパイロットですから、本船の《クワドラ》を離れられないでしょう。
 [Tracy]: ...Bianca, since you're the pilot, I can't let you leave the {Quadra}.
 //［ビアンカ］：そう、それが頭にくるのよ。私だって、太古の遺跡とやらをこの目で見てみたいさ。
-[BIANCA]: Yeah, I know that. But if it were me, I'd want to see those ancient ruins up close with my own two eyes.
+[Bianca]: Yeah, I know that. But if it were me, I'd want to see those ancient ruins up close with my own two eyes.
 //［トレイシー］：‥‥適材適所ですわ。
 [Tracy]: ...Everyone has their proper place, don't they?
 //［ビアンカ］：ほんとに冷静だね、トレイシーって。
-[BIANCA]: You're pretty calm, aren't you, Tracy?
+[Bianca]: You're pretty calm, aren't you, Tracy?
 //［トレイシー］：そんなこと、ありませんよ。私にだって、心に燃え盛る情熱はありますわ。
 [Tracy]: I'm really not. My heart burns with emotion, too.
 //［ビアンカ］：へぇ、なに？
-[BIANCA]: Really? Like what?
+[Bianca]: Really? Like what?
 //［トレイシー］：内緒です。
 [Tracy]: Not telling.
 //［ビアンカ］：トレイシーの事だから、どうせ数式とか、理学に対する情熱だろう？
-[BIANCA]: Well, to you, Tracy, aren't things like mathematical formulas and the natural sciences your passion?
+[Bianca]: Well, to you, Tracy, aren't things like mathematical formulas and the natural sciences your passion?
 //［トレイシー］：（私の本性を知ったら、ビアンカ、どうするかしら？）
 [Tracy]: (If you knew my true nature, Bianca, what would you do?)
 //［トレイシー］：（本当の私の姿を‥‥‥‥。）
@@ -109,25 +109,25 @@ s0402
 //［トレイシー］：（私は、淫乱でメス犬なのよっ！）
 [Tracy]: (I'm a slutty sex slave in heat!)
 //［ビアンカ］：ど、どうしたのさ。私のことを見つめて‥‥。
-[BIANCA]: Wh-what's going on with you? Staring at me like that...
+[Bianca]: Wh-what's going on with you? Staring at me like that...
 //［トレイシー］：‥‥えっ？
 [Tracy]: ...Huh?
 //［ビアンカ］：ボーっとしちゃって、トレイシーらしくないじゃない。
-[BIANCA]: Staring off into space isn't like you, Tracy.
+[Bianca]: Staring off into space isn't like you, Tracy.
 //［トレイシー］：そ、そうかしら‥‥ごめんなさい、ちょっと考え事をしていて‥‥あっ！
 [Tracy]: I-is that so...sorry, I was just thinking of something...Ah-!
 //［ビアンカ］：ど、どうしたの？　顔が真っ赤だぜ。
-[BIANCA]: What's the matter? You're blushing pretty hard.
+[Bianca]: What's the matter? You're blushing pretty hard.
 //［トレイシー］：ううん、何でもないの‥‥あぁぁ‥‥。
 [Tracy]: D-don't worry about it...ahhhh....
 //［トレイシー］：（バイブのスイッチが、入ったんだわ‥‥遠隔リモコンの‥‥コウジ様が‥‥。）
 [Tracy]: (The vibrator's switch has been turned on...from the remote control...by Kouji-sama...)
 //［ビアンカ］：トレイシー、病室に案内しようか？
-[BIANCA]: Tracy, do you need to go to the sick ward?
+[Bianca]: Tracy, do you need to go to the sick ward?
 //［トレイシー］：大丈夫よ、心配しないで‥‥ちょっと外に出てくる。
 [Tracy]: I'm all right, don't worry about it...I'll be going outside for just a bit.
 //［ビアンカ］：えぇ、気を付けなさいよ、あなた、最近働きすぎなんだから‥‥。
-[BIANCA]: Mhm, take care of yourself, Tracy. You've been working too hard lately, after all...
+[Bianca]: Mhm, take care of yourself, Tracy. You've been working too hard lately, after all...
 //［トレイシー］：（んくぅぅ‥‥２つのバイブが膣内と腸内で暴れ回って‥‥。）
 [Tracy]: (Nkhhh...the vibrators in my pussy and my ass have both been working like crazy...)
 //［トレイシー］：（あぁぁ、こすれあってるの‥‥‥‥。）
