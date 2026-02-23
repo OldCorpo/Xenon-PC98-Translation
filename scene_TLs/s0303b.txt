@@ -9,17 +9,17 @@ Where am I headed this time....
 //頬を伝う涙の感触を感じながら、オレはコブシを抱えてうずくまった。痛かった‥‥無茶苦茶、痛い。
 As I felt tears roll down my cheek, I kneeled down and cupped my hand around it. It hurt...an awful lot.
 //［ランファ］：あっ、コウジ様ぁ！
-[RANPHAR]: Ah-, KOUJI-sama-!
+[Lanhua]: Ah-, Kouji-sama-!
 //［宏治］：やぁ‥‥。
 [Kouji]: H-hey...
 //［宏治］：爆発するとか、以前言っていたじゃないか。
 [Kouji]: You warned me before about her explosive temper, didn't you?
 //［宏治］：まぁ、いいか‥‥それよりもさ、ランファ。
-[Kouji]: Well, anyway...ignoring all that, Ranphar...
+[Kouji]: Well, anyway...ignoring all that, Lanhua...
 //［宏治］：聞きたいことがあるんだ。
 [Kouji]: I have something to ask you about.
 //［ランファ］：何でも任せて下さい！
-[RANPHAR]: Leave it all to me!
+[Lanhua]: Leave it all to me!
 //［宏治］：ふぅ‥‥聞きたいことってのはさ‥‥。
 [Kouji]: Hoo...What I wanted to ask was...
 //［宏治］：あー、小難しい説明は無しね。トレイシーに聞くからさ。
@@ -53,29 +53,29 @@ As I felt tears roll down my cheek, I kneeled down and cupped my hand around it.
 //［宏治］：ま、いいか。とにかくだ、人間には、ちょっと過ぎたシロモノだぜ。そうは思わないかい？
 [Kouji]: Well, OK. In any case, to us humans, it's a bit much for an appliance. Don't you think?
 //［ファル］：コウジ‥‥強い決意の色が見える‥‥。
-[FAR]: KOUJI...I see the color of a strong resolution from you....
+[Far]: Kouji...I see the color of a strong resolution from you....
 //［宏治］：不満かい？
 [Kouji]: Are you unsatisfied?
 //［ファル］：ううん、私、コウジに謝らなくちゃいけない‥‥。
-[FAR]: No, I can't apologize to you enough...
+[Far]: No, I can't apologize to you enough...
 //［ファル］：あなたの言うことは正しいわ。私は本当に近視眼になっていた‥‥。
-[FAR]: What you've said is right. I have really become quite myopic...
+[Far]: What you've said is right. I have really become quite myopic...
 //［宏治］：近視眼？
 [Kouji]: Myopic?
 //［ファル］：ええ。さっきは、あなたのせいにしてしまったけど、エンコーダが、ああなる可能性を考えなかった訳じゃないの‥‥。
-[FAR]: Indeed. Earlier, that was because of you, but I hadn't thought about the Encoder that way...
+[Far]: Indeed. Earlier, that was because of you, but I hadn't thought about the Encoder that way...
 //［宏治］：ファル‥‥。
 [Kouji]: Far...
 //［ファル］：ただ、あのエンコーダは、今までにない切り口で斬新だった‥‥それに目を奪われて、本質を見忘れてしまったのね。
-[FAR]: However, that Encoder is a portal to a heretofore unseen perspective...if it's taken from before our eyes, its essence will be lost. [RETRANSLATE]
+[Far]: However, that Encoder is a portal to a heretofore unseen perspective...if it's taken from before our eyes, its essence will be lost. [RETRANSLATE]
 //［ファル］：科学は、人類の発展とその豊富に寄与すべきであって、科学者個人の売名や、自己満足の為に行われてはならないのよ。
-[FAR]: Since the purpose of science is to make ample contributions to the advancement of mankind, scientists shouldn't do it out of attention-seeking and self-satisfaction.
+[Far]: Since the purpose of science is to make ample contributions to the advancement of mankind, scientists shouldn't do it out of attention-seeking and self-satisfaction.
 //［宏治］：そ、そうだね。（そこまでは考えなかったけど‥‥。）
 [Kouji]: Y-yeah, that's true. (I hadn't thought that deeply about it...)
 //［ファル］：コウジ、私は自分が恥ずかしい。あなたに諭されるまで、自分の愚に気付かなかった‥‥。
-[FAR]: KOUJI, I'm ashamed of myself. Before your admonition, I hadn't realized my own foolishness...
+[Far]: Kouji, I'm ashamed of myself. Before your admonition, I hadn't realized my own foolishness...
 //［ファル］：どのような非難をされても、私は享受しなくてはならないんだわ‥‥。
-[FAR]: No matter what hardships are placed before me, I can't help but accept it all...
+[Far]: No matter what hardships are placed before me, I can't help but accept it all...
 //［宏治］：そんなに思い詰める必要は、無いんじゃないかな。
 [Kouji]: Do you really need to be that hard on yourself? Come on.
 //［宏治］：過ちを認めて恥じ、なおかつそれを正そうなんてことは、今時誰もしないぜ。
@@ -83,21 +83,21 @@ As I felt tears roll down my cheek, I kneeled down and cupped my hand around it.
 //［宏治］：気付いても、無頓着なやつだっているだろうし、そういう意味じゃファルは何倍も素敵だ。
 [Kouji]: Compared to a careless fool who hasn't even realized that, Far, you're far more wonderful.
 //［ファル］：ウソ‥‥コウジ、本気？　誠実の色が見える‥‥信じられない‥‥。
-[FAR]: It can't be...KOUJI, are you serious? You're giving off a straightforward color...I can't believe it...
+[Far]: It can't be...Kouji, are you serious? You're giving off a straightforward color...I can't believe it...
 //［宏治］：あのなぁ、オレが誠実だと、何か困るの？
 [Kouji]: See, is there anything wrong with me being honest?
 //［ファル］：ううん、でもさっきコウジが言ったこと、信じられるような気がする‥‥。
-[FAR]: No, but just now, the things that KOUJI said convinced me...
+[Far]: No, but just now, the things that Kouji said convinced me...
 //［ファル］：あぁ、どうしよう‥‥コウジが凄く素敵に見えてきたわ‥‥。
-[FAR]: Ahh, what do I do...KOUJI seems so splendid...
+[Far]: Ahh, what do I do...Kouji seems so splendid...
 //fa09b
 fa09b
 //［ファル］：あぁ、コウジ‥‥‥‥。
-[FAR]: Ahh, KOUJI....
+[Far]: Ahh, Kouji....
 //ファルが目をつぶった時、オレはイケると確信した。固く目を閉じ、肩を震わせるファルを、そっと抱き寄せる。
 Far closed her eyes and confirmed my . With eyes closed, I drew Far, still shuddering, close to me.
 //［ファル］：お願い‥‥優しくして‥‥。
-[FAR]: Please...be gentle...
+[Far]: Please...be gentle...
 //［宏治］：もももも、もちろんさっ‥‥。
 [Kouji]: O-o-o-of course...
 //マズい、どもってしまった。
@@ -109,35 +109,35 @@ I gently laid my hands on her back and slowly moved them downwards. I felt her b
 //オレは、ボリュームのあるヒップを持ち上げるように揉みしだく。
 I cupped my hands on her voluminous hips and massaged them gently.
 //［ファル］：あぁぁ、コウジ‥‥コウジ‥‥。
-[FAR]: Ahhhh, KOUJI...KOUJI....
+[Far]: Ahhhh, Kouji...Kouji....
 //うっと嗚咽を洩らすファルの柔らかい唇に、オレは自分自身のそれを重ね合わせた。
 As Far let out a cry through her soft lips, I pressed my lips firmly to hers.
 //［ファル］：んっ‥‥んん‥‥‥‥。
-[FAR]: Mm-mmm....
+[Far]: Mm-mmm....
 //舌を軽く差し込んでみる。抵抗が無いとわかるや、オレは根本近くまで、舌を彼女の口腔へと差し込んでいた。
 I gently flicked my tongue into her mouth. As I felt no resistance, I slid further in.
 //それに同調して、ファルも遠慮がちに自分のを絡ませてくる。オレは遠慮無く、その柔らかい舌に自分のを絡ませた。
 Following suit, Far shyly intertwined her tongue with mine. I unabashedly wrapped her soft tongue in mine.
 //［ファル］：んあぁぁ、コウジ‥‥無茶苦茶にしてっ！
-[FAR]: Mmaahhhh, KOUJI...you're so rough-!
+[Far]: Mmaahhhh, Kouji...you're so rough-!
 //オレはファルの舌をからめ取り、吸い取り、ねぶり、唾液を彼女の口腔へ流し込みながら、右手を彼女のふくよかな胸に、左手を尻の割れ目に差し込んだ。
 As I entwined, sucked, and licked Far's tongue, and as saliva dripped from her mouth, I groped her plump breasts with my right hand and slipped my left hand into her slit from behind.
 //［ファル］：ひっ‥‥そ、そこは‥‥ダメよ、ダメ‥‥。
-[FAR]: Hh--N-not there...
+[Far]: Hh--N-not there...
 //ファルは、尻を振りながらイヤイヤをしたが、そのたびにオレの指は、彼女の割れ目の奥深くへと侵入していった。
 Though Far shook her butt in defiance, right then, I inserted my finger deep into her crack.
 //震えているのがわかる。尻の割れ目に這わせる指が、柔らかい蕾の上を通る度に、ファルは電気が流れたように身体を硬直させた。
 I felt her quivering. As my finger in her slit ran gently over her bud, I made Far's body jolt upright, as if electrified.
 //［ファル］：あぁぁ、お願い‥‥優しくしてね‥‥。
-[FAR]: Ahhhh, please...be gentle....
+[Far]: Ahhhh, please...be gentle....
 //［宏治］：こんなもん？
 [Kouji]: Like this?
 //と言いながら、オレはファルの緊張をほぐすように、彼女の柔らかい胸を揉み、布の上から乳首をこすり、舌を口腔でうごめかす。
 As I said that, to ease Far's tension, I rubbed her soft breasts, circling her nipples through her clothing, and wriggled my tongue in her mouth.
 //［ファル］：んんっ‥‥んっ、んっ‥‥。
-[FAR]: Mmm-, mm-, mm-....
+[Far]: Mmm-, mm-, mm-....
 //［ファル］：あぅっ‥‥こ、コウジ‥‥あっ、あっ‥‥。
-[FAR]: Auhh-...K-KOUJI....Ah-, ah-....
+[Far]: Auhh-...K-Kouji....Ah-, ah-....
 //オレが口を離すと、そのまま彼女の舌が追ってきた。絡めた舌が離れるとき、唾液が糸を引きながら滴り落ちる。
 As I let go of her mouth, her tongue followed suit. When our entwined tongues unraveled, a thread of saliva formed and dripped down.
 //ファルは舌を突き出したまま、恍惚とした表情をしていた。口の端からよだれが流れ出ているのを、拭おうともしない。
@@ -147,17 +147,17 @@ I slowly took off her clothes. As my hands returned to her torso, I slowly began
 //ヤケに際どい服装だった。セパレートタイプで、胸の３分の２は露出していた。おまけに下半身は、ハーレムパンツとおぼしいＶカットの布地が付いているだけ‥‥。
 Her clothing was quite suggestive. The separating blouse showed off her chest in 2 of 3 places. On top of that, her harem pants seemed to have a V cut into the fabric...
 //［ファル］：あまり見ないで‥‥恥ずかしいわ。
-[FAR]: Please don't stare...it's embarrassing.
+[Far]: Please don't stare...it's embarrassing.
 //［宏治］：１つ聞いてもいいかな‥‥。
 [Kouji]: Can I ask you something?...
 //［宏治］：学生とかに講義するときも、この格好なの？
 [Kouji]: Do you wear this when giving a lecture, too?
 //［ファル］：ち、違うわ‥‥これは部屋着よ。コウジが急にやってきたから‥‥。
-[FAR]: N-no...this is private wear. Since you came so suddenly...
+[Far]: N-no...this is private wear. Since you came so suddenly...
 //［宏治］：ふーん、オレはまた、その格好で性教育でも‥‥。
 [Kouji]: Hmmm, to me, it's quite suitable for a sexual lesson...
 //［ファル］：ば、バカ言ってると‥‥<$0C>んっ。
-[FAR]: H-how ridiculous... Mm-
+[Far]: H-how ridiculous... Mm-
 //オレはファルの言葉を唇でふさいだ。この可愛い口は、小言を言うよりはキスをした方が断然良かった。今度は、彼女の方からも舌を差し込んでくる。
 I pressed my lips to Far's. That cute mouth of hers is much more suited to kissing than to small talk. This time, it was she who slipped her tongue into my mouth.
 //柔らかいファルの身体を抱き上げると、オレは身体をやや斜めに傾けた。そこにはちょうど良い具合に、ベッドが待っている。
@@ -171,11 +171,11 @@ What an interesting functional piece of clothing. With a *pop pop* of a few esse
 //オレはファルを、生まれたままの姿にすると、その姿に見入った。
 I gazed at Far in her birthday suit.
 //［ファル］：恥ずかしいじゃない‥‥嫌いになっちゃうわヨ。
-[FAR]: This is embarrassing...I'll get mad.
+[Far]: This is embarrassing...I'll get mad.
 //［宏治］：ファル、オレもう我慢できないぜ。
 [Kouji]: Far, I can't hold back any longer.
 //［ファル］：あら、意外に経験浅そうね。フフ、いいわ、お姉さんがリードしてあげる。
-[FAR]: My, you seem to lack experience. Hehe, that's ok, I'll take the lead.
+[Far]: My, you seem to lack experience. Hehe, that's ok, I'll take the lead.
 //［宏治］：言ったなっ！
 [Kouji]: That's it, you've said enough!
 //オレはファルをうつ伏せにすると、尻を抱えた。あンという悩ましい声を聞きながら、アソコに自分のモノをこすりつけ、具合を確かめてみる。準備は万端だ。
@@ -185,11 +185,11 @@ fa05
 //ずぷぷぷぷぷぷぷっ‥‥‥‥。
 Fufufufufufu...
 //［ファル］：あっ、あぁぁぁぁぁぁっっ！！
-[FAR]: Ah-, ahhhhhhhh-!!
+[Far]: Ah-, ahhhhhhhh-!!
 //オレのモノは、ファルのアソコにするりと滑り込んだ。中は火傷をしそうなほど熱い。
 I slid my canoe easily into her love canal. Inside her, it was burning hot.
 //［ファル］：深いわ‥‥凄く、太くて‥‥あっ、あっ‥‥。
-[FAR]: You're so deep...so thick...Ah-, ah-...
+[Far]: You're so deep...so thick...Ah-, ah-...
 //オレは彼女の肉のうごめきに、背筋を指先で撫でられたようにゾクゾクしてしまった。
 As her body shivered, I excitedly ran my fingertips down her spine.
 //ファルの微妙な肉圧は、動いていないときでも常に変化し、微妙な圧力をオレのモノにかけ続けている。
@@ -197,31 +197,31 @@ Even though we weren't moving, Far's delicate pussy pulsated constantly, squeezi
 //オレは心地よい圧力を感じながら、ゆっくりと引き抜いていった。カリの部分が見えだしたところで止めた。
 As I savored the pleasant pressure, I gently pulled out. When I saw the tip of my penis, I stopped.
 //［ファル］：あはぁ、中に‥‥そのまま中に‥‥。
-[FAR]: Ahah, put it in...just like that...
+[Far]: Ahah, put it in...just like that...
 //ずりゅぅぅっ。
 *rwwhhhh*
 //［ファル］：んぐぅぅ！　いいわ、そうよっ‥‥もっともっと、動かしてっ！
-[FAR]: Nguohh! Yes, like that...stir me up, more, more-!
+[Far]: Nguohh! Yes, like that...stir me up, more, more-!
 //ずるりと先っぽまで引き抜き、そのまま根本まで突き入れる。オレはこの単純な反復運動に、いい知れない快感を覚えていた。
 From where I'd pulled out, I rammed it in all the way to the base. With just this simple repetitive movement, I felt an incredible ecstasy.
 //それくらい、ファルの中は気持ちよかった。
 That was how good it felt inside Far.
 //［ファル］：あはぁぁ、もっと‥‥もっと奥まで‥‥あぁぁぁっ！！
-[FAR]: Ahaaaa, deeper...deeper...Ahhhhh-!!
+[Far]: Ahaaaa, deeper...deeper...Ahhhhh-!!
 //［宏治］：ヌルヌルして、キツくて気持ちいいぜ、ファルの。
 [Kouji]: You feel so good when you're so wet and tight, Far.
 //［ファル］：そうよ、私のはヌルヌルして、気持ちいいのっ！　もっともっと、突き入れてっ！！
-[FAR]: Yes, it feels so good, being so wet! Please, fuck me harder!!
+[Far]: Yes, it feels so good, being so wet! Please, fuck me harder!!
 //出し入れするたびに、中の赤い肉壁が、白濁した粘液と一緒に、オレのモノに絡み付き淫靡な姿を見せていた。
 As I thrust in and out of her reddened walls of flesh, a cloudy white liquid clung to my rod.
 //［宏治］：もっと締めてみろよっ！
 [Kouji]: Please, pull me tighter-!
 //［ファル］：あぁぁ、こ、これ以上は‥‥。
-[FAR]: Ahhh, any more than this...
+[Far]: Ahhh, any more than this...
 //［宏治］：自分でアソコをいじってみな。
 [Kouji]: I want you to play with yourself there.
 //［ファル］：んふぅぅ‥‥こう？　こう？
-[FAR]: Nhoo...you mean, like this?
+[Far]: Nhoo...you mean, like this?
 //ファルは右手の指の腹で、赤くパンパンに膨れ上がった豆粒ほどの神経を、盛んにこすっていた。そのたびに、肉ヒダはオレのものを中でしごきあげる。
 With the middle of the fingers on her right hand, Far vigorously massaged her swollen red clit. Each time she did, her folds tensed around my dick.
 //ファルの尻は、オレの思うように変形し、肉棒をしごきあげ、盛んに振ってオレを誘っていた。
@@ -231,69 +231,69 @@ As I stared at her white, voluptuous ass, it made me incredibly aroused.
 //ピシィッ！
 Pop!
 //［ファル］：痛っ！
-[FAR]: Oww-!
+[Far]: Oww-!
 //［宏治］：プロフェッサのくせに、なんだよ、このイヤらしい尻は！？
 [Kouji]: Why do you, a professor, have such a lewd ass?!
 //［ファル］：あぁ、そんな強く叩かないで‥‥後が付いちゃう！
-[FAR]: Ahhh, don't spank it so hard...you'll leave a bruise!
+[Far]: Ahhh, don't spank it so hard...you'll leave a bruise!
 //［宏治］：この尻で、何人の学生をたぶらかした？
 [Kouji]: Just how many students has this ass seduced?
 //［ファル］：そんな‥‥たぶらかすなんて事‥‥。
-[FAR]: W-what do you mean, seduced...
+[Far]: W-what do you mean, seduced...
 //ずりゅっっ！！
 *slip*
 //［ファル］：あぅっ！　ふ、深すぎるぅぅっ！！
-[FAR]: Auu-! S-so deep!!
+[Far]: Auu-! S-so deep!!
 //［宏治］：正直に言わないと、今度は尻の穴に入れるぜ。
 [Kouji]: If you don't give me a straight answer, it's going in your asshole.
 //［ファル］：い、言うわ。さ、３人くらい‥‥。
-[FAR]: F-fine. A-about three people...
+[Far]: F-fine. A-about three people...
 //［宏治］：こいつ、３人も‥‥。
 [Kouji]: Three other people...
 //オレはファルの顔を無理矢理後ろにねじ曲げると、乱暴に唇を吸った。夢中で舌を差し込んでくるファルを横目に、オレは大きな乳首をつまみ上げる。
 I bent Far's face back and forced her lips to mine. As I glanced sideways at Far, lost in the sensation of our intertwined tongues, I pinched her big nipples.
 //［ファル］：んっ‥‥んんんんんっっ！
-[FAR]: Mm-MMMmmmm-!
+[Far]: Mm-MMMmmmm-!
 //［宏治］：このオッパイで、何人の男のをはさんでやった！？
 [Kouji]: How many men have you held between these breasts?!
 //硬くしこった乳首を指先でしごきながら、オレはファルに訊ねた。
 I listened for her reply as I teased her hard nipples with my fingertips.
 //［ファル］：は、はさむなんて、そんなイヤらしいこと、私はしないわ！
-[FAR]: I-I would never do something as dirty as that!
+[Far]: I-I would never do something as dirty as that!
 //ビシィィッ！！
 Slap!!
 //［ファル］：きゃぅっ！　お、お願い、もうお尻を叩かないで‥‥。
-[FAR]: Kya-! P-please, don't spank my ass anymore...
+[Far]: Kya-! P-please, don't spank my ass anymore...
 //涙を目にためて懇願するファルを見ていると、ムラムラとサディスティックな欲望が突き上げてくる。
 As I saw tears welling up in her pleading eyes, a sadistic, aroused urge broke through.
 //［宏治］：じゃあ、本当のことを言うんだ！　何人はさんでやった？
 [Kouji]: Then, answer me truly! How many people have you squeezed?
 //［ファル］：あぁぁ、私とした人は、みんなはさんであげたわっ！
-[FAR]: Ahhh, I must have squeezed everyone!
+[Far]: Ahhh, I must have squeezed everyone!
 //［宏治］：オレとどっちが良い？
 [Kouji]: Who's better, me or them?
 //［ファル］：フン、コウジなんか、下の下‥‥。
-[FAR]: Hm, KOUJI seems to be the worst of the worst...
+[Far]: Hm, Kouji seems to be the worst of the worst...
 //ビシィィッ！
 Squeeezeee!
 //［ファル］：あぅぅっ！　ウソよウソ‥‥あぁぁ、コウジが１番よっ！
-[FAR]: Owwwwww-! I was just joking...Ahh, KOUJI is the best-!
+[Far]: Owwwwww-! I was just joking...Ahh, Kouji is the best-!
 //［宏治］：イクときはどうした？　正直に言ってみろ。
 [Kouji]: What did you do when they came? Answer me honestly.
 //［ファル］：そ、そんな‥‥。
-[FAR]: I-I can't...
+[Far]: I-I can't...
 //ずりゅっ、ずりゅっ、ずりゅぅぅぅぅっ！！
 Slip, slip, slip!!
 //［ファル］：んあぅぅぅっ！！　い、イクときはみんな、私の顔にかけるか、口の中に出すわっ！
-[FAR]: NGOwwww-! W-when they came, everyone came on my face or in my mouth-!
+[Far]: NGOwwww-! W-when they came, everyone came on my face or in my mouth-!
 //［宏治］：どっちがいい？
 [Kouji]: Which do you prefer?
 //［ファル］：あはぁぁぁ、コウジぃぃ‥‥。
-[FAR]: Ahaaaa, KOUJIii....
+[Far]: Ahaaaa, Koujiii....
 //［宏治］：顔と口、どっちちがいいか、言ってみな！
 [Kouji]: Your mouth or your face, which do you want? Tell me!
 //［ファル］：顔よっ！　顔にかけてもらうのが、一番いいのっ！！
-[FAR]: My face! I love it most when people come all over my face!!
+[Far]: My face! I love it most when people come all over my face!!
 //［宏治］：このぉぉ！
 [Kouji]: You dirty slut!
 //オレは目の前でヒクヒクと痙攣しているアヌスに、小指をあてがい押し入れた。しっとりと濡れていたそこに、オレの指はたやすく根本まで呑み込まれる。
@@ -301,13 +301,13 @@ I took my little finger and poked inside her quivering anus. In her slick, wet h
 //こいつ、後ろも経験あるな‥‥。
 She seems to have had a little practice down here, too...
 //［ファル］：あっいやぁぁ、お尻はダメぇぇぇっ！！
-[FAR]: Ah-Nooooo, not my asshoooole-!
+[Far]: Ah-Nooooo, not my asshoooole-!
 //［宏治］：ウソつけ！　２本だっていけるだろ！？
 [Kouji]: You're lying! I can slide two fingers in there, can't I?!
 //ずりゅぅぅっっ！！
 Sliiiip!
 //［ファル］：あぐぁぁ‥‥き、キツ過ぎるわ‥‥本当に‥‥あぁぁぁっ！！！
-[FAR]: Aghaaa...you're too rough...really...AHHHH-!!!
+[Far]: Aghaaa...you're too rough...really...AHHHH-!!!
 //小指と薬指をアヌスに埋没させたまま、オレは腰の前後運動を次第に速めていった。
 As I buried my ring and little fingers into her asshole, I gradually thrust more quickly into her.
 //指を中で蠢かすたびに、ファルの肉壁はオレのモノを中でしごき、締め上げる。もうそろそろ限界だ‥‥。
@@ -315,11 +315,11 @@ Each time I wriggled my fingers inside, Far clenched tightly around my dick. I s
 //［宏治］：顔だったな‥‥。
 [Kouji]: Your face, was it...?
 //［ファル］：あぁぁ、そうよっ。射精しそうなの？　あぁぁ、早く欲しい‥‥早く！
-[FAR]: Ahhh, that's right. Are you going to cum? Ahhh, do it quickly...cum!
+[Far]: Ahhh, that's right. Are you going to cum? Ahhh, do it quickly...cum!
 //［宏治］：いま、たっぷりとかけてやるよ、くっ‥‥。
 [Kouji]: I'm going to bust a huge load, gh...
 //［ファル］：あぁぁぁ、かけて‥‥私の顔に！　いまぁっっ！！
-[FAR]: Ahhhhh, cum...right on my face! Nowww!!
+[Far]: Ahhhhh, cum...right on my face! Nowww!!
 //fa08
 fa08
 //［宏治］：も、もう出る！！
@@ -329,17 +329,17 @@ As I pulled out from her wondrous pussy, I straddled over Far's face, and thrust
 //舌をだらしなく垂れさせ、恍惚とした表情をしているファルの顔が美しく歪む。眉間にシワをよせ、それでもオレのものを夢中で吸い出した。
 With her tongue hanging lazily out, Far's rapturous expression was distorted beautifully. With furrowed brow, she blew my whistle wondrously.
 //［ファル］：出して‥‥あぁぁ、出して！　コウジのミルクを沢山、私の顔に‥‥‥‥<$0C>うっ！！
-[FAR]: Cum...Ahh, cum for me! I want a lot of KOUJI's man milk all over my face... Oh-!!
+[Far]: Cum...Ahh, cum for me! I want a lot of Kouji's man milk all over my face... Oh-!!
 //［ファル］：んあぁ‥‥すごっ‥‥あはぁぁぁ‥‥。
-[FAR]: Ngahh...So much...Ahaaa....
+[Far]: Ngahh...So much...Ahaaa....
 //オレはファルの顔にたっぷりとこびり付いた精液を、自分のモノで顔中に塗りたくる。
 I sprayed Far's face all over with tons of my cum.
 //［ファル］：あぁぁぁ、精液が沢山‥‥私の顔に‥‥んんっ。
-[FAR]: Ahhhh, so much cum...all over my face...Nngh.
+[Far]: Ahhhh, so much cum...all over my face...Nngh.
 //オレは再びファルの頭を抑え、オレのモノを彼女の口腔に押し込む。まだ十分な硬度を保っているそれは、ファルの喉奥にまで到達した。
 Once more, I held Far's head as I thrust my rod into her mouth. I was still quite hard as I reached the back of her throat.
 //［ファル］：んぐ‥‥ゲホッ、んんんっ‥‥んっ、んっ。
-[FAR]: Ngh....*glug*, mmm-...mm, mm.
+[Far]: Ngh....*glug*, mmm-...mm, mm.
 //ゆっくりと腰を前後に動かし始めた。ファルはたっぷりと舌を使い、口腔でオレのまだ硬いモノを、浄めている。
 I slowly starting shaking my hips back and forth. Far used her tongue thoroughly to polish my still-rigid rod in her mouth.
 //オレは彼女の舌を感じながら、心地よい虚脱感に浸っていった‥‥。
@@ -347,115 +347,115 @@ As I felt her tongue around me, a pleasant numbness swept over me...
 //［宏治］：ファルネリア、君はいったいどういう人間なんだい？
 [Kouji]: Farnelia, just what kind of a human are you?!
 //［ファル］どういう意味よ、それって。
-[FAR]: What do you mean by that?
+[Far]: What do you mean by that?
 //［宏治］：‥‥言葉通りの意味なんだけど。
 [Kouji]: ...I meant what I asked.
 //［ファル］：あなた、私がどういう人間か知らないでさらってきたわけ？
-[FAR]: Are you asking because you don't know what kind of human I am?
+[Far]: Are you asking because you don't know what kind of human I am?
 //［宏治］：すまない、どういう訳かオレは、君をさらってきた事なんて全く知らないし、記憶にもない。
 [Kouji]: Sorry, for some reason, I don't know a thing about you, or remember anything about you.
 //［ファル］：しらばくれる気？
-[FAR]: Playing dumb, are you?
+[Far]: Playing dumb, are you?
 //［宏治］：違う。本当に知らない。
 [Kouji]: No, I really don't know anything.
 //［宏治］：説明は難しいんだが、オレは宏治であってコウジではないんだよ。
-[Kouji]: It's hard to explain, but I'm Kouji, not KOUJI.
+[Kouji]: It's hard to explain, but I'm Kouji, not Kouji.
 //［ファル］：さっきも、そんなことを言っていたわよね。よく理解できなかったけど。
-[FAR]: Earlier, you said exactly that, though I couldn't understand it then, either.
+[Far]: Earlier, you said exactly that, though I couldn't understand it then, either.
 //［宏治］：じゃあ、こうしよう。宇宙海賊コウジとやらは、トイレで転んで頭を打って、記憶が喪失状態である。
-[Kouji]: Well, let's try this: The galactic pirate or whatever KOUJI slipped and hit his head while in the toilet, and lost his memory in the process.
+[Kouji]: Well, let's try this: The galactic pirate or whatever Kouji slipped and hit his head while in the toilet, and lost his memory in the process.
 //［ファル］：本気なの？
-[FAR]: Really?
+[Far]: Really?
 //［宏治］：厳密に言うと正確じゃない。でも、今の状況に一番近い設定だと思う。
 [Kouji]: It's not exactly correct. However, right now, that's the best way I can set up the situation.
 //［宏治］：信じられないかも知れないが、オレは宇宙海賊のコウジとやらじゃないんだ。本当だ。
-[Kouji]: You may not believe it, but I'm not the galactic pirate or whatever KOUJI. I'm serious.
+[Kouji]: You may not believe it, but I'm not the galactic pirate or whatever Kouji. I'm serious.
 //［ファル］：深刻の色を発しているわ‥‥本当なの？
-[FAR]: You're giving off a serious aura now...is it true?
+[Far]: You're giving off a serious aura now...is it true?
 //［宏治］：オレにだって信じられないんだから、他人の君に信じろと言う方が無理ってもんだよな。
 [Kouji]: If I can't convince you, I can't convince anyone else.
 //［ファル］：ううん、少なくともあなたは嘘は言っていないようよ。そういう色が出ているもの。
-[FAR]: Hmmm, it doesn't seem like you're lying at all. That's the color you're exuding.
+[Far]: Hmmm, it doesn't seem like you're lying at all. That's the color you're exuding.
 //［宏治］：色？
 [Kouji]: Color?
 //［ファル］：ええ、これが何かの茶番だとしたら、あなた自身はそう確信していて、なおかつ事実は違うという場合だけね。
-[FAR]: Yes, if this were some kind of farce, your own body would confirm it, and besides, the situation would be quite different.
+[Far]: Yes, if this were some kind of farce, your own body would confirm it, and besides, the situation would be quite different.
 //［宏治］：それって、オレの気が狂ってるってこと？
 [Kouji]: Then, have I gone mad?
 //［ファル］：可能性の話。
-[FAR]: It's possible.
+[Far]: It's possible.
 //［宏治］：‥‥それよりさ、さっきから何色とかってよく聞くけど、どいういうこと？
 [Kouji]: ...Besides that, earlier, you said something about what color I was. What did you mean by that?
 //［ファル］：‥‥いいわ、完全に信用した訳じゃないけど、質問には答えて上げる。
-[FAR]: ...OK, I won't tell you the entire explanation, but I can answer that question.
+[Far]: ...OK, I won't tell you the entire explanation, but I can answer that question.
 //［宏治］：そりゃ、助かるね。ありがとう、ファルネリア。
 [Kouji]: Then, please, help. Thank you, Farnelia.
 //［ファル］：それから、今後私のことはファルでいいわ。
-[FAR]: Please address me as Far from now on.
+[Far]: Please address me as Far from now on.
 //［宏治］：ファルね、オーケー、ファル。
 [Kouji]: Far? OK, Far.
 //［ファル］：私は、触媒としてあなたに連れてこられたのよ。
-[FAR]: You brought me here to serve as your medium.
+[Far]: You brought me here to serve as your medium.
 //［宏治］：触媒？
 [Kouji]: Medium?
 //［ファル］：エンコーダを動作させるには、一定レベル以上のテレパスが必要なの。
-[FAR]: A certain level of telepath is required to operate the encoder.
+[Far]: A certain level of telepath is required to operate the encoder.
 //［宏治］：テレパス‥‥。
 [Kouji]: A telepath...
 //［ファル］：私がその役割を担っていたのだけど‥‥。
-[FAR]: I was brought here to fulfill that role...
+[Far]: I was brought here to fulfill that role...
 //［宏治］：テレパスって、テレパシーが使える人？
 [Kouji]: A telepath, as in, someone who can use telepathy?
 //［ファル］：そう。私は、人の感情を色によって判別する能力があるの。それも結構強い、ね。
-[FAR]: That's right. I am someone who can determine the color of someone's feelings. That's quite a strong ability, isn't it?
+[Far]: That's right. I am someone who can determine the color of someone's feelings. That's quite a strong ability, isn't it?
 //［宏治］：色でねぇ‥‥。
 [Kouji]: The color, huh...
 //［ファル］：怒りは濃い赤、戸惑いはブラウン、悲しみはブルーという具合にね、感情によって発する色が違うのよ。
-[FAR]: For example, anger is a deep red, bewilderment is brown, and sadness is blue. Each emotion gives off a different color.
+[Far]: For example, anger is a deep red, bewilderment is brown, and sadness is blue. Each emotion gives off a different color.
 //［宏治］：ふーん、じゃあ、怒りながらも戸惑っていて、悲しみを表す人がいたら、何色に見えるの？
 [Kouji]: Hmmm, then, if someone was angry, bewildered, and sad all at once, what color would you see?
 //［ファル］：なっ‥‥そんな人いるわけないでしょっ！
-[FAR]: What...that kind of person doesn't exist!
+[Far]: What...that kind of person doesn't exist!
 //［宏治］：いるかもしれないぞ。オレなんてよく、泣きながら笑ったもんだ。
 [Kouji]: There might be one. For example, I have cried when I laughed.
 //［ファル］：何を訳のわからない事を言ってるのよ。
-[FAR]: What are you getting at?
+[Far]: What are you getting at?
 //［宏治］：じゃあ、あと１つだけ教えてくれよ。
 [Kouji]: Well, I have one more question for you.
 //［ファル］：‥‥つまらないことは、聞かないで頂戴。
-[FAR]: ...Please don't bore me with pointless questions.
+[Far]: ...Please don't bore me with pointless questions.
 //［宏治］：あぁ、もちろんさ。
 [Kouji]: Ah, of course I won't.
 //［宏治］：エンコーダというのは？
 [Kouji]: What's an encoder?
 //［ファル］：サイキックプログラム・エンコーダが、正式名称よ。
-[FAR]: Its full name is the Psychic Program Encoder.
+[Far]: Its full name is the Psychic Program Encoder.
 //［宏治］：もしかして、君が入っていたあの棺桶みたいなやつ？
 [Kouji]: Could it be that tube that you were inside?
 //［ファル］：棺桶とは言ってくれるわね。あれは私が開発した、画期的なサイコエンコーダなのよ。
-[FAR]: The "tube", you call it. That's the revolutionary Psycho-Encoder that I developed.
+[Far]: The "tube", you call it. That's the revolutionary Psycho-Encoder that I developed.
 //［宏治］：き、君が開発しただって！？　バカ言えよ！
 [Kouji]: Y-you developed it?! Unbelievable!
 //［ファル］：失礼ね。私はこう見えても、王立科学技術局に従事しているプロフェッサよ。
-[FAR]: How rude. You're looking at a professor under the Royal Science and Technology Bureau.
+[Far]: How rude. You're looking at a professor under the Royal Science and Technology Bureau.
 //［ファル］：あら、信じられないって顔をしているわね。
-[FAR]: My, you seem not to believe me.
+[Far]: My, you seem not to believe me.
 //［宏治］：だってさ、プロフェッサって言ったら、かなり偉い人だろ？
 [Kouji]: But, you know, a professor is a pretty big shot, right?
 //［ファル］：何か変な言い方だけど、そう言えるわね。
-[FAR]: You put it rather oddly, but yes, that's right.
+[Far]: You put it rather oddly, but yes, that's right.
 //［宏治］：だったらマル眼鏡をかけて、背がちっこくて、ヨボヨボで髭を生やしたオッサンって、相場が決まってる。
 [Kouji]: But they're known to be glasses-wearing, hunchbacked, long-whiskered old men.
 //［ファル］：何よ、その思いきり偏見に満ち満ちたプロフェッサ像は。
-[FAR]: What's with that incredibly prejudiced view of professors?
+[Far]: What's with that incredibly prejudiced view of professors?
 //［宏治］：失礼だけど、歳はいくつ？
 [Kouji]: My apologies, but how old are you?
 //［ファル］：本当に失礼ね、あなたって。
-[FAR]: Not telling. You really are rude.
+[Far]: Not telling. You really are rude.
 //［宏治］：裏をかいて、８０歳ってのは無しにしようぜ。
 [Kouji]: I've got it, you HAVE to be 80 years old.
 //［ファル］：失礼ねっ！　このピチピチしたお肌の、どこが８０なわけ！？
-[FAR]: Excuse me! With skin as supple as this, where on earth did you get 80 years from?
+[Far]: Excuse me! With skin as supple as this, where on earth did you get 80 years from?
 //［宏治］：まさか、８０じゃなくて８００ってのも、ゴメン被るぜ。
 [Kouji]: Don't tell me, you're not 80, but 800? Please forgive me.
 //バキィィッ！！<$04><$30><$05>
@@ -463,89 +463,89 @@ As I felt her tongue around me, a pleasant numbness swept over me...
 //［宏治］：（つくづく手の早い女性だな‥‥。）
 [Kouji]: (Really, what a short-tempered woman...)
 //［ファル］：フン、聞きたいのは私の歳のこと？
-[FAR]: Hm, you want to know how old I am, don't you?
+[Far]: Hm, you want to know how old I am, don't you?
 //［宏治］：いや、本筋に戻ろう。トレイシーたちは、例の棺桶を大宇宙海賊なんとかジェネレータって、呼んでいたけど？
-[Kouji]: No, let's return to the original topic. Tracy and Ranphar called the tube the Universal Pirate something or other Generator.
+[Kouji]: No, let's return to the original topic. Tracy and Lanhua called the tube the Universal Pirate something or other Generator.
 //［ファル］：あれは、あなたが勝手に付けた名前なの。
-[FAR]: That's the name you came up with.
+[Far]: That's the name you came up with.
 //［宏治］：ふーん、コウジってヤツは、そのエンコーダを利用して、何をしようとしていたんだい？
-[Kouji]: Hmmm, so what did that KOUJI guy use the encoder to do, anyway?
+[Kouji]: Hmmm, so what did that Kouji guy use the encoder to do, anyway?
 //［ファル］：‥‥あなたって、自分のことを客観的に話す人なのね。
-[FAR]: ...You're talking about yourself as though you were an observer.
+[Far]: ...You're talking about yourself as though you were an observer.
 //［宏治］：フッ、ゴルゴ宏治と呼んでくれよ。
 [Kouji]: Heh, call me Golgo Kouji.
 //［ファル］：何よそれは。まあ、コウジの目論見は大方予想が付いているわ。
-[FAR]: What's with that name? Anyway, I have some rough idea of KOUJI's plan.
+[Far]: What's with that name? Anyway, I have some rough idea of Kouji's plan.
 //［宏治］：いったいそれは？
 [Kouji]: Well, what on earth was he planning?
 //［ファル］：エンコーダを利用して、自らを思念体、いわゆるアストラルボディに分離して、宇宙のあらゆる場所へ移動可能とすること。
-[FAR]: Using the encoder, he planned to separate his thought body from himself as a so-called astral form, so he could move freely throughout the universe.
+[Far]: Using the encoder, he planned to separate his thought body from himself as a so-called astral form, so he could move freely throughout the universe.
 //［宏治］：アストラル‥‥なんだって？
 [Kouji]: Astral...what?
 //［ファル］：アストラルボディよ。これによって、肉体の形骸化が起き、思念体のみに意識が移ることになる。
-[FAR]: An astral form. For that reason, by turning the physical body into a husk, the thought body's consciousness becomes free to move.
+[Far]: An astral form. For that reason, by turning the physical body into a husk, the thought body's consciousness becomes free to move.
 //［宏治］：申し訳ない、まるっきりわからないんだけど。
 [Kouji]: Wait, I'm totally lost here.
 //［ファル］：はぁ、何だかデキの悪い学生に、講義してる気分ね。
-[FAR]: Hmph, it feels like I'm giving a lecture to a bad student.
+[Far]: Hmph, it feels like I'm giving a lecture to a bad student.
 //［宏治］：‥‥悪かったな。
 [Kouji]: ...My bad.
 //［ファル］：いいわ、聞きなさい。アストラルボディは、事実上の思念体、物理的な肉体を持たないわ。
-[FAR]: It's OK, just listen. The astral form is effectively only the thought body, untethered to any physical body.
+[Far]: It's OK, just listen. The astral form is effectively only the thought body, untethered to any physical body.
 //［宏治］：あぁ、それで？
 [Kouji]: Ahh, then what does that mean?
 //［ファル］：だから、どのような場所にでも、入り込むことができる。例えば、コウジ！
-[FAR]: Therefore, anywhere it goes, it can possess a body. For example, KOUJI!
+[Far]: Therefore, anywhere it goes, it can possess a body. For example, Kouji!
 //［宏治］：ビクッ。
 [Kouji]: *blink*
 //［ファル］：あなたが、朝のさわやかなお通じをしている場所に、そっと進入してくることも可能なのよ。
-[FAR]: You could stealthily enter someone in the middle of a smooth morning shit.
+[Far]: You could stealthily enter someone in the middle of a smooth morning shit.
 //［宏治］：なんちゅう例えだよ。
 [Kouji]: Come on, what's with that example?
 //［ファル］：しかもアストラルボディに空間的距離は意味をなさないわ。時間的距離はゼロ、つまり理論上、速度は無限大にまで増加する。
-[FAR]: In any case, to an astral form, physical distance has no meaning. The time delay is zero, so in theory, the speed of the connection is unbounded.
+[Far]: In any case, to an astral form, physical distance has no meaning. The time delay is zero, so in theory, the speed of the connection is unbounded.
 //［ファル］：いい？　これは大変なことなのよ。これによって、機密というものは事実上無くなってしまう、コウジは宇宙の情報を一手に掌握してしまうつもりなのよっ！‥‥はぁはぁはぁ。
-[FAR]: You see? That's the issue. Moreover, confidentiality becomes effectively meaningless, as KOUJI has the entire universe's information in the palm of his hand! ...*cough* *cough*
+[Far]: You see? That's the issue. Moreover, confidentiality becomes effectively meaningless, as Kouji has the entire universe's information in the palm of his hand! ...*cough* *cough*
 //［宏治］：はい、お水。
 [Kouji]: Here, have some water.
 //［ファル］：あ、ありがとう‥‥ごくっ、ごくっ、ごくっ。
-[FAR]: Th-thank you...*glug* *glug*, *glug*.
+[Far]: Th-thank you...*glug* *glug*, *glug*.
 //［宏治］：なるほど、情報の掌握か。力でねじ伏せようとしないところは、なかなか好感が持てるな。
 [Kouji]: So the issue is that control of information. If only we had some place to hold him down, I'd be quite pleased.
 //［ファル］：バカ言わないでよ。１人の人間に、全ての情報が掌握されるなんてことになったら‥‥。
-[FAR]: You're kidding me. One person having all the information in the world...
+[Far]: You're kidding me. One person having all the information in the world...
 //［宏治］：何でそんなシロモノを作ったりしたのさ。
 [Kouji]: What did you build that appliance for?
 //［ファル］：‥‥えっ？
-[FAR]: ...Huh?
+[Far]: ...Huh?
 //［宏治］：だから、何でそんな危なっかしい機械を作ったりしたのさ、君は。
 [Kouji]: I said, what did you build that dangerous machine for, anyway?
 //［宏治］：別に、海賊コウジじゃなくても、そのエンコーダとやらを利用してやるってヨコシマな輩は、いくらでも出てきそうなもんじゃないか。
-[Kouji]: Even if that pirate KOUJI wasn't around, there would be plenty of other less-than-noble parties who would use that encoder, don't you think?
+[Kouji]: Even if that pirate Kouji wasn't around, there would be plenty of other less-than-noble parties who would use that encoder, don't you think?
 //［ファル］：そ、それは‥‥‥。
-[FAR]: S-So what...
+[Far]: S-So what...
 //［宏治］：人類全員が聖人君子って訳じゃないし、そうしたリスクを考えなかったのかい？
 [Kouji]: Not every human is a saint or a good Samaritan, didn't you ever consider that?
 //［宏治］：はぁ、科学者ってのはこうなんだよな、自分の研究しているものが、どういう事になるのかを全く想像しないんだ。
 [Kouji]: Haagh, is every scientist like this, only concerned with their own research and blind to the rest of the world?
 //［ファル］：ち、違うわ‥‥。
-[FAR]: N-no...
+[Far]: N-no...
 //［宏治］：いやそうさ。オレが知っている先生もね、そういうタイプなんだ。無茶苦茶頭はいいんだけど、想像力がちょっと欠如していてね。
 [Kouji]: Well, it sure seems that way. A doctor I know is the same way. She has a good head on her shoulders, but her imagination is a bit lacking.
 //［ファル］：でも、基本コンセプトは全然違ったのよ。
-[FAR]: However, you're wrong about the fundamental concept.
+[Far]: However, you're wrong about the fundamental concept.
 //［宏治］：どういうこと？
 [Kouji]: What do you mean?
 //［ファル］：本来は、精神治療のために考えられていた機械を、コウジがああいう形に改悪してしまったんじゃない。
-[FAR]: That device was originally made to treat mental illnesses, until KOUJI degraded it to its current state.
+[Far]: That device was originally made to treat mental illnesses, until Kouji degraded it to its current state.
 //［宏治］：‥‥‥そ、そうだっけ？
 [Kouji]: ...I-is that so?
 //［ファル］：なによ、もう！
-[FAR]: Oh, come on, are you even listening?
+[Far]: Oh, come on, are you even listening?
 //［宏治］：まぁいいじゃない、コウジってのは想像力がちょっと欠如していたんだよな。
-[Kouji]: Well, fine then, it was KOUJI whose imagination was lacking.
+[Kouji]: Well, fine then, it was Kouji whose imagination was lacking.
 //［ファル］：全く逆よ。そう想像したから、改悪したんじゃない。
-[FAR]: It's quite the opposite; he degraded it because he imagined it that way.
+[Far]: It's quite the opposite; he degraded it because he imagined it that way.
 //［宏治］：むぅ‥‥‥。
 [Kouji]: Mm....
 //　◆ 玉虫色は、どんな感情を表しているんだい？
@@ -557,129 +557,129 @@ As I felt her tongue around me, a pleasant numbness swept over me...
 //［宏治］：玉虫色は、どんな感情を表しているんだい？
 [Kouji]: What kind of expression does a shimmering emerald color mean?
 //［ファル］：た、たまむしいろ？
-[FAR]: A shimmering emerald color?
+[Far]: A shimmering emerald color?
 //［宏治］：そう、玉虫色。
 [Kouji]: Yes, like a jewel beetle.
 //［ファル］：何なのよ、それは。
-[FAR]: Why do you ask?
+[Far]: Why do you ask?
 //［宏治］：知らないのかい？　玉虫って昆虫がいてね、そいつの羽は光線の反射具合で、紫や緑に見えたりするんだ。
 [Kouji]: Do you not know? A jewel beetle is a kind of insect, with wings that reflect light in purple and green.
 //［ファル］：だから？
-[FAR]: ...And so?
+[Far]: ...And so?
 //［宏治］：だから、玉虫色さ。
 [Kouji]: And so that's a jewel beetle.
 //［ファル］：そんな色は、人間の感情に無いわ。
-[FAR]: That kind of color isn't something humans give off.
+[Far]: That kind of color isn't something humans give off.
 //［宏治］：フッ、思った通りだ。
 [Kouji]: Hmm, just as I thought.
 //［ファル］：で、他に聞きたいことは？
-[FAR]: Well, are you going to ask me anything else?
+[Far]: Well, are you going to ask me anything else?
 //［宏治］：こぶひで殴ることないらろ！
 [Kouji]: Hey, don't punch me!
 //［宏治］：ファルのスリーサイズが知りたいんだ。
 [Kouji]: Far, please tell me your three sizes.
 //［ファル］：‥‥つまらない質問は、しないんじゃなかったの？
-[FAR]: ...Didn't I tell you not to ask such droll questions?
+[Far]: ...Didn't I tell you not to ask such droll questions?
 //［宏治］：つまらなくはないだろう。それとも何かい、ファルのスリーサイズってのは取るに足らないものなの？
 [Kouji]: It's not droll. Besides, does that mean you don't know your own three sizes?
 //［ファル］：そ、そんな訳ないでしょ！
-[FAR]: O-of course not!
+[Far]: O-of course not!
 //［宏治］：本当かなぁ？
 [Kouji]: Are you suuure?
 //［ファル］：あなたの部下の、眼鏡を掛けた女性には負けるけど、このバストからヒップにかけてのラインには、ちょっと自信があるんですからね。
-[FAR]: I might not be as shapely as that four-eyed woman subordinate of yours, but I do have a little faith in this bust and these hips.
+[Far]: I might not be as shapely as that four-eyed woman subordinate of yours, but I do have a little faith in this bust and these hips.
 //［宏治］：ほぉ、で、そのサイズは？
 [Kouji]: Hoh, well, what are those sizes?
 //［ファル］：上から、８８－５９－８８よ。
-[FAR]: From the top, they're 88-59-88.
+[Far]: From the top, they're 88-59-88.
 //［宏治］：なるほどな、メモメモ。
 [Kouji]: I got it, I'll commit those to memory.
 //［宏治］：硬さと太さ、どっちの方が重要？
 [Kouji]: Between thickness and hardness, which do you prefer?
 //［ファル］：‥‥なに？　それ。
-[FAR]: ...What are you getting at?
+[Far]: ...What are you getting at?
 //［宏治］：だ、だから、硬さと太さ‥‥。
 [Kouji]: A-As I said, between thickness and hardness...
 //［ファル］：もう、中年みたいに溜息つかないでよ。
-[FAR]: Come now, don't sigh like a middle-aged fart.
+[Far]: Come now, don't sigh like a middle-aged fart.
 //［宏治］：精神年齢は高い方なんでね。
 [Kouji]: But my mental age is so advanced.
 //［ファル］：フフ、バカね‥‥。
-[FAR]: Hehe, you dummy...
+[Far]: Hehe, you dummy...
 //［ファル］：でも信じられないわ‥‥。
-[FAR]: But I can't believe it...
+[Far]: But I can't believe it...
 //［宏治］：なにが？
 [Kouji]: Can't believe what?
 //［ファル］：あなたと、こうしてベッドを共にするなんて。
-[FAR]: I can't believe I just had sex with you on this bed.
+[Far]: I can't believe I just had sex with you on this bed.
 //［宏治］：そうだよな、ほんの数時間前までは、親のカタキみたいなもんだったし。
 [Kouji]: It's true, until just a few hours ago, you looked like you had some blood feud with me.
 //［宏治］：でも良かったぜ、ホント‥‥大量に出しちゃったよ。
 [Kouji]: But it was really quite good...I let out a lot.
 //［ファル］：もう、猿なみね。オナニーくらい、ちゃんとしなさいよ。
-[FAR]: Now you're just monkeying around. Just jerk yourself off.
+[Far]: Now you're just monkeying around. Just jerk yourself off.
 //ぎゅっ。
 Squeeze.
 //［宏治］：ッテテテ、デリケートな部分なんだから、優しくしてくれよ。
 [Kouji]: -Owowoww...be careful, it's sensitive.
 //［ファル］：私ね‥‥。
-[FAR]: You know...
+[Far]: You know...
 //［宏治］：なんだい？
 [Kouji]: What?
 //［ファル］：私、宇宙海賊なんて、残虐非道で冷徹で、私利私欲しかなくて、おまけに顔も悪くて無茶苦茶イヤな奴だと思ってたの。
-[FAR]: I had this image of a galactic pirate as this cruel, cold, unpleasant bastard who got especially ugly if he didn't get his way.
+[Far]: I had this image of a galactic pirate as this cruel, cold, unpleasant bastard who got especially ugly if he didn't get his way.
 //［宏治］：顔は悪くないと思うぞ、顔は。
 [Kouji]: Well, I don't think this face is so ugly, is it?
 //［ファル］：フフ、でも今のあなたは、すっごく素敵だわ‥‥。
-[FAR]: Haha, but right now, you're quite pleasant...
+[Far]: Haha, but right now, you're quite pleasant...
 //［宏治］：コウジじゃなくて、宏治の方な。
-[Kouji]: That's not from KOUJI, but from Kouji.
+[Kouji]: That's not from Kouji, but from Kouji.
 //［ファル］：そっか、あなた、トイレで転んで記憶を無くしていたのよね。
-[FAR]: Oh yeah, you lost all your memories about Tracy, haven't you?
+[Far]: Oh yeah, you lost all your memories about Tracy, haven't you?
 //［宏治］：記憶を無くしてるってのは、正確じゃないんだけど。
 [Kouji]: Well, I haven't lost *all* of my memories about her.
 //［ファル］：フフ、今のあなただったら、どっちでもいいわ。もう、あなたに‥‥。
-[FAR]: Hehe, well, to the you right now, it's all the same. Now, you're...
+[Far]: Hehe, well, to the you right now, it's all the same. Now, you're...
 //［宏治］：ほぉ、いつもは、学生たちと乱交してるのに？
 [Kouji]: Hoh, do you do this with all your students?
 //［ファル］：バカ、そんな訳ないでしょっ！
-[FAR]: Of course not, you bastard!
+[Far]: Of course not, you bastard!
 //［宏治］：怪しいもんだよな、３人としたんだっけ？
 [Kouji]: I get this weird feeling from you, what happened between the three of you?
 //［ファル］：なっ‥‥。
-[FAR]: Wh...
+[Far]: Wh...
 //［宏治］：みーんな、はさんでやったんだよな。
 [Kouji]: I mean, you did take them all on, didn't you?
 //［ファル］：なによっ！
-[FAR]: Oh, come on!
+[Far]: Oh, come on!
 //［ファル］：もうこの胸は、コウジだけのもの‥‥。
-[FAR]: Now these boobs are KOUJI's alone...
+[Far]: Now these boobs are Kouji's alone...
 //［宏治］：ほ、ホント？（殴られるかと思ったぜ‥‥。）
 [Kouji]: R-really? (I thought she'd give me another wallop...)
 //［ファル］：ホントよ。この胸も、この口も、アソコも‥‥みんなコウジのモノよ。好きにしていいの‥‥。
-[FAR]: Really. This chest, these lips, this pussy...they're all KOUJI's. You can do whatever you want...
+[Far]: Really. This chest, these lips, this pussy...they're all Kouji's. You can do whatever you want...
 //［宏治］：んなこと言うと、海綿体に血液がたまるじゃないか。
 [Kouji]: If you say that kind of thing, all my blood will rush straight to my sponge.
 //［ファル］：‥‥さっき、あんなに出したばかりなのに‥‥すご‥‥。
-[FAR]: ...Even though you just came so much...Amazing...
+[Far]: ...Even though you just came so much...Amazing...
 //［宏治］：フェラしてくれる？
 [Kouji]: Can you please suck me off?
 //［ファル］：うん。今度は飲ませてねっ。
-[FAR]: Of course. I can even drink it all up.
+[Far]: Of course. I can even drink it all up.
 //［宏治］：うんうん。
 [Kouji]: All right.
 //［ファル］：じゃ‥‥‥‥。
-[FAR]: Well...
+[Far]: Well...
 //ゴゴゴゴゴッッ！！<$04><$30><$05>
 *rumble rumble rumble*!!
 //［宏治］：イテッ！
 [Kouji]: OW!
 //［ファル］：きゃっ、ごめんなさい‥‥歯形が付いちゃったわ‥‥。
-[FAR]: Kya-, Sorry...my jaw slipped...
+[Far]: Kya-, Sorry...my jaw slipped...
 //［宏治］：トホホ‥‥。
 [Kouji]: Khohohoo...
 //［ファル］：でも、今のはいったい何かしら？
-[FAR]: But, what on earth just happened?
+[Far]: But, what on earth just happened?
 //［宏治］：そうだな‥‥凄い衝撃だったけど‥‥。
 [Kouji]: I wonder that too...what a big quake that was...
 //ピーピッ、ピーピッ‥‥。<$04><$31><$05>
@@ -689,49 +689,49 @@ Squeeze.
 //［宏治］：内線の呼び出しか‥‥誰だろう‥‥。
 [Kouji]: Someone's calling from the phone extension...who could it be...?
 //［トレイシー］：コウジ様、お取り込み中申し訳ございません。
-[TRACY]: KOUJI-sama, I'm terribly sorry for the disorder...
+[Tracy]: Kouji-sama, I'm terribly sorry for the disorder...
 //［ファル］：きゃっ、私、まだ裸よ‥‥。
-[FAR]: Kya-, I'm still naked...
+[Far]: Kya-, I'm still naked...
 //［トレイシー］：申し訳ございません。しかし‥‥。
-[TRACY]: I'm so very sorry. But...
+[Tracy]: I'm so very sorry. But...
 //［宏治］：いいぜ、どうした？
 [Kouji]: It's fine, what's going on?
 //［トレイシー］：あっ、はい‥‥さきほど、《クワドラ》の航路上にいた大型シップからの威嚇砲撃です。
-[TRACY]: Ah, yes...just earlier, in the middle of the route, the [Kuwadora] was hit by a warning missile from a large-scale ship.
+[Tracy]: Ah, yes...just earlier, in the middle of the route, the [Kuwadora] was hit by a warning missile from a large-scale ship.
 //［宏治］：威嚇砲撃ぃ？
 [Kouji]: A warning missile? 
 //［ファル］：どうしたのよ、コウジ‥‥。
-[FAR]: What's going on, KOUJI...
+[Far]: What's going on, Kouji...
 //［宏治］：わからんよ、全く状況が見えない。
 [Kouji]: I don't know, I haven't gotten a grasp on the situation.
 //［トレイシー］：いかがなさいますか？
-[TRACY]: What should I do?
+[Tracy]: What should I do?
 //［宏治］：んー、そのＧ２型宇宙船は、いまどこだよ。
 [Kouji]: Mm, where is that G2-class galactic cruiser?
 //［トレイシー］：我々の、すぐ上です。
-[TRACY]: It's directly above us.
+[Tracy]: It's directly above us.
 //ガガーーーンッッ！！！<$04><$30><$05>
 *KABOOOM*!!!
 //［宏治］：なんだ、どうした！？　また砲撃か！？
 [Kouji]: What the hell?! Was that another missile?!
 //［トレイシー］：接舷されました。
-[TRACY]: It's docking by us now.
+[Tracy]: It's docking by us now.
 //［宏治］：せ、接舷！？　何のために。
 [Kouji]: It's docking?! Why?
 //［トレイシー］：恐らくこちらへ乗り込み、白兵戦を行うものと予想されます。
-[TRACY]: They probably plan to board us and engage in close combat.
+[Tracy]: They probably plan to board us and engage in close combat.
 //［宏治］：は、白兵！？
 [Kouji]: C-close combat?
 //ピュイィィ～～～～。<$04><$32><$05>
 Twiiiiii...<$04><$32><$05>
 //［ファル］：きゃぁ、なに、どうしたの！？
-[FAR]: Kya-, what the hell is going on?!
+[Far]: Kya-, what the hell is going on?!
 //［トレイシー］：何者かが、艦内放送を乗っ取りました。
-[TRACY]: Someone is hijacking the intercoms.
+[Tracy]: Someone is hijacking the intercoms.
 //［宏治］：なんだって！？
 [Kouji]: WH-WHAT?!
 //［女の声］：『憶病にして脆弱な、宇宙海賊を名乗るコウジに告ぐ‥‥。』
-[Woman's voice]: [[To the sickly, cowardly galactic pirate named KOUJI...]]
+[Woman's voice]: [[To the sickly, cowardly galactic pirate named Kouji...]]
 //［宏治］：お、オレ！？
 [Kouji]: To m-me?
 //［女の声］：『《クワドラ》はすでに拿捕され、我が手中にある。サイキックエンコーダをわたしてもらう。』
@@ -743,9 +743,9 @@ Twiiiiii...<$04><$32><$05>
 //［宏治］：か、海賊って‥‥。
 [Kouji]: A pirate, she says...
 //［ファル］：聞いたことがあるわ。ビアンカって、コウジに勝るとも劣らない残虐非道な‥‥。
-[FAR]: I have some things to ask. Is that Bianca as cruel and immoral as KOUJI...?
+[Far]: I have some things to ask. Is that Bianca as cruel and immoral as Kouji...?
 //［ファル］：あっ、今は改心して、素敵な人。
-[FAR]: Ah-, though you've now become such a splendid person.
+[Far]: Ah-, though you've now become such a splendid person.
 //［宏治］：フォローしなくてもいいよ。でも、なんでビアンカとかいうヤツが‥‥。
 [Kouji]: We don't have to follow her orders. But, why is that Bianca person here...?
 //ガガーーーーンッ！！
@@ -753,67 +753,67 @@ Twiiiiii...<$04><$32><$05>
 //［宏治］：な、何の音だ！？
 [Kouji]: Wh-what the hell was that noise?!
 //［トレイシー］：侵入されました！　コウジ様！！
-[TRACY]: We've been breached! KOUJI-sama!!
+[Tracy]: We've been breached! Kouji-sama!!
 //［宏治］：侵入！？
 [Kouji]: BREACHED?
 //［宏治］：いかがって‥‥とにかく様子を見に行ってみる。トレイシーも、敵に備えるんだ。
 [Kouji]: What to do...in any case, I need to meet with her. Tracy, come with me, too.
 //［トレイシー］：はい、お気をつけて！
-[TRACY]: Yes, be careful!
+[Tracy]: Yes, be careful!
 //［宏治］：どうやら、ちょっとヤバそうだ。オレは様子を見に行く。
 [Kouji]: This is gonna be rough. I'm going to meet her.
 //［ファル］：私も‥‥。
-[FAR]: Me too...
+[Far]: Me too...
 //［宏治］：ファルはここにいろ。さっきの放送を聞いたろ？　ヤツは君とエンコーダが目的だ。
-[Kouji]: No, FAR, stay here. You heard that transmission earlier, too, right? She's after your encoder.
+[Kouji]: No, Far, stay here. You heard that transmission earlier, too, right? She's after your encoder.
 //［宏治］：大丈夫だ、すぐに戻ってくる。さっ、着替えて。
 [Kouji]: It'll be all right, I'll be right back. Now, go change.
 //［ファル］：‥‥うん。
-[FAR]: ...Yes.
+[Far]: ...Yes.
 //［宏治］：さてと‥‥。
 [Kouji]: Now, then...
 //［ファル］：お願いよ、気を付けて‥‥。
-[FAR]: Please, take care of yourself...
+[Far]: Please, take care of yourself...
 //［宏治］：うん、ま、何とかやってみるさ。
 [Kouji]: I will, at least, as well as I can.
 //［ファル］：コウジ‥‥‥‥。
-[FAR]: KOUJI....
+[Far]: Kouji....
 //［ファル］：お願い、キスして‥‥。
-[FAR]: Please, kiss me...
+[Far]: Please, kiss me...
 //［宏治］：えっ、ああ‥‥。
 [Kouji]: All right, ahhh....
 //［ファル］：ん‥‥んんっ‥‥。
-[FAR]: Mm...mmmm....
+[Far]: Mm...mmmm....
 //［宏治］：（こんな事をしてる場合じゃ、ないんだろうなぁ‥‥。）
 [Kouji]: (This isn't the place for this kind of things, is it...?)
 //［ファル］：あぁぁ、もっと、もっと舌を差し込んで！
-[FAR]: Ahh, please, stick your tongue further in!
+[Far]: Ahh, please, stick your tongue further in!
 //くちょ、にちょ‥‥。
 *smack*, *slish*
 //［宏治］：（や、やば‥‥た、起ってきちゃった‥‥。）
 [Kouji]: (D-damn...I'm hard again...)
 //［ファル］：あぁぁ、また硬くなってきてる‥‥。
-[FAR]: Oh, it's gotten hard again...
+[Far]: Oh, it's gotten hard again...
 //［宏治］：ちょ、ほら、もう、ね？
 [Kouji]: Ho-wait, please, can we wait?
 //［ファル］：コウジぃ‥‥。
-[FAR]: KOUJIi...
+[Far]: Koujii...
 //［宏治］：こ、こら、そんなにしごいたら‥‥ダメったらダメ！
 [Kouji]: C-come on, if you stroke it like that...we can't, we can't!
 //［ファル］：もう、つれないんだから‥‥。
-[FAR]: Well, I can't come with you so...
+[Far]: Well, I can't come with you so...
 //［宏治］：（あれでプロフェッサかね、本当に‥‥。）
 [Kouji]: (Is she really a professor...?)
 //［ファル］：きっと戻ってきてね‥‥。
-[FAR]: Please come back...
+[Far]: Please come back...
 //［宏治］：何言ってるんだよ、ちょっと様子を見に行くだけだ。
 [Kouji]: Don't be so down, I'm only popping out to see what's going on.
 //［ファル］：うん、待ってる‥‥。
-[FAR]: OK, I'll be waiting...
+[Far]: OK, I'll be waiting...
 //［宏治］：すぐに帰ってくるって。
 [Kouji]: I'll come back soon.
 //［ファル］：うん‥‥。
-[FAR]: Mhm...
+[Far]: Mhm...
 //［宏治］：（でも、相手も海賊って言ってたしなぁ。）
 [Kouji]: (However, that woman said she was a pirate, too, didn't she?)
 //［宏治］：（女だったみたいだけど、どんな人なんだろう‥‥。）
@@ -837,7 +837,7 @@ I surveyed the empty corridor. Now, then, from here...
 //オレはそう考えると、ブリッジへ急ぎ足で向かっていった‥‥。
 With that thought, I hurried over to the bridge...
 //［宏治］：エンジンルームへ行ってみよう。ランファがいるかもしれないぞ。
-[Kouji]: Let's check the engine room. Ranphar might be there.
+[Kouji]: Let's check the engine room. Lanhua might be there.
 //オレはそう考えると、エンジンルームへ急ぎ足で向かっていった‥‥。
 With that thought, I hurried over to the engine room...
 //［宏治］：そうだな、エンコーダが安置されてる部屋へ行ってみよう。
@@ -865,12 +865,12 @@ The room in question was...the room with the encoder.
 //灼熱の拷問部屋、という感じだった。
 It gave the impression of a red-hot torture chamber.
 //確か、ランファの担当だったよな、このエンジンルームは‥‥こんな所でよく働ける。
-This engine room should be Ranphar's responsibility...it's where she works.
+This engine room should be Lanhua's responsibility...it's where she works.
 //［宏治］：ランファ！　いないのかい？
-[Kouji]: Ranphar? Are you there?
+[Kouji]: Lanhua? Are you there?
 //念のために、ハシゴのところから身を乗り出して、下へ呼びかけてみる。が、返事は無い。
 Just to be sure, I got on the ladder and shouted down. But there was no response.
 //［宏治］：‥‥ランファ、いないようだな。
-[Kouji]: ...Ranphar's probably not here.
+[Kouji]: ...Lanhua's probably not here.
 //何者かが侵入したのは確かなんだ。いったいどこに‥‥。
 There's definitely an intruder on board. Where could they possibly be....

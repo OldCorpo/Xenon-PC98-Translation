@@ -7,21 +7,21 @@ We just entered the night side, so it was entirely dark, but still warm.
 //砂漠と見間違うほど、あたり一面に砂丘が広がっていた。砂丘のあちこちから、何かの建造物とおぼしい遺跡が突出しているのが確認できる。
 As if we had mistakenly entered a desert, one side of our surroundings was covered by a wide sand dune.\nAll around the sand dune, we could make out some sort of buildings and odd ruins sticking out.
 //［コウジ］：（かつての文明のレベルは、それほど低くは無かったのかもしれないが‥‥。）
-[KOUJI]: (The civilization that was once here, was probably pretty advanced...)
+[Kouji]: (The civilization that was once here, was probably pretty advanced...)
 //長い年月のあいだ、恒星の強い光と風雨にさらされて、もはや原型をとどめぬほど色あせ、風化していた。
 Over many years, by the star's strong rays and the wind and rain, the original shape was faded and weathered away to the point it couldn't be recognized anymore.
 //周囲が霞んで見えるのは、うっすらと漂う霧のせいだった。
 Our surroundings were hazy, thanks to a lightly floating mist.
 //［コウジ］：（まるで、夢の中みたいだな‥‥‥‥<$0C>夢？）
-[KOUJI]: (This feels like a dream, doesn't it......Dream?)
+[Kouji]: (This feels like a dream, doesn't it......Dream?)
 //私は黙って、窮屈なコクピットから身体を押し出した。棒状のハシゴへ足を掛けた途端‥‥。
 I was quiet as I got out of the narrow cockpit. As I placed my foot on the rod-shaped ladder....
 //［ファル］：やぁぁっ！！
-[FAR]: Yaaah-!!
+[Far]: Yaaah-!!
 //フワリと無重力状態になったかと思うと、次の瞬間、私は地面に背中をしたたか打ちつけていた。ファルが後ろから突き落としたのだ。
 I felt a comforting weightlessness, but in the next moment, I fell hard on the ground on my back. Far had pushed me down from behind.
 //［コウジ］：くっ‥‥‥‥。
-[KOUJI]: Kuh-...
+[Kouji]: Kuh-...
 //一瞬息が詰まり、呼吸が困難になる。激しくむせかえり、意識が遠くなっていった‥‥。
 For a second, I was suffocated, and breathing became hard. As I violently choked, my consciousness grew farther away...
 //目をつむったまま、無意識に手を動かし銃を捜してみる。見あたらない‥‥。
@@ -29,65 +29,65 @@ As I squeezed my eyes shut, I blindly groped around for my gun. I couldn't find 
 //彼女がそれを奪い返し、私に向けるのは、想像に難くなく、おまけに私は身体がしびれて、しばらく動くことすらままならなかった‥‥。
 It wasn't hard for me to imagine that she confiscated it, and on top of that, my body was numb and I couldn't move for a while...
 //［コウジ］：（どうやら、ここまでかな‥‥。）
-[KOUJI]: (What do I do here...)
+[Kouji]: (What do I do here...)
 //覚悟を決めて、目を開けてみると‥‥‥‥。
 As I awakened, I opened my eyes to look....
 //［コウジ］：ふ、ファル‥‥‥‥。
-[KOUJI]: F-Far...
+[Kouji]: F-Far...
 //［ファル］：ゴメンね、コウジ‥‥痛かった？
-[FAR]: Sorry, Kouji...Did it hurt?
+[Far]: Sorry, Kouji...Did it hurt?
 //少しすまなそうな表情をしながら、ファルは私の身体を抱きかかえていた。意外に顔が近いので、少し焦ってしまう。
 Far made a somewhat apologetic expression as she helped me up. Because she brought her face very close to mine, I was slightly panicked.
 //［コウジ］：べ、別にその‥‥こっちこそ、ゴメン。
-[KOUJI]: No, not really...I'm sorry, too.
+[Kouji]: No, not really...I'm sorry, too.
 //［ファル］：いつまでも銃を突きつけられてるのって、ストレス溜まるのよね。
-[FAR]: I guess if you're repeatedly hit with a gun, you'll accumulate stress.
+[Far]: I guess if you're repeatedly hit with a gun, you'll accumulate stress.
 //ファルはクスっと笑みをこぼしながら、傍らの手で銃を弄んでいた。少し心臓の動悸が速くなる。
 Far let out a giggle and played with the gun in her hand. My heart beat a bit faster.
 //［ファル］：あら、少し恐怖の色が出たわね‥‥フフ、安心して。
-[FAR]: Ara, you're turning a slightly frightened color...Hehe, calm down.
+[Far]: Ara, you're turning a slightly frightened color...Hehe, calm down.
 //［ファル］：ま、セーフティロックは掛かったままだったから、身の危険は感じなかったけど。
-[FAR]: Well, the safety is on, so I didn't feel any danger to our bodies.
+[Far]: Well, the safety is on, so I didn't feel any danger to our bodies.
 //［コウジ］：そ、それって‥‥‥‥。
-[KOUJI]: That, that's...
+[Kouji]: That, that's...
 //［ファル］：さっきので、今までの事は帳消しにしてあげる。もう話してよ。何か、訳ありなんでしょう？
-[FAR]: Because of that, I'll erase everything that happened up until now. Now, please tell me. What reason do you have in mind?
+[Far]: Because of that, I'll erase everything that happened up until now. Now, please tell me. What reason do you have in mind?
 //［コウジ］：信じてくれるのか‥‥？
-[KOUJI]: Will you trust me...?
+[Kouji]: Will you trust me...?
 //［ファル］：正直言うと、こうして話している今も、半信半疑なんだけどね。
-[FAR]: Speaking honestly, even now, I only half-believe you.
+[Far]: Speaking honestly, even now, I only half-believe you.
 //［ファル］：でも、私に銃を突きつけてる間も、私の事を気遣ってくれてたし、酷いこともしなかった‥‥。
-[FAR]: However, even when you were poking me with a gun, you cared about me, and you didn't do anything terrible to me....
+[Far]: However, even when you were poking me with a gun, you cared about me, and you didn't do anything terrible to me....
 //［ファル］：だから‥‥‥‥。
-[FAR]: That's why....
+[Far]: That's why....
 //［コウジ］：ゴメン、あのときは、ああする他は無かった‥‥。
-[KOUJI]: Sorry, at that time, there was nothing else to do...
+[Kouji]: Sorry, at that time, there was nothing else to do...
 //［ファル］：うん、わかってる。
-[FAR]: Yes, I understand.
+[Far]: Yes, I understand.
 //ファルは、少しだけあたりを見回した。どんよりと曇った空から、パラパラと雨が降り注ぎはじめている。
 Far glanced around. From the cloudy sky above us, rain started pitter-pattering down.
 //［ファル］：どうするの、これから‥‥。
-[FAR]: What do we do from here....
+[Far]: What do we do from here....
 //［コウジ］：どうするもこうするも‥‥私は行くために、ここへ降りてきたんだ。
-[KOUJI]: What to do, what to do...I came down here to go somewhere.
+[Kouji]: What to do, what to do...I came down here to go somewhere.
 //［ファル］：私も一緒に行くわ。
-[FAR]: I'm coming, too.
+[Far]: I'm coming, too.
 //［コウジ］：いや、これはどうやら私自身の問題らしい‥‥１人で行かせて欲しいんだ。
-[KOUJI]: No, this is my personal problem...I'd rather go alone.
+[Kouji]: No, this is my personal problem...I'd rather go alone.
 //［コウジ］：頼む‥‥。
-[KOUJI]: Please...
+[Kouji]: Please...
 //［ファル］：わかったわ‥‥でも、気を付けなさい。銃は？
-[FAR]: I understand...but please, take care. Your gun?
+[Far]: I understand...but please, take care. Your gun?
 //差し出された銃を私は押し返す。これから行くところは、恐らく銃など不要な気がしたのだ。
 I took back the gun she presented. I had a feeling I wouldn't need it from here to the place I had to go.
 //［コウジ］：気持ちだけ、ありがたく受け取っておくよ。
-[KOUJI]: Thanks, if only for the feeling of comfort.
+[Kouji]: Thanks, if only for the feeling of comfort.
 //［ファル］：ここで待っているわ。
-[FAR]: I'll be waiting here.
+[Far]: I'll be waiting here.
 //［コウジ］：帰ってこないかも、しれないよ。
-[KOUJI]: I don't know if I'll be coming back.
+[Kouji]: I don't know if I'll be coming back.
 //［ファル］：そうかしら‥‥。
-[FAR]: Is that so....
+[Far]: Is that so....
 //ゆっくりと立ち上がると、身体に付いた砂を手ではらった。砂が風にのって、パラパラと舞っていく。
 As I slowly stood up, I brushed the sand off my body. The sand was picked up by the wind, abrasively dancing as it went.
 //私は１人、地平線のかなたに見えかくれする、黒々しい巨大な遺跡に向かって歩き出した。
@@ -95,10 +95,10 @@ I set foot alone towards the huge black ruins showing beyond the horizon.
 //ファルの視線を背中に感じながら‥‥‥‥。
 As I felt Far's gaze on my back...
 //［ファル］：‥‥‥‥。
-[FAR]: ......
+[Far]: ......
 //［ファル］：‥‥‥‥‥‥‥‥。
-[FAR]: .........
+[Far]: .........
 //［ファル］：私、こんな所でいったい何をやっていたのかしら‥‥。
-[FAR]: What on earth am I doing in a place like this...?
+[Far]: What on earth am I doing in a place like this...?
 //［ファル］：なぜ、１人でこの惑星に‥‥‥‥？<$05>
-[FAR]: Why would he travel alone on this planet...?
+[Far]: Why would he travel alone on this planet...?

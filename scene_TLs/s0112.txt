@@ -17,13 +17,13 @@ As I suddenly stopped to look to my side, I noticed what looked like a ladder. R
 //構造的な建設ができるということは、意外に文明が、栄えていたのかもしれない‥‥。
 If they were capable of structural construction, the previous civilization must have been quite cultured and prosperous...
 //［コウジ］：（上の階には、いったい何があるんだろう‥‥。）
-[KOUJI]: (What could there be in the layer above?)
+[Kouji]: (What could there be in the layer above?)
 //塵や埃、ツタ系の植物が鬱蒼と生い茂っていて、足場の確認がかなり困難だった。ライトを持ってこなかったことを、少しだけ後悔する。
 In the dust, the ivy was densely overgrown, and it was difficult to get a good foothold. I slightly regretted not bringing a light.
 //もっとも目の前の苦難は、私の好奇心を負かす事ができなかったようだった。
 But even then, my curiosity couldn't lose against the ordeals before me.
 //［コウジ］：（行ってみるか‥‥。）
-[KOUJI]: (Let's go...)
+[Kouji]: (Let's go...)
 //ところどころ破損した箇所を慎重に避けながら、私はゆっくりと階段を上がっていった。
 Carefully avoiding broken rungs along the way, I slowly made my way up the ladder.
 //1020_3
@@ -31,7 +31,7 @@ Carefully avoiding broken rungs along the way, I slowly made my way up the ladde
 //1020_2
 1020_2
 //［コウジ］：（ここは‥‥‥‥。）
-[KOUJI]: (What is this?)
+[Kouji]: (What is this?)
 //目の前には、比較的長い道が、一直線に奥へと伸びていた‥‥。
 In front of me, a rather long path extended deeply in a straight line...
 //地面や側壁などにはヒビが入り、あれ果てた状態だったが、はるか昔は、綺麗に整備された気配をうかがわせる。
@@ -39,15 +39,15 @@ The walls and floor were cracked, but I can tell that long ago, it must have bee
 //先史文明とやらの、レベルの高さという訳だろうか。
 This spoke to the high level of the previous civilization.
 //［コウジ］：（しかし、ここはどこかで‥‥‥‥。）
-[KOUJI]: (But now, it's just ruined everywhere...)
+[Kouji]: (But now, it's just ruined everywhere...)
 //例の既視感覚、というやつだろうか‥‥単なる思い違いか、あるいは予知と呼ばれるものなのか‥‥。
 It might have been deja vu...or it might have been a misunderstanding, or it might have been some sort of precognition...
 //だが、構造的に明らかに覚えがあった。私はゆっくりと、記憶の糸を手繰りだした。
 But, I somehow remembered the structure clearly. I slowly unraveled that thread of memory...
 //［コウジ］：（そういえば‥‥‥‥。）
-[KOUJI]: (Speaking of that...)
+[Kouji]: (Speaking of that...)
 //［コウジ］：（ま、まさか‥‥‥‥。）
-[KOUJI]: (It can't be...)
+[Kouji]: (It can't be...)
 //そのまさかのようだ‥‥私は、どうやら夢の中の世界へと、迷い込んでしまったらしい。
 In an unbelievable way...I somehow was drawn into a dream world.
 //夢の中‥‥‥‥？<$05><$04><$33>
@@ -63,7 +63,7 @@ On the other side of this door is the consulting room. And then...
 //私は、ある大きなドアの前に立った‥‥。
 I stood before a certain large door...
 //［コウジ］：（このドアの向こう側に‥‥‥‥。）
-[KOUJI]: (This door leads to...)
+[Kouji]: (This door leads to...)
 //緊張感が高まり、心臓の動悸速度が増加していく。このドアの向こう側に‥‥‥‥？
 I was highly anxious, and my heartbeat quickened. This door leads to...?
 //予測以上の確信をもって、私はドアを開けた‥‥‥‥。<$05><$04><$34>
@@ -335,103 +335,103 @@ I remember now, my memories...
 //遥か昔の、メモリーを‥‥‥‥。
 My memories from long, long ago...
 //［コウジ］：いるんだろう？　出てきても、構わないよ。
-[KOUJI]: You're here, aren't you? Come out, I won't hurt you.
+[Kouji]: You're here, aren't you? Come out, I won't hurt you.
 //［コウジ］：大丈夫だよ、もう‥‥。
-[KOUJI]: It's fine already...
+[Kouji]: It's fine already...
 //風化寸前の機器類の陰から、ランファが姿を現した。突然、その場に現れたように‥‥‥‥。
 From the shadow of the machines on the verge of weathering, I saw Lanhua's figure, as if suddenly appearing in that place...
 //彼女は私の前に、ゆっくりとやって来る。
 She slowly came up to me.
 //［ランファ］：コウジさん‥‥。
-[LANHUA]: Kouji-san...
+[Lanhua]: Kouji-san...
 //［コウジ］：だいたい、思い出したよ。
-[KOUJI]: I remembered most of it...
+[Kouji]: I remembered most of it...
 //［ランファ］：そうですか、良かった‥‥。
-[LANHUA]: I see, that's good news...
+[Lanhua]: I see, that's good news...
 //xenon_10
 xenon_10
 //［コウジ］：あれから、どのくらいの時間が経ったのかな。
-[KOUJI]: Since then, how much time has passed?
+[Kouji]: Since then, how much time has passed?
 //［ランファ］：あれから‥‥？
-[LANHUA]: Since then...?
+[Lanhua]: Since then...?
 //［コウジ］：そう、人類の全てが死に絶えてから‥‥。
-[KOUJI]: Yes, when the human race went extinct...
+[Kouji]: Yes, when the human race went extinct...
 //［ランファ］：地球時間で、ちょうど６千と１２年ほどです。
-[LANHUA]: By earth time, between about six thousand to twelve thousand years.
+[Lanhua]: By earth time, between about six thousand to twelve thousand years.
 //［コウジ］：６千年か‥‥長いようで、短かったな‥‥。
-[KOUJI]: Six thousand years...It feels long, but it passed so quickly...
+[Kouji]: Six thousand years...It feels long, but it passed so quickly...
 //［コウジ］：君と、君の姉さんは、重核中性子爆弾による人類の滅亡を予期していた。
-[KOUJI]: You and your big sister anticipated the heavy neutron bombs that wiped out humanity.
+[Kouji]: You and your big sister anticipated the heavy neutron bombs that wiped out humanity.
 //［ランファ］：はい。ですが人類の種は滅びても、その記憶だけは残しておきたかった‥‥。
-[LANHUA]: Yes. However, humanity's seeds were wiped out, so only the memories remained...
+[Lanhua]: Yes. However, humanity's seeds were wiped out, so only the memories remained...
 //［コウジ］：そう‥‥そうだった。
-[KOUJI]: I...I see.
+[Kouji]: I...I see.
 //［ランファ］：だから、マインド・コントロールという軍要請の当初の計画を変更し、サイバープロジェクタとして‥‥。
-[LANHUA]: Because of that, the military's initial plan of mind control was changed to a cyberprojector...
+[Lanhua]: Because of that, the military's initial plan of mind control was changed to a cyberprojector...
 //［コウジ］：人間の意識を、機械の中へと投影した‥‥。
-[KOUJI]: Human consciousness is projected into machines...
+[Kouji]: Human consciousness is projected into machines...
 //［ランファ］：私たち２人だけは、思念体となって、意識だけは残ったのです。
-[LANHUA]: Only the two of us awakened thinking bodies, and only our consciousnesses remained.
+[Lanhua]: Only the two of us awakened thinking bodies, and only our consciousnesses remained.
 //［コウジ］：人間の持つパーソナリティ‥‥人格をも、電子頭脳へと投影した‥‥。
-[KOUJI]: Humanity's personalities...their psyches, were projected into electronic brains...
+[Kouji]: Humanity's personalities...their psyches, were projected into electronic brains...
 //［ランファ］：はい、私たちは人類の終焉を見てもなお、生き続けた。いえ、記憶を残し続けた、メモリーの中に‥‥。
-[LANHUA]: Yes, even after we witnessed the end of humanity, we lived on. No, we carried our consciousnesses on, in our memories...
+[Lanhua]: Yes, even after we witnessed the end of humanity, we lived on. No, we carried our consciousnesses on, in our memories...
 //［コウジ］：こうして、思念を実体化させ、様々な事をやってきたんだ。
-[KOUJI]: In this way, through realization of your thoughts, you did a lot of things, didn't you.
+[Kouji]: In this way, through realization of your thoughts, you did a lot of things, didn't you.
 //［ランファ］：そしてそれは、もうすぐ成就するのです。
-[LANHUA]: And after that, we will soon fulfill our purposes.
+[Lanhua]: And after that, we will soon fulfill our purposes.
 //［コウジ］：そうだったね‥‥ごめんよ、忘れてしまって‥‥。
-[KOUJI]: So that's how it was...Sorry, I forgot...
+[Kouji]: So that's how it was...Sorry, I forgot...
 //［コウジ］：今にして思えば、私はこの現状から逃避したかったのかもしれない。懐かしい昔のあの時へと‥‥。
-[KOUJI]: If I think about that right now, I might escape from reality. Towards that nostalgic distant past...
+[Kouji]: If I think about that right now, I might escape from reality. Towards that nostalgic distant past...
 //［ランファ］：はい‥‥。
-[LANHUA]: Yes...
+[Lanhua]: Yes...
 //［コウジ］：だから、証拠となるＭＤを再生しようとしたとき、無意識の排斥が働いたのだろう。自分自身、ＭＤから遠ざかりたかった。
-[KOUJI]: Therefore, when I played that micro disc serving as evidence, that caused an exclusion of my unconscious. I myself was taken far away from the micro disc.
+[Kouji]: Therefore, when I played that micro disc serving as evidence, that caused an exclusion of my unconscious. I myself was taken far away from the micro disc.
 //［ランファ］：でも、メモリーが物理的に破損していたというのも事実です。
-[LANHUA]: However, it's true that the memory was physically corrupted.
+[Lanhua]: However, it's true that the memory was physically corrupted.
 //［ランファ］：あのとき、沙夜香さんの撃った銃弾が、運悪くあなたのメモリーの一部を破損させてしまいました。
-[LANHUA]: At that time, Sayaka-san's bullet unfortunately corrupted part of your memory.
+[Lanhua]: At that time, Sayaka-san's bullet unfortunately corrupted part of your memory.
 //［コウジ］：そうだった。メモリーは所々が欠損していて、記憶違いが物理的に起きていたんだ‥‥。
-[KOUJI]: Yes, that's what happened. I lost parts of my memory, and memory gaps physically appeared in there...
+[Kouji]: Yes, that's what happened. I lost parts of my memory, and memory gaps physically appeared in there...
 //［ランファ］：私は、それを気付かせるために、色々な示唆をしました。あなたのメモリーへとアクセスして‥‥。
-[LANHUA]: To make you realize what happened, I made all kinds of suggestions to you. So you could access your memory...
+[Lanhua]: To make you realize what happened, I made all kinds of suggestions to you. So you could access your memory...
 //［コウジ］：あぁ‥‥自分の過去の記憶に、キミの呼びかけがシンクロしたんだろうな‥‥。
-[KOUJI]: Ahh...so in your words, you synchronized my own past memories....
+[Kouji]: Ahh...so in your words, you synchronized my own past memories....
 //［ランファ］：そうですね。
-[LANHUA]: Yes, that's it.
+[Lanhua]: Yes, that's it.
 //［コウジ］：ランファ、か‥‥。確か、異国の言葉で『舞う』という意味だそうだね。
-[KOUJI]: Lanhua...Indeed, in some foreign country's language, it means "to dance", doesn't it?
+[Kouji]: Lanhua...Indeed, in some foreign country's language, it means "to dance", doesn't it?
 //［ランファ］：はい。本当に、良かったですね‥‥。
-[LANHUA]: Yes. It's truly a blessing...
+[Lanhua]: Yes. It's truly a blessing...
 //［コウジ］：‥‥上にいるファルたちは、どうするんだい？
-[KOUJI]: ...What do you plan to do about Far and company above us?
+[Kouji]: ...What do you plan to do about Far and company above us?
 //［ランファ］：あの異星の方々は、私たち人類の文明を、単なる興味と利権のみの対象でしか、見ていなかった‥‥。
-[LANHUA]: I saw that those aliens showed only unadulterated curiosity in our human culture...
+[Lanhua]: I saw that those aliens showed only unadulterated curiosity in our human culture...
 //［コウジ］：前回と前々回の彼らには、穏便に退場願ったけどね。
-[KOUJI]: You asked the last two teams to peacefully leave, didn't you?
+[Kouji]: You asked the last two teams to peacefully leave, didn't you?
 //［ランファ］：ええ‥‥でも、ファルたちは違うような気がします。
-[LANHUA]: Yes...However, I feel that Far and company are different.
+[Lanhua]: Yes...However, I feel that Far and company are different.
 //［コウジ］：あぁ、確かに心に暖かさを感じた‥‥。
-[KOUJI]: Ah, I certainly felt a kind of warmth...
+[Kouji]: Ah, I certainly felt a kind of warmth...
 //［ランファ］：フフ、ちょっぴりやけちゃいました。
-[LANHUA]: Hehe, I heated up for just a bit.
+[Lanhua]: Hehe, I heated up for just a bit.
 //［ランファ］：でも、もう行ってしまわれました‥‥。
-[LANHUA]: However, they've already gone...
+[Lanhua]: However, they've already gone...
 //［コウジ］：また、記憶を？
-[KOUJI]: Are you talking about the consciousnesses?
+[Kouji]: Are you talking about the consciousnesses?
 //［ランファ］：はい、でも今度再びやって来たときには‥‥‥‥。
-[LANHUA]: Yes, but this time, when they came......
+[Lanhua]: Yes, but this time, when they came......
 //［コウジ］：なぁ、我々はあとどのくらい、生きていられるんだろうね。
-[KOUJI]: Hey, how much longer do we have to live here?
+[Kouji]: Hey, how much longer do we have to live here?
 //［ランファ］：生きる、というのは正確ではありません。
-[LANHUA]: To "live" isn't the right way to phrase it.
+[Lanhua]: To "live" isn't the right way to phrase it.
 //［コウジ］：そうだったな‥‥あとどのくらい、稼働していられるのかな。
-[KOUJI]: That's true...how much longer do we have to move around?
+[Kouji]: That's true...how much longer do we have to move around?
 //［ランファ］：概算ですが、超伝導原子力電池の蓄電量は、あと２千年ほどです‥‥。
-[LANHUA]: I'd estimate our superconducting nuclear powered batteries will last us about two thousand years...
+[Lanhua]: I'd estimate our superconducting nuclear powered batteries will last us about two thousand years...
 //［コウジ］：２千年か‥‥‥‥。
-[KOUJI]: Two thousand years...
+[Kouji]: Two thousand years...
 //私はもう一度、あたりを見回してみた。あと２千年、か‥‥‥‥。
 I looked around me once more. The next two thousand years, huh...
 //「長いようで、短い時間だ‥‥‥‥。」

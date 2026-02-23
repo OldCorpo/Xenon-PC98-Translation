@@ -127,11 +127,11 @@ In this unrealistic setting, an all the more unrealistic nurse just made her ent
 //大きくクリクリとした目が、また可愛らしく良く動いていた。
 Her big round eyes were moving gently in her sockets.
 //［目の前の女性］：ランファ‥‥。
-[Woman before me]: Ranphar...
+[Woman before me]: Lanhua...
 //［私］：‥‥えっ？
 [Me]: ...Huh?
 //［ランファ］：私の名前‥‥‥‥。
-[RANPHAR]: That's my name...
+[Lanhua]: That's my name...
 //［私］：そ、そうか。私は‥‥‥‥。
 [Me]: Is that so? Well, mine is...
 //そう言いかけて、はたと気付いてしまった。私の名前‥‥‥‥？
@@ -143,11 +143,11 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //［私］：私は‥‥私はいったい誰だ？
 [Me]: W-Who in the world am I?
 //［ランファ］：‥‥‥‥‥‥。
-[RANPHAR]:......
+[Lanhua]:......
 //［私］：教えてくれないか？　私はいったい‥‥‥‥。
 [Me]: Could you please tell me? Who I am...
 //［私］：あっ、待ってくれ！‥‥ランファ！？
-[Me]: Hey! Wait!... Ranphar!?
+[Me]: Hey! Wait!... Lanhua!?
 //［私］：（冗談じゃない、ここでまた１人にさせられてたまるか‥‥。）
 //[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
 //気が少し動転していたのかもしれない‥‥。
@@ -155,7 +155,7 @@ Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
 Before I realized, I had arrived in an utterly frigid place. I could see my breath\nbillowing out like smoke, and I was shaking like a leaf in the wind.
 //ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
-It seemed that I ended up in an unusual place while I was roaming the area,\nlooking for this girl called Ranphar.
+It seemed that I ended up in an unusual place while I was roaming the area,\nlooking for this girl called Lanhua.
 //0040
 0040
 //xenon_13
