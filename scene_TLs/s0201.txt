@@ -27,13 +27,13 @@ ra&to03c
 //［トレイシー］：コウジ様、お気をつけ下さい。
 [Tracy]: Kouji-sama, please be careful.
 //［ランファ］：コウジ様ぁ、ランファの為に、きっと帰ってきて下さぁい。
-[LANHUA]: Kouji-samaa, for my sake, please definitely come baack.
+[Lanhua]: Kouji-samaa, for my sake, please definitely come baack.
 //［コウジ］：うむ、このジェネレータは私が大幅に改良したものだからな。理論上は完璧だ。
 [Kouji]: Indeed, I made a great improvement to this generator. It's theoretically complete.
 //［トレイシー］：はい、そう信じています。
 [Tracy]: Yes, I believe so.
 //［ランファ］：私も‥‥私もですぅ。
-[LANHUA]: I...I think so, too.
+[Lanhua]: I...I think so, too.
 //私は、あまり上等とは言えないクッションの上に仰向けになりながら、２人の心配そうな顔を交互に見た。
 As I laid down upon the shabby cushion, the two exchanged worried looks.
 //小さな眼鏡を掛けてる金髪の女は、トレイシーという。私の秘書兼、参謀でかつ奴隷の女だ。
@@ -49,7 +49,7 @@ The twenty or thirty thousand synapses in her brain are frequently burned out, s
 //［コウジ］：大宇宙海賊御用達霊子エナジー増幅ジェネレータの準備は万端か？
 [Kouji]: Did you finish preparing the Universal Pirate Company Reiko Energy Amplifying Generator?
 //［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。
-[LANHUA]: Yes, the numerical data you spoke of has already been input.
+[Lanhua]: Yes, the numerical data you spoke of has already been input.
 //［トレイシー］：後は、ファルネリアさんのシンクロを待つだけですわ。
 [Tracy]: All we have to do now is wait for Farnelia's synchronization.
 //［コウジ］：うむ。
@@ -81,7 +81,7 @@ Being a brawny galactic pirate and a gifted, talented genius, I improved upon th
 //［トレイシー］：頼もしい限りですわ。
 [Tracy]: You can depend on us.
 //［ランファ］：がんばって下さいね、コウジ様ぁ。
-[LANHUA]: Please give it your all, Kouji-samaa.
+[Lanhua]: Please give it your all, Kouji-samaa.
 //［コウジ］：では、行ってくることにしよう。
 [Kouji]: Well then, let's get going.
 //私はそう言うと、ゆっくりと目をつぶった。まわりで響いていた重々しい稼働音が、少しずつ小さくなっていく。
