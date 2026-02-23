@@ -3,292 +3,292 @@ s0303a
 //　◆ トレイシーって女性だけど、いったいどういう人？
 ◆ Just what kind of person is that Tracy woman?
 //［ランファ］：私ですかぁ？
-[RANPHAR]: Do you mean me?
+[Lanhua]: Do you mean me?
 //［宏治］：そう、きみ。
 [Kouji]: Yes, you.
 //［ランファ］：しろみ！　なんちってぇ～。
-[RANPHAR]: 
+[Lanhua]: 
 //［ランファ］：コウジ様ぁ‥‥ウルウル。
-[RANPHAR]: Kouji-sama...*sob sob*
+[Lanhua]: Kouji-sama...*sob sob*
 //［宏治］：ど、どうしたの、急に涙をためて‥‥。
 [Kouji]: You're crying, all of a sudden...Wh-what's come over you? 
 //［ランファ］：本当にランファのことを、忘れてしまったんですか？
-[RANPHAR]: Did you really forget about Ranphar?
+[Lanhua]: Did you really forget about Lanhua?
 //［宏治］：い、いやなんというか、記憶が混乱していて‥‥いや記憶は混乱してないんだけど、状況に混乱していてね。
 [Kouji]: Th-that's putting it too harshly, my memories have been muddled up...well, not my memories, more like the entire situation.
 //［ランファ］：よくわからないですけど、ランファが誰かってことですね？
-[RANPHAR]: I don't understand what you mean, but do you mean who is Ranphar?
+[Lanhua]: I don't understand what you mean, but do you mean who is Lanhua?
 //［宏治］：そ、そう。（さっきから、そう言ってるんだけど‥‥。）
 [Kouji]: Yes, that's it. (I said that just earlier...)
 //［ランファ］：私はぁ‥‥。
-[RANPHAR]: I'm...
+[Lanhua]: I'm...
 //［ランファ］：コウジ様の心の恋人、なんですぅ！
-[RANPHAR]: Kouji-sama's romantic partner, of course!
+[Lanhua]: Kouji-sama's romantic partner, of course!
 //［ランファ］：きゃっ、今のは冗談ですからね。本当は、コウジ様をお慕いするランファなんですぅ。
-[RANPHAR]: Kya-, I was just joking. In truth, I only pine for Kouji-sama.
+[Lanhua]: Kya-, I was just joking. In truth, I only pine for Kouji-sama.
 //［ランファ］：ここは、コウジ様と愛を育むための、ベッドの上なんですぅ。
-[RANPHAR]: This is the bed where I nurture love with Kouji-sama.
+[Lanhua]: This is the bed where I nurture love with Kouji-sama.
 //［宏治］：あ、あのね‥‥場所だよ、もっと大きな意味での場所。
 [Kouji]: Uh, um...I didn't mean this exact location, I meant this overall place.
 //［ランファ］：ここは、《クワドラ》です。
-[RANPHAR]: This is the "Kuwadora".
+[Lanhua]: This is the "Kuwadora".
 //［宏治］：くわ‥‥えっ？
 [Kouji]: Kuwa...Huh?
 //［ランファ］：ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[RANPHAR]: It's the fruit of Ranphar and Kouji-sama's love.
+[Lanhua]: It's the fruit of Lanhua and Kouji-sama's love.
 //［ランファ］：ですから、ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[RANPHAR]: Well, it's the fruit of Ranphar and Kouji-sama's love.
+[Lanhua]: Well, it's the fruit of Lanhua and Kouji-sama's love.
 //［宏治］：あっそう。
 [Kouji]: Ah, is that so?
 //［ランファ］：はい！
-[RANPHAR]: Yes!
+[Lanhua]: Yes!
 //［宏治］：トレイシーって女性だけど、いったいどういう人？
 [Kouji]: Just what kind of person is that Tracy woman?
 //［ランファ］：トレイシーですか？
-[RANPHAR]: Tracy, huh?
+[Lanhua]: Tracy, huh?
 //［宏治］：そう、あの眼鏡の美人。
 [Kouji]: Yes, that bespectacled beauty.
 //［ランファ］：コウジ様っ！
-[RANPHAR]: Kouji-sama!
+[Lanhua]: Kouji-sama!
 //［ランファ］：いま、何て言いましたか！？
-[RANPHAR]: Just now, what did you say?!
+[Lanhua]: Just now, what did you say?!
 //［宏治］：こ、恐い声出して、どうしたんだよ。
 [Kouji]: W-why are you shouting all of a sudden?
 //［宏治］：な、なんでしょうか。
 [Kouji]: What's the matter?
 //［ランファ］：いま、何て言ったか、言って下さい！
-[RANPHAR]: Please repeat what you said just now!
+[Lanhua]: Please repeat what you said just now!
 //［宏治］：い、いま？
 [Kouji]: N-now?
 //［ランファ］：はいっ！
-[RANPHAR]: Yes!
+[Lanhua]: Yes!
 //［宏治］：『いま』って言った気がするぞ。
 [Kouji]: Did "What you said just now" pique your interest?
 //［ランファ］：違いますぅ、トレイシーのことです！
-[RANPHAR]: No, no, what you said about Tracy!
+[Lanhua]: No, no, what you said about Tracy!
 //［宏治］：あぁ、あの眼鏡の美人が？
 [Kouji]: Oh, the bespectacled beauty?
 //［ランファ］：ほらぁ！！
-[RANPHAR]: THAT'S EXACTLY IT!!
+[Lanhua]: THAT'S EXACTLY IT!!
 //［ランファ］：もうプリプリですぅ。ランファにも、ランファにも言って下さい。
-[RANPHAR]: Now you've made me mad. Call me that, too, please.
+[Lanhua]: Now you've made me mad. Call me that, too, please.
 //［宏治］：も、もしかして、美人？
 [Kouji]: Y-you mean, beauty?
 //［ランファ］：ずるいですぅ。
-[RANPHAR]: You're so mean.
+[Lanhua]: You're so mean.
 //［宏治］：き、君は美人と言うよりは、可愛らしいって感じだよね。
 [Kouji]: B-but, more than "beautiful", "cute" describes you better.
 //［ランファ］：きゃっ、ホントですか！？
-[RANPHAR]: W-Wait, ARE YOU SERIOUS?!
+[Lanhua]: W-Wait, ARE YOU SERIOUS?!
 //［ランファ］：あン、コウジ様ぁ‥‥。
-[RANPHAR]: Hmph, Kouji-sama....
+[Lanhua]: Hmph, Kouji-sama....
 //［宏治］：あ、あのさぁ、トレイシーって人のことだけど‥‥。
 [Kouji]: A-as I was saying, about that Tracy woman...
 //［ランファ］：トレイシーですか？　もう、ランファの若さと可愛さに嫉妬ばかりしてる、行かず後家なんですぅ。
-[RANPHAR]: Tracy? 
+[Lanhua]: Tracy? 
 //［宏治］：‥‥で、彼女、何をしてるんだい？
 [Kouji]: ...so, did she do something in the past?
 //［ランファ］：そうですねぇ、食っちゃ寝ですか？
-[RANPHAR]: Oh, you mean eating and sleeping?
+[Lanhua]: Oh, you mean eating and sleeping?
 //［宏治］：なんだよ、それは。真面目に言ってよ。
 [Kouji]: What's with that response? Give it to me straight.
 //［ランファ］：ホントですぅ。でも最近は、ジェネレータの計測をやってたみたいですけど‥‥後はよく知りません。
-[RANPHAR]: It's the truth. But more recently, she seemed to be making measurements about the generator...I don't know what she did afterwards, though.
+[Lanhua]: It's the truth. But more recently, she seemed to be making measurements about the generator...I don't know what she did afterwards, though.
 //［ランファ］：だってぇ、コウジ様はコウジ様じゃないですか。
-[RANPHAR]: Like I said, Kouji-sama isn't Kouji-sama.
+[Lanhua]: Like I said, Kouji-sama isn't Kouji-sama.
 //［宏治］：オレは君らのことを、残念ながら知らない‥‥。
 [Kouji]: I'm sorry, but I really don't know anything about you all...
 //［ランファ］：ウルウルぅ‥‥。
-[RANPHAR]: *whimpers*
+[Lanhua]: *whimpers*
 //［宏治］：じゃなくて、覚えてないけど、君らがオレのことを知ってるのはどう考えても不公平じゃないか。
 [Kouji]: Or rather, I don't remember, but you all know so much about me. However you look at it, it's not fair.
 //［ランファ］：だって、コウジ様の事を知らないなんて、ここじゃモグリですぅ。
-[RANPHAR]: But, I don't know anything about Kouji-sama. You're a stranger here.
+[Lanhua]: But, I don't know anything about Kouji-sama. You're a stranger here.
 //［宏治］：も、もぐり‥‥うーむ。
 [Kouji]: A stranger....hmmm.
 //［ランファ］：《クワドラ》ですか？
-[RANPHAR]: The "Kuwadora"?
+[Lanhua]: The "Kuwadora"?
 //［宏治］：そう。聞かない名前だけど‥‥。
 [Kouji]: Yes. I've heard the name before, but...
 //［宏治］：じゃなくて、ど忘れってやつかな、うん。
 [Kouji]: No, it's more like I've forgotten it, yeah.
 //［ランファ］：《クワドラ》は、コウジ様とランファの、愛の結晶なんですっ。
-[RANPHAR]: The "Kuwadora" is the fruit of Kouji-sama's and Ranphar's love.
+[Lanhua]: The "Kuwadora" is the fruit of Kouji-sama's and Lanhua's love.
 //［宏治］：あ、愛の結晶‥‥？
 [Kouji]: T-the fruit of our love?
 //［ランファ］：そうです！
-[RANPHAR]: Yes, it is!
+[Lanhua]: Yes, it is!
 //［宏治］：じゃ、じゃあ愛の結晶の詳細を知りたいな。
 [Kouji]: Well, um, could you tell me more about the details of this fruit of love?
 //［ランファ］：エッヘン、聞いて下さい！
-[RANPHAR]: Ahem, listen up!
+[Lanhua]: Ahem, listen up!
 //［宏治］：う、うん。
 [Kouji]: O-OK.
 //［ランファ］：《クワドラ》はカルバドル級軽機動シップを大幅にチューンナップされた、高速機動シップなのれーす！
-[RANPHAR]: The "Kuwadora" is a Calvador-class light mobile ship that's been tuned up a lot, and now it's a high-speed mobile ship!
+[Lanhua]: The "Kuwadora" is a Calvador-class light mobile ship that's been tuned up a lot, and now it's a high-speed mobile ship!
 //［ランファ］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
-[RANPHAR]: It's 52 meters long, the engine runs on ethereal photon energy, and the craft is fitted with hyperdrive capabilities...
+[Lanhua]: It's 52 meters long, the engine runs on ethereal photon energy, and the craft is fitted with hyperdrive capabilities...
 //［ランファ］：火器は、な、なんとイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など、一発よっ！
-[RANPHAR]: The armaments include 3 ion cannons and two photon blasters, which would take out a superficial cruiser in a single hit!
+[Lanhua]: The armaments include 3 ion cannons and two photon blasters, which would take out a superficial cruiser in a single hit!
 //［ランファ］：最大搭乗員数は２０人、でもフルオートのエンジンや航行機能などで、最低３人にまで削減することが可能なのっ。
-[RANPHAR]: The maximum capacity is 20 persons, but, because it has a full-auto engine and self-flight capabilities, as few as 3 people can run the whole thing.
+[Lanhua]: The maximum capacity is 20 persons, but, because it has a full-auto engine and self-flight capabilities, as few as 3 people can run the whole thing.
 //［ランファ］：その他にも、タキオンを利用したハイパーウェイブ通信機能など、あぁ、何て可愛らしい子なのかしらっ。
-[RANPHAR]: On top of all that, it has tachyon-based hyperdrive communication capabilities, and uh, there might be a number of cute girls on board.
+[Lanhua]: On top of all that, it has tachyon-based hyperdrive communication capabilities, and uh, there might be a number of cute girls on board.
 //［宏治］：ら、ランファ。
-[Kouji]: R-Ranphar.
+[Kouji]: R-Lanhua.
 //［ランファ］：はい。なんでしょうか？
-[RANPHAR]: Yes, what is it?
+[Lanhua]: Yes, what is it?
 //［ランファ］：そうですね！　《クワドラ》は冗談って思わないと、他の海賊さんたちは、やってられないと思います。
-[RANPHAR]: Of course! But the other pirates don't think of the "Kuwadora" as some joke.
+[Lanhua]: Of course! But the other pirates don't think of the "Kuwadora" as some joke.
 //［ランファ］：あたりきしゃりきの‥‥。
-[RANPHAR]: That's exactly it....
+[Lanhua]: That's exactly it....
 //［宏治］：‥‥もういい。
 [Kouji]: ...All right then.
 //［ランファ］：ジェネレータ‥‥ですか？
-[RANPHAR]: The generator...?
+[Lanhua]: The generator...?
 //［ランファ］：私も詳しいことは知らないんですけど‥‥。
-[RANPHAR]: I don't know the exact details, but...
+[Lanhua]: I don't know the exact details, but...
 //［ランファ］：確かコウジ様、大宇宙海賊御用達霊子エナジー増幅ジェネレータって、言ってました。
-[RANPHAR]: Kouji-sama, you've definitely called it the Galactic Pirate Company Reiko energy amplifying generator.
+[Lanhua]: Kouji-sama, you've definitely called it the Galactic Pirate Company Reiko energy amplifying generator.
 //［ランファ］：きゃぁっ！
-[RANPHAR]: Kya-!
+[Lanhua]: Kya-!
 //［宏治］：ど、どうした！？
 [Kouji]: Wh-what happened?
 //［ランファ］：舌を噛まずに、初めてキチンと言えたんですぅ。
-[RANPHAR]: I bit my tongue, that's the first time I've said the whole name.
+[Lanhua]: I bit my tongue, that's the first time I've said the whole name.
 //［宏治］：あ、あのね‥‥それよりも、何だって？
 [Kouji]: Umm...Can you tell me anything else about it?
 //［ランファ］：ですからぁ、大宇宙かいぞきらべまとろろ‥‥。
-[RANPHAR]: You mean, about the Galactic Pilate Combany Leigo....
+[Lanhua]: You mean, about the Galactic Pilate Combany Leigo....
 //［ランファ］：イタタ‥‥舌を噛んじゃったんですぅ‥‥ウルウル。
-[RANPHAR]: Owowow...I just bit my tongue...*whimper*
+[Lanhua]: Owowow...I just bit my tongue...*whimper*
 //［宏治］：まぁいい、とにかくなんだよ、そのイカれた名前は。
 [Kouji]: Take it easy. In any case, what the hell is with that ridiculous name?
 //［ランファ］：コウジ様が、ご自身で付けたイカした名前ですよっ。
-[RANPHAR]: Kouji-sama, you came up with that ridiculous name yourself.
+[Lanhua]: Kouji-sama, you came up with that ridiculous name yourself.
 //［ランファ］：はい、そうでーす。とってもラブリィだと、思いますけどぉ。
-[RANPHAR]: Yes, that's riiiight. I think it's perfectly lovely.
+[Lanhua]: Yes, that's riiiight. I think it's perfectly lovely.
 //［ランファ］：はい。
-[RANPHAR]: Yes.
+[Lanhua]: Yes.
 //［ランファ］：うーん‥‥。
-[RANPHAR]: Mhmmm....
+[Lanhua]: Mhmmm....
 //［ランファ］：うーん、うーん‥‥。
-[RANPHAR]: Yes, yes...
+[Lanhua]: Yes, yes...
 //［ランファ］：ほげぇぇっ！
-[RANPHAR]: 
+[Lanhua]: 
 //［宏治］：な、なんだ、どうした！？
-[Kouji]: W-what's going on, RANPHAR?
+[Kouji]: W-what's going on, Lanhua?
 //［ランファ］：難しいこと考えたんで、頭が爆発しちゃいそうですぅ。
-[RANPHAR]: I thought about something difficult, and my head's exploding.
+[Lanhua]: I thought about something difficult, and my head's exploding.
 //［ランファ］：頭が痛い、痛いぃぃっ！
-[RANPHAR]: It hurts, my head hurrrts!
+[Lanhua]: It hurts, my head hurrrts!
 //［宏治］：わかったよ、じゃあオレはそれを、どうやって使用していた？
 [Kouji]: All right already, so then how should I use this?
 //［ランファ］：あ、それだったら。
-[RANPHAR]: Ah, if it's that...
+[Lanhua]: Ah, if it's that...
 //［宏治］：わかる？
 [Kouji]: Do you know?
 //［ランファ］：はい。んーとですね、確かファルネリア様を触媒にするとか、言っていました。
-[RANPHAR]: Yes. Mm, so it's like this: you said before that Farnelia-sama needs to serve as a medium.
+[Lanhua]: Yes. Mm, so it's like this: you said before that Farnelia-sama needs to serve as a medium.
 //［ランファ］：確か、触媒の女性って、言っていました。
-[RANPHAR]: You definitely used the term "woman medium".
+[Lanhua]: You definitely used the term "woman medium".
 //［ランファ］：ですからぁ、触媒って言ってましたよ。
-[RANPHAR]: As I said, she's the medium.
+[Lanhua]: As I said, she's the medium.
 //［宏治］：なんだよ、その触媒ってさ。
 [Kouji]: What do you mean by medium?
 //［ランファ］：コウジ様が言ったことですぅ、ランファは知りませんっ！
-[RANPHAR]: Kouji-sama, you said it yourself, Ranphar has no idea!
+[Lanhua]: Kouji-sama, you said it yourself, Lanhua has no idea!
 //［宏治］：むぅ‥‥あ、そういえば‥‥。
 [Kouji]: Mmm...Ah, speaking of which...
 //［ランファ］：どうしたんですか？
-[RANPHAR]: What is it?
+[Lanhua]: What is it?
 //［宏治］：いや、もしかしたら変なカプセルの中にいた、赤毛の女の子？
 [Kouji]: Um, could it be that she was the redhead girl in the strange capsule?
 //［ランファ］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
-[RANPHAR]: Yes, that's right. That capsule itself is part of the Galactic Pirate...
+[Lanhua]: Yes, that's right. That capsule itself is part of the Galactic Pirate...
 //［ランファ］：コウジ様の事ですぅ。
-[RANPHAR]: So you want to know about Kouji-sama?
+[Lanhua]: So you want to know about Kouji-sama?
 //［宏治］：オレ？
 [Kouji]: Me?
 //［ランファ］：はいっ。
-[RANPHAR]: Yes.
+[Lanhua]: Yes.
 //［宏治］：冗談だろ？
 [Kouji]: You're pulling my leg, aren't you?
 //［ランファ］：冗談は好きですけど、冗談じゃありませんっ。
-[RANPHAR]: While I like to joke around, this isn't a joke.
+[Lanhua]: While I like to joke around, this isn't a joke.
 //［ランファ］：もちろんですぅ。コウジ様こそ、私の愛しい‥‥。
-[RANPHAR]: Of course! Kouji-sama is my beloved...
+[Lanhua]: Of course! Kouji-sama is my beloved...
 //［宏治］：じゃなくて！
 [Kouji]: No, that's not what I mean!
 //［ランファ］：大宇宙海賊様ですぅ。
-[RANPHAR]: He's an esteemed galactic pirate.
+[Lanhua]: He's an esteemed galactic pirate.
 //［ランファ］：‥‥？
-[RANPHAR]: ...Huh?
+[Lanhua]: ...Huh?
 //［ランファ］：コウジ様っ、その涼子せんせって、いったい誰なんですか？
-[RANPHAR]: Kouji-sama, who on earth is that that Dr. Ryouko you're addressing?
+[Lanhua]: Kouji-sama, who on earth is that that Dr. Ryouko you're addressing?
 //［ランファ］：コウジ様ぁ、机の引き出しを開けて、何をしてるんですか？
-[RANPHAR]: Kouji-sama, what are you doing, opening that desk drawer?
+[Lanhua]: Kouji-sama, what are you doing, opening that desk drawer?
 //［ランファ］：もうプリプリですぅ、涼子って、誰なんですか！？
-[RANPHAR]: Now I'm mad, who the heck is Dr. Ryouko?!
+[Lanhua]: Now I'm mad, who the heck is Dr. Ryouko?!
 //［宏治］：涼子は涼子先生だよ、オレの知り合いの女性で‥‥。
 [Kouji]: Dr. Ryouko is Dr. Ryouko, a woman I know...
 //［ランファ］：えっ、女のヒトなんですかぁ、もうっ！
-[RANPHAR]: Eh-, a woman? Gimme a break!
+[Lanhua]: Eh-, a woman? Gimme a break!
 //［ランファ］：呼び出しですぅ、トレイシーだわ、きっと。
-[RANPHAR]: Oh, a call's coming in, probably Tracy.
+[Lanhua]: Oh, a call's coming in, probably Tracy.
 //［トレイシー］：ランファ、まだそこにいるのですか？
-[Tracy]: Ranphar, are you still there?
+[Tracy]: Lanhua, are you still there?
 //［ランファ］：なによぉ、せっかくいい時だったのにぃ‥‥。
-[RANPHAR]: Whaaat is it, at this precious time...
+[Lanhua]: Whaaat is it, at this precious time...
 //［トレイシー］：いい時って、なんですか、もう。
 [Tracy]: What do you mean, "precious time"? Come on.
 //［ランファ］：それより、なーに？　用は。
-[RANPHAR]: Forget it. What do you want?
+[Lanhua]: Forget it. What do you want?
 //［トレイシー］：あ、そうでした。コウジ様、ファルネリア様が、お目覚めになりましたが‥‥。
 [Tracy]: Ah, I have news. Kouji-sama, Farnelia-sama has awakened...
 //［トレイシー］：少々取り乱しておいでで、大変です。
 [Tracy]: She's become a little out of control, so I'm having trouble with her.
 //［ランファ］：暴れてるってこと？　麻酔薬でもうっちゃいなさいよ、お尻にプスって。
-[RANPHAR]: Is she acting violently? Just inject some tranquilizer into her butt.
+[Lanhua]: Is she acting violently? Just inject some tranquilizer into her butt.
 //［トレイシー］：動物じゃないんですから、そんなことはできません。ランファ、あなた行ってちょうだい。
-[Tracy]: She's not some animal, so I can't do that. Ranphar, please go to her.
+[Tracy]: She's not some animal, so I can't do that. Lanhua, please go to her.
 //［ランファ］：な、何よそれぇ‥‥看護はトレイシーの役目じゃない。
-[RANPHAR]: Why meee...isn't nursing *your* duty, Tracy?
+[Lanhua]: Why meee...isn't nursing *your* duty, Tracy?
 //［トレイシー］：私はジェネレータ計測結果のまとめに忙しいのです。
 [Tracy]: I'm busy taking measurements of the generator.
 //［ランファ］：プリプリよぉ、コウジ様ぁ‥‥。
-[RANPHAR]: I'm really upset, Kouji-samaa....
+[Lanhua]: I'm really upset, Kouji-samaa....
 //［トレイシー］：こら、コウジ様にお願いしてもダメです。
 [Tracy]: Now, don't go pleading to Kouji-sama.
 //［ランファ］：ねぇ、コウジ様ぁ‥‥ウルウル。
-[RANPHAR]: Hey, Kouji-samaa...*sniffle*
+[Lanhua]: Hey, Kouji-samaa...*sniffle*
 //［宏治］：行ってきなよ、ランファ。
-[Kouji]: Go, Ranphar.
+[Kouji]: Go, Lanhua.
 //［ランファ］：えぇぇ～！！
-[RANPHAR]: WHAAAAT~~!!
+[Lanhua]: WHAAAAT~~!!
 //［トレイシー］：さっ、コウジ様もああおっしゃってる訳だし。
 [Tracy]: See, even Kouji-sama said to do it.
 //［ランファ］：もうプリプリよぉ。
-[RANPHAR]: Hmph, I'm still upset.
+[Lanhua]: Hmph, I'm still upset.
 //［トレイシー］：ファルネリア様は、ＶＩＰルームにおいでです。よろしく頼むわ。
 [Tracy]: Farnelia-sama is in the VIP room. I'm leaving her to you.
 //［ランファ］：しょうがないわねっ、じゃあ今から行く。
-[RANPHAR]: Fine, then. I'll go now.
+[Lanhua]: Fine, then. I'll go now.
 //［トレイシー］：よろしくね‥‥あっ、コウジ様。
 [Tracy]: Good luck...Ah, Kouji-sama.
 //［トレイシー］：私、心の底からコウジ様のことをご心配申し上げて‥‥。
 [Tracy]: From the bottom of my heart, I've been worried about you, Kouji-sama...
 //［ランファ］：ハイハイ、雑音は消さないとねっ。
-[RANPHAR]: All right, I've got to go calm down that commotion.
+[Lanhua]: All right, I've got to go calm down that commotion.
 //［ランファ］：何かあったら、ベッド傍らのコンパネを利用して下さい。もう飛んでやって来ますからっ！
-[RANPHAR]: If you need anything, please use that control panel by the bed. Gotta fly now!
+[Lanhua]: If you need anything, please use that control panel by the bed. Gotta fly now!
 //［ランファ］：じゃ、また来ますねっ。
-[RANPHAR]: Well, I'll be back~
+[Lanhua]: Well, I'll be back~
 //ランファという女性がいなくなると、あたりは途端に静寂が訪れた。
-The woman named Ranphar disappeared, and the room became silent once more.
+The woman named Lanhua disappeared, and the room became silent once more.
 //しばらく寝てしまったんだろうか‥‥オレの足下に、キチンと畳まれた着替えが置いてあった。ランファという女性が、置いていったのかもしれない。
-I was asleep for a while, wasn't I... beneath my feet lay a neatly folded change of clothes. That Ranphar woman probably left it there.
+I was asleep for a while, wasn't I... beneath my feet lay a neatly folded change of clothes. That Lanhua woman probably left it there.
 //［ランファ］：あーん、困りますぅ。
-[RANPHAR]: Aghhh, what a pain.
+[Lanhua]: Aghhh, what a pain.
 //［ランファ］：ファルネリア様ぁ‥‥。
-[RANPHAR]: Farnelia-samaa...
+[Lanhua]: Farnelia-samaa...

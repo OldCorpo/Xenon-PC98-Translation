@@ -5,7 +5,7 @@ s0302b
 //　◆ ここはいったい、どこなんだ。
 ◆ Where in the world is this place?
 //　◆ ランファって子だけど、いったいどういう女性？
-◆ Just what kind of woman is that Ranphar girl?
+◆ Just what kind of woman is that Lanhua girl?
 //　◆ なぜオレの事を知っているんだ？
 ◆ How do you know about me?
 //　◆ 《クワドラ》とはいったい何なんだい？
@@ -55,7 +55,7 @@ s0302b
 //［宏治］：んー‥‥‥。
 [Kouji]: Nnmm...
 //［宏治］：ランファって子だけど、いったいどういう女性？
-[Kouji]: Just what kind of woman is that Ranphar girl?
+[Kouji]: Just what kind of woman is that Lanhua girl?
 //［トレイシー］：どういう女性と言われても‥‥。
 [Tracy]: How should I describe her...
 //［宏治］：トレイシーが感じる事で構わないよ。
@@ -247,33 +247,33 @@ s0302b
 //［トレイシー］：あら、呼び出しだわ。誰かしら？
 [Tracy]: Hey, you called out a name. Who is that?
 //［ランファ］：トレイシー、まだそこにいるの？
-[RANPHAR]: Tracy, you're still here?
+[Lanhua]: Tracy, you're still here?
 //［トレイシー］：ランファ、何があったのです？
-[Tracy]: Ranphar, has something happened?
+[Tracy]: Lanhua, has something happened?
 //［ランファ］：もうプリプリよぉ。コウジ様のおそばに、そんなに長く‥‥。
-[RANPHAR]: I'm frustrated already. When I'm away from Kouji-sama for that long...
+[Lanhua]: I'm frustrated already. When I'm away from Kouji-sama for that long...
 //［トレイシー］：人それぞれに、役割というものがあるのです。それより用はなんですか？
 [Tracy]: We each have our own roles. What do you want beyond that?
 //［ランファ］：ファルネリア様が、お目覚めになって‥‥。
-[RANPHAR]: Farnelia-sama has awoken...
+[Lanhua]: Farnelia-sama has awoken...
 //［トレイシー］：それで、どうしたのです？
 [Tracy]: And what about it?
 //［ランファ］：暴れ出しちゃって、手に負えなくなっちゃったの‥‥。
-[RANPHAR]: She exploded in a rage, and she's become too much for me to handle...
+[Lanhua]: She exploded in a rage, and she's become too much for me to handle...
 //［トレイシー］：何とかなさい。あなたの役目でしょう？
 [Tracy]: Please, manage her somehow. It's your duty, isn't it?
 //［ランファ］：そんなぁ、看護はむしろトレイシーの役目じゃない。私はぜんぜんダメよぉ。
-[RANPHAR]: Oh, come on, Tracy, your role isn't a nurse. I can't do it at all.
+[Lanhua]: Oh, come on, Tracy, your role isn't a nurse. I can't do it at all.
 //［トレイシー］：しょうがないわね、じゃあファルネリア様の部屋は？
 [Tracy]: Fine, then. Well, where is Farnelia's room?
 //［ランファ］：ＶＩＰルーム。
-[RANPHAR]: It's the VIP room.
+[Lanhua]: It's the VIP room.
 //［トレイシー］：わかったわ、今からいきます。
 [Tracy]: Got it. I'll go immediately.
 //［ランファ］：早くしてね。あっ、コウジ様ぁ。
-[RANPHAR]: Please hurry. Ah-, Kouji-sama.
+[Lanhua]: Please hurry. Ah-, Kouji-sama.
 //［ランファ］：ランファ、コウジ様が記憶を無くされても、ずっと愛して‥‥。
-[RANPHAR]: Ranphar has always loved Kouji-sama, even when his memories aren't there...
+[Lanhua]: Lanhua has always loved Kouji-sama, even when his memories aren't there...
 //［トレイシー］：さて、雑音は消してと。
 [Tracy]: There, that racket has gone down.
 //［トレイシー］：何かありましたら、ベッド傍らのコンパネを利用して下さい。
@@ -343,7 +343,7 @@ Just as I thought of tearing off the sheets and fleeing this harsh reality...
 //［宏治］：何だ、誰だろう‥‥。
 [Kouji]: What, who is it...?
 //［宏治］：ランファ‥‥かな？
-[Kouji]: Ranphar...is that you?
+[Kouji]: Lanhua...is that you?
 //［女］：ちょっと、早くここから出しなさい！
 [Woman]: Hold it, come out from there already!
 //［トレイシー］：困ります、お願いです。

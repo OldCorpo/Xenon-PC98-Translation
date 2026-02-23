@@ -354,6 +354,6 @@ bi06e_m
 //［ビアンカ］：えっ？
 [BIANCA]: Huh-?
 //［ファル・ランファ・トレイシー］：えぇっ～！？
-[FAR, RANPHAR, and Tracy]: Huuuuuh?!
+[FAR, Lanhua, and Tracy]: Huuuuuh?!
 //で、その後どうなったかというと‥‥‥‥。<$05>
 After that, what happened was......

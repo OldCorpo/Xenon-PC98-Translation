@@ -397,7 +397,7 @@ ko01
 //［宏治］：これが夢じゃないっていう保証が欲しいんだよ。
 [Kouji]: I want some assurance that this isn't a dream.
 //［コウジ］：ふむ、では、トレイシーとランファのどちらかを選べ。
-[Kouji]: Fine, then. Choose between Tracy and Ranphar.
+[Kouji]: Fine, then. Choose between Tracy and Lanhua.
 //［宏治］：へ？
 [Kouji]: Eh?
 //［コウジ］：選ぶのだ。

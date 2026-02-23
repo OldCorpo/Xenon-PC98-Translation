@@ -137,7 +137,7 @@ That thought crossed my mind. This place lacked any human presence.
 //以前、ここで出会った少女‥‥名はなんといったか‥‥。
 (Last time, I met a girl here...What was her name again?)
 //そうだ、確かラン‥‥ランファといったな‥‥。
-(That's right, she said it was Ran...Ranphar.)
+(That's right, she said it was Ran...Lanhua.)
 //また、会えないだろうか、彼女に‥‥‥‥。
 (I likely won't meet her again...)
 //そう考えたとき‥‥‥‥。
@@ -301,7 +301,7 @@ After some time, a pretty girl wearing glasses appeared on the screen.
 //［女の声］：そうですか‥‥。
 [Woman's voice]: Is that so...
 //［ファル］：ランファ‥‥彼女は、どうしているの？
-[Far]: And Ranphar, what is she doing?
+[Far]: And Lanhua, what is she doing?
 //［女の声］：恐らく、彼をまだ捜しているのだと思います。
 [Woman's voice]: She may still be looking for him.
 //［ファル］：フフ、早く教えてあげてね。我、救出に成功せり、ってね。

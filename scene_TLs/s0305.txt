@@ -63,7 +63,7 @@ Rumble, rumble, rumble!!<$04><$30><$05>
 //クスリとトレイシーが笑みをこぼす。
 Tracy let slip a sly smile.
 //そうなのだ、この計画ではランファをオトリとして、オレとトレイシーが潜入工作という重責を担うことになった。
-That's right, the plan was to have Ranphar be captured, and to have Tracy and me do the dirty work of slipping on board.
+That's right, the plan was to have Lanhua be captured, and to have Tracy and me do the dirty work of slipping on board.
 //いつまでも、ここでこうしている訳にはいかない。ビアンカが《クワドラ》を調べ終わった後、オレたちは彼女のシップへ潜入し、ファルを助け出さなければならないのだ。
 We didn't plan to stay here forever. Once Bianca's scan of the "Kuwadora" was done, we had to sneak aboard her ship and rescue Far.
 //［宏治］：さぁ、これからだな。
@@ -111,7 +111,7 @@ Tracy's smile didn't fade. I want to see how she looks both laughing and crying.
 //［宏治］：へっ？
 [Kouji]: Really?
 //［トレイシー］：コウジ様と彼女は、私とランファが入り込む隙がないくらい、接近していましたのよ。
-[Tracy]: She and Kouji-sama couldn't find any weak points in me and Ranphar, so they approached us.
+[Tracy]: She and Kouji-sama couldn't find any weak points in me and Lanhua, so they approached us.
 //［宏治］：へぇ、そうだったんだ。
 [Kouji]: Wow, I had no idea.
 //［トレイシー］：少し妬けましたわ、本当に。
@@ -463,13 +463,13 @@ As I looked at her breasts, I felt a bit dizzy all over again. It could be that 
 //［宏治］：しょうがない、続きは後だ。
 [Kouji]: Oh well, I'll continue with her afterwards.
 //そのとき、遠くの方からランファの声が聞こえてきた。
-Just then, from far away, I heard Ranphar's voice.
+Just then, from far away, I heard Lanhua's voice.
 //［ランファ］：困りますぅ‥‥そんなに乱暴に‥‥あっ、ダメっ！
-[RANPHAR]: Oh no...if you're being so reckless...Ah, NO!
+[Lanhua]: Oh no...if you're being so reckless...Ah, NO!
 //ランファの悲痛な声を聞き、少しコブシを握りしめる。ランファ、待っていろ、すぐに助けてやるからな‥‥。
-At Ranphar's sorrowful cries, I clenched my fists. Wait for us, Ranphar, we'll come save you soon...
+At Lanhua's sorrowful cries, I clenched my fists. Wait for us, Lanhua, we'll come save you soon...
 //［ランファ］：ビアンカさん、そんな乱暴にコンパネを叩かないで下さいっ。壊れたら、可哀想ですぅ‥‥。
-[RANPHAR]: Miss Bianca, please don't punch the control panel so violently. It'll be a shame if you break it...
+[Lanhua]: Miss Bianca, please don't punch the control panel so violently. It'll be a shame if you break it...
 //［宏治］：じゃ、行くか。
 [Kouji]: Let's go.
 //トレイシーは元通りの笑顔に戻ると、ニコっと微笑む。オレはまたしても、ムラムラとくる情熱を、頭の隅へ追いやる労力に勤しむことになった。
@@ -653,7 +653,7 @@ Splash.
 //［トレイシー］：コウジ様。
 [Tracy]: Kouji-sama.
 //［ランファ］：鼻血が出てますぅ‥‥フキフキ。
-[RANPHAR]: Your nose is bleeding...here, use this handkerchief.
+[Lanhua]: Your nose is bleeding...here, use this handkerchief.
 //［トレイシー］：目が血走ってますわ‥‥。
 [Tracy]: Your eyes are bleeding too...
 //［宏治］：す、凄すぎる‥‥。
@@ -661,11 +661,11 @@ Splash.
 //［トレイシー］：このままずっと、見ているのですか？　コウジ様。
 [Tracy]: Have you been looking like that this whole time? Kouji-sama.
 //［ランファ］：そうですぅ、早くファルネリア様を助けに行きましょう。
-[RANPHAR]: That's right, let's go save Farnelia-sama soon.
+[Lanhua]: That's right, let's go save Farnelia-sama soon.
 //傍らで、トレイシーとランファがか細い声で耳打ちする。
-Beside me, Tracy and Ranphar were whispering to each other.
+Beside me, Tracy and Lanhua were whispering to each other.
 //首尾良くランファを助け出したオレたちは、ビアンカの私室にまでやってきていた。
-Thanks to Ranphar's thorough assistance, we came to Bianca's private room.
+Thanks to Lanhua's thorough assistance, we came to Bianca's private room.
 //しかし不用心なシップである。クルーは彼女の１人、他は全てオートメーションというから、誰にも出会わなかった訳だ。
 This was a surprisingly unsecured ship. Besides Bianca as the sole crew member, everything else was automated, so we didn't run into anyone else.
 //［宏治］：そうだな、たっぷり堪能させてもらったし‥‥。
@@ -673,15 +673,15 @@ This was a surprisingly unsecured ship. Besides Bianca as the sole crew member, 
 //［トレイシー］：ウフフ‥‥私がいますわよ、コウジ様。
 [Tracy]: Ehehe...I'm right here, Kouji-sama.
 //［ランファ］：そんなに見たいなら、ランファのを見せてあげますぅ。
-[RANPHAR]: If you want to see it that badly, I can show you mine.
+[Lanhua]: If you want to see it that badly, I can show you mine.
 //［トレイシー］：ムッ。
 [Tracy]: Hm.
 //［ランファ］：なによっ、トレイシー。
-[RANPHAR]: Whaaat, Tracy?
+[Lanhua]: Whaaat, Tracy?
 //［宏治］：ちょっと、やめてくれ、こんなトコで。
 [Kouji]: Hey, cut that out, this isn't the place for that.
 //［トレイシー・ランファ］：はーい。
-[Tracy and RANPHAR]: Okaaaay.
+[Tracy and Lanhua]: Okaaaay.
 //［宏治］：（もうちょっとかな‥‥。）
 [Kouji]: (Just a little longer...)
 //［トレイシー］：コウジ様、さっきから何を気にされているのですか？
@@ -689,8 +689,8 @@ This was a surprisingly unsecured ship. Besides Bianca as the sole crew member, 
 //［宏治］：ん？　いやその、時間がね‥‥。
 [Kouji]: Hm? Oh, um, there's no time...
 //［ランファ］：おトイレですかぁ？
-[RANPHAR]: Do you have to go to the bathroom?
+[Lanhua]: Do you have to go to the bathroom?
 //［宏治］：何でそうなるの。よし、そろそろ行くぞ。
 [Kouji]: No, it's not like that. All right, it's time to go.
 //［トレイシー・ランファ］：はい！
-[Tracy and RANPHAR]: OK!
+[Tracy and Lanhua]: OK!

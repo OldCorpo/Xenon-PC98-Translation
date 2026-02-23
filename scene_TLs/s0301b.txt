@@ -271,7 +271,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［左の女］：ご気分が、すぐれないのですか？
 [Woman on the left]: Could it be, you're not feeling well?
 //［右の女］：ハイ！　ランファが何でも聞いちゃいますぅ。
-[Woman on the right]: Yes! Ranphar heard everything.
+[Woman on the right]: Yes! Lanhua heard everything.
 //［宏治］：しゃ、しゃべっていい？
 [Kouji]: Well, is it ok to talk?
 //［左の女］：もちろんですわ。
@@ -279,7 +279,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［宏治］：‥‥さっきから、オレのことを宏治、宏治って呼んでるけど、オレは君たちのこと、何も知らないんだけど‥‥。
 [Kouji]: ...Just earlier, you were calling me "Kouji, Kouji", but I don't know anything about you two...
 //［右の女］：えぇっ！　ランファの事を、お忘れになったんですかぁ！？
-[Woman on the right]: Ehhh-! Did you forget about Ranphar?!
+[Woman on the right]: Ehhh-! Did you forget about Lanhua?!
 //［左の女］：私の‥‥私の事もお忘れですか？
 [Woman on the left]: D-did you forget about me too?
 //［宏治］：‥‥誰だっけ？
@@ -287,45 +287,45 @@ I slowly and gently opened my tightly shut eyelids....
 //［左の女］：トレイシーです。私はコウジ様の最も大切な‥‥‥‥ポッ。
 [Woman on the left]: I'm Tracy. I'm Kouji-sama's most important...*blush*.
 //［右の女］：ランファだって、ランファだってコウジ様の、大切で掛け替えのない女性なんだからぁ。
-[Woman on the right]: RANPHAR too, RANPHAR is Kouji-sama's important, irreplaceable woman.
+[Woman on the right]: Lanhua too, Lanhua is Kouji-sama's important, irreplaceable woman.
 //［トレイシー］：ランファ、それは言い過ぎです。私が１番の‥‥。
-[Tracy]: RANPHAR, that's talking yourself up too much. I'm his number one....
+[Tracy]: Lanhua, that's talking yourself up too much. I'm his number one....
 //［ランファ］：ランファだモン。
-[RANPHAR]: No, it's RANPHAR.
+[Lanhua]: No, it's Lanhua.
 //［宏治］：あ、あのさ‥‥。
 [Kouji]: U-ummm....
 //［トレイシー・ランファ］：はい、なんでしょう？
-[Tracy and RANPHAR]: Yes, what is it?
+[Tracy and Lanhua]: Yes, what is it?
 //［宏治］：と、とりあえず、状況が見えないから説明が欲しい。
 [Kouji]: I-In any case, I can't comprehend the situation right now, so please explain it to me.
 //［トレイシー］：では私が。
 [Tracy]: Then, I'll do it.
 //［ランファ］：ううん、ランファが！
-[RANPHAR]: Mm-mm, RANPHAR will!
+[Lanhua]: Mm-mm, Lanhua will!
 //［宏治］：んー‥‥‥‥。
 [Kouji]: Hmmm....
 //　◆ トレイシー、説明してくれ。
 ◆ Tracy, explain.
 //　◆ ランファ、君が説明するんだ。
-◆ Ranphar, you explain.
+◆ Lanhua, you explain.
 //［宏治］：トレイシー、説明してくれ。
 [Kouji]: Tracy, explain.
 //［トレイシー］：はい、わかりました。
 [Tracy]: Yes, understood.
 //［ランファ］：えぇ～っ。
-[RANPHAR]: Ehh~-?
+[Lanhua]: Ehh~-?
 //［トレイシー］：ランファ、エンジンのチェックや機器類のテストなど、あなたにはまだやる事が沢山あるでしょう？
-[Tracy]: Ranphar, you still have quite a few engine checks and equipment tests to conduct, don't you?
+[Tracy]: Lanhua, you still have quite a few engine checks and equipment tests to conduct, don't you?
 //［ランファ］：はーい。じゃあ何かあったら、呼んで下さい。
-[RANPHAR]: Yeees. Well, then, if anything happens, please call me.
+[Lanhua]: Yeees. Well, then, if anything happens, please call me.
 //［トレイシー］：さっ、ほら。
 [Tracy]: Now, go.
 //［ランファ］：コウジ様、何かあったら、呼んで下さいね。
-[RANPHAR]: Kouji-sama, if anything happens, please call me, OK?
+[Lanhua]: Kouji-sama, if anything happens, please call me, OK?
 //［宏治］：あ、ああ‥‥わかった。
 [Kouji]: Ah, uhhh...I got it.
 //［ランファ］：フンフン‥‥。
-[RANPHAR]: Huhu...
+[Lanhua]: Huhu...
 //［トレイシー］：困った子ね‥‥まったく。
 [Tracy]: What a troublesome child...truly.
 //［トレイシー］：コウジ様、ご気分はいかがですか？
@@ -355,42 +355,42 @@ I slowly and gently opened my tightly shut eyelids....
 //s0301a
 s0301a
 //［宏治］：ランファ、君が説明するんだ。
-[Kouji]: Ranphar, you explain.
+[Kouji]: Lanhua, you explain.
 //［ランファ］：はい、わかりました！
-[RANPHAR]: Yes, understood!
+[Lanhua]: Yes, understood!
 //［トレイシー］：コウジ様、そういうことは私が‥‥。
 [Tracy]: Kouji-sama, in that case, what should I...
 //［ランファ］：トレイシー、あなた、まだエンコーダの計測結果をまとめていないでしょっ！
-[RANPHAR]: Tracy, you still haven't summarized the measurement results of the encoder, have you?!
+[Lanhua]: Tracy, you still haven't summarized the measurement results of the encoder, have you?!
 //［トレイシー］：あっ、そういえば‥‥。
 [Tracy]: Ah-, now that you mention it...
 //［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
-[RANPHAR]: Huhum~, Kouji-sama will be mad if you don't finish.
+[Lanhua]: Huhum~, Kouji-sama will be mad if you don't finish.
 //［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
 [Tracy]: Ahhhh, wh-what should I do....
 //［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。
 [Kouji]: Y-you know...if you're busy, I don't mind.
 //［ランファ］：ランファが面倒見てあげますねっ。
-[RANPHAR]: See, I look after you, don't I?
+[Lanhua]: See, I look after you, don't I?
 //［トレイシー］：しょうがないわ‥‥じゃあコウジ様、お仕事を終えたら、すぐに参ります。
 [Tracy]: I guess there's no way around it...Well, Kouji-sama, I'll return as soon as I'm done.
 //［ランファ］：ほらっ、行った行った！
-[RANPHAR]: Now, go, go!
+[Lanhua]: Now, go, go!
 //［トレイシー］：んもう‥‥。
 [Tracy]: Mm, cut it out....
 //［ランファ］：困るわよねっ、自分の仕事そっちのけで‥‥プンプン。
-[RANPHAR]: How bothersome your own work must be...hehe.
+[Lanhua]: How bothersome your own work must be...hehe.
 //［ランファ］：あっ、コウジ様ぁ、気分はどうですか？
-[RANPHAR]: Ah-, Kouji-sama, how do you feel?
+[Lanhua]: Ah-, Kouji-sama, how do you feel?
 //［ランファ］：そんなぁ、できませんっ。
-[RANPHAR]: Come on, I can't do that.
+[Lanhua]: Come on, I can't do that.
 //［宏治］：ふぅ‥‥まぁいい。とにかく、身体を起こしてくれない？
 [Kouji]: Huu...well, fine. In any case, could you please get up?
 //［ランファ］：はーい、わかりましたっ。
-[RANPHAR]: Ye~s, I understand.
+[Lanhua]: Ye~s, I understand.
 //［ランファ］：ウフッ、コウジ様っ。
-[RANPHAR]: Oof, Kouji-sama.
+[Lanhua]: Oof, Kouji-sama.
 //［宏治］：んー、じゃあ、とりあえず話を聞きたいんだけど。
 [Kouji]: Mm-, well, anyway, I have something to ask you. 
 //［ランファ］：はい、何を話したらいいんでしょうか。
-[RANPHAR]: Yes, ask away.
+[Lanhua]: Yes, ask away.

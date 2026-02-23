@@ -103,7 +103,7 @@ It was only an expression of gratitude, but her conduct suggested things I didn'
 //　◆ ファルネリアとかいう女性は‥‥。
 ◆ About that Farnelia woman....
 //　◆ ランファは、いまどこにいるのかな‥‥。
-◆ Where could Ranphar be....
+◆ Where could Lanhua be....
 //　◆ んじゃ、そういうことで。
 ◆ Mm, well, let's wrap this up.
 //［宏治］：そ、そうだトレイシー。ファルネリアとかいう女性は、どうなったんだい？
@@ -123,9 +123,9 @@ It was only an expression of gratitude, but her conduct suggested things I didn'
 //［宏治］：（後で行ってみるのも、手だな‥‥。）
 [Kouji]: (I gotta find my way over there afterward...)
 //［宏治］：ランファは、いまどこにいるのかな‥‥。
-[Kouji]: Where could Ranphar be...?
+[Kouji]: Where could Lanhua be...?
 //［トレイシー］：ランファ‥‥何故でしょうか？
-[Tracy]: Ranphar...why would you need to know that?
+[Tracy]: Lanhua...why would you need to know that?
 //トレイシーの表情が、やや翳る。
 Tracy's expression darkened a bit.
 //［宏治］：ほら、君らのことを把握しておくのは、多分オレの役目みたいだし‥‥。
@@ -201,11 +201,11 @@ Just as I thought I'd reached the bottom, I was slightly relieved. I'd had a dre
 //オレが、音のした方へ行ってみると‥‥‥‥。
 As I went in the direction of the sound...
 //［宏治］：（あれは‥‥ランファ？　何をしているんだろう‥‥？）
-[Kouji]: (Is that...Ranphar? What is she doing here?)
+[Kouji]: (Is that...Lanhua? What is she doing here?)
 //別に隠れる必要も感じなかったので、オレはごく普通に声を掛けてみた。
 Since I didn't feel the need to conceal myself, I called out quite naturally.
 //［宏治］：ランファ。
-[Kouji]: Ranphar.
+[Kouji]: Lanhua.
 //ra06c
 ra06c
 //xenon_26
@@ -213,107 +213,107 @@ xenon_26
 //ra06c_m
 ra06c_m
 //［ランファ］：あっ、コウジ様！
-[RANPHAR]: Ah-, Kouji-sama!
+[Lanhua]: Ah-, Kouji-sama!
 //ランファはオレに気付くと、手を止めてすぐに顔を破顔させる。彼女は、嬉しさを全身で表現する女の子だった。
-As Ranphar noticed me, she stopped working and broke into a broad smile. She exuded happiness from her entire body.
+As Lanhua noticed me, she stopped working and broke into a broad smile. She exuded happiness from her entire body.
 //［ランファ］：コウジ様、ランファに会いに来て下さったんですねっ。
-[RANPHAR]: Kouji-sama, did you came all this way just to see me?
+[Lanhua]: Kouji-sama, did you came all this way just to see me?
 //［宏治］：えっ、あぁ、まぁそうなるのかな。
 [Kouji]: Eh-? Ahh, well, yes, it does seem that way.
 //［ランファ］：あーン、コウジ様のおそばに行きたいのに‥‥んもう！　このっ、このっ！
-[RANPHAR]: Ahm, since Kouji-sama wanted to come here...mm, come on! Take this, and this!
+[Lanhua]: Ahm, since Kouji-sama wanted to come here...mm, come on! Take this, and this!
 //ランファは、手にした工具類で、手先の配線を乱暴に取り付けている。エンジンのメンテナンスか何かを、している最中なのかもしれない。
-Using the tool in her hand, Ranphar roughly installed the wiring beside her. She was probably right in the middle of engine maintenance.
+Using the tool in her hand, Lanhua roughly installed the wiring beside her. She was probably right in the middle of engine maintenance.
 //あんなに乱暴に扱って大丈夫なのかなぁ‥‥。
 I wonder if it's OK to handle that so roughly?
 //［宏治］：‥‥また、後で来るよ。忙しそうだし。
 [Kouji]: ...well, I'll come back later. It seems you're busy now.
 //［ランファ］：そ、そんなことありません‥‥でもあと、これとこれを取り付けないと、エンジンが爆発しちゃうから‥‥。
-[RANPHAR]: Th-that's not the case...but if I don't install these things, later on, the engine will explode...
+[Lanhua]: Th-that's not the case...but if I don't install these things, later on, the engine will explode...
 //［宏治］：なっ‥‥ちょっと、ゆ、ゆっくりやって構わないよ。うん。
 [Kouji]: Wh-...Well, it won't hurt to install it a little more carefully. Yeah.
 //［ランファ］：もうすぐ終わりますから‥‥これと、これと‥‥んしょっ。
-[RANPHAR]: I'll be done soon...Now this, and this...Mm, there.
+[Lanhua]: I'll be done soon...Now this, and this...Mm, there.
 //［ランファ］：ところでコウジ様、どこから来られたんですか？
-[RANPHAR]: By the way, Kouji-sama, where did you just come from?
+[Lanhua]: By the way, Kouji-sama, where did you just come from?
 //［ランファ］：そちらの方には、何もないはずですけど‥‥。
-[RANPHAR]: Over that way, there's probably nothing there, but...
+[Lanhua]: Over that way, there's probably nothing there, but...
 //［宏治］：ハシゴがあったから、それで。
 [Kouji]: Well, there was a ladder over there, so I used it.
 //［ランファ］：ハシゴ？　緊急用のを降りてらしたんですか！？
-[RANPHAR]: A ladder? Did you climb down the emergency ladder to get here?!
+[Lanhua]: A ladder? Did you climb down the emergency ladder to get here?!
 //［宏治］：い、いけなかったかな。
 [Kouji]: Sh-should I not have done that?
 //［ランファ］：いいえ、でも珍しいですね。コウジ様は、いつもリフトを利用なさるのに‥‥。
-[RANPHAR]: It's fine, but it's a little odd. Kouji-sama, you always take the lift...
+[Lanhua]: It's fine, but it's a little odd. Kouji-sama, you always take the lift...
 //［宏治］：リフト？
 [Kouji]: The lift?
 //［ランファ］：ええ、それだとアッという間に、上へ着きますよ。
-[RANPHAR]: Yes, it can take you here before you can even say, "Ah-!"
+[Lanhua]: Yes, it can take you here before you can even say, "Ah-!"
 //［宏治］：（骨折り損の何とやらってヤツかよ‥‥。）
 [Kouji]: (It seems I'd break a bone that way...)
 //［ランファ］：ふぅ‥‥終わりました！　とりあえず、上へ参りましょう！
-[RANPHAR]: Hooo...I'm all done! Now, let's go back up!
+[Lanhua]: Hooo...I'm all done! Now, let's go back up!
 //［宏治］：うん‥‥。
 [Kouji]: Yeah...
 //［宏治］：その、大丈夫なの。
 [Kouji]: Is that OK?
 //［ランファ］：何が、でしょうか。
-[RANPHAR]: What do you mean?
+[Lanhua]: What do you mean?
 //［宏治］：爆発するとか、言っていたじゃないか。
 [Kouji]: You said something about it exploding, didn't you?
 //［ランファ］：もちろん、抜かりはありません。
-[RANPHAR]: Of course, you heard me right.
+[Lanhua]: Of course, you heard me right.
 //［宏治］：（本当に大丈夫かなぁ‥‥。）
 [Kouji]: (Will it really be OK...?)
 //［ランファ］：エヘ、コウジ様っ。
-[RANPHAR]: Ehe, Kouji-sama.
+[Lanhua]: Ehe, Kouji-sama.
 //ランファは人差し指の腹で、自分の鼻の下を軽く２、３度こすった。顔には屈託のない笑みが浮かんでいる。
-Ranphar rubbed the middle of her index finger under her nose two or three times. A carefree smile had formed on her face. 
+Lanhua rubbed the middle of her index finger under her nose two or three times. A carefree smile had formed on her face. 
 //身体のそこかしこが油で汚れていて、おまけに油の付いた手で、顔をこするものだから、顔も少し赤茶けていた。
 She was already stained with oil everywhere, so as she rubbed her oily hand across her face, it naturally became a little discolored.
 //そうだ確か、尻のポケットに‥‥‥‥。
 That's right, my back pocket should have...
 //オレはフワリとした繊維のハンカチをポケットから取り出すと、ランファを手招きした。
-I gently reached into my pocket and pulled out a cloth handkerchief, and beckoned to Ranphar.
+I gently reached into my pocket and pulled out a cloth handkerchief, and beckoned to Lanhua.
 //［宏治］：ランファ、おいで。
-[Kouji]: Over here, Ranphar.
+[Kouji]: Over here, Lanhua.
 //［ランファ］：はい？
-[RANPHAR]: Yes?
+[Lanhua]: Yes?
 //［宏治］：いいから、来るの。
 [Kouji]: Don't be shy, just come here.
 //［ランファ］：何ですか、コウジさ‥‥あっ。
-[RANPHAR]: What's going on, Kouji-sa-...ah-.
+[Lanhua]: What's going on, Kouji-sa-...ah-.
 //ふきふき。
 *wipe wipe*
 //［ランファ］：あン‥‥。
-[RANPHAR]: Ahm...
+[Lanhua]: Ahm...
 //［宏治］：よーし、綺麗になってきたぞ。
 [Kouji]: Gooood, I've cleaned you up.
 //［宏治］：女の子がこんなに顔を汚しちゃ、ダメだぜ。
 [Kouji]: It's no good for girls to get their faces so dirty.
 //［ランファ］：こ、コウジ様‥‥‥‥。
-[RANPHAR]: K-Kouji-sama....
+[Lanhua]: K-Kouji-sama....
 //［宏治］：よし、これでＯＫだ。可愛くなった。
 [Kouji]: All right, this should be OK. You've become quite cute.
 //［ランファ］：ら、ランファ‥‥ランファ、超カンゲキですぅ！
-[RANPHAR]: R-Ranphar...Ranphar has been deeply inspired!
+[Lanhua]: R-Lanhua...Lanhua has been deeply inspired!
 //［宏治］：お、おい‥‥。
 [Kouji]: H-hey now...
 //オレがまごついたのは、ランファがいきなりオレの右腕をとって、両腕を絡めとったからだ。
-To my surprise, Ranphar suddenly wrapped both her arms around my right arm.
+To my surprise, Lanhua suddenly wrapped both her arms around my right arm.
 //切なそうに見上げる目を見ていると、何だかこっちもまんざらじゃない気がしてくる。
 As she stared at me with a pained look in her eyes, somehow, I felt a little uneasy.
 //［宏治］：べ、別にただ顔を拭いただけじゃないか。
 [Kouji]: Wh-what's with you? I just wiped your face, that's all.
 //［ランファ］：あぁ、コウジ様ぁ‥‥うるうる。
-[RANPHAR]: Ahh, Kouji-samaa....*sob*.
+[Lanhua]: Ahh, Kouji-samaa....*sob*.
 //オレは一息吐くと、彼女の身体を丁重にオレの腕から引き離した。ランファは切なそうな目をしてオレを見つめるが、ぐっと堪える。
-As I let out a breath, she courteously let go of my arm. It took a lot for me to endure Ranphar's pained look.
+As I let out a breath, she courteously let go of my arm. It took a lot for me to endure Lanhua's pained look.
 //［宏治］：なぁ、ランファ。
-[Kouji]: Hey, Ranphar.
+[Kouji]: Hey, Lanhua.
 //［ランファ］：はい、なんでしょうか？
-[RANPHAR]: Yes, is something the matter?
+[Lanhua]: Yes, is something the matter?
 //［宏治］：ええと‥‥‥‥。
 [Kouji]: Ummm....
 //このままエンジンルームを出た方が良さそうだな。
@@ -331,45 +331,45 @@ As my hands gripped the cold metal, rung by rung, I carefully climbed down the l
 //　◆ このデカブツはいったい‥‥‥‥。
 ◆ What on earth is this big thing...?
 //　◆ ランファは、ここで何を‥‥‥‥。
-◆ What is Ranphar doing here...?
+◆ What is Lanhua doing here...?
 //　◆ ファルネリアって女性は‥‥‥‥。
 ◆ Where's that Farnelia woman doing...?
 //［宏治］：そういえば、ファルネリアって女性は？
 [Kouji]: Oh yeah, where's that Farnelia woman?
 //［ランファ］：ＶＩＰルームですけど‥‥でも、気を付けて下さい。
-[RANPHAR]: She's in the VIP room, but...please, be careful.
+[Lanhua]: She's in the VIP room, but...please, be careful.
 //［宏治］：なにを？
 [Kouji]: Careful of what?
 //［ランファ］：すっっっごく凶暴ですから。
-[RANPHAR]: She's really, really brutal.
+[Lanhua]: She's really, really brutal.
 //［宏治］：は？
 [Kouji]: Huh?
 //［ランファ］：私なんてホラっ、こんなアザが‥‥。
-[RANPHAR]: Look, I got this bruise from there...
+[Lanhua]: Look, I got this bruise from there...
 //［宏治］：そ、そんな胸をはだけなくてもいいよ。
 [Kouji]: Y-you don't need to expose that much of your chest to show me.
 //［ランファ］：あの部屋に行かれるのなら、気を付けてくださいね。
-[RANPHAR]: If you're going towards that room, please, just take care.
+[Lanhua]: If you're going towards that room, please, just take care.
 //［宏治］：そ、そんなに凶暴なの？
 [Kouji]: Sh-she's that ferocious?
 //［ランファ］：もうプリプリですぅ。お尻にもアザがあるんですよ、ホラ‥‥。
-[RANPHAR]: It's still throbbing. I've got a bruise on my butt, too, look...
+[Lanhua]: It's still throbbing. I've got a bruise on my butt, too, look...
 //［宏治］：み、見せなくていいってば。
 [Kouji]: A-as I said, it's ok, you don't have to show me.
 //［ランファ］：酷いんですよファルネリア様ったら‥‥寝心地が悪いとか、食事がマズいとか、もう大変なんですぅ。
-[RANPHAR]: Farnelia-sama is so cruel...I can't tell if she's not eating or sleeping well, but something is wrong.
+[Lanhua]: Farnelia-sama is so cruel...I can't tell if she's not eating or sleeping well, but something is wrong.
 //［宏治］：ふーん、とりあえず、会ってみたいな。
 [Kouji]: Hmmmm, in any case, it looks like I should go see her.
 //［ランファ］：もう、ガツーンと思い知らせてやって下さいっ。
-[RANPHAR]: Come on, just think of the beating you'll receive.
+[Lanhua]: Come on, just think of the beating you'll receive.
 //［宏治］：が、ガツーンってね‥‥んま、とにかくわかったよ。
 [Kouji]: T-the beating....mm, well, I think I understand.
 //［ランファ］：あっ、もう行ってしまうんでうすか？
-[RANPHAR]: Ah-, are you already going away?
+[Lanhua]: Ah-, are you already going away?
 //［宏治］：うん、君は君の仕事をがんばって。
-[Kouji]: Yeah, go give it your all, Ranphar!
+[Kouji]: Yeah, go give it your all, Lanhua!
 //［ランファ］：はい！　コウジ様の為に、がんばっちゃいます！！
-[RANPHAR]: Yes! For Kouji-sama's sake, I'll do my very best!!
+[Lanhua]: Yes! For Kouji-sama's sake, I'll do my very best!!
 //［宏治］：（ファルネリアか‥‥どんな人なんだろ。）
 [Kouji]: (Farnelia...what kind of a person could she be?)
 //［宏治］：さてと、ＶＩＰルーム、だったよな。
@@ -377,75 +377,75 @@ As my hands gripped the cold metal, rung by rung, I carefully climbed down the l
 //［宏治］：このデカブツは、一体何だ？
 [Kouji]: What on earth is this big thing?
 //［ランファ］：エンジンですが。
-[RANPHAR]: Well, it's the engine...
+[Lanhua]: Well, it's the engine...
 //［宏治］：んなこたぁ、見ればわかるよ。問題は、これがどういうシロモノかってこと。
 [Kouji]: Uhh, maybe I should point it out so you understand. My real question is, what's this appliance here?
 //［ランファ］：エンジンというのは、燃料を機械的エネルギーに変換して、活動させる装置のことです。
-[RANPHAR]: The engine is an apparatus that converts fuel into mechanical energy to produce motion.
+[Lanhua]: The engine is an apparatus that converts fuel into mechanical energy to produce motion.
 //［宏治］：誰がエンジンの定義を言えっていったの。こんな馬鹿でかいシロモノが、なぜここにあるかってことだよ。
 [Kouji]: Who's asking for the definition of an engine here? I was asking why this stupidly huge appliance is here.
 //［ランファ］：‥‥でも、コウジ様が設計・製作されたんですよ。
-[RANPHAR]: ....But, Kouji-sama, you designed and produced it yourself.
+[Lanhua]: ....But, Kouji-sama, you designed and produced it yourself.
 //［宏治］：ふーん‥‥<$0C>えっ？　オレが？
 [Kouji]: Hmmm....Huh? I did?
 //［ランファ］：はい。エーテル光子動力を利用し、ほぼ永久機関に等しい動力により、ハイパードライブ機能も備えた‥‥。
-[RANPHAR]: Yes. On top of using ethereal photon power, nearly approaching the power of a perpetual motion machine, you installed the hyperdrive feature, too...
+[Lanhua]: Yes. On top of using ethereal photon power, nearly approaching the power of a perpetual motion machine, you installed the hyperdrive feature, too...
 //［宏治］：あー、小難しい説明は無しね。トレイシーに散々聞いたから。
 [Kouji]: Ahh, that wasn't too bothersome of an explanation. I heard it all from Tracy, after all.
 //［ランファ］：トレイシーに、ですか？
-[RANPHAR]: From Tracy?
+[Lanhua]: From Tracy?
 //［宏治］：そうだけど‥‥。
 [Kouji]: Yes....
 //［ランファ］：トレイシーの言ってることは、全部私のウケウリですぅ。彼女はメカのことなんて‥‥。
-[RANPHAR]: What Tracy said was taken entirely from me. She's just a machine, after all...
+[Lanhua]: What Tracy said was taken entirely from me. She's just a machine, after all...
 //［ランファ］：これっっっっっっぽっちも、わからないんですからっ！
-[RANPHAR]: You didn't even know that liiiiittle bit, did you!
+[Lanhua]: You didn't even know that liiiiittle bit, did you!
 //［宏治］：そんなにリキまなくても‥‥。
 [Kouji]: Don't exert yourself so much....
 //［ランファ］：このエンジンはですねっ。
-[RANPHAR]: About this engine...
+[Lanhua]: About this engine...
 //［ランファ］：コウジ様が設計・製作され、そしてランファが愛情をたーっぷりとそそいで手塩に育て上げた‥‥。
-[RANPHAR]: Kouji-sama, you designed and produced it, and Ranphar poured a lot of love and effort into it...
+[Lanhua]: Kouji-sama, you designed and produced it, and Lanhua poured a lot of love and effort into it...
 //［宏治］：て、手塩‥‥？
 [Kouji]: L-love and effort?
 //［ランファ］：言うなれば、ランファとコウジ様の、愛の結晶と言えるかもしれませんね。
-[RANPHAR]: You could say it's the fruit of Ranphar and Kouji-sama's love.
+[Lanhua]: You could say it's the fruit of Lanhua and Kouji-sama's love.
 //［トレイシー］：何が愛の結晶ですか！
 [Tracy]: What's the fruit of love here?!
 //［ランファ］：‥‥‥あっ、回線がオンになってるぅ。トレイシー、盗み聞きするなんて、フェアじゃないわっ！
-[RANPHAR]: ...Ah, the circuit's on again. Tracy, it's not fair to eavesdrop like that!
+[Lanhua]: ...Ah, the circuit's on again. Tracy, it's not fair to eavesdrop like that!
 //［トレイシー］：不可抗力は盗み聞きとは申しません。それよりも、人のいないところで散々‥‥。
 [Tracy]: I'm sorry, but I couldn't help but eavesdrop. Besides, with absolutely no one around...
 //［ランファ］：さて、雑音は消しちゃってと。
-[RANPHAR]: There, that interference is gone.
+[Lanhua]: There, that interference is gone.
 //［ランファ］：コウジ様、どうしました？
-[RANPHAR]: Kouji-sama, what's wrong?
+[Lanhua]: Kouji-sama, what's wrong?
 //［宏治］：似てるかも、君たち。
 [Kouji]: You two are quite similar.
 //［宏治］：ランファは、ここで何をしていたんだい？
-[Kouji]: RANPHAR, what are you up to here?
+[Kouji]: Lanhua, what are you up to here?
 //［ランファ］：エンジンの整備とチェックですけど‥‥。
-[RANPHAR]: Performing engine checks and maintenance, why?
+[Lanhua]: Performing engine checks and maintenance, why?
 //［宏治］：そういえば、メカをいじらせたら右に出る者無しなんだって？
 [Kouji]: Speaking of which, as you were fiddling with that machine, did anyone come from the right side?
 //［ランファ］：そんな‥‥コウジ様の足下にも及びません、私なんか‥‥。
-[RANPHAR]: Ummm, I can't reach under Kouji-sama's foot...
+[Lanhua]: Ummm, I can't reach under Kouji-sama's foot...
 //［ランファ］：コウジ様、お体の具合はもうよろしいのですか？
-[RANPHAR]: Kouji-sama, is your body healed already?
+[Lanhua]: Kouji-sama, is your body healed already?
 //［宏治］：オレはもともと、具合なんて悪くはないぞ。
 [Kouji]: Yeah, my body is doing more or less fine.
 //［ランファ］：さっすがですね。
-[RANPHAR]: Just as I expected.
+[Lanhua]: Just as I expected.
 //［宏治］：なぁ、ランファ‥‥。
-[Kouji]: Hey, Ranphar...
+[Kouji]: Hey, Lanhua...
 //［宏治］：目の前に見えるあれ、ホンモノ？
 [Kouji]: Is what I'm seeing in front of me the real thing?
 //［ランファ］：‥‥言っている意味が、よくわからないんですけどぉ。
-[RANPHAR]: ...I don't understand what you're saying.
+[Lanhua]: ...I don't understand what you're saying.
 //［宏治］：んー、ゴメン。何でもない。
 [Kouji]: Mm, sorry. Don't worry about it.
 //［ランファ］：クスッ、変なコウジ様っ。
-[RANPHAR]: Heh, you're such a weirdo, Kouji-sama.
+[Lanhua]: Heh, you're such a weirdo, Kouji-sama.
 //ここは‥‥。
 Over here....
 //どうやら、このあたりは対称的な造りになっているらしい。
@@ -485,11 +485,11 @@ As I was deciding whether to call out, she noticed me.
 //何かの工具を手にしたその女の子はオレに気付くと、手を止めてすぐに顔を破顔させる。
 As the girl holding a tool in her hand noticed me, she stopped working and broadly smiled at me.
 //［女の子］：コウジ様、ランファに会いに来て下さったんですねっ。
-[Girl]: Kouji-sama, did you come here to visit me, Ranphar?
+[Girl]: Kouji-sama, did you come here to visit me, Lanhua?
 //［オレ］：えっ、何でオレのことを‥‥。
 [Me]: Eh-, why do you...?
 //ランファと名乗るその女の子は、手にした工具類で、手先の配線を乱暴に取り付けている。あんなに乱暴に扱って大丈夫なのかなぁ‥‥。
-The girl named Ranphar roughly installed the wiring beside her using the tool in her hand. I wonder if it's OK to handle that so roughly?
+The girl named Lanhua roughly installed the wiring beside her using the tool in her hand. I wonder if it's OK to handle that so roughly?
 //［オレ］：‥‥そ、その、忙しいところ申し訳ないけど‥‥。
 [Me]: ...Um, sorry to bother you when you're busy, but....
 //［オレ］：ば、爆発！？
@@ -497,11 +497,11 @@ The girl named Ranphar roughly installed the wiring beside her using the tool in
 //［オレ］：‥‥‥‥‥‥。
 [Me]: .......
 //［ランファ］：ふぅ‥‥終わりました！
-[RANPHAR]: Hooo...All done!
+[Lanhua]: Hooo...All done!
 //そうだ確か、尻のポケットに‥‥‥‥あった。
 That's right, in my back pocket...there it is.
 //［オレ］：ランファ、おいで。
-[Me]: Ranphar, come here.
+[Me]: Lanhua, come here.
 //［オレ］：いいから、来るの。
 [Me]: Don't be shy, just come over here.
 //［オレ］：よーし、綺麗になってきたぞ。
@@ -517,7 +517,7 @@ That's right, in my back pocket...there it is.
 //［オレ］：べ、別にただ顔を拭いただけじゃないか。
 [Me]: I-I only wiped your face, that's all.
 //［オレ］：なぁ、ランファ。
-[Me]: Hey, Ranphar.
+[Me]: Hey, Lanhua.
 //［オレ］：ええと‥‥‥‥。
 [Me]: Um....
 //［オレ］：（な、なんだ‥‥‥‥。）
@@ -539,7 +539,7 @@ As she noticed me, she stopped working and broke into a broad smile. She exuded 
 //［オレ］：えっ？　どういうこと？
 [Me]: Eh-? What's going on?
 //彼女は、手にした工具類で、手先の配線を乱暴に取り付けている。エンジンのメンテナンスか何かを、している最中なのかもしれない。
-Using the tool in her hand, Ranphar roughly installed the wiring beside her. She was probably right in the middle of engine maintenance.
+Using the tool in her hand, Lanhua roughly installed the wiring beside her. She was probably right in the middle of engine maintenance.
 //［オレ］：‥‥また、後で来るよ。忙しそうだし。
 [Me]: ...Um, I'll come by later. It seems you're busy now.
 //［オレ］：なっ‥‥ちょっと、ゆ、ゆっくりやって構わないよ。うん。
@@ -571,33 +571,33 @@ Using the tool in her hand, Ranphar roughly installed the wiring beside her. She
 //［オレ］：君は、いったいここで何をしているんだ？
 [Me]: What on earth are you doing here?
 //［ランファ］：私、ですか？
-[RANPHAR]: Me?
+[Lanhua]: Me?
 //［オレ］：そう。
 [Me]: Yes, you.
 //［ランファ］：私はランファですぅ、コウジ様、お忘れになりました？
-[RANPHAR]: I'm Ranphar, Kouji-sama, have you forgotten?
+[Lanhua]: I'm Lanhua, Kouji-sama, have you forgotten?
 //［オレ］：はっきり言って、君のことなど知らない。
 [Me]: Speak clearly, I don't know anything about you.
 //［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい‥‥<$0C>あっ！
-[RANPHAR]: How sad...please don't say such depressing things... Ah-!
+[Lanhua]: How sad...please don't say such depressing things... Ah-!
 //［オレ］：な、なに？
 [Me]: W-what is it?
 //［ランファ］：コウジ様がここにいるということは‥‥じゃあ、今ファルネリア様は！？
-[RANPHAR]: Kouji-sama, if you're here...then where is Farnelia-sama now?! 
+[Lanhua]: Kouji-sama, if you're here...then where is Farnelia-sama now?! 
 //［オレ］：だ、誰？　その、ファルネリアサマって。
 [Me]: W-who's that Farnelia-sama?
 //［ランファ］：大変だわっ！
-[RANPHAR]: Oh no, this is bad!
+[Lanhua]: Oh no, this is bad!
 //［オレ］：えっ、ちょっと‥‥ランファ！？
-[Me]: Eh-, hold on...Ranphar?!
+[Me]: Eh-, hold on...Lanhua?!
 //［オレ］：待ってくれ、ランファ！？
-[Me]: Wait a minute, Ranphar?!
+[Me]: Wait a minute, Lanhua?!
 //困惑するオレを残して、ランファという女性は足早に立ち去ってしまった。
-Leaving me in a confused state, the woman named Ranphar nimbly stood up and ran away.
+Leaving me in a confused state, the woman named Lanhua nimbly stood up and ran away.
 //冗談じゃない‥‥またここで１人になるなんて‥‥。
 This is no laughing matter...I'm all alone again...
 //オレはきびすを返すと、ランファと名乗る女性を、後から追いかけていった。
-I turned on my heels and chased after the woman named Ranphar.
+I turned on my heels and chased after the woman named Lanhua.
 //‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
 ...<$0C>...<$0C>...
 //こ、ここは‥‥。
@@ -605,29 +605,29 @@ Wh-what...
 //何だ‥‥？
 ...is that here?
 //［ランファ］：あっ、コウジ様っ。
-[RANPHAR]: Ah-, Kouji-sama.
+[Lanhua]: Ah-, Kouji-sama.
 //［オレ］：き、君は‥‥。
 [Me]: Y-you...
 //［ランファ］：コウジ様？
-[RANPHAR]: Kouji-sama?
+[Lanhua]: Kouji-sama?
 //［オレ］：そう‥‥<$0C>あれ？　電気が消えたのかな‥‥。
 [Me]: Yes... Huh? The electricity went out...
 //［ランファ］：コウジ様ぁ、しっかりして下さい。
-[RANPHAR]: Kouji-sama, please get ahold of yourself.
+[Lanhua]: Kouji-sama, please get ahold of yourself.
 //［オレ］：このエンジンは、いったいどういうモノなんだ？
 [Me]: Just what kind of machine is this engine here?
 //［ランファ］：このエンジン、ですか？
-[RANPHAR]: You mean *this* engine?
+[Lanhua]: You mean *this* engine?
 //［オレ］：そうだ。何でこんなモノがここに‥‥。
 [Me]: Yes. Why is this thing here...?
 //［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい。これはランファとコウジ様の愛の結晶ですぅ。
-[RANPHAR]: Well....please don't talk about it so heartlessly. It's the fruit of the love between Ranphar and Kouji-sama.
+[Lanhua]: Well....please don't talk about it so heartlessly. It's the fruit of the love between Lanhua and Kouji-sama.
 //［オレ］：あ、愛の‥‥なんだって？
 [Me]: T-the fruit...What do you mean?
 //［ランファ］：あぁぁっ！！
-[RANPHAR]: Ahhh-!!
+[Lanhua]: Ahhh-!!
 //［ランファ］：はい！　まっかせて下さいっ！
-[RANPHAR]: Yes! Leave it to me!
+[Lanhua]: Yes! Leave it to me!
 //［トレイシー］：あの、私の方が理路整然と説明できると思いますが‥‥。
 [Tracy]: Um, I'd like it if you could explain this in a logically sound way...
 //\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼<$04><$32><$05>
@@ -703,7 +703,7 @@ I laid my arms on the back of the sofa and stared at the ceiling. I have a lot o
 //　◆ トレイシーという女性は‥‥‥‥。
 ◆ That Tracy woman...
 //　◆ ランファという女性は‥‥‥‥。
-◆ That Ranphar woman...
+◆ That Lanhua woman...
 //　◆ ファルネリアという女性は‥‥‥‥。
 ◆ That Farnelia woman...
 //［宏治］：ここは本当に‥‥‥‥。
@@ -813,7 +813,7 @@ Squeeze.
 //［宏治］：考えてもわからないに決まっている。他の事を考えよう。
 [Kouji]: Even if I think more about it, I still won't understand. Let's think about something else.
 //［宏治］：ランファという女性は、ちっこくて可愛らしかったな。
-[Kouji]: That Ranphar woman was pretty small and cute.
+[Kouji]: That Lanhua woman was pretty small and cute.
 //［宏治］：確か、ここではメカ関連を一手に担っているということだが。顔に似合わず機械好きなんだろうか。
 [Kouji]: Indeed, she seems to be singlehandedly responsible for all things mechanical around here. Despite her appearances, she's a real machine nut.
 //［宏治］：コウジ様、コウジ様って慕ってくれんのはいいけど‥‥。

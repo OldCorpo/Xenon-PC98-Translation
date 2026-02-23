@@ -17,7 +17,7 @@ Hmph, what ignorant fools, to appear in my dreams to irritate me...
 //［沙夜香］：どう、目が覚めた？
 [Sayaka]: Well, have you awakened?
 //［コウジ］：フン、ランファならお目覚めのキッスをしてくれるところだな。
-[Kouji]: Hmph, if it were Ranphar, she would have awakened me with a kiss.
+[Kouji]: Hmph, if it were Lanhua, she would have awakened me with a kiss.
 //［沙夜香］：外人に知り合いなんか、いないわ。
 [Sayaka]: I've never met such a foreigner before.
 //［コウジ］：まぁ、外人には違いないだろうがな。

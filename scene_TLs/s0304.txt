@@ -173,7 +173,7 @@ Blast!!!<$04><$30><$05>
 //［コウジ］：黙って聞くのだ。あの時の君は本当に素敵だったと言ってやれ。それで恐らく確信してもらえる事だろう。
 [Kouji]: Shut up and listen to me. At that time, say to her, "you're really wonderful." That should be enough to gain her trust.
 //［コウジ］：いいから、この通り言うのだ。ただし、ランファの前では決して言うな。いいな？
-[Kouji]: Just speak as I say. However, don't speak a word of it to Ranphar. Do you understand?
+[Kouji]: Just speak as I say. However, don't speak a word of it to Lanhua. Do you understand?
 //［コウジ］：むっ、マズい。いいか、５時間後だ、忘れるな‥‥。
 [Kouji]: Oh, oh no. Well, then, in 5 hours. Don't forget...
 //［宏治］：ぶちって、電話じゃないんだ、おい！
@@ -183,23 +183,23 @@ Blast!!!<$04><$30><$05>
 //［宏治］：大バカ野郎！！
 [Kouji]: Dumb fucking bastard!!
 //［ランファ］：きゃぅっ！
-[RANPHAR]: Kya-!
+[Lanhua]: Kya-!
 //［トレイシー］：こ、コウジ様‥‥。
 [Tracy]: K-Kouji-sama...
 //［宏治］：あれ、トレイシーにランファ‥‥。
-[Kouji]: Oh, Tracy...and Ranphar....
+[Kouji]: Oh, Tracy...and Lanhua....
 //［トレイシー］：よかったですわ、コウジ様。
 [Tracy]: Oh, thank goodness, Kouji-sama.
 //［ランファ］：コウジ様ぁ‥‥ランファ、ランファ、すっっごく‥‥。
-[RANPHAR]: Kouji-sama...Ranphar, was awfully...
+[Lanhua]: Kouji-sama...Lanhua, was awfully...
 //［トレイシー］：心配していましたのよ、私‥‥。
 [Tracy]: Worried about you. I...
 //［ランファ］：ちょっとぉ、私が感激の言葉を言おうとしてたんですからねっ！
-[RANPHAR]: Waait, stop stealing my lines!
+[Lanhua]: Waait, stop stealing my lines!
 //［トレイシー］：私もです。
 [Tracy]: I could say the same here.
 //［ランファ］：なによぉ、プリプリよぉ、トレイシー！
-[RANPHAR]: Hey, stop nudging against him, Tracy!
+[Lanhua]: Hey, stop nudging against him, Tracy!
 //［宏治］：話の腰を折って申し訳ないが、今、何時だ！？
 [Kouji]: I'm sorry to butt in, but right now, what time is it?!
 //［宏治］：今は何時かと訊いてるんだ。
@@ -213,19 +213,19 @@ Blast!!!<$04><$30><$05>
 //［宏治］：ファルは？
 [Kouji]: And Far?
 //［ランファ］：ビアンカさんと一緒ですぅ‥‥。
-[RANPHAR]: She went together with Bianca...
+[Lanhua]: She went together with Bianca...
 //［宏治］：そうか、オレはあの電撃ムチをモロにくらって‥‥。
 [Kouji]: I see, then I really ate the full force of that electric whip...
 //［トレイシー］：どういたします？　コウジ様。
 [Tracy]: What's going on, Kouji-sama?
 //［ランファ］：コウジ様ぁ‥‥。
-[RANPHAR]: Kouji-samaa...
+[Lanhua]: Kouji-samaa...
 //［宏治］：フン、君らの言いたいことはわかってるさ。
 [Kouji]: Hmm, I get what you two are trying to say.
 //［宏治］：ビアンカのシップを追跡、しかる後、エンコーダとファルを奪い返す！
 [Kouji]: Let's chase after Bianca's ship, and steal the encoder back with Far!
 //［ランファ］：きゃっ、そうこなくっちゃぁ！
-[RANPHAR]: Kya-, that's the ticket!
+[Lanhua]: Kya-, that's the ticket!
 //［トレイシー］：私も賛成ですわ、そう思って、既にビアンカさんのシップを追跡中です。
 [Tracy]: I concur. With that in mind, I already plotted a course to Bianca's ship.
 //［宏治］：手回しがいいね‥‥。
@@ -241,13 +241,13 @@ Blast!!!<$04><$30><$05>
 //［宏治］：（夢でないとすると‥‥？）
 [Kouji]: (If it wasn't a dream...?)
 //［ランファ］：じゃあランファは、エンジンや格納庫のチェックにはいりまーす。
-[RANPHAR]: Well, I'll be off to check on the hangar and engine.
+[Lanhua]: Well, I'll be off to check on the hangar and engine.
 //［トレイシー］：自動航行を行っていますので、私はブリッジで監視を‥‥。
 [Tracy]: Since we're on autopilot, I'll be on the lookout on the bridge...
 //［宏治］：あっ、トレイシーは、ちょっとまだ残ってくれ。
 [Kouji]: Ah-, Tracy, wait a minute.
 //［ランファ］：トレイシー、ちゃんとコウジ様の面倒を見てあげてよっ。
-[RANPHAR]: Tracy, please fulfill Kouji-sama's demands.
+[Lanhua]: Tracy, please fulfill Kouji-sama's demands.
 //［トレイシー］：わかっています。さっ、行ってらっしゃい。
 [Tracy]: Understood. Now, go on.
 //［トレイシー］：フフ、あの子ったら、しょうがないわね‥‥。

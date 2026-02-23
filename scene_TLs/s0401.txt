@@ -3,15 +3,15 @@ all
 //［宏治］：実はまだ、オレは《クワドラ》にいたりする。
 [Kouji]: The truth is, I've returned back to the {Quadra}.
 //［トレイシー］：ランファ、このお皿をテーブルに並べて頂戴。
-[Tracy]: Ranphar, could you set the table, please?
+[Tracy]: Lanhua, could you set the table, please?
 //［ランファ］：んもぉ、ビアンカさん、ちょっとは手伝って下さいよぉ。
-[RANPHAR]: Ah, come on. Bianca, could you please help me out?
+[Lanhua]: Ah, come on. Bianca, could you please help me out?
 //［ビアンカ］：私は炊事関連は苦手でな。ムチさばきなら得意だぞ。
 [BIANCA]: I'm pretty incapable when it comes to cooking. I'm much better at handling a whip.
 //［ファル］：ほらほら、コウジぃ、お尻ばかり見てないで、お鍋を見て。
 [FAR]: Now, now, Kouji, stop watching my butt, and watch the pot.
 //［ランファ］：あっ、お鍋がふいてるぅ！
-[RANPHAR]: Ah-, the pot is boiling over!
+[Lanhua]: Ah-, the pot is boiling over!
 //［トレイシー］：あらあら、大変‥‥火はこれくらい、かしら？
 [Tracy]: My, my, what a mess...the heat should be about here, perhaps?
 //［ビアンカ］：私に訊かれても困るぞ。炊事関連は苦手でな。
@@ -19,11 +19,11 @@ all
 //［ファル］：お醤油とって頂戴、お醤油。
 [FAR]: Pass the soy sauce, please.
 //［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ～！
-[RANPHAR]: Ahhhh-! I spilled the miso soup~!
+[Lanhua]: Ahhhh-! I spilled the miso soup~!
 //［トレイシー］：しょうがないわねぇ、ほら、フキフキ。
 [Tracy]: Well, no use crying about it, here, *wipe wipe*.
 //［ランファ］：んっ、もう、私の肌はデリケートなんですからねっ。もうちょっと優しく拭いてっ。
-[RANPHAR]: Ng, aw, but my skin is delicate. Could you wipe it a littler softer?
+[Lanhua]: Ng, aw, but my skin is delicate. Could you wipe it a littler softer?
 //［ファル］：ちょっとトレイシー、このネギはみじん切りよ。
 [FAR]: Wait, Tracy, those spring onions should be julienned.
 //［トレイシー］：あら、すみません‥‥。あっ、ビアンカさん、卵といて下さいな。
@@ -33,31 +33,31 @@ all
 //チャッチャッチャッチャッ‥‥。
 Chopchopchopchopchop...
 //［トレイシー］：まぁ、手さばきは、ランファよりも上手ですわ。
-[Tracy]: Well, when it comes down to it, I'm still better at Ranphar at maneuvering.
+[Tracy]: Well, when it comes down to it, I'm still better at Lanhua at maneuvering.
 //［ランファ］：なによぉ、トレイシー、プリプリよぉ。私だってねっ！
-[RANPHAR]: Oh come on, Tracy, stop teasing me. I'm clearly better!
+[Lanhua]: Oh come on, Tracy, stop teasing me. I'm clearly better!
 //［トレイシー］：はいはい、ランファは食べるのはお上手よ。
 [Tracy]: Indeed, you're better at eating.
 //［ファル］：ほらほらランファ、そんな顔をしてないで、そろそろ食器を並べて頂戴。これと‥‥んしょ、はい、これ。
-[FAR]: Now, now, Ranphar, quit pouting about it, and please set the tableware. There, and...mmhup, yes, there.
+[FAR]: Now, now, Lanhua, quit pouting about it, and please set the tableware. There, and...mmhup, yes, there.
 //［ランファ］：えー、私が盛るのぉ？
-[RANPHAR]: Huh? Am I supposed to serve everyone?
+[Lanhua]: Huh? Am I supposed to serve everyone?
 //［ファル］：トレイシーと私は、忙しいのよ、見ればわかるでしょ？
 [FAR]: Well, if you'd look, you'd see Tracy and I are busy.
 //［ビアンカ］：私は、炊事関連は苦手だぞ。
 [BIANCA]: Hey, I'm awful at cooking.
 //［ランファ］：プリプリよぉ！　ぶー。
-[RANPHAR]: *huff huff*! *sigh*
+[Lanhua]: *huff huff*! *sigh*
 //［トレイシー］：なんです、食事中に下品ですよ。
 [Tracy]: Why, it's rather impolite to do it in the middle of a meal.
 //［ファル］：味見をしてみましょう。んっ、デリーシャス！
 [FAR]: It's time to taste. Mm, delicious!
 //［ランファ］：あー、それは私のオカズよぉ！
-[RANPHAR]: Ahh, that's the small dish I made!
+[Lanhua]: Ahh, that's the small dish I made!
 //［ファル］：カラアゲの１つくらいなによ。
 [FAR]: Why is there only one karaage left?
 //［ランファ］：私、おなか空いてたのにぃ‥‥。
-[RANPHAR]: Well, I was hungry....
+[Lanhua]: Well, I was hungry....
 //［ビアンカ］：そんな目をしても、私のはやらぬぞ。
 [BIANCA]: Even if you look at me that way, I'm not going to stop.
 //［トレイシー］：さぁ、コウジ様、そろそろお席に‥‥。
@@ -65,11 +65,11 @@ Chopchopchopchopchop...
 //［ファル］：じゃあ、私の‥‥。
 [FAR]: Then, my...
 //［ランファ］：ランファの隣が空いてるよっ！
-[RANPHAR]: I have some space next to me!
+[Lanhua]: I have some space next to me!
 //［ビアンカ］：コウジは、私の隣がいいと言っているぞ。
 [BIANCA]: Kouji, I told you my side is free.
 //［ランファ］：ずるいですぅ、ランファの隣が‥‥。
-[RANPHAR]: That's not fair, my side is...
+[Lanhua]: That's not fair, my side is...
 //［トレイシー］：はい、コウジ様。お座りになってくださいね。
 [Tracy]: Yes, Kouji-sama, please be seated here.
 //［ビアンカ］：あっ、トレイシー、いつの間に‥‥。
@@ -77,17 +77,17 @@ Chopchopchopchopchop...
 //［ファル］：じゃあ、反対側には私が座るわね。
 [FAR]: Then, I'm sitting across from him.
 //［ランファ］：ランファが座るのっ！
-[RANPHAR]: I'm sitting down there!
+[Lanhua]: I'm sitting down there!
 //［ファル］：ちょっとランファ‥‥んっ、ちょっとあなた、ここは私の椅子よっ。
-[FAR]: Hold on, Ranphar...mm, wait, dear, that's my seat.
+[FAR]: Hold on, Lanhua...mm, wait, dear, that's my seat.
 //［ランファ］：ずるいですぅ、椅子を移動させるなんて。
-[RANPHAR]: Hey, moving around the chairs like that's not fair.
+[Lanhua]: Hey, moving around the chairs like that's not fair.
 //［ファル］：ちょっとあなた、お尻が大きいわよ。
 [FAR]: Wait, dear, your butt is too big.
 //［トレイシー］：ほらほら、２人とも椅子取りゲームじゃあるまいし。
 [Tracy]: Well, if it isn't a game of taking chairs between the two of you.
 //［ファル・ランファ］：あなたに言われたくない！
-[FAR and RANPHAR]: I won't hear it from you!
+[FAR and Lanhua]: I won't hear it from you!
 //ズズズズズ、ドン。
 Zrrrrrrrrrr, thomp.
 //［ビアンカ］：ふぅ‥‥。
@@ -95,7 +95,7 @@ Zrrrrrrrrrr, thomp.
 //［ファル］：あっ、ビアンカさん、ずるいわ！
 [FAR]: Ah-, Bianca, that's unfair!
 //［ランファ］：椅子ごと移動させるなんて‥‥ずるいですぅ！
-[RANPHAR]: Moving the chair like that...it's not fair!
+[Lanhua]: Moving the chair like that...it's not fair!
 //［トレイシー］：はい、コウジ様、あーーーん。
 [Tracy]: All right, Kouji-sama, say ahhhhh.
 //［ファル］：それは私の役目よ、トレイシー。
@@ -105,7 +105,7 @@ Zrrrrrrrrrr, thomp.
 //［ファル］：私よねっ！
 [FAR]: No, he wants that from me!
 //［ランファ］：ランファですぅ‥‥。
-[RANPHAR]: It should be me....
+[Lanhua]: It should be me....
 //［トレイシー］：無論、私ですわ。
 [Tracy]: Of course, it'll be from me.
 //［宏治］：あの爆発で、例のエンコーダが吹き飛んでからというもの‥‥。
@@ -127,7 +127,7 @@ Zrrrrrrrrrr, thomp.
 //［トレイシー］：どこか痛むのですか？　何だったら私が看病‥‥。
 [Tracy]: Does it hurt anywhere? If anything's the matter, I can examine you...
 //［ランファ］：ランファが元気づけてあげるわっ！
-[RANPHAR]: I'll cheer you up!
+[Lanhua]: I'll cheer you up!
 //［ビアンカ］：ジロッ、コウジはな、私と‥‥。
 [BIANCA]: *glance* Kouji should be together with me....
 //［宏治］：‥‥という訳らしい。ふぅ‥‥。<$05>
@@ -521,23 +521,23 @@ And so we passed every day like that......
 //ra03
 ra03
 //［ランファ］：んっ‥‥んんっ‥‥。
-[RANPHAR]: Mm-....Mmm-....
+[Lanhua]: Mm-....Mmm-....
 //［宏治］：もっと、横に舌を動かして。
 [Kouji]: Move your tongue more from side to side.
 //［ランファ］：こうですか？
-[RANPHAR]: Like this?
+[Lanhua]: Like this?
 //レロレロレロ。<$05><$04><$30>
 *lick lick lick*.
 //［宏治］：んー、いい感じだ。もっと下の部分も舐めてね。
 [Kouji]: Mm, that feels good. Lick the bottom part, too.
 //［ランファ］：はい、ランファ、がんばっちゃいますぅ。
-[RANPHAR]: Yes, I'll try my best to.
+[Lanhua]: Yes, I'll try my best to.
 //［宏治］：もっと、舌の腹全体を使って舐め上げるんだ。
 [Kouji]: Use the middle of your tongue to lick the whole thing, please.
 //べろーーーーっ。<$04><$30><$05>
 *liiiiiick*.
 //［ランファ］：トクトクって、波打ってますぅ‥‥あぁぁ‥‥。
-[RANPHAR]: It's throbbing along as I glug on it...ahhhhh....
+[Lanhua]: It's throbbing along as I glug on it...ahhhhh....
 //ちゅばっ、ちゅばっ‥‥。
 *shlurp*, *suck*....
 //［宏治］：よしよし、じゃあ今度は先っぽを口に含んで。
@@ -547,133 +547,133 @@ ra03
 //［宏治］：いいぞ、舌でちゃんと包み込むように舐めるんだ。
 [Kouji]: Yeees, now cover it thoroughly with your tongue as you lick it.
 //［ランファ］：ふぁい‥‥こうれふは？
-[RANPHAR]: Ohay...wike dib?
+[Lanhua]: Ohay...wike dib?
 //［宏治］：くわえてる時は、しゃべんなくていいの。そのまま頭を前後に動かして‥‥。
 [Kouji]: Don't talk with your mouth full. Now, bob your head back and forth like that...
 //［ランファ］：んっ、んっ、んっ‥‥。
-[RANPHAR]: Mm-, mm-, mm-....
+[Lanhua]: Mm-, mm-, mm-....
 //［宏治］：ん、いいぜ‥‥舌全体で包み込むようにするんだ。
 [Kouji]: Mm, that's good...you've covered it entirely in your tongue.
 //［ランファ］：んっ‥‥んんんっ‥‥。
-[RANPHAR]: Mm-...Mmmm....
+[Lanhua]: Mm-...Mmmm....
 //［宏治］：もっと、奥まで呑み込むの。
 [Kouji]: Take it deeper in your throat.
 //［ランファ］：んぐんぐ‥‥げっ、ゲホゲホっ！
-[RANPHAR]: Ngh gh...*gh*, *cough cough*!
+[Lanhua]: Ngh gh...*gh*, *cough cough*!
 //［宏治］：しょうがないなぁ。ほら、手も使ってしごいて。
 [Kouji]: Well, I guess you can't help it. Now, stroke it with your hand.
 //［ランファ］：んんんっ‥‥んっ、んっ。
-[RANPHAR]: Mmmm-...mm-, mm-.
+[Lanhua]: Mmmm-...mm-, mm-.
 //［宏治］：あっ、出そう‥‥出すよっ。
 [Kouji]: Ah, I'm gonna...I'm gonna cum.
 //［ランファ］：うん。お口に‥‥お口に下さい‥‥。
-[RANPHAR]: Mhm. Please...cum in my mouth...
+[Lanhua]: Mhm. Please...cum in my mouth...
 //［宏治］：ランファ、いつも飲んでるだろ？　今日は顔。
-[Kouji]: Ranphar, you usually drink it, right? Today, I'll do it on your face.
+[Kouji]: Lanhua, you usually drink it, right? Today, I'll do it on your face.
 //［ランファ］：あン、どっちでもいいですぅ‥‥あはぁぁぁ。
-[RANPHAR]: Ahm, both are fine with me...ahaaaa.
+[Lanhua]: Ahm, both are fine with me...ahaaaa.
 //ra05
 ra05
 //［宏治］：出すぜ！
 [Kouji]: I'm cumming!
 //［ランファ］：くださいっ！　お顔にぃぃっっ！！
-[RANPHAR]: Do it now! On my face!!
+[Lanhua]: Do it now! On my face!!
 //ドクドクドクっ！！<$04><$30><$05>
 *spurt spurt spurt*!!
 //ra05b
 ra05b
 //［ランファ］：ああン、ネバネバするぅ‥‥。
-[RANPHAR]: Ahhm, you've gotten me all sticky...
+[Lanhua]: Ahhm, you've gotten me all sticky...
 //［宏治］：それにはな、タンパク質が、たーっぷりと含まれてるんだぞ。
 [Kouji]: That's because it's so full of protein.
 //［ランファ］：ウン、あったかい‥‥。
-[RANPHAR]: Yes, and it's warm...
+[Lanhua]: Yes, and it's warm...
 //［宏治］：じゃあ、コレで顔に塗りたくってあげよう。
 [Kouji]: Yes, I think I've coated you quite well.
 //［ランファ］：うん‥‥あはぁぁ、コウジ様の、まだビクビクしてるぅ‥‥。
-[RANPHAR]: Mhm...ahaa, Kouji-sama, you're still so lively...
+[Lanhua]: Mhm...ahaa, Kouji-sama, you're still so lively...
 //［宏治］：ほら、またくわえて。
 [Kouji]: Shall we give it one more go?
 //［ランファ］：ハイ‥‥んっ‥‥んんんっ‥‥。
-[RANPHAR]: Yes...mm-...mmmm.....
+[Lanhua]: Yes...mm-...mmmm.....
 //［宏治］：もっと奥まで入りそう。
 [Kouji]: Go a little deeper.
 //ずるっ。
 *slide*
 //［ランファ］：んんぐっ、げぇぇ‥‥ゲホゲホ！
-[RANPHAR]: Nnngh, *gag*...*cough* *cough*!
+[Lanhua]: Nnngh, *gag*...*cough* *cough*!
 //［宏治］：おっとごめん、奥まで入れすぎちゃった。
 [Kouji]: Oops, sorry, I put it in too far.
 //［ランファ］：もう、喉が張り裂けそうになりましたぁ～、ケホケホッ。
-[RANPHAR]: Come on, you'll split open my throat like that, *cough* *cough*
+[Lanhua]: Come on, you'll split open my throat like that, *cough* *cough*
 //［宏治］：でも、感じたろ？
 [Kouji]: But, you felt it, didn't you?
 //［ランファ］：はい、コウジ様のミルクがまだ残ってましたし。
-[RANPHAR]: Yes, Kouji-sama's milk is still there.
+[Lanhua]: Yes, Kouji-sama's milk is still there.
 //［宏治］：好きだなぁ、ランファは。
 [Kouji]: You like it, don't you?
 //［ランファ］：ハイ、あのミルクが喉を通る時の感じって、ホントに素敵ですぅ。
-[RANPHAR]: Yes, the feeling that I get when that milk slides down my throat is incredible.
+[Lanhua]: Yes, the feeling that I get when that milk slides down my throat is incredible.
 //［宏治］：感じちゃう？
 [Kouji]: You feel something down your throat?
 //［ランファ］：はいっ‥‥すっごく。
-[RANPHAR]: Yes...quite a lot.
+[Lanhua]: Yes...quite a lot.
 //［宏治］：ふーん、どんな感じなんだい？
 [Kouji]: Hmm, so what kind of feeling is that?
 //［ランファ］：そうですね、コウジ様のオタマジャクシが、のどにチクチク当たって、すっごく気持ちいいんですぅ。
-[RANPHAR]: Um, well, when Kouji-sama's sperm wiggle back and forth in my throat, it feels so good.
+[Lanhua]: Um, well, when Kouji-sama's sperm wiggle back and forth in my throat, it feels so good.
 //［宏治］：えっ、う、ウソ‥‥。
 [Kouji]: Y-you must be joking...
 //［ランファ］：クスクスっ、ウソですよぉー。
-[RANPHAR]: *giggle*, it was a joke.
+[Lanhua]: *giggle*, it was a joke.
 //［宏治］：こ、コイツ！
 [Kouji]: Why, you!
 //［ランファ］：きゃぁぁぁぁっ！　でもでもぉ、飲むと感じちゃうのは、ホントですよぉ！
-[RANPHAR]: Kyaaaaa-! But, but, when I drink it down, it really does feel good!
+[Lanhua]: Kyaaaaa-! But, but, when I drink it down, it really does feel good!
 //［宏治］：よーし、じゃあヌレヌレのところで、ランファ、上ね。
-[Kouji]: Well, then, Ranphar, put that that wet, slick 
+[Kouji]: Well, then, Lanhua, put that that wet, slick 
 //［ランファ］：えー、たまにはランファ、下がいいですぅ。
-[RANPHAR]: Huhhh, but I like it better under you.
+[Lanhua]: Huhhh, but I like it better under you.
 //［宏治］：じゃあ、あげない。
 [Kouji]: Well, then, I won't give it to you.
 //［ランファ］：あーん、ウソウソ、ウソですよぉ～。
-[RANPHAR]: Ahhh, don't be such a tease~
+[Lanhua]: Ahhh, don't be such a tease~
 //［宏治］：じゃ、はやく。
 [Kouji]: Well, get to it.
 //［ランファ］：はーい‥‥ん、んしょ、んしょ‥‥。
-[RANPHAR]: Okaaaay....mm, here, here.....
+[Lanhua]: Okaaaay....mm, here, here.....
 //ずぷぷぷぷぷぷぷぷぷぷっっ‥‥。
 *schlububububububub*....
 //［ランファ］：んあぁぁぁぁっ‥‥あぁぁぁ、コウジ様ぁぁぁぁぁっっ！！
-[RANPHAR]: NGAAAaahhhh.....Ahhhh, Kouji-samaaaaa-!!
+[Lanhua]: NGAAAaahhhh.....Ahhhh, Kouji-samaaaaa-!!
 //［宏治］：よーし、じゃ、大きく腰を動かして。
 [Kouji]: Good, now, start moving your hips.
 //［ランファ］：はい‥‥あふぅっ！
-[RANPHAR]: OK....Agh-!
+[Lanhua]: OK....Agh-!
 //ぬちゃっ、ぬちゃっ、ぬちゃっ‥‥。
 *slish*, *slush*, *slursh*...
 //［ランファ］：あぁぁぁぁ！　ランファ、気持ちいいの‥‥気持ちいいっ！！
-[RANPHAR]: Ahhhhh-! It feels so good...so good-!!
+[Lanhua]: Ahhhhh-! It feels so good...so good-!!
 //［宏治］：ヌルヌルしてるぜ。
 [Kouji]: You're so wet.
 //［ランファ］：そうよっ！　ランファの、ヌルヌルしてるのぉっ！
-[RANPHAR]: I am! My pussy is so wet and slippery!
+[Lanhua]: I am! My pussy is so wet and slippery!
 //［宏治］：もっともっと、ケダモノのように腰を振るんだ。
 [Kouji]: You're really moving your hips more and more like a beast.
 //［ランファ］：あン、こう？　こう！？
-[RANPHAR]: Ah, is that so?!
+[Lanhua]: Ah, is that so?!
 //［宏治］：ワンと鳴いてみろ。
 [Kouji]: Let's hear you bark like a dog.
 //［ランファ］：んあぅ、んくっ、あっ、コウジ様ぁぁぁ‥‥あぅっ！
-[RANPHAR]: Ngau, nkh, ah-, Kouji-samaaa..aau-!
+[Lanhua]: Ngau, nkh, ah-, Kouji-samaaa..aau-!
 //［宏治］：ワンと鳴け！
 [Kouji]: BARK FOR ME!
 //［ランファ］：わ、ワン！
-[RANPHAR]: Ar-arf!
+[Lanhua]: Ar-arf!
 //［宏治］：もっともっと、腰を動かしながら、鳴くんだ！
 [Kouji]: Now bark for me more as you swing those hips!
 //［ランファ］：ワンッ、ワンッ！
-[RANPHAR]: Arf, arf!
+[Lanhua]: Arf, arf!
 //ずりゅっ、ずりゅっ‥‥。
 *slish*, *slish*...
 //［宏治］：もっともっと、アソコを締めろ！
@@ -681,21 +681,21 @@ ra05b
 //［宏治］：あぁ、もう‥‥イきそうだぜ。
 [Kouji]: Ah, I'm...I'm gonna cum.
 //［ランファ］：あぁぁぁ、ランファも‥‥ランファも飛んじゃいそうよっ！
-[RANPHAR]: Ahhhh, me too...I feel like I'm going to fly!
+[Lanhua]: Ahhhh, me too...I feel like I'm going to fly!
 //［宏治］：ワンだろ！？
 [Kouji]: WHERE'S THE BARKING?
 //［ランファ］：ワンワン！　飛びそうなのぉぉっ！！
-[RANPHAR]: Woof woof! I'm going to fly!!
+[Lanhua]: Woof woof! I'm going to fly!!
 //［宏治］：よし、一緒に行くぜ。
 [Kouji]: All right, let's cum together.
 //［ランファ］：ワン！
-[RANPHAR]: WOOF!
+[Lanhua]: WOOF!
 //［宏治］：くぅっ！！
 [Kouji]: Kuh!!
 //どぷどぷどぷ‥‥ドクドクッ、ドクッ、ドクッ！
 *slap* *slap* *slap*...*spurt spurt*, *spurt*, *spurt*! 
 //［ランファ］：ランファ、飛ぶぅぅぅぅぅぅぅぅぅぅぅぅっっっ！！！<$05>
-[RANPHAR]: I'M FLYIIIIIINGG!!
+[Lanhua]: I'M FLYIIIIIINGG!!
 //　　　　　　　　ＤＲＥＡＭ＿３γ　‥‥　ＥＮＤ<$04><$30><$05>
 　　　　　　　　ＤＲＥＡＭ＿３γ　‥‥　ＥＮＤ<$04><$30><$05>
 //bi05
@@ -771,57 +771,57 @@ bi05
 //　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ<$04><$30><$05>
 　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ<$04><$30><$05>
 //［ランファ］：たぶん、牽引ビームに、《クワドラ》が捉えられたんだと思います。
-[RANPHAR]: It's probably been captured by the {Quadra}'s tractor beam.
+[Lanhua]: It's probably been captured by the {Quadra}'s tractor beam.
 //［ランファ］：ビアンカさんの、性格でしょうね、きっと。
-[RANPHAR]: This is just what Bianca would do.
+[Lanhua]: This is just what Bianca would do.
 //ランファが隣で、屈託のない笑みをこぼす。
-Ranphar smiled innocently beside me.
+Lanhua smiled innocently beside me.
 //そうなのだ、この計画ではトレイシーをオトリとして、オレとランファが潜入工作という重責を担うことになった。
-Indeed, this plan required Tracy to serve as a decoy while Ranphar and I bore the responsibility of infiltrating the ship.
+Indeed, this plan required Tracy to serve as a decoy while Lanhua and I bore the responsibility of infiltrating the ship.
 //［ランファ］：きっと、成功しますっ。私のコウジ様だもの。
-[RANPHAR]: We'll definitely make it. After all, it's my dear Kouji-sama's idea.
+[Lanhua]: We'll definitely make it. After all, it's my dear Kouji-sama's idea.
 //ランファは汗かきらしかった。身体中に粒状の粒が浮いている。衣服が肌に密着して、乳房の真ん中の突起が、もろに見えてしまっている。
-Ranphar seemed to be soaking with sweat. It formed beads all over her body. Her clothing clung tight to her body, and her nipples were completely visible.
+Lanhua seemed to be soaking with sweat. It formed beads all over her body. Her clothing clung tight to her body, and her nipples were completely visible.
 //［ランファ］：ちょっぴり、暑いですね。
-[RANPHAR]: It's a little hot, isn't it?
+[Lanhua]: It's a little hot, isn't it?
 //［宏治］：ぐびっ。
 [Kouji]: *gulp*.
 //ウンとうなずこうとしたのが、オレの喉から発されたのは、唾液を嚥下する音だった。非常に情けない。
 As I nodded my head yes, my throat made the sound of gulping down saliva. It was quite pathetic.
 //［ランファ］：どうしました、コウジ様。
-[RANPHAR]: Is something the matter, Kouji-sama?
+[Lanhua]: Is something the matter, Kouji-sama?
 //［宏治］：いや、別に‥‥それにしても、狭いなぁ。
 [Kouji]: No, it's nothing...but it is pretty tight in here.
 //［ランファ］：しょうがないですよぉ‥‥でも、コウジ様と２人きりなんて、きゃっ！
-[RANPHAR]: Well, we don't have a choice...but, I'm here together with you, yay!
+[Lanhua]: Well, we don't have a choice...but, I'm here together with you, yay!
 //２人でモゾモゾと動いているので、密着度が、がぜん増加してくるのは避けられない。
 As the two of us restlessly stirred about, we were bound to stick closely to each other.
 //ランファの白い太股が、オレの股の間に割って入ってきていた。そ、そんなに動かしたら‥‥。
-Ranphar's pale thigh was wedged into my crotch. I-if she were to move like that...
+Lanhua's pale thigh was wedged into my crotch. I-if she were to move like that...
 //［ランファ］：あらあら‥‥クスクスッ。
-[RANPHAR]: Well, well...*giggle*.
+[Lanhua]: Well, well...*giggle*.
 //［ランファ］：ね、コウジ様ぁ。
-[RANPHAR]: Hey, Kouji-sama.
+[Lanhua]: Hey, Kouji-sama.
 //ドキッ。
 *ba-bump*
 //オレの傍らで、しおらしく目をつぶる美少女‥‥身体は密着しており、まわりには誰の目もないのだ‥‥。
 Before me, a beautiful girl was meekly closing her eyes...Our bodies were pressed so closely to each other, it ended up that neither of us could see...
 //［ランファ］：コウジ様ぁ‥‥‥。
-[RANPHAR]: Kouji-sama...
+[Lanhua]: Kouji-sama...
 //［宏治］：えっ、なに？
 [Kouji]: Hm? What is it?
 //［ランファ］：んもう、早くぅ‥‥純真な乙女を待たさないで下さいまし。
-[RANPHAR]: Come on, hurry up...don't leave an innocent girl waiting like that.
+[Lanhua]: Come on, hurry up...don't leave an innocent girl waiting like that.
 //［宏治］：何語だそりゃ‥‥もう。
 [Kouji]: What do you mean by that...gimme a break.
 //［ランファ］：ああン、ホッペなんて、プリプリですぅ。
-[RANPHAR]: Ahh, your cheek is so squishy.
+[Lanhua]: Ahh, your cheek is so squishy.
 //［宏治］：シッ。
 [Kouji]: Tch.
 //外から聞こえてくる声を聞いて、オレはあわててランファの口を手でふさいだ。
-As I heard something coming from outside, I hurriedly covered Ranphar's mouth with my hand.
+As I heard something coming from outside, I hurriedly covered Lanhua's mouth with my hand.
 //手の中から、フガフガ言う声が聞こえてくるが、やむを得ない。
-Even though Ranphar was still mumbling under my hand, I couldn't help it.
+Even though Lanhua was still mumbling under my hand, I couldn't help it.
 //［トレイシー］：痛っ‥‥ビアンカさん、もう少し優しくして下さいな。
 [Tracy]: Ow-....Bianca, please, don't be so rough.
 //トレイシーの声が外から聞こえてきた。どうやら、首尾良く事は運んでいるらしい。今の所はな‥‥。
@@ -829,37 +829,37 @@ I heard Tracy's voice outside. It seemed everything was going according to plan.
 //待っていろよ、トレイシー‥‥オレがコブシを握りしめて決心を改めて固めていたとき‥‥。
 Wait for us, Tracy...As I gripped my fists, I solidified my resolve....
 //［宏治］：あれ、どうしたの？　ランファ‥‥ランファ？
-[Kouji]: Hey, is something the matter? Ranphar...Ranphar?
+[Kouji]: Hey, is something the matter? Lanhua...Lanhua?
 //いつの間にか、静かになっていると思ったが‥‥。オレはぐったりとしているランファに声をかけたが、身体はフニャフニャで生気がない。
-I thought she had gone silent at some point, but...though I had wearily spoken those words to Ranphar, her body had gone limp.
+I thought she had gone silent at some point, but...though I had wearily spoken those words to Lanhua, her body had gone limp.
 //［宏治］：おい、ど、どうした？
 [Kouji]: Hey, w-what's happened to you?
 //言ってから気付いた。オレが強くランファの口を抑えていたせいで、彼女は呼吸困難に陥ってしまったのだ。
-As I spoke, I realized what had happened. Since I had clamped my hand so tightly over Ranphar's mouth, she had collapsed from breathing difficulties.
+As I spoke, I realized what had happened. Since I had clamped my hand so tightly over Lanhua's mouth, she had collapsed from breathing difficulties.
 //［宏治］：ま、マズい。おい！
 [Kouji]: Oh no. Hey!
 //両肩を持って前後に振るが、頭がカクカクとワンテンポずれて前後に動くだけで、返答は全くなかった。
 I took hold of her shoulders and shook her back and forth, but her head merely bobbed back and forth opposite her shoulders, with no response.
 //オレは無我夢中でランファの口に自分のそれを重ねた。鼻を指で押さえて、口腔へと空気を送り込む。
-Without thinking, I pressed my mouth to Ranphar's. As I pinched her nose shut, I blew into her mouth.
+Without thinking, I pressed my mouth to Lanhua's. As I pinched her nose shut, I blew into her mouth.
 //［宏治］：フーーーッッ。ランファ、気づけよぉ～。
-[Kouji]: *Fffff*. Ranphar, wake up~.
+[Kouji]: *Fffff*. Lanhua, wake up~.
 //［ランファ］：んっ‥‥‥‥。
-[RANPHAR]: Mm-.......
+[Lanhua]: Mm-.......
 //［宏治］：おっ、いい感じだ。もういっちょ、フーーーーーッッ！！
 [Kouji]: Oh-, that's a good reaction. Once more, *fffffffff*!!
 //［ランファ］：あン、コウジ様‥‥そんな、大胆ですぅ‥‥。
-[RANPHAR]: Ahm, Kouji-sama....h-how bold of you...
+[Lanhua]: Ahm, Kouji-sama....h-how bold of you...
 //［宏治］：よかったぁ‥‥ちょ、ちょっと‥‥。
 [Kouji]: Thank goodness...h-hold on...
 //気付いたと思ったら、オレのことを情熱的に抱きしめてきた。何か勘違いをしているらしい。
-Before I realized it, Ranphar hugged me passionately. She must have gotten the wrong idea.
+Before I realized it, Lanhua hugged me passionately. She must have gotten the wrong idea.
 //柔らかい舌がオレの口腔へと差し込まれてきた。口内をなぞりまくり、オレの舌へねっとりと絡みついてくる。
 She plied her soft tongue into my mouth. She traced the inner edges of my mouth, and stickily wrapped her tongue around mine.
 //年齢はわからないが、目の前にいるのは、どうみても少女だった。それがかえって、オレのインモラルな欲情を掻き立てていった‥‥。
-I didn't know her age, but Ranphar had to be a young lady. However, that stoked an immoral lust within me...
+I didn't know her age, but Lanhua had to be a young lady. However, that stoked an immoral lust within me...
 //［ランファ］：んっ‥‥もっと、もっとぉ‥‥。
-[RANPHAR]: Mm-...more, more....
+[Lanhua]: Mm-...more, more....
 //しばらくオレたちは、狭いロッカーの中でお互いの口腔をむさぼりあった。
 For some time, in that cramped locker, we devoured each others' mouths greedily.
 //しかし首に手をまわされ、情熱的に抱きしめられていると、次第に呼吸が困難になってくる。
@@ -867,15 +867,15 @@ But as she encircled my head with her arm and hugged me passionately, it became 
 //［宏治］：ぶはぁぁぁっ！
 [Kouji]: Buhaaaa-!
 //［ランファ］：あン、もっとぉ‥‥。
-[RANPHAR]: Ahh, more...
+[Lanhua]: Ahh, more...
 //［宏治］：よく、苦しくないね。
 [Kouji]: Hey, isn't it a little hard to breathe?
 //［ランファ］：肺活量、４千ですからねっ。
-[RANPHAR]: My lung capacity is 4000 cc, though.
+[Lanhua]: My lung capacity is 4000 cc, though.
 //［宏治］：ちょっと違うような気が‥‥。
 [Kouji]: That's not quite what I meant...
 //［ランファ］：ああン、コウジ様ぁ、早くぅ‥‥。
-[RANPHAR]: Ahhhhm, Kouji-samaaa, hurry....
+[Lanhua]: Ahhhhm, Kouji-samaaa, hurry....
 //［宏治］：ちょ、ちょっ‥‥そ、そうだ、そういえばさ。
 [Kouji]: W-wait...Th-that's it, speaking of which,
 //オレは煩悩を振り払うように、話題転換をする。この雰囲気は非常にヤバい。
@@ -883,7 +883,7 @@ As if surrendering to my worldly thoughts, I tried to change the subject. The at
 //［宏治］：ビアンカのこと、何だか詳しそうだけど、彼女のことを知ってるの？
 [Kouji]: You described Bianca in detail earlier. Do you know her?
 //［ランファ］：もちろんですぅ、ずっと一緒に暮らしてきましたし。
-[RANPHAR]: Of course I do, after all, you've always lived with her.
+[Lanhua]: Of course I do, after all, you've always lived with her.
 //［宏治］：ずっと‥‥一緒？
 [Kouji]: Always...lived with her?
 //聞き捨てならない情報だった。ビアンカとオレ‥‥コウジとは、敵同士ではなかったのか？
@@ -891,11 +891,11 @@ I couldn't overlook this report. Bianca and me...and Kouji, rather, have always 
 //［宏治］：それって、どういうこと？
 [Kouji]: W-what do you mean by that?
 //［ランファ］：えっと、どういうことと言われましても‥‥。
-[RANPHAR]: Umm, I just told you what it meant...
+[Lanhua]: Umm, I just told you what it meant...
 //［宏治］：じゃあ、どこで一緒に暮らしていたの？
 [Kouji]: Well, then, where did we live together?
 //［ランファ］：ここです。
-[RANPHAR]: Right here.
+[Lanhua]: Right here.
 //［宏治］：こ、ここ？
 [Kouji]: H-here?
 //ロッカーの中で一緒に暮らしていたのか‥‥。ほとんど、想像不能である。
@@ -903,51 +903,51 @@ Did we live together in a locker...? No, that's near unimaginable.
 //［宏治］：どのくらい、一緒に？
 [Kouji]: How long were we together?
 //［ランファ］：もう、何年も一緒にですよ。
-[RANPHAR]: Well, it was a number of years.
+[Lanhua]: Well, it was a number of years.
 //［宏治］：一緒に、何年も、ここで？
 [Kouji]: We were together, for a number of years, in here?
 //倒置法を多用して、オレはランファに問いただした。彼女はコクンと１つ、うなずく。
-I'd asked Ranphar those details in reverse order. She nodded once, curtly.
+I'd asked Lanhua those details in reverse order. She nodded once, curtly.
 //［宏治］：そうかぁ‥‥結構苦労したんだなぁ。
 [Kouji]: Is that so...It must have been quite exhausting, huh?
 //［ランファ］：はい、もうビアンカさんとコウジ様って、すっごく仲が良かったですから‥‥。
-[RANPHAR]: Yes, since Bianca-san and you were so close to each other...
+[Lanhua]: Yes, since Bianca-san and you were so close to each other...
 //［宏治］：えっ、オレ？　オレも一緒に？
 [Kouji]: Huh, me? I was there too?
 //［ランファ］：はい。トレイシーと私と、４人で。
-[RANPHAR]: Yes. With Tracy and me, we were four.
+[Lanhua]: Yes. With Tracy and me, we were four.
 //［宏治］：よ、４人も、ここに？　せまくないかい？
 [Kouji]: F-four people were here? Wasn't it cramped?
 //［ランファ］：んー、多少狭いかもしれませんけどねっ、やっぱし、愛がありますから。
-[RANPHAR]: Mm, it might have been cramped, but after all, there really was love between us.
+[Lanhua]: Mm, it might have been cramped, but after all, there really was love between us.
 //どうも話が食い違っているような気がするが、とりあえずビアンカと一緒にいたということは理解できた。
 I found myself disagreeing with her words, but I still understood that Bianca and I were together.
 //［宏治］：ふーんなるほどね‥‥ちょっ、ちょっ、ちょ‥‥。
 [Kouji]: Hmmm, so that's how it was...wai-wai-wait...
 //［ランファ］：あン、コウジ様ぁ、さっきの続きぃ‥‥。
-[RANPHAR]: Ahh, Kouji-sama, let's pick up where we left off...
+[Lanhua]: Ahh, Kouji-sama, let's pick up where we left off...
 //しなだれかかってくるランファを抱き留めながら、オレは後ろによりかかった。
-As RANPHAR snuggled herself against me, I leaned backwards a bit.
+As Lanhua snuggled herself against me, I leaned backwards a bit.
 //ドンガラガッシャーン！<$04><$30><$05>
 *TING-BATA-CLANG*!
 //［宏治］：ま、まずい！
 [Kouji]: S-shit!
 //［ランファ］：ああン、コウジ様ぁ‥‥。
-[RANPHAR]: AAhhm, Kouji-samaa...
+[Lanhua]: AAhhm, Kouji-samaa...
 //目を閉じて、口を突き出しながらオレにしがみつくランファを、何とか引き剥がそうとする。こんな事をしてる場合じゃない。
-As Ranphar closed her eyes and pursed her lips, still clinging to me, I desperately wanted to peel away. This really wasn't the place for such a thing.
+As Lanhua closed her eyes and pursed her lips, still clinging to me, I desperately wanted to peel away. This really wasn't the place for such a thing.
 //［宏治］：おい、コラ、くのっ、なかなか‥‥。
 [Kouji]: Hey, come on, this, really isn't...
 //［ランファ］：どうしちゃったんですかぁ‥‥あら？
-[RANPHAR]: What's the matter...Huh?
+[Lanhua]: What's the matter...Huh?
 //やっと状況を認識してくれたようである。したたか打ちつけた腰をさすりながら、オレはランファを丁寧に引き剥がす。
-She finally seemed to realize the situation we were in. As I rubbed my hip that I had banged into the wall, I gently peeled away from Ranphar.
+She finally seemed to realize the situation we were in. As I rubbed my hip that I had banged into the wall, I gently peeled away from Lanhua.
 //［宏治］：さっ、いこうか。
 [Kouji]: Now, let's go.
 //［ランファ］：はい、また、後でねっ。
-[RANPHAR]: Yes, I'll be right behind you.
+[Lanhua]: Yes, I'll be right behind you.
 //ランファは元通りの笑顔に戻ると、ニコっと微笑む。オレはまたしても、ムラムラとくる情熱を、頭の隅へ追いやる労力に勤しむことになった。
-Ranphar's original mischievous smile returned. Once more, I had to shake the oncoming lewd thoughts out of my head.
+Lanhua's original mischievous smile returned. Once more, I had to shake the oncoming lewd thoughts out of my head.
 //首尾良くトレイシーを助け出したオレたちは、ビアンカの私室にまでやってきていた。
 As Tracy had successfully helped us out, we made our way to Bianca's private room.
 //［ファル］：どうしたの？

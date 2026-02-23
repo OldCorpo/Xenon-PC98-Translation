@@ -9,17 +9,17 @@ Where am I headed this time....
 //頬を伝う涙の感触を感じながら、オレはコブシを抱えてうずくまった。痛かった‥‥無茶苦茶、痛い。
 As I felt tears roll down my cheek, I kneeled down and cupped my hand around it. It hurt...an awful lot.
 //［ランファ］：あっ、コウジ様ぁ！
-[RANPHAR]: Ah-, Kouji-sama-!
+[Lanhua]: Ah-, Kouji-sama-!
 //［宏治］：やぁ‥‥。
 [Kouji]: H-hey...
 //［宏治］：爆発するとか、以前言っていたじゃないか。
 [Kouji]: You warned me before about her explosive temper, didn't you?
 //［宏治］：まぁ、いいか‥‥それよりもさ、ランファ。
-[Kouji]: Well, anyway...ignoring all that, Ranphar...
+[Kouji]: Well, anyway...ignoring all that, Lanhua...
 //［宏治］：聞きたいことがあるんだ。
 [Kouji]: I have something to ask you about.
 //［ランファ］：何でも任せて下さい！
-[RANPHAR]: Leave it all to me!
+[Lanhua]: Leave it all to me!
 //［宏治］：ふぅ‥‥聞きたいことってのはさ‥‥。
 [Kouji]: Hoo...What I wanted to ask was...
 //［宏治］：あー、小難しい説明は無しね。トレイシーに聞くからさ。
@@ -465,7 +465,7 @@ As I felt her tongue around me, a pleasant numbness swept over me...
 //［ファル］：フン、聞きたいのは私の歳のこと？
 [FAR]: Hm, you want to know how old I am, don't you?
 //［宏治］：いや、本筋に戻ろう。トレイシーたちは、例の棺桶を大宇宙海賊なんとかジェネレータって、呼んでいたけど？
-[Kouji]: No, let's return to the original topic. Tracy and Ranphar called the tube the Universal Pirate something or other Generator.
+[Kouji]: No, let's return to the original topic. Tracy and Lanhua called the tube the Universal Pirate something or other Generator.
 //［ファル］：あれは、あなたが勝手に付けた名前なの。
 [FAR]: That's the name you came up with.
 //［宏治］：ふーん、コウジってヤツは、そのエンコーダを利用して、何をしようとしていたんだい？
@@ -837,7 +837,7 @@ I surveyed the empty corridor. Now, then, from here...
 //オレはそう考えると、ブリッジへ急ぎ足で向かっていった‥‥。
 With that thought, I hurried over to the bridge...
 //［宏治］：エンジンルームへ行ってみよう。ランファがいるかもしれないぞ。
-[Kouji]: Let's check the engine room. Ranphar might be there.
+[Kouji]: Let's check the engine room. Lanhua might be there.
 //オレはそう考えると、エンジンルームへ急ぎ足で向かっていった‥‥。
 With that thought, I hurried over to the engine room...
 //［宏治］：そうだな、エンコーダが安置されてる部屋へ行ってみよう。
@@ -865,12 +865,12 @@ The room in question was...the room with the encoder.
 //灼熱の拷問部屋、という感じだった。
 It gave the impression of a red-hot torture chamber.
 //確か、ランファの担当だったよな、このエンジンルームは‥‥こんな所でよく働ける。
-This engine room should be Ranphar's responsibility...it's where she works.
+This engine room should be Lanhua's responsibility...it's where she works.
 //［宏治］：ランファ！　いないのかい？
-[Kouji]: Ranphar? Are you there?
+[Kouji]: Lanhua? Are you there?
 //念のために、ハシゴのところから身を乗り出して、下へ呼びかけてみる。が、返事は無い。
 Just to be sure, I got on the ladder and shouted down. But there was no response.
 //［宏治］：‥‥ランファ、いないようだな。
-[Kouji]: ...Ranphar's probably not here.
+[Kouji]: ...Lanhua's probably not here.
 //何者かが侵入したのは確かなんだ。いったいどこに‥‥。
 There's definitely an intruder on board. Where could they possibly be....

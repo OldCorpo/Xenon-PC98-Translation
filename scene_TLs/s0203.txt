@@ -191,7 +191,7 @@ I stopped behaving like this was a kabuki play, fixed my collar and looked aroun
 //発展途上文明にしては、過ぎたシロモノだ。メカメカしいマシンを目の前にすると、自然と口の端がつり上がってくる。
 This thing has definitely surpassed the developing civilization. As the mechanical machine appeared before me, the edges of my mouth naturally turned upwards.
 //［コウジ］：ランファを連れてきたら、喜びそうだがな‥‥。
-[Kouji]: I should bring Ranphar here, she'd love this...
+[Kouji]: I should bring Lanhua here, she'd love this...
 //私は、この装置を色々と解析してみることにする。
 I want to perform all kinds of analyses on this apparatus.
 //　◆ まずコンソールパネルを利用して‥‥‥。

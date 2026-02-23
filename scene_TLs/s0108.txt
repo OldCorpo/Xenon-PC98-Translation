@@ -35,7 +35,7 @@ As she arranged the sheets covering my body, she said,
 //［コウジ］：残念ながら、記憶がはっきりとしないんだ‥‥。
 [Kouji]: Unfortunately, my memory is unclear...
 //これは事実だった。確か私は、例のシップの中でランファと話をしていて‥‥。
-This was a fact. I was definitely last on a ship talking to Ranphar...
+This was a fact. I was definitely last on a ship talking to Lanhua...
 //それからどうしたのか、あまりよく覚えていなかった。
 Whatever happened after that, I don't remember.
 //［コウジ］：そうだ、例のシップはどうなったんだい？
@@ -59,13 +59,13 @@ Whatever happened after that, I don't remember.
 //［トレイシー］：幸い、プロフェッサがあなたを見つけられたのは、幸運でした。
 [Tracy]: Fortunately, the professor found you. It was a sign of good luck.
 //［コウジ］：そうかもね‥‥ランファは？
-[Kouji]: That might be true...anyway, what happened to Ranphar?
+[Kouji]: That might be true...anyway, what happened to Lanhua?
 //［トレイシー］：ランファ‥‥？
-[Tracy]: Ranphar...?
+[Tracy]: Lanhua...?
 //［コウジ］：そうだよ、ランファはどうしたんだ。
-[Kouji]: Yeah, how is Ranphar doing?
+[Kouji]: Yeah, how is Lanhua doing?
 //［トレイシー］：ランファは‥‥私と一緒に、ここへ残っていましたけど‥‥。
-[Tracy]: Ranphar had...remained here with me...
+[Tracy]: Lanhua had...remained here with me...
 //［コウジ］：じょ、冗談はよしてくれ。私は、彼女と話しているときに‥‥。
 [Kouji]: Lay off the jokes, will you. I was talking to her at the time...
 //［トレイシー］：冗談ではありません。彼女は、私と一緒にコンソールオペレートをしていました。
