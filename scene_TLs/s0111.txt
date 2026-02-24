@@ -5,7 +5,7 @@ The planet was a damp, dark place...
 //ちょうど、夜の側に入ってしまったからだろうが、全体的に暗く、湿度が高い。
 We just entered the night side, so it was entirely dark, but still warm.
 //砂漠と見間違うほど、あたり一面に砂丘が広がっていた。砂丘のあちこちから、何かの建造物とおぼしい遺跡が突出しているのが確認できる。
-As if we had mistakenly entered a desert, one side of our surroundings was covered by a wide sand dune.\nAll around the sand dune, we could make out some sort of buildings and odd ruins sticking out.
+As if we had mistakenly entered a desert, one side of our surroundings was covered by a wide sand dune. All around the sand dune, we could make out some sort of buildings and odd ruins sticking out.
 //［コウジ］：（かつての文明のレベルは、それほど低くは無かったのかもしれないが‥‥。）
 [Kouji]: (The civilization that was once here, was probably pretty advanced...)
 //長い年月のあいだ、恒星の強い光と風雨にさらされて、もはや原型をとどめぬほど色あせ、風化していた。

@@ -11,11 +11,11 @@ Though we were still in the cold season...
 //室内は冷房を入れていたか、あるいは廊下に暖房をきかせているのか‥‥。
 Was it the air conditioning working the room, or the heating working in the corridor?
 //放課後、数時間が経過した校内‥‥そんな形容が当てはまる場所だ。
-The inside of a school a few hours after the students had left for the day...\nThat was the feeling exuding from this place.
+The inside of a school a few hours after the students had left for the day... That was the feeling exuding from this place.
 //［宏治］：今日はまた、一段と人の数が少ないな‥‥。
 [Kouji]: Again, there’s not a lot a people here today.
 //たまにすれ違う何人かの人たちは、午後の気だるさを表情に浮かべ、僕の傍らを寡黙に通り過ぎていく。
-From time to time, other people would wordlessly pass by me, with sluggish\n afternoon expressions plastered on their faces.
+From time to time, other people would wordlessly pass by me, with sluggish  afternoon expressions plastered on their faces.
 //こうして見ると、ごく普通の病棟の一風景という感じがする。
 This was the typical scene you would expect from an ordinary hospital.
 //［宏治］：しかし、それにしても‥‥。
@@ -23,7 +23,7 @@ This was the typical scene you would expect from an ordinary hospital.
 //僕は先ほどの、涼子先生の言った、あの言葉を思い起こしていた。
 The words Ryouko-sensei spoke before resurfaced within me.
 //『どんな夢にも一定以上の意味があり、心的価値が存在する‥‥。』
-『Whatever the dream, there is a theory that there is more than\none fixed meaning, that a psychological value also exists.』
+『Whatever the dream, there is a theory that there is more than one fixed meaning, that a psychological value also exists.』
 //‥‥‥‥‥‥‥‥。
 ‥‥‥‥‥‥‥‥
 //心的価値？
@@ -41,11 +41,11 @@ Well, it's no use thinking over it here.
 //このまま自室に戻って、少し休もう。
 I'll return to my room to get some rest.
 //僕の自室は３階にある。ここ２階から、階段１階分だけ上らなくてはならない。
-My room was on the third floor. As I was now on the second floor, I'll have to\ntraipse up just one floor using the stairs.
+My room was on the third floor. As I was now on the second floor, I'll have to traipse up just one floor using the stairs.
 //［宏治］：（疲れるな‥‥‥‥。）
 [Kouji]: (I'm pooped...)
 //他人に聞かれたら呆れられそうだったが、実際、今の僕は頭がぼやけていて、足どりも至極重い。
-If you were to ask someone, they would be surprised to find out that my thoughts\nwere blurred and my gait was extremely heavy.
+If you were to ask someone, they would be surprised to find out that my thoughts were blurred and my gait was extremely heavy.
 //まるで、自分の身体では無いような気がした。
 It was as if my body wasn't my own.
 //［宏治］：（催眠療法のせいかもしれないな‥‥‥‥。）
@@ -53,11 +53,11 @@ It was as if my body wasn't my own.
 //［宏治］：（しばらく自室で、横にでもなろう。）
 [Kouji]: (I'll just lie down for a while in my room.)
 //自室といっても、ごく普通の個人用の病室だ。僕はここ数週間、そこで寝泊まりしていた。
-Even though I say "my room", it's really just an ordinary individual hospital room.\nI've been staying there for a few weeks now.
+Even though I say "my room", it's really just an ordinary individual hospital room. I've been staying there for a few weeks now.
 //［宏治］：（そうだ、エレベータを‥‥‥‥。）
 [Kouji]: (Yeah, the elevator...)
 //幸い、エレベータは２階にとどまっていたようだ。上のボタンを押すと、ドアはすぐに開いた。
-Luckily, the elevator was on standby on the second floor. The door immediately\nopened the moment I pressed the "up" button.
+Luckily, the elevator was on standby on the second floor. The door immediately opened the moment I pressed the "up" button.
 //僕は頭を振りながら、重い足取りでエレベータに乗り込んで行った‥‥。
 Shaking my head, I got onto the elevator with heavy footsteps.
 //ロビーにでも行って、考えをまとめてみよう。
@@ -75,7 +75,7 @@ But then it crossed my mind that it was still better than not thinking at all.
 //ロビーは１階にある。ここ２階から、１階分だけ階段を利用しなくてはならない。
 The lobby was on the first floor. As I was now at the second floor, I'll go down just one floor using the stairs.
 //幸い、エレベータは２階にとどまっていたようだ。下のボタンを押すと、ドアはすぐに開いた。
-Luckily, the lift was on standby on the second floor. The door immediately opened\nthe moment I pressed the "down" button.
+Luckily, the lift was on standby on the second floor. The door immediately opened the moment I pressed the "down" button.
 //エレベータに人は乗って居なかった。ここでゴミゴミと満員のエレベータなどに乗ったら、卒倒してしまう。
 Nobody was riding the lift. If you were to ride this lift when it is overcrowded, you would surely faint from asphyxiation.
 //壁に寄り掛かる。背中にヒンヤリとした温度を感じた。
@@ -113,7 +113,7 @@ This woman seemed a bit surprised when she saw me. But that expression only last
 //最後の「さん」のイントネーションが、少し妙な発音になっている。この子の特徴だった。
 Her tone when she was pronouncing "-san" was a bit strange, and was a special trait of hers.
 //静かな廊下、無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
-In the silent corridor, an inorganic place, Mai’s figure was that of a sole\nblooming flower.
+In the silent corridor, an inorganic place, Mai’s figure was that of a sole blooming flower.
 //気分が低下していた僕にとって、ある種の清涼剤になったのは事実のようだった。
 In my sullen mood, her presence was truly a breath of fresh air to me.
 //［舞］：フフ、どうしたんですか？
@@ -127,9 +127,9 @@ In my sullen mood, her presence was truly a breath of fresh air to me.
 //［舞］：そう‥‥‥。
 [Mai]: I see...
 //彼女は舞という名前だ。それ以上の事は知らないし、教えてもくれない。
-She was called Mai. I didn't know anything about her beside that, nor did she\ntell me anything.
+She was called Mai. I didn't know anything about her beside that, nor did she tell me anything.
 //僕も、彼女が話さない以上、率先して聞き出そうとはしなかった。
-But it wasn't as if she was withholding that information; I merely wasn't taking\nthe initiative to ask her.
+But it wasn't as if she was withholding that information; I merely wasn't taking the initiative to ask her.
 //どこか陰があるような、憂いがかった女性だった。
 She seemed to have a hidden, troubled side somewhere.
 //［舞］：今日も？
@@ -149,7 +149,7 @@ I nodded to her. How many times had we had this same conversation?
 //［舞］：ええ‥‥。
 [Mai]: Yeah...
 //少し気のない声が、僕の耳に届いてくる。何かいいたげだ。
-Her somewhat halfhearted reply reached my ears. There was something else she\nwanted to tell me.
+Her somewhat halfhearted reply reached my ears. There was something else she wanted to tell me.
 //僕は黙って、舞の話の続きを待った。
 I kept silent, awaiting Mai’s next words.
 //［舞］：それよりも、宏治サン。
@@ -179,7 +179,7 @@ I glanced quickly at Mai's expression. Luckily, she didn't seem in a bad mood.
 //［舞］：夢にはメッセージが込められているんです、１つ１つに‥‥。
 [Mai]: Every dream holds a message...
 //［舞］：それを、ほとんどの人が気付かないまま、忘れ去ってしまうんです。
-[Mai]: Most people do not ever realize this, and their dreams end up sunken into\noblivion.
+[Mai]: Most people do not ever realize this, and their dreams end up sunken into oblivion.
 //［宏治］：僕の例の夢にも、何か理由があるってこと？
 [Kouji]: Do you mean there is some reason to my dream?
 //［舞］：はい、きっと、あります。
@@ -207,13 +207,13 @@ Afterwards, it was only me loitering in the long corridor, alone.
 //［宏治］：（部屋に、戻るかな‥‥。）
 [Kouji]: (I should go back to my room.)
 //頭も足も重かった。今は、ベッドの上に早く倒れ込みたいという欲求が、僕の身体を動かしている‥‥。
-My legs were as sore as my head. Right now, I was moving my body just so I could\ncollapse on my bed...
+My legs were as sore as my head. Right now, I was moving my body just so I could collapse on my bed...
 //1070
 1070
 //静かなロビーだった。空調設備としての、レトロな扇風機が天井で回っていた。
 The lobby was quiet. Instead of an air conditioner, an old-fashioned fan was whirling about on the ceiling.
 //人は少なく無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
-An inorganic place with few people. Amidst all this, Mai’s figure stood out like\n a sole blooming flower.
+An inorganic place with few people. Amidst all this, Mai’s figure stood out like  a sole blooming flower.
 //いつの間にか、ロビーには僕らだけになっていた。
 Without me realizing it, we’d become the only ones left in the lobby.
 //後には、僕が１人だけ、シンと静まったロビーにたたずんでいるだけだった‥‥。
@@ -521,7 +521,7 @@ saya01
 //パラパラと音をたてて、ボタンが床に散らばっていった。
 With a clattering noise, the buttons scattered on the floor.
 //いわゆる立ちくらみに似ている。倒れる際、ブラウスに手を引っかけて、ボタンを全て外してしまったようだ。
-As if in a dizzy spell from standing up too quickly, so to speak, while collapsing,\nI'd grabbed onto her blouse, inadvertently tearing all its buttons off.
+As if in a dizzy spell from standing up too quickly, so to speak, while collapsing, I'd grabbed onto her blouse, inadvertently tearing all its buttons off.
 //saya01_m
 saya01_m
 //［沙夜香］：ひっどーい、このベストとブラウス、まだおニューだったのに‥‥。

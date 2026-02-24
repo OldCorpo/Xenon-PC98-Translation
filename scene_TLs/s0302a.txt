@@ -642,7 +642,7 @@ Huh? The electricity went out...
 [Lanhua]: Yes! Leave it to me!
 //［トレイシー］：あの、私の方が理路整然と説明できると思いますが‥‥。
 [Tracy]: Um, I'd like it if you could explain this in a logically sound way...
-//\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
+// 　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
 VIP ROOM
 //重厚なプレートに、ＶＩＰルームと書かれた部屋の前にオレはたった。
 On a thick, heavy plate in front of the room before me, the words "VIP ROOM" were inscribed.
@@ -652,7 +652,7 @@ Just as I was coming over, it seemed to be empty, but...it might have only seeme
 If you ask me, I get the impression that the woman named Farnelia is not at all unreasonable. If I were an esteemed guest, I'd definitely complain that the food and shelter accommodations were inadequate.
 //傍らのコンパネに手を伸ばしてみる。赤く点滅しているボタンを押そうとして、はたと手を止めた。
 I reached for the control panel beside me. As I pushed the blinking red buttons, I suddenly stopped.
-//\n　　　　　　　　　ＤＯＯＲ　ＬＯＣＫ　ＯＫ
+// 　　　　　　　　　ＤＯＯＲ　ＬＯＣＫ　ＯＫ
 DOOR LOCK OK
 //どうやらこのボタンは、ドアのロックシステムだったらしい。さっき開かなかったのは、このためか‥‥？
 It seems these buttons controlled the door's locking system. Was it closed just now for a reason...?

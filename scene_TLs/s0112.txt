@@ -221,7 +221,7 @@ mai04_m
 //［宏治］：ぷ、プロジェクタ？　人類の文明？
 [Kouji]: P-projector? Human culture?
 //［舞］：もうすぐ、私たちは人間という壁を１つ越えることになるわ。人間の定義自体が無意味な世界へ‥‥
-[Mai]: Very shortly, we will take one step beyond this wall called humanity.\nTo a world where the very definition of humanity is meaningless...
+[Mai]: Very shortly, we will take one step beyond this wall called humanity. To a world where the very definition of humanity is meaningless...
 //［宏治］：な、何を言ってるんだよ！？
 [Kouji]: W-what the hell are you talking about?!
 //［舞］：宏治サン、私は‥‥‥‥。
