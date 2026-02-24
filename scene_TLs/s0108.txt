@@ -350,8 +350,8 @@ It seemed the "second ship" was just an abbreviation for "second investigative t
 [Bianca]: I know everything...You were the very one who eliminated the second investigative team!
 //xenon_27
 xenon_27
-//\n\n\n　
-\n\n\n
+//
+
 //［コウジ］：い、今なんて‥‥。
 [Kouji]: Wh-what did you just say...
 //［ビアンカ］：し、しらばっくれて、どういうつもりさ。

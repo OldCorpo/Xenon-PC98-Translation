@@ -139,13 +139,13 @@ In the dark, cold rooftop, I pondered that...
 //あたりは静かだった。ここへやって来るまで、誰にもすれ違わず、動く者は僕以外にいそうもなかった。
 It was quiet around me. No one had passed by me on my way here, as if I were the only one moving around.
 //もともと、この医療センターは人が多い方ではなかった。時間を考えれば当然と言えるかもしれないが、受付に誰もいないというのはどういうことだろうか。
-There weren't a lot of people in this clinical center to begin with. If I consider the time,\nI might say it's natural, but even at the reception, no one was there.
+There weren't a lot of people in this clinical center to begin with. If I consider the time, I might say it's natural, but even at the reception, no one was there.
 //［宏治］：（夢の風景みたいだな‥‥。）
 [Kouji]: (This atmosphere feels like a dream...)
 //いや、これは現実だ‥‥現に、今こうして誰にも会わなかったじゃないか‥‥。
 No, this is reality...In the here and now, I've met nobody here...
 //そうだ、これが現実にあり得るのかという疑問は、現実からの逃避に過ぎない‥‥そう考えた時点で、この現状を否定している。
-That's right, to the question of whether this is reality or not, I can't run away from reality...\nThat thought alone dispelled the current confusion.
+That's right, to the question of whether this is reality or not, I can't run away from reality... That thought alone dispelled the current confusion.
 //僕はそう考えると、誰もいない廊下を歩きだした。
 As I thought, I walked down the empty corridor.
 //本当に静かだった‥‥静寂の音が聞こえてきそうな、そんな感じだ。
@@ -253,7 +253,7 @@ As I made that strange excuse, I gently put the receiver to my ear...
 //妙な雑音と共に聞こえてきたのは、恵の声だった。いったい、どこにいるんだろうか。
 I heard a strange noise along with Megumi's voice. What could be going on?
 //もっとも意外な相手に、やや安堵もする。不安が取り除かれた僕の声は、少し高揚していたかも知れない。
-I was relieved to hear such an unexpected voice on the other end.\nAs my uneasiness was abated, I may have sounded a bit uplifted.
+I was relieved to hear such an unexpected voice on the other end. As my uneasiness was abated, I may have sounded a bit uplifted.
 //［宏治］：雑音が多いけど、どこにいるんだい。
 [Kouji]: I hear a lot of noise on the other end. Where are you?
 //［恵］：この医療センターの中よ‥‥。
@@ -459,7 +459,7 @@ This place wasn't silent after all...
 //［宏治］：誰だ！？
 [Kouji]: Who's there?!
 //その時、機器類の陰から、素早くドアへ向かう人影があった。僕は無我夢中で、その影に向かって体当たりをしていた。
-Right then, from behind the machinery, there appeared a person's silhouette moving quickly toward the door.\nLosing myself in the moment, I turned toward that silhouette and bumped into it.
+Right then, from behind the machinery, there appeared a person's silhouette moving quickly toward the door. Losing myself in the moment, I turned toward that silhouette and bumped into it.
 //ドカッ！！
 *bump*!
 //［女の声］：いったーい‥‥ちょっとぉー手加減してよネ、宏治クン。
@@ -745,7 +745,7 @@ Ryouko looked at me with a far-reaching gaze. No, not at me, but at something be
 //［宏治］：人間の意識を自由に操る、ということ？
 [Kouji]: You mean, altering human consciousness freely?
 //［涼子］：人間ではないわ。意識を操るの。意識を持つのは、何も人間だけではないでしょう？
-[Ryouko]: Not necessarily humans. We're talking about altering consciousness.\nBesides humans, is there anything that has consciousness?
+[Ryouko]: Not necessarily humans. We're talking about altering consciousness. Besides humans, is there anything that has consciousness?
 //［宏治］：に、人間だけじゃない‥‥。
 [Kouji]: S-so it's not just humans....
 //［涼子］：そう、例えば、蝶とかね‥‥‥‥。

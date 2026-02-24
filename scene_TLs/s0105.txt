@@ -29,7 +29,7 @@ s0105
 //［涼子］：私はこう見えても科学者よ、宏治クン。
 [Ryouko]: I'm looking at this as a scientist, Kouji-kun.
 //ブラインドから洩れる陽射しが、天候の良さを物語っている。外からは時折、鳥のさえずり声が聞こえるだけで、辺りはおおむね静かだ‥‥。
-The sunlight seeping through the blinds indicated good weather.\nApart from the occasional chirping birds, it was silent all around us...
+The sunlight seeping through the blinds indicated good weather. Apart from the occasional chirping birds, it was silent all around us...
 //［涼子］：じゃあ宏治クン、今日は、その‥‥。
 [Ryouko]: Well, then, Kouji-kun, today, we'll...
 //［宏治］：先生。
@@ -567,7 +567,7 @@ Indeed, I might be able to see some people in the lobby. I slowly looked around 
 //インフォメーションボードには、現在の場所やら設備の詳細が記されている。あらためて見ると、意外に広い。
 The current location and facility details were recorded on the bulletin board. As I looked at it again, it felt quite wide.
 //３階建ての建物ではあったが、横への広がりが充実していた。この狭い国には、いささか相応しくない造りと言える。
-The third floor's buildings were displayed, but there was a substantial spread off to the side.\nIt was a little unfitting for a confined country like ours.
+The third floor's buildings were displayed, but there was a substantial spread off to the side. It was a little unfitting for a confined country like ours.
 //［恵］：宏治！
 [Megumi]: Kouji!
 //活発な声が僕の耳に響いてきた。あれ、この声は‥‥。

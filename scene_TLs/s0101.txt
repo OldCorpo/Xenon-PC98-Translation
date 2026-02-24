@@ -57,7 +57,7 @@ s0401
 //この場にとどまって、あの足音の正体を確かめてやる。
 I'll stay here to uncover who's walking out there.
 //そう威勢良く決めたものの、妙に緊張してしまう。恥ずかしいことに、自分の心音が耳まで届いてきそうだった。
-After making this bold decision, strangely, I started becoming nervous. Embarrassingly, \nI could even hear my loud heartbeats reaching my ears.
+After making this bold decision, strangely, I started becoming nervous. Embarrassingly, I could even hear my loud heartbeats reaching my ears.
 //（靴底が、床を踏む音だろうか‥‥？）
 (Without doubt, this is the sound of shoes tapping on the floor...)
 //どうやらそれが一番近い解答と思えた。底の堅い、ブーツか何かをはいているのかも知れない。
@@ -119,7 +119,7 @@ Crystalline but dark hair, wearing a large lemon yellow ribbon and a showy wine 
 //見ていて、少しクラクラしてしまいそうだった。
 As I looked closer, she seemed quite disoriented.
 //下半身に目を移すとさらにドキッとした。左右両側に大きく切れ込んだスリットが、真っ白な太股を惜しげもなく露出している。
-I was all the more shocked when I saw the lower half of her body. Her pure white thighs\nwere shamelessly exposed through two large slits on either side of her uniform.
+I was all the more shocked when I saw the lower half of her body. Her pure white thighs were shamelessly exposed through two large slits on either side of her uniform.
 //［私］：（ナース‥‥‥‥だろうか？）
 [Me]: (Is she...a nurse?)
 //非現実的な場面に、これまた非現実的なナースの登場という訳だった。
@@ -137,7 +137,7 @@ Her big round eyes were moving gently in her sockets.
 //そう言いかけて、はたと気付いてしまった。私の名前‥‥‥‥？
 Saying that, I suddenly realized. My name...?
 //不思議なものだった。自分の身長や体重、趣味などは思い出すことができた。丁度資料を調べるように、自分のデータを読むことができるのだ。
-That was a mystery. I knew my height, my weight, even my hobbies. As if I was sifting\nsome sort of document, I could read my personal data.
+That was a mystery. I knew my height, my weight, even my hobbies. As if I was sifting some sort of document, I could read my personal data.
 //だが、名前の部分になると、ちょうどそこの文字の部分に、網が掛かって読めなくなるような、そんな感じだった。
 However, concerning my name, especially the way it was spelt, I couldn't read it. It was as if it was entangled deep in my memories.
 //［私］：私は‥‥私はいったい誰だ？
@@ -153,9 +153,9 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //気が少し動転していたのかもしれない‥‥。
 Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
-Before I realized, I had arrived in an utterly frigid place. I could see my breath\nbillowing out like smoke, and I was shaking like a leaf in the wind.
+Before I realized, I had arrived in an utterly frigid place. I could see my breath billowing out like smoke, and I was shaking like a leaf in the wind.
 //ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
-It seemed that I ended up in an unusual place while I was roaming the area,\nlooking for this girl called Lanhua.
+It seemed that I ended up in an unusual place while I was roaming the area, looking for this girl called Lanhua.
 //0040
 0040
 //xenon_13
@@ -217,13 +217,13 @@ Getting closer, I finally understood what was the source of that light.
 //0040b
 0040b
 //側面下方に付いてある、小さなコンソールパネルが点滅している。そこから、ピッ、ピッ、という電子音が、断続的に鳴っているようだ。
-Below on the side, a small console panel was blinking. You could hear \na strident sound intermittently stemming from it.
+Below on the side, a small console panel was blinking. You could hear a strident sound intermittently stemming from it.
 //私は屈んでパネルをのぞき込んでみる。そこには小さな文字で、こうディスプレイされていた。
 Crouching down, I peered at the monitor. On it the following characters were displayed:
 //　　　　　　　　　　　　　P.P.E.
 　　　　　　　　　　　　　P.P.E.
 //\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER
-\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER
+　　　　　　　　PSYCHIC - PROGRAM - ENCODER
 //\n\n\n　　　　　　　　　PSY encoder operating ...
 \n\n\n　　　　　　　　　PSY encoder operating ...
 //（サイキック‥‥
@@ -285,7 +285,7 @@ An alarm-like sound was echoing through the room. The sound was coming from belo
 //先ほどのパネルには、こう表示されていた‥‥。
 The panel was now displaying this message:
 //\n　　　　　　　　　　　Now decoding ...
-\n　　　　　　　　　　　Now decoding ...
+　　　　　　　　　　　Now decoding ...
 //　
 　
 //何か、マズいことでもしてしまったのだろうか‥‥？

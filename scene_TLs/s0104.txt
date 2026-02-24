@@ -57,7 +57,7 @@ A hot, stifling, boisterous place...I couldn't stay here for more than a few min
 //ふと、手前右側には、ドアらしきものを発見した。
 Suddenly, I discovered something resembling a door on my right.
 //ドアの前に立ってみるが、開く様子は微塵もない。どうしたものかと思案する私の目に、ドア横のレバースイッチが入ってきた。
-Standing in front of the door and examining it, I found it was sealed shut. As I tried to grasp the situation at hand,\nI noticed a lever beside the door.
+Standing in front of the door and examining it, I found it was sealed shut. As I tried to grasp the situation at hand, I noticed a lever beside the door.
 //もしかすると、これで‥‥？
 Maybe, if I...?
 //　◆ レバースイッチを入れてみよう。
