@@ -182,13 +182,13 @@ The time for thinking about what I should do next came quite suddenly.
 I suddenly felt a loss of balance from my inner ear. As I felt the earth beneath me trembling, I fell on one knee onto the bed.
 //［コウジ］：くっ‥‥大宇宙海賊たる、この私が‥‥。
 [Kouji]: Kuh...I'm a galactic pirate, dammit...
-//地面が急速に私の方へと起きあがってくる。意識が遠のいていく‥‥私は床の冷たさを感じながら‥‥。<$05>
+//地面が急速に私の方へと起きあがってくる。意識が遠のいていく‥‥私は床の冷たさを感じながら‥‥。
 The earth rapidly rose towards me. My consciousness faded far away...as I felt the coldness of the bed...
 //Ｄ
 Ｄ
-//（ファル‥‥‥‥。）<$05>
+//（ファル‥‥‥‥。）
 (Far......)
-//（そうだ、ファルがエンコーダと一緒に‥‥。）<$05>
+//（そうだ、ファルがエンコーダと一緒に‥‥。）
 (That's right, Far was with the encoder...)
 //［コウジ］：（そうか、ここは思念を結ぶアストラル界‥‥。）
 [Kouji]: (Then, this place must be the astral plane uniting thoughts...)
@@ -206,7 +206,7 @@ As I almost strengthened my conviction, I spoke towards the voice.
 [Man's voice]: Wh-what...
 //［コウジ］：貴様では無理だと言ったのだ。
 [Kouji]: I said, your actions are futile.
-//［男の声］：誰だ！？<$05>
+//［男の声］：誰だ！？
 [Man's voice]: Who are you?!
 //ko01
 ko01
@@ -414,10 +414,14 @@ ko01
 [Kouji]: Just speak as I say. However, don't speak a word of it to the other woman. Do you understand?
 //［宏治］：訳がわからないぞ。
 [Kouji]: What's the point of all this?
-//［コウジ］：むっ、マズい。いいか、５時間後だ、忘れるな‥‥。<$05>
+//［コウジ］：むっ、マズい。いいか、５時間後だ、忘れるな‥‥。
 [Kouji]: Oh, oh no. Well, then, in 5 hours. Don't forget...
-//［コウジ］：‥‥‥<$0C>‥‥‥<$0C>‥‥‥。
-[Kouji]: .........
+//［コウジ］：‥‥‥
+[Kouji]: ......
+//‥‥‥
+...
+//‥‥‥。
+...
 //どうやら、意識が回復してきたようだった。私の浮遊していた思念が、すーっと身体に入っていく感覚が起きる。
 My consciousness had somehow recuperated. My drifting thoughts were suddenly thrust back into my body.
 //視覚も戻ってきたようだ‥‥ゆっくりと目を開けてみる。

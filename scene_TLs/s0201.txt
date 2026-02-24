@@ -1,5 +1,5 @@
-//<$0C><$04><$30><$05>
-<$0C><$04><$30><$05>
+//<$0C>
+<$0C>
 //言い様のない不安に襲われていたのも事実だった。私は、手近なドアを開けると、その中に身を潜めた‥‥。
 It's true that I was stricken by an indescribable anxiety. As I opened the door by my hand, my body was enveloped by it...
 //（寒いな‥‥‥‥。）
@@ -8,7 +8,7 @@ It's true that I was stricken by an indescribable anxiety. As I opened the door 
 That room was cold. I could see my breath in front of me, swaying back and forth.
 //どうやら、妙な場所へ出てしまったようだが‥‥。
 Somehow, I wanted to get out of this strange place...
-//ドンドンドン、ドンドンドン！<$04><$32><$05>
+//ドンドンドン、ドンドンドン！
 *bang bang bang*, *bang bang bang*!
 //私は屈んでパネルをのぞき込んだ。そこには小さな文字で、こうディスプレイされていた。
 I bent over and peeked at the panel. It was displayed in small print.
@@ -16,8 +16,8 @@ I bent over and peeked at the panel. It was displayed in small print.
 (That's right, I'm slowly remembering...)
 //（私は、これを利用して‥‥‥‥。）
 (If I use this...)
-//‥‥‥‥‥‥。<$05><$04><$33>
-....... <$05><$04><$33>
+//‥‥‥‥‥‥。
+....... 
 //ra&to03
 ra&to03
 //ra&to03b
@@ -86,5 +86,5 @@ Being a brawny galactic pirate and a gifted, talented genius, I improved upon th
 [Kouji]: Well then, let's get going.
 //私はそう言うと、ゆっくりと目をつぶった。まわりで響いていた重々しい稼働音が、少しずつ小さくなっていく。
 As I said that, I slowly closed my eyes. A heavy moving sound rang all around, and slowly died down.
-//私は心地よい振動と静寂に、身を委ねていった‥‥‥‥。<$05>
+//私は心地よい振動と静寂に、身を委ねていった‥‥‥‥。
 I silently surrendered my body to the pleasant vibration...

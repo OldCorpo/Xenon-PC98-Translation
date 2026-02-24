@@ -2,7 +2,7 @@
 s0203
 //妙な夢だった‥‥。
 What a strange dream....
-//私が、《クワドラ》で、貧弱な精神を持ちながら、シップ内をさまようのだ。<$05>
+//私が、《クワドラ》で、貧弱な精神を持ちながら、シップ内をさまようのだ。
 On the Kuwadora, I floated through the ship's interior cradling a weak spirit.
 //ファルネリアか‥‥‥‥彼女が、なぜここに‥‥？
 Farnelia...why is she here...?
@@ -48,7 +48,7 @@ Hm, if I were there, I'd be exceedingly rational and logical. However, the "me" 
 [Far]: No, I didn't.
 //フン、まぁいい。つまらん夢を見ることも、あるだろう‥‥。
 Hum, well, this is fine. I do sometimes have uninteresting dreams, after all...
-//そう考えると、私は再び深い眠りの域へと落ちていった‥‥‥‥。<$05>
+//そう考えると、私は再び深い眠りの域へと落ちていった‥‥‥‥。
 With that in mind, I fell into deep sleep once more....
 //［コウジ］：夜、か‥‥。
 [Kouji]: It's night, huh...
@@ -142,8 +142,8 @@ What an unexpected boon. This newfound knowledge defeats my original motivation 
 I have things to do. That is...
 //ここで寝ることだ。
 Let's go to sleep.
-//‥‥‥‥‥。<$05>
-......<$05>
+//‥‥‥‥‥。
+......
 //私らしからぬ、非論理的なことを考えてしまった。何のために起きたのか、これではわからないではないか。
 It's not like me to think about such irrational things. Don't I know why I woke up?
 //寝るのは、目的を達成してからでも遅くはない。
@@ -382,8 +382,8 @@ Then, tell me about the fundamental concepts behind this machine.
 [Sayaka]: How-?!
 //［コウジ］：フン、図星らしいな。
 [Kouji]: Ha, bull's-eye.
-//バキッ！！<$04><$30><$05>
-Crack!!<$04><$30><$05>
+//バキッ！！
+Crack!!
 //［沙夜香］：私はね、ウエストが６０をオーバーしたことがないのよ。
 [Sayaka]: Well, you overestimated my waist, it's actually 60 cm.
 //［コウジ］：バカめ、貴様の手に、私の鼻血が付いているぞ。
@@ -692,5 +692,5 @@ As I moved my hips, Ryouko screamed out in pleasure. It was somewhat frustrating
 [Ryouko]: Ah, it's coming, it's coming! I want it, I love it!
 //ドクドクドクッ‥‥ドクッ！
 Thump, thump, thump... Thump!
-//［涼子］：あぁぁぁ、いくわぁぁぁぁぁぁぁぁぁぁっっっ！！！<$05>
+//［涼子］：あぁぁぁ、いくわぁぁぁぁぁぁぁぁぁぁっっっ！！！
 [Ryouko]: AHHHH, I'M CUMMIIIIIING--!!!

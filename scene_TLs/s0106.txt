@@ -120,7 +120,7 @@ Coupled with the suffocating warm air, my sense of unease grew. I headed down th
 [Kouji]: (Once I turn that corner, I should be pretty close to the place...)
 //角を曲がると、指示された部屋のドアはすんなりと見つかった。私はドアの前に立つと、
 As I turned the corner, I immediately saw the indicated door. As I stood in front of the door,
-//コンコン‥‥‥‥。<$04><$32><$05>
+//コンコン‥‥‥‥。
 *Knock knock*
 //異様に分厚いドアだから、これでは聞こえないんじゃないか‥‥？
 Maybe they didn't hear me because this door is so thick...?
@@ -422,7 +422,7 @@ On top of all that...
 As Far said, I think she's quite strange. My feelings for her are quite complicated.
 //彼女が以前、あんなことを私にもらしたから、だろうか‥‥‥‥。
 Before, she did do all those things for me...
-//目を覚ませ‥‥？<$04><$33><$05>
+//目を覚ませ‥‥？
 Awaken...?
 //私は、黙ってシャトルの搭乗タラップに足を掛けた‥‥。
 I silently got on the shuttle's boarding ramp...
@@ -432,7 +432,7 @@ xenon_07
 [Kouji]: (What on earth...)
 //［コウジ］：（いったい、誰がいるのだろうか‥‥‥‥。）
 [Kouji]: (What on earth, is someone there...)
-//私はシャトル発進の衝撃の中でも、そのことにしか頭にはなかった‥‥。<$05>
+//私はシャトル発進の衝撃の中でも、そのことにしか頭にはなかった‥‥。
 During the shuttle's liftoff, I only thought about that...
 //xenon_19
 xenon_19
@@ -648,8 +648,10 @@ I grabbed onto the handrail and slowly walked down. The cold touch soothed my mo
 [Kouji]: (Still, in any case...)
 //大きなエンジンだった。重い振動が、ここまでピリピリと伝わってくる。
 There was a large engine. I could hear the forceful vibrations all the way from here.
-//ずっと下にも続いているようだが‥‥<$0C>下？
-I've wanted to continue all the way down there, but...
+//ずっと下にも続いているようだが‥‥
+I've wanted to continue all the way down there,
+//下？
+ but...
 //［コウジ］：これは‥‥。
 [Kouji]: This...
 //よく見ると、手すりには何かフックが引っかけられている。それはずっと下方にまで伸びていた。
@@ -774,7 +776,7 @@ As my eyes darted from plate to plate, I stopped at one. It was noticeably bigge
 That plate had already turned a khaki color, and dust had built up on its surface.
 //そっと、人差し指でなぞってみると、そこに彫られてあった文字が浮き上がってくる。
 On top of that, as I traced the plate with my finger, I found words carved into the surface.
-//　　　　　　　▼　ＣＡＰＴＡＩＮ　ＲＯＯＭ　▼<$04><$32><$05>
+//　　　　　　　▼　ＣＡＰＴＡＩＮ　ＲＯＯＭ　▼
 ▼　ＣＡＰＴＡＩＮ　ＲＯＯＭ　▼
 //［コウジ］：（キャプテンというと‥‥このシップの、船長の事か？）
 [Kouji]: (The captain...so the one who's in charge of the ship?)
@@ -782,7 +784,7 @@ On top of that, as I traced the plate with my finger, I found words carved into 
 I wasn't particularly interested in the room, but it piqued my interest a little.
 //船に動力はまだかよっている。ドアの開閉パネルにそっと手を触れると、ドアは力強く横に開いた。
 The ship was still powered. As I touched the door operating panel, the door powerfully slid aside.
-//ウィーン‥‥‥‥。<$04><$32><$05>
+//ウィーン‥‥‥‥。
 *vreee*
 //かなり暗い部屋だ‥‥。
 The room was quite dark...
@@ -796,8 +798,10 @@ The middle of the room seemed a little dusty. As I walked, white ash puffed up f
 It felt as though no one had been here for years. It was quite likely no one was here now...
 //私は部屋の奥へ入っていくと、丁度や間取りなどを確認した。間取りは、ファルたちのシップと、そう大差はなさそうだ。
 I walked toward the back of the room, confirming the layout of the room. It was roughly similar to the one on Far's ship.
-//ついたてのようなカーテン、ベッド、脇の通信パネル、端末、机と‥‥<$0C>ん？
-The well-ordered curtains, beds, side communication panels,  terminals, desks, and...Hm?
+//ついたてのようなカーテン、ベッド、脇の通信パネル、端末、机と‥‥
+The well-ordered curtains, beds, side communication panels,  terminals, desks, and...
+//ん？
+Hm?
 //［コウジ］：これは‥‥‥‥。
 [Kouji]: This is....
 //0110
@@ -888,7 +892,7 @@ As I turned toward the door....
 Her voice had a strange tone. As I looked around me, I realized it was the sound of a broadcast.
 //xenon_15
 xenon_15
-//ガガーーーンッッ！！！<$05><$04><$30>
+//ガガーーーンッッ！！！
 *KABOOOOOM*!
 //突然、天井と地面が反転したかと思うと、私は腰を床に、したたか打ちつけていた。
 Suddenly, I felt as if the ceiling and floor had inverted, and I fell hard on my waist onto the floor.

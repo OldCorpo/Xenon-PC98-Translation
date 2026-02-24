@@ -92,8 +92,8 @@ As I closed the door...
 [Man]: [Move aside! An electrical blast is coming!!]
 //［宏治］：な、何だ、誰だ！？
 [Kouji]: Wh-what? Who's that?!
-//ビシィィィィッッ！！！<$04><$30><$05>
-Blast!!!<$04><$30><$05>
+//ビシィィィィッッ！！！
+Blast!!!
 //［宏治］：（で、電撃‥‥！？）
 [Kouji]: (An e-electrical blast?!)
 //［ビアンカ］：フッ、私の電撃ムチをもろに受けるとは、おろかな男よ‥‥。
@@ -130,7 +130,7 @@ Blast!!!<$04><$30><$05>
 [Kouji]: Wh-what...
 //［男の声］：貴様では無理だと言ったのだ。
 [Man's voice]: I told you, your actions are futile.
-//［宏治］：誰だ！？<$05>
+//［宏治］：誰だ！？
 [Kouji]: Who are you?!
 //［男］：貴様では、ビアンカには勝てん。
 [Man]: You will not prevail against Bianca.
@@ -178,7 +178,7 @@ Blast!!!<$04><$30><$05>
 [Kouji]: Oh, oh no. Well, then, in 5 hours. Don't forget...
 //［宏治］：ぶちって、電話じゃないんだ、おい！
 [Kouji]: Hey, don't leave me hanging, this isn't some phone call, HEY!
-//［宏治］：ちょっと、まだ聞きたいことが‥‥この‥‥。<$05>
+//［宏治］：ちょっと、まだ聞きたいことが‥‥この‥‥。
 [Kouji]: Hold on, I still had some more...questions...that...
 //［宏治］：大バカ野郎！！
 [Kouji]: Dumb fucking bastard!!
@@ -408,8 +408,10 @@ Tracy's voice was wavering. She seemed a little afraid of my words, and stared a
 [Kouji]: ...it really has come to that, hasn't it?
 //［トレイシー］：フフ、それなら簡単に解決ですわ。
 [Tracy]: Hehe, if that's the case, there's an easy fix.
-//［宏治］：それって、どういう‥‥<$0C>んっ！？
-[Kouji]: By easy fix, what do- Mm-!?
+//［宏治］：それって、どういう‥‥
+[Kouji]: By easy fix, what do-
+//んっ！？
+ Mm-!?
 //to03b
 to03b
 //柔らかい唇が、そっとオレの口にかぶさってきた。熱い吐息を口腔に感じながら、オレは痺れるような感覚に見舞われてきた。
@@ -602,13 +604,15 @@ Even as I came, Tracy's walls coiled around my rod, milking every last drop of m
 [Kouji]: O-oh my god...it's like you're sucking it out of me...
 //［トレイシー］：もっと‥‥もっとお出しになって‥‥んくぅ‥‥。
 [Tracy]: More...Come even more for me...*gasp*...
-//ドクッ、ドクッ‥‥‥‥<$0C>ドクンッ！
-*spurt*, *spurt*....*spurt*!
+//ドクッ、ドクッ‥‥‥‥
+*spurt*, *spurt*....
+//ドクンッ！
+*spurt*!
 //［トレイシー］：あぁぁぁ、コウジ様‥‥コウジ様‥‥んっ。
 [Tracy]: Ahhh, Kouji-sama...Kouji-sama...mmm.
 //柔らかい唇がオレのに重ねられてきた。すぐに彼女の舌が、オレの口を割って入ってくる。
 She laid her soft lips upon mine, and immediately stuck her tongue inside my mouth.
-//オレたちは互いの舌を絡め合いながら、ゆっくりと快楽の余韻に浸っていった‥‥。<$05>
+//オレたちは互いの舌を絡め合いながら、ゆっくりと快楽の余韻に浸っていった‥‥。
 As we wriggled our tongues together, we basked in the afterglow...
 //［宏治］：なぁ、トレイシー‥‥。
 [Kouji]: Hey, Tracy....
@@ -660,5 +664,5 @@ As we wriggled our tongues together, we basked in the afterglow...
 [Kouji]: (Do you hear me, Kouji?!)
 //［宏治］：（何だか、自分に怒鳴りつけているような気がして、何だな‥‥。）
 [Kouji]: (I get the feeling I'm just shouting at myself, what the hell...)
-//［宏治］：（まぁいい、５時間後、期待してるからな‥‥。）<$05>
+//［宏治］：（まぁいい、５時間後、期待してるからな‥‥。）
 [Kouji]: (Well, he is still expecting me in 5 hours...)

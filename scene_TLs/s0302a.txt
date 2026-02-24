@@ -74,8 +74,10 @@ As she carried a white box, a hurried, running Tracy entered my field of vision.
 [Kouji]: Eh-? Ah....
 //［トレイシー］：ちょっと痛いかもしれませんが、我慢して下さいね。
 [Tracy]: This might hurt a little, but please endure.
-//［宏治］：えっ‥‥<$0C>んぎゃぉう！！
-[Kouji]: Eh-...ngYOWww!!
+//［宏治］：えっ‥‥
+[Kouji]: Eh-...
+//んぎゃぉう！！
+ngYOWww!!
 //どこかに得体の知れない猛獣がいるのではと一瞬疑ったが、何のことはない、自分の声だった。
 For an instant, I thought there was some unknown wild beast somewhere that made the noise, but no, it was my own voice.
 //トレイシーはオレのコブシ部分をさすっている。骨折の有無でも、確かめているのだろうか。何とも乱暴だと思うが‥‥。
@@ -386,8 +388,10 @@ As my hands gripped the cold metal, rung by rung, I carefully climbed down the l
 [Kouji]: Who's asking for the definition of an engine here? I was asking why this stupidly huge appliance is here.
 //［ランファ］：‥‥でも、コウジ様が設計・製作されたんですよ。
 [Lanhua]: ....But, Kouji-sama, you designed and produced it yourself.
-//［宏治］：ふーん‥‥<$0C>えっ？　オレが？
-[Kouji]: Hmmm....Huh? I did?
+//［宏治］：ふーん‥‥
+[Kouji]: Hmmm....
+//えっ？　オレが？
+Huh? I did?
 //［ランファ］：はい。エーテル光子動力を利用し、ほぼ永久機関に等しい動力により、ハイパードライブ機能も備えた‥‥。
 [Lanhua]: Yes. On top of using ethereal photon power, nearly approaching the power of a perpetual motion machine, you installed the hyperdrive feature, too...
 //［宏治］：あー、小難しい説明は無しね。トレイシーに散々聞いたから。
@@ -578,8 +582,10 @@ Using the tool in her hand, Lanhua roughly installed the wiring beside her. She 
 [Lanhua]: I'm Lanhua, Kouji-sama, have you forgotten?
 //［オレ］：はっきり言って、君のことなど知らない。
 [Me]: Speak clearly, I don't know anything about you.
-//［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい‥‥<$0C>あっ！
-[Lanhua]: How sad...please don't say such depressing things... Ah-!
+//［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい‥‥
+[Lanhua]: How sad...please don't say such depressing things...
+//あっ！
+ Ah-!
 //［オレ］：な、なに？
 [Me]: W-what is it?
 //［ランファ］：コウジ様がここにいるということは‥‥じゃあ、今ファルネリア様は！？
@@ -598,8 +604,12 @@ Leaving me in a confused state, the woman named Lanhua nimbly stood up and ran a
 This is no laughing matter...I'm all alone again...
 //オレはきびすを返すと、ランファと名乗る女性を、後から追いかけていった。
 I turned on my heels and chased after the woman named Lanhua.
-//‥‥‥‥<$0C>‥‥‥‥<$0C>‥‥‥‥。
-...<$0C>...<$0C>...
+//‥‥‥‥
+...
+//‥‥‥‥
+...
+//‥‥‥‥。
+...
 //こ、ここは‥‥。
 Wh-what...
 //何だ‥‥？
@@ -610,8 +620,10 @@ Wh-what...
 [Me]: Y-you...
 //［ランファ］：コウジ様？
 [Lanhua]: Kouji-sama?
-//［オレ］：そう‥‥<$0C>あれ？　電気が消えたのかな‥‥。
-[Me]: Yes... Huh? The electricity went out...
+//［オレ］：そう‥‥
+[Me]: Yes... 
+//あれ？　電気が消えたのかな‥‥。
+Huh? The electricity went out...
 //［ランファ］：コウジ様ぁ、しっかりして下さい。
 [Lanhua]: Kouji-sama, please get ahold of yourself.
 //［オレ］：このエンジンは、いったいどういうモノなんだ？
@@ -630,7 +642,7 @@ Wh-what...
 [Lanhua]: Yes! Leave it to me!
 //［トレイシー］：あの、私の方が理路整然と説明できると思いますが‥‥。
 [Tracy]: Um, I'd like it if you could explain this in a logically sound way...
-//\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼<$04><$32><$05>
+//\n　　　　　　　　　▼　ＶＩＰ　ＲＯＯＭ　▼
 VIP ROOM
 //重厚なプレートに、ＶＩＰルームと書かれた部屋の前にオレはたった。
 On a thick, heavy plate in front of the room before me, the words "VIP ROOM" were inscribed.
@@ -664,7 +676,7 @@ I reached for the control panel beside me. I did as the others did.
 xenon_08
 //fa10
 fa10
-//［ファル］：フンフン、フフン‥‥。<$04><$30><$05>
+//［ファル］：フンフン、フフン‥‥。
 [Far]: Hum hum, hu-hum...
 //後ろでドアが閉まった途端、あたりが静寂に包まれる。
 As the door closed behind me, I was enveloped in silence.
@@ -842,10 +854,12 @@ I briefly strained my ears. However, I couldn't hear any sounds of her using the
 I've heard this sound since just a while ago. This sound...
 //最初は耳鳴りだと思っていたが、なにやら甲高い音が微かに聞こえてくる。
 At first, I thought it was just tinnitus, but I faintly heard this high-pitched sound.
-//何の音かな‥‥。<$04><$30><$05>
+//何の音かな‥‥。
 What kind of sound is it...?
-//シャワー‥‥？<$0C>　バスルームか？
-The shower...? From the bathroom?
+//シャワー‥‥？
+The shower...? 
+//　バスルームか？
+ From the bathroom?
 //　◆ バスルームの様子を見に行ってみよう‥‥。
 ◆ Let's go to the bathroom to look around...
 //　◆ 覗きのような真似は何だし、ここで待ってみよう。
@@ -914,7 +928,7 @@ Grab.
 [Far]: Wh-...ah, ah, ah...
 //［宏治］：だから、不可抗力‥‥。
 [Kouji]: As I said, it's inevitable...
-//ガキーンッ！<$04><$30><$05>
+//ガキーンッ！
 *smack*!!
 //目から火花が散りそうな、容赦ない一撃だった。シャワーの取っ手を手にした彼女が、ブルブルと震えているのが分かる。
 She'd hit me mercilessly enough to make me see stars. She had one hand gripping the shower handle, and I realized she was quivering.
@@ -950,8 +964,10 @@ fa02_m
 [Far]: Hmph, that's rich, coming from someone confining me here.
 //［ファル］：人のことを誘拐しておいて、いけしゃあしゃあと言うことじゃないってことよ。
 [Far]: How shamelessly you're talking about kidnapping me.
-//［宏治］：だからそれは‥‥<$0C>へっ、誘拐？
-[Kouji]: Like I said, that's...Eh, kidnapping?
+//［宏治］：だからそれは‥‥
+[Kouji]: Like I said, that's...
+//へっ、誘拐？
+ Eh, kidnapping?
 //［ファル］：なによそれ。また、しらばくれる気？
 [Far]: What's with that look? Are you still playing dumb?
 //［宏治］：いやその‥‥少し、混乱していて。
@@ -1012,8 +1028,10 @@ fa02_m
 [Kouji]: Since it's complicated, I'll cut to the chase. In any case, I don't mean to cause you any harm.
 //［ファル］：‥‥あ、ありがとう。
 [Far]: ...Ah, thanks.
-//［宏治］：フフン、まあいいモノも見させてもらったしね‥‥<$0C>あっ。
-[Kouji]: Hehe, well, you sure showed me something nice there...Ah-!
+//［宏治］：フフン、まあいいモノも見させてもらったしね‥‥
+[Kouji]: Hehe, well, you sure showed me something nice there...
+//あっ。
+ Ah-!
 //［宏治］：痛っ‥‥ってーなぁ、頬を叩くことないだろう？
 [Kouji]: That hurt...not. Have you never slapped someone in the face?
 //［ファル］：少しでも見直した私が馬鹿だったわ。
@@ -1036,7 +1054,7 @@ fa02_m
 [Kouji]: Is she more cruel or more normal of a woman? I can't make heads or tails of her.
 //［宏治］：ま、いいさ。それよりも、彼女から話を少しは聞けそうだし‥‥。
 [Kouji]: Well, no matter. Besides, I have questions to ask her...
-//ピーピッ、ピーピッ‥‥。<$04><$30><$05>
+//ピーピッ、ピーピッ‥‥。
 *BEEEEP*, *BEEEEP*...
 //［宏治］：ん？　誰だろう‥‥。
 [Kouji]: Hm? Who could that be...?
@@ -1176,8 +1194,8 @@ fa03_m
 [Far]: Kyaaa-!!
 //［宏治］：うわっ、ナイス！
 [Kouji]: Yeah, nice!
-//バキッ！<$05><$04><$30>
-Crack!<$05><$04><$30>
+//バキッ！
+Crack!
 //［宏治］：んな、バスタオルを身体に巻いただけで、男の上になんてまたがるのが悪いんだよ。
 [Kouji]: Hey, with only a bath towel wrapped around you, straddling a man is dangerous.
 //［ファル］：な、なによぉ‥‥。
@@ -1188,7 +1206,7 @@ Crack!<$05><$04><$30>
 [Kouji]: Speaking of which, whether it's kidnapping or confinement, they're both rather strong words...
 //［宏治］：んー、コウジってヤツは、いったいどういうヤツなんだ。
 [Kouji]: Nng, what kind of person was that Kouji bastard, anyway?
-//ピーピッ、ピーピッ‥‥。<$04><$32><$05>
+//ピーピッ、ピーピッ‥‥。
 *BEEEEP*, *BEEEEP*...
 //［宏治］：なんかこう、緊迫感がないようなぁ。気にはなるけど‥‥。
 [Kouji]: Well, there's no sense of urgency here. I'm curious, but...

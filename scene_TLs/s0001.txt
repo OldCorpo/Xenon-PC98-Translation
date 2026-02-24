@@ -2,33 +2,37 @@
 Ｂ
 //xenon_01
 xenon_01
-//FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
-FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
-//天上の神々を動かせれば、冥界をも動かさん‥‥<$04><$30><$05>
-If I cannot bend Heaven, I shall move Hell.<$04><$30><$05>
+//FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.
+FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.
+//天上の神々を動かせれば、冥界をも動かさん‥‥
+If I cannot bend Heaven, I shall move Hell.
 #This is a quotation from Freud. I found the translation on the Internet.
 #This is closer to the Latin sentence. The Japanese sentence is more like : If I cannot bend the gods of Heaven, shouldn't I move Hell?
-//Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
-Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i: n o n ]<$04><$30><$05>
-//　　　　さぁ、あなたはこれから、目を覚まします。<$04><$30><$05>
-  　　You will now wake up.<$04><$30><$05>
-//\n　<$05>
-\n　<$05>  
-//　あなたがそこで見聞きすることは、全て現実なのです。<$04><$30><$05>
-Everything you see or hear there is reality.<$04><$30><$05>
-//　　　　　　　そう、すべてが・・・・・<$04><$30><$05>
-　　　　　　　　It will be just as though...<$04><$30><$05>
-//　　　あなたの心を、忠実に反映する鏡として・・・・<$04><$30><$05>
-　　...you were looking at a mirror that reflects\n　　　　　　　　your heart faithfully.<$04><$30><$05>
+//Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]
+Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i: n o n ]
+//　　　　さぁ、あなたはこれから、目を覚まします。
+  　　You will now wake up.
+//\n　
+\n　
+//　あなたがそこで見聞きすることは、全て現実なのです。
+Everything you see or hear there is reality.
+//　　　　　　　そう、すべてが・・・・・
+　　　　　　　　It will be just as though...
+//　　　あなたの心を、忠実に反映する鏡として・・・・
+　　...you were looking at a mirror that reflects\n　　　　　　　　your heart faithfully.
 #Just like a mirror that reflects the truths hidden within your heart
-//　　　　さぁ、これからあなたは現実にもどります。<$04><$30><$05>
-　　　　　You will now return to reality.<$04><$30><$05>
-//これから３つ数えると、あなたは目を覚まします。いいですね？<$04><$30><$05>
-When I count up to three, you will wake up. Okay?<$04><$30><$05>
-//　では、ひとつ‥‥‥<$05><$04><$30>
-  One...<$05><$04><$30>
-//　では、ひとつ‥‥‥<$0C>ふたつ‥‥‥‥<$0C>みっつ‥‥‥‥。<$05><$04><$31>
-  One...<$0C> two...<$0C> three...<$05><$04><$31>
+//　　　　さぁ、これからあなたは現実にもどります。
+　　　　　You will now return to reality.
+//これから３つ数えると、あなたは目を覚まします。いいですね？
+When I count up to three, you will wake up. Okay?
+//　では、ひとつ‥‥‥
+  One...
+//　では、ひとつ‥‥‥
+  One...
+//ふたつ‥‥‥‥
+two...
+//みっつ‥‥‥‥。
+three...
 //waku
 waku
 //1010
@@ -71,16 +75,16 @@ The woman before me, Ryouko, brushed back her short hair and turned a somewhat s
 [Kouji]: OK...
 //一息吐くと、順を追って話しはじめた。
 With a sigh, I started describing my dream from beginning to end.
-//［宏治］：あそこは、暗く寂しい場所でした‥‥‥‥。<$05>
+//［宏治］：あそこは、暗く寂しい場所でした‥‥‥‥。
 [Kouji]: It was a gloomy, lonely place...
 //waku2
 waku2
 //xenon_17
 xenon_17
-//‥‥‥‥。<$05>
-‥‥‥‥。<$05>
-//‥‥‥‥‥‥‥‥。<$05>
-‥‥‥‥‥‥‥‥。<$05>
+//‥‥‥‥。
+‥‥‥‥。
+//‥‥‥‥‥‥‥‥。
+‥‥‥‥‥‥‥‥。
 //‥‥‥‥‥‥‥‥‥‥‥‥。
 ‥‥‥‥‥‥‥‥‥‥‥‥。
 //ここは‥‥‥‥。

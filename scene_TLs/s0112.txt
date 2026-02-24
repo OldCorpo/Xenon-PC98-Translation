@@ -50,7 +50,7 @@ But, I somehow remembered the structure clearly. I slowly unraveled that thread 
 [Kouji]: (It can't be...)
 //そのまさかのようだ‥‥私は、どうやら夢の中の世界へと、迷い込んでしまったらしい。
 In an unbelievable way...I somehow was drawn into a dream world.
-//夢の中‥‥‥‥？<$05><$04><$33>
+//夢の中‥‥‥‥？
 Am I in a dream...?
 //これは、現実ではなかったのか‥‥？
 This isn't reality, is it...?
@@ -66,7 +66,7 @@ I stood before a certain large door...
 [Kouji]: (This door leads to...)
 //緊張感が高まり、心臓の動悸速度が増加していく。このドアの向こう側に‥‥‥‥？
 I was highly anxious, and my heartbeat quickened. This door leads to...?
-//予測以上の確信をもって、私はドアを開けた‥‥‥‥。<$05><$04><$34>
+//予測以上の確信をもって、私はドアを開けた‥‥‥‥。
 With more confidence than I expected, I opened the door...
 //xenon_09
 xenon_09
@@ -190,13 +190,13 @@ As I turned around, the girl before me was......
 I felt a dull impact to the back of my head, and I recognized the reflected image in my eyes...
 //消えていく意識の中で、僕は彼女の名前を呼ぶ‥‥。
 In my fading my consciousness, I called her name...
-//［宏治］：舞‥‥‥‥。<$05>
+//［宏治］：舞‥‥‥‥。
 [Kouji]: Mai......
 //宏治サン‥‥‥‥。
 Kouji-san.....
 //宏治サン、目を覚まして‥‥‥‥。
 Kouji-san, wake up......
-//目を覚まして‥‥‥‥。<$05>
+//目を覚まして‥‥‥‥。
 Wake up......
 //［宏治］：‥‥僕は‥‥‥‥。
 [Kouji]: ...I am....
@@ -254,8 +254,10 @@ Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even
 [Kouji]: Legal Affairs Bureau...?
 //［沙夜香］：私はね、内偵として派遣されていたの。涼子に疑問を持った法務局から、つまり恵さんのお父様からね。
 [Sayaka]: I was dispatched as a secretary. The Legal Affairs Bureau, particularly Megumi-san's father, found Ryouko suspicious.
-//［宏治］：恵の‥‥法務局？‥‥<$0C>はっ！
-[Kouij]: Megumi's...Legal Affairs? Ha-!
+//［宏治］：恵の‥‥法務局？‥‥
+[Kouij]: Megumi's...Legal Affairs?
+//はっ！
+ Ha-!
 //［宏治］：（そういえば、沙夜香さんの連絡先に‥‥‥‥。）
 [Kouji]: (Come to think of it, Sayaka-san's address was...)
 //［沙夜香］：心当たり、あるみたいじゃない、宏治クン。
@@ -280,8 +282,8 @@ Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even
 Sayaka pulled a handgun from her bosom and pointed it at Ryouko. She looked serious.
 //［涼子］：フッ、好きにするがいいわ‥‥。
 [Ryouko]: Heh, do as you like...
-//ガチャッ‥‥。<$05><$04><$30>
-Clank... <$05><$04><$30>
+//ガチャッ‥‥。
+Clank... 
 //［沙夜香］：な、何をしたの！　涼子！？
 [Sayaka]: W-what are you doing! Ryouko?!
 //［涼子］：舞、後は頼んだわ‥‥。
@@ -320,7 +322,7 @@ Clank... <$05><$04><$30>
 As Mai said, I slowly closed my eyes.
 //重々しい稼働音が、少しずつ、少しずつ小さくなっていく‥‥。
 A heavy moving sound slowly, gradually became fainter and fainter...
-//僕は心地よい虚脱感に、身を委ねていった‥‥‥‥。<$04><$30><$05>
+//僕は心地よい虚脱感に、身を委ねていった‥‥‥‥。
 I surrendered my body to the pleasant feeling of collapse...
 //Ｅ
 Ｅ
@@ -472,7 +474,7 @@ I walked to one corner of the room and looked back at her.
 It's fine to enter the dream already...that embarrassing time...
 //私は再び、傍らに置いてあった試験管を見る‥‥。
 Once more, I looked at the test tube next to me...
-//そこには私と舞の‥‥人類の唯一の種が、眠っているのだ‥‥‥‥。<$05>
+//そこには私と舞の‥‥人類の唯一の種が、眠っているのだ‥‥‥‥。
 There, the seed born from Mai and me...the only one of all of humanity, was sleeping...
-//　　　　　　　　ＤＲＥＡＭ＿１　‥‥　ＥＮＤ<$04><$30><$05>
-　　　　　　　　ＤＲＥＡＭ＿１　‥‥　ＥＮＤ<$04><$30><$05>
+//　　　　　　　　ＤＲＥＡＭ＿１　‥‥　ＥＮＤ
+　　　　　　　　ＤＲＥＡＭ＿１　‥‥　ＥＮＤ

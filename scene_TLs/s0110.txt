@@ -270,8 +270,10 @@ As I said it, I realized. The proper noun I used...just who did it refer to?
 [Lanhua]: Close your eyes, clasp your hands in front of your chest, and....
 //［ランファ］：そしてじっと考えるんです。そうすると、無くしたものを取り戻すことができるかも知れません。
 [Lanhua]: ...and stay still as you think. If you do that, I think you'll find the things that are lost.
-//［コウジ］：目の前で手を組んで‥‥‥‥<$0C>あっ！
-[Kouji]: Clasp my hands in front of me....Ah-!
+//［コウジ］：目の前で手を組んで‥‥‥‥
+[Kouji]: Clasp my hands in front of me....
+//あっ！
+Ah-!
 //私の胸ポケットには、無くしたはずのマイクロディスクが、差し込まれていた。
 In my chest pocket, the formerly missing micro disc was there again.
 //いったい、なぜ‥‥‥‥。
@@ -570,7 +572,7 @@ Even if my self here and now exists in a dream, as long as I just give it my all
 As I thought about that, I became a little surprised. Unexpectedly, I may have just accepted this as "reality".
 //［コウジ］：（誰の夢かはわからないが、やるだけやらしてもらうさ‥‥。）
 [Kouji]: (This might be someone's dream, but I can only struggle on...)
-//［ファル］：コウジ‥‥。<$05>
+//［ファル］：コウジ‥‥。
 [Far]: Kouji...
 //fa11
 fa11

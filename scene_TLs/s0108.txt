@@ -168,8 +168,8 @@ Tracy pulled a full glass of water from the coffee table beside her and handed i
 [Kouji]: Well, maybe not water...hm, oh yeah.
 //怪訝そうに私を見つめるトレイシーを、いかに煙に巻こうかと考えていると、ベッド脇のコンパネが鳴り出した。
 As Tracy looked at me suspiciously, pondering how I was deceiving her, the control panel by the bed started ringing. 
-//ピーピッ‥‥ピーピッ。<$04><$32><$05>
-*beeeep*...*beeeeep*<$04><$32><$05>
+//ピーピッ‥‥ピーピッ。
+*beeeep*...*beeeeep*
 //［トレイシー］：ブリッジからだわ‥‥‥‥。
 [Tracy]: It's coming from the bridge....
 //［トレイシー］：はい、なんでしょうか？
@@ -278,7 +278,7 @@ As I looked up, the lights weren't acting strangely...
 Wh-what's going on...my vision is going blurry.
 //め、目が‥‥‥‥‥。
 My eyes....
-//あたりが真っ白になるような、そんな気がした‥‥‥‥。<$05>
+//あたりが真っ白になるような、そんな気がした‥‥‥‥。
 Everything around me seems to be going white....
 //［宏治］：違う‥‥僕は、いまマイクロ・ディスクを‥‥‥‥。
 [Kouji]: It can't be...I just put in the micro disc....
@@ -292,8 +292,10 @@ Everything around me seems to be going white....
 [Kouji]: (A daydream...?)
 //私は頭を２、３度横にふると、気を取り直してＭＤ再生機に向きなおった。ディスプレイはＲＥＡＤＹ表示をしたままだ。
 As I shook my head twice or thrice, I turned my attention to the repaired recorder playback machine. The display read "READY".
-//［コウジ］：ＭＤの再生が先だろう‥‥<$0C>あっ！！
-[Kouji]: The recorder playback comes first...<$0C>Ah!!
+//［コウジ］：ＭＤの再生が先だろう‥‥
+[Kouji]: The recorder playback comes first...
+//あっ！！
+Ah!!
 //目の前のトレイには、ＭＤが乗ってはいなかった。どこへ行ったんだ！？
 The tray in front of me no longer had the micro disc. Where did it go?!
 //慌てて傍らの時計を見てみる。ほんの数十秒しか経過していない‥‥。
@@ -344,7 +346,7 @@ It seemed the "second ship" was just an abbreviation for "second investigative t
 [Bianca]: If you're here, you weren't on the third ship for very long, were you....
 //［コウジ］：私のことを、知っているのか？
 [Kouji]: Do you know about me?
-//［ビアンカ］：知っているも何も‥‥あんたは、第２次調査隊を全滅させた、張本人じゃないのさ！<$05><$04><$30>
+//［ビアンカ］：知っているも何も‥‥あんたは、第２次調査隊を全滅させた、張本人じゃないのさ！
 [Bianca]: I know everything...You were the very one who eliminated the second investigative team!
 //xenon_27
 xenon_27
@@ -414,5 +416,5 @@ I put my arms behind my head and stared at the ceiling. It seemed controversy ha
 I've repeated that question to myself so many times already.
 //そんなことを考えながら、私はまぶたを閉じた‥‥。
 As I pondered that question, I closed my eyelids....
-//吸い込まれるような感覚を、身体に感じながら‥‥‥‥。<$05>
-I felt like my entire body was being sucked in.......<$05>
+//吸い込まれるような感覚を、身体に感じながら‥‥‥‥。
+I felt like my entire body was being sucked in.......

@@ -44,7 +44,7 @@ bi02
 [Kouji]: I-I mean it!
 //bi02b
 bi02b
-//ビシィィィッッ！！！<$04><$30><$05>
+//ビシィィィッッ！！！
 *Basheeeee*!!!
 //［宏治］：ちょ、ちょっと今のは効いたぞ。
 [Kouji]: Th-that was a really effective blow.
@@ -196,8 +196,10 @@ bi06
 [Bianca]: Where it is, I could easily push it with the tip of my tongue!
 //［宏治］：（なに、舌先で簡単に取れるだと‥‥？）
 [Kouji]: (What, she could push it that easily with her tongue...?)
-//［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥<$0C>な、なにをする！？
-[Bianca]: Hehe, I'm quite pleased that you seem surprised. Whatever you try, you'll never...W-what are you doing?
+//［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥
+[Bianca]: Hehe, I'm quite pleased that you seem surprised. Whatever you try, you'll never...
+//な、なにをする！？
+W-what are you doing?
 //bi06b
 bi06b
 //［ビアンカ］：んんっ‥‥！？
@@ -355,5 +357,5 @@ bi06e_m
 [Bianca]: Huh-?
 //［ファル・ランファ・トレイシー］：えぇっ～！？
 [Far, Lanhua, and Tracy]: Huuuuuh?!
-//で、その後どうなったかというと‥‥‥‥。<$05>
+//で、その後どうなったかというと‥‥‥‥。
 After that, what happened was......

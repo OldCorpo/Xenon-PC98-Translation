@@ -149,7 +149,7 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //［私］：あっ、待ってくれ！‥‥ランファ！？
 [Me]: Hey! Wait!... Lanhua!?
 //［私］：（冗談じゃない、ここでまた１人にさせられてたまるか‥‥。）
-//[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
+[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
 //気が少し動転していたのかもしれない‥‥。
 Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
@@ -190,8 +190,8 @@ But as soon as I tried to leave the room...
 The door was ruthlessly blocking my retreat.
 //（どういうことだ‥‥私を、閉じこめるつもりか‥‥？）
 (What the... Are they trying to shut me in?)
-//ドンドンドン、ドンドンドン！<$04><$30><$05>
-*bang* *bang* *bang*! <$04><$30><$05>
+//ドンドンドン、ドンドンドン！
+*bang* *bang* *bang*! 
 //\n　
 \n
 //無駄とはわかっていても、言い様のない不安と緊張が、私の手を動かし続けた。
@@ -220,14 +220,16 @@ Getting closer, I finally understood what was the source of that light.
 Below on the side, a small console panel was blinking. You could hear \na strident sound intermittently stemming from it.
 //私は屈んでパネルをのぞき込んでみる。そこには小さな文字で、こうディスプレイされていた。
 Crouching down, I peered at the monitor. On it the following characters were displayed:
-//　　　　　　　　　　　　　P.P.E.<$05><$04><$30>
-　　　　　　　　　　　　　P.P.E.<$05><$04><$30>
-//\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER<$05><$04><$30>
-\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER<$05><$04><$30>
-//\n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
-\n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
-//（サイキック‥‥<$0C>プログラムエンコーダ‥‥？）
-(Psychic...<$0C> Program Encoder...?)
+//　　　　　　　　　　　　　P.P.E.
+　　　　　　　　　　　　　P.P.E.
+//\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER
+\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER
+//\n\n\n　　　　　　　　　PSY encoder operating ...
+\n\n\n　　　　　　　　　PSY encoder operating ...
+//（サイキック‥‥
+(Psychic...
+//プログラムエンコーダ‥‥？）
+ Program Encoder...?)
 //（いったい‥‥‥‥。）
 (What...)
 //（いったい何だろう‥‥これは‥‥？）
@@ -248,8 +250,8 @@ While I held my hands aloft, the thick glass started to slide silently.
 Maybe I'd activated some sort of built-in sensors...
 //fa01
 fa01
-//（‥‥！？）<$04><$30><$05>
-(...!?)<$04><$30><$05>
+//（‥‥！？）
+(...!?)
 //（こ、これは‥‥‥‥。）
 (What...)
 //（何だ、これは‥‥‥‥。）
@@ -258,8 +260,10 @@ fa01
 Inside the capsule, a red-haired woman was lying down, stark naked.
 //女性というよりはまだ、あどけなさの残る少女、という形容の方が相応しい気もする。肉付きは意外に悪くない。
 Her figure was quite attractive, yet more than that of a woman, she gave off the feeling of a pristine maiden.
-//（どういうことだ‥‥なぜ、こんな少女がここに‥‥‥‥<$0C>はっ！？）
-(What the... Why is there a woman inside...<$0C> Wha!?)
+//（どういうことだ‥‥なぜ、こんな少女がここに‥‥‥‥
+(What the... Why is there a woman inside...
+//はっ！？）
+ Wha!?)
 //（ま、まさか‥‥‥！？）
 (D-Don't tell me...!?)
 //そっと、首筋の部分に手を当ててみる。そこは柔らかく、暖かかった。
@@ -270,8 +274,8 @@ I gently laid my hands on the nape of her neck. It was soft and warm.
 (What... am I doing?)
 //私が、彼女の身体に触れようとした時‥‥‥‥。
 The moment I tried to touch her body...
-//プシューーー‥‥‥‥。<$04><$30><$05>
-Pshhhh...<$04><$30><$05>
+//プシューーー‥‥‥‥。
+Pshhhh...
 //ビービービー、ビービービー‥‥。
 *beep* *beep* *beep*
 //（な、何だ‥‥どうしたんだ‥‥！？）
@@ -280,8 +284,8 @@ Pshhhh...<$04><$30><$05>
 An alarm-like sound was echoing through the room. The sound was coming from below.
 //先ほどのパネルには、こう表示されていた‥‥。
 The panel was now displaying this message:
-//\n　　　　　　　　　　　Now decoding ...<$04><$30><$05>
-\n　　　　　　　　　　　Now decoding ...<$04><$30><$05>
+//\n　　　　　　　　　　　Now decoding ...
+\n　　　　　　　　　　　Now decoding ...
 //　
 　
 //何か、マズいことでもしてしまったのだろうか‥‥？
