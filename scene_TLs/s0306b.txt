@@ -196,8 +196,10 @@ bi06
 [Bianca]: Where it is, I could easily push it with the tip of my tongue!
 //［宏治］：（なに、舌先で簡単に取れるだと‥‥？）
 [Kouji]: (What, she could push it that easily with her tongue...?)
-//［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥<$0C>な、なにをする！？
-[Bianca]: Hehe, I'm quite pleased that you seem surprised. Whatever you try, you'll never...W-what are you doing?
+//［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥
+[Bianca]: Hehe, I'm quite pleased that you seem surprised. Whatever you try, you'll never...
+//な、なにをする！？
+W-what are you doing?
 //bi06b
 bi06b
 //［ビアンカ］：んんっ‥‥！？

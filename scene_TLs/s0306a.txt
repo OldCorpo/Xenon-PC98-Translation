@@ -156,8 +156,10 @@ ra01b_m
 [Kouji]: What do you mean by "how?"...
 //［ランファ］：あの時の事は、忘れろって‥‥。
 [Lanhua]: I thought you'd forgotten about that time....
-//［宏治］：んなこと言ったの、しょうがねぇなぁ、アイツ‥‥<$0C>ランファ？
-[Kouji]: Nn, I told you before, I can't help it, he...<$0C>Lanhua?
+//［宏治］：んなこと言ったの、しょうがねぇなぁ、アイツ‥‥
+[Kouji]: Nn, I told you before, I can't help it, he...
+//ランファ？
+Lanhua?
 //両目に涙をためたランファが、胸の前で両手を硬く握りしめ、首を小刻みに振りながらイヤイヤをしていた。
 With tears filling her eyes, Lanhua clasped her hands tightly before her and quickly shook her head.
 //［ランファ］：コウジ様、ランファ、あの時の事を忘れたこと、ありませんっ。

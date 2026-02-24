@@ -648,8 +648,10 @@ I grabbed onto the handrail and slowly walked down. The cold touch soothed my mo
 [Kouji]: (Still, in any case...)
 //大きなエンジンだった。重い振動が、ここまでピリピリと伝わってくる。
 There was a large engine. I could hear the forceful vibrations all the way from here.
-//ずっと下にも続いているようだが‥‥<$0C>下？
-I've wanted to continue all the way down there, but...
+//ずっと下にも続いているようだが‥‥
+I've wanted to continue all the way down there,
+//下？
+ but...
 //［コウジ］：これは‥‥。
 [Kouji]: This...
 //よく見ると、手すりには何かフックが引っかけられている。それはずっと下方にまで伸びていた。
@@ -796,8 +798,10 @@ The middle of the room seemed a little dusty. As I walked, white ash puffed up f
 It felt as though no one had been here for years. It was quite likely no one was here now...
 //私は部屋の奥へ入っていくと、丁度や間取りなどを確認した。間取りは、ファルたちのシップと、そう大差はなさそうだ。
 I walked toward the back of the room, confirming the layout of the room. It was roughly similar to the one on Far's ship.
-//ついたてのようなカーテン、ベッド、脇の通信パネル、端末、机と‥‥<$0C>ん？
-The well-ordered curtains, beds, side communication panels,  terminals, desks, and...Hm?
+//ついたてのようなカーテン、ベッド、脇の通信パネル、端末、机と‥‥
+The well-ordered curtains, beds, side communication panels,  terminals, desks, and...
+//ん？
+Hm?
 //［コウジ］：これは‥‥‥‥。
 [Kouji]: This is....
 //0110

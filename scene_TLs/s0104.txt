@@ -148,16 +148,20 @@ I had the feeling the same thing had happened before...
 [Woman before me]: Since you'd left your room, I was wondering where you were going...
 //［私］：そうか、君は確か‥‥何か、棺桶のような機械に‥‥。
 [Me]: Oh yeah, you were... you were in the coffin-like machine.
-//［目の前の女］：棺桶‥‥‥‥<$0C>あぁ、エンコーダのことね。
-[Woman before me]: Coffin-like?<$0C> Ah, you mean the Encoder?
+//［目の前の女］：棺桶‥‥‥‥
+[Woman before me]: Coffin-like?
+//あぁ、エンコーダのことね。
+ Ah, you mean the Encoder?
 //目の前の女性はクスッと笑みを洩らすと、頬に垂れ掛かる赤い髪の毛をかき上げた。
 The woman was smiling gently. She brushed up her red hair in front of her cheeks.
 //［私］：エンコーダ？
 [Me]: The Encoder?
 //［目の前の女］：最新の、サイコロジカル・マシーンよ。
 [Woman before me]: The newest Psyche Machine.
-//［私］：サイコ‥‥‥‥<$0C>なんだって？
-[Me]: The Saikee...<$0C> What, now?
+//［私］：サイコ‥‥‥‥
+[Me]: The Saikee...
+//なんだって？
+ What, now?
 //多少なりとも混乱するのは、仕方がなかった。目の前の女性は、私の知らない単語を、次から次へと呈示してくる。
 I could only be confused by the woman before me. She was piling up words I had never heard before.
 //彼女は溜息を１つ吐いて、しょうがない、という表情をすると、
@@ -336,8 +340,10 @@ After some time, a pretty girl wearing glasses appeared on the screen.
 [Far]: You are the sole survivor from the Second Investigative Squadron, and we rescued you.
 //［コウジ］：‥‥！？
 [Kouji]: ‥‥！？
-//唯一の‥‥‥‥<$0C>生き残り‥‥‥‥？
-Sole...<$0C> survivor...?
+//唯一の‥‥‥‥
+Sole...
+//生き残り‥‥‥‥？
+ survivor...?
 //‥‥‥‥この、私が‥‥‥‥‥‥‥‥。
 ‥‥‥‥Me‥‥‥‥‥‥‥‥？
 #Title screen, 3rd save point

@@ -292,8 +292,10 @@ Everything around me seems to be going white....
 [Kouji]: (A daydream...?)
 //私は頭を２、３度横にふると、気を取り直してＭＤ再生機に向きなおった。ディスプレイはＲＥＡＤＹ表示をしたままだ。
 As I shook my head twice or thrice, I turned my attention to the repaired recorder playback machine. The display read "READY".
-//［コウジ］：ＭＤの再生が先だろう‥‥<$0C>あっ！！
-[Kouji]: The recorder playback comes first...<$0C>Ah!!
+//［コウジ］：ＭＤの再生が先だろう‥‥
+[Kouji]: The recorder playback comes first...
+//あっ！！
+Ah!!
 //目の前のトレイには、ＭＤが乗ってはいなかった。どこへ行ったんだ！？
 The tray in front of me no longer had the micro disc. Where did it go?!
 //慌てて傍らの時計を見てみる。ほんの数十秒しか経過していない‥‥。

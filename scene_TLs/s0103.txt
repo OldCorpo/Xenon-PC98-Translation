@@ -334,8 +334,10 @@ meg01b
 [Kouji]: But what for?
 //［恵］：ちょぉっとぉ。
 [Megumi]: Just hurry up already.
-//［宏治］：わかったよ、はいはい‥‥‥‥<$0C>チュッ。
-[Kouji]: Okay, sure...<$0C>*kiss*
+//［宏治］：わかったよ、はいはい‥‥‥‥
+[Kouji]: Okay, sure...
+//チュッ。
+*kiss*
 //［恵］：フフ、まぁいいわ。
 [Megumi]: *chuckle* Fine enough.
 //［宏治］：頼むよ、恵‥‥本当にいま、疲れてるんだ。
@@ -528,10 +530,14 @@ saya01_m
 [Kouji]: I-I'll pay for them.
 //［沙夜香］：フフ、いいわ。許してあげる。でもそのかわり‥‥。
 [Sayaka]: *chuckle* That's fine. I forgive you. But in exchange...
-//［宏治］：そのかわりって、何ですか‥‥<$0C>ちょ、ちょっと‥‥。
-[Kouji]: In exchange? What do you...<$0C> W-Wait...
-//［沙夜香］：なに、ビクビクしているのよ‥‥‥‥<$0C>あら？
-[Sayaka]: What are you afraid of...?<$0C> Oh?
+//［宏治］：そのかわりって、何ですか‥‥
+[Kouji]: In exchange? What do you...
+//ちょ、ちょっと‥‥。
+ W-Wait...
+//［沙夜香］：なに、ビクビクしているのよ‥‥‥‥
+[Sayaka]: What are you afraid of...?
+//あら？
+ Oh?
 //［沙夜香］：ちょっと、顔色、さっきより悪くなっているわ、どうしたのよ‥‥。
 [Sayaka]: Just a minute, your face went pale. What's wrong?
 //［宏治］：だ、だから、さっきから‥‥‥‥あれ？　沙夜香さん、どこに行ったの‥‥？

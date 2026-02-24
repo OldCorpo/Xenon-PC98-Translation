@@ -282,8 +282,10 @@ I was relieved to hear such an unexpected voice on the other end.\nAs my uneasin
 [Kouji]: Megumi? Sorry, I still can't hear you clearly.
 //［宏治］：おい‥‥恵？　どうしたんよ。
 [Kouji]: Hello...Megumi? What's going on?
-//［恵］：や、やめ‥‥‥‥<$0C>きゃぁぁっっ！！！
-[Megumi]: S-Sto-...<$0C>Aaaaah-!!!
+//［恵］：や、やめ‥‥‥‥
+[Megumi]: S-Sto-...
+//きゃぁぁっっ！！！
+Aaaaah-!!!
 //［宏治］：め、恵‥‥じょ、冗談だろう？　おい、恵！？
 [Kouji]: Me, Megumi...This is a joke, right? Hello? Megumi?!
 //しかし、恵の声はもう聞こえてこない。電話は無機質な発信音を、僕の耳に届けるだけだった‥‥。
@@ -758,5 +760,9 @@ Ryouko looked at me with a far-reaching gaze. No, not at me, but at something be
 [Ryouko]: Now, I will slowly count to 3. At that time, Kouji-kun, you will...
 //だんだん、涼子の声が遠くなっていった。僕は消えゆく意識の中で、これからみる夢に思いを馳せていた‥‥‥‥。
 Gradually, Ryouko's voice got farther and farther away. As my consciousness faded, my thoughts were whisked away into a dream...
-//では、ひとつ‥‥‥<$0C>ふたつ‥‥‥‥<$0C>みっつ‥‥‥‥。
-Then, one......<$0C>Two.......<$0C>Three.......
+//では、ひとつ‥‥‥
+Then, one......
+//ふたつ‥‥‥‥
+Two.......
+//みっつ‥‥‥‥。
+Three.......

@@ -149,7 +149,7 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //［私］：あっ、待ってくれ！‥‥ランファ！？
 [Me]: Hey! Wait!... Lanhua!?
 //［私］：（冗談じゃない、ここでまた１人にさせられてたまるか‥‥。）
-//[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
+[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
 //気が少し動転していたのかもしれない‥‥。
 Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
@@ -226,8 +226,10 @@ Crouching down, I peered at the monitor. On it the following characters were dis
 \n　　　　　　　　PSYCHIC - PROGRAM - ENCODER
 //\n\n\n　　　　　　　　　PSY encoder operating ...
 \n\n\n　　　　　　　　　PSY encoder operating ...
-//（サイキック‥‥<$0C>プログラムエンコーダ‥‥？）
-(Psychic...<$0C> Program Encoder...?)
+//（サイキック‥‥
+(Psychic...
+//プログラムエンコーダ‥‥？）
+ Program Encoder...?)
 //（いったい‥‥‥‥。）
 (What...)
 //（いったい何だろう‥‥これは‥‥？）
@@ -258,8 +260,10 @@ fa01
 Inside the capsule, a red-haired woman was lying down, stark naked.
 //女性というよりはまだ、あどけなさの残る少女、という形容の方が相応しい気もする。肉付きは意外に悪くない。
 Her figure was quite attractive, yet more than that of a woman, she gave off the feeling of a pristine maiden.
-//（どういうことだ‥‥なぜ、こんな少女がここに‥‥‥‥<$0C>はっ！？）
-(What the... Why is there a woman inside...<$0C> Wha!?)
+//（どういうことだ‥‥なぜ、こんな少女がここに‥‥‥‥
+(What the... Why is there a woman inside...
+//はっ！？）
+ Wha!?)
 //（ま、まさか‥‥‥！？）
 (D-Don't tell me...!?)
 //そっと、首筋の部分に手を当ててみる。そこは柔らかく、暖かかった。

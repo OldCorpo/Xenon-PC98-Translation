@@ -12,8 +12,10 @@ As if we had mistakenly entered a desert, one side of our surroundings was cover
 Over many years, by the star's strong rays and the wind and rain, the original shape was faded and weathered away to the point it couldn't be recognized anymore.
 //周囲が霞んで見えるのは、うっすらと漂う霧のせいだった。
 Our surroundings were hazy, thanks to a lightly floating mist.
-//［コウジ］：（まるで、夢の中みたいだな‥‥‥‥<$0C>夢？）
-[Kouji]: (This feels like a dream, doesn't it......Dream?)
+//［コウジ］：（まるで、夢の中みたいだな‥‥‥‥
+[Kouji]: (This feels like a dream, doesn't it......
+//夢？）
+Dream?)
 //私は黙って、窮屈なコクピットから身体を押し出した。棒状のハシゴへ足を掛けた途端‥‥。
 I was quiet as I got out of the narrow cockpit. As I placed my foot on the rod-shaped ladder....
 //［ファル］：やぁぁっ！！

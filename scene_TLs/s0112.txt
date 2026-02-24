@@ -254,8 +254,10 @@ Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even
 [Kouji]: Legal Affairs Bureau...?
 //［沙夜香］：私はね、内偵として派遣されていたの。涼子に疑問を持った法務局から、つまり恵さんのお父様からね。
 [Sayaka]: I was dispatched as a secretary. The Legal Affairs Bureau, particularly Megumi-san's father, found Ryouko suspicious.
-//［宏治］：恵の‥‥法務局？‥‥<$0C>はっ！
-[Kouij]: Megumi's...Legal Affairs? Ha-!
+//［宏治］：恵の‥‥法務局？‥‥
+[Kouij]: Megumi's...Legal Affairs?
+//はっ！
+ Ha-!
 //［宏治］：（そういえば、沙夜香さんの連絡先に‥‥‥‥。）
 [Kouji]: (Come to think of it, Sayaka-san's address was...)
 //［沙夜香］：心当たり、あるみたいじゃない、宏治クン。
