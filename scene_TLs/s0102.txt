@@ -162,8 +162,10 @@ Ryouko, showing a wry smile, was writing down my words on her notebook.
 [Kouji]: I think I investigated all over the room.
 //［涼子］：ふーん‥‥どんな部屋だったのかしら？
 [Ryouko]: Hmm... What kind of room was it?
-//［宏治］：確か、カーテンのような、ついたてがあって‥‥あっ！
-[Kouji]: If I remember correctly, there was a folding screen that looked like a curtain... Ah!
+//［宏治］：確か、カーテンのような、ついたてがあって‥‥
+[Kouji]: If I remember correctly, there was a folding screen that looked like a curtain...
+//あっ！
+ Ah!
 //［涼子］：どうしたの？
 [Ryoulo]: What is it?
 //［宏治］：そうだ、僕が病室だと思ったのは、多分あのついたてを見たからだと思います。
