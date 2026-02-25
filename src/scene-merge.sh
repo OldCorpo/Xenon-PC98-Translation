@@ -35,4 +35,5 @@ cat ../scene_TLs/s0001.txt \
  ../scene_TLs/s0401.txt \
  ../scene_TLs/s0402.txt \
  ../scene_TLs/s0403.txt \
+ ../scene_TLs/extra_lines.txt \
  > ../script-japanese-with-translation.txt
