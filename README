@@ -11,12 +11,12 @@ Advancement :
 
 Usage:
 
+    Use verifier.py to check translation files at scene_TLs
+
     Use scene-merge.sh to merge scene_TLs into a single 
 	script-japanese-with-translation.txt file.
 
-    Use Formatter.bat to create a _script-japanese.txt file.
-
-	The _script-japanese.txt that needs to be copied into 
+	The _script-japanese.txt file needs to be copied into 
 	translation\_script-japanese.txt in the Tools repo.
    
     Then follow instructions at:
