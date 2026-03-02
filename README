@@ -16,9 +16,6 @@ Usage:
     Use scene-merge.sh to merge scene_TLs into a single 
 	script-japanese-with-translation.txt file.
 
-	The _script-japanese.txt file needs to be copied into 
-	translation\_script-japanese.txt in the Tools repo.
-   
     Then follow instructions at:
     
     https://github.com/OldCorpo/Xenon-PC98-Tools   
