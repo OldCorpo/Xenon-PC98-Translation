@@ -41,9 +41,9 @@ Sayaka raised her shoulders as she giggled. She suddenly lifted her head.
 //［沙夜香］：でも、おかしくなって、逆に頭が良くなっちゃたようね。
 [Sayaka]: But even though you've become weird, your head will soon clear up.
 //［コウジ］：フン、この惑星のヤツらは、会う度に頭がおかしいとか言うのが、習慣らしいな。
-[Kouji]: Hmph, are this planet's inhabitants accustomed to telling people they're weird when they meet?
+[Kouji]: Hmph, are this planet's inhabitants accustomed to  telling people they're weird when they meet?
 //［沙夜香］：フフ、マイナスかけるマイナスはプラスになるということよ。
-[Sayaka]: Hehe, well, as they say, a minus of a minus is a plus.
+[Sayaka]: Hehe, well, as they say, a minus of a minus is a  plus.
 //［コウジ］：‥‥つまりこの宿主の宏治とやらは元々おかしくて、私が入ったことにより天才的となった‥‥。
 [Kouji]: ...So you're telling me that the host Kouji was originally weird, and he was an even greater genius than me?
 //［沙夜香］：そういうところ、やっぱり普通じゃないわね。
@@ -51,7 +51,7 @@ Sayaka raised her shoulders as she giggled. She suddenly lifted her head.
 //［沙夜香］：それよりも、どう？
 [Sayaka]: That aside, what do you think?
 //私ににじりよってくると、沙夜香は私に小さく耳打ちするような声で言った。
-As she sidled up to me, Sayaka said this to me in a rather hushed tone.
+As she sidled up to me, Sayaka said this to me in a rather  hushed tone.
 //［コウジ］：どう、とは？
 [Kouji]: What do you mean, what do you think?
 //［沙夜香］：さっきの話の続きよ。あのマシンのこと、あなた詳しいんでしょ？
@@ -103,7 +103,7 @@ As I looked at Sayaka, who had suddenly fallen silent, I declared to her, insult
 //［沙夜香］：なんでよっ。
 [Sayaka]: Why?
 //［コウジ］：フン、じゃあ教えてやろう。貴様のことが嫌いだからだ。
-[Kouji]: Hmph, I'll tell you why. Because you're annoying, that's why.
+[Kouji]: Hmph, I'll tell you why. Because you're annoying,  that's why.
 //［コウジ］：私の奴隷になるというのなら、考えてやってもいいがな。その時は私のところへ来い。
 [Kouji]: If you were to become my slave, I might consider it. When you're ready, come to me.
 //［沙夜香］：コンピュータ・ルームへは、誰も入れないわよっ！
@@ -135,7 +135,7 @@ As I turned towards the elevator once more, a reserved voice called out.
 //［コウジ］：あたりまえだ。
 [Kouji]: Of course.
 //［涼子］：いちおう、あれでも私の妹なんです。あの子に害があるような事は‥‥。
-[Ryouko]: After all, she is my sister. If she were to come to harm...
+[Ryouko]: After all, she is my sister. If she were to come  to harm...
 //［コウジ］：舞は無事だ。あくまで触媒なのだからな‥‥。
 [Kouji]: Mai is fine. After all, she's the catalyst...
 //［涼子］：ホッ‥‥。
@@ -245,7 +245,7 @@ ko01
 //［宏治］：オレだって宏治だ！
 [Kouji]: But I'm Kouji!
 //［コウジ］：うむ、言われてみればそうだな。では宏治ではなくコウジであると言っておこうか、宏治。
-[Kouji]: Indeed, it's as you say. Then why not call me not "Kouji", but "Kouji"?
+[Kouji]: Indeed, it's as you say. Then why not call me not  "Kouji", but "Kouji"?
 //［宏治］：訳のわからない事を、悠長に話してる場合かよ。
 [Kouji]: Is this the kind of place to leisurely blabber about those unintelligible things?
 //［コウジ］：私は、質問に答えただけだが。
@@ -307,7 +307,7 @@ ko01
 //［宏治］：こちらの‥‥ジェネレータ？
 [Kouji]: The...generator?
 //［コウジ］：シンクロ時間は、私の概算でおよそ３秒。そのあいだに、私がビアンカを倒す。
-[Kouji]: The synchronization time, by my guess, is about 3 seconds. In that time, I will defeat Bianca.
+[Kouji]: The synchronization time, by my guess, is about 3  seconds. In that time, I will defeat Bianca.
 //［宏治］：冗談言うなよ、あんな凶悪な女、３秒でどうこうできるもんじゃないぜ。
 [Kouji]: Stop joking around, how can you possibly do that in 3 seconds to such a brutish woman?
 //［コウジ］：貴様は、私の思念がシンクロする時刻を逆算し、ビアンカとの戦いのタイミングをセッティングするのだ。
@@ -327,7 +327,7 @@ ko01
 //［宏治］：ち、ちきゅー！？
 [Kouji]: E-Earth?!
 //［コウジ］：これは類推だが、恐らく貴様がいた時代の、貴様の脆弱な肉体の中に私はいる。
-[Kouji]: This is an analogy, but I'm probably in your puny body, in your time.
+[Kouji]: This is an analogy, but I'm probably in your puny  body, in your time.
 //［宏治］：な、なんだってぇ！？
 [Kouji]: WHAAAAT?!
 //［コウジ］：いちいちリアクションが大きいヤツだ。恐らく我々の思念体が、そっくり入れ替わってしまったということだ。
@@ -335,7 +335,7 @@ ko01
 //［宏治］：入れ替わった‥‥？
 [Kouji]: Swapped...?
 //［コウジ］：うむ、どうやら双方の時代のジェネレータが時空を越え、シンクロしてしまったのだろう。
-[Kouji]: Indeed, somehow, the generators in both our times seem to have surpassed time to synchronize with each other.
+[Kouji]: Indeed, somehow, the generators in both our times  seem to have surpassed time to synchronize with each other.
 //［宏治］：んなご都合主義的なことが、あってたまるかよ！
 [Kouji]: Doesn't this feel like an opportunistic coincidence?!
 //［コウジ］：現実逃避か。肉体も脆弱なれば、精神も‥‥。
@@ -425,15 +425,15 @@ ko01
 //どうやら、意識が回復してきたようだった。私の浮遊していた思念が、すーっと身体に入っていく感覚が起きる。
 My consciousness had somehow recuperated. My drifting thoughts were suddenly thrust back into my body.
 //視覚も戻ってきたようだ‥‥ゆっくりと目を開けてみる。
-My sight also seemed to have returned...I slowly opened my eyes.
+My sight also seemed to have returned...I slowly opened my  eyes.
 //［コウジ］：どうやら、自室のようだが‥‥。
 [Kouji]: This seems like my room...
 //確か、意識を失ったのは自室外だったはずだが‥‥。
 Indeed, I likely lost consciousness outside my room, but...
 //［コウジ］：フン、意識を失っても、何とか帰ってくるとは、さすが大宇宙海賊‥‥んひゃひゃ。
-[Kouji]: Hmph, to have lost consciousness and somehow come back, it's truly worthy of a space pirate...Nhyahya.
+[Kouji]: Hmph, to have lost consciousness and somehow come  back, it's truly worthy of a space pirate...Nhyahya.
 //［沙夜香］：なーに、さっきからバカな独り言を言っているのよ。
-[Sayaka]: Helloooo? You've been talking to yourself like a dummy this whole time.
+[Sayaka]: Helloooo? You've been talking to yourself like a  dummy this whole time.
 //［沙夜香］：うふふーん。
 [Sayaka]: Uhuhu~.
 //［コウジ］：何だ、貴様は。
@@ -455,7 +455,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：私ね、あなたのことを‥‥。
 [Sayaka]: You know, I wanted to....
 //［コウジ］：色仕掛けか。フン、どいつもこいつも‥‥。
-[Kouji]: You're seducing me for your own ends, aren't you? Hmph, just like everyone else...
+[Kouji]: You're seducing me for your own ends, aren't you?  Hmph, just like everyone else...
 //xenon_24
 xenon_24
 //［沙夜香］：その強がり、いつまで続くのかしらね。
@@ -469,7 +469,7 @@ saya05
 //［コウジ］：パイズリのか？
 [Kouji]: Are you going to give me a tittyfuck?
 //［沙夜香］：違うわ！　このプロポーションにね、男どもははいつくばるのよ。
-[Sayaka]: No! These proportions are enough to make any man grovel before me.
+[Sayaka]: No! These proportions are enough to make any man  grovel before me.
 //［コウジ］：はいつくばる奴が、どうかしている。
 [Kouji]: What do you think of becoming my groveling slave?
 //［沙夜香］：フフン、口ではそんなこと言っても、アソコはもうビンビンじゃない‥‥。
@@ -483,7 +483,7 @@ Squeak, squeak, squeak...
 //［コウジ］：私は自分を偽るのが嫌いでな。
 [Kouji]: I hate attempts to deceive me.
 //［沙夜香］：本当に変ね、あなたって‥‥そんな風に感じる男性って、初めてよ。
-[Sayaka]: You're really weird, you know that...this is the first time a man has made me feel this way.
+[Sayaka]: You're really weird, you know that...this is the  first time a man has made me feel this way.
 //［コウジ］：倒れている人を自室に運んで、いきなりパイズリを始める女も、初めてだがな。
 [Kouji]: Well, this is the first time a woman I've defeated has come to my room and, without warning, started giving me a tittyfuck.
 //［沙夜香］：もう、こんなにビクビクしちゃってくるくせに‥‥。
@@ -493,7 +493,7 @@ Squeak, squeak, squeak...
 //［沙夜香］：いいのよ、このまま出しても‥‥顔にかける？　それとも口の中？
 [Sayaka]: Good, just like that, cum...do you want to cum on my face? Or in my mouth?
 //［沙夜香］：ンフフ、じゃあ、いいわよ‥‥このまま出しても‥‥。
-[Sayaka]: Nhuhu, well, this is great...like that, cum for me...
+[Sayaka]: Nhuhu, well, this is great...like that, cum for me  ...
 //［沙夜香］：あン、ほら、もう先っぽがヌルヌルしてきたわ‥‥。
 [Sayaka]: Ah, see, the tip is so wet already....
 //［沙夜香］：こんなに、パンパンに腫れ上がって‥‥あぁぁ、もう出そうなのね！
@@ -525,7 +525,7 @@ saya04b
 //［コウジ］：こんなので私を誘惑したつもりか。
 [Kouji]: Did you intend to seduce me this way?
 //［沙夜香］：男のなんて、みんな同じよね、アソコをビクビクさせてイっちゃったくせに。
-[Sayaka]: All you men are the same, even after getting you hard and making you cum.
+[Sayaka]: All you men are the same, even after getting you  hard and making you cum.
 //［コウジ］：では、私が普通の男と違うのを、見せてやろう。
 [Kouji]: Then, let met show you that I'm no ordinary man.
 //［沙夜香］：な、なによ‥‥きゃぁぁっ！！
@@ -623,7 +623,7 @@ Sayaka swung her fist at me, only for it to smack right into the palm of my hand
 //［沙夜香］：この恨み、はらさないでおかないからっ！
 [Sayaka]: I'm not letting go of this grudge!
 //［コウジ］：マタロウか、お前は。
-[Kouji]: You've got quite the chip on your shoulder, don't you?
+[Kouji]: You've got quite the chip on your shoulder, don't  you?
 //［コウジ］：それよりも、舞の方だ。触媒がいなくては、シンクロすることも、ままならん。
 [Kouji]: Besides, I have Mai to worry about. If a medium is not present, I can't synchronize.
 //［コウジ］：向こうの宏治には、５時間後と言っておいたが‥‥やつがビアンカに黒コゲにされるのは明らかだ。

@@ -97,7 +97,7 @@ s0303a
 //［ランファ］：だってぇ、コウジ様はコウジ様じゃないですか。
 [Lanhua]: Like I said, Kouji-sama isn't Kouji-sama.
 //［宏治］：オレは君らのことを、残念ながら知らない‥‥。
-[Kouji]: I'm sorry, but I really don't know anything about you all...
+[Kouji]: I'm sorry, but I really don't know anything about  you all...
 //［ランファ］：ウルウルぅ‥‥。
 [Lanhua]: *whimpers*
 //［宏治］：じゃなくて、覚えてないけど、君らがオレのことを知ってるのはどう考えても不公平じゃないか。
@@ -129,7 +129,7 @@ s0303a
 //［ランファ］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
 [Lanhua]: It's 52 meters long, the engine runs on ethereal photon energy, and the craft is fitted with hyperdrive capabilities...
 //［ランファ］：火器は、な、なんとイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など、一発よっ！
-[Lanhua]: The armaments include 3 ion cannons and two photon blasters, which would take out a superficial cruiser in a single hit!
+[Lanhua]: The armaments include 3 ion cannons and two photon blasters, which would take out a superficial cruiser in a  single hit!
 //［ランファ］：最大搭乗員数は２０人、でもフルオートのエンジンや航行機能などで、最低３人にまで削減することが可能なのっ。
 [Lanhua]: The maximum capacity is 20 persons, but, because it has a full-auto engine and self-flight capabilities, as few as 3 people can run the whole thing.
 //［ランファ］：その他にも、タキオンを利用したハイパーウェイブ通信機能など、あぁ、何て可愛らしい子なのかしらっ。
@@ -155,7 +155,7 @@ s0303a
 //［宏治］：ど、どうした！？
 [Kouji]: Wh-what happened?
 //［ランファ］：舌を噛まずに、初めてキチンと言えたんですぅ。
-[Lanhua]: I bit my tongue, that's the first time I've said the whole name.
+[Lanhua]: I bit my tongue, that's the first time I've said  the whole name.
 //［宏治］：あ、あのね‥‥それよりも、何だって？
 [Kouji]: Umm...Can you tell me anything else about it?
 //［ランファ］：ですからぁ、大宇宙かいぞきらべまとろろ‥‥。
@@ -189,7 +189,7 @@ s0303a
 //［宏治］：わかる？
 [Kouji]: Do you know?
 //［ランファ］：はい。んーとですね、確かファルネリア様を触媒にするとか、言っていました。
-[Lanhua]: Yes. Mm, so it's like this: you said before that Farnelia-sama needs to serve as a medium.
+[Lanhua]: Yes. Mm, so it's like this: you said before that  Farnelia-sama needs to serve as a medium.
 //［ランファ］：確か、触媒の女性って、言っていました。
 [Lanhua]: You definitely used the term "woman medium".
 //［ランファ］：ですからぁ、触媒って言ってましたよ。
@@ -225,7 +225,7 @@ s0303a
 //［ランファ］：‥‥？
 [Lanhua]: ...Huh?
 //［ランファ］：コウジ様っ、その涼子せんせって、いったい誰なんですか？
-[Lanhua]: Kouji-sama, who on earth is that that Dr. Ryouko you're addressing?
+[Lanhua]: Kouji-sama, who on earth is that that Dr. Ryouko  you're addressing?
 //［ランファ］：コウジ様ぁ、机の引き出しを開けて、何をしてるんですか？
 [Lanhua]: Kouji-sama, what are you doing, opening that desk drawer?
 //［ランファ］：もうプリプリですぅ、涼子って、誰なんですか！？
@@ -271,7 +271,7 @@ s0303a
 //［ランファ］：もうプリプリよぉ。
 [Lanhua]: Hmph, I'm still upset.
 //［トレイシー］：ファルネリア様は、ＶＩＰルームにおいでです。よろしく頼むわ。
-[Tracy]: Farnelia-sama is in the VIP room. I'm leaving her to you.
+[Tracy]: Farnelia-sama is in the VIP room. I'm leaving her  to you.
 //［ランファ］：しょうがないわねっ、じゃあ今から行く。
 [Lanhua]: Fine, then. I'll go now.
 //［トレイシー］：よろしくね‥‥あっ、コウジ様。

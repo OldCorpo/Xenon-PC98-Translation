@@ -35,7 +35,7 @@ Carefully avoiding broken rungs along the way, I slowly made my way up the ladde
 //目の前には、比較的長い道が、一直線に奥へと伸びていた‥‥。
 In front of me, a rather long path extended deeply in a straight line...
 //地面や側壁などにはヒビが入り、あれ果てた状態だったが、はるか昔は、綺麗に整備された気配をうかがわせる。
-The walls and floor were cracked, but I can tell that long ago, it must have been maintained in a beautiful state.
+The walls and floor were cracked, but I can tell that long  ago, it must have been maintained in a beautiful state.
 //先史文明とやらの、レベルの高さという訳だろうか。
 This spoke to the high level of the previous civilization.
 //［コウジ］：（しかし、ここはどこかで‥‥‥‥。）
@@ -49,7 +49,7 @@ But, I somehow remembered the structure clearly. I slowly unraveled that thread 
 //［コウジ］：（ま、まさか‥‥‥‥。）
 [Kouji]: (It can't be...)
 //そのまさかのようだ‥‥私は、どうやら夢の中の世界へと、迷い込んでしまったらしい。
-In an unbelievable way...I somehow was drawn into a dream world.
+In an unbelievable way...  I somehow was drawn into a dream world.
 //夢の中‥‥‥‥？
 Am I in a dream...?
 //これは、現実ではなかったのか‥‥？
@@ -59,7 +59,7 @@ Relying on my memories in my dreams, I carefully followed along...
 //この脇に椅子が置いてあり、そしてこの先の角には階段が‥‥風化しているとはいえ、私の思ったとおりの配置に愕然とする。
 This chair beside me was there, and at this corner before me is a stairway...Even though it was weathered heavily, I was stunned at how well it matched my memory.
 //このドアの向こう側は診療室だったはずだ。そして‥‥‥‥。
-On the other side of this door is the consulting room. And then...
+On the other side of this door is the consulting room. And  then...
 //私は、ある大きなドアの前に立った‥‥。
 I stood before a certain large door...
 //［コウジ］：（このドアの向こう側に‥‥‥‥。）
@@ -73,7 +73,7 @@ xenon_09
 //［宏治］：ここは‥‥コンピュータ・ルーム！？
 [Kouji]: This is...the computer room?!
 //重々しい稼働音が耳に響いてくる。ここは、あのコンピュータ・ルームだ。
-The heavy sound of the displaced door resonated in my ear. That computer room was right here.
+The heavy sound of the displaced door resonated in my ear.  That computer room was right here.
 //僕は‥‥‥‥。
 What on earth...
 //いったいどうしたというんだ‥‥。
@@ -91,7 +91,7 @@ Why am I here....
 //meg02
 meg02
 //［宏治］：恵じゃないか、何をやっているんだ‥‥。
-[Kouji]: Well, if it isn't you, Megumi. What are you doing here...
+[Kouji]: Well, if it isn't you, Megumi. What are you doing  here...
 //［恵］：宏治、バカぁ！
 [Megumi]: Kouji, you idiot!
 //［宏治］：ば‥‥いきなり、バカはないだろう？
@@ -119,7 +119,7 @@ meg06
 //［宏治］：結構色っぽいんだなぁ、恵ってさ。
 [Kouji]: You're pretty sexy, Megumi.
 //［恵］：ばーか。もう、こんなホノボノしている時じゃないのに。
-[Megumi]: I--diot. Come on, now isn't the time to feel all sentimental.
+[Megumi]: I--diot. Come on, now isn't the time to feel all  sentimental.
 //［宏治］：そういえば、さっき涼子先生がどうとか‥‥。
 [Kouji]: Oh yeah, what about Ryouko-sensei from earlier...
 //［恵］：そうよ、彼女は宏治のことを‥‥‥‥きゃっ！
@@ -227,7 +227,7 @@ mai04_m
 //［舞］：宏治サン、私は‥‥‥‥。
 [Mai]: Kouji-san, I...
 //［涼子］：舞、おしゃべりはそのくらいにしておきなさい。これから、時間はたっぷりあるのよ‥‥。
-[Ryouko]: Mai, you've said enough. From here on out, there will be plenty of time...
+[Ryouko]: Mai, you've said enough. From here on out, there  will be plenty of time...
 //［舞］：はい、お姉さん‥‥。
 [Mai]: Yes, big sister...
 //［宏治］：ぼ、僕をどうする気だ？　殺すのか。
@@ -361,7 +361,7 @@ xenon_10
 //［ランファ］：地球時間で、ちょうど６千と１２年ほどです。
 [Lanhua]: By earth time, between about six thousand to twelve thousand years.
 //［コウジ］：６千年か‥‥長いようで、短かったな‥‥。
-[Kouji]: Six thousand years...It feels long, but it passed so quickly...
+[Kouji]: Six thousand years...It feels long, but it passed  so quickly...
 //［コウジ］：君と、君の姉さんは、重核中性子爆弾による人類の滅亡を予期していた。
 [Kouji]: You and your big sister anticipated the heavy neutron bombs that wiped out humanity.
 //［ランファ］：はい。ですが人類の種は滅びても、その記憶だけは残しておきたかった‥‥。
@@ -373,11 +373,11 @@ xenon_10
 //［コウジ］：人間の意識を、機械の中へと投影した‥‥。
 [Kouji]: Human consciousness is projected into machines...
 //［ランファ］：私たち２人だけは、思念体となって、意識だけは残ったのです。
-[Lanhua]: Only the two of us awakened thinking bodies, and only our consciousnesses remained.
+[Lanhua]: Only the two of us awakened thinking bodies, and  only our consciousnesses remained.
 //［コウジ］：人間の持つパーソナリティ‥‥人格をも、電子頭脳へと投影した‥‥。
 [Kouji]: Humanity's personalities...their psyches, were projected into electronic brains...
 //［ランファ］：はい、私たちは人類の終焉を見てもなお、生き続けた。いえ、記憶を残し続けた、メモリーの中に‥‥。
-[Lanhua]: Yes, even after we witnessed the end of humanity, we lived on. No, we carried our consciousnesses on, in our memories...
+[Lanhua]: Yes, even after we witnessed the end of humanity, we lived on. No, we carried our consciousnesses on, in our  memories...
 //［コウジ］：こうして、思念を実体化させ、様々な事をやってきたんだ。
 [Kouji]: In this way, through realization of your thoughts, you did a lot of things, didn't you.
 //［ランファ］：そしてそれは、もうすぐ成就するのです。
@@ -411,7 +411,7 @@ xenon_10
 //［ランファ］：あの異星の方々は、私たち人類の文明を、単なる興味と利権のみの対象でしか、見ていなかった‥‥。
 [Lanhua]: I saw that those aliens showed only unadulterated curiosity in our human culture...
 //［コウジ］：前回と前々回の彼らには、穏便に退場願ったけどね。
-[Kouji]: You asked the last two teams to peacefully leave, didn't you?
+[Kouji]: You asked the last two teams to peacefully leave,  didn't you?
 //［ランファ］：ええ‥‥でも、ファルたちは違うような気がします。
 [Lanhua]: Yes...However, I feel that Far and company are different.
 //［コウジ］：あぁ、確かに心に暖かさを感じた‥‥。
@@ -429,13 +429,13 @@ xenon_10
 //［ランファ］：生きる、というのは正確ではありません。
 [Lanhua]: To "live" isn't the right way to phrase it.
 //［コウジ］：そうだったな‥‥あとどのくらい、稼働していられるのかな。
-[Kouji]: That's true...how much longer do we have to move around?
+[Kouji]: That's true...  how much longer do we have to move around?
 //［ランファ］：概算ですが、超伝導原子力電池の蓄電量は、あと２千年ほどです‥‥。
-[Lanhua]: I'd estimate our superconducting nuclear powered batteries will last us about two thousand years...
+[Lanhua]: I'd estimate our superconducting nuclear powered  batteries will last us about two thousand years...
 //［コウジ］：２千年か‥‥‥‥。
 [Kouji]: Two thousand years...
 //私はもう一度、あたりを見回してみた。あと２千年、か‥‥‥‥。
-I looked around me once more. The next two thousand years, huh...
+I looked around me once more. The next two thousand years,  huh...
 //「長いようで、短い時間だ‥‥‥‥。」
 "How long that short time seems..."
 //「はい‥‥‥‥。」
@@ -451,7 +451,7 @@ I walked to one corner of the room and looked back at her.
 //「どうなの、これ。」
 "What do you think of this?"
 //「はい、外の放射能反応は、ほぼゼロになりました。それに必要な機材が、手に入りましたから‥‥。」
-"The radioactivity outside has become almost zero. We have the necessary materials as well, so..."
+"The radioactivity outside has become almost zero. We have  the necessary materials as well, so..."
 //「ファルたちには、感謝しなくちゃなんないね。」
 "Shouldn't we thank Far and company?"
 //「ええ、後は‥‥‥‥。」
@@ -475,6 +475,6 @@ It's fine to enter the dream already...that embarrassing time...
 //私は再び、傍らに置いてあった試験管を見る‥‥。
 Once more, I looked at the test tube next to me...
 //そこには私と舞の‥‥人類の唯一の種が、眠っているのだ‥‥‥‥。
-There, the seed born from Mai and me...the only one of all of humanity, was sleeping...
+There, the seed born from Mai and me...the only one of all  of humanity, was sleeping...
 //　　　　　　　　ＤＲＥＡＭ＿１　‥‥　ＥＮＤ
 　　　　　　　　ＤＲＥＡＭ＿１　‥‥　ＥＮＤ

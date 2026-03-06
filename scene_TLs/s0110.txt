@@ -65,7 +65,7 @@ As I looked at her standing figure from the shadows, I felt a little bit of nost
 //［ランファ］：そんな、悲しそうな顔をしないで‥‥。
 [Lanhua]: Please, don't make that sad face....
 //［ランファ］：コウジさんが悲しそうな顔をするの、耐えられない‥‥。
-[Lanhua]: when Kouji-san makes that sad face, I can't bear it.
+[Lanhua]: when Kouji-san makes that sad face, I can't bear  it.
 //［コウジ］：君には、嫌われているのかと思っていたよ。
 [Kouji]: You must really hate it.
 //［ランファ］：そんなこと‥‥。
@@ -83,7 +83,7 @@ xenon_22
 //ランファは唇をそっと、私のそれに押しつけてきた。柔らかく暖かい感触に、少し気持ちが落ちつく気がした‥‥。
 Lanhua gently placed her lips on mine. The soft, warm touch slightly calmed me down...
 //遠慮がちに蠢く彼女の舌が、私の口腔に差し込まれてくる。幼い顔をしているが、することは大胆だった。
-She unreservedly put her wriggling tongue in my mouth. She looked innocent, but was doing something quite bold.
+She unreservedly put her wriggling tongue in my mouth. She  looked innocent, but was doing something quite bold.
 //私は彼女を抱き抱えると、そっとベッドに横たえた‥‥。
 I hugged her close, and gently laid down on the bed...
 //ra02
@@ -147,7 +147,7 @@ As she looked down in a pleading manner, she added, "please take off your clothe
 //私も身につけている衣服を脱ぐと、ランファの身体をそっと抱きしめてみた。
 I took off my clothing and gently hugged Lanhua's body.
 //比較的細身の身体は柔らかく、滑らかだった。肌と肌を密着させると、彼女の胸の鼓動は私のところまで伝わってくる。
-Her relatively thin body was soft and smooth. As our skins stuck together, her heartbeat was transmitted to my heart.
+Her relatively thin body was soft and smooth. As our skins  stuck together, her heartbeat was transmitted to my heart.
 //太股の内側をなぞっていき、両脚の間にある布地まで到達する。さきほどよりも、湿り具合が激しかった。
 As I traced the inside of her thigh, I reached the fabric between her legs. It seemed quite a bit wetter than before.
 //［ランファ］：やさしく‥‥して下さい‥‥。
@@ -189,7 +189,7 @@ This felt like...
 //以前、会ったことのある女性と、ランファがだぶって見えたが‥‥。
 Before, when we met, Lanhua looked quite afraid...
 //今までに起きた既視感覚の中では、とりわけ最大級の不安を私に与えた。
-All the way until now, deja vu carried with it the highest degree of discomfort.
+All the way until now, deja vu carried with it the highest  degree of discomfort.
 //［ランファ］：どうかされたんですか‥‥？
 [Lanhua]: What's wrong...?
 //小さな声で、ランファが私に声を掛けてきた。目は上目遣いで、心配そうに私を見つめている‥‥。
@@ -293,7 +293,7 @@ Lanhua pointed in front of her at the micro disc playback device already plugged
 //［コウジ］：い、いや‥‥見るよ。
 [Kouji]: No...look.
 //この心のしこりはなんだろうか‥‥。私の無意識下では、盛んに警報が鳴っていた。
-What was this lump in my chest...before I realized it, an active alarm was ringing.
+What was this lump in my chest...  before I realized it, an active alarm was ringing.
 //ＭＤを再生しては、いけない‥‥？
 Will I be unable to play back the micro disc, after all...?
 //トレイに乗ったＭＤが、再生装置に吸い込まれる時、私は居てもたってもいられない強迫観念に襲われてきた。
@@ -323,7 +323,7 @@ The recording stopped there.
 //意味もない横線がモニター上を縦横無尽に走り回り、耳障りなノイズを発しはじめる。映像の記録が終わりに達したことをあらわしていた。
 Meaningless horizontal lines freely traveled around the monitor, and a tinnitus-inducing sound started to play. I became aware that I'd reached the end of the recording.
 //私はディスプレイから顔をあげると、ランファの方を見た。彼女はまだ、ディスプレイの方を無表情にじっと見つめている。
-I looked up from the display towards Lanhua. She was still staring blankly at the display.
+I looked up from the display towards Lanhua. She was still  staring blankly at the display.
 //［コウジ］：ランファ、これはいったい‥‥。
 [Kouji]: Lanhua, what on earth...
 //［ランファ］：コウジさん、現実を見つめて下さい。そして、夢を夢と認識して下さい‥‥。
@@ -373,7 +373,7 @@ Far slowly approached me.
 //コレと言いながら、ファルは腰に吊ってある銃をポンと１回叩いた。表情はかなり厳しい‥‥本気だ。
 As she said "this", Far pulled out a gun hanging from her hip and patted it once. Her expression was quite grave...she's serious.
 //［コウジ］：わかった、ファル‥‥だけど、１つだけ聞かせて欲しいんだ。
-[Kouji]: I understand, Far...but please hear me out, just this once.
+[Kouji]: I understand, Far...  but please hear me out, just this once.
 //［コウジ］：ランファのことだ。
 [Kouji]: It's about Lanhua.
 //ランファには、不可解な部分が多すぎる。私には、彼女が何らかの情報を得ているのではないかと、ほとんど確信に近い自信を持っていた。
@@ -381,7 +381,7 @@ There were too many things about Lanhua I didn't understand. She didn't tell me 
 //そして、例のマイクロ・ディスクに関する事も。
 Besides, there was the issue about the micro disc, too.
 //だが、意に反してファルの口から出た言葉は‥‥‥‥。
-But to my surprise, the words that came out of Far's mouth were...
+But to my surprise, the words that came out of Far's mouth  were...
 //［ファル］：ランファって‥‥誰のことなの？
 [Far]: Lanhua...who is that?
 //［コウジ］：えっ‥‥？　ら、ランファは、ランファだろう？
@@ -423,7 +423,7 @@ I pulled the gun out of her hip holster, and suddenly let go of her. The sudden 
 //［ファル］：今あなたには焦りの色しか見えない‥‥深呼吸をして、落ちつきなさい。
 [Far]: Right now, you're a panicked color...breathe in deep, and calm down.
 //［コウジ］：‥‥ランファの事はもういい。１つ教えてくれ。
-[Kouji]: ...I won't press you further about Lanhua. Please tell me one thing, though.
+[Kouji]: ...I won't press you further about Lanhua. Please  tell me one thing, though.
 //［ファル］：な、なに？
 [Far]: Which is?
 //［コウジ］：このシップの中で、下、と言ったとき、それはどの場所を指す？
@@ -455,13 +455,13 @@ I pulled the gun out of her hip holster, and suddenly let go of her. The sudden 
 //静かな廊下に、２人の靴の音が響きわたっていた。
 In the quiet corridor, our footsteps echoed.
 //ファルはさっきから、ずっと黙っている。後ろを歩く私の手に、銃が握られているためかもしれない。
-Far had been silent since then. Maybe it was because I was walking behind her, gripping a gun.
+Far had been silent since then. Maybe it was because I was  walking behind her, gripping a gun.
 //黙々と歩く彼女の背中を見ながら、私はランファの事を考えていた。
 As I silently stared at her back, I thought about Lanhua.
 //さきほどのファルを見ていると、どうも嘘を付いているようには見えなかった。すると、本当にランファの事を知らないのかも‥‥。
 When I looked at Far earlier, I didn't see a trace of a lie. Did she really not know about Lanhua?
 //知らないのではなく、知らなかった事になったのではないか‥‥マインドコントロール‥‥？
-Maybe it wasn't that she didn't know, but that she somehow forgot...could it be mind control?
+Maybe it wasn't that she didn't know, but that she somehow  forgot...could it be mind control?
 //そんな、取り留めのない考えが頭を駆けめぐっているとき、ファルが私に語りかけてきた。
 As these fading thoughts ran around in my head, Far spoke to me.
 //［ファル］：惑星へ降りて、どうするの？
@@ -477,13 +477,13 @@ As she faced forward, Far questioned me. Her pace continued.
 //［ファル］：‥‥‥‥‥‥。
 [Far]: ......
 //恐らく、また私の作り話が始まったと思ったのかも知れない。ファルはしゃべるのを止めて、再び黙々と歩きだした。
-She may have thought my tale had yet to begin. Far stopped talking and silently continued walking.
+She may have thought my tale had yet to begin. Far stopped  talking and silently continued walking.
 //私は、ランファが現実にいたと信じている。いや、信じたかった‥‥。
 I believe Lanhua really existed in this reality. No, I wanted to believe...
 //だが、私以外の全ての人間が、それを否定したら‥‥本当にそれが現実だと言えるのだろうか。
 But if I deny the existence of everyone except myself...Can I really call that reality?
 //そしてそのとき、唯一の現実でさえ、否定されてしまうんじゃないか‥‥？
-And then, even that singular reality can be denied, can't it...? 
+And then, even that singular reality can be denied, can't it  ...? 
 //ドアの前へやってくると、ファルは私の方を振り向いた。
 As we arrived at the door, Far turned to me.
 //［ファル］：シャトルの操縦は？
@@ -497,7 +497,7 @@ As we arrived at the door, Far turned to me.
 //［コウジ］：無理強いはしないよ。でも、君だってシャトル１機、無駄にはしたくないだろう？
 [Kouji]: Don't push yourself. But then, because we only have one shuttle, we don't want to mess up, right?
 //ファルは怪訝そうな表情で私を見ていた。銃を突きつけている人間が、無理強いはしないと言うのは、自分でも何か妙な気がする。
-Far shot me a dubious look. To someone at gunpoint, "don't push yourself" must be a strange thing to hear.
+Far shot me a dubious look. To someone at gunpoint, "don't  push yourself" must be a strange thing to hear.
 //ファルはしばらく私の事を見つめていたが、きびすをかえすと格納庫のドアを開けて入っていった。
 Far stared at me for a while, but she turned her heels, opened the door to the hangar, and entered it.
 //［トレイシー］：あら、お２人でどうなさったんですか？
@@ -551,9 +551,9 @@ The curved hard glass surrounding cockpit dimly filtered the indirect star light
 //様々な色を発色しながら輝く星々は、幻想的で、ある意味では非現実的といっても良かった。
 The multi-colored shining stars were fantastic and, in a manner of speaking, unreal.
 //しかし、これが非現実で夢だと言うなら、それもまたいいなとも思う。
-However, even if this were some unreal dream, I think it'd still be fine.
+However, even if this were some unreal dream, I think it'd  still be fine.
 //流れる川に身を委ねる落ち葉のように、全てを幻想に委ねてしまうのも悪くはないと、私は星の輝きを見ながら考えていた。
-Even entrusting myself to the fantasy like a fallen leaf in a running stream would be nice, I thought as I watched the stars twinkle.
+Even entrusting myself to the fantasy like a fallen leaf in a running stream would be nice, I thought as I watched the  stars twinkle.
 //そもそも『現実』とは、いったい何だろうか‥‥。
 In any case, what even is "reality"?...
 //いま生きている、空間と時間のことを指しているのか？　自分たちが精一杯生きている世界を‥‥。
@@ -565,7 +565,7 @@ Because the base reasons for acknowledging reality amount to such ambiguous conc
 //でも、それはそれで、いいではないかと思う。
 But even so, I think it might be OK.
 //今を生きていると信じ、これが現実だと信じられるなら、そここそ現実の世界と考えられるのではないか。
-If I believe that I'm living now, and believe that this is reality, shouldn't I consider this the real world as well?
+If I believe that I'm living now, and believe that this is  reality, shouldn't I consider this the real world as well?
 //今いる自分が、例え夢の存在だとしても、その中で精一杯あがけるだけあがいてやるのは、そう無為だとは思えない‥‥。
 Even if my self here and now exists in a dream, as long as I just give it my all, it won't be a waste.
 //そんなことを考えている自分に、少し驚きもする。意外に、『現実』を受けとめてしまう方なのかもしれない。

@@ -101,9 +101,9 @@ bast_m01
 //［目の前の女性］：‥‥‥‥‥‥。
 [Woman before me]: ......
 //薄暗い場所にたたずむ女性は、少し怯えているような感じだった。
-The fact that a woman was loitering alone in such a gloomy place gave me an ominous feeling.
+The fact that a woman was loitering alone in such a gloomy  place gave me an ominous feeling.
 //いやむしろ、女性というよりは、あどけなさの残る美少女、という感じだ。
-Nay, more than a woman, she gave the feeling of a pristine and exquisite maiden.
+Nay, more than a woman, she gave the feeling of a pristine  and exquisite maiden.
 //私に、よほど驚いたのだろう。目の前の少女は、怪訝そうな表情をしてじっと押し黙っている。
 She seemed surprised to see me. Showing a puzzled face, she was keeping silent.
 //［私］：（それにしても‥‥‥。）
@@ -153,7 +153,7 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //気が少し動転していたのかもしれない‥‥。
 Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
-Before I realized, I had arrived in an utterly frigid place. I could see my breath billowing out like smoke, and I was shaking like a leaf in the wind.
+Before I realized, I had arrived in an utterly frigid place. I could see my breath billowing out like smoke, and I was  shaking like a leaf in the wind.
 //ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
 It seemed that I ended up in an unusual place while I was roaming the area, looking for this girl called Lanhua.
 //0040
@@ -173,7 +173,7 @@ It was plausible that this was an operating room, filled with several mechanical
 //重々しいサウンドが、頭に響きわたる。私は再び、頭痛に見舞われてきた。
 A loud sound rang through my head. Once more, I was assaulted by a terrible headache.
 //ふと、目の前の装置を見てみると、なにやらランプが点滅している。私はそれに若干の興味を抱いた。
-Then, as soon as I glanced at the device, some kind of light started blinking. I found myself quite enthralled by that light.
+Then, as soon as I glanced at the device, some kind of light started blinking. I found myself quite enthralled by that  light.
 //　◆ もっとよく見てみよう。
 ◆ Let's look a little closer.
 //　◆ この頭痛は耐え難い。部屋を早く出よう。
@@ -195,7 +195,7 @@ The door was ruthlessly blocking my retreat.
 //\n　
 \n
 //無駄とはわかっていても、言い様のない不安と緊張が、私の手を動かし続けた。
-Though I knew it was useless, anxiety and fear were making my hands move on their own.
+Though I knew it was useless, anxiety and fear were making  my hands move on their own.
 //意に反して、ドアは冷然と私の前に立ちふさがっている。
 But the door, impervious to my will, still prevented me from fleeing.
 //私の拳で、どうこうなる硬さではないらしい。私は、赤く腫れた拳をさすりながら、
@@ -205,7 +205,7 @@ My swollen fists started aching quickly enough - they weren't as hard as the doo
 //部屋の中は相変わらず寒々としていて、静寂の音を醸し出しているようだった。
 The room was as frigid as ever, wrapped in a deafening silence.
 //私が嘆息して部屋をぐるりと見回すと、ふと目に入ってくるものがあった。
-I went on looking all around me, gasping. It was then that something caught my attention.
+I went on looking all around me, gasping. It was then that  something caught my attention.
 //先ほどの、チカチカと点滅しているランプだった。
 It was the flickering light I had seen before.
 //何か気になる‥‥大きな球面状のガラスに覆われたカプセル状の機械は、私に、その中にまで興味を抱かせた。
@@ -217,7 +217,7 @@ Getting closer, I finally understood what was the source of that light.
 //0040b
 0040b
 //側面下方に付いてある、小さなコンソールパネルが点滅している。そこから、ピッ、ピッ、という電子音が、断続的に鳴っているようだ。
-Below on the side, a small console panel was blinking. You could hear a strident sound intermittently stemming from it.
+Below on the side, a small console panel was blinking. You  could hear a strident sound intermittently stemming from it.
 //私は屈んでパネルをのぞき込んでみる。そこには小さな文字で、こうディスプレイされていた。
 Crouching down, I peered at the monitor. On it the following characters were displayed:
 //　　　　　　　　　　　　　P.P.E.

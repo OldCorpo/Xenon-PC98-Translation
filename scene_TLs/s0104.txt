@@ -31,7 +31,7 @@ What in the world...?
 //（何だ、これは‥‥‥‥？）
 (What is this thing...?)
 //身を起こした私の目の前には、重厚なサウンドを醸し出している、異様に大きな機械が稼働していた‥‥。
-I got up, and faced a gigantic, strange machine emitting a loud, heavy sound as it operated.
+I got up, and faced a gigantic, strange machine emitting a  loud, heavy sound as it operated.
 //コンソールパネルや、何かのランプが、ちかちかと点滅している。ずっと見ていると、目が痛くなってきそうだ。
 The console panels and some sort of lights were flickering wildly. If I kept looking at it, my eyes would start to hurt.
 //（この暑さは、これのせいか‥‥‥‥。）
@@ -57,7 +57,7 @@ A hot, stifling, boisterous place...I couldn't stay here for more than a few min
 //ふと、手前右側には、ドアらしきものを発見した。
 Suddenly, I discovered something resembling a door on my right.
 //ドアの前に立ってみるが、開く様子は微塵もない。どうしたものかと思案する私の目に、ドア横のレバースイッチが入ってきた。
-Standing in front of the door and examining it, I found it was sealed shut. As I tried to grasp the situation at hand, I noticed a lever beside the door.
+Standing in front of the door and examining it, I found it  was sealed shut. As I tried to grasp the situation at hand, I noticed a lever beside the door.
 //もしかすると、これで‥‥？
 Maybe, if I...?
 //　◆ レバースイッチを入れてみよう。
@@ -67,7 +67,7 @@ Maybe, if I...?
 //レバースイッチを入れてみよう。
 Let's pull the lever switch.
 //ドアの前でずっと立ちっぱなしというのも、馬鹿馬鹿しい気がする。
-I felt stupid for spending so much time loitering in front of the door.
+I felt stupid for spending so much time loitering in front  of the door.
 //他の手段が思い浮かばない以上、
 I couldn't think of any other way, so,
 //（これがドアの、開閉スイッチに違いない‥‥‥‥。）
@@ -125,7 +125,7 @@ Now, I wanted to escape from this horrendous noise as quickly as possible.
 //私は、おぼつかない足どりで、この場を立ち去った‥‥‥‥。
 With legs quivering beneath me, I left this place behind me.
 //蒸し暑さは変わらなかったが、息苦しさから解放された為か、幾分気分が良くなったようだ。
-The air was as hot and humid as ever, yet it was longer as stifling. I was feeling a little better.
+The air was as hot and humid as ever, yet it was longer as  stifling. I was feeling a little better.
 //あの耳障りな騒音も、かなり静かになっていた。
 That ear-ringing sound had stopped.
 //（ここには、誰も人がいないのだろうか‥‥‥‥。）
@@ -183,7 +183,7 @@ She sighed. Her expression was that of exasperation.
 //［目の前の女］：私は、ファル‥‥ファルネリアよ、コウジさん。
 [Woman before me]: Call me Far. Farneria is my full name, Kouji-san.
 //私は、ファルと名乗る目の前の女性を、改めて見つめてみた。
-I was once again staring at the woman before me who called herself Far.
+I was once again staring at the woman before me who called  herself Far.
 //透き通るような赤い髪、大きくキリっとした目、薄く笑みがこぼれる口元‥‥。
 Crystalline red hair, big and tense eyes, a faint smile...
 //左耳上に付けているのは何だろうか‥‥アクセサリか、あるいは無線のレシーバか何かだろうか。
@@ -209,7 +209,7 @@ My heart skipped a beat by her coming so close to me.
 //［私］：‥‥‥な、なにを‥‥‥。
 [Me]: ...W-What do you...
 //クスっと笑みを洩らすと、ファルは私の胸元に付いてある銀色の板を、指でピンと弾いた。
-Letting out a smile, Far pointed to the silver plate on my chest.
+Letting out a smile, Far pointed to the silver plate on my  chest.
 //［私］：あっ‥‥ネームプレート‥‥？
 [Me]: Huh? A nametag?
 //いま気付いたが、私はかなりラフな姿をしていたらしい。素肌にシャツ、薄手のズボン、しかも素足だった。
@@ -225,7 +225,7 @@ Kouji...?
 //［ファル］：どう、思い出した？
 [Far]: Did you remember something?
 //［コウジ］：いや、何となく聞き覚えがある程度で‥‥‥でも、ありがとう。
-[Kouji]: No, I just feel like I've heard it before... But, thank you.
+[Kouji]: No, I just feel like I've heard it before... But,  thank you.
 //［ファル］：えっ、どういうこと？
 [Far]: Huh? What do you mean?
 //［コウジ］：いや‥‥なんというか、自分の名前だけでも知ることができたのは、大きな収穫だった。
@@ -235,7 +235,7 @@ Kouji...?
 //［コウジ］：黄色？
 [Kouji]: Yellow?
 //［ファル］：あっ、ごめんなさい。黄色はね、感謝の気持ちを表しているの。
-[Far]: Ah, sorry. The emotion yellow stands for is that of gratitude.
+[Far]: Ah, sorry. The emotion yellow stands for is that of  gratitude.
 //［コウジ］：‥‥‥‥‥‥。
 [Kouji]: ‥‥‥‥‥‥
 //［ファル］：ごめんなさい、私はちょびっとだけ、精神感応の能力があって、人の感情を色で読みとることができるのよ。
@@ -283,7 +283,7 @@ Turning a somewhat pained face towards me, she slowly opened her mouth.
 //ピーピッ、ピーピッ‥‥。
 *beep* *beep*
 //壁に埋め込まれているコンソールパネルが鳴り出した。硬い電子音が、あたりの空気をピリピリと振動させる。
-The console panel built into the wall started to squeal. A stringent electronic sound permeated the atmosphere.
+The console panel built into the wall started to squeal. A  stringent electronic sound permeated the atmosphere.
 //［コウジ］：な、なんだ‥‥？
 [Kouji]: W-What's...?
 //［ファル］：ブリッジからだわ、解析が終わったのかしら？
@@ -291,9 +291,9 @@ The console panel built into the wall started to squeal. A stringent electronic 
 //［コウジ］：（ブリッジ‥‥？　解析‥‥‥？？）
 [Kouji]: (Bridge...? Analysis...??)
 //ファルは手慣れたように、近くのコンパネを指で叩いている。
-Far knocked on the console panel as though she'd done so a thousand times.
+Far knocked on the console panel as though she'd done so a  thousand times.
 //しばらくすると、眼鏡を掛けた綺麗な女性が、モニターに映し出された。
-After some time, a pretty girl wearing glasses appeared on the screen.
+After some time, a pretty girl wearing glasses appeared on  the screen.
 //［女の声］：プロフェッサ、デコード情報の解析、終了しました。
 [Woman's voice]: Professor, the data decoding has been completed.
 //［ファル］：わかったわ‥‥トレイシー、ありがとう。
@@ -309,7 +309,7 @@ After some time, a pretty girl wearing glasses appeared on the screen.
 //［女の声］：恐らく、彼をまだ捜しているのだと思います。
 [Woman's voice]: She may still be looking for him.
 //［ファル］：フフ、早く教えてあげてね。我、救出に成功せり、ってね。
-[Far]: *chuckle* Please inform her soon. Tell her that the rescue was a success.
+[Far]: *chuckle* Please inform her soon. Tell her that the  rescue was a success.
 //［コウジ］：（ブリッジって‥‥艦船じゃあるまいし、いったいどういうことだ‥‥？）
 [Kouji]: (A bridge? So are we on board a warship? What's the meaning of this?)
 //［コウジ］：（それに、プロフェッサと呼ばれていたけど‥‥‥。）
@@ -380,7 +380,7 @@ You could say that was all that I knew.
 //改めて部屋を見回してみる。意外に綺麗に片づいた部屋だった。
 I looked around the room one more time. It was unexpectedly clean.
 //右側には、ついたてのようなモノが置いてある。しかし、誰かと相部屋、という訳でもなさそうだ。
-On my right, there was something resembling a partitioning screen, yet it didn't seem like I was sharing the room with someone else.
+On my right, there was something resembling a partitioning  screen, yet it didn't seem like I was sharing the room with someone else.
 //左側に視線を移すと、何かの端末のような機械が目に入ってきた。しかしディスプレイ上には、何も表示されていない。
 On my left, there was a device resembling a computer terminal, yet nothing was displayed on it.
 //質素、という言葉が相応しい部屋だった‥‥。
@@ -398,7 +398,7 @@ Let's try to open the door.
 //確認するのは、決して無為ではないように思えた。
 Sitting by idly won't ever bring us answers.
 //あの、ファルという女性が、私をどのように扱うかによって、私の、ここでの立場が見えてくるような気がする。
-I had some concerns about how that woman, Far, would treat me.
+I had some concerns about how that woman, Far, would treat  me.
 //そう考えると、私はドアのスイッチを押そうとした。その時‥‥‥‥。
 With that thought, I tried to push the switch. Right then...
 //ウィーン‥‥‥‥。
@@ -578,7 +578,7 @@ In gravity-less outer space, such a threat feels undefeatable, but it's probably
 //［トレイシー］：通信機能が、磁気嵐の間だけ使用不能になりますけど、安全に影響はありません。大丈夫です。
 [Tracy]: The communications can't be used during a magnetic storm, but there's no threat to our safety. We'll be fine.
 //私が不安そうに言ったせいなのだろう、トレイシーは私に微笑みかけると、大丈夫の部分を強調して言った。
-I felt uncertain when she said that, but when Tracy smiled at me, it really felt like it'd be fine.
+I felt uncertain when she said that, but when Tracy smiled  at me, it really felt like it'd be fine.
 //［トレイシー］：では、これで‥‥。
 [Tracy]: Then, here...
 //［コウジ］：磁気嵐、か‥‥‥‥。
@@ -692,7 +692,7 @@ Let's go straight down the passage.
 //この先に何があるのか‥‥期待と不安を抱きながら、私は黙々と通路を進んでいった。
 Was there really something there...with unease and anticipation, I quietly walked down the passage.
 //低い重厚な音が、静かに鳴り響いている。ここは、確かエンジンルームに近い場所だ。
-A low, heavy sound rang out. I was definitely close to the engine room.
+A low, heavy sound rang out. I was definitely close to the  engine room.
 //その時‥‥‥‥。
 Right then...
 //ウィーン‥‥‥‥。
@@ -764,7 +764,7 @@ When did "just a while ago" even refer to, anyway...?
 //そう、私は確かトレイシーという女性と話をした‥‥その前は‥‥。
 Right, I was just talking to that Tracy woman...before that...
 //その前は、エンジン部で、ファルから自分の名前を聞いた‥‥。
-Before that, in the engine room, I learned Far's name from her...
+Before that, in the engine room, I learned Far's name from  her...
 //じゃあ、その前は‥‥‥‥？
 What about before that?
 //どうも、記憶がはっきりとしなかった。

@@ -143,7 +143,7 @@ There weren't a lot of people in this clinical center to begin with. If I consid
 //［宏治］：（夢の風景みたいだな‥‥。）
 [Kouji]: (This atmosphere feels like a dream...)
 //いや、これは現実だ‥‥現に、今こうして誰にも会わなかったじゃないか‥‥。
-No, this is reality...In the here and now, I've met nobody here...
+No, this is reality...In the here and now, I've met nobody  here...
 //そうだ、これが現実にあり得るのかという疑問は、現実からの逃避に過ぎない‥‥そう考えた時点で、この現状を否定している。
 That's right, to the question of whether this is reality or not, I can't run away from reality... That thought alone dispelled the current confusion.
 //僕はそう考えると、誰もいない廊下を歩きだした。
@@ -191,9 +191,9 @@ xenon_20
 //［宏治］：（な、なんだ‥‥。）
 [Kouji]: (What...)
 //それが自室から聞こえてくる電話の音だと、僕はなかなか気付かなかった。
-I didn't realize that the phone ringing was coming from my place.
+I didn't realize that the phone ringing was coming from my  place.
 //電話の音だと認識してから、さらに数秒ほど、僕は思考は止まっていた。
-I recognized the sound of the phone, but for a few seconds after that, I stopped thinking.
+I recognized the sound of the phone, but for a few seconds  after that, I stopped thinking.
 //［宏治］：（電話‥‥いったい、誰から‥‥？）
 [Kouji]: (A phone...who on earth could it be...?)
 //そう考えると同時に、僕は部屋の中へと入っていた。
@@ -201,7 +201,7 @@ As I thought that, I entered my place.
 //電話に出れば、他の人間の存在を感じられる‥‥その思いは、意外に弱くなかったようだった。
 If I were to answer the phone, I'd feel the presence of another person...that feeling was hard to shake.
 //部屋には誰もいなかった‥‥僕は電話のところへまっすぐ進むと、一呼吸おいてから、受話器を耳にあてた。
-There was no one else in the room...I quickly advanced to the phone, took a breath, and picked up the receiver.
+There was no one else in the room...  I quickly advanced to the phone, took a breath, and picked up the receiver.
 //いや、このまま部屋に入ってみよう。
 No, let's just enter the room now.
 //誰かが居たらいたで、訪問の理由を聞けばいいのだし、居なければいないで、僕は自室で寝るだけだ。
@@ -217,7 +217,7 @@ With that in mind, I grabbed the doorknob and pulled it towards me.
 //今度、潤滑油でも買ってこないと‥‥そんなつまらないことを考えながら、僕は部屋へ入っていった‥‥。
 I need to buy some lubricant...as I thought of that trivial matter, I entered the room...
 //部屋には誰もいないようだ‥‥電気は、単に僕の消し忘れだったのだろう。
-There seemed to be no one in the room...I'd probably just forgotten to turn out the lights.
+There seemed to be no one in the room...  I'd probably just forgotten to turn out the lights.
 //やけに静かだ‥‥気味が悪いくらいに‥‥。
 It was really quiet...that creeped me out...
 //ふと前を見ると、戸棚の上にテレビがデンとのっかっている。
@@ -233,13 +233,13 @@ Moreover, this television is the kind that needs the remote control to operate i
 //僕は手を首の後ろで組むと、ベッドへ仰向けに横たわった。柔らかくて、居心地が悪くない。
 I folded my hands behind my head and lay down on my bed. It was soft and comfortable.
 //［宏治］：（このまま眠ってしまおうかな‥‥そうさ、眠って楽しい夢でもみて‥‥‥‥‥‥。）
-[Kouji]: (Should I just go to bed like this?...maybe I'll have some pleasant dreams....)
+[Kouji]: (Should I just go to bed like this?...  maybe I'll have some pleasant dreams....)
 //［宏治］：‥‥！？
 [Kouji]: ...?!
 //［宏治］：で、電話だ‥‥こんな夜に、いったい誰が‥‥。
 [Kouji]: The telephone...who on earth could be calling on a night like this....
 //静寂を打ち破るように、無機質な電話の音が部屋中に響きわたる。僕は心臓の動悸が速くなっていくのを感じていた‥‥。
-Breaking the silence, the inorganic ringing echoed through the room. I felt my heart beat quicker....
+Breaking the silence, the inorganic ringing echoed through  the room. I felt my heart beat quicker....
 //プルルルル‥‥‥‥プルルルル‥‥‥‥。
 *ring ring ring*...*ring ring ring*...
 //［宏治］：や、やっぱり出るのが普通だよな‥‥。
@@ -255,7 +255,7 @@ I heard a strange noise along with Megumi's voice. What could be going on?
 //もっとも意外な相手に、やや安堵もする。不安が取り除かれた僕の声は、少し高揚していたかも知れない。
 I was relieved to hear such an unexpected voice on the other end. As my uneasiness was abated, I may have sounded a bit uplifted.
 //［宏治］：雑音が多いけど、どこにいるんだい。
-[Kouji]: I hear a lot of noise on the other end. Where are you?
+[Kouji]: I hear a lot of noise on the other end. Where are  you?
 //［恵］：この医療センターの中よ‥‥。
 [Megumi]: I'm in the middle of the clinical center...
 //［宏治］：なんだ、それだったらここに‥‥。
@@ -323,7 +323,7 @@ But I couldn't hear Megumi's voice anymore. Only the inorganic dial tone droned 
 //［宏治］：（そういえば、あの妙な雑音‥‥‥‥。）
 [Kouji]: (Come to think of it, that weird noise...)
 //［宏治］：（恐らく恵がいた場所で聞こえる音なんだ‥‥そうに違いない。）
-[Kouji]: (It probably came from where Megumi was...no, it definitely did.)
+[Kouji]: (It probably came from where Megumi was...  no, it definitely did.)
 //［宏治］：（そうだ‥‥確か、聞き覚えがある‥‥聞き覚えがあるぞ。）
 [Kouji]: (Right...it feels quite familiar...quite familiar.) 
 //［宏治］：（あれは確か‥‥‥‥‥‥。）
@@ -337,7 +337,7 @@ But I couldn't hear Megumi's voice anymore. Only the inorganic dial tone droned 
 //ロビーにあった扇風機の音に違いない。
 The lobby's electric fan.
 //僕はそう考えると同時に、走り出していた。ロビーには恵がいるに違いない‥‥？
-With that in mind, I set out. Megumi was definitely in the lobby, right...?
+With that in mind, I set out. Megumi was definitely in the  lobby, right...?
 //コンピュータ・ルームの空調機の音だ。
 The computer room's AC unit.
 //［宏治］：（そうだ、確か沙夜香さんと一緒に行ったときも‥‥。）
@@ -353,7 +353,7 @@ As I confirmed it, I headed to the computer room...
 //屋上の風の音かもしれない‥‥。
 The wind on the rooftop....
 //そうだ、確か屋上にはあのレトロな赤電話もあったし‥‥。
-That's right, it was definitely by the rooftop's retro red telephone...
+That's right, it was definitely by the rooftop's retro red  telephone...
 //僕はそう考えると同時に、走り出していた。屋上には恵がいるんだ‥‥。
 As I considered that, I walked outside. Megumi should be on the rooftop....
 //意に反して、ロビーに人影は見えなかった‥‥恵どころか、ひと１人見つけることができない。
@@ -385,11 +385,11 @@ I had helped provide psychoanalytical data samples to the clinical center.
 //こんなご時世に、精神医学もイカの頭も無いと世間では批判されているようだけど‥‥‥‥。
 In times like these, it seems psychiatry is being judged by the world as having no real value, but...
 //世間でどう言われようと、僕にとっては単なる割の良いバイト、以上の意味は無かった。
-Whatever the general consensus is, it has no bearing on me beyond a cushy part-time gig.
+Whatever the general consensus is, it has no bearing on me  beyond a cushy part-time gig.
 //週に２回ほど、コンピュータを利用した精神分析と、カウンセリングを受けるというノルマを、約３か月間続ける‥‥。
 Over roughly three months, twice a week, I'm being psychoanalyzed using a computer, and receiving the allotted counseling...
 //これだけで決して少なくない額のお金を、僕は手に入れることができるはずだった‥‥。
-I can do just that and receive a decent chunk of change in return...
+I can do just that and receive a decent chunk of change in  return...
 //恵の父親が、この医療センターの出資者ということで、そのコネを最大限に利用させてもらったという訳だ。
 Megumi's father is a sponsor of this clinical center, so I'm also squeezing my connection to him for all it's worth.
 //だけど‥‥‥‥。
@@ -473,9 +473,9 @@ saya06
 //［宏治］：さ、沙夜香さん‥‥こんなところで、なにやってんの？
 [Kouji]: Sa-Sayaka-san...What are you doing here?
 //沙夜香はこぶしで腰をトントンと叩きながら、比較的太い眉の間に１本のシワを刻んでいた。
-Sayaka was rubbing her waist lightly with a closed hand, a wrinkle etched between her two thick eyebrows.
+Sayaka was rubbing her waist lightly with a closed hand, a  wrinkle etched between her two thick eyebrows.
 //僕の視線に気付いたのか、スカートの丈を少しだけ下げると、
-As she noticed my line of sight, she slightly smoothed out her skirt and said,
+As she noticed my line of sight, she slightly smoothed out  her skirt and said,
 //［沙夜香］：なにやってんのじゃないわよ。もう、腰が‥‥あタタ。
 [Sayaka]: I wasn't doing anything. Ugh, my waist...ow.
 //［宏治］：なにやってんのじゃないわよじゃないよ、沙夜香さん。
@@ -491,9 +491,9 @@ saya06b
 //saya06bm
 saya06bm
 //ペロっと舌を出すと、沙夜香はイタズラを見つかった子供のような表情をしてみせた。
-As she stuck her tongue out at me, Sayaka-san's expression was like a child who'd played some prank on me.
+As she stuck her tongue out at me, Sayaka-san's expression  was like a child who'd played some prank on me.
 //［沙夜香］：宏治クンこそ、こんなところで何をしてるのよ。
-[Sayaka]: The same to you, Kouji-kun, what are *you* doing here?
+[Sayaka]: The same to you, Kouji-kun, what are *you* doing  here?
 //［宏治］：ぼ、僕？
 [Kouji]: M-me?
 //［沙夜香］：そう、ボク。
@@ -505,7 +505,7 @@ As she stuck her tongue out at me, Sayaka-san's expression was like a child who'
 //［宏治］：あのね‥‥。
 [Kouji]: Hey, now....
 //少しだけ、気分が緩和された。この女性は、いつも人を小馬鹿にするような言動をするけど、今回だけは渡りに船だ。
-I slightly warmed up to her. This woman was always fooling around with people, but this time I had a serious objective.
+I slightly warmed up to her. This woman was always fooling  around with people, but this time I had a serious objective.
 //［沙夜香］：どうしたのよ、ニコニコしちゃって。
 [Sayaka]: What's that mischievous smile for?
 //［宏治］：別に。じゃあ沙夜香さん、ここで何をしていたか、言って下さいよ。
@@ -555,7 +555,7 @@ Sayaka's eyes glowed as they caught me. Does she know something about what happe
 //［沙夜香］：恵さん、他に何か言っていなかったの？
 [Sayaka]: Did Megumi-san say anything else?
 //［宏治］：あ、あぁ‥‥そういえば、マインド何とかって‥‥。
-[Kouji]: Ah, ahh...that's right, she said something about "mind"....
+[Kouji]: Ah, ahh...  that's right, she said something about "mind"....
 //［沙夜香］：なんですって？
 [Sayaka]: What was it?
 //［宏治］：そう、確か‥‥マインド‥‥マインドコントロール‥‥そうだ、マインドコントロール・マシンとか、言っていた。
@@ -589,9 +589,9 @@ Sayaka's eyes glowed as they caught me. Does she know something about what happe
 //沙夜香は腰をさすりながら、あたりに散らばった書類やらノート類をかき集めている。
 Sayaka rubbed her waist as she gathered the scattered books and notes.
 //［沙夜香］：ほら、ちょっとぉ、見てないで手伝ったら？
-[Sayaka]: Come on, don't just stand there looking. Can you help me?
+[Sayaka]: Come on, don't just stand there looking. Can you  help me?
 //僕は沙夜香の傍らにひざまずいて、ノートや書類を一緒に拾い集めた。甘い香りがしてくる‥‥香水の匂いだろうか。
-I knelt down next to Sayaka, gathering the notes and books together. A sweet fragrance wafted towards me...must be her perfume.
+I knelt down next to Sayaka, gathering the notes and books  together. A sweet fragrance wafted towards me...must be her perfume.
 //僕がしばらく手を止めていると、
 I stopped moving my hands for a bit, asking,
 //［沙夜香］：どうしたのよ‥‥あっ、エッチなこと考えてるでしょ。
@@ -627,7 +627,7 @@ As she winked at me, Sayaka straightened up. Then, she picked up a memo pad and 
 //［宏治］：だ、ダメですよ、こ、こんな‥‥。
 [Kouji]: This is wrong, I-I can't accept this...
 //［沙夜香］：馬鹿ね、なに焦っているのよ。何かあったら、ここへ電話しなさい。
-[Sayaka]: Dummy, what are you getting so anxious about? If something happens, please call this number.
+[Sayaka]: Dummy, what are you getting so anxious about? If  something happens, please call this number.
 //［宏治］：な、何かって、何です？
 [Kouji]: Wh-what do you mean by "something"?
 //［沙夜香］：さぁ、性の悩みでもいいわよ。
@@ -641,7 +641,7 @@ Sayaka-san, what on earth are you doing......
 //再び、あたりは静寂に包まれ始めた‥‥。
 Once more, silence blanketed my surroundings...
 //人の息づかいは皆無となり、無機質なコンピュータの稼働音だけが響きわたっていた‥‥。
-The sound of human breathing disappeared, replaced by only the inorganic whirring and buzzing of computer operation....
+The sound of human breathing disappeared, replaced by only  the inorganic whirring and buzzing of computer operation....
 //［宏治］：（もう、誰もいないな‥‥‥‥。）
 [Kouji]: (There's no one here anymore...)
 //［宏治］：（恵‥‥‥‥。）
@@ -657,7 +657,7 @@ I turned back from the computer room.......
 //［宏治］：え？　こんな夜にですか？
 [Kouji]: Huh? In the middle of night?
 //［涼子］：フフ、何を言っているの？　まだ真っ昼間じゃない。
-[Ryouko]: *chuckle* What are you talking about? It's still the middle of the day.
+[Ryouko]: *chuckle* What are you talking about? It's still  the middle of the day.
 //あたりを見回してみる。いつの間にか廊下には、少ないながらも人が点在していた。
 I looked around me. At some point, a few people had scattered about the corridor.
 //ここの職員とおぼしい人たちが何人か、傍らを通り過ぎていく。
@@ -709,11 +709,11 @@ Ryouko looked at me with a far-reaching gaze. No, not at me, but at something be
 //［涼子］：ええ‥‥言ったけど、それが？
 [Ryouko]: Yes...I did say that, but what about it?
 //［宏治］：僕、考えたんですけど、既視感覚と思わせることはできないだろうかって‥‥。
-[Kouji]: I've been thinking, but you can't remind me about deja vu, right...?
+[Kouji]: I've been thinking, but you can't remind me about  deja vu, right...?
 //［涼子］：既視感覚と、思わせる？
 [Ryouko]: Remind you about deja vu?
 //［宏治］：ありもしない事を、さもあったかのように思わせる‥‥だけど本人は記憶違いと思ってしまう所に、混乱が生まれる。
-[Kouji]: You can't remind someone of something that hasn't happened...but if that person's memory has gaps, that could cause confusion.
+[Kouji]: You can't remind someone of something that hasn't  happened...but if that person's memory has gaps, that could cause confusion.
 //［涼子］：何のことを言っているの‥‥？
 [Ryouko]: What are you talking about...?
 //［宏治］：人間の意識というのは、いったい何なんでしょうね‥‥実体が無いから、あるいは全くの虚無なのかも。
@@ -759,7 +759,7 @@ Ryouko looked at me with a far-reaching gaze. No, not at me, but at something be
 //［涼子］：これからゆっくりと、３つ数えるわ。そのとき宏治クンは‥‥。
 [Ryouko]: Now, I will slowly count to 3. At that time, Kouji-kun, you will...
 //だんだん、涼子の声が遠くなっていった。僕は消えゆく意識の中で、これからみる夢に思いを馳せていた‥‥‥‥。
-Gradually, Ryouko's voice got farther and farther away. As my consciousness faded, my thoughts were whisked away into a dream...
+Gradually, Ryouko's voice got farther and farther away. As  my consciousness faded, my thoughts were whisked away into a dream...
 //では、ひとつ‥‥‥
 Then, one......
 //ふたつ‥‥‥‥

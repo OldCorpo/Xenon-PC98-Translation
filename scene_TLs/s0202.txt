@@ -7,7 +7,7 @@ s0202
 //［涼子］：まだ、少し混乱しているようね。でも、脳のシナプスは焼き切れていないようだから、安心して。
 [Ryouko]: You still seem a little confused. But rest assured, your brain synapses don't seem burned out.
 //［涼子］：あっ、まだしゃべらないでいいわ。私の言うことが理解できる？　できるなら一回だけ、うなずいて。
-[Ryouko]: Ah-please don't talk just yet. Do you understand what I'm saying? If you do, nod once.
+[Ryouko]: Ah-please don't talk just yet. Do you understand  what I'm saying? If you do, nod once.
 //コクン。
 *nod*
 //［涼子］：いいわ、じゃあ、私のことは見えているわね？
@@ -23,7 +23,7 @@ s0202
 //［涼子］：でも言うでしょ？　失敗は成功の元って。これに懲りずに、また協力して頂戴。
 [Ryouko]: But as they say, failure is the root of success. If I don't learn from this experience, please help me once more.
 //［涼子］：だーいじょうぶよ、そんな顔をしなくても。今度こそ、成功してみせるわっ。
-[Ryouko]: Don't make that face, it's OK. This time will be successful.
+[Ryouko]: Don't make that face, it's OK. This time will be  successful.
 //［涼子］：でも、舞の取り乱しようといったら、なかったわ‥‥あの子ね、あれでもあなたの事が好きなのよ。
 [Ryouko]: But with Mai's distraught state, it might not be...Despite that, that girl likes you.
 //［涼子］：姉の私から言うのも何だけど、あの子の気持ち、無にしないで欲しいわ。
@@ -35,7 +35,7 @@ Thump.
 //［涼子］：ちょっと、宏治クン、ねぇ、大丈夫？　宏治クン！？
 [Ryouko]: Hold it, Kouji-kun, are you OK? Kouji-kun?!
 //［涼子］：大変だわ、顔が真っ青‥‥宏治クン、ねぇ、宏治クン‥‥‥‥。
-[Ryouko]: This is bad, your face is blue...Kouji-kun, hey, Kouji-kun....
+[Ryouko]: This is bad, your face is blue...Kouji-kun, hey,  Kouji-kun....
 //そうか‥‥私は、ジェネレータを利用して‥‥。
 That's right...I used the generator....
 //だが、この脆弱な肉体は、いったいどうしたことだ。これが、私の身体なのか‥‥？
@@ -93,7 +93,7 @@ At least that voice was mine. But, it wasn't *me*...
 //［男］：そう。
 [Man]: Yes.
 //［トレイシー］：混乱をされているコウジ様に、状況の説明をして差し上げています。
-[Tracy]: Since you seem confused, Kouji-sama, I'll explain the situation to you.
+[Tracy]: Since you seem confused, Kouji-sama, I'll explain  the situation to you.
 //むぅ‥‥自由に声が出せぬ‥‥。トレイシー、私に気付け‥‥くそ、どうしたことだ。
 Hmmm...I can't freely speak...Tracy, please notice me...shit, what's going on?
 //目の前にいて、話も聞こえ、それを理解し認識しているのに、なぜ自発的に行動ができないのか‥‥。
@@ -101,7 +101,7 @@ In front of me, I can hear their speech, and I can understand and recognize them
 //ひょっとすると、これは夢というものか‥‥。
 It's possible this is a dream...
 //いや、夢を見ているという夢なのかもしれない。マイナスのマイナスは、プラスという訳だ。つまり、現実‥‥？
-No, it might be a dream I see while dreaming. The negative of a negative is a positive. So, is this reality...?
+No, it might be a dream I see while dreaming. The negative  of a negative is a positive. So, is this reality...?
 //私は、消えゆく意識の中で、さらにその夢の可能性も考えていた‥‥。
 In my faded consciousness, I pondered that possibility of a dream even further...
 //‥‥‥‥いったいあれは‥‥‥‥。
@@ -123,7 +123,7 @@ This isn't the "Quadra", but...
 //　◆ 室内フォンを利用して、誰かを呼び出せないだろうか‥‥
 ◆ I should use the landline and call someone...
 //とりあえず、この狭苦しい病室を出るとしよう。
-In any case, I should get out of this tiny, miserable sick ward.
+In any case, I should get out of this tiny, miserable sick  ward.
 //狭苦しい部屋、か‥‥。
 Tiny, miserable room...
 //室内フォンを利用して、誰かを呼び出せないだろうか‥‥。
@@ -147,7 +147,7 @@ The dial tone sounded several times, then the receiver on the other end was seem
 //［コウジ］：いや、患者ではない。コウジだ。
 [Kouji]: No, I'm not a patient. I'm Kouji.
 //［女の声］：はいはい、しょうがないわね、涼子先生に言っておかなくちゃ‥‥ブツブツ。
-[Woman's voice]: Right, right, well, it can't be helped. I have to tell Ryouko-sensei...Hehe.
+[Woman's voice]: Right, right, well, it can't be helped. I  have to tell Ryouko-sensei...Hehe.
 //ブチッ。
 *clunk*
 //［コウジ］：フン、まぁいい。さてと‥‥。
@@ -183,7 +183,7 @@ I analyzed the situation correctly. Somehow, this place felt rather like one fro
 //私は赤くなった額をさすりながら、部屋を後にした‥‥。
 Rubbing my reddened forehead, I left from the room...
 //室内は冷房を入れていたか、あるいは廊下に暖房をきかせているのか‥‥非常に不快だった。
-Either the room I came from was kept cold, or the corridor was kept hot...I was quite uncomfortable.
+Either the room I came from was kept cold, or the corridor  was kept hot...I was quite uncomfortable.
 //［コウジ］：ゴミゴミしていて、不衛生な場所だ。
 [Kouji]: This place feels so messy and unsanitary.
 //あちこちに、良く見ると、何かのアルミ缶やパックが無造作に置いてあったりする。不衛生でかつ管理もずさんだ。
@@ -279,7 +279,7 @@ What a rude woman, suddenly killing people like that.
 //［コウジ］：誰だ、貴様は？
 [Kouji]: Who the hell are you?
 //［女の子］：舞です‥‥宏治サン。どうしたんですか？　私、屋上が好きだから、よく来てるんです。
-[Girl]: I'm Mai...Kouji-san. What happened to you? I like the rooftop, so I come here often.
+[Girl]: I'm Mai...  Kouji-san. What happened to you? I like the rooftop, so I come here often.
 //［コウジ］：私の知り合いに舞という女はいない。誰かと間違えているのではないか？
 [Kouji]: I don't know any woman named Mai. Are you sure you're not mistaking me for someone else?
 //［舞］：そ、そんな‥‥宏治サン。
@@ -369,7 +369,7 @@ As I descend, I should observe a few things.
 //まずは階下に降り、現状の観察および分析を行う。しかるのち、何らかの行動を起こすのが合理的だろう。
 First, as I head downstairs, I'll analyze and observe my current situation. After that, it would be rational to carry out some plan.
 //大宇宙海賊は、効率を優先する。無駄なことは一切省くポリシーを私は持っている。
-A galactic pirate prioritizes efficacy first. My policy is that useless matters should be cut out entirely.
+A galactic pirate prioritizes efficacy first. My policy is  that useless matters should be cut out entirely.
 //［コウジ］：うむ、我ながら、効率的だ‥‥。
 [Kouji]: Hm, I am efficient...
 //別にロビーに置いてあるであろう新聞の類を、読みにいく訳ではない。大宇宙海賊は、そんなオヤジ臭いことはしないのだ。
@@ -383,7 +383,7 @@ The newspaper itself told about the area's culture and civilization, and therefo
 //［女］：宏治！
 [Woman]: Kouji!
 //［女］：何だ、ちゃんと生きてるじゃない。立って新聞なんて広げて、オジン臭いことしないでよ。
-[Woman]: Well, aren't you lively. Standing there spreading out the newspaper, isn't that what old geezers do?
+[Woman]: Well, aren't you lively. Standing there spreading  out the newspaper, isn't that what old geezers do?
 //［女］：舞さんから連絡があったときは、心臓が停止するかと思ったわ。
 [Woman]: When I heard from Mai-san, my heart nearly stopped.
 //［コウジ］：舞？
@@ -395,7 +395,7 @@ The newspaper itself told about the area's culture and civilization, and therefo
 //恵と名乗る女は、私の両肩に手をかけて、ガクガクと前後ゆさぶった。少しめまいがしてくる。
 The woman named Megumi placed her hands on my shoulders and shook me back and forth roughly. It made me slightly dizzy.
 //［恵］：あの先生には気をつけなさいって、いつも言っていたのに‥‥。
-[Megumi]: I keep telling you, please be careful about that doctor...
+[Megumi]: I keep telling you, please be careful about that  doctor...
 //［コウジ］：あの先生とは、涼子のことか？
 [Kouji]: By "that doctor", do you mean Ryouko?
 //［恵］：当たり前でしょ。
@@ -437,11 +437,11 @@ Even when she's the one who brought it up, she's still the one who got embarrass
 //［コウジ］：ほぅ、次々と。
 [Kouji]: Ho~, repeatedly?
 //［恵］：もう、パパに言って、厳重に抗議してもらおうかしら。
-[Megumi]: When I told papa about it, he adamantly defended her.
+[Megumi]: When I told papa about it, he adamantly defended  her.
 //［コウジ］：パパ？　パパというとパトロンのことか？
 [Kouji]: Papa? Does "Papa" mean your patron?
 //［恵］：ば、バカ言わないでよ！　私のパパよ、この医療センターのスポンサーだって、あなた知ってるでしょ？
-[Megumi]: D-don't be ridiculous! My papa is the sponsor of this clinical center. You know that, right?
+[Megumi]: D-don't be ridiculous! My papa is the sponsor of  this clinical center. You know that, right?
 //［恵］：とにかく今から涼子先生のところへ行くわ。後で貴方の部屋にも行くから、待っていて頂戴。
 [Megumi]: Anyway, from now on, you'll be going to see Ryouko-sensei. Afterwards, I'll be going to your room, so please wait for me.
 //［コウジ］：待て、恵とやら。
@@ -473,7 +473,7 @@ The woman in front of me waved her pointer finger in circles around my forehead.
 //［コウジ］：まぁいい、部屋へ戻って、少し休みたい気分だ。
 [Kouji]: It's fine, I'll return to my room for a short rest.
 //最強の宇宙海賊とはいえ、疲労もすればトイレにもいく。しかもこの脆弱な身体は、どうも疲労度が激しい。
-Even the strongest galactic pirate has to go to the toilet to relieve fatigue. However, this body, weak as it is, *can* take quite the beating.
+Even the strongest galactic pirate has to go to the toilet  to relieve fatigue. However, this body, weak as it is, *can* take quite the beating.
 //少し、部屋で休み、しかるのちに行動を起こすことにしよう。
 I'll rest in my room for a while. After that, I'll start taking action.
 //［コウジ］：フン、合理的だ‥‥。まさに論理的で効率的だ。とにかく、夜まで‥‥。

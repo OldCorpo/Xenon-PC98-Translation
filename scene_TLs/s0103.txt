@@ -79,7 +79,7 @@ Luckily, the lift was on standby on the second floor. The door immediately opene
 //エレベータに人は乗って居なかった。ここでゴミゴミと満員のエレベータなどに乗ったら、卒倒してしまう。
 Nobody was riding the lift. If you were to ride this lift when it is overcrowded, you would surely faint from asphyxiation.
 //壁に寄り掛かる。背中にヒンヤリとした温度を感じた。
-I leaned against the wall and felt its chilling cold on my back.
+I leaned against the wall and felt its chilling cold on my  back.
 //どうやら不愉快な暖気は、廊下にのみ、充満していたようだった。
 It seemed that unpleasant heat was only present in the corridor.
 //［宏治］：（少しは、気分が楽になったかな‥‥‥‥。）
@@ -165,7 +165,7 @@ I kept silent, awaiting Mai’s next words.
 //少し突き放したような言い方になってしまった。よほど、自分自身にイライラしていたのかも知れない。
 My words came out with a slightly rebuking tone. Maybe I was on edge.
 //舞の様子をうかがってみる‥‥良かった、気分を害した様子はない。
-I glanced quickly at Mai's expression. Luckily, she didn't seem in a bad mood.
+I glanced quickly at Mai's expression. Luckily, she didn't  seem in a bad mood.
 //［舞］：今度‥‥。
 [Mai]: This time...
 //［宏治］：えっ？
@@ -187,7 +187,7 @@ I glanced quickly at Mai's expression. Luckily, she didn't seem in a bad mood.
 //［宏治］：（確か、涼子先生も、そんなことを言っていたな‥‥‥‥。）
 [Kouji]: (Yeah, Ryouko-sensei said the same...)
 //いつの間にか、廊下には僕らだけになっていた。
-Without me realizing it, we’d become the only ones left in the corridor.
+Without me realizing it, we’d become the only ones left in  the corridor.
 //あたりはシンと静まり返っていて、舞の息づかいさえも、僕の耳にとどいてきそうだった‥‥。
 The surroundings went dead quiet. Only Mai's breathing still lingered in my ears.
 //［舞］：‥‥‥‥‥‥。
@@ -203,7 +203,7 @@ The surroundings went dead quiet. Only Mai's breathing still lingered in my ears
 //舞はクスッと笑みをこぼすと、軽快な足取りで、僕の前から去っていった。
 Mai, letting slip out a smile, left with a light gait.
 //後には、僕が１人だけ、長い廊下にたたずんでいるだけだった‥‥。
-Afterwards, it was only me loitering in the long corridor, alone.
+Afterwards, it was only me loitering in the long corridor,  alone.
 //［宏治］：（部屋に、戻るかな‥‥。）
 [Kouji]: (I should go back to my room.)
 //頭も足も重かった。今は、ベッドの上に早く倒れ込みたいという欲求が、僕の身体を動かしている‥‥。
@@ -213,9 +213,9 @@ My legs were as sore as my head. Right now, I was moving my body just so I could
 //静かなロビーだった。空調設備としての、レトロな扇風機が天井で回っていた。
 The lobby was quiet. Instead of an air conditioner, an old-fashioned fan was whirling about on the ceiling.
 //人は少なく無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
-An inorganic place with few people. Amidst all this, Mai’s figure stood out like  a sole blooming flower.
+An inorganic place with few people. Amidst all this, Mai’s  figure stood out like  a sole blooming flower.
 //いつの間にか、ロビーには僕らだけになっていた。
-Without me realizing it, we’d become the only ones left in the lobby.
+Without me realizing it, we’d become the only ones left in  the lobby.
 //後には、僕が１人だけ、シンと静まったロビーにたたずんでいるだけだった‥‥。
 Afterwards, there was only me loitering in the silent lobby, alone.
 //［宏治］：（そういえば‥‥‥‥。）
@@ -303,7 +303,7 @@ I shrugged my shoulders and shook my head.
 //［宏治］：仕事はいつも、疲れるもんだよ。
 [Kouji]: Work is always tiring.
 //［恵］：ちゃんとやってくれないと、私がパパにあわせる顔がないんだからねっ。
-[Megumi]: If you don't work diligently, I won't be able to show my face to Papa, you know.
+[Megumi]: If you don't work diligently, I won't be able to  show my face to Papa, you know.
 //［宏治］：血の繋がってないパパに？
 [Kouji]: You mean the Papa you're not blood-related to?
 //［恵］：ぶつわよ、もぉ。
@@ -375,7 +375,7 @@ Even in such a situation, my firm male response both stunned and impressed me.
 //［宏治］：（人類が死に絶えない訳だよ‥‥。）
 [Kouji]: (Mankind won't die out so easily.)
 //僕がそっと目をあけると、目の前には、目をつぶった恵が迫ってきていた。
-Opening my eyes, I saw Megumi's face, eyes closed, drawing near mine.
+Opening my eyes, I saw Megumi's face, eyes closed, drawing  near mine.
 //［恵］：宏治‥‥‥‥。
 [Megumi]: Kouji...
 //しょうがないな、そんな風に思ったとき‥‥‥‥。
@@ -433,19 +433,19 @@ I may have over-thought it, but I felt she was rubbing salt in the wound with th
 //［沙夜香］：規則ですからね、しょうがないわよ。
 [Sayaka]: I can't help it, these are the rules.
 //［宏治］：規則規則って、いつも規則を破ってるくせに‥‥。
-[Kouji]: You're one to talk, you always break them as soon as you can.
+[Kouji]: You're one to talk, you always break them as soon  as you can.
 //［沙夜香］：あら、たまに宏治クンと、夜更かししたりする程度じゃない。
 [Sayaka]: Well, only enough to spend the night with Kouji-kun once in a while...
 //［宏治］：ちょっ‥‥冗談でも、そんなこと恵には言わないで下さいよ。
-[Kouji]: Hey-Even if it's a joke, please don't say that to Megumi.
+[Kouji]: Hey-Even if it's a joke, please don't say that to  Megumi.
 //［沙夜香］：残念ねぇ、２人でしっぽりと濡れたあの夜のことを‥‥。
 [Sayaka]: What a shame, don't you remember that wet and wild midnight tryst we had together?
 //［宏治］：ちょっとちょっと、単に夜遅くまで話していただけじゃないですか。
-[Kouji]: Hold your horses! Didn't we merely talk till late at night?
+[Kouji]: Hold your horses! Didn't we merely talk till late  at night?
 //［沙夜香］：そうだったっけ？
 [Sayaka]: Ah, did we now?
 //この、少々とぼけた女性は、沙夜香という。ここの医療センターで何故か、涼子先生の助手のようなことをしているらしい。
-This woman playing dumb was called Sayaka. She seems to be working in the medical center as Ryouko-sensei's assistant.
+This woman playing dumb was called Sayaka. She seems to be  working in the medical center as Ryouko-sensei's assistant.
 //相当の才媛のはずなのだが、生憎と雰囲気は、遊び人のお姉さまという感じだった。
 She must be a suitably talented woman, but she felt more like a playful older sister to me.
 //何故か、僕に絡んでくる‥‥迷惑という訳ではないが、その理由がわからない。
@@ -541,7 +541,7 @@ saya01_m
 //［沙夜香］：ちょっと、顔色、さっきより悪くなっているわ、どうしたのよ‥‥。
 [Sayaka]: Just a minute, your face went pale. What's wrong?
 //［宏治］：だ、だから、さっきから‥‥‥‥あれ？　沙夜香さん、どこに行ったの‥‥？
-[Kouji]: A-As I said, before... Huh? Sayaka-san, where are you?
+[Kouji]: A-As I said, before... Huh? Sayaka-san, where are  you?
 //［沙夜香］：宏治クン‥‥ちょっと、宏治クン‥‥‥‥‥‥。
 [Sayaka]: Kouji-kun! Hey! Kouji-kun‥‥‥‥‥‥
 //‥‥‥‥‥。

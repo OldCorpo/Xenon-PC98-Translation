@@ -27,9 +27,9 @@ s0302b
 //［宏治］：んと、じゃあね、ここで何をしているの？
 [Kouji]: Mm, so, ok then, what are you doing here?
 //［宏治］：あのね‥‥じゃあ別の聞き方だ。君の、ここでの役割はなに？
-[Kouji]: Umm...well, I'll ask it another way. What role do you play here?
+[Kouji]: Umm...well, I'll ask it another way. What role do  you play here?
 //［トレイシー］：それは‥‥混乱をされているコウジ様に、状況の説明をして差し上げることですわ。
-[Tracy]: Well...I'm here to explain the situation to you, since you're confused.
+[Tracy]: Well...  I'm here to explain the situation to you, since you're confused.
 //［宏治］：さっきと同じじゃないの。
 [Kouji]: Isn't that the same answer you just gave me?
 //［トレイシー］：でも、それが質問の回答として相応しいように思われますが‥‥？
@@ -59,7 +59,7 @@ s0302b
 //［トレイシー］：どういう女性と言われても‥‥。
 [Tracy]: How should I describe her...
 //［宏治］：トレイシーが感じる事で構わないよ。
-[Kouji]: I don't care about your personal feelings towards her.
+[Kouji]: I don't care about your personal feelings towards  her.
 //［トレイシー］：ちょっとコウジ様に優しくしてもらってるからって、やたらと鼻にかけてる子ですね。
 [Tracy]: She's the kind of girl who, when Kouji-sama is even a little nice towards her, really takes it to heart.
 //［トレイシー］：その他には？
@@ -177,7 +177,7 @@ s0302b
 //［トレイシー］：機能の概説を、お求めになられているのでしょうか？
 [Tracy]: Are you asking me to summarize its capabilities?
 //［宏治］：そ。そのジェネレータの機能の概説とやらを、教えてくれ。
-[Kouji]: Yes. Please give me a summary of that generator's capabilities.
+[Kouji]: Yes. Please give me a summary of that generator's  capabilities.
 //［トレイシー］：私も詳しくは知らないのですが、コウジ様がおっしゃるに、何でも大変なシロモノとか。
 [Tracy]: I don't know the specifics, but from Kouji-sama has said, it's a very important appliance.
 //［宏治］：た、大変なシロモノ‥‥それが機能の概説？
@@ -191,7 +191,7 @@ s0302b
 //［宏治］：んー、じゃあオレはそれを、どうやって使用していた？
 [Kouji]: Mmm, well, how did I use that?
 //［トレイシー］：ファルネリア様を触媒になさって、それを利用して霊子エナジーを解放するとか、おっしゃっていました。
-[Tracy]: You've stated that with Farnelia-sama acting as a medium, you used it to release your Reiko energy.
+[Tracy]: You've stated that with Farnelia-sama acting as a  medium, you used it to release your Reiko energy.
 //［宏治］：ファルネリア‥‥？
 [Kouji]: Farnelia...?
 //［トレイシー］：触媒の女性です。
@@ -205,7 +205,7 @@ s0302b
 //［トレイシー］：詳しくは存じません。
 [Tracy]: I don't know the details.
 //［宏治］：あっ、もしかして変なカプセルの中にいた、赤毛の女の子？
-[Kouji]: Ah-, could it be that she was the red-haired girl in the strange capsule?
+[Kouji]: Ah-, could it be that she was the red-haired girl  in the strange capsule?
 //［トレイシー］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
 [Tracy]: Yes, that was her. That capsule itself was part of the Galactic Pirate...
 //［宏治］：それはもういいよ。でも、その大宇宙海賊ってのは、いったい何のことさ。
@@ -227,7 +227,7 @@ s0302b
 //［トレイシー］：こ、コウジ様？
 [Tracy]: K-Kouji-sama?
 //［宏治］：涼子先生だな、その手は喰わないぜ。わははは。
-[Kouji]: Doctor Ryouko, is that you, please stop biting my hand, wahahaha.
+[Kouji]: Doctor Ryouko, is that you, please stop biting my  hand, wahahaha.
 //［トレイシー］：コウジ様、お気を確かに‥‥‥。
 [Tracy]: Kouji-sama, please stay calm...
 //［宏治］：おーい、涼子せんせー！　その辺に隠れてるんだろ！？
@@ -261,7 +261,7 @@ s0302b
 //［ランファ］：暴れ出しちゃって、手に負えなくなっちゃったの‥‥。
 [Lanhua]: She exploded in a rage, and she's become too much for me to handle...
 //［トレイシー］：何とかなさい。あなたの役目でしょう？
-[Tracy]: Please, manage her somehow. It's your duty, isn't it?
+[Tracy]: Please, manage her somehow. It's your duty, isn't  it?
 //［ランファ］：そんなぁ、看護はむしろトレイシーの役目じゃない。私はぜんぜんダメよぉ。
 [Lanhua]: Oh, come on, Tracy, your role isn't a nurse. I can't do it at all.
 //［トレイシー］：しょうがないわね、じゃあファルネリア様の部屋は？
@@ -287,7 +287,7 @@ The woman named Tracy disappeared, and the room was suddenly silent.
 //オレは手を頭の後ろにまわすと、ベッドの上に仰向けに倒れ込む。
 I wrapped my hands behind my head and fell back onto the bed.
 //静寂が耳に痛かった。だがそれ以上に頭も痛い。
-The silence hurt my ears, but any more noise would hurt my head, too.
+The silence hurt my ears, but any more noise would hurt my  head, too.
 //混乱していないと言えば嘘になる。むしろ、オレはさっきから混乱のしっぱなしだ。
 If I said I wasn't confused, I'd be lying. However, my confusion from earlier had dissipated.
 //ここが、大宇宙に浮かぶ宇宙船の中で、しかも何とか砲とかいう武器がついてる高機動シップだと？
@@ -331,9 +331,9 @@ I finished changing clothes and surveyed the room. There didn't seem to be any c
 //　◆ 状況がわかるまで、ここにいた方がいいだろう。
 ◆ Until I understand the situation, let's stay here.
 //ここでジッとしているより、部屋を出よう。まっ、散歩でもしてみるかな。
-Let's not stare here forever and leave the room. Or, well, at least try taking a stroll around here.
+Let's not stare here forever and leave the room. Or, well,  at least try taking a stroll around here.
 //そう考えると、さっそくオレはドアへと向かった。元来、ジッとしているのは性分じゃあない。
-With that thought, I turned towards the door at once. From the start, it wasn't in my nature to sit around.
+With that thought, I turned towards the door at once. From  the start, it wasn't in my nature to sit around.
 //オレは、さきほどのファルネリアという女性のことが、少しだけ気になっていた‥‥。
 I've gotten somewhat curious about that Farnelia woman from earlier...
 //状況がわかるまで、ここにいた方がいいだろう。
@@ -361,13 +361,13 @@ Farnelia?
 //というと、ジェネレータとやらの触媒とかいう女性か‥‥確か、赤毛の‥‥。
 In other words, the woman medium from the generator...indeed, that redhead...
 //考え出すと、急速に会いたくなってきた。会いたくなってくると、居ても立ってもいられなくなる。
-As I realized it, I suddenly felt the urge to meet her. As that urge grew stronger, I became unable to sit still.
+As I realized it, I suddenly felt the urge to meet her. As  that urge grew stronger, I became unable to sit still.
 //さっそくオレはドアへと向かった。元来、ジッとしているのは性分じゃあない。
 I quickly turned toward the door. From the start, it wasn't in my nature to sit around.
 //オレは、触媒という言葉が、少しだけ気になっていた‥‥。
 Something piqued my interest, from the word "medium"...
 //外に出た途端、少しムッとした暖気に襲われた。室内では、どうやら冷房が効いていたらしい。
-Just as I left the room, I was suddenly assaulted by light warm air. It seemed the air conditioning was working inside the room.
+Just as I left the room, I was suddenly assaulted by light  warm air. It seemed the air conditioning was working inside the room.
 //廊下はシンと静まり返っていた。道なりに進むと、左右に分岐しているようだ。
 The corridor was totally silent. As I followed the path, it forked left and right.
 //隣のドアから、やや異音が聞こえてくるようだが‥‥。
@@ -429,7 +429,7 @@ Once more, I definitely heard that strange sound from the nearby door...
 //　◆ 左へ曲がってみようか‥‥。
 ◆ Let's turn left....
 //　◆ 手前左の方から、異音が聞こえてくるようだが‥‥。
-◆ Let's turn to the left and listen closely at the strange sound...
+◆ Let's turn to the left and listen closely at the strange  sound...
 //　◆ ＶＩＰルームに行ってみよう。
 ◆ Let's go to the VIP room.
 //ＶＩＰルームとやらに、行ってみよう。

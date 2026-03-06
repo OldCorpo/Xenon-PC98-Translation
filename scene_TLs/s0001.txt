@@ -20,7 +20,7 @@ Everything you see or hear there is reality.
 　　　　　　　　It will be just as though...
 //　　　あなたの心を、忠実に反映する鏡として・・・・
 　　...you were looking at a mirror that reflects\n　　　　　　　　your heart faithfully.
-#Just like a mirror that reflects the truths hidden within your heart
+#Just like a mirror that reflects the truths hidden within  your heart
 //　　　　さぁ、これからあなたは現実にもどります。
 　　　　　You will now return to reality.
 //これから３つ数えると、あなたは目を覚まします。いいですね？
@@ -50,11 +50,11 @@ xenon_12
 //［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していまして‥‥。
 [Kouji]: Huh? Yeah. I just remembered the dream I had today...
 //［涼子］：夢？　ここのところ、毎日見るという、例の‥‥？
-[Ryouko]: A dream? You mean the one you've had every night lately?
+[Ryouko]: A dream? You mean the one you've had every night  lately?
 //［宏治］：そうなんですよ、うなされています。
 [Kouji]: Yeah, that same nightmare.
 //そうだった‥‥僕は、ここのところ毎日あの夢を見る‥‥あの言い様のない、緊張の不安をあおり立てる、恐い恐い夢だった。
-Yes...Lately, I'd been having the same dream every night. A nightmare that rouses in me a tense anxiety I couldn't put into words.
+Yes...Lately, I'd been having the same dream every night. A nightmare that rouses in me a tense anxiety I couldn't put  into words.
 //目の前の女性‥‥涼子は、短い髪を後ろにかき上げると、いくぶん厳しい顔を僕に向けた。
 The woman before me, Ryouko, brushed back her short hair and turned a somewhat stern gaze at me.
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
@@ -120,7 +120,7 @@ Maybe I'm here because I fell sick, or I got injured somehow.
 //あたりはシンと静まっている‥‥。
 It's dead silent here...
 //私の下で、ベッドが微かにきしむ音を伝えてくるだけだ‥‥。
-The only thing I can hear is the creaking of the bed under me.
+The only thing I can hear is the creaking of the bed under  me.
 //ベッドから身を起こそうとして、私は気が付いた。
 It was only when I tried to get up that I noticed.
 //何だ、これは‥‥。
@@ -128,7 +128,7 @@ What the...
 //私の身体のあちこちに、白く丸い吸盤のような物体が付着していた。額、胸、腹、脚と各部に数個ずつ。
 Round, white things resembling suckers covered my body. There were several on my limbs, forehead, chest, stomach and legs.
 //その白い吸盤のような物体からは、細い導線のようなものが伸びていて、ベッド傍らの不可解な箱へと繋がっていた。
-The thin wires connected to these white sucker-like things were in turn connected to a mysterious box at the bedside.
+The thin wires connected to these white sucker-like things  were in turn connected to a mysterious box at the bedside.
 //これではまるで、モルモットみたいじゃないか‥‥。
 Am I some kind of guinea pig...?
 //私は１つ１つ、丸い吸盤を身体から引き剥がしていった。白いノリのような跡は、手でこすって消す。
@@ -154,7 +154,7 @@ My feet touched the cool floor and I shivered slightly.
 //（服はどこだ‥‥？）
 (Where are my clothes?)
 //幸い、この部屋は個室のようだった。私はしばし、生まれたままの姿で、唖然と立ち尽くしていた。
-Fortunately, this seemed to be an individual room. I stood there in my birthday suit for a short while, dumbfounded.
+Fortunately, this seemed to be an individual room. I stood  there in my birthday suit for a short while, dumbfounded.
 //（たちの悪い冗談だな‥‥。）
 (Very, very funny...)
 //軽い笑みをもらすと、私は当面の問題を解決しにかかった。
@@ -182,7 +182,7 @@ While slowly walking towards the door, I could hear my footsteps resounding thro
 //（ずいぶんと分厚いドアだな‥‥‥‥。）
 (What a thick door...)
 //私は目の前にあるドアをしばし眺めていた。病院にしては、ややそぐわないドアだった。重く厚い。
-I gazed at the door in front of me for a short while. For a hospital, this kind of door was odd. It was both heavy and thick.
+I gazed at the door in front of me for a short while. For a hospital, this kind of door was odd. It was both heavy and  thick.
 //しかし、それは私が手を掛けると、横へとスライドしていった。
 But, as soon as I touched it, the door started to slide.
 //（自動ドア、か‥‥‥。）
@@ -222,7 +222,7 @@ Glancing all around the room, I suddenly wondered:
 //（ここは本当に病院なんだろうか‥‥。）
 (Is this place really a hospital?)
 //何故か私は、ここが病院か、あるいはどこかの医療センターであると信じて疑わなかった。
-Why had I taken for granted that this place was a hospital or some other kind of medical center?
+Why had I taken for granted that this place was a hospital  or some other kind of medical center?
 //それがどういった根拠をもとにしていたのか、自分でもわからない。
 I couldn't even guess on what basis I thought that.
 //（部屋の外へ出れば、何かわかるかもしれない‥‥。）
@@ -268,7 +268,7 @@ As I look further to the left, I saw a relatively small desk with a simple monit
 //（コンピュータ‥‥何かの端末だろうか？）
 (A computer... Is it some sort of terminal?)
 //ディスプレイ上には、何かの文字が表示されているようだった。
-Something was being displayed on the monitor, some sort of word...
+Something was being displayed on the monitor, some sort of  word...
 //ＤＲＥＡＭ‥‥‥‥。
 ＯＮＥＩＲＯＳ‥‥‥‥。
 //文字通り解釈すれば、“夢”ということか‥‥‥。
@@ -284,13 +284,13 @@ It seemed light sensors were built-in because it reacted when I stood in front o
 //アルファベットのようだが‥‥いや、違う。これは‥‥‥‥。
 (It looked like another tongue... No, this was...)
 //私がふと思い浮かんだ単語を認識しようとしたとき、ドアの外で何か物音がした。
-While trying to understand the meaning behind this word, a sort of sound came from beyond the door.
+While trying to understand the meaning behind this word, a  sort of sound came from beyond the door.
 //コトッ‥‥コトッ‥‥。
 *knock* *knock*
 //（何だ‥‥‥‥？）
 (What's that...?)
 //微かだが、音がしたようだ。いや、ドアの外ではない。ドアが音を立てたのだ。
-It was faint, but I heard it. It's not from the beyond the door; the door made the noise itself.
+It was faint, but I heard it. It's not from the beyond the  door; the door made the noise itself.
 //（誰か‥‥いるのか‥‥？）
 (Is someone... there?)
 //その想いは、私に期待と不安を抱かせた。誰かいるのか‥‥‥？
