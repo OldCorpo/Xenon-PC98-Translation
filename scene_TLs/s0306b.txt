@@ -105,13 +105,13 @@ bi02b
 //［ビアンカ］：何をゴチャゴチャ言ってるんだい、そらそら、どうした！
 [Bianca]: What the hell are you mumbling about, what's going on?!
 //［コウジ］：《少しは避ける努力をしろ。このままでは、いくら私の強靭な肉体とて‥‥。》
-[Kouji]: {Use a little more effort to dodge. My tough body should be able to take it...}
+[Kouji]: {Use a little more effort to dodge. My tough body  should be able to take it...}
 //［宏治］：《避けようとしてるぞ！　だが、上手く避けられないだけだ。》
 [Kouji]: {I AM dodging, though! But, not that well.}
 //［コウジ］：《やはり、宿る精神が脆弱なれば‥‥。》
 [Kouji]: {The spirit that dwells within really is weak...}
 //［宏治］：《そんな講釈はどうでもいい。さっさとシンクロをしろっての。》
-[Kouji]: {Babble however you please. Just synchronize with me.}
+[Kouji]: {Babble however you please. Just synchronize with  me.}
 //［コウジ］：《その前に、心を落ちつけてだな‥‥。》
 [Kouji]: {Before that, you need to calm down...}
 //［宏治］：《禅問答をやってるんじゃないんだ！　さっさとしろ。》
@@ -163,7 +163,7 @@ bi06
 //［コウジ］：《これが現実なのだ。現実から目を背けようとするな。》
 [Kouji]: {This is reality. Don't turn away from it.}
 //［宏治］：《説教たれてるんじゃねぇ！　１秒で倒すというアレはどうした！？》
-[Kouji]: {Don't lecture me! What happened to defeating her in one second?!}
+[Kouji]: {Don't lecture me! What happened to defeating her  in one second?!}
 //［コウジ］：《通信時間が過ぎてしまった‥‥じゃ、後は頼んだぞ。》
 [Kouji]: {Our time to communicate is up...well, give it your all.}
 //［宏治］：《お、おいちょっと‥‥。》
@@ -193,11 +193,11 @@ bi06
 //［宏治］：はぁ‥‥。
 [Kouji]: Huh....
 //［ビアンカ］：舌先で、すぐにとれるような便利仕様なのだっ！
-[Bianca]: Where it is, I could easily push it with the tip of my tongue!
+[Bianca]: Where it is, I could easily push it with the tip  of my tongue!
 //［宏治］：（なに、舌先で簡単に取れるだと‥‥？）
 [Kouji]: (What, she could push it that easily with her tongue...?)
 //［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥
-[Bianca]: Hehe, I'm quite pleased that you seem surprised. Whatever you try, you'll never...
+[Bianca]: Hehe, I'm quite pleased that you seem surprised.  Whatever you try, you'll never...
 //な、なにをする！？
 W-what are you doing?
 //bi06b
@@ -220,7 +220,7 @@ bi06b
 [Bianca]: Mm-......
 //bi06c
 bi06c
-[Kouji]: (Could it be on the outside of her molar...here? *sniff sniff*.)
+[Kouji]: (Could it be on the outside of her molar...  here? *sniff sniff*.)
 //［宏治］：（よーし、こうなったら、徹底的に調べてやる。）
 [Kouji]: (Ahh, if it's here, I'll have to investigate it thoroughly.)
 //［ビアンカ］：んっ、んんんっ‥‥。
@@ -342,7 +342,7 @@ bi06e_m
 //［ビアンカ］：うん‥‥。
 [Bianca]: Yes....
 //［ビアンカ］：コウジ‥‥私、私はかたときも、お前のことを忘れたことはなかった‥‥。
-[Bianca]: Kouji...I-I never forgot about you for a single second... 
+[Bianca]: Kouji...  I-I never forgot about you for a single second... 
 //［宏治］：そ、そうなの‥‥？
 [Kouji]: I-is that so...?
 //［ビアンカ］：コウジ、お前さえ許してくれるなら、私はまた、お前と一緒に‥‥。

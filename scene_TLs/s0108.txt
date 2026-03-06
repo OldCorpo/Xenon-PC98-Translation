@@ -67,7 +67,7 @@ Whatever happened after that, I don't remember.
 //［トレイシー］：ランファは‥‥私と一緒に、ここへ残っていましたけど‥‥。
 [Tracy]: Lanhua had...remained here with me...
 //［コウジ］：じょ、冗談はよしてくれ。私は、彼女と話しているときに‥‥。
-[Kouji]: Lay off the jokes, will you. I was talking to her at the time...
+[Kouji]: Lay off the jokes, will you. I was talking to her  at the time...
 //［トレイシー］：冗談ではありません。彼女は、私と一緒にコンソールオペレートをしていました。
 [Tracy]: I'm not joking. She was operating the console with me.
 //トレイシーは、ちょっぴりムッとしたような表情をしたが、眼鏡のフレームをツイと持ち上げると、すぐに元のスマイルへと戻る。
@@ -183,7 +183,7 @@ As Tracy looked at me suspiciously, pondering how I was deceiving her, the contr
 //［トレイシー］：ここにいますが‥‥。
 [Tracy]: He's here, too....
 //［ファル］：磁気嵐が去って、本部と連絡が取れるようになったわ。
-[Far]: The magnetic storm has left, so I could communicate with HQ again.
+[Far]: The magnetic storm has left, so I could communicate  with HQ again.
 //［トレイシー］：それはよかったですね。
 [Tracy]: That's good to hear.
 //［ファル］：至急、ブリッジにあがって欲しいの。
@@ -227,7 +227,7 @@ At the time, I was pretty straightforward...
 //ファルに聞いてみよう。
 Let's see if Far's room has one.
 //彼女はこのシップのリーダーだし、ＭＤの再生装置くらい貸してくれるかも‥‥。
-As she's the leader of the ship, she might have a playback device to lend me....
+As she's the leader of the ship, she might have a playback  device to lend me....
 //だけど、それだったら、ＭＤを密かに持ってきた意味がないじゃないか。
 But if I'm asking her for one, there's no use in carrying around the micro disc secretly.
 //誰にも察知されずに、密かに見たいんだ、私は。
@@ -239,7 +239,7 @@ Bianca's room surely had one....
 //そうだ、以前彼女の部屋に行ったとき、ディスクのプレイヤーがあったような気がする。
 That's right, when I went to her room earlier, I think there was a disc player.
 //私の部屋と、ほとんど同じまどりだったし、考えてみれば当たり前かもしれないな‥‥。
-Her room's layout looked the same as my room's. If I think about it, it's obvious...
+Her room's layout looked the same as my room's. If I think  about it, it's obvious...
 //問題は、電源が首尾良くきているかどうか、だが‥‥‥‥。
 The question is, is the power securely connected in that room....
 //格納庫にあったような気が‥‥。
@@ -249,13 +249,13 @@ Does the hangar really have a playback device for micro discs...?
 //どうも、勘違いらしいな‥‥‥‥。
 No, I'm making a mistake....
 //部屋の中は、シンと静まり返っていた。看護のトレイシーは、幸いにもいないらしい。
-It was calm and quiet in the room. Fortunately, the nurse, Tracy, was nowhere to be seen.
+It was calm and quiet in the room. Fortunately, the nurse,  Tracy, was nowhere to be seen.
 //私はさっそく、端末近くのプレイヤーのスイッチを入れてみた。
 I quickly turned on the switch to the player next to the terminal.
 //意外に大きな音だったので、慌ててビアンカの方を見てみる‥‥。
 There came a loud sound, so I frantically looked in Bianca's direction....
 //ビアンカは、静かな寝息をたてて、眠っていた。大きな胸が、上下に動いている。
-Bianca was sound asleep. Her large chest was moving up and down.
+Bianca was sound asleep. Her large chest was moving up and  down.
 //どうやら、大丈夫らしい‥‥。
 She seems fine....
 //［コウジ］：（プレイヤーに電源はきている‥‥。）
@@ -305,7 +305,7 @@ As I looked around the desk for a while, I couldn't find the micro disc.
 //さきほどの白昼夢のときに、ＭＤをあやまって飛ばしてしまったのだろうか‥‥。
 During that brief daydream, I must have flung the micro disc out of here by mistake....
 //小さなディスクだから‥‥隙間などに入り込んだら、見つけだすのが困難だろう。
-Because it's such a small disc...if it got stuck in a gap, getting it out will be hard.
+Because it's such a small disc...if it got stuck in a gap,  getting it out will be hard.
 //そう思って、身を屈めたとき‥‥‥‥。
 With that in mind, I rose to my feet....
 //［女の声］：あんた、誰だい？
@@ -365,13 +365,13 @@ xenon_27
 //［ファル］：コウジ、ここにいたのね‥‥。
 [Far]: Oh, Kouji, you were here this whole time....
 //意外に厳しいファルの表情に、私は黙るしかなかった。ＭＤのことが、バレたんだろうか‥‥。
-Far was looking at me so sternly, I couldn't help but stop talking. She probably found out about the micro disc....
+Far was looking at me so sternly, I couldn't help but stop  talking. She probably found out about the micro disc....
 //［ファル］：ビアンカさん、お目覚めになられましたね。私はキャプテンのファルです。
-[Far]: Bianca-san, you've awoken. I'm this ship's captain, Far.
+[Far]: Bianca-san, you've awoken. I'm this ship's captain,  Far.
 //［ビアンカ］：あ、ああ‥‥。
 [Bianca]: A-Ahh....
 //［ファル］：あなたは責任をもって、本国へ送ります。ご安心下さい。
-[Far]: I'll take full responsibility of you and return you back to your country. Please be calm.
+[Far]: I'll take full responsibility of you and return you  back to your country. Please be calm.
 //［ビアンカ］：で、でも‥‥この男は‥‥。
 [Bianca]: B-but...this man...
 //［ファル］：ええ、わかっています。
@@ -381,13 +381,13 @@ Far was looking at me so sternly, I couldn't help but stop talking. She probably
 //私は、かなり甲高い声を出してしまった。そのくらい、ファルの発言に驚いてしまったからだ。
 I shouted quite shrilly, because Far's comment really shocked me.
 //［ファル］：コウジ‥‥磁気嵐が弱まったので、あなたの名前を本部に問い合わせてみたわ‥‥。
-[Far]: Kouji...the magnetic storm has weakened, so I asked HQ about your name....
+[Far]: Kouji...the magnetic storm has weakened, so I asked  HQ about your name....
 //［ファル］：あなたの名前は、第２次調査隊の名簿に存在しなかった‥‥。
 [Far]: Your name is absent from the roster of the second investigative team....
 //［ビアンカ］：だって、彼は第１次調査隊シップの中で、見つけたんだ。
 [Bianca]: But, I saw him from the first investigative team's ship.
 //［ファル］：‥‥第１次調査隊の名簿の中にも、彼の名は存在しなかったわ。
-[Far]: ...He was also absent from the first investigative team's roster.
+[Far]: ...  He was also absent from the first investigative team's roster.
 //無論、顔写真もね、とファルはつけ加えた。
 "Of course, I checked the profile photos, too," Far added.
 //しばし、呆然としていたかも知れない。第２次調査隊の一員、という立場が、今の私を辛うじて納得させていた要因だった。
@@ -409,7 +409,7 @@ The others seem to be in the middle of discussing how to handle me from now on (
 //ドアにはハードウェア的にロックされていて、外には出られないようになっていた。
 The door seemed to have a hardware-based lock, so I probably can't leave anymore.
 //私は手を頭の後ろで組んで、天井をぼーっと見つめる。議論は、私自身の中で、既に散々なされていた。
-I put my arms behind my head and stared at the ceiling. It seemed controversy had become thoroughly embedded in my very being.
+I put my arms behind my head and stared at the ceiling. It  seemed controversy had become thoroughly embedded in my very being.
 //［コウジ］：自分は一体、誰なのか‥‥。
 [Kouji]: Just who the hell am I....
 //私はもう何度めかになる自問を、繰り返した。

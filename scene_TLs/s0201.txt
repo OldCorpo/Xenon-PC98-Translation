@@ -27,7 +27,7 @@ ra&to03c
 //［トレイシー］：コウジ様、お気をつけ下さい。
 [Tracy]: Kouji-sama, please be careful.
 //［ランファ］：コウジ様ぁ、ランファの為に、きっと帰ってきて下さぁい。
-[Lanhua]: Kouji-samaa, for my sake, please definitely come baack.
+[Lanhua]: Kouji-samaa, for my sake, please definitely come  baack.
 //［コウジ］：うむ、このジェネレータは私が大幅に改良したものだからな。理論上は完璧だ。
 [Kouji]: Indeed, I made a great improvement to this generator. It's theoretically complete.
 //［トレイシー］：はい、そう信じています。
@@ -41,7 +41,7 @@ The blonde woman with glasses was Tracy. My secretary, staff member, and slave.
 //よく気の付く性格は、まことに秘書に相応しい。全銀河秘書にしたいベスト１０というのがあれば、その中に間違いなく名を連ねたろう。
 The most common personality she showed was a straightforward secretary. If I were to rank the 10 best secretaries of the entire Milky Way, she would certainly be among them.
 //そして、大きなレモンイエローのリボンがトレードマークの、まだあどけなさの取れない顔つきの女は、ランファという。
-Also, the unbearably innocent woman with the trademark big lemon-yellow ribbon is Lanhua.
+Also, the unbearably innocent woman with the trademark big  lemon-yellow ribbon is Lanhua.
 //この機動シップ《クワドラ》の機関士兼、航海士でかつ私の奴隷だ。
 She is this mobile ship {Quadra}'s engineer, navigator, and my slave.
 //脳のシナプスの２、３万本は、常に焼き切れている、ちょっと間の抜けた女だ。だが、メカに対する知識は深く、この《クワドラ》に無くてはならない存在である。
@@ -49,13 +49,13 @@ The twenty or thirty thousand synapses in her brain are frequently burned out, s
 //［コウジ］：大宇宙海賊御用達霊子エナジー増幅ジェネレータの準備は万端か？
 [Kouji]: Did you finish preparing the Universal Pirate Company Reiko Energy Amplifying Generator?
 //［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。
-[Lanhua]: Yes, the numerical data you spoke of has already been input.
+[Lanhua]: Yes, the numerical data you spoke of has already  been input.
 //［トレイシー］：後は、ファルネリアさんのシンクロを待つだけですわ。
 [Tracy]: All we have to do now is wait for Farnelia's synchronization.
 //［コウジ］：うむ。
 [Kouji]: Indeed.
 //私はうなずきながら、隣の装置に入っている女性を横目で見た。
-As I nodded, I glanced sideways at the woman placed in the equipment next to me.
+As I nodded, I glanced sideways at the woman placed in the  equipment next to me.
 //［コウジ］：（後は、あの女が上手くシンクロしてくれれば‥‥。）
 [Kouji]: (As long as this woman will synchronize well...)
 //彼女‥‥ファルネリアという名前の女性は、非常に精神感応の力に優れている。今回この計画には、彼女のような人材が必要不可欠だったのだ。

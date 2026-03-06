@@ -47,7 +47,7 @@ Hm, if I were there, I'd be exceedingly rational and logical. However, the "me" 
 //［ファル］：ううん。
 [Far]: No, I didn't.
 //フン、まぁいい。つまらん夢を見ることも、あるだろう‥‥。
-Hum, well, this is fine. I do sometimes have uninteresting dreams, after all...
+Hum, well, this is fine. I do sometimes have uninteresting  dreams, after all...
 //そう考えると、私は再び深い眠りの域へと落ちていった‥‥‥‥。
 With that in mind, I fell into deep sleep once more....
 //［コウジ］：夜、か‥‥。
@@ -79,7 +79,7 @@ In this sleepy state, going to the rooftop to chill out might be good for me. Be
 //そう考えると、私は重い足取りで、屋上へと向かっていった。
 Thinking of that, with heavy feet, I turned towards the rooftop.
 //エレベータから降りると、暗く静かな場が眼前に広がっていた。閑散とした様相が、私の体温までも引き下げていく。
-As I got off the elevator, the dark, quiet place opened up before me. The silent atmosphere cooled me to my core.
+As I got off the elevator, the dark, quiet place opened up  before me. The silent atmosphere cooled me to my core.
 //［コウジ］：ぶ、ぶへぇぇ～っくしょん！！！
 [Kouji]: Huah, Huaaachoooo!!!
 //いかに最強の宇宙海賊とはいえ、根絶不能とまで言われる風邪ウィルスにだけは、なかなか手間取るのである。
@@ -103,11 +103,11 @@ Let's go to the lobby.
 //誰もいないロビーの、安っぽくも硬いソファにデロンと横たわり、原住民ご用達のスポーツ新聞を読みふける。
 Lounging on the kitschy hard sofa in the empty lobby, I can indulge in reading the sports news distributed by the natives.
 //どうやら、これが大宇宙海賊に相応しい、合理的かつ論理的な行動に思えた。
-Somehow, this kind of reasonable, rational plan is fitting for a galactic pirate.
+Somehow, this kind of reasonable, rational plan is fitting  for a galactic pirate.
 //［コウジ］：フン、原住民どもは、誰もいないようだな。
 [Kouji]: Hum, there don't seem to be any natives around.
 //私は近くにある情報誌を片手に、案の定硬いソファの上にゴロリと横になった。
-I grabbed the nearby information magazine in one hand, and lazily slumped down on the expectedly hard sofa.
+I grabbed the nearby information magazine in one hand, and  lazily slumped down on the expectedly hard sofa.
 //［コウジ］：どこもかしこも、低俗に相応しい出来だ。意外に文明レベルは低くはないようだな。
 [Kouji]: Every place is fitting for vulgarity. But, the culture is, surprisingly, not at a low level.
 //速読を利用し、ものの５秒ほどで読破した私は、満悦にうなずいた。
@@ -135,7 +135,7 @@ I suddenly looked at the top right corner of the paper. Not the Universal Calend
 //西暦というと、ずいぶん前に廃止された年号だ。
 The Gregorian Calendar fell out of use quite a while ago.
 //［コウジ］：どうやら、思っていた通りだな‥‥かなり、太古の地球という訳か。
-[Kouji]: Somehow, it's as I thought...then, this should be the Earth of antiquity.
+[Kouji]: Somehow, it's as I thought...then, this should be  the Earth of antiquity.
 //意外な収穫があるものだ。収穫はあったが、無論ここにいることは、私の本来の目的から外れている。
 What an unexpected boon. This newfound knowledge defeats my original motivation for being here.
 //私にはやることがあるのだ。それは‥‥‥‥。
@@ -175,7 +175,7 @@ I put the newspaper back in its original place, and continued walking down the e
 //目の前には重厚なドアがそびえ立っている。いかにも、何かありますと言わんばかりだ。
 A heavy, thick door towered before me. I'm just saying, there's got to be something in there.
 //［コウジ］：（フン、こんなドアは、大宇宙海賊のウルトラスーパーマグナム・キックの前には、紙クズ同然だ。）
-[Kouji]: (Hum, to the galactic pirate's Ultra Super Magnum Kick, this door is like a piece of crumpled paper.)
+[Kouji]: (Hum, to the galactic pirate's Ultra Super Magnum  Kick, this door is like a piece of crumpled paper.)
 //私が履いている脆弱な靴の底が、このぶしつけなドアをノックしかけた途端、ゴッという風の音と共に扉は左右に開かれた。
 I used the soles of the weak shoes I was wearing to knock on this stubborn door, and, with a sound of a gust of wind, the door opened to the sides.
 //ウィーーン‥‥‥‥。
@@ -201,7 +201,7 @@ I want to perform all kinds of analyses on this apparatus.
 //　◆ ウルトラスーパーマグナム・キックをお見舞いしてやろう。
 ◆ I'll use my Ultra Super Magnum Kick on it.
 //まずコンソールパネルを利用して、このマシンの概要を調べてみようか。
-First, I should use the control panel to learn an overview of this machine.
+First, I should use the control panel to learn an overview  of this machine.
 //カタカタカタ‥‥‥‥。
 *clatter clatter*
 //［コウジ］：フン、見よ、この卓越したキーボードさばきを！
@@ -213,13 +213,13 @@ First, I should use the control panel to learn an overview of this machine.
 //［コウジ］：おぉっ、指が曲がっているっ！
 [Kouji]: Ohh, my fingers are already curled!
 //［コウジ］：と思ったら、関節を曲げていただけだったか‥‥。
-[Kouji]: ...Is what I would think, but it's just my joints that are bent...
+[Kouji]: ...Is what I would think, but it's just my joints  that are bent...
 //ピピピピ‥‥。
 *beep* *beep* *beep*...
 //［コウジ］：フン、意外に陳腐なアルゴリズムを使っているな‥‥。
 [Kouji]: Hum, what an outdated algorithm they're using...
 //［コウジ］：やはりそうか‥‥フン、この時代には出来すぎたシロモノだ。
-[Kouji]: So that's how it is...Hum, this machine is really far ahead of its time.
+[Kouji]: So that's how it is...Hum, this machine is really  far ahead of its time.
 //［コウジ］：だいたいの構造は理解した。
 [Kouji]: I think I got the gist of the construction.
 //ソケットを開けて、直接中を見てみよう。
@@ -231,7 +231,7 @@ I should open up the socket and look directly inside.
 //［コウジ］：未だに半導体を、論理回路に使っているのか‥‥さすが開発途上文明だな。
 [Kouji]: They're still using semiconductors to inscribe logic circuits...how fitting for a developing civilization.
 //［コウジ］：‥‥しかし、これでは正常な動作はしない。シナプスの２～３万本も焼き切るだけだ。
-[Kouji]: ...However, this isn't operating normally. It'll fry 20-30 thousand synapses.
+[Kouji]: ...  However, this isn't operating normally. It'll fry 20-30 thousand synapses.
 //［コウジ］：拷問にはいいかもしれんな。
 [Kouji]: Might be good for torture.
 //［コウジ］：よし、いっちょう涼子のやつをこいつに掛けて‥‥。
@@ -313,7 +313,7 @@ As I stood up...
 //［コウジ］：ほぉ、それでは‥‥。
 [Kouji]: Hoh, well...
 //　◆ では、このマシンの基本コンセプトを言ってみろ。
-◆ Then, tell me about the fundamental concepts behind this machine.
+◆ Then, tell me about the fundamental concepts behind this  machine.
 //　◆ では、貴様のスリーサイズを言ってみろ。
 ◆ Then, tell me your three sizes.
 //　◆ では、さようなら。
@@ -343,7 +343,7 @@ Then, tell me about the fundamental concepts behind this machine.
 //［コウジ］：では私が言ってやろう。このマシンは、霊子エナジーを増幅するジェネレータだ。
 [Kouji]: Well, tell me. This machine is a generator that amplifies Reiko energy.
 //［コウジ］：これを利用すれば、思念体と物理的肉体の分離を行うことができるが‥‥。
-[Kouji]: If someone were to use it, their thought body and somatic body could be separated....
+[Kouji]: If someone were to use it, their thought body and  somatic body could be separated....
 //［沙夜香］：‥‥‥‥。
 [Sayaka]:......
 //［コウジ］：いかんせん、この装置の電送系ルーチンにバグが残っている。
@@ -395,7 +395,7 @@ Crack!!
 //［コウジ］：では、さようなら。
 [Kouji]: Then, farewell.
 //［コウジ］：では、さようなら、と言ったのだ。聞こえなかったのか、このバカ者が。
-[Kouji]: "Well then, farewell," I said. Did you hear that, you idiot?
+[Kouji]: "Well then, farewell," I said. Did you hear that,  you idiot?
 //［沙夜香］：気を付けた方がいいわよ、私はね、バカにされるのが大嫌いなの。
 [Sayaka]: Oh, you noticed, I really hate being made an idiot.
 //［コウジ］：フン、少し口が滑っただけだ。私が言いたいのはだな‥‥‥‥。
@@ -435,7 +435,7 @@ kai_bast
 //［ビアンカ］：ほう、さすがに表情が変わったな。そうでなくては、奪い甲斐が無いというものだ。
 [Bianca]: Ho~, it does seem that your expression has changed. However, that doesn't change the fact that the stolen goods are gone.
 //［男の声］：エンコーダなんかに未練は無いが、ファルは置いていけ。
-[Man]: She had no attachments to that encoder, so Far left it there.
+[Man]: She had no attachments to that encoder, so Far left  it there.
 //［コウジ］：（バカな事を言うな。あのエンコーダ無くして‥‥。）
 [Kouji]: (What bullshit. He got rid of the encoder...)
 //［ビアンカ］：フン、命令できる立場か！
@@ -511,7 +511,7 @@ Ryouko looked at me as though she had seen a ghost. Her lips still held a smile,
 //［涼子］：‥‥？
 [Ryouko]: ...?
 //［コウジ］：フン、状況は大体呑み込めたしな、そろそろ動き出す頃合だろう‥‥おい、貴様。
-[Kouji]: Hum, now that you seem to understand what's going on, it's time to make my move...Hey, you.
+[Kouji]: Hum, now that you seem to understand what's going  on, it's time to make my move...Hey, you.
 //［涼子］：な、何よ‥‥。
 [Ryouko]: W-what is it...
 //［コウジ］：それで、私を誘惑しているつもりか。
@@ -525,7 +525,7 @@ Ryouko looked at me as though she had seen a ghost. Her lips still held a smile,
 //［コウジ］：脱げ。
 [Kouji]: Strip.
 //動揺がこちらに伝わってくる。空気がピリピリと振動しているようだった。
-The shaking made its way to me this time. The very air was tingling.
+The shaking made its way to me this time. The very air was  tingling.
 //［涼子］：な、何を‥‥。
 [Ryouko]: Wh-what are you...
 //［コウジ］：脱ぐんだ。そうしたら、研究を手伝ってやろう。
@@ -577,7 +577,7 @@ Squeeze!!!
 //［涼子］：あぁ、痛っ！！
 [Ryouko]: Aa, it hurts!!
 //［コウジ］：貴様、それほど男を知っている訳ではないな。
-[Kouji]: Weren't you the one who wanted to know what a man is like?
+[Kouji]: Weren't you the one who wanted to know what a man  is like?
 //［涼子］：な、何のことよっ！
 [Ryouko]: Wh-what are you saying!
 //［コウジ］：フフン、青臭い匂いが、プンプン漂ってくる。この耳の裏側からな‥‥？
@@ -589,7 +589,7 @@ Squeeze!!!
 //［涼子］：いやよ、舐めたりしないで‥‥あっ！
 [Ryouko]: No, don't lick me there...Ah-!
 //［コウジ］：クックック‥‥よーし、じゃあこのしゃれた下着も脱いでもらおうか。
-[Kouji]: Hehehe...Good, now, please take off your indecent panties.
+[Kouji]: Hehehe...Good, now, please take off your indecent  panties.
 //［涼子］：な、何を言ってるのよ‥‥そんなこと‥‥。
 [Ryouko]: W-what are you saying...I can't...
 //［コウジ］：フン、男が欲しくて欲しくて溜まらない匂いが、プンプンしてくるぞ！

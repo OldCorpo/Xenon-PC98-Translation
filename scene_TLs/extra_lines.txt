@@ -11,7 +11,7 @@
 //［コウジ］：普段だったら、被験者の脳シナプスの２〜３万本は、焼き切れていただろうがな‥‥。
 [Kouji]: Under normal circumstances, twenty to thirty thousand of the subject’s brain synapses would have been burned out...
 //［コウジ］：フン、では私が当ててやろう。上から８５−６１−８６というところだな。
-[Kouji]: Hmph. Then I shall guess. From the top: 85-61-86, I’d say.
+[Kouji]: Hmph. Then I shall guess. From the top: 85-61-86,  I’d say.
 //(［ファル］：どうやら、着いたようね‥‥。
 [Far]: It seems we’ve arrived...
 //ｯ宇宙時間：１４５２：０１７０
@@ -43,7 +43,7 @@ I fell for that scheming Dr. Ryouko’s trap and ended up burning out twenty to 
 //［ランファ］：えぇ〜っ。
 [Lanhua]: Eeeeh-!?
 //［沙夜香］：口で強がっても、こっちは正直よねぇ〜。
-[Sayaka]: You can act tough with your mouth, but this side of you is honest, isn’t it~?
+[Sayaka]: You can act tough with your mouth, but this side  of you is honest, isn’t it~?
 //［ランファ］：だから‥‥だから、捨てないで下さいぃ〜うるうるぅ。
 [Lanhua]: Th-that’s why... so please don’t throw me away... sniffle, teary-eyed...
 //［ランファ］：ふぇ〜〜んっ、コウジ様が、コウジ様が‥‥。
@@ -75,7 +75,7 @@ I fell for that scheming Dr. Ryouko’s trap and ended up burning out twenty to 
 //［宏治］：お、奥歯の横に、自爆装置ぃ〜！？
 [Kouji]: A s-self-destruct device next to my back tooth-!?
 //［宏治］：（奥歯の、外側かな‥‥ここか？　ツンツン。）
-[Kouji]: (On the outside of my back tooth, maybe... here? poke, poke.)
+[Kouji]: (On the outside of my back tooth, maybe..  . here? poke, poke.)
 //［ファル・ランファ・トレイシー］：えぇっ〜！？
 [Far, Lanhua, Tracy]: Eeeeh-!?
 //［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ〜！

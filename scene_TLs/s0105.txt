@@ -51,7 +51,7 @@ The sunlight seeping through the blinds indicated good weather. Apart from the o
 //［涼子］：わかったわ。
 [Ryouko]: Understood.
 //涼子は、怪訝そうな表情で僕のことを見つめていたが、しょうがないわ、と一言もらすと、手に持っていたペンを机に置いた。
-Ryouko seemed to be taken aback as she looked at me, but as if to say, "Well, it can't be helped," she placed the pen she was holding on her desk.
+Ryouko seemed to be taken aback as she looked at me, but as if to say, "Well, it can't be helped,  " she placed the pen she was holding on her desk.
 //［涼子］：じゃあ、１つだけ聞かせて頂戴。
 [Ryouko]: Well, there is one thing I want to ask you.
 //［宏治］：なんでしょうか。
@@ -79,7 +79,7 @@ In the quiet afternoon, I didn't see anyone in the corridor, and the weather see
 //空調設備は稼働しているはずだが、額を拭うと、手の甲にべっとりと汗が付着する。相変わらず蒸し暑い気温に、辟易してしまう。
 Even though the air conditioning unit seemed to be on, as I wiped my forehead, sweat stuck to my fingernails. The usual humid, hot summer air frustated me.
 //［宏治］：（廊下に、エアコンは付いていないのかな‥‥‥。）
-[Kouji]: (There doesn't seem to be any air conditioning in the corridor...)
+[Kouji]: (There doesn't seem to be any air conditioning in  the corridor...)
 //熱気と湿気が廊下一杯に広がっていて、僕の不快感をより一層増加させていた。
 Hot and warm air diffused all around the corridor, adding yet another layer to my discomfort.
 //ボーっと立っているだけで息苦しくなる、そんな状況だ。
@@ -117,9 +117,9 @@ I'll go to the lobby, too.
 //とりあえず、自室に戻ってみるか。
 Anyway, I should return to my room.
 //タイミング良く、エレベータのドアが僕の目の前で開きだす。自室へ戻れと、誰かの意志が働いているかのようだった。
-Good timing! The lift door opened right in front of me. It feels like someone is encouraging me to return to my room.
+Good timing! The lift door opened right in front of me. It  feels like someone is encouraging me to return to my room.
 //相変わらず、ひんやりとした場所だった。人は乗っておらず、正方形の一辺に、ゆったりともたれ掛かることができる。
-As usual, it was a cool space. I could lean comfortably on one side of this square box with no one to bother.
+As usual, it was a cool space. I could lean comfortably on  one side of this square box with no one to bother.
 //僕の部屋は、３階にあった。それほど移動距離はないはずだが、ずいぶんと長く動いているものだ。
 My room was on the third floor. Even though it was pretty close in a straight line, getting there took a while.
 //どうやら着いたようだ。ここから自室までは、すぐだった。
@@ -135,7 +135,7 @@ With excellent timing, the elevator door opened in front of me.
 //自室へ戻れと、誰かの意志が働いているかのようだった。
 As I returned to my room, I got the feeling someone else was moving about there.
 //相変わらず、ひんやりとした場所だった。人は乗っておらず、壁にゆったりともたれ掛かることができた。
-As usual, it was a cool space. I could lean comfortably on the wall with no one else to bother.
+As usual, it was a cool space. I could lean comfortably on  the wall with no one else to bother.
 //自室の前までやってきたが、ドアがうっすらと開いていた。僕は几帳面な方だから、ドアはいつも締めて出る。
 As I finally arrived at my place, I noticed the door was slightly ajar. Because I'm a careful person, I always close the door when I leave.
 //誰かいる‥‥‥‥？
@@ -153,7 +153,7 @@ But, Megumi wouldn't be wearing that kind of jacket. So then...
 //そっと、部屋に入って様子をうかがってみよう。
 Let's enter the room quietly and see who's there.
 //僕はドアを静かにあけると、中の様子をうかがってみた。
-I gently opened the door, and looked around to see who was there.
+I gently opened the door, and looked around to see who was  there.
 //ドアのきしむ音が、少しだけ響いた。今度、油でもさしておいてやろう‥‥。
 The door squeaked slightly as I opened it. I should oil the hinges this time...
 //［宏治］：（あれ？　さっきまで居たのに‥‥‥‥。）
@@ -181,9 +181,9 @@ It seemed that she was waiting me to come back...
 //［沙夜香］：用がなければ、来てはいけないのかしら。
 [Sayaka]: I wouldn't have come here without purpose.
 //［宏治］：やめましょうよ、そういう言い方は。
-[Kouji]: Can you please stop being so standoffish and talk normally?
+[Kouji]: Can you please stop being so standoffish and talk  normally?
 //ごめんねと、悪戯っ子のような笑みを浮かべて、沙夜香は僕のそばへ寄ってきた。
-Sayaka apologized. A mischievous smile rose to her face as she followed me to her room.
+Sayaka apologized. A mischievous smile rose to her face as  she followed me to her room.
 //こういうズケズケしたところに、少し感心してしまう。
 That sort of honest talk gave me a little relief.
 //［沙夜香］：今日は、例のことを？
@@ -191,7 +191,7 @@ That sort of honest talk gave me a little relief.
 //［沙夜香］：ふーん、今日もカウセリングだけだったんだ。
 [Sayaka]: Yeeep, you only went to counseling today, too.
 //微妙な言い回しの違いに、僕は気付いた。沙夜香は「今日も」と言わなかったか‥‥？
-I noticed a small difference in her reply. Did Sayaka just say "Today, too"?
+I noticed a small difference in her reply. Did Sayaka just  say "Today, too"?
 //じゃあ、昨日はいったい何をやったのかというと‥‥‥‥。
 Well then, what on earth happened yesterday?
 //［沙夜香］：どうしたのよ、宏治クン。
@@ -241,7 +241,7 @@ She was no good at this kind of thing. If Megumi isn't here, staying here likely
 //［沙夜香］：ほら、行きましょう！
 [Sayaka]: Come on, let's go!
 //［宏治］：か、勝手に決めて‥‥関係者以外はダメなんですよ。
-[Kouji]: That's not for you to decide...only the involved parties are permitted.
+[Kouji]: That's not for you to decide...  only the involved parties are permitted.
 //［沙夜香］：あら、宏治クン、関係者でしょ？
 [Sayaka]: But Kouji-kun, *you're* an involved party, right?
 //［宏治］：そ、それはそうですけど‥‥だ、ダメですってば、そんなに押したって‥‥。
@@ -251,9 +251,9 @@ She was no good at this kind of thing. If Megumi isn't here, staying here likely
 //［舞］：あっ、宏治サン‥‥‥‥。
 [Mai]: Ah, Kouji-san...
 //相変わらず、「さん」のイントネーションが少し変だったが、そこがまた魅力のような気がする‥‥舞だ。
-As usual, her intonation of "-san" was a little weird, but had its own charm...It's Mai.
+As usual, her intonation of "-san" was a little weird, but  had its own charm...It's Mai.
 //［宏治］：舞さん、さっき見かけて声を掛けようとしたんだけど‥‥。
-[Kouji]: Mai-san, I saw you just a while ago, and tried to talk to you, but...
+[Kouji]: Mai-san, I saw you just a while ago, and tried to  talk to you, but...
 //何だか、少し言いにくそうだった。目は伏し目がちだし‥‥どうしたんだろう。
 It was pretty hard to spit it out. I cast my gaze downwards...what do I do?
 //［沙夜香］：あら、宏治。どうしたの？　誰なの、この女の子。
@@ -365,7 +365,7 @@ The way she suddenly asked that made me slightly panicked.
 //そういえば、この機械を使って、精神分析を行うようになってからだったか。
 That raises the question, did it start happening after I started using this machine for psychoanalysis?
 //どうも、記憶がはっきりとしないという、例の症状が現れはじめたのは。
-It seems that, for example, the slight discrepancies in my memory started around then.
+It seems that, for example, the slight discrepancies in my  memory started around then.
 //そしてあの、妙な夢に苛まされ始めたのも‥‥‥‥。
 I started to become frustrated with the strange dreams around then, too...
 //意外に真面目な表情で僕に問いかける沙夜香は、さっきとはまるで別人のようだった。
@@ -377,7 +377,7 @@ Why did she want to know such a thing...?
 //質問を最後まで言うことができなかった。
 I couldn't finish my question.
 //ゴッ、という風の音と同時に、鋭い声が室内に響きわたる。
-There was a *clack* and a sharp voice rang out through the room.
+There was a *clack* and a sharp voice rang out through the  room.
 //［涼子］：誰！　何をしているの！？
 [Ryouko]: Who's there? What are you doing?!
 //ryo_bast
@@ -399,11 +399,11 @@ Ryouko narrowed her eyes as she eyed me. Even though her expression tightened on
 //［涼子］：そうね‥‥宏治クンは、関係者だったわ。
 [Ryouko]: Yes...Kouji-kun, you're an involved party.
 //少しだけ口元をほころばせると、涼子は幾分穏和な口調で肯定した。
-As she slightly opened her mouth, she affirmed what I said in a milder tone.
+As she slightly opened her mouth, she affirmed what I said  in a milder tone.
 //目線を僕の隣に移す。沙夜香の緊張が微かに伝わってきた。
 Her gaze fell beside me. Sayaka's tension slipped out a little.
 //［沙夜香］：あのぉ、私‥‥そう、宏治クンがどうしてもここを見せたいと言うものだから‥‥‥‥。
-[Sayaka]: Um, I'm...uh, Kouji-kun really wanted to show me this place...
+[Sayaka]: Um, I'm...uh, Kouji-kun really wanted to show me  this place...
 //僕は、かなり呆れた顔をしていたに違いなかった。しかし、この沙夜香のたくましさに、同時に感心もする。
 I must have looked rather annoyed at her. At the same time, though, I was thankful for her quick thinking.
 //沙夜香は、僕の方をチラっとみると、軽く舌を出した。しょうがないな‥‥。
@@ -485,7 +485,7 @@ I pondered that for a while.
 //［涼子］：大丈夫よ、宏治クン。
 [Ryouko]: It's OK, Kouji-kun.
 //と、まるで僕の心を見透かしたように、涼子は微笑み掛けてきた。
-As though she saw right through to my heart, she smiled at me.
+As though she saw right through to my heart, she smiled at  me.
 //少し安心するが、不安が拭われた訳ではない。それでも、言ってみようという気にはなってきた。
 I was somewhat relieved, but still uneasy. Even so, I might as well spit it out.
 //［宏治］：それでは言いますけど‥‥。
@@ -499,7 +499,7 @@ I was somewhat relieved, but still uneasy. Even so, I might as well spit it out.
 //［宏治］：決して涼子先生の研究とか学術にケチを付ける訳じゃないんですが、ちょっと普段の生活に差し支えます。
 [Kouji]: I definitely don't mean to impede your research or academic efforts, but I want to live a little more normally.
 //涼子は俯いて、何かを考えているようだった。表情はほとんど無く、考えている内容までは分かりそうにない。
-Ryouko looked down, as if thinking carefully. Her face was expressionless and inscrutable.
+Ryouko looked down, as if thinking carefully. Her face was  expressionless and inscrutable.
 //僕は、もう１つ考えていたことを、涼子に言ってみた。
 I told Ryouko about another matter that had been nagging at me.
 //［宏治］：副作用、ということはないんですか？
@@ -515,7 +515,7 @@ I told Ryouko about another matter that had been nagging at me.
 //［涼子］：健忘症。
 [Ryouko]: Amnesia.
 //涼子はクスっと笑みをこぼすと、再び白衣のポケットに手を入れて、部屋の奥へと歩き出した。
-A smile crept into Ryouko's face, and as she put her hands back into her pockets, she walked further into the room.
+A smile crept into Ryouko's face, and as she put her hands  back into her pockets, she walked further into the room.
 //からかわれたのだと気付いた時には、涼子は部屋の奥へと消えていってしまった。
 When I realized she was making fun of me, Ryouko had already disappeared into the back of the room.
 //［宏治］：結構、切実な問題なんだけどな‥‥‥‥。
@@ -559,11 +559,11 @@ I only need to go down one floor to get to the lobby...
 //僕はエレベータのボタンを押しながら、そんなことを考えていた。
 I thought about pushing the button for the elevator.
 //何だか気になった。それが何かはわからないけど、舞に会ってみたいという欲求が、意外に強い。
-I became somewhat anxious. I couldn't really tell why, but it felt that Mai's request to meet felt quite urgent.
+I became somewhat anxious. I couldn't really tell why, but  it felt that Mai's request to meet felt quite urgent.
 //ロビーはここからだと、それほど階段を使用しなくても大丈夫そうだが‥‥。
 To get to the lobby, it wouldn't hurt to use the stairs...
 //さすがに、ロビーにはある程度の人を見かけることができた。僕はゆっくりと辺りを見回してみる。
-Indeed, I might be able to see some people in the lobby. I slowly looked around me.
+Indeed, I might be able to see some people in the lobby. I  slowly looked around me.
 //インフォメーションボードには、現在の場所やら設備の詳細が記されている。あらためて見ると、意外に広い。
 The current location and facility details were recorded on the bulletin board. As I looked at it again, it felt quite wide.
 //３階建ての建物ではあったが、横への広がりが充実していた。この狭い国には、いささか相応しくない造りと言える。
@@ -585,13 +585,13 @@ A lively voice rang out. That must mean...
 //［宏治］：‥‥な、なに？
 [Kouji]: ...W-what?
 //［恵］：ここのお仕事紹介して、ちょっと後悔してる。
-[Megumi]: I'm having regrets about introducing you to this work.
+[Megumi]: I'm having regrets about introducing you to this  work.
 //［宏治］：なんだよ、今さら。
 [Kouji]: Why are you telling me this now?
 //［恵］：いいお金になるっていうから、紹介したんだけど‥‥‥‥。
-[Megumi]: I introduced you because I thought it would be a good way to earn money, but now...
+[Megumi]: I introduced you because I thought it would be a  good way to earn money, but now...
 //［恵］：昨日、パパから聞いたの。ここ、もうすぐ閉鎖されるんですって。
-[Megumi]: I heard from Papa yesterday that this place will be closed soon.
+[Megumi]: I heard from Papa yesterday that this place will  be closed soon.
 //［宏治］：ええ！？　僕の今までの給料は、いったいどうなるのさ。
 [Kouji]: WHAaa!? But, what about my salary up to now?
 //［恵］：あなたねぇ、もう少し真面目になりなさいよ。
@@ -625,7 +625,7 @@ A lively voice rang out. That must mean...
 //［恵］：特に、メンタル部分で‥‥‥‥。
 [Megumi]: Particularly with regards to your mental state...
 //［恵］：どこかの調査機関も動いてるらしいって、パパが言ってたわ。
-[Megumi]: Papa said some investigative agencies are making their move.
+[Megumi]: Papa said some investigative agencies are making  their move.
 //［宏治］：物騒な話だね。
 [Kouji]: Well, that's unsettling.
 //［恵］：なに当たり前のこと言っているのよ。
@@ -643,7 +643,7 @@ A lively voice rang out. That must mean...
 //恵は、目の前にやってくると、僕の襟元を直し始めた。通り過ぎる人は、それを見てクスクスと笑っているようだ。
 Megumi came right up to me and started fixing my collar. Onlookers chuckled as they saw us.
 //［恵］：はい、これでＯＫ。男前になったわよ。じゃね。
-[Megumi]: All right, now you look the part of a man. Well, then, let's go.
+[Megumi]: All right, now you look the part of a man. Well,  then, let's go.
 //恵は再び、階段に行きかけて、こちらを振り向くと、
 Once more, Megumi headed towards the stairs and turned around.
 //［恵］：階段くらい、昇りなさい。たった、３階でしょ？
@@ -665,7 +665,7 @@ With deft footwork, Megumi nimbly ascended the stairs. I watched her figure from
 //自室へ戻ってみるかな‥‥。
 I should return to my room...
 //さすがに３階まで階段を使う気にはなれなかった。僕はエレベータの上ボタンを押すと、しばし立ち尽くしていた。
-I didn't really want to take the stairs to the third floor. I pushed the "up" elevator button, and stood there waiting for a while.
+I didn't really want to take the stairs to the third floor. I pushed the "up" elevator button, and stood there waiting  for a while.
 //そういえば、エレベータを待っている人って、みんな上の表示部分をぼーっと眺めているよな‥‥。
 Speaking of which, you ever notice that everyone waiting for the elevator always gazes at the display above?
 //そんなことを考えていたとき‥‥。
@@ -777,11 +777,11 @@ As if Mai was taken aback, her skin whitened. In a sense, this felt unreal.
 //［宏治］：あぁ、そのこと‥‥。
 [Kouji]: Aah, about that...
 //お金のため、とダイレクトに答えるのも格好悪いので、少し気取った回答を敢えて呈示してみた。
-I couldn't tell her directly that it was about money, so I made up a slightly pretentious answer instead.
+I couldn't tell her directly that it was about money, so I  made up a slightly pretentious answer instead.
 //［宏治］：やはり、科学の発展の為かな。
 [Kouji]: It's all for scientific advancement.
 //［宏治］：サイコロジーの分野は、まだまだ未知数だからね。
-[Kouji]: In the field of psychology, there are still a lot of unknowns, after all.
+[Kouji]: In the field of psychology, there are still a lot  of unknowns, after all.
 //舞があまりに深刻な顔をし出したので、少しおちゃらけてみる事にする。
 A serious look came over Mai's face, so I chose to play around a little.
 //［宏治］：というのは冗談で、手っ取り早くお金のため、かな。
@@ -799,7 +799,7 @@ As I saw Mai's smile, I relaxed a little. Now it was my turn to question her.
 //［宏治］：うん、何故ここにいるのか、前から興味あった。
 [Kouji]: Yeah, I've been interested about that since earlier.
 //［宏治］：別に、差し支えがあるならいいよ。特に、知りたいということでもないし‥‥。
-[Kouji]: I mean, if it's hard for you to answer, you don't have to...if you don't want to...
+[Kouji]: I mean, if it's hard for you to answer, you don't  have to...if you don't want to...
 //［舞］：‥‥ねぇ、宏治サン。
 [Mai]: ...Um, Kouji-san.
 //［宏治］：な、なんだい。
@@ -817,7 +817,7 @@ As she said this, she showed me a charming, mischievous smile. Even though our d
 //僕はそう言いながら記憶の糸を辿りだし、ゆっくりと話し始めた。
 As I said this, I followed my memory's thread, and I slowly told my story.
 //おおむね、涼子に話したのと同内容だったが、記憶の欠落している部分は、想像で補っていった。舞は黙って、耳を傾けている。
-In broad strokes, it was the same thing I had told Ryouko, but I fabricated the bits that I couldn't remember. Mai was totally silent, and her ears perked up.
+In broad strokes, it was the same thing I had told Ryouko,  but I fabricated the bits that I couldn't remember. Mai was totally silent, and her ears perked up.
 //［宏治］：どう？　妙な夢だと、思うだろう。
 [Kouji]: Well? Don't you think it's a strange dream?
 //［舞］：いいえ‥‥でも。
@@ -833,7 +833,7 @@ I definitely thought it was weird, but it felt so realistic that I couldn't help
 //舞は人差し指を唇の前に当てて、しばらく何かを考えている。その仕草は、なかなか可愛らしい。
 Mai put her pointer finger on her lips, as if thinking of something. Her expression was quite adorable.
 //［舞］：それって、荘子の考えた哲学に似てますね、すごく。
-[Mai]: What you said is remarkably similar to something in Zhuangzi's philosophy.
+[Mai]: What you said is remarkably similar to something in  Zhuangzi's philosophy.
 //［宏治］：荘子？
 [Kouji]: Zhuangzi?
 //［舞］：中国の思想家の事です。
@@ -851,7 +851,7 @@ As I laughed, I broke out in a cold sweat...
 //舞の言い分は、僕の心を心底から冷やした。僕という人間に、いったいどれほどの確信をもって、その存在を実証できるのか‥‥。
 What Mai said chilled me to my core. To a human like me, how confident can I be in any existence I can verify?
 //今こうして彼女と話している自分が、果たして蝶の見ている夢じゃないと、僕は自信を持って言うことができるのだろうか？
-Can I really put any confidence in saying that me, talking to Mai right now, really isn't a butterfly's dream?
+Can I really put any confidence in saying that me, talking  to Mai right now, really isn't a butterfly's dream?
 //舞は黙って僕の事を見ていた。
 Mai looked at me silently.
 //僕も黙って、彼女を見る他は無かった‥‥‥‥‥。

@@ -21,7 +21,7 @@ As I closed the door...
 //［宏治］：誰だっけ？
 [Kouji]: Who are you again?
 //［女］：フン、相変わらず人の神経を逆撫でするのが上手いが、その手は喰わんぞ。
-[Woman]: Hmph, just as usual, you have a knack for rubbing people the wrong way, but I won't bite.
+[Woman]: Hmph, just as usual, you have a knack for rubbing  people the wrong way, but I won't bite.
 //［宏治］：あっ、もしかして、ビアンカって人？
 [Kouji]: Ah-, you're that Bianca person, aren't you?
 //［ビアンカ］：とぼけるのもそこまでだ。既に《クワドラ》は、我が手中にある。
@@ -49,7 +49,7 @@ As I closed the door...
 //［宏治］：そうだなぁ、ま、平たく言えば、他人事。
 [Kouji]: Hmm, well, in simple terms, it's not my problem.
 //［ビアンカ］：貴様、悔しくはないのか、エンコーダを奪われるのが。
-[Bianca]: Are you really not regretful that I'll steal the encoder?
+[Bianca]: Are you really not regretful that I'll steal the  encoder?
 //［宏治］：悔しくはないが、残念だな。
 [Kouji]: I don't regret it, but it is a pity.
 //［ビアンカ］：どういうことだ。
@@ -169,9 +169,9 @@ Blast!!!
 //［宏治］：んー、じゃあトレイシー、かな？
 [Kouji]: Well, then, maybe Tracy?
 //［コウジ］：よし、では惑星エイレートで過ごしたあのときを、覚えているか？
-[Kouji]: Good, then do you remember that time you revolved about the planet Eirate?
+[Kouji]: Good, then do you remember that time you revolved  about the planet Eirate?
 //［コウジ］：黙って聞くのだ。あの時の君は本当に素敵だったと言ってやれ。それで恐らく確信してもらえる事だろう。
-[Kouji]: Shut up and listen to me. At that time, say to her, "you're really wonderful." That should be enough to gain her trust.
+[Kouji]: Shut up and listen to me. At that time, say to her, "you're really wonderful.  " That should be enough to gain her trust.
 //［コウジ］：いいから、この通り言うのだ。ただし、ランファの前では決して言うな。いいな？
 [Kouji]: Just speak as I say. However, don't speak a word of it to Lanhua. Do you understand?
 //［コウジ］：むっ、マズい。いいか、５時間後だ、忘れるな‥‥。
@@ -201,7 +201,7 @@ Blast!!!
 //［ランファ］：なによぉ、プリプリよぉ、トレイシー！
 [Lanhua]: Hey, stop nudging against him, Tracy!
 //［宏治］：話の腰を折って申し訳ないが、今、何時だ！？
-[Kouji]: I'm sorry to butt in, but right now, what time is it?!
+[Kouji]: I'm sorry to butt in, but right now, what time is  it?!
 //［宏治］：今は何時かと訊いてるんだ。
 [Kouji]: I asked, what time is it?
 //［トレイシー］：銀河標準時で１５時ちょうど、というところですわ。
@@ -303,7 +303,7 @@ to02_m
 //［トレイシー］：‥‥どうされました？
 [Tracy]: ...How are you feeling?
 //［宏治］：女性に添い寝してもらうなんて、始めてなんだよ。ホント。
-[Kouji]: Well, this is the first time I've slept next to a woman. Really.
+[Kouji]: Well, this is the first time I've slept next to a  woman. Really.
 //［トレイシー］：まぁ‥‥。
 [Tracy]: Well...
 //［宏治］：トレイシーに話しておかなくちゃならない事がある。
@@ -321,11 +321,11 @@ to02_m
 //［トレイシー］：ウフフ、違いますのよ。
 [Tracy]: Ehehehe, that's not it.
 //［トレイシー］：私がコウジ様を敬愛している‥‥ある意味では正しいのですけど、ある意味では違いますわ。
-[Tracy]: I have a deep respect for Kouji-sama...so in some ways, that's right, but in others, it's not.
+[Tracy]: I have a deep respect for Kouji-sama...so in some  ways, that's right, but in others, it's not.
 //［トレイシー］：あなたが、本来のコウジ様ではないことは、早い時期からわかっていました‥‥。
 [Tracy]: I knew from early on that you weren't Kouji-sama...
 //［トレイシー］：でも、あなたには暖かさを感じる。コウジ様の雄々しい気質には、存在しないものだったかもしれない‥‥。
-[Tracy]: However, I could feel your kindness. Kouji-sama's usual manly bravado might have been absent there...
+[Tracy]: However, I could feel your kindness. Kouji-sama's  usual manly bravado might have been absent there...
 //［宏治］：と、トレイシー‥‥。
 [Kouji]: Then, Tracy...
 //［トレイシー］：ファルネリア様を救出しに行くと、お決めになりましたよね。
@@ -333,7 +333,7 @@ to02_m
 //［トレイシー］：恐らく、コウジ様も同じ決定をなさったと思います。
 [Tracy]: I feel Kouji-sama would have done the same.
 //［トレイシー］：私には偶然とは思えません。あなたと、コウジ様が同一人物だとしても、ちっとも驚きません。
-[Tracy]: This is no accident to me. It wouldn't be odd for you and Kouji-sama to be the same character.
+[Tracy]: This is no accident to me. It wouldn't be odd for  you and Kouji-sama to be the same character.
 //［宏治］：あんな軽薄なヤツと一緒にしないで欲しいな。
 [Kouji]: Don't lump me with that bastard so easily.
 //［トレイシー］：ウフフ、どちらも魅力的ですのよ。
@@ -365,7 +365,7 @@ Tracy's voice was wavering. She seemed a little afraid of my words, and stared a
 //［トレイシー］：だってコウジ様、あのときのことはもう忘れろって‥‥。
 [Tracy]: But, Kouji-sama, you said you'd forgotten that time...
 //［宏治］：そんなこと言ったの？あいつ。しょうがないなぁ‥‥。
-[Kouji]: Did I say that? That bastard. What will I do with him...
+[Kouji]: Did I say that? That bastard. What will I do with  him...
 //［トレイシー］：私、片時も忘れたことはありません！
 [Tracy]: I didn't forget even a second of it!
 //［トレイシー］：なぜ、今になってそのことを‥‥？
@@ -417,7 +417,7 @@ to03b
 //柔らかい唇が、そっとオレの口にかぶさってきた。熱い吐息を口腔に感じながら、オレは痺れるような感覚に見舞われてきた。
 She firmly pressed her soft lips to mine. As I felt her warm breath in my mouth, a shiver ran down my spine.
 //ただ唇を押しつけているだけの、ライトなキスだったが、オレの感覚を麻痺させるに十分過ぎるほど濃厚だった。
-As she only pressed her lips to mine, it was a light kiss, but the numbing effect overpowered me.
+As she only pressed her lips to mine, it was a light kiss,  but the numbing effect overpowered me.
 //オレはゆっくりと、身体をベッドへ倒していった‥‥。
 I gently fell onto the bed...
 //to09
@@ -465,11 +465,11 @@ As I tried to say Tracy's name, my tongue got twisted. It was because of her dam
 //［宏治］：‥‥触っていいかい？
 [Kouji]: ...Can I feel them?
 //オレは彼女の胸を指さしながら、祈るような気持ちでトレイシーを見た。
-As I pointed at her breasts, I looked at her with pleading eyes.
+As I pointed at her breasts, I looked at her with pleading  eyes.
 //［トレイシー］：もちろんですわ‥‥これは、コウジ様のです。
 [Tracy]: Of course you can...After all, they're yours, Kouji-sama.
 //鼻血が出そうになるセリフを聞きながら、オレは胸をそっと手で触ってみた。柔らかく、弾力がある。
-As I heard those nosebleed-causing words, I gently grabbed her breasts. They were soft and a bit bouncy.
+As I heard those nosebleed-causing words, I gently grabbed  her breasts. They were soft and a bit bouncy.
 //もはや包み込むことが不可能なそれは、オレの掌の中で、思うように形を変えていった。
 Her tits were so big that they couldn't fit in my hands, so I played with them as I pleased.
 //［トレイシー］：あはぁぁ‥‥もっと‥‥もっと強く揉んでも、構わない‥‥。
@@ -481,7 +481,7 @@ to09b
 //to09b_m
 to09b_m
 //透き通るような肌が、オレの目の前にあらわになっている。トレイシーは、少し切なそうな目をしながら、
-Her clear skin laid bare before me. As Tracy shot an acute glance at me,
+Her clear skin laid bare before me. As Tracy shot an acute  glance at me,
 //［宏治］：えっ、なんだい？
 [Kouji]: Uh-, what is it?
 //［トレイシー］：もっともっと、乱暴になさっても、構わないのですよ。
@@ -495,7 +495,7 @@ Her clear skin laid bare before me. As Tracy shot an acute glance at me,
 //［トレイシー］：はい、何でも‥‥。
 [Tracy]: Yes, anything...
 //期待の眼差しをオレは一身に受け、鼻血が出そうになるのを辛うじて抑える。
-That look of anticipation shot straight through me, nearly causing my nose to bleed.
+That look of anticipation shot straight through me, nearly  causing my nose to bleed.
 //トレイシーの胸からは、今にも乳房がこぼれ落ちそうなほどだった。おまけに彼女が下半身に身につけていたのは、際どい角度と細さの超ビキニだけだった。
 Even now, Tracy's breasts looked like they were about to spill out of her bosom. Moreover, all that covered her lower half was a suggestively thin, sharp bikini bottom.
 //［トレイシー］：ウフフ、何をなさっても、構いませんのよ‥‥。
@@ -521,7 +521,7 @@ As I squeezed her breasts, I spun little circles around her nipples, then grabbe
 //盛んにオレの股間のモノを手でしごき、鼻息を荒くするトレイシーをオレは抱きしめて、唇をむさぼり吸った。
 Tracy stroked my throbbing cock with her hand, and, breathing raggedly through her nose, pulled me close and gobbled it up.
 //たっぷりと唾液を流し込むと、トレイシーは音を立てて飲んだ。
-As her saliva coated my cock, Tracy noisily played my skin flute.
+As her saliva coated my cock, Tracy noisily played my skin  flute.
 //［宏治］：トレイシー‥‥。
 [Kouji]: Tracy...
 //［トレイシー］：もうたまらない‥‥欲しい、アレが、欲しい‥‥。
@@ -555,7 +555,7 @@ Tracy's hip movements were exquisite. She gently rose until I could see my secon
 //そのあとで腰を「の」の字に回し、膣内でオレのモノをたっぷりとシゴキあげると、再びゆっくりとカリの部分まで腰をあげていく。
 After that, her hips gyrated back and forth, her folds thoroughly milking me, until she gently rose again to reveal my head.
 //単調な動作だったが、それは脳天まで麻痺してしまうほどの快楽を醸し出した。
-That monotone movement alone evoked a pleasure that numbed me to my core.
+That monotone movement alone evoked a pleasure that numbed  me to my core.
 !//彼女の花弁の肉圧と、腰使いは絶品だ。
 The way she clenched her flesh walls and moved her hips was supreme.
 //［トレイシー］：んふぅぅ、どう‥‥あっ、どう‥‥ですか、私の膣内は‥‥。
@@ -563,7 +563,7 @@ The way she clenched her flesh walls and moved her hips was supreme.
 //［宏治］：あったかくて、ぎゅうぎゅう締め付けて‥‥最高だよ。
 [Kouji]: It's so warm, and your kneading and squeezing...it's the best.
 //［トレイシー］：あはぁぁ、嬉しい‥‥もっともっと、気持ちよくなって下さいっ！！
-[Tracy]: Mhmmm, my pleasure...please, let me give you even more!!
+[Tracy]: Mhmmm, my pleasure...please, let me give you even  more!!
 //ずちゅっ、ぬりゅっ、ずちゅっ、ぬりゅっ。
 Squish, squish, squish, squish.
 //次第に早くなっていく腰の動きに同調して、目の前では量感溢れるバストが、たぷんたぷんと揺れていた。
@@ -601,7 +601,7 @@ Tracy's flower rhythmically pulsed around my cock. As I neared climax, I dashed 
 //射精している間も、トレイシーの肉壁はオレの肉棒に絡み付き、最後の一滴まで絞り出そうと蠢動していた。
 Even as I came, Tracy's walls coiled around my rod, milking every last drop of me as she writhed.
 //［宏治］：な、何だこれ‥‥す、吸い取られそう‥‥。
-[Kouji]: O-oh my god...it's like you're sucking it out of me...
+[Kouji]: O-oh my god...it's like you're sucking it out of me  ...
 //［トレイシー］：もっと‥‥もっとお出しになって‥‥んくぅ‥‥。
 [Tracy]: More...Come even more for me...*gasp*...
 //ドクッ、ドクッ‥‥‥‥
@@ -633,7 +633,7 @@ As we wriggled our tongues together, we basked in the afterglow...
 //［トレイシー］：それは、コウジ様の自信のなせるワザですわ。もうすぐ、ビアンカさんのシップに追いつきますね。
 [Tracy]: That's the effect of Kouji-sama's confidence. We'll catch up to Bianca's ship very soon.
 //［宏治］：うん‥‥ホンモノのコウジだったら、どうしたろうな、こういう場合。
-[Kouji]: Yeah...What would the real Kouji-sama do in this kind of situation?
+[Kouji]: Yeah...  What would the real Kouji-sama do in this kind of situation?
 //［トレイシー］：さぁ‥‥あの方は、本当に予想外のことをなさる方でしたから‥‥。
 [Tracy]: Well...if that fellow really encountered something unpredicted...
 //［宏治］：予想外？

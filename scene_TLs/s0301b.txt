@@ -1,7 +1,7 @@
 //s0301b
 s0301b
 //現状把握の為にも、もう少し１人で調べてみよう。
-To get a better grip on my situation, I should investigate here alone.
+To get a better grip on my situation, I should investigate  here alone.
 //まずは、手近なところから、かな‥‥。
 First, maybe I should explore the areas close to me....
 //いつの間にか足音は消えていたが、あまり気にはならない。手近なドアを開けると、その中へと入っていった‥‥。
@@ -33,7 +33,7 @@ The alarm reverberated through my head...I felt a little nauseous.
 //［女］：コウジ様、お気を確かに。
 [Woman]: Kouji-sama, please be cautious.
 //地面が唐突に自分の方へ、せり上がってくるような感覚に見舞われた。
-I was suddenly struck with the feeling that the ground was gradually rising towards me.
+I was suddenly struck with the feeling that the ground was  gradually rising towards me.
 //ドサッという音を聞いて、オレは自分が倒れたことを知った。
 As I heard a thud, I realized I had fallen down.
 //ヒンヤリとした硬い感触を頬に感じながら、オレは自分の身に降り懸かった災厄を、克明に思い出していた‥‥。
@@ -67,7 +67,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 //［宏治］：露骨に言わないで下さい。オレにだってガールフレンドくらい‥‥。
 [Kouji]: Please don't talk about it so frankly. I have a girlfriend, after all...
 //［涼子］：恵チャンでしょ？　この医療センターのスポンサー様のご令嬢ですものねぇ。
-[Ryouko]: Megumi-chan, right? The daughter of the esteemed sponsor of this clinical center.
+[Ryouko]: Megumi-chan, right? The daughter of the esteemed  sponsor of this clinical center.
 //［涼子］：もうちょっと、研究資金を下さるよう、言ってくれない？
 [Ryouko]: Hold on, can you talk to her about research funding?
 //［宏治］：何でオレの口からそんなこと言えるんです。脈絡の無いこと、言わんで下さいよ。
@@ -149,7 +149,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 //［宏治］：（ドキッ。）
 [Kouji]: (*Ba-dump.*)
 //［涼子］：ねぇ、お願いよ‥‥精神医学の発展のためなのよ。
-[Ryouko]: Please...for the sake of advancing neurological medicine.
+[Ryouko]: Please...  for the sake of advancing neurological medicine.
 //［宏治］：あの、ドリームプログラムマシンとやらがですか？
 [Kouji]: That, uh, Dream Program Machine or whatever it's called?
 //［涼子］：そうなの‥‥ねぇ、お・ね・が・い。
@@ -171,7 +171,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 //［宏治］：そ、その手に持ってる注射器は、いいいい‥‥。
 [Kouji]: Th-that syringe you're holding, wh-wh-wh...
 //［涼子］：さすが、即効性の名はダテじゃないわ。よく効くわねぇ、これ。
-[Ryouko]: Just as expected, "immediately effective" wasn't just for show. This will work well.
+[Ryouko]: Just as expected, "immediately effective" wasn't  just for show. This will work well.
 //［宏治］：りょりょりょりょ‥‥‥‥‥。
 [Kouji]: Ryo-ryo-ryo-....
 //［涼子］：ほら、お・や・す・み‥‥‥‥チュッ。
@@ -193,7 +193,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 //［宏治］：ま、まさか‥‥！？
 [Kouji]: It-it can't be...?!
 //［涼子］：そのまさかよ。さぁ宏治クン、お目覚めの時間。
-[Ryouko]: Oh, but it is. Now, Kouji-kun, it's time to wake up.
+[Ryouko]: Oh, but it is. Now, Kouji-kun, it's time to wake  up.
 //［宏治］：りょ、涼子先生‥‥これはいったい‥‥。
 [Kouji]: Ry-Ryouko-sensei...what on earth is this....
 //［涼子］：おーっほっほっほ！
@@ -203,7 +203,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 //［涼子］：ごめんねぇ、身動きできないように、椅子に縛らせてもらったわ。
 [Ryouko]: Sorry, I tied you to a chair so you couldn't move your body.
 //［宏治］：こんな妙なヘルメットを被せて‥‥お、オレをどうするつもりだ。
-[Kouji]: You put this weird helmet on me...wh-what do you plan to do to me?
+[Kouji]: You put this weird helmet on me...  wh-what do you plan to do to me?
 //［涼子］：なによそれ、まるで私は悪代官みたいじゃない。
 [Ryouko]: What's with that reaction? You're treating me like I'm some corrupt magistrate.
 //［宏治］：似たようなもんだろ！
@@ -231,7 +231,7 @@ As I felt something cold and hard against my cheek, I remembered my calamitous f
 //［宏治］：ちょ、ちょっと‥‥まだ、心の準備が。
 [Kouji]: H-hold it...I still haven't mentally prepared myself.
 //［涼子］：だーいじょうぶ大丈夫。失敗しても、脳のシナプスが２～３万本、焼き切れる程度だから。
-[Ryouko]: It's fiiine, it's OK. Even if we fail, we'll fry about 20-30 thousand of your brain's synapses.
+[Ryouko]: It's fiiine, it's OK. Even if we fail, we'll fry  about 20-30 thousand of your brain's synapses.
 //［宏治］：なっ、ちょっ、だっ‥‥！？
 [Kouji]: Wha-Hol-Bu-...?!
 //［涼子］：舞は心配ないわ、彼女はあくまで触媒。大切な妹を、危ない目に遭わせる訳がないでしょう？
@@ -325,7 +325,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［トレイシー］：さっ、ほら。
 [Tracy]: Now, go.
 //［ランファ］：コウジ様、何かあったら、呼んで下さいね。
-[Lanhua]: Kouji-sama, if anything happens, please call me, OK?
+[Lanhua]: Kouji-sama, if anything happens, please call me,  OK?
 //［宏治］：あ、ああ‥‥わかった。
 [Kouji]: Ah, uhhh...I got it.
 //［ランファ］：フンフン‥‥。
