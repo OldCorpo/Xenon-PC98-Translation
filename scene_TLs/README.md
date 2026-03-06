@@ -1,6 +1,6 @@
 ## Things to take in consideration when editing
 
-More than 3 consecutive spaces makes the game crash, avoid it.
+More than 2 consecutive spaces makes the game crash, avoid it.
 
 Ideally, the translation lines should contain only Shift-JIS compatible characters, 
 by default, most of the english and latin chars are.
