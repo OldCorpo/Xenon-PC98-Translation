@@ -12,8 +12,8 @@ import re
 #error_found = False
 
 def check_files():
-    # Pattern to match more than 3 consecutive spaces
-    pattern_spaces = re.compile(r' {4,}')
+    # Pattern to match more than 2 consecutive spaces
+    pattern_spaces = re.compile(r' {3,}')
     pattern_unifield_ellipsis = '…'
     pattern_hyphen = '–'
 
