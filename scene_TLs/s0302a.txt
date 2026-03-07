@@ -813,7 +813,8 @@ Squeeze.
 //［宏治］：それは、オレが宇宙海賊とやらだから？
 [Kouji]: Is that just because I'm a galactic pirate?
 //［宏治］：オレの言うことは何でも聞くとか、言っていたしなぁ。
-[Kouji]: I'd like to ask her what she says about me. [RETRANSLATE]
+[Kouji]: I'd like to ask her what she says about me.
+#[RETRANSLATE]
 //［宏治］：じゃあ廊下で出会うなり、尻をこっちにむけてアソコを両手で開け！
 [Kouji]: Well, next time I meet her in the hall, I want her to turn her ass towards me and spread em wide!
 //［宏治］：とか言ったらどうなるのかな。

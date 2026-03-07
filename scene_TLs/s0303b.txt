@@ -43,7 +43,7 @@ As I felt tears roll down my cheek, I kneeled down and cupped my hand around it.
 //［宏治］：そんな恐そうな顔をするなよ。別にあれを悪用するつもりはないぜ。
 [Kouji]: What's with that scary expression? I don't have any evil intentions or anything.
 //［宏治］：さっきも言ったろう？　そのエンコーダとやらを利用してやるってヨコシマな輩は、いくらでも出てきそうなもんだって。
-[Koji]: I said it earlier, didn't I? There's bound to be a  few people who would use that Encoder for evil means.
+[Kouji]: I said it earlier, didn't I? There's bound to be a  few people who would use that Encoder for evil means.
 //［宏治］：うん、とりあえず君には悪いけど、破棄させてもらう。あんなの、百害あって一利無しだ。
 [Kouji]: Yes, in any case, even though it does you no favors, I let it be destroyed. That kind of thing does nobody any good.
 //《何たる無様な醜態だ‥‥。》
@@ -67,7 +67,8 @@ As I felt tears roll down my cheek, I kneeled down and cupped my hand around it.
 //［宏治］：ファル‥‥。
 [Kouji]: Far...
 //［ファル］：ただ、あのエンコーダは、今までにない切り口で斬新だった‥‥それに目を奪われて、本質を見忘れてしまったのね。
-[Far]: However, that Encoder is a portal to a heretofore unseen perspective...if it's taken from before our eyes, its essence will be lost. [RETRANSLATE]
+[Far]: However, that Encoder is a portal to a heretofore unseen perspective...if it's taken from before our eyes, its essence will be lost.
+#[RETRANSLATE]
 //［ファル］：科学は、人類の発展とその豊富に寄与すべきであって、科学者個人の売名や、自己満足の為に行われてはならないのよ。
 [Far]: Since the purpose of science is to make ample contributions to the advancement of mankind, scientists shouldn't do it out of attention-seeking and self-satisfaction.
 //［宏治］：そ、そうだね。（そこまでは考えなかったけど‥‥。）
