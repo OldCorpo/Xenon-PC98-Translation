@@ -43,7 +43,7 @@ This spoke to the high level of the previous civilization.
 //例の既視感覚、というやつだろうか‥‥単なる思い違いか、あるいは予知と呼ばれるものなのか‥‥。
 It might have been deja vu...or it might have been a misunderstanding, or it might have been some sort of precognition  ...
 //だが、構造的に明らかに覚えがあった。私はゆっくりと、記憶の糸を手繰りだした。
-But, I somehow remembered the structure clearly. I slowly unraveled that thread of memory...
+But, I somehow remembered the structure clearly.  I slowly  unraveled that thread of memory...
 //［コウジ］：（そういえば‥‥‥‥。）
 [Kouji]: (Speaking of that...)
 //［コウジ］：（ま、まさか‥‥‥‥。）
@@ -55,7 +55,7 @@ Am I in a dream...?
 //これは、現実ではなかったのか‥‥？
 This isn't reality, is it...?
 //私は夢の中の記憶を頼りに、慎重に進んでいく‥‥。
-Relying on my memories in my dreams, I carefully followed along...
+Relying on my memories in my dreams,  I carefully followed  along...
 //この脇に椅子が置いてあり、そしてこの先の角には階段が‥‥風化しているとはいえ、私の思ったとおりの配置に愕然とする。
 This chair beside me was there, and at this corner before me is a stairway...Even though it was weathered heavily, I was stunned at how well it matched my memory.
 //このドアの向こう側は診療室だったはずだ。そして‥‥‥‥。
@@ -101,7 +101,7 @@ meg02
 //［宏治］：そ、そんなこと言ったって‥‥‥‥。
 [Kouji]: I-if I told you all about that...
 //［恵］：バカ！　涼子先生は、あなたをマインドコントロールで洗脳しようとしていたのよ、バカ！
-[Megumi]: Idiot! Ryouko-sensei brainwashed you using mind control, didn't she, idiot!
+[Megumi]: Idiot!  Ryouko-sensei brainwashed you using mind  control, didn't she, idiot!
 //［宏治］：あ、あまりバカバカ言わないでくれよ‥‥。
 [Kouji]: Please stop calling me an idiot...
 //［恵］：このままだと、あなたは‥‥あなたは死んでしまうのよ！
@@ -165,7 +165,7 @@ ryo01_m
 //［宏治］：実体の無いモノを、記憶？
 [Kouji]: Consciousness...doesn't really exist?
 //［涼子］：実体が無いというのも、語弊があるわね。個体として存在しないというだけよ。
-[Ryouko]: I misspoke when I said it doesn't really exist. Rather, it doesn't exist individually.
+[Ryouko]: I misspoke when I said it doesn't really exist... Rather, it doesn't exist individually.
 //［涼子］：わからない？　じゃあ例えば、磁気情報などはどうかしら。
 [Ryouko]: Do you still not understand? Then for example, how does magnetic information work?
 //［宏治］：磁気‥‥情報？
@@ -321,7 +321,7 @@ Clank...
 //僕は舞の言うとおり、ゆっくりと目を閉じた。
 As Mai said, I slowly closed my eyes.
 //重々しい稼働音が、少しずつ、少しずつ小さくなっていく‥‥。
-A heavy moving sound slowly, gradually became fainter and fainter...
+A heavy moving sound slowly,  gradually became fainter and  fainter...
 //僕は心地よい虚脱感に、身を委ねていった‥‥‥‥。
 I surrendered my body to the pleasant feeling of collapse...
 //Ｅ
