@@ -53,7 +53,7 @@ With that in mind, I fell into deep sleep once more....
 //［コウジ］：夜、か‥‥。
 [Kouji]: It's night, huh...
 //この部屋には、いつもカーテンが閉まっていて、時間の感覚が捉えにくい。
-This room always has the curtains closed, so it's hard to tell the time. 
+This room always has the curtains closed,  so it's hard to  tell the time. 
 //しかし人間の体内には、生物時計とも言うべきものが存在する。私のそれは極めて正確に、現在の時間を言い当てる事ができるのだ。
 However, human bodies have something called a circadian rhythm. Mine is so exceedingly accurate, I can tell the current time.
 //［コウジ］：フン、だいたい午前２時というところか‥‥。
@@ -115,7 +115,7 @@ After finishing the magazine in 5 seconds by speed reading, I nodded, fully sati
 //文明レベルの高低は、低俗度の高低に比例する。レベルが上がれば、内容が洗練されるという訳ではない。
 The level of culture is proportional to the ratio of vulgar material. Even if the level is raised, the material shouldn't get more sophisticated.
 //低俗な風俗紙こそが、庶民どもの生きる糧なのだ。これが多く氾濫しているときは、庶民どもの管理が行き届いているということだ。
-This vulgar custom paper is the bread of the masses. When this floods the market, the masses become more well-managed.
+This vulgar custom paper is the bread of the masses.  When  this floods the market, the masses become more well-managed.
 //逆ではない。庶民が低レベルな風俗に接することができるのは、そう管理されているからだ。
 This doesn't work the other way around. The masses that can engage in low-level customs are that way *because* they are managed.
 //ささやかな生きる喜びを与え、つまらない仕事に目的を見いださせ、低賃金で労働力を酷使する。
@@ -147,7 +147,7 @@ Let's go to sleep.
 //私らしからぬ、非論理的なことを考えてしまった。何のために起きたのか、これではわからないではないか。
 It's not like me to think about such irrational things. Don't I know why I woke up?
 //寝るのは、目的を達成してからでも遅くはない。
-Even as I sleep, it's still not too late to accomplish my objectives.
+Even as I sleep,  it's still not too late to accomplish my  objectives.
 //そう、私にはこれからやることがあるのだ。それは‥‥‥‥。
 Right, I have things I need to do. Those are...
 //シンと静まった廊下に、靴音だけが響きわたっていた。無論、私のだ。
@@ -177,7 +177,7 @@ A heavy, thick door towered before me. I'm just saying, there's got to be someth
 //［コウジ］：（フン、こんなドアは、大宇宙海賊のウルトラスーパーマグナム・キックの前には、紙クズ同然だ。）
 [Kouji]: (Hum, to the galactic pirate's Ultra Super Magnum  Kick, this door is like a piece of crumpled paper.)
 //私が履いている脆弱な靴の底が、このぶしつけなドアをノックしかけた途端、ゴッという風の音と共に扉は左右に開かれた。
-I used the soles of the weak shoes I was wearing to knock on this stubborn door, and, with a sound of a gust of wind, the door opened to the sides.
+I used the soles of the weak shoes I was wearing to knock onthis stubborn door, and, with a sound of a gust of wind, the door opened to the sides.
 //ウィーーン‥‥‥‥。
 *creeeeak*
 //［コウジ］：むっ、くっ、なにを！
@@ -235,7 +235,7 @@ I should open up the socket and look directly inside.
 //［コウジ］：拷問にはいいかもしれんな。
 [Kouji]: Might be good for torture.
 //［コウジ］：よし、いっちょう涼子のやつをこいつに掛けて‥‥。
-[Kouji]: Well then, one day, I'll use this on that Ryouko person...
+[Kouji]: Well then, one day,  I'll use this on that Ryouko  person...
 //［コウジ］：フム、何故かわくわくしてしまうな。あの女は、どうやらイジメ甲斐がありそうだ。
 [Kouji]: Hum, why am I getting so excited? That woman seems to be worth teasing.
 //ウルトラスーパーマグナム・キックをお見舞いしてやろう。
@@ -249,11 +249,11 @@ Gooooo...
 //［コウジ］：なぜ、目から涙がにじみでているのだ‥‥？
 [Kouji]: Why are tears coming out of my eyes...?
 //［コウジ］：フム、この脆弱な肉体では、恐らくマグナムキックの１００分の１ほどの威力も出まい。
-[Kouji]: Hmph, this puny body is probably only capable of putting out 1% of the Magnum Kick's power.
+[Kouji]: Hmph,  this puny body is probably only capable of  putting out 1% of the Magnum Kick's power.
 //［コウジ］：フン、このくらいで勘弁しておいてやろう。
 [Kouji]: Hum, I should probably apologize about this.
 //マシンから顔を上げると、私は近くの椅子に座り、一息吐く。
-I lifted my head out of the machine, sat down in a nearby chair, and let out a sigh.
+I lifted my head out of the machine,  sat down in a nearby  chair, and let out a sigh.
 //どうやら伝送系ルーチンに、バグが残っているらしい。そこのアルゴリズムを正せば‥‥。
 The transmission system routine has a bug in it. If the algorithm in it were fixed...
 //［コウジ］：いや、これはダメだな‥‥。
@@ -267,7 +267,7 @@ However, the probability of that success is nearly 0...
 //いや、その確率にあたったからこそ、私が今ここにいる訳だ。
 No, it's *because* we hit that activation that I'm even here.
 //こちらから強制的に意識を投影しても、恐らく思念体の強制排他がおきるだけだ。恐らく数秒しかシンクロできまい。
-Forcibly projecting my consciousness from here likely also caused the forced exclusion of only the thought body. I probably can't synchronize for more than a few seconds.
+Forcibly projecting my consciousness from here likely also  caused the forced exclusion of only the thought body. I probably can't synchronize for more than a few seconds.
 //［コウジ］：フン、まぁいいだろう。
 [Kouji]: Hum, well, that's just fine.
 //私が立ち上がりかけたとき‥‥。
@@ -351,7 +351,7 @@ Then, tell me about the fundamental concepts behind this machine.
 //［沙夜香］：バグが‥‥？
 [Sayaka]: A bug?
 //［コウジ］：これは致命的なものだ。だが運良く、同じ時間位相軸上で、同コンセプトのマシンが稼働していたために、被験者の思念体は、彼方へと時間を越えていったのだ。
-[Kouji]: This is a crucial flaw. But luckily, because our temporal phases aligned, I was moved from a machine with the same concept, and the subject's thought body was moved to that time.
+[Kouji]: This is a crucial flaw.  But luckily, because our  temporal phases aligned, I was moved from a machine with the same concept, and the subject's thought body was moved to  that time.
 //［沙夜香］：な、何のことを言っているの‥‥。
 [Sayaka]: W-what are you talking about...?
 //［コウジ］：普段だったら、被験者の脳シナプスの２～３万本は、焼き切れていただろうがな‥‥。
@@ -367,7 +367,7 @@ Then, tell me about the fundamental concepts behind this machine.
 //［沙夜香］：ちょっと、涼子先生、いきなり‥‥。
 [Sayaka]: Hold it, Ryouko-sensei, what is...
 //［涼子］：ホホホ、ごめんなさいね、沙夜香さん。それじゃ‥‥。
-[Ryouko]: Hohoho, sorry about that, Sayaka-san. Well, then...
+[Ryouko]: Hohoho, sorry about that, Sayaka-san. Well, then  ...
 //［コウジ］：では、貴様のスリーサイズを言ってみろ。
 [Kouji]: Then, tell me your three sizes.
 //［沙夜香］：はぁ？
@@ -481,7 +481,7 @@ Ryouko laid down on the bed and glanced at me seductively.
 //［涼子］：うん。ほら、ね？
 [Ryouko]: Yes. See?
 //わかるでしょ？　という表情で、涼子は両肩を揺らせた。形の良いバストも、それに付随して揺れている。
-With a knowing look, Ryouko shook her shoulders. Her well-shaped bust swayed with them.
+With a knowing look, Ryouko shook her shoulders. Her well-  shaped bust swayed with them.
 //［コウジ］：意味がわからんが‥‥。
 [Kouji]: I don't think I understand...
 //［涼子］：ねぇ宏治クン、ほら、こっちにきて。
@@ -539,7 +539,7 @@ The shaking made its way to me this time. The very air was  tingling.
 //［コウジ］：フン、ではあの沙夜香とやらに、伝送系のデバッグ方法を教える事にしよう。
 [Kouji]: Hum, or I will teach that Sayaka and others how to debug that transmission.
 //涼子の顔には、あからさまに動揺と焦りの表情が浮かんだ。フン、おちたも同然だな。
-Ryouko's face showed outright denial and impatience. Hum, it's only natural that she fell.
+Ryouko's face showed outright denial and impatience.  Hum,  it's only natural that she fell.
 //［涼子］：ま、待って！
 [Ryouko]: H-hold it!
 //［コウジ］：何だ？
@@ -657,7 +657,7 @@ Fluid gushed from Ryouko's flower onto her thighs. As it came out, her folds ent
 //［コウジ］：もっともっと、しめてみろっ！
 [Kouji]: Tighten up even more for me!
 //［涼子］：あぁぁぁ、こう？　こうっ！？
-[RYouko]: Aaahhh, like this? Like this?!
+[Ryouko]: Aaahhh, like this? Like this?!
 //［コウジ］：もっとだ、もっと！
 [Kouji]: More, MORE!
 //［涼子］：んんーーっ、あはぁっ、もう、これ以上しまらないっ！
@@ -665,7 +665,7 @@ Fluid gushed from Ryouko's flower onto her thighs. As it came out, her folds ent
 //ずりゅっ、ずちゅっ、ぐちゅっ、むちゅぅ‥‥。
 Slurp, slurp, slurp, slurp...
 //涼子の花弁は、どん欲に私のモノを捉えて放さない‥‥。
-Ryouko's flower petals greedily hung onto my dick without letting go...
+Ryouko's  flower petals greedily hung onto my dick without  letting go...
 //挿入する時は押し返すように、抜く時は放さないように、心地よい感覚をもたらしていた。
 As I pushed, she resisted, and as I pulled, she held on, making it quite pleasurable.
 //［涼子］：あぅ、もっと足を持ち上げて‥‥あぁぁ、そうよっ！
