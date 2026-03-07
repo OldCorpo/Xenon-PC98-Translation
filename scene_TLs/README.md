@@ -9,6 +9,9 @@ Inserting noncompliant or unsupported characters may break things. Be aware of t
 
 Translation should be done in a single line.
 
+Any comments or translation notes should be added to the line after the translation
+starting with this sign #, example: #This is a comment.
+
 It doesn’t appear to be a character limit, but the textbox has a maximum display
 capacity, be aware of that when editing.
 
