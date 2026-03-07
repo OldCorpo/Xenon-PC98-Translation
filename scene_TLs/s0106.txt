@@ -73,7 +73,7 @@ I gave casual replies, and examined what she said earlier.
 //［コウジ］：（もう１人の、生き残り‥‥？）
 [Kouji]: (Another person survived...?)
 //ファルは、さも当然という趣で言ったようだった。とすると、今から会うその人は、私に何か関係するのかもしれない‥‥。
-Far spoke as if it were a matter of course. It seemed the person I would meet this time had some kind of connection to me...
+Far spoke as if it were a matter of course. It seemed the person I would meet this time had some kind of connection to  me...
 //そんなことを考えながら、私はある一室へと案内された‥‥。
 As I pondered this, I was guided to a room...
 //確か、室内に内線があったはずだが‥‥。
@@ -113,7 +113,7 @@ The ship's interior map displayed in front of me. It doesn't seem far from here 
 //第２次調査隊の生き残り、か。何か、気になる‥‥。
 A survivor from the second investigative team. I'm interested...
 //私は、マップを頭の中に思い浮かべながら、部屋を出ていった‥‥。
-I pulled the map from my memory and headed out of the room...
+I pulled the map from my memory and headed out of the room  ...
 //ムワっとする暖気も相まって、不快感はより増大する。私は早足で、廊下を進んでいった。
 Coupled with the suffocating warm air, my sense of unease grew. I headed down the hallway at a quick pace.
 //［コウジ］：（確か、あの角をまがってすぐの所にあったはずだ‥‥。）
@@ -217,7 +217,7 @@ With good timing, Far called out to me.
 //［ファル］：まず、私たちが何故ここにいるかを話した方が、いいかもね。
 [Far]: But first, you need to know why we are here. That's  fine, right?
 //［ファル］：ここは、辺境のナーズ星域。数年前、この惑星の１つから、先史文明の遺跡が発見された‥‥。
-[Far]: This is the {Nuz} star cluster. A few years ago, on one of these planets, we discovered the ruins of a prehistoric civilization...
+[Far]: This is the {Nuz} star cluster. A few years ago, on  one of these planets, we discovered the ruins of a prehistoric civilization...
 //［コウジ］：‥‥先史文明？
 [Kouji]: A prehistoric civilization?
 //［ファル］：風化寸前の、化石のような遺跡らしいけど、知的生命体の傍証になるかもしれないと、考古学者たちは驚喜しているわね。
@@ -261,7 +261,7 @@ With good timing, Far called out to me.
 //［ファル］：そう、エイレートに接近したとき、先の第１次、第２次調査隊は全滅してしまった‥‥。
 [Far]: That's right. Since they came close to {Eirate}, the first and second investigative teams were wiped out...
 //［ファル］：同じ轍を踏まないよう、私たちは惑星圏外から、エンコーダを使用して調べていたの。
-[Far]: We won't be going into the same rut, since we'll be outside the planetary sphere, and using the encoder to investigate.
+[Far]: We won't be going into the same rut, since we'll be  outside the planetary sphere, and using the encoder to investigate.
 //［コウジ］：あの、棺桶みたいな装置か‥‥。
 [Kouji]: Um, the coffin-like devices are...
 //［ファル］：そう、あれがエンコーダ。
@@ -311,11 +311,11 @@ Bianca, was it...
 //［ファル］：どうしたの、ランファ‥‥‥‥。
 [Far]: What is it, Lanhua...
 //［コウジ］：（私は、第２次調査隊の生き残り、か‥‥。）
-[Kouji]: (I was a survivor from the second investigative team...)
+[Kouji]: (I was a survivor from the 2nd investigative team  ...)
 //［コウジ］：（唯一では無くなったらしいがな‥‥。）
 [Kouji]: (Not the only one anymore, I suppose...)
 //［コウジ］：（手がかりは、第２次調査隊だけか‥‥‥‥。）
-[Kouji]: (This is a clue to just the second investigative team...)
+[Kouji]: (This is a clue to just the 2nd investigative team ...)
 //［ファル］：コウジ、どうしたのよ、コウジ！
 [Far]: Kouji, what are you doing? Kouji!
 //fa_ba_b
@@ -385,7 +385,7 @@ From then, we exchanged no words. I seemed to be included,  but...
 //ファルは私に、ヘルメットのようなものを手渡しながら、説明をしている。
 Far handed me a helmet-like thing and explained it to me.
 //一時的な酸素不足などに、対処するだけのものらしい。宇宙空間に放り出されたら、無論どうしようもない。
-This device was only to be used in times of insufficient oxygen. As it would be released into outer space, I had to be careful with it.
+This device was only to be used in times of insufficient oxygen. As it would be released into outer space, I had to be  careful with it.
 //ま、言ってみれば気休めみたいなものだった。
 Well, put that way, it was only there to ease our minds.
 //［ファル］：じゃ、私が操縦するから、２人は後部座席に座って頂戴。
@@ -475,7 +475,7 @@ Being bent in such a narrow space, my legs were painfully cramped, so even thoug
 //でもそれを余裕と受け取られるのは不本意だった。緊張はしている。が、訂正する必要も感じなかった。
 However, I was reluctant to take advantage of that freedom. I was still nervous, and I didn't need to correct that feeling.
 //私は黙って、狭いコクピットから抜け出していった‥‥。
-I was silent for a bit as I got out of that narrow cockpit...
+I was silent for a bit as I got out of that narrow cockpit  ...
 //［ファル］：どうやら、着いたようね‥‥。
 [Far]: What's the matter? We've arrived...
 //［ファル］：どうしたの？　コウジ。
@@ -579,7 +579,7 @@ I operated the wall panel, and entered the engine room...
 //格納庫に戻ってみよう‥‥。
 Let's head back to the hangar...
 //まだ、あそこでやり残したことがあるような気がする‥‥慎重に事を運ぶに、こしたことはないだろう。
-I got the feeling that there would be evidence left behind there...If they had carried out things carefully, there wouldn't be any.
+I got the feeling that there would be evidence left behind  there...If they had carried out things carefully, there wouldn't be any.
 //私は、ブリッジを後にした‥‥。
 I faced away from the bridge...
 //ムワッとした暖気が、私を襲ってきた。
@@ -751,7 +751,7 @@ As I walked, my footsteps echoed all around me.
 //シャトルのエンジン付近だけは、ものすごい熱を帯びていた。そばを通ると、頬の反面だけ、ジリジリと焼けこげるような感覚を覚える‥‥。
 As I got closer to the shuttle's engine, I felt an incredible warmth. As I walked past it, the other side of my cheek felt like it was burning...
 //あたりの水蒸気は、もう真っ白く気化していて、幻想的な雰囲気を漂わせていた‥‥。
-The steam around me gave this place a dream-like sensation...
+The steam around me gave this place a dream-like sensation  ...
 //生存者とおぼしい人は、見つかりそうもない‥‥格納庫内には、私が１人いるだけだろう‥‥。
 I couldn't see any survivors or strangers around...It seemed I was the only one in the hangar.
 //そうだ、クルーの個室も調べてみたら‥‥。
@@ -799,7 +799,7 @@ It felt as though no one had been here for years. It was quite likely no one was
 //私は部屋の奥へ入っていくと、丁度や間取りなどを確認した。間取りは、ファルたちのシップと、そう大差はなさそうだ。
 I walked toward the back of the room, confirming the layout of the room. It was roughly similar to the one on Far's ship.
 //ついたてのようなカーテン、ベッド、脇の通信パネル、端末、机と‥‥
-The well-ordered curtains, beds, side communication panels,  terminals, desks, and...
+The well-ordered curtains, beds, side communication panels, terminals, desks, and...
 //ん？
 Hm?
 //［コウジ］：これは‥‥‥‥。
@@ -823,7 +823,7 @@ The smell of the unique reddish brown paper pierced my nose. I quickened my pace
 //最後の数ページに差し掛かったところから、私はその航海日誌を熟読し始めていた。
 As I got to the last few pages of the logbook, I started to read the records more carefully.
 //宇宙時間：１４５２：０１７０ 今日も１人倒れた‥‥これで３人目だ。このままでは、我が調査隊は全滅してしまう。ヤツが来てからだ‥‥第１次調査隊の生き残りである、あいつが‥‥‥‥。
-UNIVERSAL TIME: 1452:0170 Today, another person fell. That makes 3. At this rate, we, the investigative team, will all be eliminated. It started when that person came...the survivor from the first investigative team...
+UNIVERSAL TIME: 1452:0170 Today, another person fell. That  makes 3. At this rate, we, the investigative team, will all be eliminated. It started when that person came...the survivor from the first investigative team...
 //［コウジ］：（第１次調査隊の、生き残り‥‥？）
 [Kouji]: (A survivor from the first investigative team...?)
 //後は、読解が困難な筆跡になっていて、読みとることができない。私は紙を傷めないよう慎重に、ページをめくっていった。
@@ -847,7 +847,7 @@ At the end of the logbook...What could this mean?
 //私はＭＤを傍らに置くと、最後のページをゆっくりと読み始めた。
 I placed the micro disc next to me, and started slowly reading the last page.
 //何という事だ。ヤツは‥‥何という事だ。この映像記録用のＭＤが無ければ、見誤るところだった。先史文明の遺跡だと！？　違う、ヤツは‥‥‥。
-What does this mean? That person...What does it mean. If I didn't have this micro disc for recording video, it'd be hard to understand. Is this a remnant of the previous civilization? No, that person...
+What does this mean? That person...What does it mean. If I  didn't have this micro disc for recording video, it'd be hard to understand. Is this a remnant of the previous civilization? No, that person...
 //航海日誌は、ここで終わっていた‥‥‥‥。
 The logbook ended here...
 //［コウジ］：（このＭＤに、何が記録してあるんだろうか‥‥。）
@@ -927,7 +927,7 @@ As I looked down the line of doors, it seemed impractical to investigate room by
 //［コウジ］：（時間は、大丈夫なのかな‥‥。）
 [Kouji]: (Do I have enough time...)
 //［コウジ］：（そうだ、格納庫のシャトルの所で、ファルたちと待ち合わせをしていたな。）
-[Kouji]: (That's right, I said I would meet with Far and Lanhua by the shuttle in the hangar...)
+[Kouji]: (That's right, I said I would meet with Lanhua and Far by the shuttle in the hangar...)
 //ふと、エンジンルームの大きなドアが目にとまる。エンジンの稼働音が、振動とともに伝わってきた。
 Suddenly, the engine room's big door caught my eye. 
 //［コウジ］：（ランファ、まだいるのかな‥‥‥‥。）

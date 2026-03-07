@@ -21,7 +21,7 @@ Besides...
 //何だろう、この音は。
 What's that sound?
 //重々しいサウンドが、耳に響いてくる‥‥‥‥。
-A loud, heavy sound reverbrated through my ears...
+A loud, heavy sound reverberated through my ears...
 //いったいこれは‥‥‥‥。
 What in the world...?
 //0050
@@ -33,7 +33,7 @@ What in the world...?
 //身を起こした私の目の前には、重厚なサウンドを醸し出している、異様に大きな機械が稼働していた‥‥。
 I got up, and faced a gigantic, strange machine emitting a  loud, heavy sound as it operated.
 //コンソールパネルや、何かのランプが、ちかちかと点滅している。ずっと見ていると、目が痛くなってきそうだ。
-The console panels and some sort of lights were flickering wildly. If I kept looking at it, my eyes would start to hurt.
+The console panels and some sort of lights were flickering  wildly. If I kept looking at it, my eyes would start to hurt.
 //（この暑さは、これのせいか‥‥‥‥。）
 (Is the heat because of this...?)
 //（やけに、大きな機械だな‥‥しかも、騒々しい。）
@@ -47,7 +47,7 @@ What... what in the world is this place?
 //頭が痛かった‥‥。何故か、身体の節々が痛む。
 My head was hurting. For some reason, my joints ached, too.
 //あごの下をぬぐうと、滝のように汗が滴っていた。身体は冷えているのに、汗が止まらない‥‥そんな感じだった。
-Wiping the base of my chin, I realized it was drenched in waterFarls of sweat. Though I was growing cold, I couldn't seem to stop sweating.
+Wiping the base of my chin, I realized it was drenched in waterfalls of sweat. Though I was growing cold, I couldn't seem to stop sweating.
 //何故、こんなに暑いんだろうか‥‥‥‥。
 Why is it so hot...?
 //暑く、息苦しく、騒々しい場所‥‥‥何分もいられる所ではなさそうだった。
@@ -81,7 +81,7 @@ It was not the time to be wondering this. It was clear that piercing sound was c
 //レバーを元に戻してみる‥‥たが、鳴り響くこの耳障りな音は、一向にやむ気配がない。
 I tried to push back the lever. But that deafening sound didn't stop.
 //暑く息苦しい上に、けたたましいこの騒音によって、私の脳内神経は今にも麻痺しそうだった。
-Not only was the atmosphere hot and stifling, but I also felt like my brain nerves were becoming paralysed every second that clamorous sound was roaring.
+Not only was the atmosphere hot and stifling, but I also felt like my brain nerves were becoming paralyzed every second that clamorous sound was roaring.
 //私が、ドアに体当たりをしようとしたとき‥‥‥‥。
 The moment I tried to ram the door open...
 //（音が‥‥‥‥。）
@@ -337,7 +337,7 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［ファル］：私は超心理学者のファル、ファルネリア‥‥。
 [Far]: I am Far, Farneria, a parapsychologist.
 //［ファル］：あなたは、第２次調査隊の唯一の生き残りとして、私たちに救助されたの‥‥‥。
-[Far]: You are the sole survivor from the Second Investigative Squadron, and we rescued you.
+[Far]: You are the sole survivor from the 2nd Investigative Squadron, and we rescued you.
 //［コウジ］：‥‥！？
 [Kouji]: ‥‥！？
 //唯一の‥‥‥‥
@@ -432,7 +432,7 @@ If I think about it,
 //頭の上の辺りから、音が聞こえてくる。良く見ると、モニターらしきものとパネルが、壁に付いていた。
 I heard a sound coming from above my head. Looking up, I saw a monitor-like panel was hanging on the wall.
 //［コウジ］：そういえばさっき、あのファルという女性も‥‥。
-[Kouji]: Come to think of it, just now, that girl named Fal also...
+[Kouji]: Come to think of it, just now, that girl named Far also...
 //私は、さきほどのエンジンルームでの事を思い出した。確か、このあたりのボタンを‥‥‥‥。
 I thought of the event in the engine room. Indeed, the button around here was...
 //［女］：あっ、お休みでしたか？
@@ -620,7 +620,7 @@ Then that means...
 //第１次もある訳か‥‥‥‥。
 There was a first team here too...
 //ファルたちは、さしずめ第３次調査隊、というところだろうか‥‥‥‥。
-Far and her team would then be the third investigative team...
+Far and her team would then be the third investigative team ...
 //何の調査なんだろうな‥‥。
 What could they be investigating?
 //ドアの前にやってくると、私は手を差し伸べた。少し、緊張する。
@@ -762,7 +762,7 @@ As she said that, my memory became fuzzy...
 //ついさっきとは、いったいいつ頃のことを指すんだろうか‥‥。
 When did "just a while ago" even refer to, anyway...?
 //そう、私は確かトレイシーという女性と話をした‥‥その前は‥‥。
-Right, I was just talking to that Tracy woman...before that...
+Right, I was just talking to that Tracy woman...before that ...
 //その前は、エンジン部で、ファルから自分の名前を聞いた‥‥。
 Before that, in the engine room, I learned Far's name from  her...
 //じゃあ、その前は‥‥‥‥？

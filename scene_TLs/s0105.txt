@@ -23,7 +23,7 @@ s0105
 //［宏治］：ええ、妙な感じです。
 [Kouji]: Hmm, it's a strange feeling.
 //［涼子］：オカルトマニアなんかは、たいてい超常現象と結びつけたがるのだけどね。
-[Ryouko]: Because of a recent uptick in occultomania, this kind of thing seems to be frequently associated with paranormal phenomena.
+[Ryouko]: Because of a recent uptick in occultomania, this  kind of thing seems to be frequently associated with paranormal phenomena.
 //［宏治］：涼子先生は？
 [Kouji]: Doctor Ryouko, what do you think?
 //［涼子］：私はこう見えても科学者よ、宏治クン。
@@ -77,7 +77,7 @@ It felt the same as always.
 //静かな昼下がり、人の姿があまり見えない往来の廊下、そしてむせ返りそうな気温と湿度‥‥。
 In the quiet afternoon, I didn't see anyone in the corridor, and the weather seemed to be returning to normal.
 //空調設備は稼働しているはずだが、額を拭うと、手の甲にべっとりと汗が付着する。相変わらず蒸し暑い気温に、辟易してしまう。
-Even though the air conditioning unit seemed to be on, as I wiped my forehead, sweat stuck to my fingernails. The usual humid, hot summer air frustated me.
+Even though the air conditioning unit seemed to be on, as I wiped my forehead, sweat stuck to my fingernails. The usual humid, hot summer air frustrated me.
 //［宏治］：（廊下に、エアコンは付いていないのかな‥‥‥。）
 [Kouji]: (There doesn't seem to be any air conditioning in  the corridor...)
 //熱気と湿気が廊下一杯に広がっていて、僕の不快感をより一層増加させていた。
@@ -255,7 +255,7 @@ As usual, her intonation of "-san" was a little weird, but  had its own charm...
 //［宏治］：舞さん、さっき見かけて声を掛けようとしたんだけど‥‥。
 [Kouji]: Mai-san, I saw you just a while ago, and tried to  talk to you, but...
 //何だか、少し言いにくそうだった。目は伏し目がちだし‥‥どうしたんだろう。
-It was pretty hard to spit it out. I cast my gaze downwards...what do I do?
+It was pretty hard to spit it out. I cast my gaze downwards ...what do I do?
 //［沙夜香］：あら、宏治。どうしたの？　誰なの、この女の子。
 [Sayaka]: Hey, Kouji. What's going on? Who's this girl?
 //そうだった‥‥沙夜香はずいと僕の隣に陣取り、舞を品定めするような視線を送っていたのだ。
@@ -295,9 +295,9 @@ She much preferred sticking to my business.
 //［宏治］：本当に、大丈夫なのかな‥‥‥‥。
 [Kouji]: Will it really be all right?
 //大丈夫な訳がないのだが、沙夜香の好奇心に満ちた目を見ていると、なんだか非常に断りにくい。
-I didn't really care whether it was all right, but looking into Sayaka's curiosity-filled eyes, it was incredibly difficult to turn her down.
+I didn't really care whether it was all right, but looking  into Sayaka's curiosity-filled eyes, it was incredibly difficult to turn her down.
 //実は彼女、僕がそう考えているのを見越して、ゴネているんじゃないかと思われる節もある。どうも、やりにくかった。
-In truth, her anticipating me thinking that way made me think I could just be making it hard on myself. Either way was difficult.
+In truth, her anticipating me thinking that way made me think I could just be making it hard on myself. Either way was  difficult.
 //［沙夜香］：ほら、早く行きましょうよ。
 [Sayaka]: Come on, let's go now.
 //［宏治］：本当に知りませんよ‥‥。
@@ -307,11 +307,11 @@ We left together for that place...
 //不思議と廊下には誰もおらず、すんなりと例の場所へやってくることができた。
 Incredibly, no one else was in the corridor, and we could get going smoothly.
 //隣の沙夜香はその間ずっと黙っていたが、一際大きなドアの前へやってくると、露骨に鼻を膨らませて、僕の腕をぎゅっとつかんでくる。
-The entire time, Sayaka was pretty quiet beside me, but as soon as we reached the great door, she flared her nostrils and clung to me tightly.
+The entire time, Sayaka was pretty quiet beside me, but as  soon as we reached the great door, she flared her nostrils  and clung to me tightly.
 //まるで遊び道具を見つけた子供だ。
 She seemed like a child who had just found a new toy.
 //僕はゆっくりと、壁にあるスイッチを入れた。ドアが開いた瞬間、耳鳴りがするほどの気流を感じる。それほど、内外の温度差が激しいのだろう。
-I quickly flipped the switch on the wall. When the door opened, the air flowing made my ears ring, and the temperature difference between inside and outside gave me chills.
+I quickly flipped the switch on the wall. When the door opened, the air flowing made my ears ring, and the temperature  difference between inside and outside gave me chills.
 //僕ら２人は、室内へそっと入っていった。
 The two of us carefully entered the building.
 //［沙夜香］：これが‥‥‥‥。
@@ -523,7 +523,7 @@ When I realized she was making fun of me, Ryouko had already disappeared into th
 //僕は早々に部屋を退出することにしたが、僕の背後から涼子の声が聞こえてくる。
 I left the room early, but from behind, I overheard Ryouko's voice.
 //［涼子］：そういえば、舞さんがあなたを捜していたわよ‥‥。
-[Ryouko]: Come to think of it, Mai-san was looking for you...
+[Ryouko]: Come to think of it, Mai-san was looking for you  ...
 //［涼子］：そういえば、恵さん、ロビーにいたわよ‥‥。
 [Ryouko]: Also, Megumi-san was in the lobby...
 //相変わらず、外は蒸し暑かった。
@@ -565,7 +565,7 @@ To get to the lobby, it wouldn't hurt to use the stairs...
 //さすがに、ロビーにはある程度の人を見かけることができた。僕はゆっくりと辺りを見回してみる。
 Indeed, I might be able to see some people in the lobby. I  slowly looked around me.
 //インフォメーションボードには、現在の場所やら設備の詳細が記されている。あらためて見ると、意外に広い。
-The current location and facility details were recorded on the bulletin board. As I looked at it again, it felt quite wide.
+The current location and facility details were recorded on  the bulletin board. As I looked at it again, it felt quite  wide.
 //３階建ての建物ではあったが、横への広がりが充実していた。この狭い国には、いささか相応しくない造りと言える。
 The third floor's buildings were displayed, but there was a substantial spread off to the side. It was a little unfitting for a confined country like ours.
 //［恵］：宏治！
@@ -615,7 +615,7 @@ A lively voice rang out. That must mean...
 //［宏治］：‥‥まさか。
 [Kouji]: ...You're kidding.
 //［恵］：だから宏治、あなたも気を付けないと。
-[Megumi]: Come on, you've felt the same way, haven't you, Kouji?
+[Megumi]: Come on, you've felt the same way,  haven't you,  Kouji?
 //［宏治］：考えすぎだよ、恵は。
 [Kouji]: You're overthinking it, Megumi.
 //［恵］：最近あなた、身体に不調とか、ない？

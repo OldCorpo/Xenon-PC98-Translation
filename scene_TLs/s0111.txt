@@ -5,7 +5,7 @@ The planet was a damp, dark place...
 //ちょうど、夜の側に入ってしまったからだろうが、全体的に暗く、湿度が高い。
 We just entered the night side, so it was entirely dark, but still warm.
 //砂漠と見間違うほど、あたり一面に砂丘が広がっていた。砂丘のあちこちから、何かの建造物とおぼしい遺跡が突出しているのが確認できる。
-As if we had mistakenly entered a desert, one side of our surroundings was covered by a wide sand dune. All around the sand dune, we could make out some sort of buildings and odd ruins sticking out.
+As if we had mistakenly entered a desert,  one side of our  surroundings was covered by a wide sand dune. All around the sand dune, we could make out some sort of buildings and odd ruins sticking out.
 //［コウジ］：（かつての文明のレベルは、それほど低くは無かったのかもしれないが‥‥。）
 [Kouji]: (The civilization that was once here, was probably pretty advanced...)
 //長い年月のあいだ、恒星の強い光と風雨にさらされて、もはや原型をとどめぬほど色あせ、風化していた。
@@ -39,7 +39,7 @@ As I awakened, I opened my eyes to look....
 //［ファル］：ゴメンね、コウジ‥‥痛かった？
 [Far]: Sorry, Kouji...Did it hurt?
 //少しすまなそうな表情をしながら、ファルは私の身体を抱きかかえていた。意外に顔が近いので、少し焦ってしまう。
-Far made a somewhat apologetic expression as she helped me up. Because she brought her face very close to mine, I was slightly panicked.
+Far made a somewhat apologetic expression as she helped me  up. Because she brought her face very close to mine, I was  slightly panicked.
 //［コウジ］：べ、別にその‥‥こっちこそ、ゴメン。
 [Kouji]: No, not really...I'm sorry, too.
 //［ファル］：いつまでも銃を突きつけられてるのって、ストレス溜まるのよね。
@@ -47,7 +47,7 @@ Far made a somewhat apologetic expression as she helped me up. Because she broug
 //ファルはクスっと笑みをこぼしながら、傍らの手で銃を弄んでいた。少し心臓の動悸が速くなる。
 Far let out a giggle and played with the gun in her hand. My heart beat a bit faster.
 //［ファル］：あら、少し恐怖の色が出たわね‥‥フフ、安心して。
-[Far]: Ara, you're turning a slightly frightened color...Hehe, calm down.
+[Far]: Ara, you're turning a slightly frightened color ...  Hehe, calm down.
 //［ファル］：ま、セーフティロックは掛かったままだったから、身の危険は感じなかったけど。
 [Far]: Well, the safety is on, so I didn't feel any danger  to our bodies.
 //［コウジ］：そ、それって‥‥‥‥。
@@ -59,11 +59,11 @@ Far let out a giggle and played with the gun in her hand. My heart beat a bit fa
 //［ファル］：正直言うと、こうして話している今も、半信半疑なんだけどね。
 [Far]: Speaking honestly, even now, I only half-believe you.
 //［ファル］：でも、私に銃を突きつけてる間も、私の事を気遣ってくれてたし、酷いこともしなかった‥‥。
-[Far]: However, even when you were poking me with a gun, you cared about me, and you didn't do anything terrible to me....
+[Far]: However, even when you were poking me with a gun, you cared about me, and you didn't do anything terrible to me  ....
 //［ファル］：だから‥‥‥‥。
 [Far]: That's why....
 //［コウジ］：ゴメン、あのときは、ああする他は無かった‥‥。
-[Kouji]: Sorry, at that time, there was nothing else to do...
+[Kouji]: Sorry, at that time, there was nothing else to do  ...
 //［ファル］：うん、わかってる。
 [Far]: Yes, I understand.
 //ファルは、少しだけあたりを見回した。どんよりと曇った空から、パラパラと雨が降り注ぎはじめている。
@@ -91,7 +91,7 @@ I took back the gun she presented. I had a feeling I wouldn't need it from here 
 //［ファル］：そうかしら‥‥。
 [Far]: Is that so....
 //ゆっくりと立ち上がると、身体に付いた砂を手ではらった。砂が風にのって、パラパラと舞っていく。
-As I slowly stood up, I brushed the sand off my body. The sand was picked up by the wind, abrasively dancing as it went.
+As I slowly stood up, I brushed the sand off my body.  The  sand was picked up by the wind, abrasively dancing as it went.
 //私は１人、地平線のかなたに見えかくれする、黒々しい巨大な遺跡に向かって歩き出した。
 I set foot alone towards the huge black ruins showing beyond the horizon.
 //ファルの視線を背中に感じながら‥‥‥‥。

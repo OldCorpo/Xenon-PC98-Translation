@@ -41,7 +41,7 @@ Well, it's no use thinking over it here.
 //このまま自室に戻って、少し休もう。
 I'll return to my room to get some rest.
 //僕の自室は３階にある。ここ２階から、階段１階分だけ上らなくてはならない。
-My room was on the third floor. As I was now on the second floor, I'll have to traipse up just one floor using the stairs.
+My room was on the third floor. As I was now on the second  floor, I'll have to traipse up just one floor using the stairs.
 //［宏治］：（疲れるな‥‥‥‥。）
 [Kouji]: (I'm pooped...)
 //他人に聞かれたら呆れられそうだったが、実際、今の僕は頭がぼやけていて、足どりも至極重い。
@@ -289,7 +289,7 @@ Her relieved demeanor gave off the air of a digital girl, but whenever she met w
 //［恵］：えぇ、気持ちよかった。エネルギー充てんというところね。
 [Megumi]: Yeah, it felt so good. I refilled my stamina!
 //［宏治］：僕はもう、死にそうだよ‥‥。
-[Kouji]: On the other hand, I'm about to die from weariness...
+[Kouji]: On the other hand, I'm about to die from weariness ...
 //［恵］：泣き言は聞きたくない。
 [Megumi]: I don't want to hear your whining.
 //［宏治］：泣き言じゃないよ、本心だ。
@@ -435,7 +435,7 @@ I may have over-thought it, but I felt she was rubbing salt in the wound with th
 //［宏治］：規則規則って、いつも規則を破ってるくせに‥‥。
 [Kouji]: You're one to talk, you always break them as soon  as you can.
 //［沙夜香］：あら、たまに宏治クンと、夜更かししたりする程度じゃない。
-[Sayaka]: Well, only enough to spend the night with Kouji-kun once in a while...
+[Sayaka]: Well, only enough to spend the night with Kouji-  kun once in a while...
 //［宏治］：ちょっ‥‥冗談でも、そんなこと恵には言わないで下さいよ。
 [Kouji]: Hey-Even if it's a joke, please don't say that to  Megumi.
 //［沙夜香］：残念ねぇ、２人でしっぽりと濡れたあの夜のことを‥‥。
@@ -521,7 +521,7 @@ saya01
 //パラパラと音をたてて、ボタンが床に散らばっていった。
 With a clattering noise, the buttons scattered on the floor.
 //いわゆる立ちくらみに似ている。倒れる際、ブラウスに手を引っかけて、ボタンを全て外してしまったようだ。
-As if in a dizzy spell from standing up too quickly, so to speak, while collapsing, I'd grabbed onto her blouse, inadvertently tearing all its buttons off.
+As if in a dizzy spell from standing up too quickly, so to  speak, while collapsing, I'd grabbed onto her blouse, inadvertently tearing all its buttons off.
 //saya01_m
 saya01_m
 //［沙夜香］：ひっどーい、このベストとブラウス、まだおニューだったのに‥‥。

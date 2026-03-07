@@ -109,7 +109,7 @@ What day of the week and what day is it today?
 //［舞］：はい‥‥‥‥。
 [Mai]: OK......
 //舞は消え入りそうなか細い声で返事をすると、涼子の後にトコトコと付いていく。
-As Mai replied in a faint, almost disappearing voice, she walked away behind Ryouko.
+As Mai replied in a faint, almost disappearing voice,  she  walked away behind Ryouko.
 //［宏治］：舞さん。
 [Kouji]: Mai-san.
 //［宏治］：舞さん、その‥‥‥‥。
@@ -139,7 +139,7 @@ In the dark, cold rooftop, I pondered that...
 //あたりは静かだった。ここへやって来るまで、誰にもすれ違わず、動く者は僕以外にいそうもなかった。
 It was quiet around me. No one had passed by me on my way here, as if I were the only one moving around.
 //もともと、この医療センターは人が多い方ではなかった。時間を考えれば当然と言えるかもしれないが、受付に誰もいないというのはどういうことだろうか。
-There weren't a lot of people in this clinical center to begin with. If I consider the time, I might say it's natural, but even at the reception, no one was there.
+There weren't a lot of people in this clinical center to begin with. If I consider the time, I might say it's natural,  but even at the reception, no one was there.
 //［宏治］：（夢の風景みたいだな‥‥。）
 [Kouji]: (This atmosphere feels like a dream...)
 //いや、これは現実だ‥‥現に、今こうして誰にも会わなかったじゃないか‥‥。
@@ -463,7 +463,7 @@ Right then, from behind the machinery, there appeared a person's silhouette movi
 //ドカッ！！
 *bump*!
 //［女の声］：いったーい‥‥ちょっとぉー手加減してよネ、宏治クン。
-[Woman's voice]: Oww...Could you please help me up, Kouji-kun?
+[Woman's voice]: Oww...Could you please help me up, Kouji-  kun?
 //［宏治］：あれ？
 [Kouji]: Huh?
 //saya06
@@ -523,7 +523,7 @@ I slightly warmed up to her. This woman was always fooling  around with people, 
 //どうも立場が逆転してしまった。言葉巧みに、沙夜香は僕から言葉を引き出していく。
 Our positions had somehow changed. With a clever twist of phrase, Sayaka was now drawing out _my_ explanation.
 //分かってはいたが、むしろ沙夜香の目論見にのるのも、悪くはないと思う。これで恵の情報が得られるなら、やすいものだった。
-I realized this, but joining Sayaka's side might not be so bad. Learning about Megumi's condition would be easy from there.
+I realized this, but joining Sayaka's side might not be so  bad. Learning about Megumi's condition would be easy from there.
 //［宏治］：そうなんだ、恵の様子がちょっと変で‥‥。
 [Kouji]: Right, Megumi was acting a little weird...
 //［沙夜香］：彼女、どうかしたの？
@@ -541,7 +541,7 @@ Sayaka's eyes glowed as they caught me. Does she know something about what happe
 //［沙夜香］：フフフ、それはちょっと酷いわねぇ。
 [Sayaka]: Hehehe, that's a little mean.
 //［宏治］：違いますよ、そんな意味じゃ‥‥多分‥‥無いと思う。
-[Kouji]: No, that's not how she meant it...probably...I think.
+[Kouji]: No, that's not how she meant it ... probably ... I think.
 //［沙夜香］：ふーん、じゃあどんな意味で言ったのかしら。
 [Sayaka]: Hmmm, then what do you think she means?
 //［宏治］：それがわからないから、彼女を捜してるんです。
@@ -597,7 +597,7 @@ I stopped moving my hands for a bit, asking,
 //［沙夜香］：どうしたのよ‥‥あっ、エッチなこと考えてるでしょ。
 [Sayaka]: What are you doing...ah, are you thinking of something perverted?
 //［宏治］：ち、違いますよ。そ、それよりも、そうだ‥‥沙夜香さん。
-[Kouji]: N-not at all. A-anyway, there's something else...Sayaka-san.
+[Kouji]: N-not at all. A-anyway, there's something else...  Sayaka-san.
 //［沙夜香］：な、なに？
 [Sayaka]: Wh-What?
 //［宏治］：何じゃないですよ。こんな所でいったい何を‥‥‥‥。
@@ -663,7 +663,7 @@ I looked around me. At some point, a few people had scattered about the corridor
 //ここの職員とおぼしい人たちが何人か、傍らを通り過ぎていく。
 The staff and strangers here passed by us.
 //いきなり昼間だなんて‥‥まるで夢でも見ているかのようだった‥‥。
-When did it become day...It feels like I'm in a dream again....
+When did it become day...It feels like I'm in a dream again ....
 //夢‥‥‥‥？
 Dream......?
 //［宏治］：い、いえ‥‥僕の勘違いだったみたいです。
@@ -681,7 +681,7 @@ Ryouko, as usual, turned to me with a pen in her hand.
 //僕は何度、これと同じ場面に出くわしたんだろうか‥‥‥‥。
 How many times have I come across this same scene.......
 //同じ事を何度も繰り返す既視感覚‥‥それは永久に続く苦痛以外の、何物も提供しない。
-How many times have I had deja vu about the same thing...besides endless suffering, there's nothing it can offer me.
+How many times have I had deja vu about the same thing ...  besides endless suffering, there's nothing it can offer me.
 //［涼子］：もうすぐね‥‥。
 [Ryouko]: Soon....
 //［宏治］：えっ‥‥何がですか？
@@ -727,11 +727,11 @@ Ryouko looked at me with a far-reaching gaze. No, not at me, but at something be
 //［宏治］：思念があるところに、意識があるということですか？
 [Kouji]: In a place capable of thought, is consciousness necessarily also present?
 //［涼子］：フフ、どちらが先かは問題じゃないの。でも人間という存在は、ある種の思念体と、考えられるわね。
-[Ryouko]: Hehe, which came first isn't a problem. But it's conceivable that the human existence requires some type of "thought body".
+[Ryouko]: Hehe, which came first isn't a problem. But it's  conceivable that the human existence requires some type of "thought body".
 //［宏治］：思念体‥‥？
 [Kouji]: "Thought body"...?
 //［涼子］：そう。考え思う思念こそ意識であって、そこに人間が存在すると考えるのは、必然だと思うわ。
-[Ryouko]: That's right. I think that to ponder human existence, such a thing is necessary to think thoughts and form a consciousness.
+[Ryouko]: That's right. I think that to ponder human existence, such a thing is necessary to think thoughts and form a  consciousness.
 //［涼子］：宏治クンの言うマインド・コントロールは、その意識のベクトルを自由に変えられるという事ね。
 [Ryouko]: The mind control you speak of would be a way to freely manipulate the vectors of that consciousness.
 //［宏治］：意識のベクトルを‥‥。

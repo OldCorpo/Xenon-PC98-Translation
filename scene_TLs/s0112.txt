@@ -5,17 +5,17 @@ xenon_21
 //ほとんど廃墟と化した遺跡の中を、私は歩いていた。
 In the middle of the ruins, I journeyed on.
 //黄褐色の不気味な光が、うっすらと差し込んで足下を照らしている‥‥恐らくこの惑星の、年老いた衛星が放つ光だろう。
-The eerie, drab yellow light shined on my foot sunk in the sand...it probably came from an old satellite of this planet.
+The eerie, drab yellow light shined on my foot sunk in the  sand...it probably came from an old satellite of this planet.
 //私は暗がりの中を慎重に進んでいった。床は意外に堅く、足音が洞窟内にコツコツと、寂しく響きわたる。
 In the darkness, I carefully proceeded. The ground was unusually hard, and my sharp footsteps rang in the caves.
 //明らかに人工物とおぼしい瓦礫の中を、私は黙々と歩いていた。加工された木材や金属らしきものが、あちこちから飛び出している。
-I silently walked among apparent artifacts and odd rubble. Partially finished wood and metal objects popped out all over the place.
+I silently walked among apparent artifacts and odd rubble.  Partially finished wood and metal objects popped out allover the place.
 //しかし、長い年月のあいだに風化したそれらは、私の靴底で簡単に砕け散り、砂と変わっていった。
 However, after weathering over many years, they easily crumbled underfoot and became dust.
 //ふと立ち止まって脇を見ると、階段らしきものを発見した。手すりのようなものに、弦巻状の植物が複雑に絡み付いている。
 As I suddenly stopped to look to my side, I noticed what looked like a ladder. Ringlike plants were intricately entangled in the seemingly handmade structure.
 //構造的な建設ができるということは、意外に文明が、栄えていたのかもしれない‥‥。
-If they were capable of structural construction, the previous civilization must have been quite cultured and prosperous...
+If they were capable of structural construction, the previous civilization must have been quite cultured and prosperous ...
 //［コウジ］：（上の階には、いったい何があるんだろう‥‥。）
 [Kouji]: (What could there be in the layer above?)
 //塵や埃、ツタ系の植物が鬱蒼と生い茂っていて、足場の確認がかなり困難だった。ライトを持ってこなかったことを、少しだけ後悔する。
@@ -41,7 +41,7 @@ This spoke to the high level of the previous civilization.
 //［コウジ］：（しかし、ここはどこかで‥‥‥‥。）
 [Kouji]: (But now, it's just ruined everywhere...)
 //例の既視感覚、というやつだろうか‥‥単なる思い違いか、あるいは予知と呼ばれるものなのか‥‥。
-It might have been deja vu...or it might have been a misunderstanding, or it might have been some sort of precognition...
+It might have been deja vu...or it might have been a misunderstanding, or it might have been some sort of precognition  ...
 //だが、構造的に明らかに覚えがあった。私はゆっくりと、記憶の糸を手繰りだした。
 But, I somehow remembered the structure clearly. I slowly unraveled that thread of memory...
 //［コウジ］：（そういえば‥‥‥‥。）
@@ -149,7 +149,7 @@ ryo01_m
 //［宏治］：どういう‥‥ことです？
 [Kouji]: W-what do you mean?
 //［涼子］：確かに宏治クン、あなたの肉体は滅びるわ。
-[Ryouko]: It's true that your physical body will perish, Kouji-kun.
+[Ryouko]: It's true that your physical body will perish...  Kouji-kun.
 //［宏治］：そ、それは死ぬってことじゃ‥‥。
 [Kouji]: I-isn't that the same as dying?
 //［涼子］：違うわ。肉体の死は、本当の死ではないの。
@@ -161,7 +161,7 @@ ryo01_m
 //［宏治］：そ、それって‥‥‥。
 [Kouji]: Th-then that's...
 //［涼子］：いい？　宏治クン。人間の意識というのは、実体がない。だけど、それ故にメモリーすることも可能なの。
-[Ryouko]: May I? Kouji-kun. Human consciousness doesn't really exist. But then, why do humans have the ability to make memories?
+[Ryouko]: May I? Kouji-kun. Human consciousness doesn't really exist. But then, why do humans have the ability to make  memories?
 //［宏治］：実体の無いモノを、記憶？
 [Kouji]: Consciousness...doesn't really exist?
 //［涼子］：実体が無いというのも、語弊があるわね。個体として存在しないというだけよ。
@@ -255,7 +255,7 @@ Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even
 //［沙夜香］：私はね、内偵として派遣されていたの。涼子に疑問を持った法務局から、つまり恵さんのお父様からね。
 [Sayaka]: I was dispatched as a secretary. The Legal Affairs Bureau, particularly Megumi-san's father, found Ryouko suspicious.
 //［宏治］：恵の‥‥法務局？‥‥
-[Kouij]: Megumi's...Legal Affairs?
+[Kouji]: Megumi's...Legal Affairs?
 //はっ！
  Ha-!
 //［宏治］：（そういえば、沙夜香さんの連絡先に‥‥‥‥。）
@@ -279,7 +279,7 @@ Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even
 //［沙夜香］：涼子、あなたをＡ級犯罪者として逮捕、身柄を拘束します。
 [Sayaka]: Ryouko, I'm arresting and detaining you as a Class A Criminal.
 //沙夜香は、懐から拳銃を取り出すと涼子に構えた。表情は厳しい。
-Sayaka pulled a handgun from her bosom and pointed it at Ryouko. She looked serious.
+Sayaka pulled a handgun from her bosom and pointed straight at Ryouko. She looked serious.
 //［涼子］：フッ、好きにするがいいわ‥‥。
 [Ryouko]: Heh, do as you like...
 //ガチャッ‥‥。
@@ -393,7 +393,7 @@ xenon_10
 //［ランファ］：でも、メモリーが物理的に破損していたというのも事実です。
 [Lanhua]: However, it's true that the memory was physically corrupted.
 //［ランファ］：あのとき、沙夜香さんの撃った銃弾が、運悪くあなたのメモリーの一部を破損させてしまいました。
-[Lanhua]: At that time, Sayaka-san's bullet unfortunately corrupted part of your memory.
+[Lanhua]: At that time,  Sayaka-san's bullet unfortunately  corrupted part of your memory.
 //［コウジ］：そうだった。メモリーは所々が欠損していて、記憶違いが物理的に起きていたんだ‥‥。
 [Kouji]: Yes, that's what happened. I lost parts of my memory, and memory gaps physically appeared in there...
 //［ランファ］：私は、それを気付かせるために、色々な示唆をしました。あなたのメモリーへとアクセスして‥‥。
@@ -445,7 +445,7 @@ I looked around me once more. The next two thousand years,  huh...
 //「私、あなたとだったら‥‥‥‥。」
 "If I'm here with you..."
 //私は、彼女に微笑み掛けた。彼女は恥じらうように俯いている。正確には恥じらうような彼女の意識を、私が認識したと言うべきか‥‥。
-I smiled at her. She looked down, embarrassed. Or should I say, more accurately, that I recognized her embarrassed consciousness...?
+I smiled at her. She looked down, embarrassed. Or should I  say, more accurately, that I recognized her embarrassed consciousness...?
 //私は部屋の一角へ歩いていくと、彼女の方へ振り返って、
 I walked to one corner of the room and looked back at her.
 //「どうなの、これ。」

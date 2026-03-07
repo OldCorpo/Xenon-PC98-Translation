@@ -48,7 +48,7 @@ xenon_12
 //［涼子］：ずいぶんと長い間、ボーっとしていたけど、大丈夫？
 [Ryouko]: You've been spacing out for quite a long time. You all right?
 //［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していまして‥‥。
-[Kouji]: Huh? Yeah. I just remembered the dream I had today...
+[Kouji]: Huh? Yeah. I just remembered the dream I had today ...
 //［涼子］：夢？　ここのところ、毎日見るという、例の‥‥？
 [Ryouko]: A dream? You mean the one you've had every night  lately?
 //［宏治］：そうなんですよ、うなされています。
@@ -296,7 +296,7 @@ It was faint, but I heard it. It's not from the beyond the  door; the door made 
 //その想いは、私に期待と不安を抱かせた。誰かいるのか‥‥‥？
 This thought gave me the chills. Is someone out there...?
 //どうやら私は、裸足だったらしい。
-Someohw, I was barefoot.
+Somehow, I was barefoot.
 //どうやら、ドアの音だと思ったのは、気のせいだったらしい。
 What I thought to be a noise coming from the door might have just been my imagination.
 //（でも誰か‥‥いたのだろうか‥‥？）
