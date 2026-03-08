@@ -1110,7 +1110,8 @@ fa02_m
 //［ファル］：何か言った？
 [Far]: Did you say something?
 //［宏治］：ブグバグブグバグ、ミブグバグ。
-[Kouji]: [INSERT TONGUE TWISTER HERE]
+[Kouji]: "Stella, stargazing, sought to shine so stark!"
+# INSERT TONGUE TWISTER HERE
 //［ファル］：えっ？
 [Far]: Huh?
 //［宏治］：じゃあ、ちょっとだけ話を聞きたいんだけど‥‥。

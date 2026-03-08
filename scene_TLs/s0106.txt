@@ -739,7 +739,7 @@ I remembered what Lanhua said.
 //ところどころのレイアウトは異なっていたが、おおむね、ファル達のシップと構造は同じだった。
 There were a few places where the layout differed, but overall, it had the same plan as Far's and Lanhua's ship.
 //［コウジ］：（ファル、いるかな‥‥。）
-[Kouji]: [Kouji]: (Far's probably there...)
+[Kouji]: (Far's probably there...)
 //私は、エンジンルームを後にした‥‥。
 I faced away from the engine room...
 //私は格納庫へ戻ってきた‥‥。
