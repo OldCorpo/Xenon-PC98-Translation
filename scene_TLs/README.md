@@ -2,6 +2,9 @@
 
 More than 2 consecutive spaces makes the game crash, avoid it.
 
+Apparently Japanese style spaces doesn't suffer this problem, still testing them,
+example of those can be found at the end of s0001.txt and extra_lines.txt
+
 Ideally, the translation lines should contain only Shift-JIS compatible characters, 
 by default, most of the english and latin chars are.
 
