@@ -9,15 +9,15 @@ Outside was overflowing with warmth.
 //すっかり寒い季節だというのに‥‥‥‥。
 Though we were still in the cold season...
 //室内は冷房を入れていたか、あるいは廊下に暖房をきかせているのか‥‥。
-Was it the air conditioning working the room, or the heating working in the corridor?
+Was it the air conditioning working the room, or the heatingworking in the corridor?
 //放課後、数時間が経過した校内‥‥そんな形容が当てはまる場所だ。
 The inside of a school a few hours after the students had left for the day... That was the feeling exuding from this place.
 //［宏治］：今日はまた、一段と人の数が少ないな‥‥。
 [Kouji]: Again, there’s not a lot a people here today.
 //たまにすれ違う何人かの人たちは、午後の気だるさを表情に浮かべ、僕の傍らを寡黙に通り過ぎていく。
-From time to time, other people would wordlessly pass by me, with sluggish  afternoon expressions plastered on their faces.
+From time to time, other people would wordlessly pass by me,with sluggish afternoon expressions plastered on their faces
 //こうして見ると、ごく普通の病棟の一風景という感じがする。
-This was the typical scene you would expect from an ordinary hospital.
+This was the typical scene you would expect from an ordinaryhospital.
 //［宏治］：しかし、それにしても‥‥。
 [Kouji]: But, even so...
 //僕は先ほどの、涼子先生の言った、あの言葉を思い起こしていた。
@@ -63,7 +63,7 @@ Shaking my head, I got onto the elevator with heavy footsteps.
 //ロビーにでも行って、考えをまとめてみよう。
 I'll go to the lobby so I can put my thoughts in order.
 //そう考えたものの、頭は若干ぼやけているし、足どりも重い‥‥。
-Even with that thought, my mind was muddled, and my gait was really heavy...
+Even with that thought, my mind was muddled, and my gait wasreally heavy...
 //しかし、今はあの夢のことを、自分なりにもう少し考察してみたかった。
 And yet, I still wanted to ponder on my own about my dream.
 //［宏治］：（考えて、どうなるというものでも、ないんだけどな‥‥。）
@@ -73,7 +73,7 @@ But then it crossed my mind that it was still better than not thinking at all.
 //［宏治］：（ロビーは確か、１階だったか‥‥疲れるな。）
 [Kouji]: (The lobby is... on the first floor, isn't?... I'm beat.)
 //ロビーは１階にある。ここ２階から、１階分だけ階段を利用しなくてはならない。
-The lobby was on the first floor. As I was now at the second floor, I'll go down just one floor using the stairs.
+The lobby was on the first floor. As I was now at the secondfloor, I'll go down just one floor using the stairs.
 //幸い、エレベータは２階にとどまっていたようだ。下のボタンを押すと、ドアはすぐに開いた。
 Luckily, the lift was on standby on the second floor. The door immediately opened the moment I pressed the "down" button.
 //エレベータに人は乗って居なかった。ここでゴミゴミと満員のエレベータなどに乗ったら、卒倒してしまう。
@@ -113,7 +113,7 @@ This woman seemed a bit surprised when she saw me. But that expression only last
 //最後の「さん」のイントネーションが、少し妙な発音になっている。この子の特徴だった。
 Her tone when she was pronouncing "-san" was a bit strange, and was a special trait of hers.
 //静かな廊下、無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
-In the silent corridor, an inorganic place, Mai’s figure was that of a sole blooming flower.
+In the silent corridor, an inorganic place, Mai’s figure wasthat of a sole blooming flower.
 //気分が低下していた僕にとって、ある種の清涼剤になったのは事実のようだった。
 In my sullen mood, her presence was truly a breath of fresh air to me.
 //［舞］：フフ、どうしたんですか？
@@ -163,7 +163,7 @@ I kept silent, awaiting Mai’s next words.
 //［宏治］：ハハ、いつもの悪夢だよ‥‥。
 [Kouji]: Haha, it was the same nightmare as always.
 //少し突き放したような言い方になってしまった。よほど、自分自身にイライラしていたのかも知れない。
-My words came out with a slightly rebuking tone. Maybe I was on edge.
+My words came out with a slightly rebuking tone. Maybe I wason edge.
 //舞の様子をうかがってみる‥‥良かった、気分を害した様子はない。
 I glanced quickly at Mai's expression. Luckily, she didn't  seem in a bad mood.
 //［舞］：今度‥‥。
@@ -189,7 +189,7 @@ I glanced quickly at Mai's expression. Luckily, she didn't  seem in a bad mood.
 //いつの間にか、廊下には僕らだけになっていた。
 Without me realizing it, we’d become the only ones left in  the corridor.
 //あたりはシンと静まり返っていて、舞の息づかいさえも、僕の耳にとどいてきそうだった‥‥。
-The surroundings went dead quiet. Only Mai's breathing still lingered in my ears.
+The surroundings went dead quiet. Only Mai's breathing stilllingered in my ears.
 //［舞］：‥‥‥‥‥‥。
 [Mai]:‥‥‥‥‥‥
 //［宏治］：あの‥‥。
@@ -217,7 +217,7 @@ An inorganic place with few people. Amidst all this, Mai’s  figure stood out l
 //いつの間にか、ロビーには僕らだけになっていた。
 Without me realizing it, we’d become the only ones left in  the lobby.
 //後には、僕が１人だけ、シンと静まったロビーにたたずんでいるだけだった‥‥。
-Afterwards, there was only me loitering in the silent lobby, alone.
+Afterwards, there was only me loitering in the silent lobby,alone.
 //［宏治］：（そういえば‥‥‥‥。）
 [Kouji]: (That reminds me...)
 //［宏治］：（舞さんに夢のことなんて、いつ話したかな‥‥。）
@@ -241,7 +241,7 @@ meg_bast
 //ここは僕の自室だ‥‥。
 This was my room.
 //見慣れたこの場も、今はベッドしか視界に入ってこない。ベッドがこれほど恋しく思ったことは無かった。
-I was already familiar with this place. The only thing in my mind was my bed. Never before had I so longed for a bed.
+I was already familiar with this place. The only thing in mymind was my bed. Never before had I so longed for a bed.
 //［宏治］：もう、限界だよ‥‥。
 [Kouji]: I've reached my limit. I have to rest now.
 //僕がベッドへ、うつ伏せに倒れ込んだ、その時‥‥。
@@ -265,7 +265,7 @@ I heard a slightly muffled, yet still sharp shriek coming from beneath my chest.
 //目の前には、ボーイッシュな女性が、僕を見上げていた。
 Before me, a boyish girl had raised her head towards me.
 //言葉はややぶっきらぼうだけど、顔は屈託のない笑みを浮かべている‥‥恵だ。
-Though her words may have been blunt, her face was showing a carefree smile. It was Megumi.
+Though her words may have been blunt, her face was showing acarefree smile. It was Megumi.
 //［恵］：ちょっと、遅かったんじゃない？
 [Megumi]: Aren't you a little late?
 //［宏治］：ゴメン、本当に。カウンセリングが、意外にのびちゃって‥‥。
@@ -283,7 +283,7 @@ She was trying to ask me about my condition indirectly. Because I was used to he
 //サバサバとしていてデジタルな女性のようだが、意外に一途なところがあって、おまけに嫉妬深い。
 Her relieved demeanor gave off the air of a digital girl, but whenever she met with something unexpected, she became deeply envious.
 //［恵］：もう、遅いもんだから、フカフカのベッドで少し寝ちゃったわ。
-[Megumi]: You were so late that I just dozed off a little in your comfy bed.
+[Megumi]: You were so late that I just dozed off a little inyour comfy bed.
 //［宏治］：ぐっすり眠っていたようだけど？
 [Kouji]: You looked sound asleep to me...
 //［恵］：えぇ、気持ちよかった。エネルギー充てんというところね。
@@ -309,7 +309,7 @@ I shrugged my shoulders and shook my head.
 //［恵］：ぶつわよ、もぉ。
 [Megumi]: I'll hit you, jerk!
 //口で言うほど怒ってはいない。むしろ、甘えたような声で、ベッドに座っている僕にすりよってくる。
-She wasn't as angry as her tone was implying. Rather, with a sweet voice, she was sneakily drawing close to me as I sat on the bed.
+She wasn't as angry as her tone was implying. Rather, with asweet voice, she was sneakily drawing close to me as I sat  on the bed.
 //meg01
 meg01
 //meg01_m
@@ -345,7 +345,7 @@ meg01b
 //これは本当だった。
 It was true.
 //実際、目の前がクラクラしている。別に恵の魅力のせい、という訳でもなさそうだ。
-My eyes were actually stinging from exhaustion, and Megumi's charm wasn't helping.
+My eyes were actually stinging from exhaustion, and Megumi'scharm wasn't helping.
 //［恵］：もう、だらしないわ。倦怠期の夫婦じゃないんだから‥‥ほらっ。
 [Megumi]: Hey, that's unfair. After all, we're not some midlife married couple. C'mon!
 //［宏治］：な、なんだよ、まさかここで？
@@ -369,9 +369,9 @@ I buried myself on the bed head first, bested by a terrible vertigo.
 //［宏治］：ゴメン、ほんとにマズいみたい‥‥。
 [Kouji]: Sorry, I'm really not feeling well...
 //恵がそっと僕を抱き起こす。ふくよかとは言えないが、決して小さくない胸が、僕の身体に密着してくる。
-Megumi gently lifted me up. Her breasts, which were glued to me, weren't as well-rounded as she pretended, yet they couldn't be called small either.
+Megumi gently lifted me up. Her breasts, which were glued tome, weren't as well-rounded as she pretended, yet they couldn't be called small either.
 //こんな状態でも、しっかり反応してしまう男性機能に、呆れると同時に感心もする。
-Even in such a situation, my firm male response both stunned and impressed me.
+Even in such a situation, my firm male response both stunnedand impressed me.
 //［宏治］：（人類が死に絶えない訳だよ‥‥。）
 [Kouji]: (Mankind won't die out so easily.)
 //僕がそっと目をあけると、目の前には、目をつぶった恵が迫ってきていた。
@@ -403,7 +403,7 @@ Megumi was whispering to me. It must have been the first time Sayaka and Megumi 
 //［恵］：はい、そうですが‥‥。
 [Megumi]: Yes, that's me, so what?
 //［沙夜香］：恋人とはいえ、いきなりプライベートルームへ来られては困りますよ。
-[Sayaka]: You may be lovers, but don't go around making this place your private room.
+[Sayaka]: You may be lovers, but don't go around making thisplace your private room.
 //［恵］：言っておきますけど、私の父は‥‥‥‥。
 [Megumi]: In case you don't know, my father is...
 //沙夜香は左の手のひらを恵の前にかざすと、わかっている、というゼスチャーで恵の言葉を制した。
@@ -411,7 +411,7 @@ Sayaka, waving her left hand in front of Megumi, made a gesture clearly stating:
 //［沙夜香］：知っているわ、この医療センターのスポンサー様でしょ。
 [Sayaka]: I know. He is this medical center's honored sponsor.
 //『様』という部分に、やや皮肉のスパイスがまぶしてあると感じるのは、考えすぎだろうか。恵はちょっとスねたような顔をして、黙っている。
-I may have over-thought it, but I felt she was rubbing salt in the wound with the word "honored". With a pouting look on her face, Megumi stayed silent.
+I may have over-thought it, but I felt she was rubbing salt in the wound with the word "honored". With a pouting look onher face, Megumi stayed silent.
 //［沙夜香］：でも、規則は規則。スポンサーのご令嬢であっても、遵守してもらいますから。
 [Sayaka]: But, rules are rules. Even if you are our honorable sponsor's precious daughter, I must ask you to comply.
 //［恵］：な、なによ、それって‥‥‥‥。
@@ -439,7 +439,7 @@ I may have over-thought it, but I felt she was rubbing salt in the wound with th
 //［宏治］：ちょっ‥‥冗談でも、そんなこと恵には言わないで下さいよ。
 [Kouji]: Hey-Even if it's a joke, please don't say that to  Megumi.
 //［沙夜香］：残念ねぇ、２人でしっぽりと濡れたあの夜のことを‥‥。
-[Sayaka]: What a shame, don't you remember that wet and wild midnight tryst we had together?
+[Sayaka]: What a shame, don't you remember that wet and wildmidnight tryst we had together?
 //［宏治］：ちょっとちょっと、単に夜遅くまで話していただけじゃないですか。
 [Kouji]: Hold your horses! Didn't we merely talk till late  at night?
 //［沙夜香］：そうだったっけ？
@@ -453,7 +453,7 @@ Why did she get close to me? ...Well, not like she was a bother, but I couldn't 
 //［沙夜香］：理由？　あなたに興味があるというのじゃ、ダメかしら？
 [Sayaka]: Why? Is it wrong to be interested in you?
 //それ以来、理由を聞くのもやめてしまった。どうも捉えどころのない女性だ。
-Since then, I stopped asking about it. She was a hard nut to crack.
+Since then, I stopped asking about it. She was a hard nut tocrack.
 //［沙夜香］：それよりも、どう、気分は？
 [Sayaka]: More importantly, how do you feel?
 //［宏治］：どうって‥‥‥見れば分かりませんか？
@@ -463,7 +463,7 @@ Since then, I stopped asking about it. She was a hard nut to crack.
 //［宏治］：はっきり言って、最悪ですよ。
 [Kouji]: To put it clearly, I can't be worse.
 //沙夜香は少しだけ心配そうな表情になった。傍らへやってくると、手のひらをそっと僕の額に当てる。
-Sayaka's expression became somewhat worried. Drawing closer, she set her hand on my forehead.
+Sayaka's expression became somewhat worried. Drawing closer,she set her hand on my forehead.
 //［宏治］：（ドキッ‥‥。）
 [Kouji]: (*badump*)
 //［沙夜香］：ふむ、熱はないようね‥‥。
@@ -505,7 +505,7 @@ I carelessly let my tongue slip. Sayaka, whose mouth was shut, didn't waited a s
 //語尾にハートマークを付けたくなるほど、甘ったるい声で沙夜香は僕に近づいてきた。顔には媚びた笑みが浮かべている。
 With a flirtatious smile, Sayaka got closer to me, speaking with so sweet a voice that you could put a heart at the end of each line.
 //クスクス、とか、ニコニコ、ではない。女がある目的をもって男に笑いかける、例のあの表情だ。
-She was neither giggling nor grinning widely. This was an expression typical of a woman smiling at a man she had her eye on.
+She was neither giggling nor grinning widely.  This was an  expression typical of a woman smiling at a man she had her  eye on.
 //［宏治］：ちょ、ちょっと‥‥ぼ、僕は今、疲れていて‥‥。
 [Kouji]: H-hold on. I-I'm really tired now and...
 //［沙夜香］：フフ、何を焦っているのよ、ボク。
@@ -553,7 +553,7 @@ It was incredibly hot...
 //個室は、ひんやりとしていて、心地よかったはずだ‥‥。
 My room should have been nice, cool, and comfortable...
 //遠くの方で、誰かが僕を呼ぶ声が聞こえてくる‥‥‥‥‥‥。
-From far away, I could hear someone's voice calling after me ‥‥‥‥‥‥
+From far away, I could hear someone's voice calling after me‥‥‥‥‥‥
 //ここは、どこなのだろうか‥‥‥‥。
 Where is this place...?
 //消えゆく意識の中で、僕はそんなことを考えていた‥‥‥‥‥。

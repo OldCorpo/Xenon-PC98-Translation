@@ -25,7 +25,7 @@ I sat in the grey chair that Ryouko-sensei always sat in. The backrest was fluff
 //［宏治］：（これは‥‥航海日誌‥‥？）
 [Kouji]: (Is this...a ship's logbook...?)
 //不思議と、『航海日誌』という単語が頭に浮かんだ。もちろん、航海日誌などというモノが、ここにある訳がない。
-Incredibly, the words "ship's logbook" floated into my head. Of course, there couldn't actually be a ship's logbook here.
+Incredibly, the words "ship's logbook" floated into my head.Of course, there couldn't actually be a ship's logbook here.
 //いけないとは思いつつも、ページをめくってみる。
 While I thought "It can't be," I flipped through the pages.
 //そこには小さな細かい文字で、診断書のようなものが書き記されていた。書いた人の几帳面な性格が想像される。
@@ -35,13 +35,13 @@ There, in small writing, a medical certificate-like record  was penned. The pers
 //もっともまだこの日誌になってから、さほど日数は経っていないようだ。最初の数ページにしか、文字が書き記されていない。
 But today's diary hadn't been recorded, so not many days could have passed. The first few pages didn't have any records at all.
 //ページを斜めに読んでいくと、見覚えのある単語の所ではたと目が止まる。
-As I skimmed through the pages, my eyes stopped places where a certain term occurred.
+As I skimmed through the pages, my eyes stopped places wherea certain term occurred.
 //マインドコントロールは、ドーパミン作用を著しく促進させ、間脳及び小脳を直接刺激することにより‥‥‥‥
 Dopamine usage increases the effectiveness of mind control  remarkably, by directly stimulating the diencephalon and cerebellum....
 //さらに、そこの部分から先に読み進めていく‥‥。
 From there, I continued reading previous entries....
 //しかし被験者の、身体的精神的な安全は保障されず‥‥‥‥。
-However, the safety of the subject's body and nervous system are not guaranteed....
+However, the safety of the subject's body and nervous systemare not guaranteed....
 //どうやら、マインドコントロールとやらの、機能と効能が記述されているらしかった。
 This seemed to describe the function and efficacy of mind control.
 //僕はゆっくりとページをめくる。しかしそこには、もう何も記されてはいなかった。ここで終わりか‥‥‥‥。
@@ -49,11 +49,11 @@ I slowly turned the page. But, there was nothing more written. Is this the end..
 //［宏治］：（‥‥ん？）
 [Kouji]: (...Hm?)
 //変わりに、メモ用紙がしおりの様にページの間に挟まっていた。そこには、先程の落ちついた様子は微塵もなく、かなり慌てたような字で、こう書きなぐってあった。
-Instead, a page from a memo pad, used as bookmark, was stuck in the middle of the pages. There, something was written in frantic handwriting, completely unlike the previous records.
+Instead, a page from a memo pad, used as bookmark, was stuckin the middle of the pages. There, something was written in frantic handwriting, completely unlike the previous records.
 //‥‥‥‥沙夜香　連絡先：法務局 　　　　　　　　電話番号××××－××××－‥‥‥‥。
 ......  SAYAKA  CONTRACT: LEGAL AFFAIRS BUREAU PHONE NUMBER ××××－××××－......
 //はっと気付いた僕は、ポケットからしわくちゃになったメモ用紙を取り出した。丸い可愛らしい字で、同じ電話番号が記載されているのを確認する。
-I suddenly realized, and pulled out a crumpled memo pad page from my pocket. I confirmed that the same phone number was recorded in round, cute letters.
+I suddenly realized, and pulled out a crumpled memo pad pagefrom my pocket. I confirmed that the same phone number was  recorded in round, cute letters.
 //［宏治］：（沙夜香さん‥‥？）
 [Kouji]: (Sayaka-san...?)
 //僕は日誌を乱暴に戻すと、部屋を急ぎ足で出ていった‥‥。
@@ -69,13 +69,13 @@ But now, how many people are there actually around me?
 //［宏治］：（数える必要もないな‥‥‥‥。）
 [Kouji]: (I don't even need to count them.......)
 //荒涼とした廊下に、僕の足音だけが響きわたっていった‥‥。
-In the deserted corridor, only the sound of my own footsteps rang out....
+In the deserted corridor, only the sound of my own footstepsrang out....
 //部屋は相変わらず薄暗い。部屋へ帰ってくるなり、僕は電話の受話器を手に取った。
-As usual, my room was dimly lit. As I returned to my room, I picked up the phone receiver.
+As usual, my room was dimly lit. As I returned to my room, Ipicked up the phone receiver.
 //しわくちゃのメモを見ながら、数字を慎重に押していった。震える手を、かろうじて抑える‥‥。
 I looked at the crumpled memo and carefully pushed the numbers. I could barely control my shaking hands....
 //一向に出る気配のない呼び出し音が、虚しく耳に響いてくる。僕は、受話器を握りしめる手に、力を込めていった。
-At once, the emotionless ring tone rang in my ear in vain. I gripped the receiver with all my strength.
+At once, the emotionless ring tone rang in my ear in vain. Igripped the receiver with all my strength.
 //［宏治］：（どうしたんだ‥‥‥‥。）
 [Kouji]: (What is she doing....)
 //何回目かの呼び出し音を聞いたところで、僕は受話器を置いた。
@@ -85,7 +85,7 @@ After listening to that ring tone for who knows how many times, I hung up.
 //コンコン‥‥‥‥。
 *knock knock*......
 //受話器を置くと同時に、ドアのノックが部屋に響きわたる。まるで、オフフックがスイッチになっていたかのようだ。
-At the same time that I hung up, I heard a knock on the door to my room. It seemed that the switch had come off the hook.
+At the same time that I hung up, I heard a knock on the doorto my room. It seemed that the switch had come off the hook.
 //誰だろうか‥‥？
 Who could it be...?
 //カチャ‥‥‥‥。
@@ -119,7 +119,7 @@ Mai seemed to have an unusually serious look on her face. What to do.
 //静かにうなずく舞は、何か言いたげだった。上目遣いの視線は、懇願するような光を帯びている。
 Mai silently nodded and said something to me. As she looked up, her gaze seemed to be begging me for something.
 //胸が高鳴っている。シンと静まり返った室内では、自分の心臓の動悸音すら聞こえてくるようだった。
-My chest was throbbing. In this calm and quiet room, I could hear my own heartbeat.
+My chest was throbbing. In this calm and quiet room, I couldhear my own heartbeat.
 //［舞］：私、宏治サンにお話をしに来たんです‥‥‥。
 [Mai]: Kouji-san, I came to tell you something...
 //［宏治］：ど、どんな？
@@ -141,7 +141,7 @@ Why would she mention that now of all times?
 //［宏治］：あっ、もちろん夢の中での事だけど‥‥変だよね、夢の中で意識が途切れるなんて‥‥。
 [Kouji]: Ah-of course, it was only the stuff of my dreams...It's weird, that the consciousness in my dreams would be ...interrupted....
 //少し寂しそうな顔つきに見えるのは、気のせいだろうか。舞は黙って僕の言うことを聞いているようだが‥‥。
-I might be mistaken, but I thought I saw a somewhat lonely  expression on her face. Mai was silently listening to what I had to say....
+I might be mistaken, but I thought I saw a somewhat lonely  expression on her face. Mai was silently listening to what Ihad to say....
 //［舞］：宏治サンに教えてあげます。
 [Mai]: Kouji-san, let met tell you something.
 //［宏治］：えっ‥‥な、何を？
@@ -169,7 +169,7 @@ I asked about another matter....
 //［宏治］：そうか‥‥‥‥。
 [Kouji]: I see.......
 //知らないものを聞き出すことはできない。これ以上、彼女に問いかけても無駄だろう。
-I can't ask about something someone doesn't know about. It's pointless to ask her more about that.
+I can't ask about something someone doesn't know about. It'spointless to ask her more about that.
 //［宏治］：いったいみんな、どこへ行ってしまったんだろう‥‥。
 [Kouji]: Where on earth has everyone gone....
 //［宏治］：いくら普通の病院とは訳が違うといっても、これはちょっと変じゃないかな。
@@ -199,7 +199,7 @@ Mai was the kind of person who would throw out weird points when asking question
 //［宏治］：じゃあ舞さんは、これこそが正常な状態だと言うわけ？
 [Kouji]: Then, Mai-san, is this a normal situation to you?
 //僕は両手をしゃくりあげながら、舞に聞いてみた。
-I clapped both hands together and listened to Mai's response.
+I clapped both hands together and listened to Mai's response
 //イライラしていたせいかもしれない。少し、雑な言い方に、彼女は驚いたような表情で僕をみていた。
 It was probably because I was frustrated. She looked at me  in surprise, due to my rough way of speaking.
 //［宏治］：ご、ゴメン‥‥‥‥。
@@ -241,7 +241,7 @@ mai05
 //［宏治］：ま、舞さん‥‥‥‥。
 [Kouji]: M-mai-san....
 //舞はそっと僕に口づけをした。あまりに自然で何気ない動作だったので、僕はなす術もない。
-Mai gently kissed me. Her casual move was made so naturally, I couldn't do anything about it.
+Mai gently kissed me. Her casual move was made so naturally,I couldn't do anything about it.
 //心臓の動悸が強くなっていくのを、僕は舞の顔を見ながら感じていた‥‥。
 I felt my heart beat more strongly as I looked at Mai's face....
 //［舞］：かわいそう、宏治サン‥‥思い出せないんですね。
@@ -261,7 +261,7 @@ mai02
 //舞は僕に体重を預けてきた。意外にふくよかで柔らかい身体を抱きしめると、そのまま後ろへと倒れ込む。
 Mai set herself down on me. As I hugged her incredibly plump, soft body, I fell back.
 //そっと身体の位置を入れ替えると、僕は彼女の身体を抱きしめた。
-As I gently swapped positions with her, I held onto her body.  
+As I gently swapped positions with her, I held onto her body 
 //［舞］：あっ‥‥宏治サン‥‥。
 [Mai]: Ah-Kouji-san....
 //舞は少しだけ驚いた表情をしたが、すぐに身体の力を抜く。僕の意図を理解し、理解してなおも、その通りになるという意志表示だった。
@@ -275,7 +275,7 @@ I slowly took off her clothes...
 //まるで１枚１枚はいでいかれるのを楽しむかのように、舞は妖しい笑みを顔に残していた。
 Mai had an impish smile on her face, like she was enjoying  telling me "yes, go ahead" time after time.
 //壊れやすい人形、という形容があてはまる女性だった、舞は。僕は慎重に、かつ丁寧に１枚ずつ、彼女から衣服を脱がしていった‥‥。
-Like a fragile doll, you could say this woman, Mai, is.  I  politely and carefully took off her clothing, one piece at a time....
+Like a fragile doll, you could say this woman, Mai, is.  I  politely and carefully took off her clothing, one piece at atime....
 //mai02b
 mai02b
 //透き通るような、淡いピンク色の下着がまぶしいそれは光沢を放っていて、触ると気持ちがとっても良かった。
@@ -285,7 +285,7 @@ I gently nodded, and gently overlapped Mai's body with mine ....
 //［舞］：ん‥‥んん‥‥。
 [Mai]: Mm...Mmmmm....
 //キスをすると、舞は少し身体を固くする。舌をそっと差し込んでみると、意外に大胆に吸われていく。
-As we kissed, Mai made me a little hard. As I gently slipped my tongue in, I was surprisingly, boldly pulled in.
+As we kissed, Mai made me a little hard. As I gently slippedmy tongue in, I was surprisingly, boldly pulled in.
 //僕らはお互いの舌をむさぼり合い、激しく抱き合い、互いの衣服を脱がし合った‥‥。
 As we mutually ran over each other's tongues, we hugged tightly, and took off each other's clothing....
 //mai02c
@@ -303,11 +303,11 @@ With her aggressive tongue lashing, Mai was quite passionate. I rubbed her small
 //［舞］：あっ‥‥宏治サン、熱い‥‥すごく‥‥。
 [Mai]: Ah!-...Kouji-san, it's so...hot....
 //舞の舌をたっぷりと堪能すると、僕は首筋に移動した。耳たぶから喉元まで唾液で濡らし、舌をこすりつける。
-I quite enjoyed Mai's tongue, so I moved my neck. I ran my  tongue from her earlobe to her throat, dripping saliva along the way.
+I quite enjoyed Mai's tongue, so I moved my neck. I ran my  tongue from her earlobe to her throat, dripping saliva alongthe way.
 //さらに下へ移動し、小ぶりの乳房をゆっくりと円を描くようにして舐め上げた。舞の鼻息が、かなり荒くなってきている。
 Then, as I moved underneath, I traced little circles on her small breasts. Mai's breathing became quite ragged.
 //乳首のまわりの円運動は、次第にその半径を狭めていった。中心の突起物は、硬く充血している。
-I gradually tightened the little circles around her nipples. The centers were hard and red.
+I gradually tightened the little circles around her nipples.The centers were hard and red.
 //［舞］：あぅっ！　か、噛んだら‥‥あぁぁっ！！
 [Mai]: Ow! Y-You bit....Aaah!!
 //軽く歯を当てただけで、舞は身体を反らして痙攣している。ものすごい感度だった。

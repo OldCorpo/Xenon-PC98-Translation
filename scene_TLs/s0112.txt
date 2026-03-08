@@ -5,11 +5,11 @@ xenon_21
 //ほとんど廃墟と化した遺跡の中を、私は歩いていた。
 In the middle of the ruins, I journeyed on.
 //黄褐色の不気味な光が、うっすらと差し込んで足下を照らしている‥‥恐らくこの惑星の、年老いた衛星が放つ光だろう。
-The eerie, drab yellow light shined on my foot sunk in the  sand...it probably came from an old satellite of this planet.
+The eerie, drab yellow light shined on my foot sunk in the  sand...it probably came from an old satellite of this planet
 //私は暗がりの中を慎重に進んでいった。床は意外に堅く、足音が洞窟内にコツコツと、寂しく響きわたる。
 In the darkness, I carefully proceeded. The ground was unusually hard, and my sharp footsteps rang in the caves.
 //明らかに人工物とおぼしい瓦礫の中を、私は黙々と歩いていた。加工された木材や金属らしきものが、あちこちから飛び出している。
-I silently walked among apparent artifacts and odd rubble.  Partially finished wood and metal objects popped out allover the place.
+I silently walked among apparent artifacts and odd rubble.  Partially finished wood and metal objects popped out alloverthe place.
 //しかし、長い年月のあいだに風化したそれらは、私の靴底で簡単に砕け散り、砂と変わっていった。
 However, after weathering over many years, they easily crumbled underfoot and became dust.
 //ふと立ち止まって脇を見ると、階段らしきものを発見した。手すりのようなものに、弦巻状の植物が複雑に絡み付いている。
@@ -25,7 +25,7 @@ But even then, my curiosity couldn't lose against the ordeals before me.
 //［コウジ］：（行ってみるか‥‥。）
 [Kouji]: (Let's go...)
 //ところどころ破損した箇所を慎重に避けながら、私はゆっくりと階段を上がっていった。
-Carefully avoiding broken rungs along the way, I slowly made my way up the ladder.
+Carefully avoiding broken rungs along the way, I slowly mademy way up the ladder.
 //1020_3
 1020_3
 //1020_2
@@ -57,7 +57,7 @@ This isn't reality, is it...?
 //私は夢の中の記憶を頼りに、慎重に進んでいく‥‥。
 Relying on my memories in my dreams,  I carefully followed  along...
 //この脇に椅子が置いてあり、そしてこの先の角には階段が‥‥風化しているとはいえ、私の思ったとおりの配置に愕然とする。
-This chair beside me was there, and at this corner before me is a stairway...Even though it was weathered heavily, I was stunned at how well it matched my memory.
+This chair beside me was there, and at this corner before meis a stairway...Even though it was weathered heavily, I was stunned at how well it matched my memory.
 //このドアの向こう側は診療室だったはずだ。そして‥‥‥‥。
 On the other side of this door is the consulting room. And  then...
 //私は、ある大きなドアの前に立った‥‥。
@@ -153,9 +153,9 @@ ryo01_m
 //［宏治］：そ、それは死ぬってことじゃ‥‥。
 [Kouji]: I-isn't that the same as dying?
 //［涼子］：違うわ。肉体の死は、本当の死ではないの。
-[Ryouko]: Not quite. The death of the body is not true death.
+[Ryouko]: Not quite. The death of the body is not true death
 //［宏治］：まさか魂は生き続けるとか、そういう理屈じゃないでしょうね‥‥。
-[Kouji]: Are you really giving a reason that the spirit will live on?
+[Kouji]: Are you really giving a reason that the spirit willlive on?
 //［涼子］：フフ、それでは怪しい宗教よ。でも、それに限りなく近いとも言えるわね。
 [Ryouko]: Hehe, that's just suspicious religious talk. However, it could be said to be infinitesimally close.
 //［宏治］：そ、それって‥‥‥。
@@ -167,7 +167,7 @@ ryo01_m
 //［涼子］：実体が無いというのも、語弊があるわね。個体として存在しないというだけよ。
 [Ryouko]: I misspoke when I said it doesn't really exist... Rather, it doesn't exist individually.
 //［涼子］：わからない？　じゃあ例えば、磁気情報などはどうかしら。
-[Ryouko]: Do you still not understand? Then for example, how does magnetic information work?
+[Ryouko]: Do you still not understand? Then for example, howdoes magnetic information work?
 //［宏治］：磁気‥‥情報？
 [Kouji]: Magnetic...information?
 //［涼子］：あれは磁性体表面に、磁気の方向でデータをメモリーするだけ‥‥実体が無いと言えるんじゃないかしら。
@@ -267,7 +267,7 @@ Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even
 //［沙夜香］：涼子、今のこの現状がわかっていないようね。軍への協力は、最優先事項なのよ。
 [Sayaka]: Ryouko doesn't seem to understand the current situation. Our top priority was getting help from the military.
 //［涼子］：フフ、現状がわかっていないのは、軍上層部と、あなたのような官僚の犬に成り下がった者の方よ。
-[Ryouko]: Hehe, what I don't understand is bureaucratic dogs like you and the upper brass.
+[Ryouko]: Hehe, what I don't understand is bureaucratic dogslike you and the upper brass.
 //［沙夜香］：なんですって！？
 [Sayaka]: What did you just say?!
 //［涼子］：重核中性子爆弾の使用が、いかなる結果をもたらすか、あなた達は考えたことがないの？
@@ -277,7 +277,7 @@ Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even
 //［涼子］：愚かな女性ね‥‥‥‥。
 [Ryouko]: You stupid woman...
 //［沙夜香］：涼子、あなたをＡ級犯罪者として逮捕、身柄を拘束します。
-[Sayaka]: Ryouko, I'm arresting and detaining you as a Class A Criminal.
+[Sayaka]: Ryouko, I'm arresting and detaining you as a Class:A Criminal.
 //沙夜香は、懐から拳銃を取り出すと涼子に構えた。表情は厳しい。
 Sayaka pulled a handgun from her bosom and pointed straight at Ryouko. She looked serious.
 //［涼子］：フッ、好きにするがいいわ‥‥。
@@ -337,7 +337,7 @@ I remember now, my memories...
 //遥か昔の、メモリーを‥‥‥‥。
 My memories from long, long ago...
 //［コウジ］：いるんだろう？　出てきても、構わないよ。
-[Kouji]: You're here, aren't you? Come out, I won't hurt you.
+[Kouji]: You're here, aren't you? Come out, I won't hurt you
 //［コウジ］：大丈夫だよ、もう‥‥。
 [Kouji]: It's fine already...
 //風化寸前の機器類の陰から、ランファが姿を現した。突然、その場に現れたように‥‥‥‥。

@@ -13,7 +13,7 @@ Or perhaps, it was the heating that was working outside the room...
 //（やけに無機質なところだ‥‥‥‥。）
 (What a cold, inorganic corridor...)
 //気温とは対照的に、冷え冷えとした廊下が、私の目の前にあった。
-Contrasting with the actual temperature, a lonely, unnerving corridor unwound before my eyes.
+Contrasting with the actual temperature, a lonely, unnervingcorridor unwound before my eyes.
 //申し訳なさそうに端に置いてある観葉植物が、いくぶん私の心を安心させるが、どうも現実感に欠ける所だった。
 Although the decorative plants set apologetically against the walls somewhat brightened the atmosphere, this place didn't feel real.
 //往来の廊下という雰囲気はあるものの、人は１人としていない。
@@ -27,7 +27,7 @@ However, what was that noise?
 //キーンという耳障りな音が、さっきから、どこからともなく聞こえてくる。
 Out of nowhere, a chilling, ear-piercing sound pervaded the area.
 //最初は耳鳴りかと思ったが、どうやら本当に聞こえてきているらしい。
-I first thought I was suffering from tinnitus, but it seemed I was really hearing something.
+I first thought I was suffering from tinnitus, but it seemedI was really hearing something.
 //コッ‥‥コッ‥‥コッ‥‥。
 *tap* *tap* *tap*
 //（‥‥ん？）
@@ -59,7 +59,7 @@ I'll stay here to uncover who's walking out there.
 //そう威勢良く決めたものの、妙に緊張してしまう。恥ずかしいことに、自分の心音が耳まで届いてきそうだった。
 After making this bold decision, strangely, I started becoming nervous. Embarrassingly, I could even hear my loud heartbeats reaching my ears.
 //（靴底が、床を踏む音だろうか‥‥？）
-(Without a doubt, this was the sound of shoes tapping on the floor...)
+(Without a doubt, this was the sound of shoes tapping on thefloor...)
 //どうやらそれが一番近い解答と思えた。底の堅い、ブーツか何かをはいているのかも知れない。
 This was the most straightforward answer. Probably some hard-soled boots.
 //コッ‥‥コッ‥‥‥‥‥‥。
@@ -85,9 +85,9 @@ The sound suddenly stopped. What happened...?
 //声だ‥‥しかも女性の‥‥？
 A voice... and a woman's voice on top of that...?
 //私はドアの窓の端から、彼女の様子をうかがった。
-Looking through the door's window, I carefully inspected the woman.
+Looking through the door's window, I carefully inspected thewoman.
 //ちょうど、私がいたはずの部屋から出てくると、その女性はキョロキョロとあたりを見回した。
-Leaving the room I was just in, the woman was looking around listlessly at her surroundings.
+Leaving the room I was just in, the woman was looking aroundlistlessly at her surroundings.
 //もしかすると、私のことを捜しているのだろうか‥‥？
 Could it be that she was looking for me...?
 //あまりにドアに寄り掛かり過ぎたので、思わず手でスイッチを押してしまったらしい。
@@ -115,11 +115,11 @@ ra01_m
 //特徴的な女の子だった‥‥。
 She certainly was a peculiar woman.
 //暗く透き通った髪の毛とは対象に、大きなレモンイエローのリボン、露出度の高い胸部分のワインレッドの色調‥‥。
-Crystalline but dark hair, wearing a large lemon yellow ribbon and a showy wine red brassiere - indeed that was peculiar.
+Crystalline but dark hair, wearing a large lemon yellow ribbon and a showy wine red brassiere - indeed that was peculiar
 //見ていて、少しクラクラしてしまいそうだった。
 As I looked closer, she seemed quite disoriented.
 //下半身に目を移すとさらにドキッとした。左右両側に大きく切れ込んだスリットが、真っ白な太股を惜しげもなく露出している。
-I was all the more shocked when I saw the lower half of her body. Her pure white thighs were shamelessly exposed through two large slits on either side of her uniform.
+I was all the more shocked when I saw the lower half of her body. Her pure white thighs were shamelessly exposed throughtwo large slits on either side of her uniform.
 //［私］：（ナース‥‥‥‥だろうか？）
 [Me]: (Is she...a nurse?)
 //非現実的な場面に、これまた非現実的なナースの登場という訳だった。
@@ -149,11 +149,11 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //［私］：あっ、待ってくれ！‥‥ランファ！？
 [Me]: Hey! Wait!... Lanhua!?
 //［私］：（冗談じゃない、ここでまた１人にさせられてたまるか‥‥。）
-[Me]: (This is serious, I gotta catch up to her... Don't want to spend any more time alone in this place.)
+[Me]: (This is serious, I gotta catch up to her...Don't wantto spend any more time alone in this place.)
 //気が少し動転していたのかもしれない‥‥。
 Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
-Before I realized, I had arrived in an utterly frigid place. I could see my breath billowing out like smoke, and I was  shaking like a leaf in the wind.
+Before I realized, I had arrived in an utterly frigid place.I could see my breath billowing out like smoke, and I was  shaking like a leaf in the wind.
 //ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
 It seemed that I ended up in an unusual place while I was roaming the area, looking for this girl called Lanhua.
 //0040
@@ -173,7 +173,7 @@ It was plausible that this was an operating room, filled with several mechanical
 //重々しいサウンドが、頭に響きわたる。私は再び、頭痛に見舞われてきた。
 A loud sound rang through my head. Once more, I was assaulted by a terrible headache.
 //ふと、目の前の装置を見てみると、なにやらランプが点滅している。私はそれに若干の興味を抱いた。
-Then, as soon as I glanced at the device, some kind of light started blinking. I found myself quite enthralled by that  light.
+Then, as soon as I glanced at the device, some kind of lightstarted blinking. I found myself quite enthralled by that  light.
 //　◆ もっとよく見てみよう。
 ◆ Let's look a little closer.
 //　◆ この頭痛は耐え難い。部屋を早く出よう。
@@ -197,7 +197,7 @@ The door was ruthlessly blocking my retreat.
 //無駄とはわかっていても、言い様のない不安と緊張が、私の手を動かし続けた。
 Though I knew it was useless, anxiety and fear were making  my hands move on their own.
 //意に反して、ドアは冷然と私の前に立ちふさがっている。
-But the door, impervious to my will, still prevented me from fleeing.
+But the door, impervious to my will, still prevented me fromfleeing.
 //私の拳で、どうこうなる硬さではないらしい。私は、赤く腫れた拳をさすりながら、
 My swollen fists started aching quickly enough - they weren't as hard as the door.
 //（ダメか‥‥‥‥。）
@@ -219,7 +219,7 @@ Getting closer, I finally understood what was the source of that light.
 //側面下方に付いてある、小さなコンソールパネルが点滅している。そこから、ピッ、ピッ、という電子音が、断続的に鳴っているようだ。
 Below on the side, a small console panel was blinking. You  could hear a strident sound intermittently stemming from it.
 //私は屈んでパネルをのぞき込んでみる。そこには小さな文字で、こうディスプレイされていた。
-Crouching down, I peered at the monitor. On it the following characters were displayed:
+Crouching down, I peered at the monitor. On it the followingcharacters were displayed:
 //　　　　　　　　　　　　　P.P.E.
 　　　　　　　　　　　　　P.P.E.
 //\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER
@@ -239,7 +239,7 @@ A heavy sound was resounding from the inside of the capsule.
 //（オペレーティング‥‥何かが作動中、ということだろうか‥‥。）
 (Operating? So does that mean it is in use?)
 //手で、目の前のガラスをコンコンと叩いてみる。厚みのある音がかえってきたが、中には何か入っていそうな感じだ。
-I started knocking at the glass. It sounded hollow, yet I had the feeling something was in there.
+I started knocking at the glass.  It sounded hollow, yet I  had the feeling something was in there.
 //（かなり丈夫そうなガラスだが‥‥‥‥。）
 (The glass looks quite sturdy...)
 //私がそう思ったとき‥‥‥‥。
@@ -257,7 +257,7 @@ fa01
 //（何だ、これは‥‥‥‥。）
 (What is this...?)
 //カプセルの中には、赤毛の女性が横たわっている。しかも、一糸まとわぬ全裸だった。
-Inside the capsule, a red-haired woman was lying down, stark naked.
+Inside the capsule, a red-haired woman was lying down, starknaked.
 //女性というよりはまだ、あどけなさの残る少女、という形容の方が相応しい気もする。肉付きは意外に悪くない。
 Her figure was quite attractive, yet more than that of a woman, she gave off the feeling of a pristine maiden.
 //（どういうことだ‥‥なぜ、こんな少女がここに‥‥‥‥
@@ -291,7 +291,7 @@ The panel was now displaying this message:
 //何か、マズいことでもしてしまったのだろうか‥‥？
 Did I do something wrong?
 //警告音が頭に響きわたる‥‥私は、少し吐き気をもよおしてきた。
-The alarm was resounding through my head. I was getting a bit nauseous.
+The alarm was resounding through my head.  I was getting a  bit nauseous.
 //（何か、とんでもない事をしてしまったのかも知れない‥‥。）
 (Maybe I did something I shouldn't have.)
 //再び、めまいと頭痛に襲われ始めた私は、頭を振りながら、少しでもこの音から遠ざかろうとしていた‥‥。
@@ -301,7 +301,7 @@ Again, I started to feel dizzy. In an attempt to ease my headache, I tried to mo
 //（うぅ‥‥‥‥あ、頭が‥‥‥‥。）
 (Uhh... My head...)
 //未だ頭に響いてくるこの不快な音は、いっこうに止む気配すらなかった。
-That obnoxious sound was still blowing my head. Its presence hadn't waned at all.
+That obnoxious sound was still blowing my head. Its presencehadn't waned at all.
 //（ここは、さっきの廊下‥‥？）
 (Am I in the corridor from before?)
 //（いや、どうも違うようだが‥‥‥‥。）
@@ -315,7 +315,7 @@ Holding my head in my hands, I desperately roamed about...
 //（誰か‥‥‥‥。）
 (Please, someone...)
 //不安と緊張、そして恐怖が、私の意識を次第に遠いものへとしていった‥‥‥‥。
-Anxiety and tension, followed by fear, were gradually taking my awareness away...
+Anxiety and tension, followed by fear, were gradually takingmy awareness away...
 //（意識が‥‥‥‥‥‥。）
 (I'm losing it...)
 //（夢なら早く‥‥早くさめてくれ‥‥‥‥。）

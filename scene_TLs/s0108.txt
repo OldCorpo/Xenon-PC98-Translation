@@ -57,7 +57,7 @@ Whatever happened after that, I don't remember.
 //［コウジ］：定時連絡システムか‥‥‥‥。
 [Kouji]: The regular communications system, huh...
 //［トレイシー］：幸い、プロフェッサがあなたを見つけられたのは、幸運でした。
-[Tracy]: Fortunately, the professor found you. It was a sign of good luck.
+[Tracy]: Fortunately, the professor found you. It was a signof good luck.
 //［コウジ］：そうかもね‥‥ランファは？
 [Kouji]: That might be true...anyway, what happened to Lanhua?
 //［トレイシー］：ランファ‥‥？
@@ -101,7 +101,7 @@ No, this situation is the same as before......
 //［コウジ］：既視感覚‥‥‥‥。
 [Kouji]: Deja vu......
 //［トレイシー］：既視感覚はほとんどの場合、予知夢に依存するのです。
-[Tracy]: Deja vu is largely derived from precognitive dreams.
+[Tracy]: Deja vu is largely derived from precognitive dreams
 //［コウジ］：じゃあ、今こうして話している事が、夢である確率は？
 [Kouji]: Then, is it likely that the conversation we're having right now is in a dream?
 //［トレイシー］：それは‥‥数学的確率論であらわされる性質のものでは、無いと思いますが。
@@ -123,7 +123,7 @@ No, this situation is the same as before......
 //［コウジ］：じゃあ、どうすればいいのさ。
 [Kouji]: Well, what do I do?
 //［トレイシー］：ですから、方法が無い、というのがパラ・サイコロジーの統一的見解です。
-[Tracy]: Parapsychology's unified stance is that there is no method.
+[Tracy]: Parapsychology's unified stance is that there is nomethod.
 //［コウジ］：じゃあトレイシー、君はいったい何をよりどころにして、日々を生活しているんだい？
 [Kouji]: Then, Tracy, what do you take as a basis for daily life?
 //［トレイシー］：私‥‥ですか？
@@ -141,7 +141,7 @@ No, this situation is the same as before......
 //［コウジ］：ファルの‥‥。
 [Kouji]: Far's....
 //［トレイシー］：自分という存在に確信が持てないのは、むしろ当然だって、彼女はいつも言ってましたわ。
-[Tracy]: "It's quite natural to have no way of confirming my own existence," was something she used to say.
+[Tracy]: "It's quite natural to have no way of confirming myown existence," was something she used to say.
 //［コウジ］：むしろ当然、か‥‥‥‥。
 [Kouji]: "It's quite natural", huh...
 //私は腕を頭の後ろで組むと、天井をじっと見つめた。
@@ -197,7 +197,7 @@ As Tracy looked at me suspiciously, pondering how I was deceiving her, the contr
 //［コウジ］：行ってきたら？　もう大丈夫だから‥‥。
 [Kouji]: Do you have to go? Will it be OK...?
 //［トレイシー］：そうですか‥‥では、しばらくしたら、また戻ってきますね。
-[Tracy]: It could be...well, if it's only for a moment, I'll return.
+[Tracy]: It could be...well, if it's only for a moment, I'llreturn.
 //そう言い残すと、トレイシーは部屋からいそいそと出ていってしまった‥‥。
 With those words, Tracy left the room hurriedly....
 //［コウジ］：（しかし、ファル‥‥何だか、様子が変だったけど‥‥。）
@@ -237,7 +237,7 @@ Hmm, what to do. A playback device....
 //確か、ビアンカの部屋にあったぞ‥‥。
 Bianca's room surely had one....
 //そうだ、以前彼女の部屋に行ったとき、ディスクのプレイヤーがあったような気がする。
-That's right, when I went to her room earlier, I think there was a disc player.
+That's right, when I went to her room earlier, I think therewas a disc player.
 //私の部屋と、ほとんど同じまどりだったし、考えてみれば当たり前かもしれないな‥‥。
 Her room's layout looked the same as my room's. If I think  about it, it's obvious...
 //問題は、電源が首尾良くきているかどうか、だが‥‥‥‥。
@@ -253,7 +253,7 @@ It was calm and quiet in the room. Fortunately, the nurse,  Tracy, was nowhere t
 //私はさっそく、端末近くのプレイヤーのスイッチを入れてみた。
 I quickly turned on the switch to the player next to the terminal.
 //意外に大きな音だったので、慌ててビアンカの方を見てみる‥‥。
-There came a loud sound, so I frantically looked in Bianca's direction....
+There came a loud sound, so I frantically looked in Bianca'sdirection....
 //ビアンカは、静かな寝息をたてて、眠っていた。大きな胸が、上下に動いている。
 Bianca was sound asleep. Her large chest was moving up and  down.
 //どうやら、大丈夫らしい‥‥。
@@ -261,7 +261,7 @@ She seems fine....
 //［コウジ］：（プレイヤーに電源はきている‥‥。）
 [Kouji]: (The player is connected to power....)
 //私は、イジェクトボタンを押すと、機械的な音とともにトレイが出てきた。
-I pressed the eject button, and with a mechanical sound, the tray slid out.
+I pressed the eject button, and with a mechanical sound, thetray slid out.
 //私は、それにＭＤを乗せると、再生ボタンを押そうとした。そのとき‥‥。
 I placed the disc in, and pushed the button again. Right then....
 //［コウジ］：な、何だ‥‥どうしたんだ‥‥！？
@@ -291,7 +291,7 @@ Everything around me seems to be going white....
 //［コウジ］：（白昼夢‥‥？）
 [Kouji]: (A daydream...?)
 //私は頭を２、３度横にふると、気を取り直してＭＤ再生機に向きなおった。ディスプレイはＲＥＡＤＹ表示をしたままだ。
-As I shook my head twice or thrice, I turned my attention to the repaired recorder playback machine. The display read "READY".
+As I shook my head twice or thrice, I turned my attention tothe repaired recorder playback machine.  The display read　　"READY".
 //［コウジ］：ＭＤの再生が先だろう‥‥
 [Kouji]: The recorder playback comes first...
 //あっ！！
@@ -301,7 +301,7 @@ The tray in front of me no longer had the micro disc. Where did it go?!
 //慌てて傍らの時計を見てみる。ほんの数十秒しか経過していない‥‥。
 As I frantically looked at the clock beside me, less than a minute had gone by....
 //とりあえず、机周辺を捜してみるが、ＭＤは影も形もない。
-As I looked around the desk for a while, I couldn't find the micro disc.
+As I looked around the desk for a while, I couldn't find themicro disc.
 //さきほどの白昼夢のときに、ＭＤをあやまって飛ばしてしまったのだろうか‥‥。
 During that brief daydream, I must have flung the micro disc out of here by mistake....
 //小さなディスクだから‥‥隙間などに入り込んだら、見つけだすのが困難だろう。
@@ -385,7 +385,7 @@ I shouted quite shrilly, because Far's comment really shocked me.
 //［ファル］：あなたの名前は、第２次調査隊の名簿に存在しなかった‥‥。
 [Far]: Your name is absent from the roster of the second investigative team....
 //［ビアンカ］：だって、彼は第１次調査隊シップの中で、見つけたんだ。
-[Bianca]: But, I saw him from the first investigative team's ship.
+[Bianca]: But, I saw him from the first investigative team'sship.
 //［ファル］：‥‥第１次調査隊の名簿の中にも、彼の名は存在しなかったわ。
 [Far]: ...  He was also absent from the first investigative team's roster.
 //無論、顔写真もね、とファルはつけ加えた。
@@ -407,9 +407,9 @@ In this room, only I have stayed silent this whole time, so I'll keep quiet.
 //他の人たちは、私の今後の対処、という議題で、どうやら議論を交わしている真っ最中なのだろう。
 The others seem to be in the middle of discussing how to handle me from now on (that is to say, their agenda).
 //ドアにはハードウェア的にロックされていて、外には出られないようになっていた。
-The door seemed to have a hardware-based lock, so I probably can't leave anymore.
+The door seemed to have a hardware-based lock, so I probablycan't leave anymore.
 //私は手を頭の後ろで組んで、天井をぼーっと見つめる。議論は、私自身の中で、既に散々なされていた。
-I put my arms behind my head and stared at the ceiling. It  seemed controversy had become thoroughly embedded in my very being.
+I put my arms behind my head and stared at the ceiling. It  seemed controversy had become thoroughly embedded in my verybeing.
 //［コウジ］：自分は一体、誰なのか‥‥。
 [Kouji]: Just who the hell am I....
 //私はもう何度めかになる自問を、繰り返した。

@@ -33,7 +33,7 @@ What in the world...?
 //身を起こした私の目の前には、重厚なサウンドを醸し出している、異様に大きな機械が稼働していた‥‥。
 I got up, and faced a gigantic, strange machine emitting a  loud, heavy sound as it operated.
 //コンソールパネルや、何かのランプが、ちかちかと点滅している。ずっと見ていると、目が痛くなってきそうだ。
-The console panels and some sort of lights were flickering  wildly. If I kept looking at it, my eyes would start to hurt.
+The console panels and some sort of lights were flickering  wildly. If I kept looking at it, my eyes would start to hurt
 //（この暑さは、これのせいか‥‥‥‥。）
 (Is the heat because of this...?)
 //（やけに、大きな機械だな‥‥しかも、騒々しい。）
@@ -51,7 +51,7 @@ Wiping the base of my chin, I realized it was drenched in waterfalls of sweat. T
 //何故、こんなに暑いんだろうか‥‥‥‥。
 Why is it so hot...?
 //暑く、息苦しく、騒々しい場所‥‥‥何分もいられる所ではなさそうだった。
-A hot, stifling, boisterous place...I couldn't stay here for more than a few minutes.
+A hot, stifling, boisterous place...I couldn't stay here formore than a few minutes.
 //（どうやったら、ここから出られるんだろうか‥‥‥‥。）
 (How can I get out of this place...?)
 //ふと、手前右側には、ドアらしきものを発見した。
@@ -111,7 +111,7 @@ I won't pull the switch. Let's find another way around.
 //しかし、別の手段といっても‥‥‥‥。
 But, is there any other way...?
 //蒸し暑く、重低音が頭に響きわたる‥‥私の忍耐は、限界近くにまで来ているようだ。
-In this sultry atmosphere, with a loud low sound resonating through my head...My patience was being pushed to its limits.
+In this sultry atmosphere, with a loud low sound resonating through my head...My patience was being pushed to its limits
 //どうしたら、ここから出ることができるのだろう‥‥。
 How can I get out of this place?
 //私は、壁に手を当てて、めまいを押さえた。と、その時‥‥‥‥。
@@ -153,7 +153,7 @@ I had the feeling the same thing had happened before...
 //あぁ、エンコーダのことね。
  Ah, you mean the Encoder?
 //目の前の女性はクスッと笑みを洩らすと、頬に垂れ掛かる赤い髪の毛をかき上げた。
-The woman was smiling gently. She brushed up her red hair in front of her cheeks.
+The woman was smiling gently. She brushed up her red hair infront of her cheeks.
 //［私］：エンコーダ？
 [Me]: The Encoder?
 //［目の前の女］：最新の、サイコロジカル・マシーンよ。
@@ -231,7 +231,7 @@ Kouji...?
 //［コウジ］：いや‥‥なんというか、自分の名前だけでも知ることができたのは、大きな収穫だった。
 [Kouji]: Well...it's just that I'm very glad I could at least learn my own name.
 //［ファル］：フフ、大げさね‥‥でもあなたの顔、本当に黄色いわ。
-[Far]: *chuckle* You're exaggerating. But your face is truly yellow.
+[Far]: *chuckle* You're exaggerating. But your face is trulyyellow.
 //［コウジ］：黄色？
 [Kouji]: Yellow?
 //［ファル］：あっ、ごめんなさい。黄色はね、感謝の気持ちを表しているの。
@@ -259,7 +259,7 @@ Kouji...?
 //彼女は質問を受けて当惑する教師、という感じだった。
 She sounded like a teacher gotten perplex by a sudden question.
 //やや怪訝そうな表情をしているファルに対峙して、私は、足下を指さしながら、
-Facing a puzzled Far, with a finger pointed at the ground, I said:
+Facing a puzzled Far, with a finger pointed at the ground, Isaid:
 //［コウジ］：ここさ。
 [Kouji]: About here.
 //［ファル］：‥‥ここ？
@@ -277,7 +277,7 @@ Facing a puzzled Far, with a finger pointed at the ground, I said:
 //フゥと１つ溜息を吐くと、ファルは肩をしゃくりあげるようなゼスチャーをしてみせる。
 Sighing deeply, Far shrugged.
 //少し、切なげな表情を私に向けると、ゆっくりと口を開き始めた。
-Turning a somewhat pained face towards me, she slowly opened her mouth.
+Turning a somewhat pained face towards me, she slowly openedher mouth.
 //［ファル］：ここはね‥‥‥‥。
 [Far]: You know, we are inside...
 //ピーピッ、ピーピッ‥‥。
@@ -301,7 +301,7 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［女の声］：はい、それで‥‥見つかったのですか？　彼は。
 [Woman's voice]: You are welcome. Then...did you find _him_?
 //［ファル］：ええ、ここにいるわ。今、状況を説明しているところ。
-[Far]: Yeah, he's here. I was about to explain the situation to him.
+[Far]: Yeah, he's here. I was about to explain the situationto him.
 //［女の声］：そうですか‥‥。
 [Woman's voice]: Is that so...
 //［ファル］：ランファ‥‥彼女は、どうしているの？
@@ -311,7 +311,7 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［ファル］：フフ、早く教えてあげてね。我、救出に成功せり、ってね。
 [Far]: *chuckle* Please inform her soon. Tell her that the  rescue was a success.
 //［コウジ］：（ブリッジって‥‥艦船じゃあるまいし、いったいどういうことだ‥‥？）
-[Kouji]: (A bridge? So are we on board a warship? What's the meaning of this?)
+[Kouji]: (A bridge? So are we on board a warship? What's themeaning of this?)
 //［コウジ］：（それに、プロフェッサと呼ばれていたけど‥‥‥。）
 [Kouji]: (Moreover, she called her "Professor"...)
 //［ファル］：‥‥どうかしたの？　怪訝そうな顔をしているわね。
@@ -366,7 +366,7 @@ Nothing seemed wrong with my body. I tried walking, remaining inside the area di
 //コッ‥‥コッ‥‥コッ‥‥‥‥。
 *tap* *tap* *tap*
 //意味もなく部屋を歩き回ると、硬い音が部屋に響きわたる。
-I was walking aimlessly in circles inside the room, the hard sounds of my footsteps echoing throughout.
+I was walking aimlessly in circles inside the room, the hardsounds of my footsteps echoing throughout.
 //今は、ブーツのような靴を借りて、かろうじて素足という事態だけは免れていた。
 I'd been lent footwear resembling a pair of boots, so at least I was able to avoid walking around barefoot.
 //どうやら、自分の名前もわかった。ここが、どこなのかも判明した‥‥。
@@ -386,7 +386,7 @@ On my left, there was a device resembling a computer terminal, yet nothing was d
 //質素、という言葉が相応しい部屋だった‥‥。
 The word "plain" really aptly fit this room.
 //［コウジ］：これで、ドアにカギが掛かっていたら、ほとんど監禁だな‥‥。
-[Kouji]: If the door were locked, you could practically call this confinement...
+[Kouji]: If the door were locked, you could practically callthis confinement...
 //言ってみて、改めて気付いた。そうか、その可能性もあるな‥‥。
 On second thought, now that I said it, I realized that I could actually have been locked in here.
 //　◆ ドアを開けてみよう。
@@ -430,7 +430,7 @@ If I think about it,
 //［コウジ］：な、何だ‥‥！？
 [Kouji]: What was that!?
 //頭の上の辺りから、音が聞こえてくる。良く見ると、モニターらしきものとパネルが、壁に付いていた。
-I heard a sound coming from above my head. Looking up, I saw a monitor-like panel was hanging on the wall.
+I heard a sound coming from above my head. Looking up, I sawa monitor-like panel was hanging on the wall.
 //［コウジ］：そういえばさっき、あのファルという女性も‥‥。
 [Kouji]: Come to think of it, just now, that girl named Far also...
 //私は、さきほどのエンジンルームでの事を思い出した。確か、このあたりのボタンを‥‥‥‥。
@@ -442,13 +442,13 @@ In the monitor, a blonde girl was smiling. Her smile didn't seem very natural, b
 //［コウジ］：い、いや‥‥少し、休んでいたけどね。
 [Kouji]: W-well, I was resting for a bit.
 //［女］：これから、そちらへ伺おうかと思っているのですが、構わないでしょうか？
-[Girl]: I was thinking of visiting that place from here. You don't mind, do you?
+[Girl]: I was thinking of visiting that place from here. Youdon't mind, do you?
 //［コウジ］：えっ？　これから？
 [Kouji]: Huh? From here?
 //［女］：差し支えるのなら、また後ほどにしますが。
 [Girl]: If you don't mind, I'll see you later.
 //意外に低い物腰に、さきほどの疑惑が、ずいぶんと馬鹿馬鹿しいものに思えてくる。
-With an unexpected , I felt really dumb about my doubts just now.
+With an unexpected , I felt really dumb about my doubts justnow.
 //モニターの中の女性は、笑みを崩さず、じっと私の返答を待っている。
 The girl on the screen kept smiling as she stared at me, waiting for my response.
 //［コウジ］：いや、全く構わない。
@@ -486,15 +486,15 @@ to_bast
 //［女］：私はトレイシー‥‥あなたのお世話を、仰せつかっていますわ。
 [Girl]: I'm Tracy...We just had a conversation earlier.
 //トレイシーと名乗る目の前の女性は、首をちょっとだけ傾けて、ニコリと微笑んだ。
-The girl named Tracy in front of me slightly tilted her head to one side and smiled curiously at me.
+The girl named Tracy in front of me slightly tilted her headto one side and smiled curiously at me.
 //鮮やかな金髪だった。かき上げるとサラサラと音がする、そんな感じだ。
 She had bright blonde hair that felt like it would sound smooth if she ran her fingers through it.
 //小さめの眼鏡を掛け、優しそうに微笑んでいる彼女を見ると、自然と不安がなくなっていく、そんな気もした。
-She had small glasses on, and as I looked at her kind smile, my unease seemed to naturally fade away.
+She had small glasses on, and as I looked at her kind smile,my unease seemed to naturally fade away.
 //［トレイシー］：どうです、ご気分は？
 [Tracy]: How are you doing today?
 //そう言いながら、トレイシーはベッドのシーツを整え、替わりの衣服を椅子の上に畳んでいる。
-As she said this, Tracy tidied the bed sheets and placed the clothes splayed there on the seat.
+As she said this, Tracy tidied the bed sheets and placed theclothes splayed there on the seat.
 //てきぱきとした動作が、なかなか心地よかった。
 With those quick movements, I felt truly better.
 //［コウジ］：気分は、それほど悪くはないけど‥‥。
@@ -546,7 +546,7 @@ And then, I was the only living thing left...
 //［トレイシー］：プロフェッサ‥‥何かあったのですか？
 [Tracy]: Professor...Did something happen?
 //モニターの中には、さきほどの赤毛の女性が映し出されていた。ファルだ。
-On the monitor, the red-haired woman from earlier showed up. It was Far.
+On the monitor, the red-haired woman from earlier showed up.It was Far.
 //何か、慌てているような、そんな感じがする。
 She seemed somewhat panicked.
 //［ファル］：恒星の磁気嵐だわ‥‥かなり、大型なのよ。
@@ -584,7 +584,7 @@ I felt uncertain when she said that, but when Tracy smiled  at me, it really fel
 //［コウジ］：磁気嵐、か‥‥‥‥。
 [Kouji]: The magnetic storm...
 //磁気嵐が、いったいどういう性質のものなのか、私にはわからない。それ故、不安も増大してくる。
-As I realized I had no idea what the nature of that magnetic storm would be, my discomfort grew.
+As I realized I had no idea what the nature of that magneticstorm would be, my discomfort grew.
 //しかし安全に影響は無いと言うのなら、そうなんだろう。
 However, as Tracy said, there was no threat to our safety.
 //もっとも影響があるとしても、私にはどうにもならないのだが‥‥。
@@ -712,7 +712,7 @@ This was the place I visited before...
 //確か、エンコーダとか、言っていたが‥‥‥‥。
 They definitely said something about an encoder.
 //改めて見ると、色々な機材が、床と壁一杯に敷き詰められている。質素な自室とは、えらい違いだった。
-Looking again, there was various equipment laid from the bed to the wall. Someone definitely didn't choose a simple room for themselves.
+Looking again, there was various equipment laid from the bedto the wall. Someone definitely didn't choose a simple room for themselves.
 //［コウジ］：いったい、何に使うんだろう‥‥。
 [Kouji]: What in the world are they using here...
 //そう思って、機械に近づいてみると‥‥‥‥。
@@ -746,7 +746,7 @@ She seemed slightly frightened, but not distraught.
 //私のこの返答に、彼女は少し当惑したようだ。
 On hearing my response, she became a bit embarrassed.
 //だが実際、これ以外言いようが無いのも事実だった。私が、自分の名前を知ったのは、ほんの数時間前なのだから‥‥。
-In truth, I can't say it any other way. After all, I learned my own name just a few hours ago...
+In truth, I can't say it any other way. After all, I learnedmy own name just a few hours ago...
 //［コウジ］：以前も、この辺りで会ったよね。
 [Kouji]: We met here last time, too.
 //［コウジ］：確か、ランファ、だったかな、君の名前は。
