@@ -12,6 +12,9 @@ Inserting noncompliant or unsupported characters may break things. Be aware of t
 
 Translation should be done in a single line.
 
+Line breaks are at 60, 120, 180, 240, anything bigger than the last, will be displayed
+on the next screen. But there a few exceptions to that on colored fonts.
+
 Any comments or translation notes should be added to the line after the translation
 starting with this sign #, example: #This is a comment.
 
