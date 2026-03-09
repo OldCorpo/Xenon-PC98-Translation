@@ -313,7 +313,7 @@ As I stood up...
 //［コウジ］：ほぉ、それでは‥‥。
 [Kouji]: Hoh, well...
 //　◆ では、このマシンの基本コンセプトを言ってみろ。
-◆ Then, tell me about the fundamental concepts behind this  machine.
+◆ Then, explain to the basic principles of this machine.
 //　◆ では、貴様のスリーサイズを言ってみろ。
 ◆ Then, tell me your three sizes.
 //　◆ では、さようなら。

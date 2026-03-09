@@ -685,7 +685,7 @@ The unending, continuous footsteps seemed to be steadily getting farther and far
 //　◆ 無論、あの足音のする方へ行った方がいい。
 ◆ Naturally, I should follow those footsteps.
 //　◆ 現状把握の為にも、もう少し１人で調べてみよう。
-◆ To get a better grip on my situation, I should investigate here alone.
+◆ To better grasp my situation, I'll investigate on my own.
 //無論、あの足音のする方へ行った方がいい。
 Naturally, I should follow those footsteps.
 //第一、ここはどこかもわからないのだ。小さく反響している足音の後を、そっと付いていった。
