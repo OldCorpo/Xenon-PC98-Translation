@@ -166,7 +166,7 @@ But, no matter how much I searched the room, there was no 　sign of my clothes.
 //私は手近のシーツを身体に巻き付けてみた。
 I took the bed sheets and wrapped myself in them.
 //少々動きにくかったが、もつれるほどではない。第一、素っ裸な姿を誰かに見られるよりは、ましだろう。
-It was a little hard to move, but that wasn't that bad. 　　 Surely better than being seen completely naked by someone.
+It was a little hard to move, but that wasn't that bad. 　　Surely better than being seen completely naked by someone.
 //（誰かに‥‥‥？）
 (By someone...?)
 //（誰かって‥‥いったい誰なんだ‥‥？）
@@ -202,7 +202,7 @@ I started examining my bed thoroughly.
 //ほどよい柔らかさの枕と、真っ白なシーツ‥‥いかにも寝心地がよさそうなベッドだった。
 With these fluffy pillows and pure white sheets, it was a 　bed in which one can expect a good night sleep.
 //しかし寝心地の良さそうなベッドの脇に、ブザースイッチは見あたらなかった。
-Yet, beside that seemingly comfortable bed, the buzzer switch was nowhere to be found.
+Yet, beside that seemingly comfortable bed, the buzzer　　　switch was nowhere to be found.
 //（どうやら、こうしていても、しょうがないな‥‥。）
 (It seems it's useless to keep looking for it.)
 //ブザーが無い、ということはナースを呼べないということだ‥‥。
@@ -214,7 +214,7 @@ It was as if my cognitive abilities had deteriorated.
 //呼べないということは、設計者の手落ちなのか‥‥‥‥。
 Maybe they forgot to put a switch...
 //あるいは、最初から呼ぶ必要がないかの、どちらかだろう。
-Or maybe it was never intended for me to call a nurse to begin with.
+Or maybe it was never intended for me to call a nurse to　　begin with.
 //（しかし‥‥‥‥。）
 (However...)
 //私はぐるりと部屋を見回してから、ふと思った。
@@ -226,7 +226,7 @@ Why had I taken for granted that this place was a hospital  or some other kind o
 //それがどういった根拠をもとにしていたのか、自分でもわからない。
 I couldn't even guess on what basis I thought that.
 //（部屋の外へ出れば、何かわかるかもしれない‥‥。）
-(If I leave the room, maybe I'll find some sort of explanation.)
+(If I leave the room, maybe I'll find some sort of　　　　　explanation.)
 //無論この期待にも、何の根拠もなかったのだが、何故かそうした方が良い気がする。
 Of course, this thought had no basis either. Why did I feel like leaving would be better?
 //ふと、床に目を落としてみる。
@@ -236,15 +236,15 @@ The dark blue tiled floor sent a chill up my spine. Moreover, there were no slip
 //（まいったな‥‥‥‥。）
 (I'm beat...)
 //室温は決して低くはなかったが、ひんやりとした床に足を付けると、体温が急速に低下していくのがわかる。
-The room was certainly not cold but, I could feel a chill permeate from the soles of my feet through my entire body.
+The room was certainly not cold but, I could feel a chill　　permeate from the soles of my feet through my entire body.
 //ドアのところまで、ゆっくりと歩いていく。ペタッペタッという音が、室内によく響く。
-While slowly walking towards the door, I could hear my footsteps resounding throughout the room.
+While slowly walking towards the door, I could hear my　　　footsteps resounding throughout the room.
 //病院にしては、ややそぐわないドアだった。重く厚い。
 For a hospital, this kind of door was odd. It was heavy and thick.
 //（誰か人がいるといいのだが‥‥‥‥。）
 (I hope there's someone here...)
 //私は、あわい期待を胸に、重い足取りで部屋を後にした‥‥。
-Then, with faint hope in my heart, I left the room with 　　 heavy steps.
+Then, with faint hope in my heart, I left the room with 　　heavy steps.
 //まずは部屋の中を色々と調べてからだ。
 First, I should investigate the inside of the room.
 //私は、そう考えると、部屋の中を見回し始めた。
@@ -262,7 +262,7 @@ I then looked to the left side. Blue flowers with 　　　　　translucent pet
 //（見たこともない花だが‥‥‥‥。）
 (Never seen that kind of flower before...)
 //もっとも、私が知っている花の種類など、たかが知れている。私の知らない範疇の花なのだろう。
-Moreover, it wasn't important whether this flower was an unknown species to me, as its shape was one I've never seen before.
+Moreover, it wasn't important whether this flower was an　　unknown species to me, as its shape was one I've never seen before.
 //さらに左に視線を動かすと、比較的小さな机と、その上に申し訳なさそうに乗っているディスプレイが目に入ってきた。
 As I look further to the left, I saw a relatively small deskwith a simple monitor on top.
 //（コンピュータ‥‥何かの端末だろうか？）
