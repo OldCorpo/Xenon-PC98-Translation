@@ -7,17 +7,17 @@ bi02
 //［ビアンカ］：フッ、私の姿に臆したか。
 [Bianca]: Heh, has my figure frightened you?
 //［宏治］：まあ、確かにその姿を見れば、誰でもびっくりするだろうな‥‥。
-[Kouji]: Well, anyone seeing your appearance would be shocked....
+[Kouji]: Well, anyone seeing your appearance would be　　　 shocked....
 //［ビアンカ］：フッ、あまりに遅いので、待ちわびだぞ。
 [Bianca]: Heh, you're so late, I got tired of waiting.
 //［宏治］：何だか、来るのが分かっていたような口振りだな。
 [Kouji]: You seem to have known I was coming.
 //［ビアンカ］：そうだ、貴様と再び闘うためにな‥‥貴様の奴隷らの言い分だと、貴様はあのとき本調子では無かったと言うではないか。
-[Bianca]: It's true, I wanted to do battle with you once more...from what I heard from your slaves, you don't seem to be quite yourself from back then.
+[Bianca]: It's true, I wanted to do battle with you once　　more... from what I heard from your slaves, you don't seem  to be quite yourself from back then.
 //［宏治］：まぁ、本来のコウジではないって意味じゃ、そうだな。
-[Kouji]: Well, if you mean I'm not the Kouji from before, you'd be right.
+[Kouji]: Well, if you mean I'm not the Kouji from before,　 you'd be right.
 //［ビアンカ］：フン、何度闘っても同じだと思うが、貴様にそう思われるのもしゃくだ。
-[Bianca]: Hmph, no matter how many times we fight, it's always the same. It bugs me that you think the same way.
+[Bianca]: Hmph, no matter how many times we fight, it's　　 always the same. It bugs me that you think the same way.
 //［宏治］：お心遣い、痛み入りますね。
 [Kouji]: That concern carries a lot of pain, doesn't it?
 //［宏治］：（もうすぐ時間か‥‥。）
@@ -49,7 +49,7 @@ bi02b
 //［宏治］：ちょ、ちょっと今のは効いたぞ。
 [Kouji]: Th-that was a really effective blow.
 //［ビアンカ］：オーッホホホ！　当たり前だ、効かなくては武器にならないではないか。
-[Bianca]: O~hohohoho! Of course it was, if it wasn't effective, you couldn't call this a weapon!
+[Bianca]: O~hohohoho! Of course it was, if it wasn't　　　　effective, you couldn't call this a weapon!
 //ビシィ、ビシィ！
 *Bashee, bashee*!
 //［宏治］：いたっ、いたっ‥‥痛いってば！
@@ -95,15 +95,15 @@ bi02b
 //［コウジ］：《誰がファルネリアの裸を思い浮かべろと言った。》
 [Kouji]: {Someone's memories of Farnelia naked are swimming about.}
 //［宏治］：《しょうがないだろう、何も考えないようにすると、何か考えちゃうんだよ。》
-[Kouji]: {I can't help it, whenever I try not to think of anything, something always comes to mind.}
+[Kouji]: {I can't help it, whenever I try not to think of　 anything, something always comes to mind.}
 //［コウジ］：《私は心を落ちつけろと言っただけだ。何も考えるなとは、言っていない。》
-[Kouji]: {I just said to calm down. I never said not to think of anything.}
+[Kouji]: {I just said to calm down. I never said not to　　 think of anything.}
 //［宏治］：《じゃあどうやって心を落ちつけるんだよ。》
 [Kouji]: {Well, how am I supposed to calm down?}
 //［コウジ］：《そうだな、意外に難しい問題だ。》
 [Kouji]: {Hmm, it seems an unusually hard problem.}
 //［ビアンカ］：何をゴチャゴチャ言ってるんだい、そらそら、どうした！
-[Bianca]: What the hell are you mumbling about, what's going on?!
+[Bianca]: What the hell are you mumbling about, what's goingon?!
 //［コウジ］：《少しは避ける努力をしろ。このままでは、いくら私の強靭な肉体とて‥‥。》
 [Kouji]: {Use a little more effort to dodge. My tough body  should be able to take it...}
 //［宏治］：《避けようとしてるぞ！　だが、上手く避けられないだけだ。》
@@ -123,13 +123,13 @@ bi02b
 //［コウジ］：《‥‥なんだ、それは。》
 [Kouji]: {...What does that mean?}
 //［宏治］：《ノリの悪いヤツだな。ＯＫというオレの時代の俗語だよ！》
-[Kouji]: {You're not great at reading the mood, are you? It's a phrase meaning "OK" in my time's slang!}
+[Kouji]: {You're not great at reading the mood, are you?　　It's a phrase meaning "OK" in my time's slang!}
 //［コウジ］：《うむ、ではいくぞ。》
 [Kouji]: {Ah, then let's go.}
 //［宏治］：（な、なんだ‥‥凄い感覚が‥‥。）
 [Kouji]: (What's this...incredible feeling...)
 //［宏治］：（身体が何倍にも大きくなったような感じだ‥‥これが‥‥。）
-[Kouji]: (It feels like my body is ballooning to several times its size...that must be...)
+[Kouji]: (It feels like my body is ballooning to several　　times its size...that must be...)
 //［宏治］：（これが、コウジの思念‥‥？）
 [Kouji]: (It must be Kouji's conscious....?)
 //［コウジ］：久々だな、ビアンカ。
@@ -149,7 +149,7 @@ bi06
 //［宏治］：うん、何の真似だろうな。
 [Kouji]: Yeah, what am I doing?
 //［ビアンカ］：ふざけるなっ、貴様のしていることだろう！？
-[Bianca]: Don't mess with me, you're the one doing it, aren't you?!
+[Bianca]: Don't mess with me, you're the one doing it,　　　aren't you?!
 //［宏治］：うん、そうなんだけど‥‥。
 [Kouji]: Yeah, but...
 //［宏治］：《おい、コウジ‥‥何の真似だ？》
@@ -157,7 +157,7 @@ bi06
 //［コウジ］：《うむ、とっさに電撃ムチを避け、ビアンカの腕を取ったところまでは上々だったが‥‥。》
 [Kouji]: {Hm, I dodged the electric whip in a moment, and I was good up until I took Bianca's arm...}
 //［コウジ］：《シンクロ時間が過ぎてしまったようだ。後は宏治、貴様にかかっている。》
-[Kouji]: {The synchro time seems to have already passed. I'm leaving the rest to you, Kouji.}
+[Kouji]: {The synchro time seems to have already passed. I'mleaving the rest to you, Kouji.}
 //［宏治］：《んな、無茶苦茶な！》
 [Kouji]: {Hey, what the fuck?!} 
 //［コウジ］：《これが現実なのだ。現実から目を背けようとするな。》
@@ -165,15 +165,15 @@ bi06
 //［宏治］：《説教たれてるんじゃねぇ！　１秒で倒すというアレはどうした！？》
 [Kouji]: {Don't lecture me! What happened to defeating her  in one second?!}
 //［コウジ］：《通信時間が過ぎてしまった‥‥じゃ、後は頼んだぞ。》
-[Kouji]: {Our time to communicate is up...well, give it your all.}
+[Kouji]: {Our time to communicate is up...well, give it yourall.}
 //［宏治］：《お、おいちょっと‥‥。》
 [Kouji]: {H-hey, wait a minute...}
 //［ビアンカ］：フッ、こうして私の自尊心を傷つける訳か、相変わらず姑息なヤツよ。
-[Bianca]: Heh, you're the same underhanded bastard as usual, trying to wound my pride.
+[Bianca]: Heh, you're the same underhanded bastard as usual,trying to wound my pride.
 //［宏治］：うん、確かに。コウジは姑息だぞ。
 [Kouji]: Yeah, Kouji really is underhanded.
 //［ビアンカ］：これで勝ったなどと思うな。私には大逆転のシナリオが用意してあるのだ！
-[Bianca]: Don't think you've won. This is my opportunity for a huge upset!
+[Bianca]: Don't think you've won. This is my opportunity fora huge upset!
 //［宏治］：な、なにそれ。
 [Kouji]: Wh-what's with that reaction?
 //［ビアンカ］：フッ、聞いて驚け。私の奥歯の横にはな‥‥。
@@ -181,9 +181,9 @@ bi06
 //［宏治］：ま、まさか加速装置が‥‥。
 [Kouji]: I-is it some kind of accelerator...?
 //［ビアンカ］：何だそれはっ！　私の奥歯の横にはな、このシップを爆破させる、自爆装置のスイッチが仕込まれているのだっ！
-[Bianca]: No, what the hell? On the side of my molar, there's a self destruct switch for this whole ship embedded!
+[Bianca]: No, what the hell? On the side of my molar,　　　 there's a self destruct switch for this whole ship embedded!
 //［宏治］：お、奥歯の横に、自爆装置ぃ～！？
-[Kouji]: A-a self destruct switch on the side of your molar?!
+[Kouji]: A-a self destruct switch on the side of your molar ?!
 //［ビアンカ］：フハハ、聞いて驚いたか。
 [Bianca]: Muhaha, you heard me right, didn't you?
 //［宏治］：飯を食ってる時に爆発でもしたら、どうするんだよ。
@@ -195,7 +195,7 @@ bi06
 //［ビアンカ］：舌先で、すぐにとれるような便利仕様なのだっ！
 [Bianca]: Where it is, I could easily push it with the tip  of my tongue!
 //［宏治］：（なに、舌先で簡単に取れるだと‥‥？）
-[Kouji]: (What, she could push it that easily with her tongue...?)
+[Kouji]: (What, she could push it that easily with her　　　tongue...?)
 //［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥
 [Bianca]: Hehe, I'm quite pleased that you seem surprised.  Whatever you try, you'll never...
 //な、なにをする！？
@@ -220,9 +220,10 @@ bi06b
 [Bianca]: Mm-......
 //bi06c
 bi06c
-[Kouji]: (Could it be on the outside of her molar...  here? *sniff sniff*.)
+//［宏治］：（奥歯の、外側かな‥‥ここか？　ツンツン。）
+[Kouji]: (Could it be on the outside of her molar ... here? *sniff sniff*.)
 //［宏治］：（よーし、こうなったら、徹底的に調べてやる。）
-[Kouji]: (Ahh, if it's here, I'll have to investigate it thoroughly.)
+[Kouji]: (Ahh, if it's here, I'll have to investigate it　　thoroughly.)
 //［ビアンカ］：んっ、んんんっ‥‥。
 [Bianca]: M-,MMM--...
 //ツンツン、ペロペロ。
@@ -236,9 +237,9 @@ bi06c
 //［宏治］：（ちょっと、さっきから邪魔だなぁ、ビアンカの舌は‥‥。）
 [Kouji]: (Hold it, just earlier, Bianca's tongue was in the way...)
 //［宏治］：（何で、必要以上にオレの舌に絡みついてくるんだ？）
-[Kouji]: (Why would she entwine her tongue with mine even more than necessary?)
+[Kouji]: (Why would she entwine her tongue with mine even　 more than necessary?)
 //［宏治］：（はっ、さては邪魔をしようと‥‥ちょこざいなっ。）
-[Kouji]: (Hah, now it's my turn to be a nuisance...how impudent.)
+[Kouji]: (Hah, now it's my turn to be a nuisance...how　　　impudent.)
 //［宏治］：（こんな舌の妨害などに、オレは屈しないぞ！）
 [Kouji]: (I won't yield to such an obstructing tongue!)
 //［ビアンカ］：んっ、んっ、んっ‥‥。
@@ -246,7 +247,7 @@ bi06c
 //［ビアンカ］：んあぁぁぁぁぁっ‥‥。
 [Bianca]: Mmaaaaaaah-....
 //［宏治］：（あった！　左下の奥歯だ！　し、舌先で取るのは‥‥んっ。）
-[Kouji]: (There! On her lower left molar! Now to get it with the tip of my tongue...mm-.)
+[Kouji]: (There! On her lower left molar! Now to get it withthe tip of my tongue...mm-.)
 //［ビアンカ］：んんんんっっ！
 [Bianca]: Mmmmmm-!
 //［宏治］：（なかなか、どうして‥‥む、難しいぞ。）
@@ -286,7 +287,7 @@ bi06d
 //［宏治］：《はぁ‥‥？》
 [Kouji]: {Huuuh...?}
 //［コウジ］：《愛しているとか何とか言って、その場をしのぐのだ！》
-[Kouji]: {Tell her you love her or something to pull through this situation!}
+[Kouji]: {Tell her you love her or something to pull throughthis situation!}
 //［宏治］：《あのなぁ‥‥。》
 [Kouji]: {Well, uhh....}
 //［コウジ］：《ビアンカは私に惚れている。それを利用しない手はない。》
@@ -294,7 +295,7 @@ bi06d
 //［宏治］：《‥‥お前ってさ。》
 [Kouji]: {...You really are}
 //［コウジ］：《なんだ、宇宙一の大海賊と言いたいのか？》
-[Kouji]: {What, would you like to finish that with "the best in the universe"?}
+[Kouji]: {What, would you like to finish that with "the bestin the universe"?}
 //［宏治］：《お前って、宇宙一の外道だな。》
 [Kouji]: {You really are not the best in the universe.}
 //［コウジ］：《ビアンカは自爆装置を、身体にいくつも取り付けているのだぞ。そのまま爆死したいか？》
@@ -334,7 +335,7 @@ bi06e_m
 //［宏治］：（何なんだ、この展開はっ！？）
 [Kouji]: (What's with this development?!}
 //［宏治］：まぁアレだ、今までのことは、水に流そう。オレが悪かったよ。
-[Kouji]: Well, that's that, let's just treat what happened up until now as water under the bridge. I'm sorry for what happened.
+[Kouji]: Well, that's that, let's just treat what happened  up until now as water under the bridge. I'm sorry for what  happened.
 //［ビアンカ］：ううん、私も、私も悪かったわ‥‥。
 [Bianca]: Mhm, I'm-I'm sorry too...
 //［宏治］：じゃあ、水に流す？
@@ -342,11 +343,11 @@ bi06e_m
 //［ビアンカ］：うん‥‥。
 [Bianca]: Yes....
 //［ビアンカ］：コウジ‥‥私、私はかたときも、お前のことを忘れたことはなかった‥‥。
-[Bianca]: Kouji...  I-I never forgot about you for a single second... 
+[Bianca]: Kouji.... I-I never forgot about you for a single second... 
 //［宏治］：そ、そうなの‥‥？
 [Kouji]: I-is that so...?
 //［ビアンカ］：コウジ、お前さえ許してくれるなら、私はまた、お前と一緒に‥‥。
-[Bianca]: Kouji, if even you will forgive me, I'd still want to be together with you....
+[Bianca]: Kouji, if even you will forgive me, I'd still wantto be together with you....
 //［宏治］：えっ？　えっ？
 [Kouji]: Huh? Wuh?
 //［ビアンカ］：愛してる‥‥コウジ！！　チュッ！
