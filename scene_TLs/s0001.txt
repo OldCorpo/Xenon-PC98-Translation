@@ -134,7 +134,7 @@ Am I some kind of guinea pig...?
 //私は１つ１つ、丸い吸盤を身体から引き剥がしていった。白いノリのような跡は、手でこすって消す。
 I started pulling off the suckers one by one and used my　　hands to rub away the sticky white marks on my skin.
 //ようやく全部の吸盤を引き剥がすと、ベッドから身を起し、次に行動すべきことを思案してみた。
-After I finally finished removing all the suckers, I rose　　upand started thinking about what I should do next.
+After I finally finished removing all the suckers, I rose　　up and started thinking about what I should do next.
 //　◆ ここにいても時間の無駄だ。部屋を出てみよう。
 ◆ Staying here is a waste of time. Let's go out.
 //　◆ ナースを呼ぶことは出来ないだろうか‥‥。
@@ -142,7 +142,7 @@ After I finally finished removing all the suckers, I rose　　upand started thi
 //　◆ まずは部屋の中を色々と調べてからだ。
 ◆ First, I should investigate inside of the room.
 //ここにいても時間の無駄だ。部屋を出てみよう。
-/Staying here is a waste of time. Let's go out.
+Staying here is a waste of time. Let's go out.
 //そう自分に言い聞かせると、私はベッドから立ち上がった。
 As I told myself that, I stood up from the bed.
 //ヒンヤリとした感触が、足の裏から伝わってくる。私は軽く身震いをしてしまった。
@@ -178,7 +178,7 @@ I had the feeling that if I remained here, I would just keepthinking in the wron
 //今は想像よりも行動のときだろう‥‥。
 Now is not the time to think but to act.
 //ドアのところまで、ゆっくりと歩いていく。ペタッペタッという音が、室内によく響いた。
-While slowly walking towards the door, I could hear my footsteps resounding throughout the room.
+While slowly walking towards the door, I could hear my　　　footsteps resounding throughout the room.
 //（ずいぶんと分厚いドアだな‥‥‥‥。）
 (What a thick door...)
 //私は目の前にあるドアをしばし眺めていた。病院にしては、ややそぐわないドアだった。重く厚い。
