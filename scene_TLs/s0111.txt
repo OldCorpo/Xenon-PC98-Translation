@@ -11,7 +11,7 @@ As if we had mistakenly entered a desert,  one side of our  surroundings was cov
 //長い年月のあいだ、恒星の強い光と風雨にさらされて、もはや原型をとどめぬほど色あせ、風化していた。
 Over many years, by the star's strong rays and the wind and rain, the original shape was faded and weathered away to thepoint it couldn't be recognized anymore.
 //周囲が霞んで見えるのは、うっすらと漂う霧のせいだった。
-Our surroundings were hazy, thanks to a lightly floating mist.
+Our surroundings were hazy, thanks to a lightly floating　　mist.
 //［コウジ］：（まるで、夢の中みたいだな‥‥‥‥
 [Kouji]: (This feels like a dream, doesn't it......
 //夢？）
@@ -81,7 +81,7 @@ Far glanced around. From the cloudy sky above us, rain started pitter-pattering 
 //［ファル］：わかったわ‥‥でも、気を付けなさい。銃は？
 [Far]: I understand...but please, take care. Your gun?
 //差し出された銃を私は押し返す。これから行くところは、恐らく銃など不要な気がしたのだ。
-I took back the gun she presented. I had a feeling I wouldn't need it from here to the place I had to go.
+I took back the gun she presented. I had a feeling I　　　　wouldn't need it from here to the place I had to go.
 //［コウジ］：気持ちだけ、ありがたく受け取っておくよ。
 [Kouji]: Thanks, if only for the feeling of comfort.
 //［ファル］：ここで待っているわ。
@@ -91,7 +91,7 @@ I took back the gun she presented. I had a feeling I wouldn't need it from here 
 //［ファル］：そうかしら‥‥。
 [Far]: Is that so....
 //ゆっくりと立ち上がると、身体に付いた砂を手ではらった。砂が風にのって、パラパラと舞っていく。
-As I slowly stood up, I brushed the sand off my body.  The  sand was picked up by the wind, abrasively dancing as it went.
+As I slowly stood up, I brushed the sand off my body.  The  sand was picked up by the wind, abrasively dancing as it　　went.
 //私は１人、地平線のかなたに見えかくれする、黒々しい巨大な遺跡に向かって歩き出した。
 I set foot alone towards the huge black ruins showing beyondthe horizon.
 //ファルの視線を背中に感じながら‥‥‥‥。

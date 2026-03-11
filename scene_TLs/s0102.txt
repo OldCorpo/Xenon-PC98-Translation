@@ -53,7 +53,7 @@ Ryouko, who seemed to be pondering over something while　　 scrutinizing me, f
 //静かな昼下がり、という形容が相応しかった。
 We could accurately describe it as a peaceful afternoon.
 //都会の雑踏とは無縁のこの場所は、微妙な、メンタルな部分に依存する人たちに、快適な環境を提供してくれている。
-Far from the city's throng, this place was a comfy　　　　　 environment offered to delicate, mentally dependent people.
+Far from the city's throng, this place was a comfy　　　　 environment offered to delicate, mentally dependent people.
 //ブラインドから洩れる陽射しが、天候の良さを物語っている。外からは時折、鳥のさえずり声が聞こえるだけで、あたりは概ね静かだ‥‥。
 The sunlight seeping through the blinds indicated good　　　weather. All that could be heard was the occasional sound ofchirping birds...
 //［宏治］：どうしても、言わなくてはダメですか？
@@ -149,7 +149,7 @@ I thought a little about it. I had the feeling I tried to　 figure out why ther
 //［宏治］：‥‥？
 [Kouji]: ...?
 //［涼子］：そう宏治クンが思った、ということが大事なのよ。
-[Kouji]: What matters is that _you_ thought it was a　　　　 hospital room.
+[Kouji]: What matters is that _you_ thought it was a　　　　hospital room.
 //［宏治］：そんなものですか‥‥。
 [Kouji]: Is that so...?
 //［涼子］：そんなものよ。
@@ -185,7 +185,7 @@ Ryouko, showing a wry smile, was writing down my words on　　her notebook.
 //［宏治］：居たたまれなくなって、部屋を出た‥‥そんな気がします。
 I couldn't bear being here any longer, so I left the room.  That's what I think I did.
 //［涼子］：居たたまれなくなって‥‥寂しいとか、そういう感じかしら？
-[Ryouko]: You couldn't bear staying in the room...　　　　　 Was it because you were alone?
+[Ryouko]: You couldn't bear staying in the room...　　　　　Was it because you were alone?
 //［宏治］：そうですね、ここには居られないという強迫観念みたいのが、芽生えた感じでした。
 [Kouji]: Not really. I think there was some growing　　　　　compulsion that dictated I couldn't stay in this place.
 //［宏治］：ナースを呼ぼうとした‥‥ような気がしました。
@@ -269,7 +269,7 @@ I thought being able to do both these things at the same　　time was quite a f
 //［涼子］：ふむ、銀色のドア‥‥と。
 [Ryouko]: *chuckle* A silver door...
 //［涼子］：それで、ドアから出て、夢はおしまい？
-[Ryouko]: Then, you fled by the door and your dream ended　there?
+[Ryouko]: Then, you fled by the door and your dream ended　 there?
 //［宏治］：いいえ、それからが不可解な夢になって‥‥。
 [Kouji]: No, from here on, it becomes inscrutable.
 //［涼子］：ふむ‥‥。
@@ -407,7 +407,7 @@ I tried to talk about the girl I met in the corridor.
 //［宏治］：あの‥‥何か？
 [Kouji]: Err... is something amiss?
 //涼子は、書き取っていたメモを睨んで、しばらく思案していた。おもむろに顔をこちらへ向けると、
-Ryouko, who was glaring at her notebook, seemed deep in　　　thought for a moment. Then, she turned her gaze towards me and said:
+Ryouko, who was glaring at her notebook, seemed deep in　　　thought for a moment. Then, she turned her gaze towards me  and said:
 //［涼子］：‥‥宏治クン、どうもあなた、言っていることに矛盾があるようだわ。
 [Ryouko]: ...Kouji-kun, it seems there are inconsistencies  in what you're saying.
 //［宏治］：そ、そりゃあ夢の中の事ですから‥‥。
@@ -523,7 +523,7 @@ The sunlight seeping through the blind wasn't as vertical asbefore. Thanks to th
 //涼子はペンを机の上に置くと、少し厳しい顔をして自分のとったメモを見つめている。
 Ryouko, putting her pen on top of her desk, somewhat sternlygazed at her notebook.
 //［涼子］：願望充足‥‥というのを知っているかしら？　宏治クン。
-[Ryouko]: Have you ever heard of the notion of "wish　　　　　fulfillment", Kouji-kun?
+[Ryouko]: Have you ever heard of the notion of "wish　　　　fulfillment", Kouji-kun?
 //涼子はふいに顔をあげると、僕を直視した。
 Ryouko,  suddenly raising her head,  stared me right in the eyes.
 //僕には何のことを言っているのか、よく理解できなかったようだ。
@@ -560,11 +560,11 @@ Unexpectedly, I made a reluctant face. With a mischievous　　expression on her
 //［涼子］：フフ、冗談よ。そんな顔をしないの。
 [Ryouko]: *chuckle* That was a joke! Don't take it so　　　　seriously.
 //［涼子］：でも精神医学の分野ではね、その夢があらわす本当の意味を考察しなくては、意味がないの。
-[Ryouko]: But you know, the aim of us psychiatrists is to　inquire about the true meaning behind one's dream.
+[Ryouko]: But you know, the aim of us psychiatrists is to　 inquire about the true meaning behind one's dream.
 //［宏治］：本当の意味‥‥？
 [Kouji]: The true meaning?
 //［涼子］：そう。例えば夢の冒頭‥‥確か、病室のようなベッドで１人きり‥‥。
-[Ryouko]: Yes. Let's take the beginning of your dream, for  example. You were all alone on a bed in some kind of　　　 hospital room, weren't you?
+[Ryouko]: Yes. Let's take the beginning of your dream, for  example. You were all alone on a bed in some kind of　　　　hospital room, weren't you?
 //［涼子］：それは、あなたの現状をあらわしているわ。確か昨日、恵さんが今日来るという連絡を受けたわよね？
 [Ryouko]: That reveals your current condition. If memory　　serves, Megumi told you yesterday that she would be coming　today, didn’t she?
 //［宏治］：恵？
@@ -580,7 +580,7 @@ Today, she’ll come pay me a visit.
 //［涼子］：それで、あなたの願望が強い孤独感となって現れたのね。
 [Ryouko]: Therefore, your desire was realized as this strongfeeling of solitude in your dream.
 //［涼子］：外に出ると聞こえてきた心音のような音は、孤独なあなたの回帰願望をあらわしているのでしょう。
-[Ryouko]: The fact that you heard a sound resembling heartbeats from the outside, sounds quite like regression.
+[Ryouko]: The fact that you heard a sound resembling　　　　heartbeats from the outside, sounds quite like regression.
 //［宏治］：回帰願望？
 [Kouji]: Regression?
 //［涼子］：えぇ。母胎こそ孤独をいやす安息の地、という訳。
@@ -639,7 +639,7 @@ Ryouko, reverting to a serious mood, turned towards me. She looked at me serenel
 //かなわないな、この人には‥‥。
 I’m not in the same league as this woman...
 //しかし最近、物忘れがひどいのは確かだった。どうも記憶がはっきりとしない、そんな事を考える事が、少なくなかった。
-But it’s true that lately, I've been forgetting a lot of　　things. I've noticed that my memory constantly becomes vague.
+But it’s true that lately, I've been forgetting a lot of　　things. I've noticed that my memory constantly becomes vague
 //何と言ったらいいのだろう‥‥。
 What should I say?
 //ほんの数時間前のことも、あまり自信がなかった。いや、もしかしたら、数分前のことさえ‥‥。
@@ -655,11 +655,11 @@ To my surprise, it seemed I’d spent a lot of time in thought. Ryouko was peeki
 //［宏治］：な、何言ってるんですか！
 [Kouji]: W-What are you talking about?!
 //僕は、少しムキになって強い口調で抗議した。涼子は僕の顔を見て、クスクスと笑っている。顔が赤らんでいたかもしれない。
-Losing my mind over something trivial, I protested with a　　harsh tone. Ryouko was gazing at my face, giggling. I may　have blushed.
+Losing my mind over something trivial, I protested with a　　harsh tone. Ryouko was gazing at my face, giggling. I may　 have blushed.
 //先日、データの採集ということで、妙なモノを採取された覚えがある。僕は怪訝に思いながらも、協力はした。
 I recalled that the other day, I had an unusual experiment  performed on me by Ryouko, who had claimed she was doing it to gather some data. Even though I was suspicious, I had　　agreed to lend a hand.
 //でも、精神分析に、なんで必要なのかな‥‥健康診断でもあるまいに‥‥。
-But I still couldn't see the point of it; weren't we　　　　 supposed to do psychoanalysis? So why a physical examination?
+But I still couldn't see the point of it; weren't we　　　　supposed to do psychoanalysis? So why a physical examination?
 //［宏治］：今日はもう、失礼して構いませんか？
 [Kouji]: Do you mind if I leave now for today?
 //［涼子］：えぇ‥‥明日は、また協力してもらうわ。
