@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python3
 #
 # A script to verify the Xenon translations in .U.CC files 
 # 
