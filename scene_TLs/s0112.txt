@@ -277,7 +277,7 @@ Ryouko revealed herself from the device's shadow and　　　　confronted Sayak
 //［涼子］：愚かな女性ね‥‥‥‥。
 [Ryouko]: You stupid woman...
 //［沙夜香］：涼子、あなたをＡ級犯罪者として逮捕、身柄を拘束します。
-[Sayaka]: Ryouko, I'm arresting and detaining you as a　　　Class:A Criminal.
+[Sayaka]: Ryouko, I'm arresting and detaining you as a　　　Class-A Criminal.
 //沙夜香は、懐から拳銃を取り出すと涼子に構えた。表情は厳しい。
 Sayaka pulled a handgun from her bosom and pointed straight at Ryouko. She looked serious.
 //［涼子］：フッ、好きにするがいいわ‥‥。
