@@ -645,7 +645,7 @@ What should I say?
 //ほんの数時間前のことも、あまり自信がなかった。いや、もしかしたら、数分前のことさえ‥‥。
 I wasn't even sure about what happened a few hours ago. Nay,maybe even what happened a few minutes ago.
 //意外に考えていた時間が短くなかったようだ。涼子は心配そうに僕をのぞき込んできた。
-To my surprise, it seemed I’d spent a lot of time in thought. Ryouko was peeking at me with a worried look on her face.
+To my surprise, it seemed I'd spent a lot of time in thought. Ryouko was peeking at me with a worried look on her face.
 //［涼子］：どうしたの？　これから何をするか、もう忘れたとか？
 [Ryouko]: What is it? Have you already forgotten what you'resupposed to do now?
 //［宏治］：ち、違いますよ。少し考え事をしていただけで‥‥。

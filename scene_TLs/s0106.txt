@@ -481,7 +481,7 @@ I was silent for a bit as I got out of that narrow cockpit  ...
 //［ファル］：どうしたの？　コウジ。
 [Far]: Kouji, how are you feeling?
 //［コウジ］：いやその‥‥君らのシップと、似てやしないかい？
-[Kouji]: It's just...this ship looks a lot like yours, doesn't it?
+[Kouji]: It's just...this ship looks a lot like yours,　　　doesn't it?
 //［ファル］：それはそうよ、同型のシップですもの。さてと‥‥。
 [Far]: You're right, it's the same model of ship as ours.　 Now, let's see...
 //［ファル］：ランファはエンジンの方から当たって頂戴。私はブリッジから。
@@ -749,7 +749,7 @@ The interior of the hangar was chilly, calm, and quiet...
 //私の歩く音だけが、あたりに響きわたっていた。
 As I walked, my footsteps echoed all around me.
 //シャトルのエンジン付近だけは、ものすごい熱を帯びていた。そばを通ると、頬の反面だけ、ジリジリと焼けこげるような感覚を覚える‥‥。
-As I got closer to the shuttle's engine, I felt an　　　　　incredible warmth. As I walked past it, the other side of  my cheek felt like it was burning...
+As I got closer to the shuttle's engine, I felt an　　　　　incredible warmth. As I walked past it, the other side of　 my cheek felt like it was burning...
 //あたりの水蒸気は、もう真っ白く気化していて、幻想的な雰囲気を漂わせていた‥‥。
 The steam around me gave this place a dream-like sensation  ...
 //生存者とおぼしい人は、見つかりそうもない‥‥格納庫内には、私が１人いるだけだろう‥‥。
@@ -797,7 +797,7 @@ The middle of the room seemed a little dusty. As I walked,  white ash puffed up 
 //もう何年も、人が訪れていないような、そんな雰囲気すら漂っている。恐らくここには、誰もいない‥‥。
 It felt as though no one had been here for years. It was　　quite likely no one was here now...
 //私は部屋の奥へ入っていくと、丁度や間取りなどを確認した。間取りは、ファルたちのシップと、そう大差はなさそうだ。
-I walked toward the back of the room, confirming the layout of the room. It was roughly similar to the one on Far's ship.
+I walked toward the back of the room, confirming the layout of the room. It was roughly similar to the one on Far's ship
 //ついたてのようなカーテン、ベッド、脇の通信パネル、端末、机と‥‥
 The well-ordered curtains, beds, side communication panels, terminals, desks, and...
 //ん？
@@ -889,7 +889,7 @@ As I turned toward the door....
 //［コウジ］：ファル‥‥どこから‥‥。
 [Kouji]: Far...What is it...?
 //やや声の調子がおかしい。それが放送の声だと気付くまで、私はあたりを見回してしまった。
-Her voice had a strange tone. As I looked around me, I realized it was the sound of a broadcast.
+Her voice had a strange tone. As I looked around me, I　　　realized it was the sound of a broadcast.
 //xenon_15
 xenon_15
 //ガガーーーンッッ！！！

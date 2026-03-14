@@ -727,7 +727,7 @@ Ryouko looked at me with a far-reaching gaze. No, not at me,but at something beh
 //［宏治］：思念があるところに、意識があるということですか？
 [Kouji]: In a place capable of thought, is consciousness　　necessarily also present?
 //［涼子］：フフ、どちらが先かは問題じゃないの。でも人間という存在は、ある種の思念体と、考えられるわね。
-[Ryouko]: Hehe, which came first isn't a problem. But it's  conceivable that the human existence requires some type of "thought body".
+[Ryouko]: Hehe, which came first isn't a problem. But it's  conceivable that the human existence requires some type of  "thought body".
 //［宏治］：思念体‥‥？
 [Kouji]: "Thought body"...?
 //［涼子］：そう。考え思う思念こそ意識であって、そこに人間が存在すると考えるのは、必然だと思うわ。
