@@ -485,13 +485,13 @@ With that thought, I said to Ryouko:
 #I'll ask a native about that. (after asking, it's just some kind of idiom to designate a nameless person. My friend didn't know the details.
 #I can't think of an idiom to translate it in English.
 //［宏治］：いえ、名無しではなくて、名前を思い出せなかったんだと思います。
-[Kouji]: No, I couldn't recall my name, but I think I had one.
+[Kouji]: No, I couldn't recall my name, but I think I had　 one.
 //［涼子］：ふむ‥‥で、その女の子の名前は？
 [Ryouko]: *chuckle* Then, what was her name?
 //［宏治］：女の子？
 [Kouji]: Her?
 //［涼子］：ほら、あなたの夢に出てきたという、女性の事よ。
-[Ryouko]: Hey! the girl you saw in your dream.
+[Ryouko]: Hey! The girl you saw in your dream.
 //［宏治］：あぁ、確か‥‥。
 [Kouji]: Ah...Hmm...
 //［宏治］：すみません、思い出せません。
