@@ -109,7 +109,7 @@ What day of the week and what day is it today?
 //［舞］：はい‥‥‥‥。
 [Mai]: OK......
 //舞は消え入りそうなか細い声で返事をすると、涼子の後にトコトコと付いていく。
-As Mai replied in a faint, almost disappearing voice,  she  walked away behind Ryouko.
+As Mai replied in a faint, almost disappearing voice, she　 walked away behind Ryouko.
 //［宏治］：舞さん。
 [Kouji]: Mai-san.
 //［宏治］：舞さん、その‥‥‥‥。
@@ -555,7 +555,7 @@ Sayaka's eyes glowed as they caught me. Does she know　　　 something about w
 //［沙夜香］：恵さん、他に何か言っていなかったの？
 [Sayaka]: Did Megumi-san say anything else?
 //［宏治］：あ、あぁ‥‥そういえば、マインド何とかって‥‥。
-[Kouji]: Ah, ahh...  that's right, she said something about "mind"....
+[Kouji]: Ah, ahh... that's right, she said something about  "mind"....
 //［沙夜香］：なんですって？
 [Sayaka]: What was it?
 //［宏治］：そう、確か‥‥マインド‥‥マインドコントロール‥‥そうだ、マインドコントロール・マシンとか、言っていた。

@@ -387,7 +387,7 @@ I shouted quite shrilly, because Far's comment really　　　 shocked me.
 //［ビアンカ］：だって、彼は第１次調査隊シップの中で、見つけたんだ。
 [Bianca]: But, I saw him from the first investigative team'sship.
 //［ファル］：‥‥第１次調査隊の名簿の中にも、彼の名は存在しなかったわ。
-[Far]: ...  He was also absent from the first investigative team's roster.
+[Far]: ... He was also absent from the first investigative  team's roster.
 //無論、顔写真もね、とファルはつけ加えた。
 "Of course, I checked the profile photos, too," Far added.
 //しばし、呆然としていたかも知れない。第２次調査隊の一員、という立場が、今の私を辛うじて納得させていた要因だった。
