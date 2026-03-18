@@ -615,7 +615,7 @@ A lively voice rang out. That must mean...
 //［宏治］：‥‥まさか。
 [Kouji]: ...You're kidding.
 //［恵］：だから宏治、あなたも気を付けないと。
-[Megumi]: Come on, you've felt the same way,  haven't you,  Kouji?
+[Megumi]: Come on, you've felt the same way, haven't you,　 Kouji?
 //［宏治］：考えすぎだよ、恵は。
 [Kouji]: You're overthinking it, Megumi.
 //［恵］：最近あなた、身体に不調とか、ない？

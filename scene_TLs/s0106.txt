@@ -273,7 +273,7 @@ With good timing, Far called out to me.
 //［コウジ］：調査隊の人たちさ。
 [Kouji]: The investigative teams.
 //［ファル］：あぁ‥‥とりあえず、本国へご帰還願ったわ。一命は取り留めたようだけど、あのままじゃ任務遂行は不可能だしね。
-[Far]: Ah...  for now, we want to return them to their home countries. Even though we saved one life, we can't complete our mission that way.
+[Far]: Ah.... for now, we want to return them to their home countries. Even though we saved one life, we can't complete our mission that way.
 //［コウジ］：そうか‥‥。
 [Kouji]: I see...
 //［ファル］：船は遠隔で操作すればいいわ。とりあえず、エイレートに近づかなければ、危険はなさそうだから。
@@ -351,7 +351,7 @@ fa_ba_b
 //［コウジ］：行く。
 [Kouji]: I'll go.
 //［ファル］：フフ、そうこなくちゃ‥‥じゃあトレイシー、後のことは頼んだわ。ビアンカのことも‥‥。
-[Far]: Hehe, if that's how it is...  then Tracy, I'll leave the rest to you. Bianca as well...
+[Far]: Hehe, if that's how it is.... then Tracy, I'll leave the rest to you. Bianca as well...
 //［トレイシー］：わかりました、プロフェッサ。
 [Tracy]: Understood, Professor.
 //［コウジ］：（第２次調査隊の、スペースシップか‥‥‥‥。）

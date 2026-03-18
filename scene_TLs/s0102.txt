@@ -301,7 +301,7 @@ Again, Ryouko was staring far away, as if pondering over　　something.
 //［涼子］：どう、違うの？
 [Ryouko]: What was it, then?
 //なかなか上手く、言葉では伝わらないものだ。僕は、この感覚を伝える言葉を慎重に吟味した。
-It was something hard to express with words.  That's why I  strove to choose the right words to convey the right feeling
+It was something hard to express with words. That's why I　 strove to choose the right words to convey the right feeling
 //［宏治］：何と言えばいいのか‥‥そう、やけに現実感を欠くような感じで、不安がヒシヒシと伝わってくるような‥‥。
 [Kouji]: How to put it... It was as if the place was lackinga sense of reality, making me really uneasy.
 //［涼子］：夢だもの、現実感を欠くのは、むしろ当然じゃなくて？
@@ -519,13 +519,13 @@ The contents of my memory were oddly vague. I felt　　　　　frustrated when
 //［涼子］：そう、残念だわ。
 [Ryouko]: I see. That's a shame.
 //ブラインドからもれてくる陽射しは、もうかなり中の方まで進入してくる。それは、意外に時間が経過していることを僕に教えていた。
-The sunlight seeping through the blind wasn't as vertical asbefore. Thanks to that, I learned that quite some time had  passed without me noticing it.
+The sunlight seeping through the blinds wasn't as vertical  as before. Thanks to that, I learned that quite some time　 had passed without me noticing it.
 //涼子はペンを机の上に置くと、少し厳しい顔をして自分のとったメモを見つめている。
 Ryouko, putting her pen on top of her desk, somewhat sternlygazed at her notebook.
 //［涼子］：願望充足‥‥というのを知っているかしら？　宏治クン。
 [Ryouko]: Have you ever heard of the notion of "wish　　　　fulfillment", Kouji-kun?
 //涼子はふいに顔をあげると、僕を直視した。
-Ryouko,  suddenly raising her head,  stared me right in the eyes.
+Ryouko, suddenly raising her head, stared me right in the　 eyes.
 //僕には何のことを言っているのか、よく理解できなかったようだ。
 I didn't really know how I was supposed to answer to that.
 //［宏治］：願望充足‥‥‥‥願望の充足、の事ですか？
@@ -533,7 +533,7 @@ I didn't really know how I was supposed to answer to that.
 //［涼子］：フフ、面白いわね、キミ。
 [Ryouko]: *chuckle* What a funny fellow you are.
 //涼子は薄く笑みをこぼすと、ゆっくり足を組み替えた。不本意ながら、目がそちらへ向いてしまう。
-Ryouko,  showing a wry smile,  slowly re-crossed her legs.  Without meaning to, I turned my eyes towards them.
+Ryouko, showing a wry smile, slowly re-crossed her legs.　  Without meaning to, I turned my eyes towards them.
 //［涼子］：願望充足の評価は、夢を分析するときの、１つの指標の事よ。
 [Ryouko]: The assessment of wish fulfillment is one of the  indicators used for dream analysis.
 //［宏治］：指標？
@@ -545,7 +545,7 @@ Ryouko,  showing a wry smile,  slowly re-crossed her legs.  Without meaning to, 
 //どうも納得がいかない。僕の見た夢は、息苦しく、孤独感に苛まされ、ひしひしと恐怖が伝わってくるという感じだった。
 I couldn't agree with her. In my dream, I was tormented by  solitude, stricken with fear.
 //どこが願望の充足になるというのだろうか。僕はそのことを、彼女に伝えた。
-How on earth is that "wish fulfillment"?  When I asked her  about this, she said,
+How on earth is that "wish fulfillment"? When I asked her　 about this, she said,
 //［涼子］：見た目で判断するのは、良くないわね。
 [Ryouko]: You shouldn't judge by appearances only.
 //［宏治］：でも、あの夢が僕の願望をあらわしているなんて‥‥僕は別にマゾじゃありません。
@@ -609,7 +609,7 @@ As she hit the mark, I stuttered a little. It seemed she　　hadn't missed that
 //僕は椅子を立ち上がった。膝が少し痛い。長い間、同じ格好で座っていたせいだろう。
 I stood up from the chair. My knees were a little sore sinceI had sat in the same position for a long time.
 //ブラインドからもれる陽射しは、かなり長く、オレンジ色の光を室内に満たしていた。
-The sunlight seeping through the blind was now nearly　　　　horizontal. Sunset rays filled the entire room.
+The sunlight seeping through the blinds was now nearly　　　 horizontal. Sunset rays filled the entire room.
 //［宏治］：（今日は、ずいぶんと長いカウンセリングになったな‥‥。）
 [Kouji]: (Today, the counseling dragged on, didn’t it...)
 //［涼子］：そうそう、肝心な事を聞かなくては‥‥。
@@ -645,7 +645,7 @@ What should I say?
 //ほんの数時間前のことも、あまり自信がなかった。いや、もしかしたら、数分前のことさえ‥‥。
 I wasn't even sure about what happened a few hours ago. Nay,maybe even what happened a few minutes ago.
 //意外に考えていた時間が短くなかったようだ。涼子は心配そうに僕をのぞき込んできた。
-To my surprise, it seemed I'd spent a lot of time in thought. Ryouko was peeking at me with a worried look on her face.
+To my surprise, it seemed I'd spent a lot of time in　　　 thought. Ryouko was peeking at me with a worried look on her face.
 //［涼子］：どうしたの？　これから何をするか、もう忘れたとか？
 [Ryouko]: What is it? Have you already forgotten what you'resupposed to do now?
 //［宏治］：ち、違いますよ。少し考え事をしていただけで‥‥。
