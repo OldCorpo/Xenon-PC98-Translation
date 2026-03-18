@@ -211,7 +211,7 @@ My legs were as sore as my head. Right now, I was moving my body just so I could
 //1070
 1070
 //静かなロビーだった。空調設備としての、レトロな扇風機が天井で回っていた。
-The lobby was quiet. Instead of an air conditioner,  an old-fashioned fan was whirling about on the ceiling.
+The lobby was quiet. Instead of an air conditioner, an　　　old-fashioned fan was whirling about on the ceiling.
 //人は少なく無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
 An inorganic place with few people. Amidst all this, Mai’s figure stood out like a sole blooming flower.
 //いつの間にか、ロビーには僕らだけになっていた。
