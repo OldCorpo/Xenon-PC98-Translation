@@ -13,7 +13,7 @@ I also want to make contact with the master of the weak　　 spirit residing in
 //［コウジ］：舞を捜しに行こう。
 [Kouji]: I'll go search for Mai.
 //彼女無くして、ジェネレータの存在はあり得ない。精神の同調も不都合はないようだ。
-If she isn't here, the generator's useless.  Spirit tuning  would also be inefficient.
+If she isn't here, the generator's useless. Spirit tuning　 would also be inefficient.
 //涼子１人に任せておくのは、いささか心許ないからな‥‥。
 I'm a bit uneasy leaving it all to Ryouko alone...
 //しかし、いったいどこに‥‥‥‥。
@@ -31,7 +31,7 @@ Yes, it's certainly worth confirming...
 //［沙夜香］：フフ、ちょっと、イっちゃってる人用の病棟よ。
 [Sayaka]: Hehe, well, it's the ward for loonies.
 //目の前の失礼な女は、私がイっちゃっていると暗喩しているらしい。私は己のことを、こやつにわからせねばならない義務感を感じた。
-The impolite woman before me was implying I was insane.  I  felt an inexplicable duty towards this cur.
+The impolite woman before me was implying I was insane. I　 felt an inexplicable duty towards this cur.
 //［コウジ］：フン、我がゆくは、星の大海のみ‥‥。
 [Kouji]: Hmph, I am known, across the vast sea of stars, as ...
 //［沙夜香］：やっぱりイっちゃってるわ、あなた。フフ‥‥。
@@ -57,7 +57,7 @@ As she sidled up to me, Sayaka said this to me in a rather  hushed tone.
 //［沙夜香］：さっきの話の続きよ。あのマシンのこと、あなた詳しいんでしょ？
 [Sayaka]: Continuing from earlier, you know a lot about thatmachine, don't you?
 //［コウジ］：フン、聞いて驚け、私も同コンセプトのマシンを、製作した事がある。
-[Kouji]: Hmph, you might be surprised to hear this,  but I  have built a machine with the same concept.
+[Kouji]: Hmph, you might be surprised to hear this, but I　 have built a machine with the same concept.
 //［沙夜香］：そ、それって本当！？
 [Sayaka]: Is-is that really true?!
 //［コウジ］：別に信じて貰う必要はないがな‥‥。
@@ -179,11 +179,11 @@ The time for thinking about what I should do next came quitesuddenly.
 //［コウジ］：ライトは点いている‥‥とすると‥‥。
 [Kouji]: The lights are coming on...it seems...
 //三半規管に、急激な失調感が訪れた。地面が揺れたと思ったら、片膝を床についていた。
-I suddenly felt a loss of balance from my inner ear.  As I  felt the earth beneath me trembling, I fell on one knee ontothe bed.
+I suddenly felt a loss of balance from my inner ear. As I　 felt the earth beneath me trembling, I fell on one knee ontothe bed.
 //［コウジ］：くっ‥‥大宇宙海賊たる、この私が‥‥。
 [Kouji]: Kuh...I'm a galactic pirate, dammit...
 //地面が急速に私の方へと起きあがってくる。意識が遠のいていく‥‥私は床の冷たさを感じながら‥‥。
-The earth rapidly rose towards me.  My consciousness faded  far away...as I felt the coldness of the bed...
+The earth rapidly rose towards me. My consciousness faded　 far away...as I felt the coldness of the bed...
 //Ｄ
 Ｄ
 //（ファル‥‥‥‥。）
@@ -213,7 +213,7 @@ ko01
 //［コウジ］：貴様では、ビアンカには勝てん。
 [Kouji]: You will not prevail against Bianca.
 //［男］：さ、さっき、『よけろ』って耳元で叫んだ男か！？
-[Man]: Just now, were you the man who shouted in my ear,  " Move aside! "?
+[Man]: Just now, were you the man who shouted in my ear,　　"Move aside!"?
 //［男］：誰だ、お前は。
 [Man]: Just who are you?
 //［コウジ］：私のことか？
@@ -229,11 +229,11 @@ ko01
 //［男］：単なる夢。
 [Man]: A mere dream.
 //［コウジ］：私は妄想でもないし、２重人格でもないし、そしてこれは夢ではない。
-[Kouji]: I'm neither a delusion,  nor another personality,  and this is not a dream.
+[Kouji]: I'm neither a delusion, nor another personality,　 and this is not a dream.
 //［男］：じゃあ何だよ。
 [Man]: Well, then, what are you?
 //［コウジ］：私こそ、天才かつ大宇宙の覇者たらんとする、大海賊である。
-[Kouji]:  I am the genius pirate who'll one day become the  supreme ruler of this universe.
+[Kouji]: I am the genius pirate who'll one day become the　 supreme ruler of this universe.
 //［男］：はぁ？
 [Man]: Huh?
 //［コウジ］：ビアンカとの一件、こちらから見させてもらった。どうやら、意識が不定期にシンクロしているようだ。
@@ -291,11 +291,11 @@ ko01
 //［宏治］：その呼び方はやめろってば。
 [Kouji]: Also, stop calling me that.
 //［コウジ］：ビアンカはああ見えて、なかなか手強い。
-[Kouji]: Just from looking at Bianca,  it's apparent she's  quite strong.
+[Kouji]: Just from looking at Bianca, it's apparent she's　 quite strong.
 //［宏治］：そりゃ、あの体つきと、迫力を見ればわかるよ。おまけに電撃ムチまでモロにくらっちまって‥‥。
 [Kouji]: It's true, you can tell from looking at her　　　　forceful figure. Besides, her electric whip would utterly　 consume you...
 //［コウジ］：いくら私の身体をもってしても、中に入っている思念体が脆弱でかつ貧弱であれば、ヤツを倒すのは不可能だ。
-[Kouji]: Even with my body, if the controlling thought body were weak and deficient,  it would be impossible to defeat  her.
+[Kouji]: Even with my body, if the controlling thought body were weak and deficient, it would be impossible to defeat　 her.
 //［宏治］：喧嘩うってんのかよ、おい。
 [Kouji]: Hey, are you going to set up the fight or what?
 //［コウジ］：今からそう、ちょうど１万８千秒後‥‥。
@@ -343,7 +343,7 @@ ko01
 //［宏治］：うるせぇほっとけ。そんなこと、本当にあり得るのか？
 [Kouji]: Shuddup already. Has such a thing really happened?
 //［コウジ］：思念体は、あくまで形而上のものでしかない。
-[Kouji]: Thought bodies are, after all,  mere metaphysical  entities.
+[Kouji]: Thought bodies are, after all, mere metaphysical　 entities.
 //［宏治］：はぁ？
 [Kouji]: Huh??
 //［コウジ］：つまりだ、感性形式によるアポステリオリな経験現象としてではなく、理性的思考によってのみ、初めて捉えることができる究極の事象のことだ。
@@ -383,9 +383,9 @@ ko01
 //［コウジ］：つまりだ、私の意識が回復しだしているということだ。
 [Kouji]: In other words, my consciousness recuperated.
 //［宏治］：今、意識が遠のくって言ったじゃないか。
-[Kouji]: Just now,  didn't you say our consciousnesses are  far apart?
+[Kouji]: Just now, didn't you say our consciousnesses are　 far apart?
 //［コウジ］：夢の中での意識が遠のけば、必然的に現実の意識が回復するのは自明の理であろう。
-[Kouji]: If our dream consciousnesses are far apart,  it's  self-evident that the recuperation of our real　　　　　　　consciousnesses was inevitable.
+[Kouji]: If our dream consciousnesses are far apart, it's　 self-evident that the recuperation of our real　　　　　　　consciousnesses was inevitable.
 //［宏治］：勝手なやつだぜ。
 [Kouji]: Well, isn't that just convenient for you.
 //［コウジ］：こちらにも、都合というものがある。
@@ -445,7 +445,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：んもう、つれないのね。ここまで、私が運んできてあげたのよ。
 [Sayaka]: Humph, how cold, after I came all this way to you.
 //［コウジ］：その格好と、運ぶことと、いったい何の関連があるのだ？
-[Kouji]:  Is there some relationship between that pose and  the fact that you came here?
+[Kouji]: Is there some relationship between that pose and　 the fact that you came here?
 //［沙夜香］：そんな、尖らないでよ。
 [Sayaka]: You don't have to get so nervous.
 //［コウジ］：目的はなんだ？
@@ -473,7 +473,7 @@ saya05
 //［コウジ］：はいつくばる奴が、どうかしている。
 [Kouji]: What do you think of becoming my groveling slave?
 //［沙夜香］：フフン、口ではそんなこと言っても、アソコはもうビンビンじゃない‥‥。
-[Sayaka]: Huhu, even if you say that,  you're quite lively  there already, aren't you...?
+[Sayaka]: Huhu, even if you say that, you're quite lively　 there already, aren't you...?
 //［沙夜香］：ほーら、こうすれば‥‥。
 [Sayaka]: See, if I do *this*...
 //りゅっ、りゅっ、りゅっ‥‥。
@@ -489,7 +489,7 @@ Squeak, squeak, squeak...
 //［沙夜香］：もう、こんなにビクビクしちゃってくるくせに‥‥。
 [Sayaka]: And yet, you're still so hard....
 //［沙夜香］：ほら、やせ我慢しないで、イっちゃいなさいよ。若いんだから、１回くらいどうってことないんでしょ？
-[Sayaka]: Now, don't hold back, cum already.  You're still  young, so just once wouldn't be enough, would it?
+[Sayaka]: Now, don't hold back, cum already. You're still　 young, so just once wouldn't be enough, would it?
 //［沙夜香］：いいのよ、このまま出しても‥‥顔にかける？　それとも口の中？
 [Sayaka]: Good, just like that, cum...do you want to cum on my face? Or in my mouth?
 //［沙夜香］：ンフフ、じゃあ、いいわよ‥‥このまま出しても‥‥。
@@ -583,7 +583,7 @@ Sploch, sploch, sploch!!
 //［沙夜香］：いやぁぁぁぁぁっ、膣内にドクドク入ってくるぅぅっ！！
 [Sayaka]: NOOOOOOO, it's pumping out inside me!!
 //ぐったりとした沙夜香の目には、大粒の涙が浮かんでいる。どうやら、こればかりは本当のようだった。
-In Sayaka's limp eyes, big tears welled up.  Somehow, only  these seemed real.
+In Sayaka's limp eyes, big tears welled up. Somehow, only　 these seemed real.
 //無論、そんなことに憐憫や同情をかける謂れは私にはない。この女の、自業自得なのだ。
 It matters not. Such a thing cannot stir up pity or sympathyin me. This woman got what she deserved.
 //沙夜香は緩慢な動作で、ゆっくりと衣服を着用していく。服を着けると、私の方へキッと向き直った。
@@ -607,7 +607,7 @@ Indeed, Sayaka's face flushed bright red.
 //沙夜香は言ってから、しまったという顔をした。手で口元を抑えるが、音声は既に空気を媒介として、私の鼓膜に達している。
 As Sayaka said this, she made a face as if to say, "I'm donefor." As she covered her mouth with her hand, her voice　　 traveled through the air to my eardrums.
 //この女は意外にウブだったようだ。色仕掛けなど、最初からやめればよかったものを。
-This woman was unusually naive.  It would have been better  for her not to seduce me in the first place.
+This woman was unusually naive. It would have been better　 for her not to seduce me in the first place.
 //［コウジ］：フン、仕事の為か。ポリシーも何もないヤツがよく言う詭弁だな。
 [Kouji]: Hmm, for work, eh? Sounds like sophistry right out of those policy-less bastards' mouths.
 //［沙夜香］：ちくしょう！

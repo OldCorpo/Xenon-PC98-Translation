@@ -137,7 +137,7 @@ I should use the landline to call someone...
 //［コウジ］：早く出るのだ。大海賊を待たせるとは、何たることよ。
 [Kouji]: Come on, pick up. What is the meaning of making　　this great pirate wait?
 //何回目かの呼び出し音を聞き、受話器を握りつぶそうとしたとき‥‥。
-The dial tone sounded several times,  then the receiver on  the other end was seemingly picked up...
+The dial tone sounded several times, then the receiver on　 the other end was seemingly picked up...
 //カチャッ。
 *click*
 //［コウジ］：私は宇宙海賊のコウジである。
@@ -209,7 +209,7 @@ If that's the case, if a military police officer sees a　　 manly figure like 
 //いや、逆とも考えられるな‥‥。
 No, *they* should be thinking deeper about *me*...
 //腐敗した民主主義が長く続き、強いカリマスマ性を保有した強力な指導者を、こやつらは強く欲しているのだ。
-If this corruption of democracy continues,  they'll want a  strong, charismatic leader.
+If this corruption of democracy continues, they'll want a　 strong, charismatic leader.
 //そこに、私のような最強の宇宙海賊が現れたものだから、妙に落ちつきがなかったのだ。うむ、そうに違いない。
 In that scenario, the strongest galactic pirate (me) has　　appeared before them, so it'd be weird if they didn't calm  down. That much is certain.
 //［コウジ］：フフン。
@@ -223,7 +223,7 @@ After correctly analyzing the situation, I felt much better.With a spring in my 
 //［女］：なによ、その魚の腐ったような目は。オドオドしちゃって、まるでリスか何かね‥‥フンッ。
 [Woman]: What is with those eyes like a dead fish, and that nervous behavior? It's like you're a squirrel...Hm.
 //その女は言いたいことだけ言うと、さっさときびすを返して立ち去ってしまった。
-After saying only her piece,  that woman quickly turned on  her heels and walked away.
+After saying only her piece, that woman quickly turned on　 her heels and walked away.
 //［コウジ］：フン、まぁいい。
 [Kouji]: Hmph, well, it's fine.
 //［コウジ］：さて、これから現状の把握をせねばならんな‥‥。
@@ -253,7 +253,7 @@ That's right, I can confirm the civilization's progress.　　Whatever level of 
 //エレベータの中は、空調が行き届いているようだった。汗をかいた身体には、やや涼しかったが、寒いほどではない。
 Inside the elevator, the air conditioning was working. As mysweat dried from my body, I felt quite cool, but not cold.
 //１つずつ、光る番号が増えていくのをボーっと見ていると、何故か庶民に成り下がった気がするのは何故か‥‥。
-As I stared at the lit up number increasing one by one,  I  wondered why the decline of the masses intrigued me so...
+As I stared at the lit up number increasing one by one, I　 wondered why the decline of the masses intrigued me so...
 //［コウジ］：フン、私らしからぬ‥‥。
 [Kouji]: Hmph, this isn't like me...
 //ゴミゴミとした惑星だった。
@@ -279,7 +279,7 @@ What a rude woman, suddenly killing people like that.
 //［コウジ］：誰だ、貴様は？
 [Kouji]: Who the hell are you?
 //［女の子］：舞です‥‥宏治サン。どうしたんですか？　私、屋上が好きだから、よく来てるんです。
-[Girl]: I'm Mai...  Kouji-san. What happened to you? I like the rooftop, so I come here often.
+[Girl]: I'm Mai... Kouji-san. What happened to you? I like  the rooftop, so I come here often.
 //［コウジ］：私の知り合いに舞という女はいない。誰かと間違えているのではないか？
 [Kouji]: I don't know any woman named Mai. Are you sure　　 you're not mistaking me for someone else?
 //［舞］：そ、そんな‥‥宏治サン。
@@ -367,7 +367,7 @@ It seems that Ryouko woman uses it...
 //下に降りて、いろいろと観察してみよう。
 As I descend, I should observe a few things.
 //まずは階下に降り、現状の観察および分析を行う。しかるのち、何らかの行動を起こすのが合理的だろう。
-First, as I head downstairs, I'll analyze and observe my　　current situation.  After that, it would be rational to　　 carry  out some plan.
+First, as I head downstairs, I'll analyze and observe my　　current situation. After that, it would be rational to　　　carry out some plan.
 //大宇宙海賊は、効率を優先する。無駄なことは一切省くポリシーを私は持っている。
 A galactic pirate prioritizes efficacy first. My policy is  that useless matters should be cut out entirely.
 //［コウジ］：うむ、我ながら、効率的だ‥‥。
@@ -375,7 +375,7 @@ A galactic pirate prioritizes efficacy first. My policy is  that useless matters
 //別にロビーに置いてあるであろう新聞の類を、読みにいく訳ではない。大宇宙海賊は、そんなオヤジ臭いことはしないのだ。
 I didn't come down to the lobby just to read the news postedthere. A galactic pirate doesn't behave like an old geezer.
 //エレベータから降りると、まっさきにソファの傍らに置いてある新聞コーナーへと行く。
-As I got off the elevator,  I immediately went to the news  corner by the sofa.
+As I got off the elevator, I immediately went to the news　 corner by the sofa.
 //ニュースペーパーこそ、その地域の文化文明を知る、もっとも効率的な情報源なのだ。
 The newspaper itself told about the area's culture and　　　civilization, and therefore, it was an efficient source of  information. 
 //パサッ。
@@ -429,7 +429,7 @@ An ashamed look spread over her face as Megumi pulled at my ear. I have no idea 
 //［恵］：ばっ‥‥直接的過ぎるわよっ、なによ、もう‥‥。
 [Megumi]: Y-you're way too direct, why would you, ugh...
 //自分で話を振っておいて、恥ずかしがるとは身勝手な女だ。私は、強引に話題を元に戻した。
-Even when she's the one who brought it up, she's still the  one who got embarrassed. How selfish.  I forced us back to  the original topic of the conversation.
+Even when she's the one who brought it up, she's still the  one who got embarrassed. How selfish. I forced us back to　 the original topic of the conversation.
 //［コウジ］：さきほどの話だが、なぜあの涼子が‥‥？
 [Kouji]: Earlier, you were saying something about why Ryoukowas...?
 //［恵］：そうそう、あの先生、次々と使えない機械を作っては、開発費を大量に消費してるんだから。
