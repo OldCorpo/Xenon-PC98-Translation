@@ -149,7 +149,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：（ドキッ。）
 [Kouji]: (*Ba-dump.*)
 //［涼子］：ねぇ、お願いよ‥‥精神医学の発展のためなのよ。
-[Ryouko]: Please...  for the sake of advancing neurological medicine.
+[Ryouko]: Please... for the sake of advancing neurological  medicine.
 //［宏治］：あの、ドリームプログラムマシンとやらがですか？
 [Kouji]: That, uh, Dream Program Machine or whatever it's　　called?
 //［涼子］：そうなの‥‥ねぇ、お・ね・が・い。
@@ -203,7 +203,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：ごめんねぇ、身動きできないように、椅子に縛らせてもらったわ。
 [Ryouko]: Sorry, I tied you to a chair so you couldn't move your body.
 //［宏治］：こんな妙なヘルメットを被せて‥‥お、オレをどうするつもりだ。
-[Kouji]: You put this weird helmet on me...  wh-what do you plan to do to me?
+[Kouji]: You put this weird helmet on me... wh-what do you  plan to do to me?
 //［涼子］：なによそれ、まるで私は悪代官みたいじゃない。
 [Ryouko]: What's with that reaction? You're treating me likeI'm some corrupt magistrate.
 //［宏治］：似たようなもんだろ！

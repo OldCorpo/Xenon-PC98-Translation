@@ -29,7 +29,7 @@ s0302b
 //［宏治］：あのね‥‥じゃあ別の聞き方だ。君の、ここでの役割はなに？
 [Kouji]: Umm...well, I'll ask it another way. What role do  you play here?
 //［トレイシー］：それは‥‥混乱をされているコウジ様に、状況の説明をして差し上げることですわ。
-[Tracy]: Well...  I'm here to explain the situation to you, since you're confused.
+[Tracy]: Well... I'm here to explain the situation to you,  since you're confused.
 //［宏治］：さっきと同じじゃないの。
 [Kouji]: Isn't that the same answer you just gave me?
 //［トレイシー］：でも、それが質問の回答として相応しいように思われますが‥‥？

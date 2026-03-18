@@ -83,7 +83,7 @@ For an instant, I thought there was some unknown wild beast somewhere that made 
 //トレイシーはオレのコブシ部分をさすっている。骨折の有無でも、確かめているのだろうか。何とも乱暴だと思うが‥‥。
 Tracy wrapped up my fist. She seemed to be checking whether there were any broken bones. I had acted rather violently,  but...
 //［トレイシー］：大丈夫です、軽い打撲ですね。よかったですわ‥‥軽くシップしておけば、すぐに良くなります。
-[Tracy]: You're OK, it was only a light blow. How lucky you are...  if you place a soft wet cloth on it, it should heal quickly.
+[Tracy]: You're OK, it was only a light blow. How lucky you are... if you place a soft wet cloth on it, it should heal  quickly.
 //デレっとした顔をしているに違いないと思った。誰だって、美人に優しく手を握られてニコっと微笑まれたら、今のオレのようになるだろう。
 I must have had on quite an affectionate expression. In my  position, having my hand held so gently by a beautiful womanas she smiled sweetly, anyone else would have done the same.
 //［トレイシー］：あの‥‥どうかなさいましたか？
@@ -223,7 +223,7 @@ As Lanhua noticed me, she stopped working and broke into a  broad smile. She exu
 //［宏治］：えっ、あぁ、まぁそうなるのかな。
 [Kouji]: Eh-? Ahh, well, yes, it does seem that way.
 //［ランファ］：あーン、コウジ様のおそばに行きたいのに‥‥んもう！　このっ、このっ！
-[Lanhua]: Ahm, since Kouji-sama wanted to come here...  mm, come on! Take this, and this!
+[Lanhua]: Ahm, since Kouji-sama wanted to come here... mm,  come on! Take this, and this!
 //ランファは、手にした工具類で、手先の配線を乱暴に取り付けている。エンジンのメンテナンスか何かを、している最中なのかもしれない。
 Using the tool in her hand, Lanhua roughly installed the　　wiring beside her. She was probably right in the middle of  engine maintenance.
 //あんなに乱暴に扱って大丈夫なのかなぁ‥‥。
@@ -231,9 +231,9 @@ I wonder if it's OK to handle that so roughly?
 //［宏治］：‥‥また、後で来るよ。忙しそうだし。
 [Kouji]: ...well, I'll come back later. It seems you're busynow.
 //［ランファ］：そ、そんなことありません‥‥でもあと、これとこれを取り付けないと、エンジンが爆発しちゃうから‥‥。
-[Lanhua]: Th-that's not the case...  but if I don't install these things, later on, the engine will explode...
+[Lanhua]: Th-that's not the case... but if I don't install  these things, later on, the engine will explode...
 //［宏治］：なっ‥‥ちょっと、ゆ、ゆっくりやって構わないよ。うん。
-[Kouji]: Wh-...  Well, it won't hurt to install it a little more carefully. Yeah.
+[Kouji]: Wh-... Well, it won't hurt to install it a little  more carefully. Yeah.
 //［ランファ］：もうすぐ終わりますから‥‥これと、これと‥‥んしょっ。
 [Lanhua]: I'll be done soon...Now this, and this...Mm, there.
 //［ランファ］：ところでコウジ様、どこから来られたんですか？
@@ -1048,7 +1048,7 @@ fa02_m
 //［ファル］：フン、エッチ。
 [Far]: Hmph, pervert.
 //［宏治］：ちぇっ‥‥とにかく、向こうで着替えて来いよ。色々聞きたいこともあるし。
-[Kouji]: Tch...  in any case, come change clothes. I have a few things to ask you about.
+[Kouji]: Tch... in any case, come change clothes. I have a  few things to ask you about.
 //［ファル］：フン‥‥。
 [Far]: Hmm...
 //［宏治］：凶暴なんだか、普通の女の子なんだか、よくわからないなぁ。
@@ -1060,7 +1060,7 @@ fa02_m
 //［宏治］：ん？　誰だろう‥‥。
 [Kouji]: Hm? Who could that be...?
 //［宏治］：確か、こうして‥‥このボタンを押すんだったな。
-[Kouji]: If I remember correctly, I do this...  I push this button.
+[Kouji]: If I remember correctly, I do this... I push this  button.
 //［トレイシー］：コウジ様、こちらでしたか。
 [Tracy]: Oh, Kouji-sama, you were here all along?
 //［宏治］：トレイシーじゃないか、どうしたのさ？
@@ -1119,7 +1119,7 @@ fa02_m
 //覗きのような真似は何だし、ここで待ってみよう。
 What's with acting like I'm peeping in on something, let's  just wait here.
 //ファルネリアか‥‥どういう女性なんだろうな‥‥聞けば聞くほど、評価が下がっていくんだけど。
-Farnelia...what kind of woman is she...  ? If you asked me, I'd struggle to make an assessment.
+Farnelia...what kind of woman is she... ? If you asked me,  I'd struggle to make an assessment.
 //あの、妙なカプセルの中に入っていた女性が、彼女か。いったい、何をやっていたんだろう。
 That woman in the strange capsule, was that her? What on　　earth is she doing there?
 //触媒とか、言っていなかったっけ‥‥？

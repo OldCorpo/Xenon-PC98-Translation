@@ -77,7 +77,7 @@ s0306a
 //［ランファ］：違うんですか？
 [Lanhua]: Doesn't he?
 //［宏治］：捨てるなんて、もったいない‥‥じゃなくて、とにかく違う。
-[Kouji]: I wouldn't even consider firing...  I mean, in any case, that's not it.
+[Kouji]: I wouldn't even consider firing... I mean, in any  case, that's not it.
 //［ランファ］：なんでしょうか？
 [Lanhua]: Then what is it?
 //［ランファ］：どうしたんですか、宏治様ぁ。
