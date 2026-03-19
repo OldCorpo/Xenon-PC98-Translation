@@ -430,7 +430,7 @@ If I think about it,
 //［コウジ］：な、何だ‥‥！？
 [Kouji]: What was that!?
 //頭の上の辺りから、音が聞こえてくる。良く見ると、モニターらしきものとパネルが、壁に付いていた。
-I heard a sound coming from above my head. Looking up,　　　I sawa monitor-like panel was hanging on the wall.
+I heard a sound coming from above my head. Looking up,　　　I saw a monitor-like panel was hanging on the wall.
 //［コウジ］：そういえばさっき、あのファルという女性も‥‥。
 [Kouji]: Come to think of it, just now, that girl named Far also...
 //私は、さきほどのエンジンルームでの事を思い出した。確か、このあたりのボタンを‥‥‥‥。
@@ -484,7 +484,7 @@ to_bast
 //［コウジ］：あ、あなたは‥‥？
 [Kouji]: And y-you are?
 //［女］：私はトレイシー‥‥あなたのお世話を、仰せつかっていますわ。
-[Girl]: I'm Tracy...We just had a conversation earlier.
+[Girl]: I'm Tracy...We just spoke earlier.
 //トレイシーと名乗る目の前の女性は、首をちょっとだけ傾けて、ニコリと微笑んだ。
 The girl named Tracy in front of me slightly tilted her headto one side and smiled curiously at me.
 //鮮やかな金髪だった。かき上げるとサラサラと音がする、そんな感じだ。

@@ -7,7 +7,7 @@ s0105
 //［涼子］：なにかしら、あらたまって。
 [Ryouko]: Something must have happened to you.
 //［宏治］：以前、同じ事を言いませんでしたか？
-[Kouji]: Earlier, I said that the same thing happened, right?
+[Kouji]: Earlier, I said that the same thing happened,　　　right?
 //［涼子］：同じ‥‥こと？
 [Ryouko]: ...The same thing?
 //［宏治］：以前も、同じ様なことがあった気がします。
