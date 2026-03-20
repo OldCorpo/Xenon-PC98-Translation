@@ -139,7 +139,7 @@ In the dark, cold rooftop, I pondered that...
 //あたりは静かだった。ここへやって来るまで、誰にもすれ違わず、動く者は僕以外にいそうもなかった。
 It was quiet around me. No one had passed by me on my way　 here, as if I were the only one moving around.
 //もともと、この医療センターは人が多い方ではなかった。時間を考えれば当然と言えるかもしれないが、受付に誰もいないというのはどういうことだろうか。
-There weren't a lot of people in this clinical center to　　begin with. If I consider the time, I might say it's natural,but even at the reception, no one was there.
+There weren't a lot of people in this clinical center to　　begin with. If I consider the time, I might say it's　　　　natural, but even at the reception, no one was there.
 //［宏治］：（夢の風景みたいだな‥‥。）
 [Kouji]: (This atmosphere feels like a dream...)
 //いや、これは現実だ‥‥現に、今こうして誰にも会わなかったじゃないか‥‥。
@@ -223,7 +223,7 @@ It was really quiet...that creeped me out...
 //ふと前を見ると、戸棚の上にテレビがデンとのっかっている。
 As I looked ahead, the television on top of the closet　　　suddenly turned on. 
 //［宏治］：（テレビでも付けて、気を紛らわすかな‥‥。）
-[Kouji]: (That television turning on really distracted me...)
+[Kouji]: (That television turning on really distracted me　 ...)
 //だが得てしてこういう時に限って、リモコンが見あたらない。
 But just when I needed it, I couldn't find the remote　　　 control.
 //しかもこのテレビは、リモコンのみの操作を受け付けるタイプだった。
@@ -269,7 +269,7 @@ I was relieved to hear such an unexpected voice on the otherend. As my uneasines
 //［宏治］：なっ‥‥ど、どういうこと？
 [Kouji]: Wha...what's going on?
 //［恵］：訳は後で話すわ。そこにいたら、あなたは‥‥。
-[Megumi]: I'll tell you about it later. If you're over there, then...
+[Megumi]: I'll tell you about it later. If you're over　　　there, then...
 //［宏治］：えっ‥‥？　よく聞こえないけど‥‥。
 [Kouji]: Huh...? I can't hear you clearly...
 //［恵］：あなたの頭は、無茶苦茶よ！
@@ -315,7 +315,7 @@ But I couldn't hear Megumi's voice anymore. Only the　　　　inorganic dial t
 //［宏治］：（だから、それは恵に会ってからだ。うん。）
 [Kouji]: (Because of that, I'll have to meet with Megumi.　 Yeah.)
 //［宏治］：（だけど、一体どこから掛けてきたんだ？　それが分からないことには‥‥‥‥。）
-[Kouji]: (But where did she end up? I have no idea where....)
+[Kouji]: (But where did she end up? I have no idea where...)
 //［宏治］：‥‥‥‥‥‥‥。
 [Kouji]: .......
 //［宏治］：‥‥‥‥‥‥‥‥‥‥。

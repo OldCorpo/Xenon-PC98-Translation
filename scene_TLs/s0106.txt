@@ -119,7 +119,7 @@ Coupled with the suffocating warm air, my sense of unease　 grew. I headed down
 //［コウジ］：（確か、あの角をまがってすぐの所にあったはずだ‥‥。）
 [Kouji]: (Once I turn that corner, I should be pretty close to the place...)
 //角を曲がると、指示された部屋のドアはすんなりと見つかった。私はドアの前に立つと、
-As I turned the corner, I immediately saw the indicated door.As I stood in front of the door,
+As I turned the corner, I immediately saw the indicated doorAs I stood in front of the door,
 //コンコン‥‥‥‥。
 *Knock knock*
 //異様に分厚いドアだから、これでは聞こえないんじゃないか‥‥？
@@ -493,9 +493,9 @@ I was silent for a bit as I got out of that narrow cockpit  ...
 //［ファル］：そうね、とりあえず、生存者を捜してみて頂戴。
 [Far]: Right, for the time being, could you look for　　　　survivors?
 //［コウジ］：わかった‥‥このシップは、君たちのと同タイプなんだよな？
-[Kouji]: Got it...This ship is the same type as yours, right?
+[Kouji]: Got it...This ship is the same type as yours,　　　right?
 //［ファル］：そうよ、まあ道に迷うということはないでしょう。それほど広くもないから。
-[Far]: Yes, so we shouldn't get lost here. It's not that big, after all.
+[Far]: Yes, so we shouldn't get lost here. It's not that　　big, after all.
 //［ファル］：生存者の存在の有無に関わらず、１時間後にここでまた落ち合いましょう。
 [Far]: Whether you find any survivors, let's all meet back  here in an hour.
 //［コウジ］：わかった‥‥。
@@ -827,7 +827,7 @@ UNIVERSAL TIME: 1452:0170 Today, another person fell. That  makes 3. At this rat
 //［コウジ］：（第１次調査隊の、生き残り‥‥？）
 [Kouji]: (A survivor from the first investigative team...?)
 //後は、読解が困難な筆跡になっていて、読みとることができない。私は紙を傷めないよう慎重に、ページをめくっていった。
-After that, the handwriting became harder and harder to read, and eventually illegible. Taking care not to rip the paper, I kept flipping through the pages.
+After that, the handwriting became harder and harder to　　 read, and eventually illegible. Taking care not to rip the  paper, I kept flipping through the pages.
 //例の原因不明の昏睡だ。恐らく明日はこの私だろう‥‥私は調査隊のリーダーとして、最後までこのシップに残らねばならぬ。せめて、娘のビアンカだけでも‥‥‥‥。
 This was a case of unexplained coma. That could be me　　　 tomorrow... If I were the investigative team's leader,　　　I would be going down with the ship. At least that Bianca　　woman survived...
 //［コウジ］：（ビアンカ‥‥？）
@@ -861,7 +861,7 @@ I put the micro disc in my shirt pocket and slowly looked　　around me...
 //もう少し、この部屋を調べてみよう。
 Let's investigate this place a little more.
 //机の上を改めて見てみるが、もう何も置いてはいないようだ‥‥端末などにも、電源はやってきていない。
-I looked again at the desk, but nothing else was placed there...the terminal was also disconnected from the power.
+I looked again at the desk, but nothing else was placed　　 there...the terminal was also disconnected from the power.
 //ふと、ベッド脇のパネルも見てみる。普段であれば、いくつかのランプが点灯しているはずだが‥‥。
 I suddenly looked at the beds and side panels. They seemed  normal, but some lamps should be lighting them up...
 //［コウジ］：（これでは、通信もままならないな‥‥‥。）
