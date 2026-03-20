@@ -281,7 +281,7 @@ Mai passed by me, saying "on the rooftop" as she left.　　　I could barely he
 //［宏治］：そんなこと言って‥‥‥。
 [Kouji]: What are you saying...
 //［沙夜香］：宏治クンには、恵さんという恋人がいるんでしょ？　ダメよ、浮気なんかしちゃ。
-[Sayaka]: To you, Megumi-san is your lover, right? You can't. Cheating is wrong, you know.
+[Sayaka]: To you, Megumi-san is your lover, right? You can'tCheating is wrong, you know.
 //［沙夜香］：そんなことより、ほら、早く連れていってよ。
 [Sayaka]: More importantly, you gotta take me there, c'mon.
 //どうやら、舞の事はもう忘却してしまったらしい。
@@ -473,7 +473,7 @@ She seemed to be thinking about something, but I didn't knowwhat. Ryouko stopped
 //［宏治］：‥‥なんでしょうか。
 [Kouji]: ...What is it?
 //［涼子］：その他に、メンタルな部分で、変わったこととか、ない？
-[Ryouko]: Have you experienced any unexpected mental changes?
+[Ryouko]: Have you experienced any unexpected mental　　　　changes?
 //［宏治］：メンタルな部分、ですか。
 [Kouji]: Mental changes?
 //［涼子］：そう、メンタルな部分。
@@ -493,7 +493,7 @@ I was somewhat relieved, but still uneasy. Even so, I might as well spit it out.
 //［涼子］：どうぞ。
 [Ryouko]: Go ahead.
 //［宏治］：ここで、涼子先生の精神分析に協力し始めてから、どうも記憶力に自信がなくなりました。
-[Kouji]: Well, since I started helping you with psychoanalysis, I've become increasingly unsure of my memory ability.
+[Kouji]: Well, since I started helping you with　　　　　　 psychoanalysis, I've become increasingly unsure of my memory
 //［涼子］：それで？
 [Ryouko]: Is that so?
 //［宏治］：決して涼子先生の研究とか学術にケチを付ける訳じゃないんですが、ちょっと普段の生活に差し支えます。
@@ -615,7 +615,7 @@ A lively voice rang out. That must mean...
 //［宏治］：‥‥まさか。
 [Kouji]: ...You're kidding.
 //［恵］：だから宏治、あなたも気を付けないと。
-[Megumi]: Come on, you've felt the same way, haven't you,　 Kouji?
+[Megumi]: Come one, you feel the same way, don't you, Kouji?
 //［宏治］：考えすぎだよ、恵は。
 [Kouji]: You're overthinking it, Megumi.
 //［恵］：最近あなた、身体に不調とか、ない？
@@ -841,7 +841,7 @@ Mai put her pointer finger on her lips, as if thinking of　 something. Her expr
 //［宏治］：‥‥へぇ、どんな哲学だったんだい？
 [Kouji]: Huh, what kind of philosophy was it?
 //［舞］：蝶になった夢を見た人が、こう考えるんです。『もしかしたら、自分は蝶が見てる夢じゃないか』って。
-[Mai]: A person who dreamed of themselves as a butterfly　　might think, "What if I'm really a butterfly but in a dream?"
+[Mai]: A person who dreamed of themselves as a butterfly　　might think, "What if I'm really a butterfly but in a　　　 dream?"
 //［舞］：我、夢に胡蝶になるか‥‥胡蝶、夢に我になるか‥‥。
 [Mai]: Do I become a butterfly in a dream... or does a　　　butterfly become me in a dream...
 //［宏治］：はは、まさにそういう心境だよ。

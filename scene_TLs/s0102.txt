@@ -659,7 +659,7 @@ Losing my mind over something trivial, I protested with a　　harsh tone. Ryouk
 //先日、データの採集ということで、妙なモノを採取された覚えがある。僕は怪訝に思いながらも、協力はした。
 I recalled that the other day, I had an unusual experiment  performed on me by Ryouko, who had claimed she was doing it to gather some data. Even though I was suspicious, I had　　agreed to lend a hand.
 //でも、精神分析に、なんで必要なのかな‥‥健康診断でもあるまいに‥‥。
-But I still couldn't see the point of it; weren't we　　　　supposed to do psychoanalysis? So why a physical examination?
+But I still couldn't see the point of it; weren't we　　　　supposed to do psychoanalysis? So why a physical　　　　　　examination?
 //［宏治］：今日はもう、失礼して構いませんか？
 [Kouji]: Do you mind if I leave now for today?
 //［涼子］：えぇ‥‥明日は、また協力してもらうわ。
