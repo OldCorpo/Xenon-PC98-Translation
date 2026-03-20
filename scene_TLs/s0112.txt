@@ -403,7 +403,7 @@ xenon_10
 //［ランファ］：そうですね。
 [Lanhua]: Yes, that's it.
 //［コウジ］：ランファ、か‥‥。確か、異国の言葉で『舞う』という意味だそうだね。
-[Kouji]: Lanhua...Indeed, in some foreign country's language, it means "to dance", doesn't it?
+[Kouji]: Lanhua...Indeed, in some foreign country's　　　　 language, it means "to dance", doesn't it?
 //［ランファ］：はい。本当に、良かったですね‥‥。
 [Lanhua]: Yes. It's truly a blessing...
 //［コウジ］：‥‥上にいるファルたちは、どうするんだい？
