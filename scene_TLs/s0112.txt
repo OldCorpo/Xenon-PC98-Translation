@@ -283,7 +283,7 @@ Sayaka pulled a handgun from her bosom and pointed straight at Ryouko. She looke
 //［涼子］：フッ、好きにするがいいわ‥‥。
 [Ryouko]: Heh, do as you like...
 //ガチャッ‥‥。
-Clank... 
+*Clank...* 
 //［沙夜香］：な、何をしたの！　涼子！？
 [Sayaka]: W-what are you doing! Ryouko?!
 //［涼子］：舞、後は頼んだわ‥‥。

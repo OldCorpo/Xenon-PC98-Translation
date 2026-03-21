@@ -31,7 +31,7 @@ all
 //［ビアンカ］：炊事関連は苦手なのに‥‥。
 [Bianca]: But I'm awful at cooking....
 //チャッチャッチャッチャッ‥‥。
-Chopchopchopchopchop...
+*Chopchopchopchopchop...*
 //［トレイシー］：まぁ、手さばきは、ランファよりも上手ですわ。
 [Tracy]: Well, when it comes down to it, I'm still better atLanhua at maneuvering.
 //［ランファ］：なによぉ、トレイシー、プリプリよぉ。私だってねっ！
@@ -271,7 +271,7 @@ fa07
 //［宏治］：うん、するする。
 [Kouji]: All right, here goes.
 //ぐぐっ‥‥‥‥。
-Guh...
+*Guh...*
 //［ファル］：痛っ‥‥ちょ、ちょっとそんなにいきなりは‥‥。
 [Far]: Ow...hold on, if you do it all of a sudden....
 //ぬりゅぅぅぅぅぅぅぅ‥‥‥‥。
@@ -341,11 +341,11 @@ fa06
 //［ファル］：もっと、脚をいっぱいに広げて頂戴！
 [Far]: Please, spread my legs further apart!
 //ぐぐぐぅぅぅっ！！
-Guhhhhhh!
+*Guhhhhhh!*
 //［ファル］：そのまま突き入れてっ！
 [Far]: Yes, plunge it into me like that!
 //ずりゅっっ！！！
-Slip!!!
+*Slip!!!*
 //［ファル］：あはぁぁぁっ！　奥まで当たってるぅっ！！
 [Far]: Ahaaaaaaa-! You put it so deep inside me!!
 //［宏治］：すっごく締め付けてるぜ、アソコが‥‥。
@@ -1235,7 +1235,7 @@ to05_m
 //to04
 to04
 //ずりゅぅぅぅぅぅぅぅぅぅぅぅぅっっ！！！
-Sluuuuuuuuuuuuuuuuuuuuuuuuuurp!!!
+*Sluuuuuuuuuuuuuuuuuuuuuuuuuurp!!!*
 //［トレイシー］：あぁぁぁぁぁぁぁぁっ！　いいぃぃぃぃぃぃっっ！！
 [Tracy]: AHHHHHHH-! YEEEESSSSSS!!
 //［コウジ］：フン、メス犬がっ！
@@ -1357,7 +1357,7 @@ to05d
 //［トレイシー］：‥‥んがぁぁっ！
 [Tracy]: ....NGAAAh-!
 //ぶりゅっ。
-Brrrrrrrrrr.
+*Brrrrrrrrrr.*
 //［トレイシー］：だ、ダメ‥‥も、もう‥‥あがっ。
 [Tracy]: I-I can't....P-please....agh.
 //［コウジ］：どうした？　まだ３回だぞ。

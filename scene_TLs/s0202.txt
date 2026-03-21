@@ -5,7 +5,7 @@ s0202
 //［涼子］：ゴメンなさい、ちょっと刺激が強すぎたのかしら。
 [Ryouko]: Sorry, was this time overly stimulating?
 //［涼子］：まだ、少し混乱しているようね。でも、脳のシナプスは焼き切れていないようだから、安心して。
-[Ryouko]: You still seem a little confused. But rest assured, your brain synapses don't seem burned out.
+[Ryouko]: You still seem a little confused. But rest assuredyour brain synapses don't seem burned out.
 //［涼子］：あっ、まだしゃべらないでいいわ。私の言うことが理解できる？　できるなら一回だけ、うなずいて。
 [Ryouko]: Ah-please don't talk just yet. Do you understand  what I'm saying? If you do, nod once.
 //コクン。
@@ -25,19 +25,19 @@ s0202
 //［涼子］：だーいじょうぶよ、そんな顔をしなくても。今度こそ、成功してみせるわっ。
 [Ryouko]: Don't make that face, it's OK. This time will be  successful.
 //［涼子］：でも、舞の取り乱しようといったら、なかったわ‥‥あの子ね、あれでもあなたの事が好きなのよ。
-[Ryouko]: But with Mai's distraught state, it might not be  ...Despite that, that girl likes you.
+[Ryouko]: But with Mai's distraught state, it might not be  ... Despite that, that girl likes you.
 //［涼子］：姉の私から言うのも何だけど、あの子の気持ち、無にしないで欲しいわ。
 [Ryouko]: Speaking as her older sister, please don't ignore that girl's feelings.
 //［涼子］：フフ、あなたにガールフレンドがいるのは、わかっているわよ。でもね‥‥あら、宏治クン？
-[Ryouko]: Hehe, I know you have a girlfriend. But also...ara, Kouji-kun?
+[Ryouko]: Hehe, I know you have a girlfriend. But still ... Ara~ara Kouji-kun?
 //ドサッ。
-Thump.
+*Thump*
 //［涼子］：ちょっと、宏治クン、ねぇ、大丈夫？　宏治クン！？
 [Ryouko]: Hold it, Kouji-kun, are you OK? Kouji-kun?!
 //［涼子］：大変だわ、顔が真っ青‥‥宏治クン、ねぇ、宏治クン‥‥‥‥。
-[Ryouko]: This is bad, your face is blue...Kouji-kun, hey,  Kouji-kun....
+[Ryouko]: This is bad, your face is blue... Kouji-kun, hey, Kouji-kun....
 //そうか‥‥私は、ジェネレータを利用して‥‥。
-That's right...I used the generator....
+That's right... I used the generator....
 //だが、この脆弱な肉体は、いったいどうしたことだ。これが、私の身体なのか‥‥？
 But, what's with this puny body. Is it my body...?
 //やけに、動きにくい。
@@ -95,9 +95,9 @@ At least that voice was mine. But, it wasn't *me*...
 //［トレイシー］：混乱をされているコウジ様に、状況の説明をして差し上げています。
 [Tracy]: Since you seem confused, Kouji-sama, I'll explain  the situation to you.
 //むぅ‥‥自由に声が出せぬ‥‥。トレイシー、私に気付け‥‥くそ、どうしたことだ。
-Hmmm...I can't freely speak...Tracy, please notice me...shit, what's going on?
+Hmmm... I can't freely speak... Tracy, please notice me...  shit, what's going on?
 //目の前にいて、話も聞こえ、それを理解し認識しているのに、なぜ自発的に行動ができないのか‥‥。
-In front of me, I can hear their speech, and I can　　　　　understand and recognize them, so why can't I move freely...?
+In front of me, I can hear their speech, and I can　　　　　understand and recognize them, so why can't I move freely?
 //ひょっとすると、これは夢というものか‥‥。
 It's possible this is a dream...
 //いや、夢を見ているという夢なのかもしれない。マイナスのマイナスは、プラスという訳だ。つまり、現実‥‥？
@@ -131,7 +131,7 @@ I should use the landline to call someone...
 //［コウジ］：室内フォンか‥‥。
 [Kouji]: The landline...
 //ピポピポパピポ‥‥。
-*beep boop beep boop beep boop*...
+*beep boop beep boop beep boop* ...
 //［コウジ］：‥‥‥‥‥。
 [Kouji]: .........
 //［コウジ］：早く出るのだ。大海賊を待たせるとは、何たることよ。
@@ -175,7 +175,7 @@ This body is somehow quite puny. A mind that preserves this kind of body can eas
 //［コウジ］：フン、まぁいい。さて、ドアは‥‥ここか。
 [Kouji]: Hmph, well, it's ok. Now, then, the door is...here.
 //バコッ！
-Bam!
+*Bam!*
 //ふむ、ドアは自動ではなく、手動と。
 Hmm, the door is not automatic, but hand-operated.
 //私の状況分析は的確だ。どうやら、かなり原始文明らしいな、ここは‥‥。
@@ -433,7 +433,7 @@ Even when she's the one who brought it up, she's still the  one who got embarras
 //［コウジ］：さきほどの話だが、なぜあの涼子が‥‥？
 [Kouji]: Earlier, you were saying something about why Ryoukowas...?
 //［恵］：そうそう、あの先生、次々と使えない機械を作っては、開発費を大量に消費してるんだから。
-[Megumi]: That's right, that doctor has repeatedly been　　 using that untested machine, using up a lot of our resources.
+[Megumi]: That's right, that doctor has repeatedly been　　 using that untested machine, using up a lot of our resources
 //［コウジ］：ほぅ、次々と。
 [Kouji]: Ho~, repeatedly?
 //［恵］：もう、パパに言って、厳重に抗議してもらおうかしら。

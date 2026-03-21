@@ -733,7 +733,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：だけど、これ本当に夢？
 [Kouji]: But, is this really a dream?
 //ギュッ。
-Squeeze.
+*Squeeze.*
 //［宏治］：イチチチ‥‥やっぱ痛い。
 [Kouji]: Eetch-tch-tch...That really hurts.
 //［宏治］：でも、痛いという夢を見ているだけなのかも、しれないぞ。
@@ -924,13 +924,13 @@ fa04
 //もつれそうだった。立とうとしたがうまくいかず、オレはおっとっとをしながら前につんのめり、彼女の下半身に抱きついてしまう。
 It was quite complicated. I couldn't stand up properly. As Iwinced, I fell forward, grabbing onto her lower body.
 //ガバッ。
-Grab.
+*Grab.*
 //［ファル］：なっ‥‥あ、あ、あ‥‥。
 [Far]: Wh-...ah, ah, ah...
 //［宏治］：だから、不可抗力‥‥。
 [Kouji]: As I said, it's inevitable...
 //ガキーンッ！
-*smack*!!
+*smack!!*
 //目から火花が散りそうな、容赦ない一撃だった。シャワーの取っ手を手にした彼女が、ブルブルと震えているのが分かる。
 She'd hit me mercilessly enough to make me see stars. She　　had one hand gripping the shower handle, and I realized shewas quivering.
 //オレは額を抑えながら、フラフラしながら、しどろもどろで弁明した。
@@ -1197,7 +1197,7 @@ fa03_m
 //［宏治］：うわっ、ナイス！
 [Kouji]: Yeah, nice!
 //バキッ！
-Crack!
+*Crack!*
 //［宏治］：んな、バスタオルを身体に巻いただけで、男の上になんてまたがるのが悪いんだよ。
 [Kouji]: Hey, with only a bath towel wrapped around you,　　straddling a man is dangerous.
 //［ファル］：な、なによぉ‥‥。

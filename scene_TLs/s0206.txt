@@ -23,7 +23,7 @@ As I made to leave the room...
 //［コウジ］：電話、か‥‥。
 [Kouji]: Ah, the telephone....
 //ガチャッ。
-Clack.
+*Clack.*
 //［女の声］：‥‥宏治？
 [Woman's voice]: ...Kouji?
 //［コウジ］：そうだが、貴様は？
@@ -75,7 +75,7 @@ Indeed, in this puny physical body, mastering such a　　　　technique is sti
 //［コウジ］：キィィィックゥゥッ！！
 [Kouji]: KIIIIIICK!!
 //ゴーーーーーン！！！
-BOOOOOOM!!!
+*BOOOOOOM!!!*
 //［コウジ］：痛いから、やめよう。
 [Kouji]: It hurts, so let's stop.
 //例のコンピュータルームの前へやってくる。重々しいドアが、目の前に私を阻まんとするかのようにそびえ立っていた。
@@ -283,7 +283,7 @@ Megumi's knees quaked in spasms, drool flowed from the　　　corner of her mou
 //［恵］：わ、わかったわ‥‥。
 [Megumi]: I, I got it...
 //ギュッ！
-Squeeze!
+*Squeeze!*
 //［恵］：んあぅぅっ！！！
 [Megumi]: Nauww-!!!
 //［コウジ］：言葉遣いが、なってないな。
