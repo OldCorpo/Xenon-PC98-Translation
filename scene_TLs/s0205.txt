@@ -105,7 +105,7 @@ As I looked at Sayaka, who had suddenly fallen silent, I　　declared to her, i
 //［コウジ］：フン、じゃあ教えてやろう。貴様のことが嫌いだからだ。
 [Kouji]: Hmph, I'll tell you why. Because you're annoying,  that's why.
 //［コウジ］：私の奴隷になるというのなら、考えてやってもいいがな。その時は私のところへ来い。
-[Kouji]: If you were to become my slave, I might consider it. When you're ready, come to me.
+[Kouji]: If you were to become my slave, I might consider itWhen you're ready, come to me.
 //［沙夜香］：コンピュータ・ルームへは、誰も入れないわよっ！
 [Sayaka]: Nobody has ever set foot in the computer room!
 //ウソでも、話を聞くくらいは言った方が良かったか‥‥。
@@ -311,13 +311,13 @@ ko01
 //［宏治］：冗談言うなよ、あんな凶悪な女、３秒でどうこうできるもんじゃないぜ。
 [Kouji]: Stop joking around, how can you possibly do that in3 seconds to such a brutish woman?
 //［コウジ］：貴様は、私の思念がシンクロする時刻を逆算し、ビアンカとの戦いのタイミングをセッティングするのだ。
-[Kouji]: Counting back from the time my thoughts synchronize, you will set the time for a battle with Bianca.
+[Kouji]: Counting back from the time my thoughts synchronizeyou will set the time for a battle with Bianca.
 //［宏治］：だいたい、何で５時間後なんだよ。
 [Kouji]: Why is it in 5 hours in the first place?
 //［コウジ］：そのあいだ、ジェネレータのシンクロ時間の計算を算出するからだ。こちらの原始的な機構は、私の天才的頭脳をもってしても、なかなかこれが困難で‥‥。
 [Kouji]: Because in the meantime, the generator needs to　　calculate the synchronization time. Even with my genius　　 intellect, the primitive structures here are difficult to　 work with...
 //［宏治］：さっきから聞いていて疑問なんだが、お前はいったい今、どこにいるんだ？
-[Kouji]: I've had this question on my mind since a while ago, but where even are you right now?
+[Kouji]: I've had this question on my mind since a while agobut where even are you right now?
 //［コウジ］：地面の上だ。
 [Kouji]: On the ground.
 //［宏治］：おい。

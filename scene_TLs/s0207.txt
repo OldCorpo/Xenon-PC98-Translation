@@ -123,7 +123,7 @@ I slowly looked around at my bound body. Only my head and　 neck were able to m
 //［コウジ］：では、本当は何だ？
 [Kouji]: Then, what are they really?
 //［沙夜香］：あのドリームプログラムというマシンが実用化されれば、人の精神を自由に操ることができるのでしょう？
-[Sayaka]: If we were to put that Dream Program machine into use, it would allow humans' spirits to be freely manipulated, right?
+[Sayaka]: If we were to put that Dream Program machine into use, it would allow humans' spirits to be freely manipulatedright?
 //［コウジ］：そんなことはできんぞ、あの大宇宙海賊霊子エナジー増幅ジェネレータ２ではなっ。
 [Kouji]: That's not something my Universal Pirate Reiko　　 Energy Amplifying Generator 2 can do.
 //［沙夜香］：まぁいいわ。それを利用して法務局での、私の地位の確立が目的よ。
@@ -161,7 +161,7 @@ What an idiotic woman. If she wanted to conquer the whole　 world, she would ha
 //［沙夜香］：とりあえず、私の手中にあるとだけ言っておきましょう。
 [Sayaka]: For now, let's just say she's in the palm of my　 hand.
 //［沙夜香］：あの女、宏治様、宏治様って、バカじゃないかしら。あなたのどこが、そんなにいいのかしらねぇ。
-[Sayaka]: That woman keeps babbling "Kouji-sama, Kouji-sama", like some fool. It seems she really likes some part of you.
+[Sayaka]: That woman keeps babbling "Kouji-sama, Kouji-sama"like some fool. It seems she really likes some part of you.
 //［コウジ］：フン、愚か者には、決してわからないのだろう。
 [Kouji]: Hmph, a buffoon certainly wouldn't understand.
 //沙夜香の片方の眉が、ピクリと跳ね上がる。つくづく、感情的な女だった。
@@ -227,7 +227,7 @@ I assessed the situation correctly. Needlessly making a big fuss is the height o
 //［コウジ］：いや、見たいＴＶ番組があるのでな。
 [Kouji]: It's just, there's a TV program I want to watch.
 //時刻を聞いて、唖然とした。何ということだ、ビアンカとの戦いまで、あと数分しかないではないか‥‥。
-As I heard the time, I was struck dumb. What the hell, there's only a few minutes until the fight with Bianca...
+As I heard the time, I was struck dumb. What the hell,　　　there's only a few minutes until the fight with Bianca...
 //焦りを感じるが、これを沙夜香に気取られてはならなかった。こちらが弱みを見せれば、ハイエナのごとく食らい付くに違いない。
 I was irritated, but I didn't let it show to Sayaka. If I　 showed any weakness, she'd certainly devour me like a hyena.
 //［沙夜香］：少しは協力する気になったかしら。
@@ -281,7 +281,7 @@ Sayaka shrugged her shoulders, put her hands on her hips,　 and stood up before
 //［沙夜香］：答えは２つに１つ。私に協力して生きながらえるか、拒否して死ぬか。
 [Sayaka]: Answer me one of the two: Will you help me and　　live, or reject me and die?
 //拒否しての生、という選択肢は、どうやら状況的に無いらしい。最強の宇宙海賊は、状況分析も的確なのだ。
-It seemed the option to reject her and live was not possible. The strongest space pirate has correctly analyzed the　　 situation.
+It seemed the option to reject her and live was not possibleThe strongest space pirate has correctly analyzed the　　　 situation.
 //［コウジ］：フン、最近の政府機関は、恫喝も仕事にはいっているのか。
 [Kouji]: Hmph, so intimidation is a part of the job for the latest government agencies?
 //［沙夜香］：聞き分けがない人に対してだけ、ね。
@@ -297,11 +297,11 @@ The corners of her eyes seemed to lift up. There shone an　 ominous light in he
 //自分でも損な性格とは思うが、私の自尊心が許さない。敵に迎合して、自分の信念を曲げるくらいなら、玉砕を選んだ方がましである。
 Even though I was in a losing position, my self-esteem did  not waver. Pandering to the enemy would be a slight against my beliefs, so choosing honorable defeat would be preferable
 //しかも、この肉体は脆弱な宏治とやらいう男のものだ。この肉体が滅びたとき、私の思念体がいかなる運命を辿るのか、多少の興味もあった。
-However, this physical body was that puny Kouji's possession. When this body is destroyed, if my thought body were to　 chase whatever destiny awaited, that might be somewhat　　　interesting.
+However, this physical body was that puny Kouji's possessionWhen this body is destroyed, if my thought body were to　　 chase whatever destiny awaited, that might be somewhat　　　interesting.
 //［コウジ］：私は最強の宇宙海賊だ。貴様ごときに指図される謂れはない。
 [Kouji]: I am the strongest space pirate. I have no reason  to be commanded by the likes of you.
 //胸を張って言ったつもりだったが、椅子に縛られているのでモゾモゾと上半身を動かしただけにとどまった。非常に情けない。
-I intended to puff my chest out with pride as I said it, but, being bound to the chair, my upper body only strained　　 against the bindings. It was quite pitiful.
+I intended to puff my chest out with pride as I said it,　　but, being bound to the chair, my upper body only strained  against the bindings. It was quite pitiful.
 //［沙夜香］：フン、何が宇宙海賊よ。どこでかじったかは知らないけど、その知識と才能はぜひ貸してもらうわ。
 [Sayaka]: Hmph, what space pirate? I have no idea what's　　gotten into you, but lend me that knowledge and talent.
 //［コウジ］：地位の確立のためか？
@@ -641,7 +641,7 @@ The truth was, I was still on this developing planet called Earth. I was still s
 //［恵］：宏治様、どうしたんですか？
 [Megumi]: Kouji-sama, what's going on?
 //［コウジ］：うむ、少し考え事をしていただけだ。おい、沙夜香！
-[Kouji]: Why, I'm just thinking of a few things. Hey, Sayaka!
+[Kouji]: Why, I'm just thinking of a few things.　　　　　  Hey, Sayaka!
 //［沙夜香］：は、はい。
 [Sayaka]: Y-yes.
 //［コウジ］：貴様、もっと気合いを入れてくわえないか！

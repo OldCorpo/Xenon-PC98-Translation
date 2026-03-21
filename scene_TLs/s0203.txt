@@ -265,7 +265,7 @@ To make two apparatuses in phase and on the same coordinate in the time axis, th
 //しかし、そんな確率は限りなくゼロに近い‥‥。
 However, the probability of that success is nearly 0...
 //いや、その確率にあたったからこそ、私が今ここにいる訳だ。
-No, it's *because* we hit that activation that I'm even here.
+No, it's *because* we hit that activation that I'm even here
 //こちらから強制的に意識を投影しても、恐らく思念体の強制排他がおきるだけだ。恐らく数秒しかシンクロできまい。
 Forcibly projecting my consciousness from here likely also  caused the forced exclusion of only the thought body. I　　 probably can't synchronize for more than a few seconds.
 //［コウジ］：フン、まぁいいだろう。
@@ -377,7 +377,7 @@ Then, tell me about the fundamental concepts behind this　　machine.
 //［沙夜香］：何の脈絡があるっていうのよ。
 [Sayaka]: What does that have to do with anything?
 //［コウジ］：フン、では私が当ててやろう。上から８５－６１－８６というところだな。
-[Kouji]: Hum, then I'll try to guess. From the top, 85-61-86, am I right?
+[Kouji]: Hum, then I'll try to guess. From the top, 85-61-86am I right?
 //［沙夜香］：なっ‥‥！？
 [Sayaka]: How-?!
 //［コウジ］：フン、図星らしいな。
@@ -397,7 +397,7 @@ Then, tell me about the fundamental concepts behind this　　machine.
 //［コウジ］：では、さようなら、と言ったのだ。聞こえなかったのか、このバカ者が。
 [Kouji]: "Well then, farewell," I said. Did you hear that,  you idiot?
 //［沙夜香］：気を付けた方がいいわよ、私はね、バカにされるのが大嫌いなの。
-[Sayaka]: Oh, you noticed, I really hate being made an idiot.
+[Sayaka]: Oh, you noticed, I really hate being made an idiot
 //［コウジ］：フン、少し口が滑っただけだ。私が言いたいのはだな‥‥‥‥。
 [Kouji]: Hum, it was only a slip of the tongue. What I　　　wanted to say was...
 //［コウジ］：どういうつもりだ、ここは私の部屋ではないか。
@@ -433,7 +433,7 @@ kai_bast
 //［コウジ］：（みすみす、エンコーダを‥‥。）
 [Kouji]: (From right under my nose, the encoder...)
 //［ビアンカ］：ほう、さすがに表情が変わったな。そうでなくては、奪い甲斐が無いというものだ。
-[Bianca]: Ho~, it does seem that your expression has changed. However, that doesn't change the fact that the stolen　　 goods are gone.
+[Bianca]: Ho~, it does seem that your expression has changedHowever, that doesn't change the fact that the stolen　　　 goods are gone.
 //［男の声］：エンコーダなんかに未練は無いが、ファルは置いていけ。
 [Man]: She had no attachments to that encoder, so Far left  it there.
 //［コウジ］：（バカな事を言うな。あのエンコーダ無くして‥‥。）
@@ -677,7 +677,7 @@ I lifted her legs up and inserted myself deeper into her.　 Our hips were stuck
 //［涼子］：あひぃぃ！　もう、ダメ‥‥あぁぁぁぁぁぁっ！！
 [Ryouko]: Aiieeee! No, no more...Ahhhh-!!
 //［涼子］：あぅ、んんっ、もう、何人の女の子を泣かせてきたのよっ！
-[Ryouko]: Ow, mmm, come on, how many girls have you made cry!
+[Ryouko]: Ow, mmm, come on, how many girls have you made cry!!!
 //［コウジ］：そうだな、数えきれんな。
 [Kouji]: Let's see, I can't count them all.
 //［涼子］：くやしい！　もっと、涼子を突いて！　愛して！！

@@ -9,7 +9,7 @@ s0206
 //フン、そうだな。コンピュータ・ルームへ行ってみよう。
 ◆ Hmm, that's right. I'll go to the computer room.
 //確か、キーは、あの沙夜香が持っていたはずだが‥‥。
-Indeed, that Sayaka woman likely holds the key to that place, doesn't she...
+Indeed, that Sayaka woman likely holds the key to that placedoesn't she...
 //［コウジ］：フッフッフ‥‥。
 [Kouji]: Hu hu hu....
 //私は、枕の下から一束のキーを取り出した。無論、沙夜香からさきほどくすねたヤツである。
@@ -45,7 +45,7 @@ As I made to leave the room...
 //［コウジ］：コンピュータ・ルームか？
 [Kouji]: You mean the computer room?
 //［恵］：そうよっ！　そこに、至急来て！
-[Megumi]: That's right! Please come there as soon as you can!
+[Megumi]: That's right! Please come there as soon as you　　can!
 //［恵］：あ痛っ‥‥んもう、やんなっちゃうっ、なんで私がこんなめに‥‥。
 [Megumi]: Ah, it hurts...Mm, I didn't even do anything. Why am I hurting like this...
 //［コウジ］：どうしたのだ。
@@ -55,7 +55,7 @@ As I made to leave the room...
 //何ともぶしつけな女だったが、コンピュータ・ルームには、私も用事があった。
 This woman was being quite rude, but I *did* have some　　　business in the computer room.
 //普段なら無視して然るべきだったが、このさいだ、ついでに見てきてやろう。
-Usually, I would overlook such a thing as a matter of course, but on this occasion, I'll look into it properly.
+Usually, I would overlook such a thing as a matter of coursebut on this occasion, I'll look into it properly.
 //そう考えると、私はコンピュータルームへと向かっていった‥‥。
 Thinking this, I turned towards the computer room...
 //ここでじっとしている方が、いいだろう。
@@ -113,7 +113,7 @@ Suddenly, a voice called out from below me. What awful　　　manners she must 
 //［恵］：なぜって‥‥怒るわよ！
 [Megumi]: What do you mean, "why?" ...You're making me　　　upset!
 //恵のこめかみに血管が浮き出したところで、やめておいた。
-Since Megumi's blood vessels were budding out of her temples, I stopped teasing her.
+Since Megumi's blood vessels were budding out of her templesI stopped teasing her.
 //ほとんど半裸の恵に、幾重にも巻き付いている革ベルトを、さっさと解いていった。
 I quickly undid the leather belt that was wrapped several　 times around the nearly half-naked Megumi.
 //meg06_m
@@ -379,7 +379,7 @@ As I said, she got on all fours, and turned her butt towardsme, but as I looked 
 //［恵］：ああン、早くぅ‥‥。
 [Megumi]: Ahhhm, hurry...
 //何も知らない恵は、盛んに尻を振って私を誘っている。
-The unknowing Megumi energetically wagged her ass towards me, inviting me in.
+The unknowing Megumi energetically wagged her ass towards meinviting me in.
 //［コウジ］：クックック、貴様に奴隷などもったいないというものだ。
 [Kouji]: Kukuku, it would be such a waste to turn you into aslave.
 //［恵］：えっ‥‥？
@@ -441,7 +441,7 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 //［恵］：ね、宏治さま、もう１回しよっか？
 [Megumi]: Hey, Kouji-sama, can we do it again?
 //［コウジ］：そんなことより、恵、貴様に聞きたいことがある。
-[Kouji]: Before that, Megumi, I have something to ask of you.
+[Kouji]: Before that, Megumi, I have something to ask of you
 //［恵］：そんなことって、ずいぶんよね～。
 [Megumi]: That kind of thing is pretty extreme~.
 //［恵］：きゃっ、ごめんなちゃーい。何でもお聞き下さいませ。
@@ -449,7 +449,7 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 //［コウジ］：ふん、私が聞きたいことというのはだな。
 [Kouji]: Hmm, what did you think I wanted to hear?
 //［恵］：わかった、私の星座でしょう？　相性をみるとか？
-[Megumi]: I got it, you want to know my constellation, right? To see how compatible we are?
+[Megumi]: I got it, you want to know my constellation,　　　right? To see how compatible we are?
 //［コウジ］：せいざ？　姿勢正しく座ることが、なぜ必要なのだ。
 [Kouji]: Consternation? Why would your feelings be importantto me?
 //［恵］：ばっかねぇ～。
@@ -527,7 +527,7 @@ As I nodded, satisfied, Megumi looked on, puzzled.
 //［恵］：女はみんな、自分をさらって行ってくれる白馬の王子様を待っているの！
 [Megumi]: Because every woman is waiting to be swept away bya prince riding a white horse!
 //［コウジ］：フン、くだらん願望にかまけている暇はないな。よし、では貴様は今から私の妻で奴隷だ。
-[Kouji]: Heh, I have no time to be occupied with a silly　　dream like that. Right, from now on, you will be my slave and wife.
+[Kouji]: Heh, I have no time to be occupied with a silly　　dream like that. Right, from now on, you will be my slave　 and wife.
 //［恵］：じゃあ、奴隷妻ってこと？
 [Megumi]: So, a slave-wife?
 //［コウジ］：うむ、そういうことになる。
