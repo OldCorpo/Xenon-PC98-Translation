@@ -159,7 +159,7 @@ I followed behind Far as we entered the room...
 //0010_2
 0010_2
 //［トレイシー］：プロフェッサ、とりあえず命に別状はありませんでした。
-[Tracy]: Professor, there haven't been any changes in the meantime.
+[Tracy]: Professor, there haven't been any changes in the　 meantime.
 //［ファル］：そう、それは良かったわ‥‥怪我なんかは？
 [Far]: I see, that's good...are there any injuries?
 //［トレイシー］：外傷は全くありません。でも‥‥。
@@ -175,7 +175,7 @@ I followed behind Far as we entered the room...
 //［ファル］：そう‥‥これで、２人目という訳ね。
 [Far]: I see...this is the second person.
 //ファルはしばらく、ベッドに寝ている女性を凝視している。トレイシーと何か言葉を交わしているが、私の関心はすでに救出された者へと移っていた‥‥。
-For a while, Far stared at the sleeping woman.　　　　　　　After exchanging a few words with Tracy,  moved my attentionto the rescued person... 
+For a while, Far stared at the sleeping woman.　　　　　　　After exchanging a few words with Tracy, I moved my　　　　 attention to the rescued person... 
 //bi01
 bi01
 //xenon_05
@@ -243,7 +243,7 @@ With good timing, Far called out to me.
 //［コウジ］：昏睡？
 [Kouji]: Comatose?
 //［ファル］：そう、原因が全く不明なのよ。例外無く、彼らは倒れていく。
-[Far]: That's right, the cause was totally unknown. Without exception, they all fell to it.
+[Far]: That's right, the cause was totally unknown. Without exception, they all succumbed to it.
 //［ファル］：１人も五体満足なクルーがいなくなるのだから、どうしようもないわね。
 [Far]: No one in the five-man crew was left, so we couldn't do anything about it.
 //［コウジ］：確かに‥‥。
