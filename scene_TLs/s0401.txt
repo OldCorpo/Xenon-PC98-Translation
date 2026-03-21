@@ -13,7 +13,7 @@ all
 //［ランファ］：あっ、お鍋がふいてるぅ！
 [Lanhua]: Ah-, the pot is boiling over!
 //［トレイシー］：あらあら、大変‥‥火はこれくらい、かしら？
-[Tracy]: My, my, what a mess...the heat should be about here, perhaps?
+[Tracy]: My, my, what a mess... the heat should be about　　here, perhaps?
 //［ビアンカ］：私に訊かれても困るぞ。炊事関連は苦手でな。
 [Bianca]: I can't really help you there. I'm no good at　　 cooking.
 //［ファル］：お醤油とって頂戴、お醤油。
@@ -81,7 +81,7 @@ all
 //［ファル］：ちょっとランファ‥‥んっ、ちょっとあなた、ここは私の椅子よっ。
 [Far]: Hold on, Lanhua...mm, wait, dear, that's my seat.
 //［ランファ］：ずるいですぅ、椅子を移動させるなんて。
-[Lanhua]: Hey, moving around the chairs like that's not fair.
+[Lanhua]: Hey, moving around the chairs like that's not fair
 //［ファル］：ちょっとあなた、お尻が大きいわよ。
 [Far]: Wait, dear, your butt is too big.
 //［トレイシー］：ほらほら、２人とも椅子取りゲームじゃあるまいし。
@@ -713,7 +713,7 @@ bi05
 //［宏治］：さぁ、どうしよっかなぁ‥‥。
 [Kouji]: Now, what should I do...?
 //［ビアンカ］：そんなぁ‥‥あふぅ、コウジの言うことなら‥‥あっ、何でも‥‥んくっ、聞くわ。
-[Bianca]: D-don't tease me...ahoo, whatever Kouji says...ah-, no matter what...ngh, I'll obey.
+[Bianca]: D-don't tease me...ahoo, whatever Kouji says...　 ah-, no matter what...ngh, I'll obey.
 //［宏治］：本当？
 [Kouji]: Really now?
 //［ビアンカ］：本当よっ、本当よっ！　しろといったら、何でもしてあげる。
@@ -847,7 +847,7 @@ Without thinking, I pressed my mouth to Lanhua's. As I　　　pinched her nose 
 //［ランファ］：んっ‥‥‥‥。
 [Lanhua]: Mm-.......
 //［宏治］：おっ、いい感じだ。もういっちょ、フーーーーーッッ！！
-[Kouji]: Oh-, that's a good reaction. Once more, *fffffffff*!!
+[Kouji]: Oh-, that's a good reaction. Once more, *fffffffff*!!!
 //［ランファ］：あン、コウジ様‥‥そんな、大胆ですぅ‥‥。
 [Lanhua]: Ahm, Kouji-sama....h-how bold of you...
 //［宏治］：よかったぁ‥‥ちょ、ちょっと‥‥。
@@ -1197,7 +1197,7 @@ to05_m
 //［トレイシー］：んくぅぅぅっ！！　あはぁぁ、コウジ様ぁぁ、お願い‥‥あぁぁ、お願いぃぃ！！
 [Tracy]: Nkhhhh-! Ahaaa, Kouji-samaaa, please...ahhh,　　　 pleeeease!!
 //［コウジ］：フン、こんなに濡らしながら、何をお願いしているんだ！？　アレか？　アレが欲しいのかっ！？
-[Kouji]: Hm, what are you asking for, dripping wet like that? Do you want THAT? HUH?!
+[Kouji]: Hm, what are you asking for, dripping wet like　　 that? Do you want THAT? HUH?!
 //じゅぷっ、じゅぷっ。
 *squelch*, *squelch*
 //［トレイシー］：んあぁぁぁぁぁぁっ！　違うぅぅぅっ！！
@@ -1363,7 +1363,7 @@ to05d
 //［コウジ］：どうした？　まだ３回だぞ。
 [Kouji]: What's the matter? You've only taken three.
 //［トレイシー］：お、お願いです‥‥ど、どんな事でもさせて戴きます。だから‥‥だからぁぁぁぁ‥‥あくっ！
-[Tracy]: P-please...I'll do a-anything. Just...please...akh-!
+[Tracy]: P-please...I'll do a-anything. Just...please...akh!
 //［コウジ］：だから、なんだ？
 [Kouji}: Just, what?
 //［トレイシー］：だ、だから‥‥お、おトイレに‥‥くぅっ、もう限界ぃぃっ！！
@@ -1439,7 +1439,7 @@ to05e
 //［トレイシー］：本来の私の姿に‥‥。
 [Tracy]: But from my former self....
 //［トレイシー］：コウジ様のおかげで、ありのままの姿の私‥‥本当の私自身を見つけることができたのよ。
-[Tracy]: Thanks to Kouji-sama, from my position at that time, I was able to find my true self.
+[Tracy]: Thanks to Kouji-sama, from my position at that　　 time, I was able to find my true self.
 //［トレイシー］：あの方には、本当に感謝しているのよ‥‥。
 [Tracy]: I feel deep gratitude towards that person...
 //［トレイシー］：私の本性を知っているのは、あのお方だけ‥‥‥‥。
@@ -1465,7 +1465,7 @@ to05e
 //［コウジ］：何故、こんな所にいるのか、僕は‥‥。
 [Kouji]: Why am I in this kind of place...?
 //［トレイシー］：記憶が混乱しているのですわ。落ちついて下さい、大丈夫です。
-[Tracy]: Your memory must be jumbled. Please calm down, you're OK.
+[Tracy]: Your memory must be jumbled. Please calm down,　　 you're OK.
 //［コウジ］：僕は、いったいどうしたんだ‥‥？
 [Kouji]: What exactly happened to me...?
 //［コウジ］：言ってくれ、どうしたんだ？
@@ -1763,7 +1763,7 @@ to05e
 //［トレイシー］：私が‥‥コウジの事を？
 [Tracy]: Because...I love you?
 //［コウジ］：そう、愛する者に見つめられて、感じない女性がどこにいるのか。
-[Kouji]: Precisely. When being gazed at by someone they love, there's no woman who doesn't feel that way, is there?
+[Kouji]: Precisely. When being gazed at by someone they　　 love, there's no woman who doesn't feel that way, is there?
 //［トレイシー］：あぁぁ、そうよ‥‥私、コウジの事を愛してる‥‥愛してるの‥‥。
 [Tracy]: Ahhhh, that's right...  I really do love Kouji...  I love you...
 //［コウジ］：僕もだよ。
@@ -1997,7 +1997,7 @@ to07
 //［トレイシー］：（こんなに‥‥こんなに感じてるなんて‥‥。）
 [Tracy]: (How...how incredible this feels...)
 //［トレイシー］：（アソコを少しこすっただけで‥‥んあぅ！）
-[Tracy]: (Just by rubbing it a little bit down there....Nnau!)
+[Tracy]: (Just by rubbing it a little bit down there....　　Nnau!)
 //［トレイシー］：（こんなに濡れて‥‥こんなに敏感になって‥‥。）
 [Tracy]: (I'm so wet...I've gotten so sensitive...)
 //［トレイシー］：（あぁぁ、アレもパンパンに腫れ上がっている‥‥ここからでもわかるわ‥‥。）
