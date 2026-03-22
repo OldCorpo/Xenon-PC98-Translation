@@ -61,7 +61,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：宏治クン、それで君は夢精でもしたの？
 [Ryouko]: Kouji-kun, did you have a nocturnal emission from that?
 //［宏治］：バカにしないで下さいよ。毎日毎日、同じ夢を見るってのは、どう考えても‥‥。
-[Kouji]: Don't fool around. Every day, I have the same dream. How should I consider it...?
+[Kouji]: Don't fool around. Every day, I have the same dreamHow should I consider it...?
 //［涼子］：たまっているのね。
 [Ryouko]: You've been saving up, haven't you?
 //［宏治］：露骨に言わないで下さい。オレにだってガールフレンドくらい‥‥。
@@ -107,7 +107,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：歳のことは、言いっこ無し。これでも、ちょっとは気にしてるのよ。
 [Ryouko]: Let's not discuss my age. Even here, I'm still　　sensitive to it.
 //［涼子］：なんにしても、任せて頂戴。大丈夫だから。
-[Ryouko]: Whatever you want to talk about, just lay it on me. It'll be fine, after all.
+[Ryouko]: Whatever you want to talk about, just lay it on meIt'll be fine, after all.
 //［宏治］：そう言ってこのあいだなんか、雷が人間の精神に与える作用とかいって、僕を避雷針に縛り付けて‥‥。
 [Kouji]: While we were just talking, if I can compare a　　　human's spirit to lightning, then I'm being fastened to a　lightning rod...
 //［涼子］：でも、無事だったじゃない。
@@ -125,7 +125,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：ね？　ほら、決意が変わらないうちに、あそこへ‥‥。
 [Ryouko]: See? Now, I won't change my resolution towards　　_that_...
 //［宏治］：やっぱり止めます。たかだか夢にうなされたくらいで、命の危険を冒す理由はないよな。
-[Kouji]: We really should stop. Since I've only been crying out over a nightmare, it's not worth risking my life over it.
+[Kouji]: We really should stop. Since I've only been crying out over a nightmare, it's not worth risking my life over it
 //［涼子］：ちょっとぉ、それ、私に対する嫌味？
 [Ryouko]: Hold it, was that snide remark directed at me?
 //［宏治］：それ以外に聞こえましたか？
@@ -133,7 +133,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：あなたね、仮にも元担当医に対する態度じゃないわよ。
 [Ryouko]: You really shouldn't be so aggressive, even　　　　temporarily, to your attending physician.
 //［宏治］：ええ、ここに入院したおかげで、あやうく死にそうになりましたからね。
-[Kouji]: Yes, because I entered this facility, I almost died.
+[Kouji]: Yes, because I entered this facility, I almost died
 //［涼子］：大げさねぇ、ちょっと実験体になってもらった程度じゃない。
 [Ryouko]: You're exaggerating; the risk was only that of　　being an experimental subject.
 //［宏治］：そのおかげで、人が死ぬ思いを‥‥。
@@ -281,7 +281,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［左の女］：もちろんですわ。
 [Woman on the left]: Of course it is.
 //［宏治］：‥‥さっきから、オレのことを宏治、宏治って呼んでるけど、オレは君たちのこと、何も知らないんだけど‥‥。
-[Kouji]: ...Just earlier, you were calling me "Kouji, Kouji", but I don't know anything about you two...
+[Kouji]: ...Just earlier, you were calling me "Kouji, Kouji"but I don't know anything about you two...
 //［右の女］：えぇっ！　ランファの事を、お忘れになったんですかぁ！？
 [Woman on the right]: Ehhh-! Did you forget about Lanhua?!
 //［左の女］：私の‥‥私の事もお忘れですか？
@@ -369,7 +369,7 @@ s0301a
 //［トレイシー］：あっ、そういえば‥‥。
 [Tracy]: Ah-, now that you mention it...
 //［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
-[Lanhua]: Huhum～, Kouji-sama will be mad if you don't finish.
+[Lanhua]: Huhum～, Kouji-sama will be mad if you don't　　　finish.
 //［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
 [Tracy]: Ahhhh, wh-what should I do....
 //［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。
@@ -377,7 +377,7 @@ s0301a
 //［ランファ］：ランファが面倒見てあげますねっ。
 [Lanhua]: See, I look after you, don't I?
 //［トレイシー］：しょうがないわ‥‥じゃあコウジ様、お仕事を終えたら、すぐに参ります。
-[Tracy]: I guess there's no way around it...Well, Kouji-sama, I'll return as soon as I'm done.
+[Tracy]: I guess there's no way around it...Well, Kouji-samaI'll return as soon as I'm done.
 //［ランファ］：ほらっ、行った行った！
 [Lanhua]: Now, go, go!
 //［トレイシー］：んもう‥‥。

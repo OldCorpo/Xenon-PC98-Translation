@@ -279,7 +279,7 @@ s0303a
 //［トレイシー］：私、心の底からコウジ様のことをご心配申し上げて‥‥。
 [Tracy]: From the bottom of my heart, I've been worried　　　about you, Kouji-sama...
 //［ランファ］：ハイハイ、雑音は消さないとねっ。
-[Lanhua]: All right, I've got to go calm down that commotion.
+[Lanhua]: All right, I've got to go calm down that commotion
 //［ランファ］：何かあったら、ベッド傍らのコンパネを利用して下さい。もう飛んでやって来ますからっ！
 [Lanhua]: If you need anything, please use that control　　　panel by the bed. Gotta fly now!
 //［ランファ］：じゃ、また来ますねっ。

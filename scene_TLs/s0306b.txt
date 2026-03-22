@@ -33,7 +33,7 @@ bi02
 //［ビアンカ］：貴様、私を愚弄するかっ！？
 [Bianca]: DO YOU THINK YOU CAN MAKE A FOOL OF ME?!
 //［宏治］：ぐ、ぐろーなんて、とんでもないってば。ただ、今はまだ‥‥そう、本調子じゃなくて‥‥。
-[Kouji]: I-I'm telling you, I'm not trying to do that at all. But, right now, it's still...yeah, I'm not quite myself...
+[Kouji]: I-I'm telling you, I'm not trying to do that at allBut, right now, it's still...yeah, I'm not quite myself...
 //［ビアンカ］：では、いつなら本調子なのだ？
 [Bianca]: Well, when *will* you be yourself?
 //［宏治］：そうだな、あと５分くらい、かな？
@@ -299,7 +299,7 @@ bi06d
 //［宏治］：《お前って、宇宙一の外道だな。》
 [Kouji]: {You really are not the best in the universe.}
 //［コウジ］：《ビアンカは自爆装置を、身体にいくつも取り付けているのだぞ。そのまま爆死したいか？》
-[Kouji]: {Bianca has multiple explosives planted on her body. Do you really want to explode to death that badly?}
+[Kouji]: {Bianca has multiple explosives planted on her bodyDo you really want to explode to death that badly?}
 //［宏治］：《な、なにぃ！？》
 [Kouji]: {W-WHAT?!}
 //［コウジ］：《今なら大丈夫だ。早く言うのだ！》

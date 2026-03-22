@@ -55,13 +55,13 @@ As I laughed openly, I punched my fist indiscriminately intothe black shining wa
 //頬を伝う涙の感触を感じながら、オレはコブシを抱えてうずくまった。痛いぞ、これは‥‥無茶苦茶、痛い。
 As I felt the tears streaming down my face, I covered my　　throbbing fist. It hurts, this is...really quite painful.
 //［トレイシー］：こ、コウジ様‥‥大変だわ、ちょっとお待ちになって下さいね。あっ、怪我した方の手に、触らないようお願いします！
-[Tracy]: K-Kouji-sama...this is bad, please wait right there. Ah-, please don't touch your hurt hand!
+[Tracy]: K-Kouji-sama...this is bad, please wait right thereAh-, please don't touch your hurt hand!
 //トレイシーが部屋の隅にある戸棚を開けて、何かをゴソゴソと捜している間、オレは真っ赤に腫れ上がったコブシをさすりながら、ボーっと窓の外を見ていた。
 Tracy opened a cabinet in the corner of the room. As she　　rustled about searching for something, I rubbed my red　　　swollen fist as I looked out the window.
 //痛い‥‥‥‥。
 It hurts....
 //オレのコブシは、焼けヒバシを当てたくらい熱を帯びていた。痛覚はもはや麻痺し、熱くジンジンとした動悸だけが伝わってくる。
-My fist stung as though it had touched a hot fireplace poker. I was becoming numb to the pain, and only the tingling,　　throbbing heat remained.
+My fist stung as though it had touched a hot fireplace pokerI was becoming numb to the pain, and only the tingling,　　　throbbing heat remained.
 //本当にここは、宇宙‥‥？
 Am I really in space...?
 //いやまさか、そんな非科学的な。夢だ。そうだ、コブシを痛めるという夢を見ている最中なのだ、オレは。
@@ -235,7 +235,7 @@ I wonder if it's OK to handle that so roughly?
 //［宏治］：なっ‥‥ちょっと、ゆ、ゆっくりやって構わないよ。うん。
 [Kouji]: Wh-... Well, it won't hurt to install it a little  more carefully. Yeah.
 //［ランファ］：もうすぐ終わりますから‥‥これと、これと‥‥んしょっ。
-[Lanhua]: I'll be done soon...Now this, and this...Mm, there.
+[Lanhua]: I'll be done soon...Now this, and this...Mm, there
 //［ランファ］：ところでコウジ様、どこから来られたんですか？
 [Lanhua]: By the way, Kouji-sama, where did you just come　　from?
 //［ランファ］：そちらの方には、何もないはずですけど‥‥。
@@ -355,7 +355,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //［宏治］：そ、そんなに凶暴なの？
 [Kouji]: Sh-she's that ferocious?
 //［ランファ］：もうプリプリですぅ。お尻にもアザがあるんですよ、ホラ‥‥。
-[Lanhua]: It's still throbbing. I've got a bruise on my butt, too, look...
+[Lanhua]: It's still throbbing. I've got a bruise on my butttoo, look...
 //［宏治］：み、見せなくていいってば。
 [Kouji]: A-as I said, it's ok, you don't have to show me.
 //［ランファ］：酷いんですよファルネリア様ったら‥‥寝心地が悪いとか、食事がマズいとか、もう大変なんですぅ。
@@ -513,7 +513,7 @@ That's right, in my back pocket...there it is.
 //［オレ］：女の子がこんなに顔を汚しちゃ、ダメだぜ。
 [Me]: It's no good for girls to get their faces so dirty.
 //［オレ］：よし、これでＯＫだ。可愛くなった。
-[Me]: All right, this should be OK. You've become quite cute.
+[Me]: All right, this should be OK. You've become quite cute
 //［オレ］：別に、ただ顔を拭いただけじゃないか。
 [Me]: What's with you? I just wiped your face, that's all.
 //［オレ］：ふぅ‥‥。
@@ -603,7 +603,7 @@ Leaving me in a confused state, the woman named Lanhua　　　nimbly stood up a
 //冗談じゃない‥‥またここで１人になるなんて‥‥。
 This is no laughing matter...I'm all alone again...
 //オレはきびすを返すと、ランファと名乗る女性を、後から追いかけていった。
-I turned on my heels and chased after the woman named Lanhua.
+I turned on my heels and chased after the woman named Lanhua
 //‥‥‥‥
 ...
 //‥‥‥‥
@@ -900,7 +900,7 @@ So then, in front of me...
 //狭い通路だったので、オレは身体をやや斜めに傾けて進まなければならなかった。
 It was a cramped passage, so I had no choice but to wedge　　myself sideways through it.
 //必然的に、どこかに身体が引っかかる確率は高くなるわけで、それが脚だとしても別に不思議はない。
-Inevitably, I was likely to get caught or stuck on something, so even if it were my foot, it wouldn't be out of the　　　ordinary.
+Inevitably, I was likely to get caught or stuck on somethingso even if it were my foot, it wouldn't be out of the　　　　ordinary.
 //オレは不可抗力という文字を頭に浮かべながら、正面の曇りガラスに覆われたドアに、勢い良く倒れ込んでいった。
 As the word "inevitability" hung in my head, I forcefully　　collapsed through the frosted glass door before me.
 //fa04
@@ -982,7 +982,7 @@ fa02_m
 //［ファル］：ほ、本当？
 [Far]: R-Really?
 //［宏治］：監禁はやめる。このシップ‥‥の中では、行動の自由も保証する。こんな感じでいいかな？
-[Kouji]: I'll stop confining you here. ...In fact, I'll　　　guarantee your freedom to do as you please within this ship, too. Are you OK with that?
+[Kouji]: I'll stop confining you here. ...In fact, I'll　　　guarantee your freedom to do as you please within this shiptoo. Are you OK with that?
 //［ファル］：‥‥表情が澄んだグリーンだわ。嘘は吐いてないようね。
 [Far]: ...Your expression is a tranquil green color. You arenot telling a lie, are you?
 //［宏治］：何だよグリーンって。ま、嘘を吐くつもりはないよ。
@@ -1090,7 +1090,7 @@ fa02_m
 //［宏治］：うん、じゃあそれでいこう。
 [Kouji]: All right, then let's do that.
 //［宏治］：なんかこう、緊迫感がないよなぁ。気にはなるけど‥‥。
-[Kouji]: Well, there's no sense of urgency here. I'm curious, but...
+[Kouji]: Well, there's no sense of urgency here. I'm curiousbut...
 //［宏治］：さぁ‥‥。
 [Kouji]: Now...
 //［ファル］：緊迫感がないわね、本当に。
@@ -1100,7 +1100,7 @@ fa02_m
 //［ファル］：訊きたいことがあるって言ったけど、それは訊問？
 [Far]: You said there was something you wanted to ask of me,but is that an order?
 //［宏治］：いや、任意ってやつさ。どうしても嫌なら、無理強いはしない。
-[Kouji]: No, answer as you please. If something disturbs you, don't force yourself to answer.
+[Kouji]: No, answer as you please. If something disturbs youdon't force yourself to answer.
 //［宏治］：どうする？
 [Kouji]: What do we do?
 //［ファル］：フン、訊かれてあげるわ。
@@ -1211,7 +1211,7 @@ fa03_m
 //ピーピッ、ピーピッ‥‥。
 *BEEEEP*, *BEEEEP*...
 //［宏治］：なんかこう、緊迫感がないようなぁ。気にはなるけど‥‥。
-[Kouji]: Well, there's no sense of urgency here. I'm curious, but...
+[Kouji]: Well, there's no sense of urgency here. I'm curiousbut...
 //［ファル］：お待たせ‥‥。
 [Far]: Sorry to keep you waiting...
 //［宏治］：ふぁ、ファルネリア‥‥‥。
