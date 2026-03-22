@@ -125,7 +125,7 @@ Now, I wanted to escape from this horrendous noise as　　　 quickly as possib
 //私は、おぼつかない足どりで、この場を立ち去った‥‥‥‥。
 With legs quivering beneath me, I left this place behind me.
 //蒸し暑さは変わらなかったが、息苦しさから解放された為か、幾分気分が良くなったようだ。
-The air was as hot and humid as ever, yet it was longer as  stifling. I was feeling a little better.
+Although the air was as hot and humid as ever, I no longer  felt suffocated. I felt a little better.
 //あの耳障りな騒音も、かなり静かになっていた。
 That ear-ringing sound had stopped.
 //（ここには、誰も人がいないのだろうか‥‥‥‥。）
@@ -448,7 +448,7 @@ In the monitor, a blonde girl was smiling. Her smile didn't seem very natural, b
 //［女］：差し支えるのなら、また後ほどにしますが。
 [Girl]: If you don't mind, I'll see you later.
 //意外に低い物腰に、さきほどの疑惑が、ずいぶんと馬鹿馬鹿しいものに思えてくる。
-With an unexpected , I felt really dumb about my doubts justnow.
+Seeing her genuinely humble behavior, I felt really dumb　　about my doubts just now.
 //モニターの中の女性は、笑みを崩さず、じっと私の返答を待っている。
 The girl on the screen kept smiling as she stared at me,　　waiting for my response.
 //［コウジ］：いや、全く構わない。
@@ -516,7 +516,7 @@ With those quick movements, I felt truly better.
 //［コウジ］：あ、あのファルという女性が、プロフェッサ‥‥！？
 [Kouji]: Th-that Far girl was a professor?!
 //［トレイシー］：はい、そうです。
-[Tracy]: Yep, she is.
+[Tracy]: Yes, she is.
 //どうも、話が呑み込めなかった‥‥。
 Somehow, I didn't quite believe her.
 //さきほどファルは、『調査隊』という言葉を使用していた。学術調査員、ということだろうか。

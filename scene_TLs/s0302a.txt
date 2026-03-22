@@ -401,11 +401,11 @@ Huh? I did?
 //［宏治］：そうだけど‥‥。
 [Kouji]: Yes....
 //［ランファ］：トレイシーの言ってることは、全部私のウケウリですぅ。彼女はメカのことなんて‥‥。
-[Lanhua]: What Tracy said was taken entirely from me. She's just a machine, after all...
+[Lanhua]: Everything Tracy said was just stuff she heard　　from me. When it comes to machines, she really...
 //［ランファ］：これっっっっっっぽっちも、わからないんですからっ！
-[Lanhua]: You didn't even know that liiiiittle bit, did you!
+[Lanhua]: .. doesn’t understand a siiiiiiiingle bit of it!
 //［宏治］：そんなにリキまなくても‥‥。
-[Kouji]: Don't exert yourself so much....
+[Kouji]: No need to get so worked up...
 //［ランファ］：このエンジンはですねっ。
 [Lanhua]: About this engine...
 //［ランファ］：コウジ様が設計・製作され、そしてランファが愛情をたーっぷりとそそいで手塩に育て上げた‥‥。
@@ -431,9 +431,9 @@ Huh? I did?
 //［ランファ］：エンジンの整備とチェックですけど‥‥。
 [Lanhua]: Performing engine checks and maintenance, why?
 //［宏治］：そういえば、メカをいじらせたら右に出る者無しなんだって？
-[Kouji]: Speaking of which, as you were fiddling with that  machine, did anyone come from the right side?
+[Kouji]: Speaking of which, I heard there's no one who can  match you when it comes to tinkering with machines?
 //［ランファ］：そんな‥‥コウジ様の足下にも及びません、私なんか‥‥。
-[Lanhua]: Ummm, I can't reach under Kouji-sama's foot...
+[Lanhua]: No... I can’t even begin to compare to you, Kouji-sama... I’m nothing...
 //［ランファ］：コウジ様、お体の具合はもうよろしいのですか？
 [Lanhua]: Kouji-sama, is your body healed already?
 //［宏治］：オレはもともと、具合なんて悪くはないぞ。
@@ -948,7 +948,7 @@ As I rubbed my cheek, still dizzy, I confusedly apologized.
 //［宏治］：ふぅ、何て凶暴な女なんだ‥‥噂通りじゃないか。
 [Kouji]: Hooo, what a ferocious woman...just like the rumorssaid.
 //［宏治］：でも良い身体してたよなぁ‥‥。
-[Kouji]: But what a gorgeous bod...
+[Kouji]: But what a gorgeous body she has...
 //［ファル］：なによ、まだいるじゃない‥‥。
 [Far]: Why the hell are you still here...?
 //fa02
@@ -1024,7 +1024,7 @@ fa02_m
 //［宏治］：俺は宏治であって、コウジではないんだ。
 [Kouji]: I'm Kouji, not Kouji.
 //［ファル］：なによそれ、どっかの宗教じゃないんだから。
-[Far]: What's with that distinction? Doesn't seem like some weird religious thing.
+[Far]: What’s that supposed to mean? It’s not like this is  some kind of religion.
 //［宏治］：説明は難しいから端折るけど、とにかく君に対して悪いようにはしないつもりだ。
 [Kouji]: Since it's complicated, I'll cut to the chase. In  any case, I don't mean to cause you any harm.
 //［ファル］：‥‥あ、ありがとう。

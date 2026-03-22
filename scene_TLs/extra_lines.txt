@@ -75,7 +75,7 @@ I fell for that scheming Dr. Ryouko’s trap and ended up burning out twenty to 
 //［宏治］：お、奥歯の横に、自爆装置ぃ〜！？
 [Kouji]: A s-self-destruct device next to my back tooth-!?
 //［宏治］：（奥歯の、外側かな‥‥ここか？　ツンツン。）
-[Kouji]: (On the outside of my back tooth, maybe..  . here? poke, poke.)
+[Kouji]: (On the outside of my back tooth, maybe... here?　 poke, poke.)
 //［ファル・ランファ・トレイシー］：えぇっ〜！？
 [Far, Lanhua, Tracy]: Eeeeh-!?
 //［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ〜！

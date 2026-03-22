@@ -7,7 +7,7 @@ s0303a
 //［宏治］：そう、きみ。
 [Kouji]: Yes, you.
 //［ランファ］：しろみ！　なんちってぇ～。
-[Lanhua]: 
+[Lanhua]: Shiromi! Just kidding~.
 //［ランファ］：コウジ様ぁ‥‥ウルウル。
 [Lanhua]: Kouji-sama...*sob sob*
 //［宏治］：ど、どうしたの、急に涙をためて‥‥。
@@ -175,7 +175,7 @@ s0303a
 //［ランファ］：うーん、うーん‥‥。
 [Lanhua]: Yes, yes...
 //［ランファ］：ほげぇぇっ！
-[Lanhua]: 
+[Lanhua]: Whoa!
 //［宏治］：な、なんだ、どうした！？
 [Kouji]: W-what's going on, Lanhua?
 //［ランファ］：難しいこと考えたんで、頭が爆発しちゃいそうですぅ。

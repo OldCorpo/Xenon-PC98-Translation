@@ -67,7 +67,7 @@ As she said this, Sayaka drew close to me.
 //［コウジ］：フン、あの女は私の奴隷だ。誰にもわたさんぞ。
 [Kouji]: Indeed, that woman is my slave. I won't hand her　 over to anybody.
 //［沙夜香］：あきれた、恵さんという恋人がいるのに？
-[Sayaka]: I'm astounded, is your lover Megumi here?
+[Sayaka]: Unbelievable... even though you have a girlfriend named Megumi?
 //［コウジ］：恵は私の妻だ。父親の権力は私のモノだ。
 [Kouji]: Megumi is my wife. Her father's power is mine to　 control.
 //［沙夜香］：‥‥恵さんのお父上も、知っているの？
@@ -197,7 +197,7 @@ I assessed the situation correctly. Needlessly making a big fuss is the height o
 //［コウジ］：恵はこれからどうなるのか？
 [Kouji]: What will happen to Megumi?
 //［沙夜香］：あなたが協力してくれないのなら、彼女を利用するしかないわよね。
-[Sayaka]: If you lend me a hand, I won't make use her.
+[Sayaka]: If you won't cooperate, then I'll just have to　　make use of her.
 //［沙夜香］：彼女を利用して、父親からたっぷりと資金をしぼりとるのよ。
 [Sayaka]: Using her, I can wring out quite a big sum of　　 capital from her father.
 //［コウジ］：資金をしぼりとるだけか？
@@ -587,7 +587,7 @@ The truth was, I was still on this developing planet called Earth. I was still s
 //［恵］：フフン、２号以下はお黙り。私が正妻なんですからねっ。
 [Megumi]: Huhum~, pipe down, numbers 2 and 3. After all, I'mhis real wife.
 //［沙夜香］：んぐんぐ。
-[Sayaka]: 
+[Sayaka]: Mmm-hmm.
 //［涼子］：２号以下でも、宏治様はね、私のことを‥‥。
 [Ryouko]: I may be number 2, but Kouji-sama still...
 //［舞］：私のことを一番大切だって、言ってくれたんですよね。
@@ -601,7 +601,7 @@ The truth was, I was still on this developing planet called Earth. I was still s
 //［涼子］：いくら妹の頼みでも、それは聞けないわね。
 [Ryouko]: I've allowed you a lot of things as my little　　 sister, but I can't do that.
 //［沙夜香］：んぐんぐ‥‥。
-[Sayaka]: 
+[Sayaka]: Mmm...
 //［コウジ］：フン、一時的にせよ、未来の私の肉体へのアクセスができたのだからな‥‥。
 [Kouji]: Hmm, even if temporarily, I was able to access the future me's physical body...
 //［コウジ］：チャンネルは常時開かれた状態だ‥‥。

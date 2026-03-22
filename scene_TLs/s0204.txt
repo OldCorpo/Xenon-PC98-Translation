@@ -241,7 +241,7 @@ Ryouko had something else to do. I assigned a task to her.
 //［コウジ］：涼子、貴様には他にもやることがある。
 [Kouji]: Ryouko, you have other tasks to do.
 //［涼子］：な、何です？
-[Ryouko]: 
+[Ryouko]: W-What is it?
 //［コウジ］：うむ、触媒の試験だ。
 [Kouji]: Indeed, testing the catalyst.
 //［涼子］：触媒の試験？
@@ -255,7 +255,7 @@ Ryouko had something else to do. I assigned a task to her.
 //どうやらマシンの機構は酷似しているが、設計のコンセプトまで似ているという訳ではないらしい。
 Even though the machine's mechanism bore a striking　　　　 resemblance to the generator, it seemed that the conceptual design was quite different.
 //［コウジ］：貴様は、あのマシンをどのようなコンプセトに基づいて設計したのだ？
-[Kouji]: When you designed that machine's design, what　　　concepts did you base its foundation on?
+[Kouji]: On what concept did you base the design of that　　machine?
 //［涼子］：そ、そりゃあ精神医学のために‥‥。
 [Ryouko]: W-well, it was made for psychiatric uses...
 //［コウジ］：くだらんな。
@@ -318,7 +318,8 @@ Ryouko made a complicated expression. Did she put her own　 little sister's fut
 //［涼子］：そうです。もっとも、彼女、宏治様のことを好いていたから‥‥。
 [Ryouko]: That's right. Besides, she seemed to like you,　　Kouji-sama...
 //［コウジ］：より好都合だな。よし、では姉妹そろって私の奴隷にしてやろう。
-[Kouji]: What good . Now, then, both sisters will become my slaves.
+[Kouji]: That works out even better. Alright then...  I’ll  make both sisters my slaves.
+#[Kouji]: What good . Now, then, both sisters will become my slaves.
 //［涼子］：えぇっ！？
 [Ryouko]: Ehh-?!
 //［コウジ］：不服か？
@@ -480,7 +481,7 @@ Right when Ryouko's fingertips had touched that little placebetween her legs hid
 //［涼子］：さぁ、生まれたままの姿になりましょうね。
 [Ryouko]: Now, you're as naked as the day you were born.
 //首を横に振ってイヤイヤをする舞を、むりやり自分の方へ向かせると、涼子は再びねっとりと唇を合わせていった。
-As Mai shook her head "no", Ryouko turned Mai's body toward her and resumed making out with her.
+When Mai shook her head in refusal, Ryoko forcibly turned　 her toward herself and once again pressed her lips together with hers in a slow, lingering kiss.
 //［舞］：んっ、んんんんぐっ‥‥‥‥。
 [Mai]: Mm, Mmmmmgh....
 //r&m03c

@@ -555,7 +555,7 @@ ryo02b
 //［コウジ］：フン。
 [Kouji]: Hum.
 //むぎゅぅっ。
-Mugyu
+*Squeeze*
 //［涼子］：きゃっ、何をするの！？
 [Ryouko]: Kya-! What are you doing?!
 //［コウジ］：お願いするときはムネを出すモノだ。ふむ、揉みがいはあるようだな。
