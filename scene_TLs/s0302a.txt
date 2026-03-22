@@ -403,7 +403,7 @@ Huh? I did?
 //［ランファ］：トレイシーの言ってることは、全部私のウケウリですぅ。彼女はメカのことなんて‥‥。
 [Lanhua]: Everything Tracy said was just stuff she heard　　from me. When it comes to machines, she really...
 //［ランファ］：これっっっっっっぽっちも、わからないんですからっ！
-[Lanhua]: .. doesn't understand a siiiiiiiingle bit of it!
+[Lanhua]: ... doesn't understand a siiiiiiiingle bit of it!
 //［宏治］：そんなにリキまなくても‥‥。
 [Kouji]: No need to get so worked up...
 //［ランファ］：このエンジンはですねっ。

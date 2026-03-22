@@ -115,7 +115,7 @@ In this sultry atmosphere, with a loud low sound resonating through my head...My
 //どうしたら、ここから出ることができるのだろう‥‥。
 How can I get out of this place?
 //私は、壁に手を当てて、めまいを押さえた。と、その時‥‥‥‥。
-Struggling to get a grip, I pushed my hands against the wall. Suddenly...
+Struggling to get a grip, I pushed my hands against the wallSuddenly...
 //ウィーーン‥‥‥‥。
 *slide*
 //（タッチセンサー、だったのか‥‥‥‥。）
@@ -516,7 +516,7 @@ With those quick movements, I felt truly better.
 //［コウジ］：あ、あのファルという女性が、プロフェッサ‥‥！？
 [Kouji]: Th-that Far girl was a professor?!
 //［トレイシー］：はい、そうです。
-[Tracy]: Yes, she is.
+[Tracy]: Yes, she was.
 //どうも、話が呑み込めなかった‥‥。
 Somehow, I didn't quite believe her.
 //さきほどファルは、『調査隊』という言葉を使用していた。学術調査員、ということだろうか。

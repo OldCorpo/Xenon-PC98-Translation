@@ -317,7 +317,7 @@ s0402
 //［トレイシー］：私、何でもします。コウジ様がしろということなら‥‥お願いです、何でも命じて下さい。
 [Tracy]: I'll do anything. Anything you say, Kouji-sama...  please, command me.
 //［コウジ］：ほぉ、何でもするのか。
-[Kouji]: Ho～, anything I ask?
+[Kouji]: Ho-, anything I ask?
 //［トレイシー］：はい！　お願いです、ですから‥‥ですから‥‥。
 [Tracy]: Yes! Anything you say. Just...just...
 //［トレイシー］：んっ‥‥‥‥。
@@ -599,7 +599,7 @@ ra&to02
 //［トレイシー］：こら、あの人なんて言い方がありますか。ご主人様と言いなさい。
 [Tracy]: How could you address him as "that person"? Call　 him "Master."
 //［ランファ］：はーい、ご主人様。
-[Lanhua]: Ye～s, master.
+[Lanhua]: Ye-s, master.
 //［コウジ］：フッ、元気があっていい。今日から、僕の部屋に来させろ。
 [Kouji]: Hm, it's good to have such energy. Starting today, you'll come to my room.
 //［トレイシー］：えっ‥‥きょ、今日から‥‥！？

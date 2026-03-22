@@ -18,8 +18,8 @@ all
 [Bianca]: I can't really help you there. I'm no good at　　 cooking.
 //［ファル］：お醤油とって頂戴、お醤油。
 [Far]: Pass the soy sauce, please.
-//［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ～！
-[Lanhua]: Ahhhh-! I spilled the miso soup～!
+//［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ〜！
+[Lanhua]: Ahhhh-! I spilled the miso soup-!
 //［トレイシー］：しょうがないわねぇ、ほら、フキフキ。
 [Tracy]: Well, no use crying about it, here, *wipe wipe*.
 //［ランファ］：んっ、もう、私の肌はデリケートなんですからねっ。もうちょっと優しく拭いてっ。
@@ -604,7 +604,7 @@ ra05b
 [Lanhua]: Nnngh, *gag*...*cough* *cough*!
 //［宏治］：おっとごめん、奥まで入れすぎちゃった。
 [Kouji]: Oops, sorry, I put it in too far.
-//［ランファ］：もう、喉が張り裂けそうになりましたぁ～、ケホケホッ。
+//［ランファ］：もう、喉が張り裂けそうになりましたぁ〜、ケホケホッ。
 [Lanhua]: Come on, you'll split open my throat like that,　 *cough* *cough*
 //［宏治］：でも、感じたろ？
 [Kouji]: But, you felt it, didn't you?
@@ -636,8 +636,8 @@ ra05b
 [Lanhua]: Huhhh, but I like it better under you.
 //［宏治］：じゃあ、あげない。
 [Kouji]: Well, then, I won't give it to you.
-//［ランファ］：あーん、ウソウソ、ウソですよぉ～。
-[Lanhua]: Ahhh, don't be such a tease～
+//［ランファ］：あーん、ウソウソ、ウソですよぉ〜。
+[Lanhua]: Ahhh, don't be such a tease-
 //［宏治］：じゃ、はやく。
 [Kouji]: Well, get to it.
 //［ランファ］：はーい‥‥ん、んしょ、んしょ‥‥。
@@ -842,8 +842,8 @@ As I spoke, I realized what had happened. Since I had　　　 clamped my hand s
 I took hold of her shoulders and shook her back and forth,  but her head merely bobbed back and forth opposite her　　　shoulders, with no response.
 //オレは無我夢中でランファの口に自分のそれを重ねた。鼻を指で押さえて、口腔へと空気を送り込む。
 Without thinking, I pressed my mouth to Lanhua's. As I　　　pinched her nose shut, I blew into her mouth.
-//［宏治］：フーーーッッ。ランファ、気づけよぉ～。
-[Kouji]: *Fffff*. Lanhua, wake up～.
+//［宏治］：フーーーッッ。ランファ、気づけよぉ〜。
+[Kouji]: *Fffff*. Lanhua, wake up-.
 //［ランファ］：んっ‥‥‥‥。
 [Lanhua]: Mm-.......
 //［宏治］：おっ、いい感じだ。もういっちょ、フーーーーーッッ！！
@@ -995,7 +995,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：はい、その‥‥外の空気にあたりたくなって‥‥。
 [Tracy]: Well, um...it seemed to fit the atmosphere outside ...
 //［コウジ］：ほぉ、その姿を、誰かに見てもらいたくなったのではないか？
-[Kouji]: Ho～, are you sure you don't want to show that body off to anyone else?
+[Kouji]: Ho-, are you sure you don't want to show that body off to anyone else?
 //［トレイシー］：そ、そんなこと‥‥ありません。
 [Tracy]: I-I don't.
 //［トレイシー］：あっ、ダメ‥‥こんなところで‥‥。
@@ -1099,7 +1099,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：それは‥‥それは、私が淫乱な肉奴隷っ！
 [Tracy]: That's because...because I'm a dirty whore sex　　 slave!
 //［コウジ］：よーし、では、いつ人が通るかわからないこの廊下で、オレのモノをくわえてもらおうか。
-[Kouji]: Good～, then, in this corridor where people might　pass through, will you suck my cock?
+[Kouji]: Good-, then, in this corridor where people might　pass through, will you suck my cock?
 //［トレイシー］：はい、光栄にございます。くわえさせて、戴きます‥‥。
 [Tracy]: Yes, it would be an honor. I'll humbly receive yourmassive cock...
 //［コウジ］：今日は顔にかけてやる。

@@ -89,7 +89,7 @@ As I turned my heel on her, Sayaka's strident voice called  out to me. This woma
 //［沙夜香］：あるわ、例のドリームプログラムのことよ。
 [Sayaka]: We do, in fact, things like the dream program.
 //［コウジ］：ほぉ、なぜその事を知っている？
-[Kouji]: Hoh～, how do you know about that?
+[Kouji]: Hoh-, how do you know about that?
 //途端に押し黙る沙夜香を見ながら、私は侮蔑にも似た声音で彼女に言い放った。
 As I looked at Sayaka, who had suddenly fallen silent, I　　declared to her, insultingly:
 //［コウジ］：フン、奸計をめぐらす小悪党か。貴様と手を組むなどあり得ないことだ。
@@ -435,7 +435,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：なーに、さっきからバカな独り言を言っているのよ。
 [Sayaka]: Helloooo? You've been talking to yourself like a  dummy this whole time.
 //［沙夜香］：うふふーん。
-[Sayaka]: Uhuhu～.
+[Sayaka]: Uhuhu-.
 //［コウジ］：何だ、貴様は。
 [Kouji]: Who the hell are you?
 //［沙夜香］：沙夜香よっ！
@@ -478,7 +478,7 @@ saya05
 [Sayaka]: See, if I do *this*...
 //りゅっ、りゅっ、りゅっ‥‥。
 Squeak, squeak, squeak...
-//［沙夜香］：口で強がっても、こっちは正直よねぇ～。
+//［沙夜香］：口で強がっても、こっちは正直よねぇ〜。
 [Sayaka]: Even if you're bluffing up there, down here is　　quite honest.
 //［コウジ］：私は自分を偽るのが嫌いでな。
 [Kouji]: I hate attempts to deceive me.
@@ -615,7 +615,7 @@ This woman was unusually naive. It would have been better　 for her not to sedu
 //沙夜香がコブシを私に叩きつけてきた。私は手のひらで、それをスポっと受けとめる。
 Sayaka swung her fist at me, only for it to smack right intothe palm of my hand.
 //［コウジ］：ほぉ、勇ましいな。
-[Kouji]: Hoh～, how brave of you.
+[Kouji]: Hoh-, how brave of you.
 //［沙夜香］：あのマシンはね、政府が搾取するわ、必ずね！
 [Sayaka]: The government will surely bleed that machine dry!
 //［コウジ］：私が、だろう？　一人称と三人称をきちんと使い分けろ。

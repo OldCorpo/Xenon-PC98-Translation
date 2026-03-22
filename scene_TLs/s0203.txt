@@ -80,7 +80,7 @@ In this sleepy state, going to the rooftop to chill out　　 might be good for 
 Thinking of that, with heavy feet, I turned towards the　　 rooftop.
 //エレベータから降りると、暗く静かな場が眼前に広がっていた。閑散とした様相が、私の体温までも引き下げていく。
 As I got off the elevator, the dark, quiet place opened up  before me. The silent atmosphere cooled me to my core.
-//［コウジ］：ぶ、ぶへぇぇ～っくしょん！！！
+//［コウジ］：ぶ、ぶへぇぇ〜っくしょん！！！
 [Kouji]: Huah, Huaaachoooo!!!
 //いかに最強の宇宙海賊とはいえ、根絶不能とまで言われる風邪ウィルスにだけは、なかなか手間取るのである。
 Even the strongest galactic pirate will take time to　　　　overcome just the so-called ineradicable cold virus.
@@ -230,7 +230,7 @@ I should open up the socket and look directly inside.
 [Kouji]: Hm, the electronic parts inside really are ancient,huh.
 //［コウジ］：未だに半導体を、論理回路に使っているのか‥‥さすが開発途上文明だな。
 [Kouji]: They're still using semiconductors to inscribe　　 logic circuits... how fitting for a developing civilization.
-//［コウジ］：‥‥しかし、これでは正常な動作はしない。シナプスの２～３万本も焼き切るだけだ。
+//［コウジ］：‥‥しかし、これでは正常な動作はしない。シナプスの２〜３万本も焼き切るだけだ。
 [Kouji]: ... However, this isn't operating normally. It'll  fry 20-30 thousand synapses.
 //［コウジ］：拷問にはいいかもしれんな。
 [Kouji]: Might be good for torture.
@@ -354,7 +354,7 @@ Then, tell me about the fundamental concepts behind this　　machine.
 [Kouji]: This is a crucial flaw. But luckily, because our　 temporal phases aligned, I was moved from a machine with thesame concept, and the subject's thought body was moved to　 that time.
 //［沙夜香］：な、何のことを言っているの‥‥。
 [Sayaka]: W-what are you talking about...?
-//［コウジ］：普段だったら、被験者の脳シナプスの２～３万本は、焼き切れていただろうがな‥‥。
+//［コウジ］：普段だったら、被験者の脳シナプスの２〜３万本は、焼き切れていただろうがな‥‥。
 [Kouji]: If this were functioning normally, about 20-30　　 thousand of the subject's brain synapses would be fried...
 //［コウジ］：もっとも私は、それをデバッグする術を知っているが‥‥。
 [Kouji]: Besides, I know how to debug this flaw...
@@ -433,7 +433,7 @@ kai_bast
 //［コウジ］：（みすみす、エンコーダを‥‥。）
 [Kouji]: (From right under my nose, the encoder...)
 //［ビアンカ］：ほう、さすがに表情が変わったな。そうでなくては、奪い甲斐が無いというものだ。
-[Bianca]: Ho～, it does seem that your expression has changedHowever, that doesn't change the fact that the stolen　　　 goods are gone.
+[Bianca]: Ho-, it does seem that your expression has changedHowever, that doesn't change the fact that the stolen　　　 goods are gone.
 //［男の声］：エンコーダなんかに未練は無いが、ファルは置いていけ。
 [Man]: She had no attachments to that encoder, so Far left  it there.
 //［コウジ］：（バカな事を言うな。あのエンコーダ無くして‥‥。）
@@ -449,7 +449,7 @@ kai_bast
 //［コウジ］：どうやら、不定期にシンクロしているらしい‥‥。
 [Kouji]: Somehow, the synchronization is irregular...
 //［涼子］：ねぇ、宏治くぅん。
-[Ryouko]: Hey, Kouji-ku～n.
+[Ryouko]: Hey, Kouji-ku-n.
 //ryo01b
 ryo01b
 //xenon_23
@@ -463,7 +463,7 @@ ryo01b_m
 //［コウジ］：ん？
 [Kouji]: Hm?
 //［涼子］：ねぇ、ねぇねぇ‥‥宏治くぅん。
-[Ryouko]: Hey, hey, hey...Kouji-ku～n.
+[Ryouko]: Hey, hey, hey...Kouji-ku-n.
 //［コウジ］：身体をくねらせて、何をしているのだ。気持ち悪いヤツだ。
 [Kouji]: What are you doing, wriggling your body like that. It feels weird.
 //［涼子］：んもう、ねぇ、ちょっと‥‥。
@@ -493,7 +493,7 @@ With a knowing look, Ryouko shook her shoulders. Her well-  shaped bust swayed w
 //［涼子］：うん。教えてくれたら、いいことさせて、あ・げ・る。
 [Ryouko]: Yeah. If you'll teach me how to fix it, I can showyou something...*good*.
 //［コウジ］：ほぉ、いいこと？
-[Kouji]: Ho～, something...good?
+[Kouji]: Ho-, something...good?
 //［涼子］：ねっ、だからさぁ‥‥。
 [Ryouko]: So what do you say...
 //［コウジ］：クックックッ‥‥。
@@ -501,7 +501,7 @@ With a knowing look, Ryouko shook her shoulders. Her well-  shaped bust swayed w
 //［涼子］：こ、宏治クン‥‥？
 [Ryouko]: K-Kouji-kun...?
 //［コウジ］：フハハハハ、はーっはっはっは！
-[Kouji]: Wahahahahaha, ha～hahahahaha!
+[Kouji]: Wahahahahaha, ha-hahahahaha!
 //［涼子］：ど、どうしちゃったの‥‥こ、宏治クン！？
 [Ryouko]: What are you doing...K-Kouji-kun?!
 //涼子は恐いモノでも見るように、私のことを怪訝そうに見つめていた。口元は辛うじて笑みを保っているが、動揺は隠せない。
@@ -549,7 +549,7 @@ Ryouko's face showed outright denial and impatience. Hum,　 it's only natural t
 //ryo02b
 ryo02b
 //［コウジ］：ほぉ、ずいぶんと派手な下着を着けているな。
-[Kouji]: Ho～, what indecent panties you have on.
+[Kouji]: Ho-, what indecent panties you have on.
 //［涼子］：し、下着くらい！　おしゃれしたって、いいじゃない‥‥。
 [Ryouko]: Wh-what about my panties! They're fashionable,　　aren't they...
 //［コウジ］：フン。
@@ -581,7 +581,7 @@ ryo02b
 //［涼子］：な、何のことよっ！
 [Ryouko]: Wh-what are you saying!
 //［コウジ］：フフン、青臭い匂いが、プンプン漂ってくる。この耳の裏側からな‥‥？
-[Kouji]: Hehe～, how pungent this fresh smell is. Did it comefrom behind this ear...?
+[Kouji]: Hehe-, how pungent this fresh smell is. Did it comefrom behind this ear...?
 //［涼子］：あっ‥‥いやっ‥‥。
 [Ryouko]: Ah-...no-...
 //［コウジ］：耳の中か？

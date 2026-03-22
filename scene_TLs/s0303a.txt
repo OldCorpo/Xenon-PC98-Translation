@@ -6,8 +6,8 @@ s0303a
 [Lanhua]: Do you mean me?
 //［宏治］：そう、きみ。
 [Kouji]: Yes, you.
-//［ランファ］：しろみ！　なんちってぇ～。
-[Lanhua]: Shiromi! Just kidding～.
+//［ランファ］：しろみ！　なんちってぇ〜。
+[Lanhua]: Shiromi! Just kidding-.
 //［ランファ］：コウジ様ぁ‥‥ウルウル。
 [Lanhua]: Kouji-sama...*sob sob*
 //［宏治］：ど、どうしたの、急に涙をためて‥‥。
@@ -264,8 +264,8 @@ s0303a
 [Lanhua]: Hey, Kouji-samaa...*sniffle*
 //［宏治］：行ってきなよ、ランファ。
 [Kouji]: Go, Lanhua.
-//［ランファ］：えぇぇ～！！
-[Lanhua]: WHAAAAT～～!!
+//［ランファ］：えぇぇ〜！！
+[Lanhua]: WHAAAAT--!!
 //［トレイシー］：さっ、コウジ様もああおっしゃってる訳だし。
 [Tracy]: See, even Kouji-sama said to do it.
 //［ランファ］：もうプリプリよぉ。
@@ -283,7 +283,7 @@ s0303a
 //［ランファ］：何かあったら、ベッド傍らのコンパネを利用して下さい。もう飛んでやって来ますからっ！
 [Lanhua]: If you need anything, please use that control　　　panel by the bed. Gotta fly now!
 //［ランファ］：じゃ、また来ますねっ。
-[Lanhua]: Well, I'll be back～
+[Lanhua]: Well, I'll be back-
 //ランファという女性がいなくなると、あたりは途端に静寂が訪れた。
 The woman named Lanhua disappeared, and the room became　　　silent once more.
 //しばらく寝てしまったんだろうか‥‥オレの足下に、キチンと畳まれた着替えが置いてあった。ランファという女性が、置いていったのかもしれない。
