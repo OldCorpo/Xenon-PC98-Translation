@@ -1024,7 +1024,7 @@ fa02_m
 //［宏治］：俺は宏治であって、コウジではないんだ。
 [Kouji]: I'm Kouji, not Kouji.
 //［ファル］：なによそれ、どっかの宗教じゃないんだから。
-[Far]: What’s that supposed to mean? It’s not like this is  some kind of religion.
+[Far]: What’s that supposed to mean? It's not like this is  some kind of religion.
 //［宏治］：説明は難しいから端折るけど、とにかく君に対して悪いようにはしないつもりだ。
 [Kouji]: Since it's complicated, I'll cut to the chase. In  any case, I don't mean to cause you any harm.
 //［ファル］：‥‥あ、ありがとう。
