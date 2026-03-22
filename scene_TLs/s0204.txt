@@ -318,7 +318,7 @@ Ryouko made a complicated expression. Did she put her own　 little sister's fut
 //［涼子］：そうです。もっとも、彼女、宏治様のことを好いていたから‥‥。
 [Ryouko]: That's right. Besides, she seemed to like you,　　Kouji-sama...
 //［コウジ］：より好都合だな。よし、では姉妹そろって私の奴隷にしてやろう。
-[Kouji]: That works out even better. Alright then...  I’ll  make both sisters my slaves.
+[Kouji]: That works out even better. Alright then...  I'll  make both sisters my slaves.
 #[Kouji]: What good . Now, then, both sisters will become my slaves.
 //［涼子］：えぇっ！？
 [Ryouko]: Ehh-?!

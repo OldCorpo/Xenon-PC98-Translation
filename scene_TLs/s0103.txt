@@ -13,7 +13,7 @@ Was it the air conditioning working the room, or the heatingworking in the corri
 //放課後、数時間が経過した校内‥‥そんな形容が当てはまる場所だ。
 The inside of a school a few hours after the students had　 left for the day... That was the feeling exuding from this  place.
 //［宏治］：今日はまた、一段と人の数が少ないな‥‥。
-[Kouji]: Again, there’s not a lot a people here today.
+[Kouji]: Again, there's not a lot a people here today.
 //たまにすれ違う何人かの人たちは、午後の気だるさを表情に浮かべ、僕の傍らを寡黙に通り過ぎていく。
 From time to time, other people would wordlessly pass by me,with sluggish afternoon expressions plastered on their faces
 //こうして見ると、ごく普通の病棟の一風景という感じがする。
@@ -113,7 +113,7 @@ This woman seemed a bit surprised when she saw me. But that expression only last
 //最後の「さん」のイントネーションが、少し妙な発音になっている。この子の特徴だった。
 Her tone when she was pronouncing "-san" was a bit strange, and was a special trait of hers.
 //静かな廊下、無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
-In the silent corridor, an inorganic place, Mai’s figure wasthat of a sole blooming flower.
+In the silent corridor, an inorganic place, Mai's figure wasthat of a sole blooming flower.
 //気分が低下していた僕にとって、ある種の清涼剤になったのは事実のようだった。
 In my sullen mood, her presence was truly a breath of fresh air to me.
 //［舞］：フフ、どうしたんですか？
@@ -123,7 +123,7 @@ In my sullen mood, her presence was truly a breath of fresh air to me.
 //［舞］：考え事？
 [Mai]: Pondering?
 //［宏治］：うん‥‥ま、大したことじゃないんだけどね。
-[Kouji]: Yeah, but it wasn’t anything important anyway.
+[Kouji]: Yeah, but it wasn't anything important anyway.
 //［舞］：そう‥‥‥。
 [Mai]: I see...
 //彼女は舞という名前だ。それ以上の事は知らないし、教えてもくれない。
@@ -151,7 +151,7 @@ I nodded to her. How many times had we had this same　　　　conversation?
 //少し気のない声が、僕の耳に届いてくる。何かいいたげだ。
 Her somewhat halfhearted reply reached my ears. There was　 something else she wanted to tell me.
 //僕は黙って、舞の話の続きを待った。
-I kept silent, awaiting Mai’s next words.
+I kept silent, awaiting Mai's next words.
 //［舞］：それよりも、宏治サン。
 [Mai]: Anyway, Kouji-san.
 //［舞］：どんな夢を見たの？
@@ -187,7 +187,7 @@ I glanced quickly at Mai's expression. Luckily, she didn't  seem in a bad mood.
 //［宏治］：（確か、涼子先生も、そんなことを言っていたな‥‥‥‥。）
 [Kouji]: (Yeah, Ryouko-sensei said the same...)
 //いつの間にか、廊下には僕らだけになっていた。
-Without me realizing it, we’d become the only ones left in  the corridor.
+Without me realizing it, we'd become the only ones left in  the corridor.
 //あたりはシンと静まり返っていて、舞の息づかいさえも、僕の耳にとどいてきそうだった‥‥。
 The surroundings went dead quiet. Only Mai's breathing stilllingered in my ears.
 //［舞］：‥‥‥‥‥‥。
@@ -213,9 +213,9 @@ My legs were as sore as my head. Right now, I was moving my body just so I could
 //静かなロビーだった。空調設備としての、レトロな扇風機が天井で回っていた。
 The lobby was quiet. Instead of an air conditioner, an　　　old-fashioned fan was whirling about on the ceiling.
 //人は少なく無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
-An inorganic place with few people. Amidst all this, Mai’s figure stood out like a sole blooming flower.
+An inorganic place with few people. Amidst all this, Mai's  figure stood out like a sole blooming flower.
 //いつの間にか、ロビーには僕らだけになっていた。
-Without me realizing it, we’d become the only ones left in the lobby.
+Without me realizing it, we'd become the only ones left in  the lobby.
 //後には、僕が１人だけ、シンと静まったロビーにたたずんでいるだけだった‥‥。
 Afterwards, there was only me loitering in the silent lobby,alone.
 //［宏治］：（そういえば‥‥‥‥。）

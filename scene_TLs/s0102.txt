@@ -566,15 +566,15 @@ Unexpectedly, I made a reluctant face. With a mischievous　　expression on her
 //［涼子］：そう。例えば夢の冒頭‥‥確か、病室のようなベッドで１人きり‥‥。
 [Ryouko]: Yes. Let's take the beginning of your dream, for  example. You were all alone on a bed in some kind of　　　　hospital room, weren't you?
 //［涼子］：それは、あなたの現状をあらわしているわ。確か昨日、恵さんが今日来るという連絡を受けたわよね？
-[Ryouko]: That reveals your current condition. If memory　　serves, Megumi told you yesterday that she would be coming　today, didn’t she?
+[Ryouko]: That reveals your current condition. If memory　　serves, Megumi told you yesterday that she would be coming　today, didn't she?
 //［宏治］：恵？
 [Kouji]: Megumi?
 //［涼子］：あなたの、ガールフレンドでしょう？
-[Ryouko]: She’s your girlfriend, isn’t she? 
+[Ryouko]: She's your girlfriend, isn't she? 
 //そうだった。恵というのは、僕のガールフレンドの事だ。
 That was true. The person named Megumi was my girlfriend.
 //彼女は今日、僕の様子を見にやってくることになっていた。
-Today, she’ll come pay me a visit.
+Today, she'll come pay me a visit.
 //［宏治］：えぇ、確かに今日、恵が来ますけど‥‥。
 [Kouji]: Yeah, that's true, Megumi's coming here today, but ...
 //［涼子］：それで、あなたの願望が強い孤独感となって現れたのね。
@@ -594,9 +594,9 @@ Today, she’ll come pay me a visit.
 //［宏治］：え？
 [Kouji]: Eh?
 //［涼子］：最近ガールフレンドと、していないんじゃなくて？
-[Ryouko]: You haven’t been doing it with your girlfriend　　lately, have you?
+[Ryouko]: You haven't been doing it with your girlfriend　　lately, have you?
 //［宏治］：そ、それは‥‥ぷ、プライベートな事です。
-[Kouji]: U-um...I’d rather not say, it’s a private matter.
+[Kouji]: U-um...I'd rather not say, it's a private matter.
 #I would like to know what someone thinks of my translation.
 //あまりに図星だったので、少々どもってしまった。それを見すかしたように、彼女は目を細めて薄く笑う。
 As she hit the mark, I stuttered a little. It seemed she　　hadn't missed that, as she was showing a faint smile.
@@ -611,7 +611,7 @@ I stood up from the chair. My knees were a little sore sinceI had sat in the sam
 //ブラインドからもれる陽射しは、かなり長く、オレンジ色の光を室内に満たしていた。
 The sunlight seeping through the blinds was now nearly　　　horizontal. Sunset rays filled the entire room.
 //［宏治］：（今日は、ずいぶんと長いカウンセリングになったな‥‥。）
-[Kouji]: (Today, the counseling dragged on, didn’t it...)
+[Kouji]: (Today, the counseling dragged on, didn't it...)
 //［涼子］：そうそう、肝心な事を聞かなくては‥‥。
 [Ryouko]: Ah! I'd almost forgotten. I have something crucialto ask you.
 //涼子は真面目な表情に戻ると、僕の方を向いた。切れ長の目が、冷静に僕を射ていた。
@@ -637,9 +637,9 @@ Ryouko, reverting to a serious mood, turned towards me. She looked at me serenel
 //［涼子］：フフ、またそんな顔をする。冗談よ、まだ若いんだから、沢山吸収して、沢山忘れなさい。
 [Ryouko]: *chuckle* You made that face again. It was a joke.You're still young, so you're free to let it go in one ear  and out the other.
 //かなわないな、この人には‥‥。
-I’m not in the same league as this woman...
+I'm not in the same league as this woman...
 //しかし最近、物忘れがひどいのは確かだった。どうも記憶がはっきりとしない、そんな事を考える事が、少なくなかった。
-But it’s true that lately, I've been forgetting a lot of　　things. I've noticed that my memory constantly becomes vague
+But it's true that lately, I've been forgetting a lot of　　things. I've noticed that my memory constantly becomes vague
 //何と言ったらいいのだろう‥‥。
 What should I say?
 //ほんの数時間前のことも、あまり自信がなかった。いや、もしかしたら、数分前のことさえ‥‥。

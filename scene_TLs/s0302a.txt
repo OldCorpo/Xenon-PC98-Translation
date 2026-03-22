@@ -403,7 +403,7 @@ Huh? I did?
 //［ランファ］：トレイシーの言ってることは、全部私のウケウリですぅ。彼女はメカのことなんて‥‥。
 [Lanhua]: Everything Tracy said was just stuff she heard　　from me. When it comes to machines, she really...
 //［ランファ］：これっっっっっっぽっちも、わからないんですからっ！
-[Lanhua]: .. doesn’t understand a siiiiiiiingle bit of it!
+[Lanhua]: .. doesn't understand a siiiiiiiingle bit of it!
 //［宏治］：そんなにリキまなくても‥‥。
 [Kouji]: No need to get so worked up...
 //［ランファ］：このエンジンはですねっ。
@@ -433,7 +433,7 @@ Huh? I did?
 //［宏治］：そういえば、メカをいじらせたら右に出る者無しなんだって？
 [Kouji]: Speaking of which, I heard there's no one who can  match you when it comes to tinkering with machines?
 //［ランファ］：そんな‥‥コウジ様の足下にも及びません、私なんか‥‥。
-[Lanhua]: No... I can’t even begin to compare to you, Kouji-sama... I’m nothing...
+[Lanhua]: No... I can't even begin to compare to you, Kouji-sama... I'm nothing...
 //［ランファ］：コウジ様、お体の具合はもうよろしいのですか？
 [Lanhua]: Kouji-sama, is your body healed already?
 //［宏治］：オレはもともと、具合なんて悪くはないぞ。
@@ -1024,7 +1024,7 @@ fa02_m
 //［宏治］：俺は宏治であって、コウジではないんだ。
 [Kouji]: I'm Kouji, not Kouji.
 //［ファル］：なによそれ、どっかの宗教じゃないんだから。
-[Far]: What’s that supposed to mean? It's not like this is  some kind of religion.
+[Far]: What's that supposed to mean? It's not like this is  some kind of religion.
 //［宏治］：説明は難しいから端折るけど、とにかく君に対して悪いようにはしないつもりだ。
 [Kouji]: Since it's complicated, I'll cut to the chase. In  any case, I don't mean to cause you any harm.
 //［ファル］：‥‥あ、ありがとう。
