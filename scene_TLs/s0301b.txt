@@ -197,7 +197,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：りょ、涼子先生‥‥これはいったい‥‥。
 [Kouji]: Ry-Ryouko-sensei...what on earth is this....
 //［涼子］：おーっほっほっほ！
-[Ryouko]: O~hohoho!
+[Ryouko]: O～hohoho!
 //［宏治］：涼子先生、さっきとキャラクタが違うぜ。
 [Kouji]: Ryouko-sensei, you're acting very different from　　before.
 //［涼子］：ごめんねぇ、身動きできないように、椅子に縛らせてもらったわ。
@@ -265,7 +265,7 @@ Two lovely, clear voices seemed to call out to me....
 //オレはゆっくりと、固く閉じていた目を開けてみた‥‥。
 I slowly and gently opened my tightly shut eyelids....
 //［右の女］：ああン、コウジ様、コウジ様ぁ～。
-[Woman on the right]: Ahhhn, Kouji-sama, Kouji-samaa~.
+[Woman on the right]: Ahhhn, Kouji-sama, Kouji-samaa～.
 //［左の女］：良かった‥‥コウジ様‥‥。
 [Woman on the left]: Thank goodness...Kouji-sama....
 //［左の女］：ご気分はいかがです？
@@ -317,7 +317,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［トレイシー］：はい、わかりました。
 [Tracy]: Yes, understood.
 //［ランファ］：えぇ～っ。
-[Lanhua]: Ehh~-?
+[Lanhua]: Ehh～-?
 //［トレイシー］：ランファ、エンジンのチェックや機器類のテストなど、あなたにはまだやる事が沢山あるでしょう？
 [Tracy]: Lanhua, you still have quite a few engine checks　　and equipment tests to conduct, don't you?
 //［ランファ］：はーい。じゃあ何かあったら、呼んで下さい。
@@ -369,7 +369,7 @@ s0301a
 //［トレイシー］：あっ、そういえば‥‥。
 [Tracy]: Ah-, now that you mention it...
 //［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
-[Lanhua]: Huhum~, Kouji-sama will be mad if you don't finish.
+[Lanhua]: Huhum～, Kouji-sama will be mad if you don't finish.
 //［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
 [Tracy]: Ahhhh, wh-what should I do....
 //［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。
@@ -391,7 +391,7 @@ s0301a
 //［宏治］：ふぅ‥‥まぁいい。とにかく、身体を起こしてくれない？
 [Kouji]: Huu...well, fine. In any case, could you please getup?
 //［ランファ］：はーい、わかりましたっ。
-[Lanhua]: Ye~s, I understand.
+[Lanhua]: Ye～s, I understand.
 //［ランファ］：ウフッ、コウジ様っ。
 [Lanhua]: Oof, Kouji-sama.
 //［宏治］：んー、じゃあ、とりあえず話を聞きたいんだけど。

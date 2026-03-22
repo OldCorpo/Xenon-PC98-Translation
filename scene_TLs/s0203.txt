@@ -85,7 +85,7 @@ As I got off the elevator, the dark, quiet place opened up  before me. The silen
 //いかに最強の宇宙海賊とはいえ、根絶不能とまで言われる風邪ウィルスにだけは、なかなか手間取るのである。
 Even the strongest galactic pirate will take time to　　　　overcome just the so-called ineradicable cold virus.
 //早いところ、この私の卓越的な頭脳と行動力をもって、風邪ウィルスに対処するワクチンを作らねばな。
-With my excellent brian and mobility, I have to create a　　cold virus vaccine quickly.
+I really need to use my exceptional intellect and initiativeto develop a vaccine against the cold virus as soon as　　　possible.
 //［コウジ］：しかし、私はなぜ屋上へやって来たのだ‥‥？
 [Kouji]: But why did I come to the rooftop...?
 //魔がさすという事は、誰にでもあることだ。今度こそ、私らしい合理的かつ能率的な行動をしよう。
@@ -433,7 +433,7 @@ kai_bast
 //［コウジ］：（みすみす、エンコーダを‥‥。）
 [Kouji]: (From right under my nose, the encoder...)
 //［ビアンカ］：ほう、さすがに表情が変わったな。そうでなくては、奪い甲斐が無いというものだ。
-[Bianca]: Ho~, it does seem that your expression has changedHowever, that doesn't change the fact that the stolen　　　 goods are gone.
+[Bianca]: Ho～, it does seem that your expression has changedHowever, that doesn't change the fact that the stolen　　　 goods are gone.
 //［男の声］：エンコーダなんかに未練は無いが、ファルは置いていけ。
 [Man]: She had no attachments to that encoder, so Far left  it there.
 //［コウジ］：（バカな事を言うな。あのエンコーダ無くして‥‥。）
@@ -449,7 +449,7 @@ kai_bast
 //［コウジ］：どうやら、不定期にシンクロしているらしい‥‥。
 [Kouji]: Somehow, the synchronization is irregular...
 //［涼子］：ねぇ、宏治くぅん。
-[Ryouko]: Hey, Kouji-ku~n.
+[Ryouko]: Hey, Kouji-ku～n.
 //ryo01b
 ryo01b
 //xenon_23
@@ -463,7 +463,7 @@ ryo01b_m
 //［コウジ］：ん？
 [Kouji]: Hm?
 //［涼子］：ねぇ、ねぇねぇ‥‥宏治くぅん。
-[Ryouko]: Hey, hey, hey...Kouji-ku~n.
+[Ryouko]: Hey, hey, hey...Kouji-ku～n.
 //［コウジ］：身体をくねらせて、何をしているのだ。気持ち悪いヤツだ。
 [Kouji]: What are you doing, wriggling your body like that. It feels weird.
 //［涼子］：んもう、ねぇ、ちょっと‥‥。
@@ -493,7 +493,7 @@ With a knowing look, Ryouko shook her shoulders. Her well-  shaped bust swayed w
 //［涼子］：うん。教えてくれたら、いいことさせて、あ・げ・る。
 [Ryouko]: Yeah. If you'll teach me how to fix it, I can showyou something...*good*.
 //［コウジ］：ほぉ、いいこと？
-[Kouji]: Ho~, something...good?
+[Kouji]: Ho～, something...good?
 //［涼子］：ねっ、だからさぁ‥‥。
 [Ryouko]: So what do you say...
 //［コウジ］：クックックッ‥‥。
@@ -501,7 +501,7 @@ With a knowing look, Ryouko shook her shoulders. Her well-  shaped bust swayed w
 //［涼子］：こ、宏治クン‥‥？
 [Ryouko]: K-Kouji-kun...?
 //［コウジ］：フハハハハ、はーっはっはっは！
-[Kouji]: Wahahahahaha, ha~hahahahaha!
+[Kouji]: Wahahahahaha, ha～hahahahaha!
 //［涼子］：ど、どうしちゃったの‥‥こ、宏治クン！？
 [Ryouko]: What are you doing...K-Kouji-kun?!
 //涼子は恐いモノでも見るように、私のことを怪訝そうに見つめていた。口元は辛うじて笑みを保っているが、動揺は隠せない。
@@ -549,7 +549,7 @@ Ryouko's face showed outright denial and impatience. Hum,　 it's only natural t
 //ryo02b
 ryo02b
 //［コウジ］：ほぉ、ずいぶんと派手な下着を着けているな。
-[Kouji]: Ho~, what indecent panties you have on.
+[Kouji]: Ho～, what indecent panties you have on.
 //［涼子］：し、下着くらい！　おしゃれしたって、いいじゃない‥‥。
 [Ryouko]: Wh-what about my panties! They're fashionable,　　aren't they...
 //［コウジ］：フン。
@@ -581,7 +581,7 @@ ryo02b
 //［涼子］：な、何のことよっ！
 [Ryouko]: Wh-what are you saying!
 //［コウジ］：フフン、青臭い匂いが、プンプン漂ってくる。この耳の裏側からな‥‥？
-[Kouji]: Hehe~, how pungent this fresh smell is. Did it comefrom behind this ear...?
+[Kouji]: Hehe～, how pungent this fresh smell is. Did it comefrom behind this ear...?
 //［涼子］：あっ‥‥いやっ‥‥。
 [Ryouko]: Ah-...no-...
 //［コウジ］：耳の中か？
@@ -633,13 +633,13 @@ ryo02c
 //［涼子］：お願いよ、宏治クン‥‥‥‥。
 [Ryouko]: Please, Kouji-kun....
 //［コウジ］：乱暴にしてと、言ってみろ。
-[Kouji]: Say, "Please be rough."
+[Kouji]: Go on, tell me "Please be rough."
 //ぐちゅっ、ぐちゅっ、ぐちゅっ‥‥。
 Squash, squash, squash...
 //［涼子］：あぁぁ、ら、乱暴に‥‥して‥‥。
-[Ryouko]: Aaaahh, puh,please be...rough...
+[Ryouko]: Aaaahh, ugh, p-please be rough ...
 //［コウジ］：言ったな‥‥クックック‥‥。
-[Kouji]: You said it...Kukuku....
+[Kouji]: You said it... Kukuku....
 //ryo03
 ryo03
 //ずぷぷぷぷぷぷぷぷっっ‥‥‥‥。

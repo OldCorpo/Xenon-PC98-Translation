@@ -7,7 +7,7 @@ s0206
 //　◆ ウルトラスーパーマグナム・キックの練習をしよう。
 ◆ I'll practice my Ultra Super Magnum Kick.
 //フン、そうだな。コンピュータ・ルームへ行ってみよう。
-◆ Hmm, that's right. I'll go to the computer room.
+Hmm, I guess I'll go check the computer room.
 //確か、キーは、あの沙夜香が持っていたはずだが‥‥。
 Indeed, that Sayaka woman likely holds the key to that placedoesn't she...
 //［コウジ］：フッフッフ‥‥。
@@ -127,7 +127,7 @@ Making sounds like a martial artist, Megumi rubbed her arms and legs. Here and t
 //［恵］：バカ言ってないで。あの沙夜香にやられたのよっ！
 [Megumi]: Stop talking nonsense. It was Sayaka who bound me!
 //［コウジ］：ほぉ、沙夜香に。
-[Kouji]: Hoh~, Sayaka?
+[Kouji]: Hoh～, Sayaka?
 //［恵］：あの女、私がパパに言ってやるって言ったら、あわてちゃってさ。
 [Megumi]: If I told my papa to confront that woman, he'd　　become all flustered.
 //［コウジ］：パパ？
@@ -443,7 +443,7 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 //［コウジ］：そんなことより、恵、貴様に聞きたいことがある。
 [Kouji]: Before that, Megumi, I have something to ask of you
 //［恵］：そんなことって、ずいぶんよね～。
-[Megumi]: That kind of thing is pretty extreme~.
+[Megumi]: That kind of thing is pretty extreme～.
 //［恵］：きゃっ、ごめんなちゃーい。何でもお聞き下さいませ。
 [Megumi]: Kyah! Sowwy. I'll listen to anything you have to  say.
 //［コウジ］：ふん、私が聞きたいことというのはだな。
@@ -453,9 +453,9 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 //［コウジ］：せいざ？　姿勢正しく座ることが、なぜ必要なのだ。
 [Kouji]: Consternation? Why would your feelings be importantto me?
 //［恵］：ばっかねぇ～。
-[Megumi]: You're so duuumb~.
+[Megumi]: You're so duuumb～.
 //［恵］：う、ウソウソ、うそでーす。星座というのはですね、空に瞬く星々の芸術のことです。
-[Megumi]: I-I'm joking, I'm just joking~. I'm talking about constellations. You know, the forms and figures that stars  in the sky make.
+[Megumi]: I-I'm joking, I'm just joking～. I'm talking aboutconstellations. You know, the forms and figures that stars  in the sky make.
 //［コウジ］：‥‥なんだ、それは？
 [Kouji]: ...What are those?
 //［恵］：本当に知らないの？　もう、星と星を線でつないで、動物とか人間にみたてることよ。
@@ -495,7 +495,7 @@ As I nodded, satisfied, Megumi looked on, puzzled.
 //［コウジ］：貴様は、今から私の妻だ。
 [Kouji]: You will be my wife from this point on.
 //［恵］：えぇ～～！？
-[Megumi]: EEHHHH~~?!
+[Megumi]: EEHHHH～～?!
 //［恵］：ほ、本気なの？
 [Megumi]: Y-you serious?
 //［恵］：本気‥‥ですか？

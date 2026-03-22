@@ -49,7 +49,7 @@ As I looked down, I found I was bound at the hands and feet by strange leather b
 //mai04b
 mai04b
 //［コウジ］：ほぉ、ご丁寧に舞を連れてきてくれた訳か。
-[Kouji]: Ho~, how polite of you to have brought Mai here.
+[Kouji]: Ho～, how polite of you to have brought Mai here.
 //［沙夜香］：この子が、何らかのキーを握っていることはわかっているわ。
 [Sayaka]: I know this girl is holding some sort of key.
 //［コウジ］：キーだと？　フン、何も知らないのだな。
@@ -141,7 +141,7 @@ What an idiotic woman. If she wanted to conquer the whole　 world, she would ha
 //［沙夜香］：あまり、私を怒らせない方がいいわよ。
 [Sayaka]: You'd better not piss me off.
 //［コウジ］：ほぉ、怒らせると、どうなるのだ？
-[Kouji]: Hoh~, what will you do if I piss you off?
+[Kouji]: Hoh～, what will you do if I piss you off?
 //バシィ！
 *Bash!* 
 //［沙夜香］：おわかり？　もう質問はないのかしら。
@@ -317,7 +317,7 @@ What a typical authoritarian bureaucracy. For someone who sonarrow-mindedly, unt
 //［沙夜香］：この装置を稼働させれば、シナプスの２～３万本は焼き切れるそうじゃない。
 [Sayaka]: If I were to turn on this instrument, I'd fry 20- 30 thousand synapses, wouldn't I?
 //［コウジ］：ほぉ、それは楽しみだ‥‥。
-[Kouji]: Ho~, that would be fun...
+[Kouji]: Ho～, that would be fun...
 //［舞］：宏治サン！
 [Mai]: Kouji-san!
 //［舞］：宏治サン、これはいったい‥‥。
@@ -393,7 +393,7 @@ As I heard the time from Sayaka, I chuckled to myself. Just in time!
 //［コウジ］：ムッ‥‥‥‥。
 [Kouji]: M-....
 //［沙夜香］：ホーッホッホッホ！
-[Sayaka]: Ho~hohoho!
+[Sayaka]: Ho～hohoho!
 //［コウジ］：（意識が遠のいて‥‥いく‥‥。）
 [Kouji]: (My consciousness is going...far...away..)
 //［涼子］：宏治さまっ！！
@@ -419,9 +419,9 @@ xenon_29
 //r&sb
 r&sb
 //［涼子］：沙夜香ぁ～、役人だからって、許さないわよ！！　私の宏治様に‥‥。
-[Ryouko]: Sayakaaa~, you're a government official, so I　　 won't forgive this!! Doing this to my Kouji-sama...
+[Ryouko]: Sayakaaa～, you're a government official, so I　　won't forgive this!! Doing this to my Kouji-sama...
 //［沙夜香］：ほーっほっほ、もう遅いわ、彼の脳はもうペチャンコのパイ状態になっているわよ。
-[Sayaka]: Ho~hoho, you're too late, his brain is already a  flattened pie in that noggin of his.
+[Sayaka]: Ho～hoho, you're too late, his brain is already a  flattened pie in that noggin of his.
 //［涼子］：な、な、な‥‥なんでえすってぇぇぇっ！！！
 [Ryouko]: W-w-w...WHAT DID YOU SAY!!!
 //［沙夜香］：あなたも、同じめに、あわせてあげるわっ！
@@ -435,13 +435,13 @@ r&sb
 //r&sc
 r&sc
 //［涼子］：このぉ～！　私の宏治様に、私のぉ！！
-[Ryouko]: YOU~! How could you do this to my Kouji-sama, my  Kouji-sama!!
+[Ryouko]: YOU～! How could you do this to my Kouji-sama, my Kouji-sama!!
 //［沙夜香］：痛っ‥‥痛い、痛いわ、やめてぇっ！
 [Sayaka]: Ow...ow, that hurts, stop it!
 //ゲシッ、ゲシッ、ゲシッ！
 Thump, thump, thump!
 //［涼子］：くそっ、くそっ、このぉぉ～！！
-[Ryouko]: Fuck, shit, YOU~!!
+[Ryouko]: Fuck, shit, YOU～!!
 //［涼子］：宏治様はねっ、私のモノなのよ！　三十路を迎える前に、やっと、やっと見つけた伴侶だと思ったのにぃ！
 [Ryouko]: Kouji-sama was MINE! I thought I'd finally,　　　 finally found my partner before hitting thirty!
 //［涼子］：このっ、このっ！！
@@ -479,7 +479,7 @@ Thump, thump, thump.
 //［舞］：私は‥‥私は大丈夫です。
 [Mai]: I...I'm fine.
 //［涼子］：よかった、大切な妹になにかあったら、どうしようかって‥‥。
-[Ryouko]: Thank goodness, if anything happened to my dear　 little sister, I don't know what I'd do...
+[Ryouko]: Thank goodness... I was so worried something mighthave happened to my precious little sister...
 //［舞］：んもおう、なによ、あんなひどい事をして‥‥。
 [Mai]: Mmm, come on, she's done something horrible...
 //［恵］：サンキュッ、涼子先生。
@@ -543,7 +543,7 @@ r&m&m
 //r&m&mb
 r&m&mb
 //［涼子・舞・恵］：きゃぁぁぁぁぁっ～！！
-[Ryouko, Mai, Megumi]: Kyaaaaaaaa~!!
+[Ryouko, Mai, Megumi]: Kyaaaaaaaa～!!
 //［涼子］：ここここ、宏治様‥‥？
 [Ryouko]: K-K-K-K-Kouji-sama...?
 //［恵］：い、生きて‥‥。
@@ -585,7 +585,7 @@ The truth was, I was still on this developing planet called Earth. I was still s
 //［涼子］：ちょっと、姉の私を差し置いて‥‥ほら、宏治様。この胸で感じて下さいまし。
 [Ryouko]: Hold it, as the elder sister, I go first...here,  Kouji-sama. Please feel my breasts.
 //［恵］：フフン、２号以下はお黙り。私が正妻なんですからねっ。
-[Megumi]: Huhum~, pipe down, numbers 2 and 3. After all, I'mhis real wife.
+[Megumi]: Huhum～, pipe down, numbers 2 and 3. After all,　 I'm his real wife.
 //［沙夜香］：んぐんぐ。
 [Sayaka]: Mmm-hmm.
 //［涼子］：２号以下でも、宏治様はね、私のことを‥‥。
@@ -673,7 +673,7 @@ The truth was, I was still on this developing planet called Earth. I was still s
 //［舞］：宏治様、私のことを一番気に入ってくださっているんですよね‥‥。
 [Mai]: Kouji-sama, please tell me that I'm the one you're　 most interested in....
 //［女性一同］：きゃぁぁ～、素敵ぃ、宏治様ぁぁぁっ！！
-[All the girls at once]: Kyaaa~, you're so wonderful,　　　 Kouji-samaaaa!!
+[All the girls at once]: Kyaaa～, you're so wonderful,　　　Kouji-samaaaa!!
 //　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ
 　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ
 //（おかしいな‥‥。）

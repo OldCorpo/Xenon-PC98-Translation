@@ -13,7 +13,7 @@ s0306a
 //［トレイシー］：ランファ、ちゃんとコウジ様の面倒を看てあげるのですよ。
 [Tracy]: Lanhua, please take care of Kouji-sama's matters.
 //［ランファ］：わかってるわよぉ、もう、早く行って。
-[Lanhua]: Understood~. Just go already.
+[Lanhua]: Understood～. Just go already.
 //［ランファ］：トレイシーったら、いつまでたってもランファのことを子供扱いなんだからぁ。
 [Lanhua]: Tracy's always treating me like a child.
 //［宏治］：と、とりあえず、明かりが眩しいから、少し暗くしてくれよ。
@@ -51,7 +51,7 @@ s0306a
 //［ランファ］：ランファ、がんばります。何でもします。エンジンも格納庫も、もっともっとピカピカにします。掃除炊事お洗濯も、がんばっちゃいますぅ。
 [Lanhua]: I'll give it my all, no matter what the task is.  I'll make the engine or the hangar absolutely sparkling. If it's cleaning, cooking, or laundry, I'll do my best, too.
 //［ランファ］：だから‥‥だから、捨てないで下さいぃ～うるうるぅ。
-[Lanhua]: So...so please, don't send me away~*sob*.
+[Lanhua]: So...so please, don't send me away～*sob*.
 //［宏治］：誰が捨てるって言ってるのさ。
 [Kouji]: No one's talking about sending you away.
 //［ランファ］：捨てないんですか？
@@ -165,7 +165,7 @@ With tears filling her eyes, Lanhua clasped her hands　　　　tightly before 
 //［ランファ］：コウジ様、ランファ、あの時の事を忘れたこと、ありませんっ。
 [Lanhua]: Kouji-sama, Lanhua has never forgotten that time.
 //［宏治］：ら、ランファ‥‥。
-[Kouji]: R-Lanhua...
+[Kouji]: L-Lanhua...
 //［ランファ］：コウジ様‥‥コウジ様が許してくれるなら、ランファ‥‥ランファ‥‥。
 [Lanhua]: Kouji-sama... If you will forgive me, Lanhua ...  Lanhua ...
 //［宏治］：（くそぉ、コウジのやつ、こんないい子を泣かせるなんて‥‥。）
@@ -179,7 +179,7 @@ I spoke to her resolutely. It wasn't fair to keep this from her.
 //［宏治］：だ、誰もそんなこと、言ってないじゃないか。
 [Kouji]: N-no one is talking about something like that, ok?
 //［ランファ］：ふぇ～～んっ、コウジ様が、コウジ様が‥‥。
-[Lanhua]: Wahhhh~~mm, Kouji-sama, Kouji-sama....
+[Lanhua]: Wahhhh～～mm, Kouji-sama, Kouji-sama....
 //しょうがないなぁ‥‥。
 There's no other way....
 //［ランファ］：こ、コウジ‥‥んっ！？
@@ -241,7 +241,7 @@ As saliva ran down her throat, Lanhua drank down the excess.She pressed her arms
 //［宏治］：柔らかいな、ランファの身体は。
 [Kouji]: Your body's quite soft, Lanhua.
 //さすがに胸や腰などは、あのトレイシーなどには及ばないが、要所要所は意外に肉付きが悪くない。
-Indeed, her chest and waist may not be as proportionate as  Tracy, but she was still curvy in all the right places.
+Indeed, her chest and waist aren’t quite on par with someonelike Tracy, but she’s surprisingly curvy and desirable in　 all the right places.
 //オレは、腰を抱き寄せて、尻の肉を軽く掴んだ。ふにゃっという柔らかい感触が伝わってくる。
 I pulled her hips close to me and lightly grasped her ass. Afluffy, soft feeling enveloped my hands.
 //［宏治］：柔らかいね、ランファのお尻。

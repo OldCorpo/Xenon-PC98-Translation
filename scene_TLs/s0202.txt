@@ -29,7 +29,7 @@ s0202
 //［涼子］：姉の私から言うのも何だけど、あの子の気持ち、無にしないで欲しいわ。
 [Ryouko]: Speaking as her older sister, please don't ignore that girl's feelings.
 //［涼子］：フフ、あなたにガールフレンドがいるのは、わかっているわよ。でもね‥‥あら、宏治クン？
-[Ryouko]: Hehe, I know you have a girlfriend. But still ... Ara~ara Kouji-kun?
+[Ryouko]: Hehe, I know you have a girlfriend. But still ... Ara～ara Kouji-kun?
 //ドサッ。
 *Thump*
 //［涼子］：ちょっと、宏治クン、ねぇ、大丈夫？　宏治クン！？
@@ -435,7 +435,7 @@ Even when she's the one who brought it up, she's still the  one who got embarras
 //［恵］：そうそう、あの先生、次々と使えない機械を作っては、開発費を大量に消費してるんだから。
 [Megumi]: That's right, that doctor has repeatedly been　　 using that untested machine, using up a lot of our resources
 //［コウジ］：ほぅ、次々と。
-[Kouji]: Ho~, repeatedly?
+[Kouji]: Ho～, repeatedly?
 //［恵］：もう、パパに言って、厳重に抗議してもらおうかしら。
 [Megumi]: When I told papa about it, he adamantly defended  her.
 //［コウジ］：パパ？　パパというとパトロンのことか？

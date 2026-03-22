@@ -19,7 +19,7 @@ all
 //［ファル］：お醤油とって頂戴、お醤油。
 [Far]: Pass the soy sauce, please.
 //［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ～！
-[Lanhua]: Ahhhh-! I spilled the miso soup~!
+[Lanhua]: Ahhhh-! I spilled the miso soup～!
 //［トレイシー］：しょうがないわねぇ、ほら、フキフキ。
 [Tracy]: Well, no use crying about it, here, *wipe wipe*.
 //［ランファ］：んっ、もう、私の肌はデリケートなんですからねっ。もうちょっと優しく拭いてっ。
@@ -33,7 +33,7 @@ all
 //チャッチャッチャッチャッ‥‥。
 *Chopchopchopchopchop...*
 //［トレイシー］：まぁ、手さばきは、ランファよりも上手ですわ。
-[Tracy]: Well, when it comes down to it, I'm still better atLanhua at maneuvering.
+[Tracy]: Well, when it comes down to it, I'm more skilled　 than Lanhua.
 //［ランファ］：なによぉ、トレイシー、プリプリよぉ。私だってねっ！
 [Lanhua]: Oh come on, Tracy, stop teasing me. I'm clearly　 better!
 //［トレイシー］：はいはい、ランファは食べるのはお上手よ。
@@ -637,7 +637,7 @@ ra05b
 //［宏治］：じゃあ、あげない。
 [Kouji]: Well, then, I won't give it to you.
 //［ランファ］：あーん、ウソウソ、ウソですよぉ～。
-[Lanhua]: Ahhh, don't be such a tease~
+[Lanhua]: Ahhh, don't be such a tease～
 //［宏治］：じゃ、はやく。
 [Kouji]: Well, get to it.
 //［ランファ］：はーい‥‥ん、んしょ、んしょ‥‥。
@@ -843,7 +843,7 @@ I took hold of her shoulders and shook her back and forth,  but her head merely 
 //オレは無我夢中でランファの口に自分のそれを重ねた。鼻を指で押さえて、口腔へと空気を送り込む。
 Without thinking, I pressed my mouth to Lanhua's. As I　　　pinched her nose shut, I blew into her mouth.
 //［宏治］：フーーーッッ。ランファ、気づけよぉ～。
-[Kouji]: *Fffff*. Lanhua, wake up~.
+[Kouji]: *Fffff*. Lanhua, wake up～.
 //［ランファ］：んっ‥‥‥‥。
 [Lanhua]: Mm-.......
 //［宏治］：おっ、いい感じだ。もういっちょ、フーーーーーッッ！！
@@ -995,7 +995,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：はい、その‥‥外の空気にあたりたくなって‥‥。
 [Tracy]: Well, um...it seemed to fit the atmosphere outside ...
 //［コウジ］：ほぉ、その姿を、誰かに見てもらいたくなったのではないか？
-[Kouji]: Ho~, are you sure you don't want to show that body off to anyone else?
+[Kouji]: Ho～, are you sure you don't want to show that body off to anyone else?
 //［トレイシー］：そ、そんなこと‥‥ありません。
 [Tracy]: I-I don't.
 //［トレイシー］：あっ、ダメ‥‥こんなところで‥‥。
@@ -1099,7 +1099,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：それは‥‥それは、私が淫乱な肉奴隷っ！
 [Tracy]: That's because...because I'm a dirty whore sex　　 slave!
 //［コウジ］：よーし、では、いつ人が通るかわからないこの廊下で、オレのモノをくわえてもらおうか。
-[Kouji]: Good~, then, in this corridor where people might　 pass through, will you suck my cock?
+[Kouji]: Good～, then, in this corridor where people might　pass through, will you suck my cock?
 //［トレイシー］：はい、光栄にございます。くわえさせて、戴きます‥‥。
 [Tracy]: Yes, it would be an honor. I'll humbly receive yourmassive cock...
 //［コウジ］：今日は顔にかけてやる。
@@ -1365,7 +1365,7 @@ to05d
 //［トレイシー］：お、お願いです‥‥ど、どんな事でもさせて戴きます。だから‥‥だからぁぁぁぁ‥‥あくっ！
 [Tracy]: P-please...I'll do a-anything. Just...please...akh!
 //［コウジ］：だから、なんだ？
-[Kouji}: Just, what?
+[Kouji]: Just, what?
 //［トレイシー］：だ、だから‥‥お、おトイレに‥‥くぅっ、もう限界ぃぃっ！！
 [Tracy]: Ju-just...the toilet...khhhh, I CAN'T HOLD IIIITT!!
 //［コウジ］：どんな事でも、と言ったな。
@@ -1497,7 +1497,7 @@ to05e
 //［トレイシー］：そうね、そうかもしれない‥‥。
 [Tracy]: Yes, that may be the case...
 //［トレイシー］：私が、コウジ様という、一見して危険な匂いを放つ男性に惹かれ始めたのは‥‥。
-[Tracy]: I became attracted to this man named Kouji-sama ,  who exudes danger even at a glance, ...
+[Tracy]: I became attracted to this man named Kouji-sama,　 who exudes danger even at a glance...
 //［トレイシー］：私の昔の恋人の宏治と、外観が似ていたのも遠因かもしれません‥‥。
 [Tracy]: Perhaps because he bore a resemblance to my former lover Kouji...
 //［トレイシー］：私は、彼に惹かれていく自分を、抑えられなくなってきました‥‥。

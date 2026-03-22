@@ -299,7 +299,7 @@ I gently reached into my pocket and pulled out a cloth　　　handkerchief, and
 //［宏治］：よし、これでＯＫだ。可愛くなった。
 [Kouji]: All right, this should be OK. You've become quite  cute.
 //［ランファ］：ら、ランファ‥‥ランファ、超カンゲキですぅ！
-[Lanhua]: R-Lanhua...Lanhua has been deeply inspired!
+[Lanhua]: L-Lanhua...Lanhua has been deeply inspired!
 //［宏治］：お、おい‥‥。
 [Kouji]: H-hey now...
 //オレがまごついたのは、ランファがいきなりオレの右腕をとって、両腕を絡めとったからだ。

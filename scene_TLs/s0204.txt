@@ -107,7 +107,7 @@ That proposal was...
 //［コウジ］：バカが、誰が日記を書けと言った。
 [Kouji]: Dummy, whose diary are you writing?
 //［涼子］：な、なによぉ～。
-[Ryouko]: What~.
+[Ryouko]: What～.
 //［コウジ］：ノータリンめ。私が言いたかった事は、こんな訳のわからない事ではない。
 [Kouji]: What foolishness. I wasn't trying to talk about　　this kind of thing.
 //［コウジ］：私に服従を誓えば、貴様には相応のメリットを約束しよう。
@@ -421,7 +421,7 @@ r&m03
 //［舞］：お、おねえひゃん‥‥いっはい、はひほ‥‥。
 [Mai]: O-oneesan...wha is goig on...?
 //［涼子］：ご免なさいねー、筋肉強化弛緩剤を使ったの。宏治様の命令なのよン。
-[Ryouko]: I'm very sorry~, but I used a strong muscle　　　 relaxant. It was an order from Kouji-sama, after all.
+[Ryouko]: I'm very sorry～, but I used a strong muscle　　　relaxant. It was an order from Kouji-sama, after all.
 //私はそんな事は命令していないが、とりあえず黙殺する。
 I ordered no such thing, but I kept quiet.
 //意地悪そうに微笑む涼子を見て、舞はコイのように口をパクパクさせて何かを言おうとしていたが、うまく言葉にはならないようだった。
@@ -781,7 +781,7 @@ Slosh, slosh, slosh.
 //［コウジ］：だったら、さっさと追わんか！
 [Kouji]: Then, go chase after her!
 //［涼子］：は、はい～。
-[Ryouko]: Yes, sir~.
+[Ryouko]: Yes, sir～.
 //［コウジ］：フン、私もこうしている場合ではない。
 [Kouji]: Hmph, this isn't the place to do this.
 //［コウジ］：私のこれからすることは‥‥‥‥。

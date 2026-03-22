@@ -49,7 +49,7 @@ bi02b
 //［宏治］：ちょ、ちょっと今のは効いたぞ。
 [Kouji]: Th-that was a really effective blow.
 //［ビアンカ］：オーッホホホ！　当たり前だ、効かなくては武器にならないではないか。
-[Bianca]: O~hohohoho! Of course it was, if it wasn't　　　　effective, you couldn't call this a weapon!
+[Bianca]: O～hohohoho! Of course it was, if it wasn't　　　 effective, you couldn't call this a weapon!
 //ビシィ、ビシィ！
 *Bashee, bashee*!
 //［宏治］：いたっ、いたっ‥‥痛いってば！
@@ -333,13 +333,13 @@ bi06e_m
 //［ビアンカ］：コウジ‥‥私も、私もよっ！
 [Bianca]: Kouji...me too, me too!
 //［宏治］：（何なんだ、この展開はっ！？）
-[Kouji]: (What's with this development?!}
+[Kouji]: (What the hell is going on here!?)
 //［宏治］：まぁアレだ、今までのことは、水に流そう。オレが悪かったよ。
-[Kouji]: Well, that's that, let's just treat what happened  up until now as water under the bridge. I'm sorry for what  happened.
+[Kouji]: Well, let's just let bygones be bygones. It was my fault.
 //［ビアンカ］：ううん、私も、私も悪かったわ‥‥。
 [Bianca]: Mhm, I'm-I'm sorry too...
 //［宏治］：じゃあ、水に流す？
-[Kouji]: Well, water under the bridge?
+[Kouji]: So, shall we let it go?
 //［ビアンカ］：うん‥‥。
 [Bianca]: Yes....
 //［ビアンカ］：コウジ‥‥私、私はかたときも、お前のことを忘れたことはなかった‥‥。
@@ -347,7 +347,7 @@ bi06e_m
 //［宏治］：そ、そうなの‥‥？
 [Kouji]: I-is that so...?
 //［ビアンカ］：コウジ、お前さえ許してくれるなら、私はまた、お前と一緒に‥‥。
-[Bianca]: Kouji, if even you will forgive me, I'd still wantto be together with you....
+[Bianca]: Kouji, if you can forgive me, I want to be with　 you all the time...
 //［宏治］：えっ？　えっ？
 [Kouji]: Huh? Wuh?
 //［ビアンカ］：愛してる‥‥コウジ！！　チュッ！

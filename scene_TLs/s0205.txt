@@ -89,7 +89,7 @@ As I turned my heel on her, Sayaka's strident voice called  out to me. This woma
 //［沙夜香］：あるわ、例のドリームプログラムのことよ。
 [Sayaka]: We do, in fact, things like the dream program.
 //［コウジ］：ほぉ、なぜその事を知っている？
-[Kouji]: Hoh~, how do you know about that?
+[Kouji]: Hoh～, how do you know about that?
 //途端に押し黙る沙夜香を見ながら、私は侮蔑にも似た声音で彼女に言い放った。
 As I looked at Sayaka, who had suddenly fallen silent, I　　declared to her, insultingly:
 //［コウジ］：フン、奸計をめぐらす小悪党か。貴様と手を組むなどあり得ないことだ。
@@ -323,7 +323,7 @@ ko01
 //［宏治］：おい。
 [Kouji]: Oh, come on.
 //［コウジ］：地面の上というのは惑星上ということだ。恐らく、太古の地球ということになるだろう。
-[Kouji]: By "on the ground", I mean on this planet. You　　 could probably say, on the ancient earth.
+[Kouji]: By "on the ground", I mean on a planet. You could  probably say, on the ancient planet Earth.
 //［宏治］：ち、ちきゅー！？
 [Kouji]: E-Earth?!
 //［コウジ］：これは類推だが、恐らく貴様がいた時代の、貴様の脆弱な肉体の中に私はいる。
@@ -435,7 +435,7 @@ Indeed, I likely lost consciousness outside my room, but...
 //［沙夜香］：なーに、さっきからバカな独り言を言っているのよ。
 [Sayaka]: Helloooo? You've been talking to yourself like a  dummy this whole time.
 //［沙夜香］：うふふーん。
-[Sayaka]: Uhuhu~.
+[Sayaka]: Uhuhu～.
 //［コウジ］：何だ、貴様は。
 [Kouji]: Who the hell are you?
 //［沙夜香］：沙夜香よっ！
@@ -563,7 +563,7 @@ Gsh, gsh, gsh...
 //［沙夜香］：くぅぅぅ‥‥。
 [Sayaka]: Kuuu....
 //［コウジ］：なんだ、嬉し泣きか。
-[Kouji}: Could those be tears of joy?
+[Kouji]: Could those be tears of joy?
 //［沙夜香］：お、お願い‥‥くぅぅ‥‥あぅ、あぅ‥‥。
 [Sayaka]: P-please...Kuu...Ow, ow....
 //［コウジ］：フン、では膣内に出してやろう、特別になっ！
@@ -605,7 +605,7 @@ Indeed, Sayaka's face flushed bright red.
 //［沙夜香］：わ、私だってね、仕事でなければ、誰があんたなんかと‥‥。
 [Sayaka]: I-If it weren't for work, I'd do it with anyone...
 //沙夜香は言ってから、しまったという顔をした。手で口元を抑えるが、音声は既に空気を媒介として、私の鼓膜に達している。
-As Sayaka said this, she made a face as if to say, "I'm donefor." As she covered her mouth with her hand, her voice　　 traveled through the air to my eardrums.
+After saying it, Sayaka looked like she'd realized her　　　mistake. She covered her mouth with her hand, but the sound had already traveled through the air and reached my eardrums
 //この女は意外にウブだったようだ。色仕掛けなど、最初からやめればよかったものを。
 This woman was unusually naive. It would have been better　 for her not to seduce me in the first place.
 //［コウジ］：フン、仕事の為か。ポリシーも何もないヤツがよく言う詭弁だな。
@@ -615,7 +615,7 @@ This woman was unusually naive. It would have been better　 for her not to sedu
 //沙夜香がコブシを私に叩きつけてきた。私は手のひらで、それをスポっと受けとめる。
 Sayaka swung her fist at me, only for it to smack right intothe palm of my hand.
 //［コウジ］：ほぉ、勇ましいな。
-[Kouji]: Hoh~, how brave of you.
+[Kouji]: Hoh～, how brave of you.
 //［沙夜香］：あのマシンはね、政府が搾取するわ、必ずね！
 [Sayaka]: The government will surely bleed that machine dry!
 //［コウジ］：私が、だろう？　一人称と三人称をきちんと使い分けろ。
