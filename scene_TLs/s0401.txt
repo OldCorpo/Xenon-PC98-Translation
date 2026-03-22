@@ -18,7 +18,7 @@ all
 [Bianca]: I can't really help you there. I'm no good at　　 cooking.
 //［ファル］：お醤油とって頂戴、お醤油。
 [Far]: Pass the soy sauce, please.
-//［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ〜！
+//［ランファ］：あーーーーっ！　お味噌汁こぼしちゃったよぉ～！
 [Lanhua]: Ahhhh-! I spilled the miso soup-!
 //［トレイシー］：しょうがないわねぇ、ほら、フキフキ。
 [Tracy]: Well, no use crying about it, here, *wipe wipe*.
@@ -604,7 +604,7 @@ ra05b
 [Lanhua]: Nnngh, *gag*...*cough* *cough*!
 //［宏治］：おっとごめん、奥まで入れすぎちゃった。
 [Kouji]: Oops, sorry, I put it in too far.
-//［ランファ］：もう、喉が張り裂けそうになりましたぁ〜、ケホケホッ。
+//［ランファ］：もう、喉が張り裂けそうになりましたぁ～、ケホケホッ。
 [Lanhua]: Come on, you'll split open my throat like that,　 *cough* *cough*
 //［宏治］：でも、感じたろ？
 [Kouji]: But, you felt it, didn't you?
@@ -636,7 +636,7 @@ ra05b
 [Lanhua]: Huhhh, but I like it better under you.
 //［宏治］：じゃあ、あげない。
 [Kouji]: Well, then, I won't give it to you.
-//［ランファ］：あーん、ウソウソ、ウソですよぉ〜。
+//［ランファ］：あーん、ウソウソ、ウソですよぉ～。
 [Lanhua]: Ahhh, don't be such a tease-
 //［宏治］：じゃ、はやく。
 [Kouji]: Well, get to it.
@@ -842,7 +842,7 @@ As I spoke, I realized what had happened. Since I had　　　 clamped my hand s
 I took hold of her shoulders and shook her back and forth,  but her head merely bobbed back and forth opposite her　　　shoulders, with no response.
 //オレは無我夢中でランファの口に自分のそれを重ねた。鼻を指で押さえて、口腔へと空気を送り込む。
 Without thinking, I pressed my mouth to Lanhua's. As I　　　pinched her nose shut, I blew into her mouth.
-//［宏治］：フーーーッッ。ランファ、気づけよぉ〜。
+//［宏治］：フーーーッッ。ランファ、気づけよぉ～。
 [Kouji]: *Fffff*. Lanhua, wake up-.
 //［ランファ］：んっ‥‥‥‥。
 [Lanhua]: Mm-.......

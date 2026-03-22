@@ -230,7 +230,7 @@ I should open up the socket and look directly inside.
 [Kouji]: Hm, the electronic parts inside really are ancient,huh.
 //［コウジ］：未だに半導体を、論理回路に使っているのか‥‥さすが開発途上文明だな。
 [Kouji]: They're still using semiconductors to inscribe　　 logic circuits... how fitting for a developing civilization.
-//［コウジ］：‥‥しかし、これでは正常な動作はしない。シナプスの２〜３万本も焼き切るだけだ。
+//［コウジ］：‥‥しかし、これでは正常な動作はしない。シナプスの２～３万本も焼き切るだけだ。
 [Kouji]: ... However, this isn't operating normally. It'll  fry 20-30 thousand synapses.
 //［コウジ］：拷問にはいいかもしれんな。
 [Kouji]: Might be good for torture.
@@ -354,7 +354,7 @@ Then, tell me about the fundamental concepts behind this　　machine.
 [Kouji]: This is a crucial flaw. But luckily, because our　 temporal phases aligned, I was moved from a machine with thesame concept, and the subject's thought body was moved to　 that time.
 //［沙夜香］：な、何のことを言っているの‥‥。
 [Sayaka]: W-what are you talking about...?
-//［コウジ］：普段だったら、被験者の脳シナプスの２〜３万本は、焼き切れていただろうがな‥‥。
+//［コウジ］：普段だったら、被験者の脳シナプスの２～３万本は、焼き切れていただろうがな‥‥。
 [Kouji]: If this were functioning normally, about 20-30　　 thousand of the subject's brain synapses would be fried...
 //［コウジ］：もっとも私は、それをデバッグする術を知っているが‥‥。
 [Kouji]: Besides, I know how to debug this flaw...

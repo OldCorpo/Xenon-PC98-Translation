@@ -230,7 +230,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 [Ryouko]: Now, it's about time to go.
 //［宏治］：ちょ、ちょっと‥‥まだ、心の準備が。
 [Kouji]: H-hold it...I still haven't mentally prepared　　　myself.
-//［涼子］：だーいじょうぶ大丈夫。失敗しても、脳のシナプスが２〜３万本、焼き切れる程度だから。
+//［涼子］：だーいじょうぶ大丈夫。失敗しても、脳のシナプスが２～３万本、焼き切れる程度だから。
 [Ryouko]: It's fiiine, it's OK. Even if we fail, we'll fry  about 20-30 thousand of your brain's synapses.
 //［宏治］：なっ、ちょっ、だっ‥‥！？
 [Kouji]: Wha-Hol-Bu-...?!
@@ -248,7 +248,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 [Kouji]: CURSE YOU FOR GENERATIONS TO COME---!!
 //そうだ、はっきりと思い出してきた‥‥。
 That's it, I remembered it clearly...
-//オレは、あの涼子先生の奸計にはまり、脳のシナプスを２〜３万本焼ききって‥‥。
+//オレは、あの涼子先生の奸計にはまり、脳のシナプスを２～３万本焼ききって‥‥。
 I was embroiled in that Ryouko-sensei's nefarious scheme,　　and 20-30 thousand of my brain's synapses were fried...
 //いやいや、そんなことはどうでもいい。
 No, no, that kind of thing is unimportant.
@@ -264,7 +264,7 @@ What is it...
 Two lovely, clear voices seemed to call out to me....
 //オレはゆっくりと、固く閉じていた目を開けてみた‥‥。
 I slowly and gently opened my tightly shut eyelids....
-//［右の女］：ああン、コウジ様、コウジ様ぁ〜。
+//［右の女］：ああン、コウジ様、コウジ様ぁ～。
 [Woman on the right]: Ahhhn, Kouji-sama, Kouji-samaa-.
 //［左の女］：良かった‥‥コウジ様‥‥。
 [Woman on the left]: Thank goodness...Kouji-sama....
@@ -316,7 +316,7 @@ I slowly and gently opened my tightly shut eyelids....
 [Kouji]: Tracy, explain.
 //［トレイシー］：はい、わかりました。
 [Tracy]: Yes, understood.
-//［ランファ］：えぇ〜っ。
+//［ランファ］：えぇ～っ。
 [Lanhua]: Ehh--?
 //［トレイシー］：ランファ、エンジンのチェックや機器類のテストなど、あなたにはまだやる事が沢山あるでしょう？
 [Tracy]: Lanhua, you still have quite a few engine checks　　and equipment tests to conduct, don't you?

@@ -442,7 +442,7 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 [Megumi]: Hey, Kouji-sama, can we do it again?
 //［コウジ］：そんなことより、恵、貴様に聞きたいことがある。
 [Kouji]: Before that, Megumi, I have something to ask of you
-//［恵］：そんなことって、ずいぶんよね〜。
+//［恵］：そんなことって、ずいぶんよね～。
 [Megumi]: That kind of thing is pretty extreme-.
 //［恵］：きゃっ、ごめんなちゃーい。何でもお聞き下さいませ。
 [Megumi]: Kyah! Sowwy. I'll listen to anything you have to  say.
@@ -452,7 +452,7 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 [Megumi]: I got it, you want to know my constellation,　　　right? To see how compatible we are?
 //［コウジ］：せいざ？　姿勢正しく座ることが、なぜ必要なのだ。
 [Kouji]: Consternation? Why would your feelings be importantto me?
-//［恵］：ばっかねぇ〜。
+//［恵］：ばっかねぇ～。
 [Megumi]: You're so duuumb-.
 //［恵］：う、ウソウソ、うそでーす。星座というのはですね、空に瞬く星々の芸術のことです。
 [Megumi]: I-I'm joking, I'm just joking-. I'm talking aboutconstellations. You know, the forms and figures that stars  in the sky make.
@@ -494,7 +494,7 @@ As I nodded, satisfied, Megumi looked on, puzzled.
 [Megumi]: A-and...?
 //［コウジ］：貴様は、今から私の妻だ。
 [Kouji]: You will be my wife from this point on.
-//［恵］：えぇ〜〜！？
+//［恵］：えぇ～～！？
 [Megumi]: EEHHHH--?!
 //［恵］：ほ、本気なの？
 [Megumi]: Y-you serious?

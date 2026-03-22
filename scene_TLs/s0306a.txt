@@ -50,7 +50,7 @@ s0306a
 [Kouji]: Wh-what are you saying?
 //［ランファ］：ランファ、がんばります。何でもします。エンジンも格納庫も、もっともっとピカピカにします。掃除炊事お洗濯も、がんばっちゃいますぅ。
 [Lanhua]: I'll give it my all, no matter what the task is.  I'll make the engine or the hangar absolutely sparkling. If it's cleaning, cooking, or laundry, I'll do my best, too.
-//［ランファ］：だから‥‥だから、捨てないで下さいぃ〜うるうるぅ。
+//［ランファ］：だから‥‥だから、捨てないで下さいぃ～うるうるぅ。
 [Lanhua]: So...so please, don't send me away-*sob*.
 //［宏治］：誰が捨てるって言ってるのさ。
 [Kouji]: No one's talking about sending you away.
@@ -178,7 +178,7 @@ I spoke to her resolutely. It wasn't fair to keep this from her.
 [Lanhua]: Because I'm a mecha freak, there are times I'll　 rub my cheek against the engine or the shuttle, but, but... I've never forgotten about Kouji-sama!
 //［宏治］：だ、誰もそんなこと、言ってないじゃないか。
 [Kouji]: N-no one is talking about something like that, ok?
-//［ランファ］：ふぇ〜〜んっ、コウジ様が、コウジ様が‥‥。
+//［ランファ］：ふぇ～～んっ、コウジ様が、コウジ様が‥‥。
 [Lanhua]: Wahhhh--mm, Kouji-sama, Kouji-sama....
 //しょうがないなぁ‥‥。
 There's no other way....

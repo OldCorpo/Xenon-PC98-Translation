@@ -478,7 +478,7 @@ saya05
 [Sayaka]: See, if I do *this*...
 //りゅっ、りゅっ、りゅっ‥‥。
 Squeak, squeak, squeak...
-//［沙夜香］：口で強がっても、こっちは正直よねぇ〜。
+//［沙夜香］：口で強がっても、こっちは正直よねぇ～。
 [Sayaka]: Even if you're bluffing up there, down here is　　quite honest.
 //［コウジ］：私は自分を偽るのが嫌いでな。
 [Kouji]: I hate attempts to deceive me.

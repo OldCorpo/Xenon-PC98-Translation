@@ -182,7 +182,7 @@ bi06
 [Kouji]: I-is it some kind of accelerator...?
 //［ビアンカ］：何だそれはっ！　私の奥歯の横にはな、このシップを爆破させる、自爆装置のスイッチが仕込まれているのだっ！
 [Bianca]: No, what the hell? On the side of my molar,　　　 there's a self destruct switch for this whole ship embedded!
-//［宏治］：お、奥歯の横に、自爆装置ぃ〜！？
+//［宏治］：お、奥歯の横に、自爆装置ぃ～！？
 [Kouji]: A-a self destruct switch on the side of your molar ?!
 //［ビアンカ］：フハハ、聞いて驚いたか。
 [Bianca]: Muhaha, you heard me right, didn't you?
@@ -356,7 +356,7 @@ bi06e_m
 *click*
 //［ビアンカ］：えっ？
 [Bianca]: Huh-?
-//［ファル・ランファ・トレイシー］：えぇっ〜！？
+//［ファル・ランファ・トレイシー］：えぇっ～！？
 [Far, Lanhua, and Tracy]: Huuuuuh?!
 //で、その後どうなったかというと‥‥‥‥。
 After that, what happened was......

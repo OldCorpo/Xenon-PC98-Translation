@@ -314,7 +314,7 @@ How foolish. If she's to talk about world conquest, my hearthas not been moved y
 What a typical authoritarian bureaucracy. For someone who sonarrow-mindedly, unthinkingly holds fidelity to authority　　as an absolute good, I know a fitting treatment.
 //［沙夜香］：じゃあ、あなたに用はないわ。可愛さ余ってにくさ百倍よ。
 [Sayaka]: Well, I have no use for you now. You're a hundred times more abominable than you are adorable.
-//［沙夜香］：この装置を稼働させれば、シナプスの２〜３万本は焼き切れるそうじゃない。
+//［沙夜香］：この装置を稼働させれば、シナプスの２～３万本は焼き切れるそうじゃない。
 [Sayaka]: If I were to turn on this instrument, I'd fry 20- 30 thousand synapses, wouldn't I?
 //［コウジ］：ほぉ、それは楽しみだ‥‥。
 [Kouji]: Ho-, that would be fun...
@@ -418,7 +418,7 @@ xenon_29
 [Sayaka]: Hmph, I don't know how you slipped out, but...
 //r&sb
 r&sb
-//［涼子］：沙夜香ぁ〜、役人だからって、許さないわよ！！　私の宏治様に‥‥。
+//［涼子］：沙夜香ぁ～、役人だからって、許さないわよ！！　私の宏治様に‥‥。
 [Ryouko]: Sayakaaa-, you're a government official, so I　　won't forgive this!! Doing this to my Kouji-sama...
 //［沙夜香］：ほーっほっほ、もう遅いわ、彼の脳はもうペチャンコのパイ状態になっているわよ。
 [Sayaka]: Ho-hoho, you're too late, his brain is already a  flattened pie in that noggin of his.
@@ -434,13 +434,13 @@ r&sb
 [Ryouko]: Take this, my regrets doubled up, JEALOUSY　　　　PUUUUUUUUNCH!!
 //r&sc
 r&sc
-//［涼子］：このぉ〜！　私の宏治様に、私のぉ！！
+//［涼子］：このぉ～！　私の宏治様に、私のぉ！！
 [Ryouko]: YOU-! How could you do this to my Kouji-sama, my Kouji-sama!!
 //［沙夜香］：痛っ‥‥痛い、痛いわ、やめてぇっ！
 [Sayaka]: Ow...ow, that hurts, stop it!
 //ゲシッ、ゲシッ、ゲシッ！
 Thump, thump, thump!
-//［涼子］：くそっ、くそっ、このぉぉ〜！！
+//［涼子］：くそっ、くそっ、このぉぉ～！！
 [Ryouko]: Fuck, shit, YOU-!!
 //［涼子］：宏治様はねっ、私のモノなのよ！　三十路を迎える前に、やっと、やっと見つけた伴侶だと思ったのにぃ！
 [Ryouko]: Kouji-sama was MINE! I thought I'd finally,　　　 finally found my partner before hitting thirty!
@@ -452,7 +452,7 @@ Thump, thump, thump!
 [Ryouko]: The drawstring on my bag of mercy has been cut!
 //［涼子］：資金ぐりの時も、いつもいつも私の邪魔をして、役人の権威を振りかざせばいいと思って‥‥。
 [Ryouko]: Also, even when we were raising capital, you were always intruding on me, wielding your bureaucratic authoritylike some badge of honor...
-//［沙夜香］：痛い、痛いよぉ〜！
+//［沙夜香］：痛い、痛いよぉ～！
 [Sayaka]: Oww, that hurts!
 //［涼子］：それにあなた、ちょっと羽振りがいいからって、このあいだ若い男を連れて歩いてたじゃない！
 [Ryouko]: On top of that, as soon as you were doing a littlewell for yourself, you started coming for my young man,　　 didn't you!
@@ -542,7 +542,7 @@ r&m&m
 *Puff.* 
 //r&m&mb
 r&m&mb
-//［涼子・舞・恵］：きゃぁぁぁぁぁっ〜！！
+//［涼子・舞・恵］：きゃぁぁぁぁぁっ～！！
 [Ryouko, Mai, Megumi]: Kyaaaaaaaa-!!
 //［涼子］：ここここ、宏治様‥‥？
 [Ryouko]: K-K-K-K-Kouji-sama...?
@@ -672,7 +672,7 @@ The truth was, I was still on this developing planet called Earth. I was still s
 [Megumi]: Koujii...no, Kouji-sama, where's the chapel?
 //［舞］：宏治様、私のことを一番気に入ってくださっているんですよね‥‥。
 [Mai]: Kouji-sama, please tell me that I'm the one you're　 most interested in....
-//［女性一同］：きゃぁぁ〜、素敵ぃ、宏治様ぁぁぁっ！！
+//［女性一同］：きゃぁぁ～、素敵ぃ、宏治様ぁぁぁっ！！
 [All the girls at once]: Kyaaa-, you're so wonderful,　　　 Kouji-samaaaa!!
 //　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ
 　　　　　　　　ＤＲＥＡＭ＿２　‥‥　ＥＮＤ
