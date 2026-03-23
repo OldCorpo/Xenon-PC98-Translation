@@ -455,7 +455,7 @@ If you take it literally, it means to return something from your memory.
 //私が第２次調査隊のシップに居たときの記憶、だろうか‥‥‥‥。
 Were these my memories of being on the second investigative team's ship?......
 //なぜ、彼女がそんな事を知りたがるのだろうか‥‥。
-Why would she know something like that?...
+Why would she know something like that...?
 //調査のため、かもしれない‥‥。
 I may have been there to investigate...
 //それを問い正したかったが、目的のスペースシップが眼前に迫っていた。
@@ -615,7 +615,7 @@ But then, what was she doing in the lower part of the engine...?
 //［コウジ］：（何か理由があるんだろう‥‥。）
 [Kouji]: (What reason could she have for that...?)
 //そんな風に納得をすると、私はその疑問を記憶の片隅へと追いやってしまった。次に思い浮かんだ疑問を呈示する。
-As I accepted what she told me, I suppressed some　　　　　　uncertainty from the corners of my mind. Next time, I'll　　bring that matter to light.
+As I accepted what she told me, I suppressed some　　　　　　uncertainty in the back of my mind. Next time, I'll bring  that matter to light.
 //［コウジ］：誰か、人はいたかい？
 [Kouji]: Was anyone hurt there?
 //［ランファ］：いいえ、残念ながら‥‥。
@@ -897,7 +897,7 @@ xenon_15
 //突然、天井と地面が反転したかと思うと、私は腰を床に、したたか打ちつけていた。
 Suddenly, I felt as if the ceiling and floor had inverted,  and I fell hard on my waist onto the floor.
 //明らかに床は傾斜していた。机の上の端末が、不自然に横へと傾いている。
-The floor was clearly slanted. The terminals on the desks were unnaturally slanted.
+The floor was clearly slanted. The terminals on the desks　 were unnaturally slanted.
 //構造的に、重力はシップの下方へと常に向かっているはずだった。
 Structurally, gravity should always have pointed towards thebottom of the ship.
 //船が傾くと感じるのは、重力制御に何か異常が起きたのかもしれない‥‥。
