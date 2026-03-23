@@ -41,7 +41,7 @@ Whatever happened after that, I don't remember.
 //［コウジ］：そうだ、例のシップはどうなったんだい？
 [Kouji]: That's right, what happened to the ship I was on?
 //［トレイシー］：恒星ナーズへ墜ちました‥‥。
-[Tracy]: It fell into the star Nuz...
+[Tracy]: It fell into the star {Nuz}...
 //［コウジ］：お、墜ちたって‥‥！？
 [Kouji]: It fell...?!
 //［トレイシー］：エンジンの、突然の異常出力によって、操舵不能となり、恒星の重力に捕らわれました。

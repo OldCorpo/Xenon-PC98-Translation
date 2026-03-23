@@ -217,7 +217,7 @@ With good timing, Far called out to me.
 //［ファル］：まず、私たちが何故ここにいるかを話した方が、いいかもね。
 [Far]: But first, you need to know why we are here. That's  fine, right?
 //［ファル］：ここは、辺境のナーズ星域。数年前、この惑星の１つから、先史文明の遺跡が発見された‥‥。
-[Far]: This is the {Nuz} star cluster. A few years ago, on  one of these planets, we discovered the ruins of a　　　　　prehistoric civilization...
+[Far]: This is the {Nuz} star system. A few years ago, on　 one of these planets, we discovered the ruins of a　　　　　prehistoric civilization...
 //［コウジ］：‥‥先史文明？
 [Kouji]: A prehistoric civilization?
 //［ファル］：風化寸前の、化石のような遺跡らしいけど、知的生命体の傍証になるかもしれないと、考古学者たちは驚喜しているわね。

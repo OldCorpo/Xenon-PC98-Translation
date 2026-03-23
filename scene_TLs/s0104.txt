@@ -321,7 +321,7 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［ファル］：じゃあ、心して聞いて頂戴‥‥。
 [Far]: Then listen to me carefully.
 //［ファル］：ここは、辺境のナーズ星系‥‥恒星ナーズのほぼ真上にあたるわ。
-[Far]: We're inside the Nuz star system, at the known　　　　universe's borderland. We're currently on standby around　　Nuz.
+[Far]: We're inside the {Nuz} star system, at the edge of　 the known universe. We're currently on standby above its　　primary star, of the same name.
 //［コウジ］：‥‥‥‥‥！？
 [Kouji]: ‥‥‥‥‥！？
 //［ファル］：驚いているようね‥‥無理はないかも。
@@ -574,7 +574,7 @@ She seemed somewhat panicked.
 //［コウジ］：浮上、ね‥‥。
 [Kouji]: Floated up...
 //上も下もない宇宙空間で使うには、不適当な気もするが、恐らく慣習的なものなのかもしれない。
-In gravityless outer space, such a threat feels undefeatable, but it's probably a regular occurrence.
+In gravityless outer space, such a threat feels undefeatablebut it's probably a regular occurrence.
 //［トレイシー］：通信機能が、磁気嵐の間だけ使用不能になりますけど、安全に影響はありません。大丈夫です。
 [Tracy]: The communications can't be used during a magnetic storm, but there's no threat to our safety. We'll be fine.
 //私が不安そうに言ったせいなのだろう、トレイシーは私に微笑みかけると、大丈夫の部分を強調して言った。

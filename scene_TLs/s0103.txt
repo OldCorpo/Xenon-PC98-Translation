@@ -281,7 +281,7 @@ This was the same Megumi as usual.
 //カマをかけて、僕の様子をうかがっていたのだろう。僕も慣れたモノで、ポーカーフェースに徹することができたようだ。
 She was trying to ask me about my condition indirectly.　　 Because I was used to her scheming, I managed to maintain mypoker face.
 //サバサバとしていてデジタルな女性のようだが、意外に一途なところがあって、おまけに嫉妬深い。
-Her straightforward demeanor gave off the sense of a　　　  digital-age girl, but when she felt something out of place,  she could become very jealous.
+Her straightforward demeanor gave off the sense of a　　　  digital-age girl, but when she felt something out of place, she could become very jealous.
 //［恵］：もう、遅いもんだから、フカフカのベッドで少し寝ちゃったわ。
 [Megumi]: You were so late that I just dozed off a little inyour comfy bed.
 //［宏治］：ぐっすり眠っていたようだけど？
@@ -525,7 +525,7 @@ As if in a dizzy spell from standing up too quickly, so to  speak, while collaps
 //saya01_m
 saya01_m
 //［沙夜香］：ひっどーい、このベストとブラウス、まだおニューだったのに‥‥。
-[Sayaka]: You jerk! This vest and this blouse were brand new!
+[Sayaka]: You jerk! This vest and this blouse were brand　　new!
 //［宏治］：べ、弁償‥‥しますよ。
 [Kouji]: I-I'll pay for them.
 //［沙夜香］：フフ、いいわ。許してあげる。でもそのかわり‥‥。
