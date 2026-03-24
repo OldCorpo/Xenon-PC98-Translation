@@ -129,13 +129,13 @@ As I stood before the door, I heard busy  *click*, *click*  footsteps coming fro
 //［ファル］：あら、こんなところで何をしているの？
 [Far]: Ah, what are you doing here?
 //［ファル］：当惑の色を発色しているわね、どうしたの？
-[Far]: Your color has turned embarrassed. What happened?
+[Far]: You've got that puzzled look on your face. What's　　wrong?
 //［コウジ］：この騒がしい音はなにさ。
-[Kouji]: What is this noise?
+[Kouji]: What is that noise?
 //［コウジ］：ふぅ‥‥。
 [Kouji]: Phew...
 //［ファル］：で、あなた、何をしているの？
-[Far]: Well, then, you. What are you doing?
+[Far]: Well then, what are you doing?
 //［コウジ］：な、何って‥‥救出されたという人を見に来たのさ。ランファが、行っていいって。
 [Kouji]: What do you mean...I came here to see the rescued  person. Lanhua said it was fine to come here.
 //［ファル］：私が言っているのは、そんなところに突っ立って、何をしてるのってこと。
