@@ -129,7 +129,7 @@ As I stood before the door, I heard busy  *click*, *click*  footsteps coming fro
 //［ファル］：あら、こんなところで何をしているの？
 [Far]: Ah, what are you doing here?
 //［ファル］：当惑の色を発色しているわね、どうしたの？
-[Far]: You've got that puzzled look on your face. What's　　wrong?
+[Far]: You've turned to an embarrassed tone, something　　　wrong?
 //［コウジ］：この騒がしい音はなにさ。
 [Kouji]: What is that noise?
 //［コウジ］：ふぅ‥‥。
