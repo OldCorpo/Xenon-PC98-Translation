@@ -5,7 +5,7 @@ s0109
 //どうやら、いつも僕がカウンセリングを受ける、診療室のようだった‥‥。
 Somehow, this is the clinic I always receive counseling in  ...
 //［宏治］：（そうか‥‥でも涼子先生、どうしたんだろう‥‥。）
-[Kouji]: (Oh, I see...but what happened to Ryouko-sensei...?)
+[Kouji]: (Oh, I see... but what happened to Ryouko-sensei　 ...?)
 //この風景は馴染み深いものとなっているが、涼子、というオブジェを取り除くだけで、これだけの違和感が襲ってくる。
 This environment was deeply familiar to me, but just the　　absence of Ryouko made me feel uneasy.
 //どうも妙な気分だった‥‥。
@@ -27,7 +27,7 @@ I sat in the grey chair that Ryouko-sensei always sat in.　 The backrest was fl
 //不思議と、『航海日誌』という単語が頭に浮かんだ。もちろん、航海日誌などというモノが、ここにある訳がない。
 Incredibly, the words "ship's logbook" floated into my head.Of course, there couldn't actually be a ship's logbook here.
 //いけないとは思いつつも、ページをめくってみる。
-While I thought "It can't be," I flipped through the pages.
+While I thought "it can't be," I flipped through the pages.
 //そこには小さな細かい文字で、診断書のようなものが書き記されていた。書いた人の几帳面な性格が想像される。
 There, in small writing, a medical certificate-like record  was penned. The person who wrote this must have been quite  careful, I thought.
 //［宏治］：涼子先生、かな‥‥？
@@ -39,17 +39,17 @@ As I skimmed through the pages, my eyes stopped places wherea certain term occur
 //マインドコントロールは、ドーパミン作用を著しく促進させ、間脳及び小脳を直接刺激することにより‥‥‥‥
 Dopamine usage increases the effectiveness of mind control  remarkably, by directly stimulating the diencephalon and　　cerebellum....
 //さらに、そこの部分から先に読み進めていく‥‥。
-From there, I continued reading previous entries....
+From there, I continued reading earlier entries....
 //しかし被験者の、身体的精神的な安全は保障されず‥‥‥‥。
 However, the safety of the subject's body and nervous systemare not guaranteed....
 //どうやら、マインドコントロールとやらの、機能と効能が記述されているらしかった。
 This seemed to describe the function and efficacy of mind　 control.
 //僕はゆっくりとページをめくる。しかしそこには、もう何も記されてはいなかった。ここで終わりか‥‥‥‥。
-I slowly turned the page. But, there was nothing more　　　 written. Is this the end....
+I slowly turned the page, but there was nothing more　　　  written. Is this the end....
 //［宏治］：（‥‥ん？）
 [Kouji]: (...Hm?)
 //変わりに、メモ用紙がしおりの様にページの間に挟まっていた。そこには、先程の落ちついた様子は微塵もなく、かなり慌てたような字で、こう書きなぐってあった。
-Instead, a page from a memo pad, used as bookmark, was stuckin the middle of the pages. There, something was written in frantic handwriting, completely unlike the previous records.
+Instead, a page from a memo pad, used as bookmark, was stuckin the middle of the book. There, something was written in  frantic handwriting, completely unlike the previous records.
 //‥‥‥‥沙夜香　連絡先：法務局 　　　　　　　　電話番号××××－××××－‥‥‥‥。
 ........ SAYAKA CONTRACT: LEGAL AFFAIRS BUREAU PHONE NUMBER ××××－××××－........
 //はっと気付いた僕は、ポケットからしわくちゃになったメモ用紙を取り出した。丸い可愛らしい字で、同じ電話番号が記載されているのを確認する。
@@ -127,15 +127,15 @@ My chest was throbbing. In this calm and quiet room, I couldhear my own heartbea
 //［舞］：宏治サンが、このあいだ話して下さった夢‥‥。
 [Mai]: Kouji-san, the dream you've been telling me about....
 //［舞］：マイクロディスクは、どうなりましたか？
-[Mai]: What happened to the micro recorder?
+[Mai]: What happened to the micro disc?
 //［宏治］：ま、マイクロ‥‥ディスク？
-[Kouji]: M-Micro...recorder?
+[Kouji]: M-Micro...disc?
 //なぜ、彼女がそんなことを、しかもいま聞いてくるんだろうか。
 Why would she mention that now of all times?
 //［舞］：お願いです‥‥思い出して下さい。
 [Mai]: Please...try to remember.
 //［宏治］：ま、マイクロディスクは‥‥再生できなかったような気がする。
-[Kouji]: I don't think I was able...to play back the micro  recorder.
+[Kouji]: I don't think I was able... to play back the micro disc.
 //［宏治］：そうだ、途中で意識が途切れて‥‥再び気付いた時には、もう既に目の前から消えていたんだ。
 [Kouji]: Right, my consciousness was interrupted in the　　 middle... when I came to again, it had already disappeared  before my eyes.
 //［宏治］：あっ、もちろん夢の中での事だけど‥‥変だよね、夢の中で意識が途切れるなんて‥‥。
@@ -179,7 +179,7 @@ I can't ask about something someone doesn't know about. It'spointless to ask her
 //［宏治］：うん、凄く変だ。
 [Kouji]: Yeah, really weird.
 //僕は思ったことをそのまま舞に言ってみた。舞は興味深そうに僕の言うことを聞いている。
-I told Mai my thoughts just the way I thought them. Mai　　 listened to my words, as if deeply entranced.
+I told Mai my thoughts as they came to me. Mai listened to  my words, as if deeply entranced.
 //［宏治］：舞さんは、この状況が変だとは、感じないのかい？
 [Kouji]: Mai-san, don't you feel this situation is strange?
 //［舞］：‥‥変というのは、正常ではない、という意味ですよね？
@@ -235,7 +235,7 @@ I probably didn't let any of these unreasonable emotions　  show through to Mai
 //［宏治］：だけど、その確からしさに、根拠なんてない‥‥。
 [Kouji]: However, that certainty is pretty baseless....
 //僕はかなり悲痛な顔をしていたのかもしれなかった。舞は僕の頬を両手でそっとはさむと、顔を近づけてきた。
-I must have looked quite in pain. Mai gently sandwiched my  cheeks between her hands and pulled my face close to hers.
+I must have looked quite pained. Mai gently sandwiched my　 cheeks between her hands and pulled my face close to hers.
 //mai05
 mai05
 //［宏治］：ま、舞さん‥‥‥‥。
@@ -299,7 +299,7 @@ As I kissed her small nose, and her lips once more, she　　 wrapped her arms a
 //［舞］：ん‥‥んんん‥‥‥‥。
 [Mai]: Mm...MMmmmmm....
 //積極的に舌を差し込んでくる舞はとっても情熱家だった。僕は小ぶりの胸を揉みしだき、自分の熱く猛りきったモノを彼女の太股に押しつける。
-With her aggressive tongue lashing, Mai was quite passionate. I rubbed her small breasts and placed my hot, furious　　 member between her thighs.
+With her aggressive tongue lashing, Mai was quite passionateI rubbed her small breasts and placed my hot, furious　　　 member between her thighs.
 //［舞］：あっ‥‥宏治サン、熱い‥‥すごく‥‥。
 [Mai]: Ah!-...Kouji-san, it's so...hot....
 //舞の舌をたっぷりと堪能すると、僕は首筋に移動した。耳たぶから喉元まで唾液で濡らし、舌をこすりつける。

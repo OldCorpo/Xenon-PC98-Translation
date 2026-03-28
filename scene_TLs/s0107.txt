@@ -303,9 +303,9 @@ But I couldn't hear Megumi's voice anymore. Only the　　　　inorganic dial t
 //［宏治］：（と、とにかく受話器を置いて‥‥。）
 [Kouji]: (In any case, I already put down the receiver...)
 //［宏治］：（そうだ、とにかく恵に会って、訳を聞けばいい。）
-[Kouji]: (That's right, I'll have meet with Megumi anyway tolearn what happened.)
+[Kouji]: (That's right, I'll have to meet with Megumi anywayto learn what happened.)
 //［宏治］：（でもアイツ、いったいどこから‥‥‥‥。）
-[Kouji]: (But what did she mean was coming out, and from　　where...)
+[Kouji]: (But where the hell did she...?)
 //［宏治］：（そういえば恵、この医療センターにいるって言っていなかったか‥‥？）
 [Kouji]: (Come to think of it, Megumi said she was at the　 clinical center, right...?)
 //［宏治］：（そうだ、確かそんなことを言っていた‥‥。）
@@ -411,7 +411,7 @@ On top of that, there are other symptoms I can't ignore....
 //例の悪夢だった‥‥‥。
 Like those nightmares....
 //涼子先生は気にする必要は無いと言っていた。特殊な環境に身を置くことによって、引き起こされる症状の１つに過ぎないと。
-Ryouko-sensei said not to worry about it. It's just one of  the symptoms that can occur from being in a unique environment.
+Ryouko-sensei said not to worry about it. It's just one of  the symptoms that can occur from being in a unique　　　　　environment.
 //僕の願望充足ではないかと‥‥‥‥。
 Even though it wasn't some sort of wish fulfillment to me...
 //だが今では、この現実よりもむしろ、夢の内容の方がクリアに覚えている事の方が少なくなかった。

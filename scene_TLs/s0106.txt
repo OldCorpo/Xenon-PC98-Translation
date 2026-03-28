@@ -129,7 +129,7 @@ As I stood before the door, I heard busy  *click*, *click*  footsteps coming fro
 //［ファル］：あら、こんなところで何をしているの？
 [Far]: Ah, what are you doing here?
 //［ファル］：当惑の色を発色しているわね、どうしたの？
-[Far]: You've turned to an embarrassed tone, something　　　wrong?
+[Far]: I can see your aura turning brown. What’s wrong?
 //［コウジ］：この騒がしい音はなにさ。
 [Kouji]: What is that noise?
 //［コウジ］：ふぅ‥‥。
@@ -203,7 +203,7 @@ With good timing, Far called out to me.
 //［コウジ］：いや‥‥全く駄目だ。
 [Kouji]: No...it's entirely useless.
 //［ファル］：そう‥‥落胆の色が、あなたから出ているわ。
-[Far]: I see...your color has turned disappointed.
+[Far]: I understand... your aura has turned a faded blue.
 //［コウジ］：‥‥なぁ、ファル。
 [Kouji]: ...Hey, Far.
 //［ファル］：なにかしら。
@@ -615,7 +615,7 @@ But then, what was she doing in the lower part of the engine...?
 //［コウジ］：（何か理由があるんだろう‥‥。）
 [Kouji]: (What reason could she have for that...?)
 //そんな風に納得をすると、私はその疑問を記憶の片隅へと追いやってしまった。次に思い浮かんだ疑問を呈示する。
-As I accepted what she told me, I suppressed some　　　　　　uncertainty in the back of my mind. Next time, I'll bring  that matter to light.
+As I accepted what she told me, I suppressed some　　　　　　uncertainty in the back of my mind. Next time, I'll bring　 that matter to light.
 //［コウジ］：誰か、人はいたかい？
 [Kouji]: Was anyone hurt there?
 //［ランファ］：いいえ、残念ながら‥‥。
