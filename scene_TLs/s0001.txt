@@ -162,7 +162,7 @@ With a wry smile, I decided to solve the matter at hand.
 //しかし、あたりを探してみても、私の衣服が見つかる気配はないようだ。
 But, no matter how much I searched the room, there was no 　sign of my clothes. 
 //（しょうがない、これで応急処置とするか‥‥。）
-(Can't be helped, I'll have to take emergency measures...)
+(Oh well, I'll have to take emergency measures...)
 //私は手近のシーツを身体に巻き付けてみた。
 I took the bed sheets and wrapped myself in them.
 //少々動きにくかったが、もつれるほどではない。第一、素っ裸な姿を誰かに見られるよりは、ましだろう。
