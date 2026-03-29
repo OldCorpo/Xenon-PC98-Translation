@@ -29,7 +29,7 @@ s0202
 //［涼子］：姉の私から言うのも何だけど、あの子の気持ち、無にしないで欲しいわ。
 [Ryouko]: Speaking as her older sister, please don't ignore that girl's feelings.
 //［涼子］：フフ、あなたにガールフレンドがいるのは、わかっているわよ。でもね‥‥あら、宏治クン？
-[Ryouko]: Hehe, I know you have a girlfriend. But still ... Ara-ara Kouji-kun?
+[Ryouko]: Hehe, I know you have a girlfriend. But still ... mmm Kouji-kun?
 //ドサッ。
 *Thump*
 //［涼子］：ちょっと、宏治クン、ねぇ、大丈夫？　宏治クン！？
@@ -143,7 +143,7 @@ The dial tone sounded several times, then the receiver on　 the other end was s
 //［コウジ］：私は宇宙海賊のコウジである。
 [Kouji]: I'm the galactic pirate Kouji.
 //［女の声］：あらあら、２０１号の患者さんね。
-[Woman's voice]: Ara ara, the patient in 201.
+[Woman's voice]: Oho, the patient in 201.
 //［コウジ］：いや、患者ではない。コウジだ。
 [Kouji]: No, I'm not a patient. I'm Kouji.
 //［女の声］：はいはい、しょうがないわね、涼子先生に言っておかなくちゃ‥‥ブツブツ。
