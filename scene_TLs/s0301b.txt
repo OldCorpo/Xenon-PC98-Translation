@@ -109,7 +109,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：なんにしても、任せて頂戴。大丈夫だから。
 [Ryouko]: Whatever you want to talk about, just lay it on meIt'll be fine, after all.
 //［宏治］：そう言ってこのあいだなんか、雷が人間の精神に与える作用とかいって、僕を避雷針に縛り付けて‥‥。
-[Kouji]: While we were just talking, if I can compare a　　　human's spirit to lightning, then I'm being fastened to a　lightning rod...
+[Kouji]: While we were just talking, if I can compare a　　　human's spirit to lightning, then I'm being fastened to a　 lightning rod...
 //［涼子］：でも、無事だったじゃない。
 [Ryouko]: But, you're fine, aren't you?
 //［宏治］：それはオレが、何とか縄をほどいて逃げたからだ！　はぁ、はぁ‥‥。

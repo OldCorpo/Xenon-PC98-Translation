@@ -353,7 +353,7 @@ The variety of assorted books ranged from neurology to　　　pathology, applie
 //ふと傍らにある本が目についた。専門書とは違ったが、分厚く、意味深である。
 Suddenly, one of the books nearby caught my eye. It was　　 different from the other specialty books. It was thick, so  it held much meaning.
 //中には、ドリームプログラムと命名された機械の設計図とその概要が網羅されていた。
-The contents comprised a blueprint for a machine called a " dream program " and its overview.
+The contents comprised a blueprint for a machine called a　 "dream program" and its overview.
 //速読を用いて、ものの１０秒ほどで読破する。
 Speed reading, it took me about 10 seconds to finish.
 //［コウジ］：ほぉ、なるほど。コンピュータ・ルームか‥‥。
