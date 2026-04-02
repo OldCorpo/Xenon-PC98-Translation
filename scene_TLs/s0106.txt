@@ -549,7 +549,7 @@ I operated the wall panel, and entered the engine room...
 //0070
 0070
 //［ファル］：あら、どうしたの、コウジ。何か、思い出したの？
-[Far]: Ara, what's going on, Kouji. Did you remember　　　　something?
+[Far]: Oh? What's going on, Kouji. Did you remember　　　　 something?
 //［コウジ］：いや、残念ながら全く‥‥。
 [Kouji]: No. I'm afraid nothing's come back...
 //［ファル］：そう‥‥‥‥。

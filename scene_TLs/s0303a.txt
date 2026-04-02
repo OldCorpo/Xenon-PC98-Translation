@@ -13,7 +13,7 @@ s0303a
 //［宏治］：ど、どうしたの、急に涙をためて‥‥。
 [Kouji]: You're crying, all of a sudden... Wh-what's come　　over you? 
 //［ランファ］：本当にランファのことを、忘れてしまったんですか？
-[Lanhua]: Did you really forget about Lanhua?
+[Lanhua]: Did you really forget about me?
 //［宏治］：い、いやなんというか、記憶が混乱していて‥‥いや記憶は混乱してないんだけど、状況に混乱していてね。
 [Kouji]: Th-that's putting it too harshly, my memories have been muddled up...well, not my memories, more like the　　　entire situation.
 //［ランファ］：よくわからないですけど、ランファが誰かってことですね？

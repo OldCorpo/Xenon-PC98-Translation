@@ -15,7 +15,7 @@ As I look more closely, there is a ladder. It seems to be　　going down. I hea
 //オレは手すりにつかまりながら、慎重に階段を下りていった。
 Gripping the handrail, I carefully descended the ladder.
 //［トレイシー］：あら、コウジ様、いかがなさいました？　ご用なら、お呼びして下されば‥‥。
-[Tracy]: Ara, Kouji-sama, what has happened? If you needed  me, you could have called me....
+[Tracy]: Oh my, Kouji-sama, what has happened? If you neededme, you could have called me...
 //［宏治］：トレイシーじゃないか。
 [Kouji]: Well, if it isn't Tracy.
 //［トレイシー］：ご気分は良くなられましたか？
@@ -145,7 +145,7 @@ Tracy's expression lost its edge and slightly eased up. Agh,navigating this topi
 //［宏治］：んじゃ、そういうことで。
 [Kouji]: Mm, well, let's wrap this up.
 //［トレイシー］：あら、もう行ってしまわれるのですか？
-[Tracy]: Ara, do you have to get going already?
+[Tracy]: Oh? Do you have to get going already?
 //［宏治］：とりあえず、色々と見てみたいんでね。
 [Kouji]: In any case, I have a few things to check up on.
 //［トレイシー］：ここはコウジ様のシップです。遠慮なさらずに、存分に見て下さい。

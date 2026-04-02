@@ -103,7 +103,7 @@ I slowly looked around at my bound body. Only my head and　 neck were able to m
 //［コウジ］：ある。
 [Kouji]: I do.
 //［沙夜香］：あら、なにかしら。
-[Sayaka]: Ara, what could that be?
+[Sayaka]: Hmm, what could that be?
 //［コウジ］：フン、それはな‥‥‥‥。
 [Kouji]: Hmph, well, that's....
 //　◆ 貴様の目的は‥‥‥‥。
@@ -429,7 +429,7 @@ r&sb
 //［涼子］：三十路前にしてやっと伴侶を見つけたのにぃぃ‥‥。
 [Ryouko]: And I'd just found my partner before I'd hit my　 thirties...
 //［沙夜香］：あら、それは残念ね。年増の恨み辛みは恐いこと。
-[Sayaka]: Ara, how unfortunate. The grudges built up over　 years can be quite terrifying.
+[Sayaka]: Oh my, how unfortunate. The grudges built up over years can be quite terrifying.
 //［涼子］：くらえぇっ、悔しさ倍増ジェラシー・パーーーーッンチィィ！！
 [Ryouko]: Take this, my regrets doubled up, JEALOUSY　　　　PUUUUUUUUNCH!!
 //r&sc

@@ -91,7 +91,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：大丈夫に決まっているじゃない。私は天才科学者よ。
 [Ryouko]: I'm sure I'm OK. I am a genius scientist, after　　all.
 //［涼子］：あら、疑いの目ね、それは。
-[Ryouko]: Ara, you doubt me, don't you?
+[Ryouko]: Hmmm, you doubt me, don't you?
 //［宏治］：涼子先生もまだ若いんだから、男友達の１人や２人作って楽しみなよ。不健全だぜ、こんな‥‥。
 [Kouji]: Because Ryouko-sensei is still young, having one ortwo boyfriends would be fun. It's not healthy to be like　　this...
 //［涼子］：暗い部屋で１人寂しく？
@@ -101,7 +101,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：もうお肌の曲がり角は、とうに通りすぎてるわよ。最近、お化粧もあまりしなくなっちゃって‥‥。
 [Ryouko]: At every crossroads in my sex life, I've gone　　　straight. Recently, I've even stopped putting on makeup...
 //［涼子］：あら、こんなこと、宏治クンに言うことじゃないわね。フフ‥‥。
-[Ryouko]: Ara, this isn't the kind of thing I should be　　　talking to you about, Kouji-kun. Huhu....
+[Ryouko]: Hmm, this isn't the kind of thing I should be　　　talking to you about, Kouji-kun. Huhu....
 //［宏治］：暗い研究室に閉じこもって、いい歳した女性が‥‥。
 [Kouji]: Locked in a dark laboratory with a woman of　　　　suitable age...
 //［涼子］：歳のことは、言いっこ無し。これでも、ちょっとは気にしてるのよ。
@@ -291,11 +291,11 @@ I slowly and gently opened my tightly shut eyelids....
 //［左の女］：トレイシーです。私はコウジ様の最も大切な‥‥‥‥ポッ。
 [Woman on the left]: I'm Tracy. I'm Kouji-sama's most　　　　important... *blush*.
 //［右の女］：ランファだって、ランファだってコウジ様の、大切で掛け替えのない女性なんだからぁ。
-[Woman on the right]: Lanhua too, Lanhua is Kouji-sama's　　important, irreplaceable woman.
+[Woman on the right]: Me too, I'm Kouji-sama's important,　 irreplaceable woman.
 //［トレイシー］：ランファ、それは言い過ぎです。私が１番の‥‥。
 [Tracy]: Lanhua, that's talking yourself up too much. I'm　　his number one....
 //［ランファ］：ランファだモン。
-[Lanhua]: No, it's Lanhua.
+[Lanhua]: No, I am.
 //［宏治］：あ、あのさ‥‥。
 [Kouji]: U-ummm....
 //［トレイシー・ランファ］：はい、なんでしょう？
@@ -369,7 +369,7 @@ s0301a
 //［トレイシー］：あっ、そういえば‥‥。
 [Tracy]: Ah-, now that you mention it...
 //［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
-[Lanhua]: Huhum-, Kouji-sama will be mad if you don't　　　finish.
+[Lanhua]: Huhum-, Kouji-sama will be mad if you don't　　　 finish.
 //［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
 [Tracy]: Ahhhh, wh-what should I do....
 //［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。
