@@ -123,7 +123,7 @@ bi02b
 //［コウジ］：《‥‥なんだ、それは。》
 [Kouji]: {...What does that mean?}
 //［宏治］：《ノリの悪いヤツだな。ＯＫというオレの時代の俗語だよ！》
-[Kouji]: {You're not great at reading the mood, are you?　　It's a phrase meaning "OK" in my time's slang!}
+[Kouji]: {You're such a killjoy. It's slang from my time, itmeans "OK"!}
 //［コウジ］：《うむ、ではいくぞ。》
 [Kouji]: {Ah, then let's go.}
 //［宏治］：（な、なんだ‥‥凄い感覚が‥‥。）

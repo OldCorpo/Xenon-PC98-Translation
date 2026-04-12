@@ -45,7 +45,7 @@ Also, the unbearably innocent woman with the trademark big  lemon-yellow ribbon 
 //この機動シップ《クワドラ》の機関士兼、航海士でかつ私の奴隷だ。
 She is this mobile ship Quadra's engineer, navigator, and myslave.
 //脳のシナプスの２、３万本は、常に焼き切れている、ちょっと間の抜けた女だ。だが、メカに対する知識は深く、この《クワドラ》に無くてはならない存在である。
-The twenty or thirty thousand synapses in her brain are　　 frequently burned out, so she's a little dumb. However, she has deep knowledge of mechas, and is an irreplaceable　　　 presence on the {Quadra}.
+The twenty or thirty thousand synapses in her brain are　　 frequently burned out, so she's a little dumb. However, she has deep knowledge of mechas, and is an irreplaceable　　　 presence on the Quadra.
 //［コウジ］：大宇宙海賊御用達霊子エナジー増幅ジェネレータの準備は万端か？
 [Kouji]: Did you finish preparing the Universal Pirate　　　Company Reiko Energy Amplifying Generator?
 //［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。

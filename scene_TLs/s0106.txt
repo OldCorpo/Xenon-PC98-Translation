@@ -217,7 +217,7 @@ With good timing, Far called out to me.
 //［ファル］：まず、私たちが何故ここにいるかを話した方が、いいかもね。
 [Far]: But first, you need to know why we are here. That's  fine, right?
 //［ファル］：ここは、辺境のナーズ星域。数年前、この惑星の１つから、先史文明の遺跡が発見された‥‥。
-[Far]: This is the {Nuz} star system. A few years ago, on　 one of these planets, we discovered the ruins of a　　　　　prehistoric civilization...
+[Far]: This is the Nuz star system. A few years ago, on one of these planets, we discovered the ruins of a prehistoric  civilization...
 //［コウジ］：‥‥先史文明？
 [Kouji]: A prehistoric civilization?
 //［ファル］：風化寸前の、化石のような遺跡らしいけど、知的生命体の傍証になるかもしれないと、考古学者たちは驚喜しているわね。
@@ -259,7 +259,7 @@ With good timing, Far called out to me.
 //［コウジ］：パラ‥‥サイコロジー？
 [Kouji]: Para...psychology?
 //［ファル］：そう、エイレートに接近したとき、先の第１次、第２次調査隊は全滅してしまった‥‥。
-[Far]: That's right. Since they came close to {Eirate}, the first and second investigative teams were wiped out...
+[Far]: That's right. Since they came close to Eirate, the　 first and second investigative teams were wiped out...
 //［ファル］：同じ轍を踏まないよう、私たちは惑星圏外から、エンコーダを使用して調べていたの。
 [Far]: We won't be going into the same rut, since we'll be  outside the planetary sphere, and using the encoder to　　　investigate.
 //［コウジ］：あの、棺桶みたいな装置か‥‥。
@@ -277,7 +277,7 @@ With good timing, Far called out to me.
 //［コウジ］：そうか‥‥。
 [Kouji]: I see...
 //［ファル］：船は遠隔で操作すればいいわ。とりあえず、エイレートに近づかなければ、危険はなさそうだから。
-[Far]: Working remotely on the ship is favorable. Getting　 close to {Eirate} now is dangerous, after all.
+[Far]: Working remotely on the ship is favorable. Getting　 close to Eirate now is dangerous, after all.
 //［コウジ］：‥‥私は、いったいどこで？
 [Kouji]: ...Where do I fit into all this?
 //［ファル］：あなたは唯一、第２次調査隊シップの中で、意識が残っていた貴重な証人なのよ。
@@ -903,9 +903,9 @@ Structurally, gravity should always have pointed towards thebottom of the ship.
 //船が傾くと感じるのは、重力制御に何か異常が起きたのかもしれない‥‥。
 The ship's tilt meant that something had probably gone wrongwith the gravitational control....
 //［ファル］：いい、コウジ。今現在このシップは、動力の異常出力によって、ナーズへと引き寄せられているの。
-[Far]: It's ok, Kouji. Just now, due to this ship's abnormalpower output, we've been drawn towards {Nuz}.
+[Far]: It's ok, Kouji. Just now, due to this ship's abnormalpower output, we've been drawn towards Nuz.
 //［コウジ］：（‥‥ナーズというと、あの恒星のことか！？）
-[Kouji]: ({Nuz} means that star, doesn't it?!)
+[Kouji]: (Nuz means that star, doesn't it?!)
 //［ファル］：良く聞いて頂戴。時間が無いわ、今からすぐに格納庫のシャトルへ来て。脱出するのよ‥‥。
 [Far]: Please listen to me. We don't have a lot of time, so let's head to the hangar now. Let's make our escape...
 //［ファル］：恒星の重力に完全に捉えられるまで、あと３分しかないわ。急いで‥‥‥‥。

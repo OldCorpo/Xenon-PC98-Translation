@@ -321,7 +321,7 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［ファル］：じゃあ、心して聞いて頂戴‥‥。
 [Far]: Then listen to me carefully.
 //［ファル］：ここは、辺境のナーズ星系‥‥恒星ナーズのほぼ真上にあたるわ。
-[Far]: We're inside the {Nuz} star system, at the edge of　 the known universe. We're currently on standby above its　　primary star, {Nuz}.
+[Far]: We're inside the Nuz star system, at the edge of the known universe. We're currently on standby above its primarystar, Nuz.
 //［コウジ］：‥‥‥‥‥！？
 [Kouji]: ‥‥‥‥‥！？
 //［ファル］：驚いているようね‥‥無理はないかも。
