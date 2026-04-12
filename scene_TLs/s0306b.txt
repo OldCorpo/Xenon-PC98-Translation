@@ -9,11 +9,11 @@ bi02
 //［宏治］：まあ、確かにその姿を見れば、誰でもびっくりするだろうな‥‥。
 [Kouji]: Well, anyone seeing your appearance would be　　　 shocked....
 //［ビアンカ］：フッ、あまりに遅いので、待ちわびだぞ。
-[Bianca]: Heh, you're so late, I got tired of waiting.
+[Bianca]: Heh, you're late, I got tired of waiting.
 //［宏治］：何だか、来るのが分かっていたような口振りだな。
 [Kouji]: You seem to have known I was coming.
 //［ビアンカ］：そうだ、貴様と再び闘うためにな‥‥貴様の奴隷らの言い分だと、貴様はあのとき本調子では無かったと言うではないか。
-[Bianca]: It's true, I wanted to do battle with you once　　more... from what I heard from your slaves, you don't seem  to be quite yourself from back then.
+[Bianca]: It's true, I wanted to do battle with you once　　more... from what I heard from your slaves, you don't seem  to be quite yourself.
 //［宏治］：まぁ、本来のコウジではないって意味じゃ、そうだな。
 [Kouji]: Well, if you mean I'm not the Kouji from before,　 you'd be right.
 //［ビアンカ］：フン、何度闘っても同じだと思うが、貴様にそう思われるのもしゃくだ。
@@ -49,7 +49,7 @@ bi02b
 //［宏治］：ちょ、ちょっと今のは効いたぞ。
 [Kouji]: Th-that was a really effective blow.
 //［ビアンカ］：オーッホホホ！　当たり前だ、効かなくては武器にならないではないか。
-[Bianca]: O-hohohoho! Of course it was, if it wasn't　　　 effective, you couldn't call this a weapon!
+[Bianca]: O-hohohoho! Of course it was, if it wasn't　　　  effective, you couldn't call this a weapon!
 //ビシィ、ビシィ！
 *Bashee, bashee*!
 //［宏治］：いたっ、いたっ‥‥痛いってば！
@@ -303,9 +303,9 @@ bi06d
 //［宏治］：《な、なにぃ！？》
 [Kouji]: {W-WHAT?!}
 //［コウジ］：《今なら大丈夫だ。早く言うのだ！》
-[Kouji]: {It'll be all right for now. Just tell her already!}
+[Kouji]: {It'll be all right for now. Just tell her　　　　 already!}
 //［宏治］：び、びびびビアンカ‥‥その、愛してる‥‥。
-[Kouji]: B-B-B-Bianca....um, I love you....
+[Kouji]: B-B-B-Bianca.... um, I love you....
 //bi06e
 bi06e
 //bi06e_m

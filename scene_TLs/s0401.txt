@@ -1,7 +1,7 @@
 //all
 all
 //［宏治］：実はまだ、オレは《クワドラ》にいたりする。
-[Kouji]: The truth is, I've returned back to the {Quadra}.
+[Kouji]: The truth is, I've returned back to the Quadra.
 //［トレイシー］：ランファ、このお皿をテーブルに並べて頂戴。
 [Tracy]: Lanhua, could you set the table, please?
 //［ランファ］：んもぉ、ビアンカさん、ちょっとは手伝って下さいよぉ。
@@ -771,7 +771,7 @@ bi05
 //　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ
 　　　　　　　　ＤＲＥＡＭ＿３δ　‥‥　ＥＮＤ
 //［ランファ］：たぶん、牽引ビームに、《クワドラ》が捉えられたんだと思います。
-[Lanhua]: It's probably been captured by the {Quadra}'s　　 tractor beam.
+[Lanhua]: It's probably been captured by the Quadra's　　　 tractor beam.
 //［ランファ］：ビアンカさんの、性格でしょうね、きっと。
 [Lanhua]: This is just what Bianca would do.
 //ランファが隣で、屈託のない笑みをこぼす。
@@ -1415,7 +1415,7 @@ to05e
 //［トレイシー］：そう‥‥私はトレイシー‥‥。
 [Tracy]: Yes...I'm Tracy....
 //［トレイシー］：ここは調査船《クワドラ》‥‥惑星エイレート付近‥‥。
-[Tracy]: This is the exploratory ship <Quadra>... near the  planet Eirate....
+[Tracy]: This is the exploratory ship Quadra... near the　  planet Eirate....
 //［トレイシー］：先だって、惑星エイレート上において、先史文明の遺跡が発掘され、私たち学術調査団が派遣された‥‥。
 [Tracy]: Earlier, on Eirate, our academic exploration group was sent out to excavate the ruins of the last civilization ...
 //［トレイシー］：私も、遺跡発掘調査隊に従事している‥‥。

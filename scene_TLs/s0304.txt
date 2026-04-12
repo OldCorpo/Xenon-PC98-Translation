@@ -25,7 +25,7 @@ As I closed the door...
 //［宏治］：あっ、もしかして、ビアンカって人？
 [Kouji]: Ah-, you're that Bianca person, aren't you?
 //［ビアンカ］：とぼけるのもそこまでだ。既に《クワドラ》は、我が手中にある。
-[Bianca]: I see you've stopped playing dumb. The [Kuwadora] is already mine.
+[Bianca]: I see you've stopped playing dumb. The Quadra is  already mine.
 //［宏治］：ふーん、そうなんだ。
 [Kouji]: Hmmm, is that so?
 //［ビアンカ］：貴様の機動シップは、既に私の手中にある、とこう言っているのだぞ。
@@ -75,7 +75,7 @@ As I closed the door...
 //［宏治］：なんだよ、その汚い奸計ってさ。
 [Kouji]: What was that dirty scheme anyway?
 //［ビアンカ］：知れたこと！　私を置き去りにして‥‥私は脱獄するまで軍収容所でわびしい毎日を‥‥。
-[Bianca]: That's obvious! You deserted me...until I broke　　out, I spent every wretched day in that military detention ...
+[Bianca]: That's obvious! You deserted me...until I broke　　out, I spent every wretched day in that military detention  ...
 //［宏治］：苦労したんだなぁ。
 [Kouji]: You went through a lot, didn't you?
 //［ビアンカ］：ええい、黙れ黙れ！　奸計にハメた当事者の貴様に、私の悔しさがわかってたまるか！！
@@ -135,7 +135,7 @@ As I closed the door...
 //［男］：貴様では、ビアンカには勝てん。
 [Man]: You will not prevail against Bianca.
 //［宏治］：さ、さっき、『よけろ』って耳元で叫んだ男か！？
-[Kouji]: W-were you the one who just told me to "Move aside"?
+[Kouji]: W-were you the one who just told me to "Move　　　 aside"?
 //［男］：そうだ。
 [Man]: Yes, I am.
 //［宏治］：誰だ、お前は。
@@ -341,7 +341,7 @@ to02_m
 //to03_m
 to03_m
 //［宏治］：惑星エイレートで過ごしたときのことを、覚えているかい？
-[Kouji]: Do you remember the time we passed by planet Eirate?
+[Kouji]: Do you remember the time we passed by planet　　　 Eirate?
 //［トレイシー］：えっ‥‥。
 [Tracy]: Umm...
 //［宏治］：いやその、覚えていないのなら、別にいいんだけど。

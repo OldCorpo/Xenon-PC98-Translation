@@ -9,7 +9,7 @@ s0302b
 //　◆ なぜオレの事を知っているんだ？
 ◆ How do you know about me?
 //　◆ 《クワドラ》とはいったい何なんだい？
-◆ What is the "Kuwadora", exactly?
+◆ What is the Quadra, exactly?
 //　◆ ジェネレータって言っていたけど‥‥。
 ◆ You said something about a generator...
 //　◆ ファルネリアって、いったい誰のことさ。
@@ -67,11 +67,11 @@ s0302b
 //［宏治］：彼女は、ここで何をしているの？
 [Kouji]: What exactly does she do here?
 //［トレイシー］：こことおっしゃられますと、《クワドラ》でですか？
-[Tracy]: By "here", do you mean the Kuwadora?
+[Tracy]: By "here", do you mean the Quadra?
 //［宏治］：クワドラ？
-[Kouji]: Kuwadora?
+[Kouji]: Quadra?
 //［トレイシー］：《クワドラ》がなにか？
-[Tracy]: Do you know what the Kuwadora is?
+[Tracy]: Do you know what the Quadra is?
 //［宏治］：いやその、話の腰を折って悪かった。続けてくれ。
 [Kouji]: Oh, sorry to interrupt. Please continue.
 //［トレイシー］：彼女は主に機関部の整備やチェック、航行機器類を任されていますわ。
@@ -105,21 +105,21 @@ s0302b
 //［宏治］：んー‥‥。
 [Kouji]: Mmmm--...
 //［宏治］：《クワドラ》とはいったい何なんだい？
-[Kouji]: What is the "Kuwadora", exactly?
+[Kouji]: What is the Quadra, exactly?
 //［トレイシー］：と、おっしゃられますと？
 [Tracy]: Are you asking me?
 //［宏治］：さっき、その‥‥《クワドラ》がどうとか、そういう話をしただろう？
-[Kouji]: Earlier, you said something about that..."Kuwadora", didn't you?
+[Kouji]: Earlier, you said something about that... Quadra,  didn't you?
 //［トレイシー］：ええ、しました。
 [Tracy]: Yes, I did.
 //［宏治］：じゃあ《クワドラ》とはいったい何か？　という疑問を呈示させてもらおう。
-[Kouji]: Well, you brought up the question in my mind: what exactly is the "Kuwadora"?
+[Kouji]: Well, you brought up the question in my mind: what exactly is the Quadra?
 //［トレイシー］：スペックを言えばよろしいのですか？
 [Tracy]: Will it help if I talk about its specs?
 //［宏治］：‥‥ま、まあそうかな。
 [Kouji]: ...I don't know, but tell me anyway.
 //［トレイシー］：《クワドラ》はカルバドル級軽機動シップを大幅にチューンナップされた、高速機動シップです。
-[Tracy]: The "Kuwadora" is a Calvador-class light mobile　　ship that's been heavily tuned up into a high-speed mobile  ship.
+[Tracy]: The Quadra is a Calvador-class light mobile ship　 that's been heavily tuned up into a high-speed mobile ship.
 //［トレイシー］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
 [Tracy]: It is 52 meters long, the engine runs on ethereal  photon energy, and the craft is fitted with hyperdrive　　　capabilities...
 //［トレイシー］：火器はイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など一発ですわ‥‥あら、私としたことが。ホホホ。
@@ -141,7 +141,7 @@ s0302b
 //［トレイシー］：冗談？　私、冗談とイカの頭は嫌いですの。コウジ様、知ってらっしゃるはずでしょう？
 [Tracy]: Joke? I have no use for a joke like that.　　　　　Kouji-sama, do you think you understand?
 //［宏治］：じゃあ何かい、ここはその、《クワドラ》とやらいう宇宙船の中で、もしかして宇宙空間中に浮かんでいるとか？
-[Kouji]: Well, in any case, we're in the middle of the　　　"Kuwadora" space ship, so could it be possible that we're　　floating through outer space right now?
+[Kouji]: Well, in any case, we're in the middle of the　　　Quadra space ship, so could it be possible that we're　　　 floating through outer space right now?
 //［トレイシー］：もしかしなくても、おっしゃる通りですわ。
 [Tracy]: It's not just a possibility, it's exactly as you　　say.
 //［宏治］：‥‥質問を変えよう。
@@ -291,9 +291,9 @@ The silence hurt my ears, but any more noise would hurt my  head, too.
 //混乱していないと言えば嘘になる。むしろ、オレはさっきから混乱のしっぱなしだ。
 If I said I wasn't confused, I'd be lying. However, my　　　confusion from earlier had dissipated.
 //ここが、大宇宙に浮かぶ宇宙船の中で、しかも何とか砲とかいう武器がついてる高機動シップだと？
-Here, I am floating through space on a space ship, and it　　seems that it's a high class mobile ship carrying some sortof cannon weaponry.
+Here, I am floating through space on a space ship, and it　　seems that it's a high class mobile ship carrying some sort of cannon weaponry.
 //霊子エナジーなんとかという、ジェネレータがどうした、あげくの果てに、このオレが大宇宙海賊ときた時には‥‥‥‥。
-The generator uses Reiko energy or whatever to, in the end, make me some galactic pirate...
+The generator uses Reiko energy or whatever to, in the end, make me some kind of galactic pirate...
 //オレは仏頂面のまま手を頭の後ろに組み、ベッドに仰向けに倒れ込んだ。
 With a surly look, I joined my hands behind my head, and　　fell back onto the bed.
 //しかしリアルと言えば、リアルだった。本当にここは、宇宙‥‥？
@@ -325,7 +325,7 @@ Wasn't I asleep for a while?... By my feet, there sat a　　　neatly folded ch
 //肌触りの良い衣服だった。セパレートタイプだったが、着てみるとツナギのように見えるデザインだ。
 The clothing feels good to the touch. It's a two-piece type,but as I'm wearing it, it looks like a boiler suit design.
 //オレは着替えをすますと、室内を見回した。別にこれといって変化はなかった‥‥‥‥。
-I finished changing clothes and surveyed the room. There　　didn't seem to be any change other than that change of　　　clothes...
+After I finished changing clothes, I looked around the room.There didn’t seem to be any particular changes...
 //　◆ ここでジッとしてるより、部屋を出よう。
 ◆ Let's not stare here forever and leave the room.
 //　◆ 状況がわかるまで、ここにいた方がいいだろう。

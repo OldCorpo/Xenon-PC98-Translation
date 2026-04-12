@@ -67,7 +67,7 @@ s0402
 //［ビアンカ］：そうかい？　私も行きたかったなぁ。
 [Bianca]: Really? Then I should have gone, too.
 //［トレイシー］：‥‥ビアンカさんはパイロットですから、本船の《クワドラ》を離れられないでしょう。
-[Tracy]: ...Bianca, since you're the pilot, I can't let you leave the {Quadra}.
+[Tracy]: ...Bianca, since you're the pilot, I can't let you leave the Quadra.
 //［ビアンカ］：そう、それが頭にくるのよ。私だって、太古の遺跡とやらをこの目で見てみたいさ。
 [Bianca]: Yeah, I know that. But if it were me, I'd want to see those ancient ruins up close with my own two eyes.
 //［トレイシー］：‥‥適材適所ですわ。

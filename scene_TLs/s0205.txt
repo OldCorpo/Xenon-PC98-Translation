@@ -317,7 +317,7 @@ ko01
 //［コウジ］：そのあいだ、ジェネレータのシンクロ時間の計算を算出するからだ。こちらの原始的な機構は、私の天才的頭脳をもってしても、なかなかこれが困難で‥‥。
 [Kouji]: Because in the meantime, the generator needs to　　calculate the synchronization time. Even with my genius　　 intellect, the primitive structures here are difficult to　 work with...
 //［宏治］：さっきから聞いていて疑問なんだが、お前はいったい今、どこにいるんだ？
-[Kouji]: I've had this question on my mind since a while agobut where even are you right now?
+[Kouji]: I've had this question on my mind for a while now  but where even are you right now?
 //［コウジ］：地面の上だ。
 [Kouji]: On the ground.
 //［宏治］：おい。
@@ -347,7 +347,7 @@ ko01
 //［宏治］：はぁ？
 [Kouji]: Huh??
 //［コウジ］：つまりだ、感性形式によるアポステリオリな経験現象としてではなく、理性的思考によってのみ、初めて捉えることができる究極の事象のことだ。
-[Kouji]: In other words, they're not a posteriori　　　　　 experiential phenomena dependent on the senses, but the　　 ultimate phenomena resulting from being able to think theoretically in the first place.
+[Kouji]: In other words, they're not a posteriori　　　　　 experiential phenomena dependent on the senses, but the　　 ultimate phenomena resulting from being able to think　　　 theoretically in the first place.
 //［宏治］：‥‥まぁいい、じゃあ、あり得るとしてだ。
 [Kouji]: ...OK then. Well, let me ask you a few things.
 //［宏治］：涼子先生はどうした？

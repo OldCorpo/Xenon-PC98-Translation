@@ -65,7 +65,7 @@ My fist stung as though it had touched a hot fireplace pokerI was becoming numb 
 //本当にここは、宇宙‥‥？
 Am I really in space...?
 //いやまさか、そんな非科学的な。夢だ。そうだ、コブシを痛めるという夢を見ている最中なのだ、オレは。
-No, that would be too unscientific. It has to be a dream.　　That's right, I'm right in the middle of a dream where my　fist hurts.
+No, that would be too unscientific. It has to be a dream.　　That's right, I'm right in the middle of a dream where my　 fist hurts.
 //白い箱を抱えて、慌てて駆け寄ってくるトレイシーが視界に入った。彼女も、やっぱり夢の中の人物なのかな‥‥。
 As she carried a white box, a hurried, running Tracy enteredmy field of vision. So she's a character in my dream, huh...
 //［トレイシー］：さぁ、コウジ様、手をお出しになって下さい。
@@ -219,7 +219,7 @@ ra06c_m
 //ランファはオレに気付くと、手を止めてすぐに顔を破顔させる。彼女は、嬉しさを全身で表現する女の子だった。
 As Lanhua noticed me, she stopped working and broke into a  broad smile. She exuded happiness from her entire body.
 //［ランファ］：コウジ様、ランファに会いに来て下さったんですねっ。
-[Lanhua]: Kouji-sama, did you came all this way just to see me?
+[Lanhua]: Kouji-sama, did you come all this way just to see me?
 //［宏治］：えっ、あぁ、まぁそうなるのかな。
 [Kouji]: Eh-? Ahh, well, yes, it does seem that way.
 //［ランファ］：あーン、コウジ様のおそばに行きたいのに‥‥んもう！　このっ、このっ！
@@ -335,7 +335,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //　◆ ランファは、ここで何を‥‥‥‥。
 ◆ What is Lanhua doing here...?
 //　◆ ファルネリアって女性は‥‥‥‥。
-◆ Where's that Farnelia woman doing...?
+◆ Where's that Farnelia woman...?
 //［宏治］：そういえば、ファルネリアって女性は？
 [Kouji]: Oh yeah, where's that Farnelia woman?
 //［ランファ］：ＶＩＰルームですけど‥‥でも、気を付けて下さい。
@@ -351,7 +351,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //［宏治］：そ、そんな胸をはだけなくてもいいよ。
 [Kouji]: Y-you don't need to expose that much of your chest to show me.
 //［ランファ］：あの部屋に行かれるのなら、気を付けてくださいね。
-[Lanhua]: If you're going towards that room, please, just　　take care.
+[Lanhua]: If you're going into that room, please, just take care.
 //［宏治］：そ、そんなに凶暴なの？
 [Kouji]: Sh-she's that ferocious?
 //［ランファ］：もうプリプリですぅ。お尻にもアザがあるんですよ、ホラ‥‥。
@@ -413,7 +413,7 @@ Huh? I did?
 //［宏治］：て、手塩‥‥？
 [Kouji]: L-love and effort?
 //［ランファ］：言うなれば、ランファとコウジ様の、愛の結晶と言えるかもしれませんね。
-[Lanhua]: You could say it's the fruit of Lanhua and Kouji- sama's love.
+[Lanhua]: You could say it’s the fruit of our mutual love,  I suppose.
 //［トレイシー］：何が愛の結晶ですか！
 [Tracy]: What's the fruit of love here?!
 //［ランファ］：‥‥‥あっ、回線がオンになってるぅ。トレイシー、盗み聞きするなんて、フェアじゃないわっ！
@@ -633,7 +633,7 @@ Huh? The electricity went out...
 //［オレ］：そうだ。何でこんなモノがここに‥‥。
 [Me]: Yes. Why is this thing here...?
 //［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい。これはランファとコウジ様の愛の結晶ですぅ。
-[Lanhua]: Well....please don't talk about it so heartlessly.It's the fruit of the love between Lanhua and Kouji-sama.
+[Lanhua]: Well....please don't talk about it so heartlessly.It's the fruit of the love between you and me, Kouji-sama.
 //［オレ］：あ、愛の‥‥なんだって？
 [Me]: T-the fruit...What do you mean?
 //［ランファ］：あぁぁっ！！
@@ -649,7 +649,7 @@ On a thick, heavy plate in front of the room before me, the words "VIP ROOM" wer
 //さっき来たときは、人が居ないようだったが‥‥もしかすると、単に無視されただけなのかもしれない。
 Just as I was coming over, it seemed to be empty, but...it  might have only seemed that way when I wasn't looking.
 //聞けば聞くほど、ファルネリアという女性は、偏屈というイメージしかわかない。賓客ならば、寝心地や食事に文句を言うなど礼を欠くにもほどがある。
-If you ask me, I get the impression that the woman named　　Farnelia is not at all unreasonable. If I were an esteemed　guest, I'd definitely complain that the food and shelter　　accommodations were inadequate.
+If you ask me, I get the impression that the woman named　　Farnelia is not at all unreasonable. If I were an esteemed　guest, I'd definitely complain that the accommodations were inadequate.
 //傍らのコンパネに手を伸ばしてみる。赤く点滅しているボタンを押そうとして、はたと手を止めた。
 I reached for the control panel beside me. As I pushed the  blinking red buttons, I suddenly stopped.
 // 　　　　　　　　　ＤＯＯＲ　ＬＯＣＫ　ＯＫ
@@ -709,7 +709,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //　◆ あのジェネレータという装置は‥‥‥‥。
 ◆ That so-called generator...
 //　◆ 《クワドラ》というのは‥‥‥‥。
-◆ The "Kuwadora"...
+◆ The Quadra...
 //　◆ 大宇宙海賊というのは‥‥‥‥。
 ◆ That galactic pirate...
 //　◆ トレイシーという女性は‥‥‥‥。
@@ -767,7 +767,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：んー、考え出すときりがないな‥‥他の事を考えよう。
 [Kouji]: Mmm-, this could go on forever at this rate...let'sthink about something else...
 //［宏治］：《クワドラ》というのは、確かこの宇宙船の名前だったな。
-[Kouji]: The "Kuwadora" is definitely the name of this spaceship.
+[Kouji]: The Quadra is definitely the name of this spaceship
 //［宏治］：細かいスペックはどうでもいいが、彼女らに言わせてみれば、結構な宇宙船らしい。
 [Kouji]: The minor specs aren't that important, but from　　what the women have told me, this is a pretty fine ship.
 //［宏治］：で、オレはこのシップに乗って、宇宙を駆けめぐる大宇宙海賊、らしい。
@@ -832,7 +832,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：コウジ様、コウジ様って慕ってくれんのはいいけど‥‥。
 [Kouji]: Her constant praise for "Kouji-sama, Kouji-sama" isall right, but...
 //［宏治］：何だか精神年齢が低いような気が‥‥。
-[Kouji]: Her mental age seems rather low...
+[Kouji]: She seems immature...
 //［宏治］：知識年齢は、高いんだろうけどなぁ‥‥。
 [Kouji]: Even if her age of experience seems pretty high...
 //［宏治］：可愛いからいいか。
@@ -876,7 +876,7 @@ Immediately following in this direction, there was a frostedglass door. I could 
 //ふと横の壁を見ると、丸い小さな窓が付いていることに気付いた。洗面所に窓‥‥？
 As I glanced at the wall beside me, I noticed a small round window was placed there. A window in the washroom...?
 //小さく丸い窓は、縁を何かの金属で補強してあった。窓を良く見ると、かなり分厚い。１０センチはくだらないかも‥‥。
-The porthole was reinforced with some green metal. As I　　　inspected it more closely, it was really quite bulky.　　　Probably over 10 centimeters thick...
+The porthole was reinforced with some green metal. As I　　　inspected it more closely, it was really quite bulky.　　　 Probably over 10 centimeters thick...
 //さらにその先を見ると‥‥。
 What's more, as I looked through it...
 //［宏治］：何だ、あれは‥‥。
@@ -890,7 +890,7 @@ As I looked away from the window, I shook off some　　　　　unpleasant thou
 //オレは、足下に絡み付く布地に気付くと、それを拾い上げてみる。
 I noticed that my foot had gotten tangled in some cloth, so I picked it up and inspected it.
 //小さな布きれだったが、ゴムによる弾力に富んでいた。淡いピンク色の布地は、オレの手の中で思うように変形している。
-The cloth was small, but it was quite elastic. I unfolded　　the light pink cloth in my hands, and it changed into the　expected shape.
+The cloth was small, but it was quite elastic. I unfolded　　the light pink cloth in my hands, and it changed into the　 expected shape.
 //小さな穴が２つ、比較的大きな穴が１つ‥‥？
 Two small holes, and one larger one...?
 //女性用の下着だと気付いて良かった。危うく、匂いを嗅ぐところだった。
@@ -974,7 +974,7 @@ fa02_m
 //［宏治］：いやその‥‥少し、混乱していて。
 [Kouji]: Uh, no...I'm just a bit confused.
 //［ファル］：エンコーダも奪っておきながら‥‥これから私を、どうするつもり？
-[Far]: Since you robbed that encoder from me...what do you  plan to do to me?
+[Far]: Since you stole that encoder from me... what do you  plan to do with me?
 //［宏治］：‥‥話がよく見えないんだけど、誘拐ってのが本当なら、すぐに元の場所へ帰してあげるよ。
 [Kouji]: ...I don't quite get what you're talking about, butif this kidnapping business is serious, I'll return you to  your original place immediately.
 //［宏治］：どうもオレは、ここではリーダーらしいし、決定権はオレにあるみたいだからね。
@@ -982,9 +982,9 @@ fa02_m
 //［ファル］：ほ、本当？
 [Far]: R-Really?
 //［宏治］：監禁はやめる。このシップ‥‥の中では、行動の自由も保証する。こんな感じでいいかな？
-[Kouji]: I'll stop confining you here. ...In fact, I'll　　　guarantee your freedom to do as you please within this shiptoo. Are you OK with that?
+[Kouji]: I'll stop confining you here.... In fact, I'll　　　guarantee your freedom to do as you please within this ship too. Are you OK with that?
 //［ファル］：‥‥表情が澄んだグリーンだわ。嘘は吐いてないようね。
-[Far]: ...Your expression is a tranquil green color. You arenot telling a lie, are you?
+[Far]: ... Your expression is a tranquil green color. You　 aren't lying, are you?
 //［宏治］：何だよグリーンって。ま、嘘を吐くつもりはないよ。
 [Kouji]: What's that "green" supposed to mean? Well, I'm notlying to you.
 //［ファル］：‥‥じゃあ、どういうつもり？
@@ -1048,7 +1048,7 @@ fa02_m
 //［ファル］：フン、エッチ。
 [Far]: Hmph, pervert.
 //［宏治］：ちぇっ‥‥とにかく、向こうで着替えて来いよ。色々聞きたいこともあるし。
-[Kouji]: Tch... in any case, come change clothes. I have a  few things to ask you about.
+[Kouji]: Tch... in any case, get dressed. I have a few　　　things to ask you about.
 //［ファル］：フン‥‥。
 [Far]: Hmm...
 //［宏治］：凶暴なんだか、普通の女の子なんだか、よくわからないなぁ。
@@ -1070,7 +1070,7 @@ fa02_m
 //［宏治］：Ｇ２型って言われても‥‥どのくらいの大きさなんだい？
 [Kouji]: Even if you tell me it's a type G2...how big is it?
 //［トレイシー］：概算で、本《クワドラ》の、約７倍強というところです。
-[Tracy]: Roughly speaking, it's about 7 times the size of　　this Kuwadora ship.
+[Tracy]: Roughly speaking, it's about 7 times the size of　　our Quadra.
 //［宏治］：ずいぶん大きなやつだなぁ。旅客機か何かなんじゃないの？
 [Kouji]: It's quite large, then, isn't it? Is it some kind  of passenger ship?
 //［トレイシー］：いえ、この宙域は旅客路線から大きく外れています。

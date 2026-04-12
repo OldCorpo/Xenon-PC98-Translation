@@ -17,7 +17,7 @@ s0303a
 //［宏治］：い、いやなんというか、記憶が混乱していて‥‥いや記憶は混乱してないんだけど、状況に混乱していてね。
 [Kouji]: Th-that's putting it too harshly, my memories have been muddled up...well, not my memories, more like the　　　entire situation.
 //［ランファ］：よくわからないですけど、ランファが誰かってことですね？
-[Lanhua]: I don't understand what you mean, but do you mean who is Lanhua?
+[Lanhua]: I don't understand what you mean, but do you mean who am I?
 //［宏治］：そ、そう。（さっきから、そう言ってるんだけど‥‥。）
 [Kouji]: Yes, that's it. (I said that just earlier...)
 //［ランファ］：私はぁ‥‥。
@@ -31,13 +31,13 @@ s0303a
 //［宏治］：あ、あのね‥‥場所だよ、もっと大きな意味での場所。
 [Kouji]: Uh, um...I didn't mean this exact location, I meantthis overall place.
 //［ランファ］：ここは、《クワドラ》です。
-[Lanhua]: This is the "Kuwadora".
+[Lanhua]: This is the Quadra.
 //［宏治］：くわ‥‥えっ？
-[Kouji]: Kuwa...Huh?
+[Kouji]: Kuaw...Huh?
 //［ランファ］：ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[Lanhua]: It's the fruit of Lanhua and Kouji-sama's love.
+[Lanhua]: It's the fruit of our mutual love, Kouji-sama.
 //［ランファ］：ですから、ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[Lanhua]: Well, it's the fruit of Lanhua and Kouji-sama's　　love.
+[Lanhua]: Well, it's the fruit of our mutual love,　　　　　Kouji-sama.
 //［宏治］：あっそう。
 [Kouji]: Ah, is that so?
 //［ランファ］：はい！
@@ -93,7 +93,7 @@ s0303a
 //［宏治］：なんだよ、それは。真面目に言ってよ。
 [Kouji]: What's with that response? Give it to me straight.
 //［ランファ］：ホントですぅ。でも最近は、ジェネレータの計測をやってたみたいですけど‥‥後はよく知りません。
-[Lanhua]: It's the truth. But more recently, she seemed to  be making measurements about the generator... I don't know  what she did afterwards, though.
+[Lanhua]: It's the truth. But more recently, she seemed to  be taking measurements of the generator... I don't know whatshe did afterwards, though.
 //［ランファ］：だってぇ、コウジ様はコウジ様じゃないですか。
 [Lanhua]: Like I said, Kouji-sama isn't Kouji-sama.
 //［宏治］：オレは君らのことを、残念ながら知らない‥‥。
@@ -107,13 +107,13 @@ s0303a
 //［宏治］：も、もぐり‥‥うーむ。
 [Kouji]: A stranger....hmmm.
 //［ランファ］：《クワドラ》ですか？
-[Lanhua]: The "Kuwadora"?
+[Lanhua]: The Quadra?
 //［宏治］：そう。聞かない名前だけど‥‥。
 [Kouji]: Yes. I've heard the name before, but...
 //［宏治］：じゃなくて、ど忘れってやつかな、うん。
 [Kouji]: No, it's more like I've forgotten it, yeah.
 //［ランファ］：《クワドラ》は、コウジ様とランファの、愛の結晶なんですっ。
-[Lanhua]: The "Kuwadora" is the fruit of Kouji-sama's and　　Lanhua's love.
+[Lanhua]: The Quadra is the fruit of our love, Kouji-sama.
 //［宏治］：あ、愛の結晶‥‥？
 [Kouji]: T-the fruit of our love?
 //［ランファ］：そうです！
@@ -125,7 +125,7 @@ s0303a
 //［宏治］：う、うん。
 [Kouji]: O-OK.
 //［ランファ］：《クワドラ》はカルバドル級軽機動シップを大幅にチューンナップされた、高速機動シップなのれーす！
-[Lanhua]: The "Kuwadora" is a Calvador-class light mobile　　ship that's been tuned up a lot, and now it's a high-speed mobile ship!
+[Lanhua]: The Quadra is a Calvador-class light mobile ship  that's been tuned up a lot, and now it's a high-speed mobileship!
 //［ランファ］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
 [Lanhua]: It's 52 meters long, the engine runs on ethereal  photon energy, and the craft is fitted with hyperdrive　　　capabilities...
 //［ランファ］：火器は、な、なんとイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など、一発よっ！
@@ -139,7 +139,7 @@ s0303a
 //［ランファ］：はい。なんでしょうか？
 [Lanhua]: Yes, what is it?
 //［ランファ］：そうですね！　《クワドラ》は冗談って思わないと、他の海賊さんたちは、やってられないと思います。
-[Lanhua]: Of course! But the other pirates don't think of　　the "Kuwadora" as some joke.
+[Lanhua]: Of course! But the other pirates don't think of　　the Quadra as some joke.
 //［ランファ］：あたりきしゃりきの‥‥。
 [Lanhua]: That's exactly it....
 //［宏治］：‥‥もういい。
@@ -249,11 +249,11 @@ s0303a
 //［トレイシー］：少々取り乱しておいでで、大変です。
 [Tracy]: She's become a little out of control, so I'm havingtrouble with her.
 //［ランファ］：暴れてるってこと？　麻酔薬でもうっちゃいなさいよ、お尻にプスって。
-[Lanhua]: Is she acting violently? Just inject some　　　　　tranquilizer into her butt.
+[Lanhua]: Is she acting violently? Just inject a　　　　　　tranquilizer into her butt.
 //［トレイシー］：動物じゃないんですから、そんなことはできません。ランファ、あなた行ってちょうだい。
-[Tracy]: She's not some animal, so I can't do that. Lanhua, please go to her.
+[Tracy]: I can't do that, she's not an animal! Lanhua, couldyou go?
 //［ランファ］：な、何よそれぇ‥‥看護はトレイシーの役目じゃない。
-[Lanhua]: Why meee...isn't nursing *your* duty, Tracy?
+[Lanhua]: Why meee... isn't nursing *your* duty, Tracy?
 //［トレイシー］：私はジェネレータ計測結果のまとめに忙しいのです。
 [Tracy]: I'm busy taking measurements of the generator.
 //［ランファ］：プリプリよぉ、コウジ様ぁ‥‥。

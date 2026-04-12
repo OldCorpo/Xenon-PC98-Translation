@@ -109,7 +109,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：なんにしても、任せて頂戴。大丈夫だから。
 [Ryouko]: Whatever you want to talk about, just lay it on meIt'll be fine, after all.
 //［宏治］：そう言ってこのあいだなんか、雷が人間の精神に与える作用とかいって、僕を避雷針に縛り付けて‥‥。
-[Kouji]: While we were just talking, if I can compare a　　　human's spirit to lightning, then I'm being fastened to a　 lightning rod...
+[Kouji]: While we were just talking, if I can compare a　　　human's spirit to lightning, then I'm being fastened to a　  lightning rod...
 //［涼子］：でも、無事だったじゃない。
 [Ryouko]: But, you're fine, aren't you?
 //［宏治］：それはオレが、何とか縄をほどいて逃げたからだ！　はぁ、はぁ‥‥。
@@ -131,7 +131,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：それ以外に聞こえましたか？
 [Kouji]: Is there anyone else who would have heard it?
 //［涼子］：あなたね、仮にも元担当医に対する態度じゃないわよ。
-[Ryouko]: You really shouldn't be so aggressive, even　　　　temporarily, to your attending physician.
+[Ryouko]: You really shouldn't be so aggressive, even　　　　in passing, to your attending physician.
 //［宏治］：ええ、ここに入院したおかげで、あやうく死にそうになりましたからね。
 [Kouji]: Yes, because I entered this facility, I almost died
 //［涼子］：大げさねぇ、ちょっと実験体になってもらった程度じゃない。
@@ -199,7 +199,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：おーっほっほっほ！
 [Ryouko]: O-hohoho!
 //［宏治］：涼子先生、さっきとキャラクタが違うぜ。
-[Kouji]: Ryouko-sensei, you're acting very different from　　before.
+[Kouji]: Ryouko-sensei, you're acting very differently from before.
 //［涼子］：ごめんねぇ、身動きできないように、椅子に縛らせてもらったわ。
 [Ryouko]: Sorry, I tied you to a chair so you couldn't move your body.
 //［宏治］：こんな妙なヘルメットを被せて‥‥お、オレをどうするつもりだ。
@@ -209,15 +209,15 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：似たようなもんだろ！
 [Kouji]: You're acting exactly like one!
 //［涼子］：ゴメンねぇ、気さくに頼めるのって、宏治クンくらいしかいないんだもの。
-[Ryouko]: Sorry, it seems like relying on someone so amiablyisn't very like Kouji-kun, is it?
+[Ryouko]: Sorry, but you're pretty much the only one I can　 casually ask this kind of favor, Kouji-kun.
 //［宏治］：これが人にモノを頼むやり方か！？
-[Kouji]: Is this the way you treat people who rely on you?!
+[Kouji]: Is this really how you ask someone for a favor!?
 //［涼子］：大丈夫よ、舞も喜んで承諾してくれたわ。
-[Ryouko]: It's OK. Mai also happily accepted, after all.
+[Ryouko]: It's fine, even Mai was happy to agree.
 //［宏治］：ま、舞‥‥さん？
 [Kouji]: M-Mai...san?
 //［涼子］：ほら、あなたのすぐ斜め前にいるわ。
-[Ryouko]: There, she's diagonally across from you.
+[Ryouko]: Look, she's right there, diagonally ahead of you.
 //［涼子］：ね？　だから大丈夫よ。
 [Ryouko]: See? It'll be fine.
 //［宏治］：舞さん‥‥舞さん！
@@ -369,7 +369,7 @@ s0301a
 //［トレイシー］：あっ、そういえば‥‥。
 [Tracy]: Ah-, now that you mention it...
 //［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
-[Lanhua]: Huhum-, Kouji-sama will be mad if you don't　　　 finish.
+[Lanhua]: Huhum-, Kouji-sama will be mad if you don't　　　  finish.
 //［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
 [Tracy]: Ahhhh, wh-what should I do....
 //［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。

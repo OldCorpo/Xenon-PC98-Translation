@@ -33,11 +33,11 @@ At present, I had a few stages of my operation mapped out.  Namely, the operatio
 //オレの考えた計画はこうだ。
 This was how I'd thought it out.
 //わざと、この高機動シップ《クワドラ》を、ビアンカの悪趣味な戦艦に捉えさせる。
-First, I'll deliberately let Bianca's ruddy battle ship　　 capture this high-class mobile ship "Kuwadora".
+First, I'll deliberately let Bianca's ruddy warship take　　this high-speed ship, the Quadra, into its grasp.
 //コウジは賢しい、という話だ。そして中を検分したときに１人しか発見できなければ、当然《クワドラ》をオトリにしたと考えるだろう。
-They do say Kouji is clever. Then, if an overall inspection finds that no one is there, I think Bianca will definitely  take the "Kuwadora".
+They do say Kouji is clever. Then, if an overall inspection finds that no one is there, I think Bianca will definitely  take the Quadra.
 //奴等が船外を模索している間に、《クワドラ》内部に隠れていた俺たちは、速やかにその場を脱出、敵船内に進入する。
-We'll be hiding inside the "Kuwadora", and, as they're　　　scanning the outside of the ship, we'll make a speedy escapeentering the enemy ship.
+We'll be hiding inside the Quadra, and, as they're scanning the outside of the ship, we'll make a speedy escape enteringthe enemy ship.
 //そして潜入した後は‥‥‥‥。
 And once we've infiltrated the ship...
 //高度な柔軟性を維持しつつ、臨機応変に対処する。これしかない！
@@ -55,7 +55,7 @@ Rumble, rumble, rumble!!
 //［宏治］：な、何だ‥‥。
 [Kouji]: W-what was that...?
 //［トレイシー］：牽引ビームに、《クワドラ》が捉えられたのですわ。
-[Tracy]: A tractor beam seems to have latched onto the　　　"Kuwadora".
+[Tracy]: A tractor beam seems to have latched onto the　　　Quadra.
 //［宏治］：荒っぽいなぁ。
 [Kouji]: That was pretty rough, wasn't it?
 //［トレイシー］：ビアンカさんの、性格でしょうか。
@@ -65,7 +65,7 @@ Tracy let slip a sly smile.
 //そうなのだ、この計画ではランファをオトリとして、オレとトレイシーが潜入工作という重責を担うことになった。
 That's right, the plan was to have Lanhua be captured, and  to have Tracy and me do the dirty work of slipping on board.
 //いつまでも、ここでこうしている訳にはいかない。ビアンカが《クワドラ》を調べ終わった後、オレたちは彼女のシップへ潜入し、ファルを助け出さなければならないのだ。
-We didn't plan to stay here forever. Once Bianca's scan of  the "Kuwadora" was done, we had to sneak aboard her ship andrescue Far.
+We didn't plan to stay here forever. Once Bianca's scan of  the Quadra was done, we had to sneak aboard her ship and　　rescue Far.
 //［宏治］：さぁ、これからだな。
 [Kouji]: Well, here we go.
 //［トレイシー］：はい。きっと、成功すると思いますわ。
@@ -603,7 +603,7 @@ bi04_m
 //［ファル］：い、イヤらしくなんて、ないわ‥‥。
 [Far]: Th-they're not lewd...
 //［ビアンカ］：こんなに、乳首を押っ立ててるのにかい？
-[Bianca]: Even when your nipples stand out like two thimbles?
+[Bianca]: Even when your nipples stand out like two　　　　 thimbles?
 //［ファル］：う、ウソよ‥‥ウソよ‥‥。
 [Far]: N-no, they're not...
 //［ビアンカ］：ここがこんなに濡れているのに‥‥。
