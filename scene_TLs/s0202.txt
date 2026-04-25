@@ -43,7 +43,7 @@ But, what's with this puny body. Is it my body...?
 //やけに、動きにくい。
 It's really hard to move.
 //いや、私の意識自体に問題があるのか‥‥。
-No, it might be problem with my consciousness itself...
+No, it might be a problem with my consciousness itself...
 //‥‥さま‥‥。
 ...sama...
 //ん‥‥？
@@ -119,7 +119,7 @@ Haven't I felt this before...? Somehow, my memory is fuzzy  ...
 //ここは、《クワドラ》ではないようだが‥‥。
 This isn't the Quadra, but...
 //　◆ とりあえず、この狭苦しい病室を出るとしよう。
-◆ First, I should get out of this tiny, miserable sick ward.
+◆ I should get out of this tiny, miserable sick ward.
 //　◆ 室内フォンを利用して、誰かを呼び出せないだろうか‥‥
 ◆ I should use the landline and call someone...
 //とりあえず、この狭苦しい病室を出るとしよう。
@@ -223,11 +223,11 @@ After correctly analyzing the situation, I felt much better.With a spring in my 
 //［女］：なによ、その魚の腐ったような目は。オドオドしちゃって、まるでリスか何かね‥‥フンッ。
 [Woman]: What is with those eyes like a dead fish, and that nervous behavior? It's like you're a squirrel...Hm.
 //その女は言いたいことだけ言うと、さっさときびすを返して立ち去ってしまった。
-After saying only her piece, that woman quickly turned on　 her heels and walked away.
+After only saying her piece, that woman quickly turned on　 her heels and walked away.
 //［コウジ］：フン、まぁいい。
 [Kouji]: Hmph, well, it's fine.
 //［コウジ］：さて、これから現状の把握をせねばならんな‥‥。
-[Kouji]: Now then, I have to get a good grasp on this　　　 current situation...
+[Kouji]: Now then, I have to get a good grasp on the　　　  current situation...
 //　◆ とりあえず上に昇ってみよう。
 ◆ Anyway, I'm going up.
 //　◆ 自室に戻った方が、よさそうだな‥‥。
@@ -319,7 +319,7 @@ What an exceedingly rude woman. Now she's treating *me* likesome weirdo.
 //私は、このぶしつけな女を無視することにした。どうやら、私の事をからかっているようだ。
 I ignored this impolite woman. She seemed to be somehow　　 mocking me.
 //［舞］：私、お姉さんに言ってきます。宏治サン、病室でお休みになっていて下さい。お願いです。
-[Mai]: My elder sister told me to pass this along. Kouji-san, rest in the sick room, please.
+[Mai]: My elder sister told me to pass this along. Kouji-sanrest in the sick room, please.
 //［コウジ］：フン、開発途上惑星の原住民は、礼儀を知らんらしいな。
 [Kouji]: Hmph, the natives of this developing star don't　　have any manners, do they?
 //自室に戻った方が、よさそうだな‥‥。
@@ -337,7 +337,7 @@ I shouldn't return to some other room to cool off. My pride won't allow such a p
 //部屋へ入ると、冷風が傍らを通り過ぎる。心地よい感覚を少しだけ味わった。
 I entered the room, and the cool wind flowed over my body. Itasted just a bit of relief.
 //部屋へ戻ってくると、妙なことに気付いた。部屋を出たときと、間取りが違うような気がする。
-As I returned to my room, I noticed something odd. As I　　 exited the room, I realized the floor layout was different.
+As I entered to my room, I noticed something odd. As I　　  exited the room, I realized the floor layout was different.
 //いや、間取り以前に、根本的に部屋が違う。答えは単純だ。部屋を間違えたのだろう。
 No, putting aside the floor layout, the room was　　　　　　fundamentally different. The answer was simple: I had　　　 entered the wrong room.
 //ここはどうやら、私があの涼子とかいう女と対面した場所だった。

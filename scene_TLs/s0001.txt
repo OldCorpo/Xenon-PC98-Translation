@@ -114,7 +114,7 @@ I have no idea...
 //なぜ私は、ここに居なくてはならないんだろうか‥‥？
 Why do I have to be here in the first place?
 //ここはどうやら、ベッドの上だ。しかも病室らしい‥‥。
-It seems like I am on a bed, inside a hospital room.
+It seems like I am in a bed, inside a hospital room.
 //ここにいるということは、私は何か病気か、あるいは怪我でもしたのだろうか‥‥。
 Maybe I'm here because I fell sick, or I got injured somehow
 //あたりはシンと静まっている‥‥。
