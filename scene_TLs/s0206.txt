@@ -5,7 +5,7 @@ s0206
 //　◆ ここでじっとしている方が、いいだろう‥‥。
 ◆ Perhaps I'll stay right here...
 //　◆ ウルトラスーパーマグナム・キックの練習をしよう。
-◆ I'll practice my Ultra Super Magnum Kick.
+◆ I'll practice my Super Ultra Magnum Kick.
 //フン、そうだな。コンピュータ・ルームへ行ってみよう。
 Hmm, I guess I'll go check the computer room.
 //確か、キーは、あの沙夜香が持っていたはずだが‥‥。
@@ -67,11 +67,11 @@ As I looked up at the ceiling, I started considering things ...
 //何ともぶしつけな女だったが、コンピュータ・ルームには行きたい用事があった。
 This woman was being quite rude, but I *did* have a reason  to go to the computer room.
 //ウルトラスーパーマグナム・キックの練習をしよう。
-I'll practice my Ultra Super Magnum Kick.
+I'll practice my Super Ultra Magnum Kick.
 //うむ、この脆弱な肉体において、このワザをマスターすることは決して無為とはいえまい。
 Indeed, in this puny physical body, mastering such a　　　　technique is still better than doing nothing.
 //［コウジ］：ゆくぞ、ウルトラスーパー・マグナム‥‥。
-[Kouji]: Here I go, Ultra Super Magnum...
+[Kouji]: Here I go, Super Ultra Magnum...
 //［コウジ］：キィィィックゥゥッ！！
 [Kouji]: KIIIIIICK!!
 //ゴーーーーーン！！！

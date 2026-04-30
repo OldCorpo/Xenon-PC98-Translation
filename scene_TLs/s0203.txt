@@ -3,7 +3,7 @@ s0203
 //妙な夢だった‥‥。
 What a strange dream....
 //私が、《クワドラ》で、貧弱な精神を持ちながら、シップ内をさまようのだ。
-On the Quadra, I floated through the ship's interior　　　cradling a weak spirit.
+On the Quadra, I floated through the ship's interior　　　　cradling a weak spirit.
 //ファルネリアか‥‥‥‥彼女が、なぜここに‥‥？
 Farnelia...why is she here...?
 //［男］：これから、どうするんだい？
@@ -17,21 +17,21 @@ Farnelia...why is she here...?
 //［男］：ああ、オーケーだ。
 [Man]: OK.
 //何だと、彼女がいなければ、ジェネレータは機能しないではないか。極めて合理的であるはずの私が、一体何を言っている。
-What is this? If she hadn't said that, the generator　　　　shouldn't run. What am I, an extremely reasonable being,　　saying here?
+What!? What on earth am I saying? Without her, the generatorwon't even function. Supposedly, I needed to be cold and　　emotionless about this.
 //［ファル］：でもコウジ、エンコーダは、どうするの‥‥？
 [Far]: But Kouji, what will you do about the encoder...?
 //［男］：‥‥残念だけど、あいつは返せない。
-[Man]: ...It's a shame, but I can't return it.
+[Man]: ... It's a shame, but I can't give it back.
 //その通りだ。さすが私だ。
-That's right. That's just what I'd do.
+That's... Just what you'd expect from me, right ...
 //［男］：そんな恐そうな顔をするなよ。別にあれを悪用するつもりはないぜ。
-[Man]: Don't make such a fearful expression. I'm not　　　　planning to do anything malicious with it.
+[Man]: Don't be afraid. I'm not planning on misusing it or  anything.
 //何だと。
-What.
+What?
 //［ファル］：どういうことなの？
 [Far]: What are you talking about?
 //［男］：さっきも言ったろう？　そのエンコーダとやらを利用してやるってヨコシマな輩は、いくらでも出てきそうなもんだって。
-[Man]: Didn't I say it earlier? The Yokoshima fellow who　　uses the encoder and such will pay any amount necessary.
+[Man]: Didn't I told you before? There'd be plenty of shady types who will try to take advantage of the encoder.
 //［ファル］：じゃあ、あれを‥‥。
 [Far]: Then, that's...
 //［男］：うん、とりあえず君には悪いけど、破棄させてもらう。あんなの、百害あって一利無しだ。
@@ -39,7 +39,7 @@ What.
 //これは夢だ、夢に違いない。私が、このような非合理的な事をする訳がないではないか。
 This has to be a dream; there's no way it isn't. I can't　　actually intend to do something so irrational, can I?
 //うむ、だとすれば極めて合理的かつ論理的だ。しかし、夢の中の自分とはいえ‥‥。
-Hm, if I were there, I'd be exceedingly rational and logical. However, the "me" within the dream is...
+Hm, if I were there, I'd be exceedingly rational and logicalHowever, the "me" within the dream is...
 //［コウジ］：何たる無様な醜態だ。
 [Kouji]: What the devil are you doing?
 //［男］：えっ？　何か言った？
@@ -55,11 +55,11 @@ With that in mind, I fell into deep sleep once more....
 //この部屋には、いつもカーテンが閉まっていて、時間の感覚が捉えにくい。
 This room always has the curtains closed, so it's hard to　 tell the time. 
 //しかし人間の体内には、生物時計とも言うべきものが存在する。私のそれは極めて正確に、現在の時間を言い当てる事ができるのだ。
-However, human bodies have something called a circadian　　 rhythm. Mine is so exceedingly accurate, I can tell the　　 current time.
+However, human bodies have something called a circadian　　 rhythm. Mine is so exceedingly accurate, I can tell time　　by it.
 //［コウジ］：フン、だいたい午前２時というところか‥‥。
-[Kouji]: Hum, now should be about 2 o'clock AM...
+[Kouji]: Hum, now should be about 2 in the morning...
 //ベッドの脇の時計は、やはり２時を指していた。さすが、私だ。
-The bedside clock indeed read 2 o'clock. That's just how　　good I am.
+The bedside clock indeed read 2AM, that's just how good I am
 //いくぶん、非合理的な考察を行った気がするが、気にしないでおく。これから私には、やることがあった。
 For a few minutes, I had the irrational urge to consider　　carefully, but I didn't worry about it. I had things to do　now.
 //それは‥‥‥‥‥‥。
@@ -109,39 +109,39 @@ Somehow, this kind of reasonable, rational plan is fitting  for a galactic pirat
 //私は近くにある情報誌を片手に、案の定硬いソファの上にゴロリと横になった。
 I grabbed the nearby information magazine in one hand, and  lazily slumped down on the expectedly hard sofa.
 //［コウジ］：どこもかしこも、低俗に相応しい出来だ。意外に文明レベルは低くはないようだな。
-[Kouji]: Every place is fitting for vulgarity. But, the　　 culture is, surprisingly, not at a low level.
+[Kouji]: This place is fittingly commoner. Surprisingly,　　their technological development isn't as limited as I　　　 expected.
 //速読を利用し、ものの５秒ほどで読破した私は、満悦にうなずいた。
 After finishing the magazine in 5 seconds by speed reading, I nodded, fully satisfied.
 //文明レベルの高低は、低俗度の高低に比例する。レベルが上がれば、内容が洗練されるという訳ではない。
-The level of culture is proportional to the ratio of vulgar material. Even if the level is raised, the material　　　　 shouldn't get more sophisticated.
+Their development level is proportional to the quantity of  unrefined material available. Even if the level rises,　　　doesn't mean that the content becomes more refined.
 //低俗な風俗紙こそが、庶民どもの生きる糧なのだ。これが多く氾濫しているときは、庶民どもの管理が行き届いているということだ。
-This vulgar custom paper is the bread of the masses. When　 this floods the market, the masses become more well-managed.
+This lowbrow tabloids are the bread of the masses. When　　 those flood the market, it means the masses are being　　　 properly kept under control.
 //逆ではない。庶民が低レベルな風俗に接することができるのは、そう管理されているからだ。
-This doesn't work the other way around. The masses that can engage in low-level customs are that way *because* they are managed.
+It doesn't work the other way around. The masses that can　 engage in low-level customs are that way *because* they are managed.
 //ささやかな生きる喜びを与え、つまらない仕事に目的を見いださせ、低賃金で労働力を酷使する。
 To allow such modest pleasures of living, they look for　　 boring jobs, and overwork for low pay.
 //文明レベルが高ければ高いほど、人権などという反吐がでそうな思想を利用して、厳然と存在する階級社会を、巧みに隠蔽するのだ。
-If the culture's level rises high enough, some people will  think of spewing thoughts about human rights, but in the　　existing strict hierarchical society, they would have to　　hide it cleverly.
+And if the development's level rises high enough, some　　　people will think of spewing thoughts about human rights,　 but in the existing strict hierarchical society, they would have to hide it cleverly.
 //［コウジ］：フン、シビリアン・コントロールの初歩の初歩だな。
-[Kouji]: Hum, this is the first step *of* the first step of Siberian Control.
+[Kouji]: Heh, that's Civillian Control 101.
 //意外に、支配しやすそうな社会だった。恐らく、強力な指導者が現れたとたん、シッポを振って迎合するに違いない。
-This society seems unusually easy to dominate. If a strong  leader appears, they will definitely be accepted and　　　　followed.
+This society seems extremely easy to control. The moment a  strong leader appeared, they'd fawn over them without　　　 question.
 //その指導者が、私である可能性も、十分にあり得るではないか。
-That leader could definitely be me, couldn't it?
+That leader could definitely be me, couldn't it be?
 //［コウジ］：フフン、まぁいい‥‥。
-[Kouji]: Hehe, good...
+[Kouji]: Hehe, nice...
 //ふと、紙面の右上を見る。宇宙歴ではないな‥‥‥‥西暦？
 I suddenly looked at the top right corner of the paper. Not the Universal Calendar but...the Gregorian Calendar?
 //西暦というと、ずいぶん前に廃止された年号だ。
 The Gregorian Calendar fell out of use quite a while ago.
 //［コウジ］：どうやら、思っていた通りだな‥‥かなり、太古の地球という訳か。
-[Kouji]: Somehow, it's as I thought...then, this should be  the Earth of antiquity.
+[Kouji]: So that's what this is... the Earth from a very　　ancient time.
 //意外な収穫があるものだ。収穫はあったが、無論ここにいることは、私の本来の目的から外れている。
 What an unexpected boon. This newfound knowledge defeats my original motivation for being here.
 //私にはやることがあるのだ。それは‥‥‥‥。
-I have things to do. That is...
+There's something I need to do. And...
 //ここで寝ることだ。
-Let's go to sleep.
+This is where I will sleep.
 //‥‥‥‥‥。
 ......
 //私らしからぬ、非論理的なことを考えてしまった。何のために起きたのか、これではわからないではないか。
@@ -173,11 +173,11 @@ I put the newspaper back in its original place, and　　　　 continued walkin
 //［コウジ］：ここか‥‥。
 [Kouji]: Here it is...
 //目の前には重厚なドアがそびえ立っている。いかにも、何かありますと言わんばかりだ。
-A heavy, thick door towered before me. I'm just saying,　　 there's got to be something in there.
+A heavy, thick door towered before me. There's got to be　　something in there.
 //［コウジ］：（フン、こんなドアは、大宇宙海賊のウルトラスーパーマグナム・キックの前には、紙クズ同然だ。）
-[Kouji]: (Hum, to the galactic pirate's Ultra Super Magnum  Kick, this door is like a piece of crumpled paper.)
+[Kouji]: (Hum, to the galactic pirate's Super Ultra Magnum  Kick, this door is like a piece of crumpled paper.)
 //私が履いている脆弱な靴の底が、このぶしつけなドアをノックしかけた途端、ゴッという風の音と共に扉は左右に開かれた。
-I used the soles of the weak shoes I was wearing to knock onthis stubborn door, and, with a sound of a gust of wind, thedoor opened to the sides.
+I used the soles of the weak shoes I was wearing to knock onthis stubborn door, and, with a sound of a gust of wind, thedoor gave way.
 //ウィーーン‥‥‥‥。
 *creeeeak*
 //［コウジ］：むっ、くっ、なにを！
@@ -199,9 +199,9 @@ I want to perform all kinds of analyses on this apparatus.
 //　◆ ソケットをあけて‥‥‥。
 ◆ I should open up the socket...
 //　◆ ウルトラスーパーマグナム・キックをお見舞いしてやろう。
-◆ I'll use my Ultra Super Magnum Kick on it.
+◆ I'll use my Super Ultra Magnum Kick on it.
 //まずコンソールパネルを利用して、このマシンの概要を調べてみようか。
-First, I should use the control panel to learn an overview  of this machine.
+First, I should use the control panel to gain an overview ofthis machine.
 //カタカタカタ‥‥‥‥。
 *clatter clatter*
 //［コウジ］：フン、見よ、この卓越したキーボードさばきを！
@@ -221,7 +221,7 @@ First, I should use the control panel to learn an overview  of this machine.
 //［コウジ］：やはりそうか‥‥フン、この時代には出来すぎたシロモノだ。
 [Kouji]: So that's how it is...Hum, this machine is really  far ahead of its time.
 //［コウジ］：だいたいの構造は理解した。
-[Kouji]: I think I got the gist of the construction.
+[Kouji]: I think I got the gist of its construction.
 //ソケットを開けて、直接中を見てみよう。
 I should open up the socket and look directly inside.
 //カパッ。
@@ -239,19 +239,19 @@ I should open up the socket and look directly inside.
 //［コウジ］：フム、何故かわくわくしてしまうな。あの女は、どうやらイジメ甲斐がありそうだ。
 [Kouji]: Hum, why am I getting so excited? That woman seems to be worth teasing.
 //ウルトラスーパーマグナム・キックをお見舞いしてやろう。
-I'll use my Ultra Super Magnum Kick on it.
+I'll use my Super Ultra Magnum Kick on it.
 //［コウジ］：ゆくぞ、ウルトラスーパーマグナム‥‥キィィックゥ！！
-[Kouji]: Here we go, ULTRA SUPER MAGNUM... KIIIIICK!!
+[Kouji]: Here we go, SUPER ULTRA MAGNUM... KIIIIICK!!
 //ゴーーーン‥‥‥‥。
-Gooooo...
+*CLANG*
 //［コウジ］：スネから血が出てしまったではないか‥‥おっ。
-[Kouji]: My Shin isn't bleeding, or is it... Damn.
+[Kouji]: My lower leg isn't bleeding, or is it... damn.
 //［コウジ］：なぜ、目から涙がにじみでているのだ‥‥？
 [Kouji]: Why are tears coming out of my eyes...?
 //［コウジ］：フム、この脆弱な肉体では、恐らくマグナムキックの１００分の１ほどの威力も出まい。
 [Kouji]: Hmph, this puny body is probably only capable of　 putting out 1% of the Magnum Kick's power.
 //［コウジ］：フン、このくらいで勘弁しておいてやろう。
-[Kouji]: Hum, I should probably apologize about this.
+[Kouji]: *gasp* I should learn to take it easy.
 //マシンから顔を上げると、私は近くの椅子に座り、一息吐く。
 I lifted my head out of the machine, sat down in a nearby　 chair, and let out a sigh.
 //どうやら伝送系ルーチンに、バグが残っているらしい。そこのアルゴリズムを正せば‥‥。
@@ -263,7 +263,7 @@ No, actually, just from accessing through here, where　　　 there's some incr
 //両装置が、どう位相上、しかも時間軸上での座標上で同時に、装置を作動させる必要がある。
 To make two apparatuses in phase and on the same coordinate in the time axis, they need to be activated at the same time
 //しかし、そんな確率は限りなくゼロに近い‥‥。
-However, the probability of that success is nearly 0...
+However, the probability of that success is nearly zero...
 //いや、その確率にあたったからこそ、私が今ここにいる訳だ。
 No, it's *because* we hit that activation that I'm even here
 //こちらから強制的に意識を投影しても、恐らく思念体の強制排他がおきるだけだ。恐らく数秒しかシンクロできまい。
@@ -315,11 +315,11 @@ As I stood up...
 //　◆ では、このマシンの基本コンセプトを言ってみろ。
 ◆ Then, explain the basic principles of this machine.
 //　◆ では、貴様のスリーサイズを言ってみろ。
-◆ Then, tell me your three sizes.
+◆ Then, tell me your three measurements.
 //　◆ では、さようなら。
 ◆ Then, farewell.
 //［コウジ］：では、このマシンの基本コンセプトを言ってみろ。
-Then, tell me about the fundamental concepts behind this　　machine.
+[Kouji]: Then, tell me about the fundamental concepts behindthis machine.
 //［沙夜香］：な、なんですって？
 [Sayaka]: W-what did you say?
 //［コウジ］：このマシンの、基本コンセプトだ。
@@ -369,7 +369,7 @@ Then, tell me about the fundamental concepts behind this　　machine.
 //［涼子］：ホホホ、ごめんなさいね、沙夜香さん。それじゃ‥‥。
 [Ryouko]: Hohoho, sorry about that, Sayaka-san. Well, then  ...
 //［コウジ］：では、貴様のスリーサイズを言ってみろ。
-[Kouji]: Then, tell me your three sizes.
+[Kouji]: Then, tell me your three measurements.
 //［沙夜香］：はぁ？
 [Sayaka]: Huh?
 //［コウジ］：言えないらしいな。
@@ -381,7 +381,7 @@ Then, tell me about the fundamental concepts behind this　　machine.
 //［沙夜香］：なっ‥‥！？
 [Sayaka]: How-?!
 //［コウジ］：フン、図星らしいな。
-[Kouji]: Ha, bull's-eye.
+[Kouji]: Haha, bull's-eye.
 //バキッ！！
 *Crack!!*
 //［沙夜香］：私はね、ウエストが６０をオーバーしたことがないのよ。
@@ -395,9 +395,9 @@ Then, tell me about the fundamental concepts behind this　　machine.
 //［コウジ］：では、さようなら。
 [Kouji]: Then, farewell.
 //［コウジ］：では、さようなら、と言ったのだ。聞こえなかったのか、このバカ者が。
-[Kouji]: "Well then, farewell," I said. Did you hear that,  you idiot?
+[Kouji]: "Then, farewell." I said. Didn't you hear me,  you idiot?
 //［沙夜香］：気を付けた方がいいわよ、私はね、バカにされるのが大嫌いなの。
-[Sayaka]: Oh, you noticed, I really hate being made an idiot
+[Sayaka]: Watch your words. I really can't stand being　　　looked down on.
 //［コウジ］：フン、少し口が滑っただけだ。私が言いたいのはだな‥‥‥‥。
 [Kouji]: Hum, it was only a slip of the tongue. What I　　　wanted to say was...
 //［コウジ］：どういうつもりだ、ここは私の部屋ではないか。
