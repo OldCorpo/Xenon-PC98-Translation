@@ -103,7 +103,7 @@ That proposal was...
 //［コウジ］：私は手続きを重要視するのでな。
 [Kouji]: I see handwriting as quite important.
 //［涼子］：フフ、いいわよ。ほら、ここにノートがあるわ。じゃあ早速‥‥○月×日、晴れと。今日はとっても良い事がありました。何と、あの宏治クンと‥‥。
-[Ryouko]: Hehe, it's fine. See, it's this notebook. Now, in short...○ Month × Day, it was sunny. Today, a very good　　 thing happened. Somehow, I had sex with Kouji-kun...
+[Ryouko]: Hehe, it's fine. See, it's this notebook. Now, in short...○ Month × Day, it was sunny. Today, a very good　　thing happened. Somehow, I had sex with Kouji-kun...
 //［コウジ］：バカが、誰が日記を書けと言った。
 [Kouji]: Dummy, whose diary are you writing?
 //［涼子］：な、なによぉ～。
@@ -203,7 +203,7 @@ ryo04b
 //涼子は少し目をうるませながら言った。実際、泣いているのかもしれない。
 Ryouko averted her eyes a bit as she said this. She might　 have actually been crying.
 //［涼子］：どうするの‥‥じゃなくて、どうするんですか？　これから。
-[Ryouko]: What'll you do...no, what are you plans from now  on?
+[Ryouko]: What'll you do...no, what are your plans from now on?
 //［コウジ］：あのジェネレータには、電送系ルーチンにまだ致命的なバグが潜んでいる。まずはデバッグからだな。
 [Kouji]: First, I'm going to fix the critical bug in that　 generator's transmission system routine.
 //［涼子］：デバッグから‥‥私にできることはありますか？
@@ -421,7 +421,7 @@ r&m03
 //［舞］：お、おねえひゃん‥‥いっはい、はひほ‥‥。
 [Mai]: O-oneesan...wha is goig on...?
 //［涼子］：ご免なさいねー、筋肉強化弛緩剤を使ったの。宏治様の命令なのよン。
-[Ryouko]: I'm very sorry-, but I used a strong muscle　　　relaxant. It was an order from Kouji-sama, after all.
+[Ryouko]: I'm very sorry-, but I used a strong muscle　　　 relaxant. It was an order from Kouji-sama, after all.
 //私はそんな事は命令していないが、とりあえず黙殺する。
 I ordered no such thing, but I kept quiet.
 //意地悪そうに微笑む涼子を見て、舞はコイのように口をパクパクさせて何かを言おうとしていたが、うまく言葉にはならないようだった。
@@ -431,7 +431,7 @@ Tears welled in her eyes, and drool flowed from the corners of her mouth. She wa
 //［舞］：あぅ‥‥あぅ‥‥。
 [Mai]: Au...au....
 //［涼子］：フフ、なにアシカみたいな声を出してるのよ。さっ、宏治様。
-[Ryouko]: Fufu, you sounds like a sea lion right now. Well, Kouji-sama.
+[Ryouko]: Fufu, you sound like a sea lion right now. Well,  Kouji-sama.
 //［コウジ］：フン、まず姉のお前がたっぷりとしてやれ。その方が緊張もほぐれるだろう。
 [Kouji]: Hmm, you're doing plenty as an elder sister. Now　 you should really let loose.
 //［涼子］：えっ、わ、私が？
@@ -635,7 +635,7 @@ r&m04
 //［涼子］：なに言ってるのよ。散々、宏治様の前でオナニーしたくせに。
 [Ryouko]: What are you talking about? That's what you were  masturbating in front of Kouji-sama for.
 //［涼子］：フフ、赤くなっちゃって‥‥可愛いわ‥‥。ほら、いらっしゃい。
-[Ryouko]: Hehe, you've turned red...how cute...now, go ahead.
+[Ryouko]: Hehe, you've turned red...how cute...now, go ahead
 //［舞］：あっ、いや‥‥いやよ‥‥そんな‥‥。
 [Mai]: Ah-, no...please don't...that's...
 //［涼子］：嘘つきなさい、あなた、好きなんでしょ？
@@ -691,7 +691,7 @@ Fufufufufufufufu...
 //［舞］：きゃぁぁっ！　痛い、やめ‥‥あぁぁ、痛い！　涼子姉さん、やめ‥‥んあぅぅっ！！
 [Mai]: Kyahhh-! It hurts, stop....Ahhh, it hurts! Ryouko nee-san, stop...Nnowww-!!
 //［涼子］：何言ってるのよ、ヌルヌルじゃない。ほーら、前後に動かしてあげるわ。
-[Ryouko]: What are you talking about, isn't it slippery? Now, I'll start moving back and forth.
+[Ryouko]: What are you talking about, isn't it slippery? NowI'll start moving back and forth.
 //にゅるぅ、にゅるぅ‥‥。
 Wiggle, wiggle...
 //［舞］：いや、あぁぁ、ダメよっ、何か変な感じがするぅ！
