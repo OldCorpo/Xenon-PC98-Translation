@@ -163,7 +163,7 @@ As I closed the door...
 //［男］：私こそ、天才かつ大宇宙の覇者たらんとする、大海賊である。
 [Man]: I am the genius pirate who'll one day become the　　　supreme ruler of this universe.
 //［男］：ビアンカとの一件、こちらから見させてもらった。どうやら、意識が不定期にシンクロしているようだ。
-[Man]: You've showed me your dealings with Bianca from here.Our consciousnesses are somehow irregularly synchronized.
+[Man]: You've shown me your dealings with Bianca from here. Our consciousnesses are somehow irregularly synchronized.
 //［宏治］：ま、まさか、こっちで言うところのコウジ？　宇宙海賊とかいう？
 [Kouji]: C-could it be that you're the one they call Kouji? The space pirate?
 //［宏治］：んー、じゃあトレイシー、かな？

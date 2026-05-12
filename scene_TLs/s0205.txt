@@ -237,7 +237,7 @@ ko01
 //［男］：はぁ？
 [Man]: Huh?
 //［コウジ］：ビアンカとの一件、こちらから見させてもらった。どうやら、意識が不定期にシンクロしているようだ。
-[Kouji]: You've showed me your dealings with Bianca from　　here. Our consciousnesses are somehow irregularly　　　　　 synchronized.
+[Kouji]: You've shown me your dealings with Bianca from hereOur consciousnesses are somehow irregularly synchronized.
 //［男］：ま、まさか、こっちで言うところのコウジ？　宇宙海賊とかいう？
 [Man]: C--could it be that you're the one they call Kouji?  The space pirate?
 //［コウジ］：それ以外に、どういうコウジがいるというのだ？
@@ -246,6 +246,8 @@ ko01
 [Kouji]: But I'm Kouji!
 //［コウジ］：うむ、言われてみればそうだな。では宏治ではなくコウジであると言っておこうか、宏治。
 [Kouji]: Indeed, it's as you say. Then why not call me not  "Kouji", but "Kouji"?
+## What do you think of this one ?
+## [Kouji]: Indeed, it's as you say. But, can't you agree that I'm Kouji?
 //［宏治］：訳のわからない事を、悠長に話してる場合かよ。
 [Kouji]: Is this the kind of place to leisurely blabber　　 about those unintelligible things?
 //［コウジ］：私は、質問に答えただけだが。
