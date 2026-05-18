@@ -11,45 +11,45 @@ Hmm, I guess I'll go check the computer room.
 //確か、キーは、あの沙夜香が持っていたはずだが‥‥。
 Indeed, that Sayaka woman likely holds the key to that placedoesn't she...
 //［コウジ］：フッフッフ‥‥。
-[Kouji]: Hu hu hu....
+[Kohji]: Hu hu hu....
 //私は、枕の下から一束のキーを取り出した。無論、沙夜香からさきほどくすねたヤツである。
 I reached under the pillow and pulled out a key. Naturally, I had pilfered it from Sayaka just a while ago.
 //［コウジ］：格の違いだな。他愛のない‥‥。
-[Kouji]: Such imprudence is rather unlike her...
+[Kohji]: Such imprudence is rather unlike her...
 //私が部屋を出ようとした、そのとき‥‥‥‥。
 As I made to leave the room...
 //トゥルルルル‥‥‥‥トゥルルルル‥‥‥‥。
 *The telephone is buzzing*
 //［コウジ］：電話、か‥‥。
-[Kouji]: Ah, the telephone....
+[Kohji]: Ah, the telephone....
 //ガチャッ。
 *Clack.*
 //［女の声］：‥‥宏治？
 [Woman's voice]: ...Kouji?
 //［コウジ］：そうだが、貴様は？
-[Kouji]: Speaking, and you are?
+[Kohji]: Speaking, and you are?
 //［女の声］：私よ、恵よ‥‥イタタ‥‥。
 [Woman's voice]: It's me, Megumi...Owowow...
 //［恵］：ねぇ、ちょっと聞いてるの？
 [Megumi]: Hey, are you listening to me?
 //［コウジ］：うむ、聞こえている。
-[Kouji]: Indeed, I hear you.
+[Kohji]: Indeed, I hear you.
 //［女の子］：今から、２階の‥‥きゃぁっ！
 [Woman's voice]: Right now, on the second floor...Kyaa-!
 //［コウジ］：‥‥‥‥‥‥‥‥‥‥。
-[Kouji]: ..........
+[Kohji]: ..........
 //［恵］：イタタ‥‥ねぇ、宏治聞いてるの？
 [Megumi]: Owowow...Hey, Kouji, are you listening?
 //［恵］：２階の一番奥に、大きな部屋があって‥‥。
 [Megumi]: On the second floor, there's something in the　　 biggest, deepest room...
 //［コウジ］：コンピュータ・ルームか？
-[Kouji]: You mean the computer room?
+[Kohji]: You mean the computer room?
 //［恵］：そうよっ！　そこに、至急来て！
 [Megumi]: That's right! Please come there as soon as you　　can!
 //［恵］：あ痛っ‥‥んもう、やんなっちゃうっ、なんで私がこんなめに‥‥。
 [Megumi]: Ah, it hurts...Mm, I didn't even do anything. Why am I hurting like this...
 //［コウジ］：どうしたのだ。
-[Kouji]: What happened?
+[Kohji]: What happened?
 //［恵］：疲れちゃったわ、早く来て！
 [Megumi]: I'm getting tired, hurry up and come over here!
 //何ともぶしつけな女だったが、コンピュータ・ルームには、私も用事があった。
@@ -71,27 +71,27 @@ I'll practice my Super Ultra Magnum Kick.
 //うむ、この脆弱な肉体において、このワザをマスターすることは決して無為とはいえまい。
 Indeed, in this puny physical body, mastering such a　　　　technique is still better than doing nothing.
 //［コウジ］：ゆくぞ、ウルトラスーパー・マグナム‥‥。
-[Kouji]: Here I go, Super Ultra Magnum...
+[Kohji]: Here I go, Super Ultra Magnum...
 //［コウジ］：キィィィックゥゥッ！！
-[Kouji]: KIIIIIICK!!
+[Kohji]: KIIIIIICK!!
 //ゴーーーーーン！！！
 *BOOOOOOM!!!*
 //［コウジ］：痛いから、やめよう。
-[Kouji]: It hurts, so let's stop.
+[Kohji]: It hurts, so let's stop.
 //例のコンピュータルームの前へやってくる。重々しいドアが、目の前に私を阻まんとするかのようにそびえ立っていた。
 I reached the aforementioned computer room. The towering　　heavy-looking door stood in my way.
 //［コウジ］：‥‥‥‥‥
-[Kouji]: ........
+[Kohji]: ........
 //‥‥‥‥‥。
 ........
 //［コウジ］：おかしい、このキーで開くはずだが‥‥壊れているのか。
-[Kouji]: How odd, this key should open the door...it might  be broken.
+[Kohji]: How odd, this key should open the door...it might  be broken.
 //ドアの前で、あれこれ思案する様は、どうも、かなり間抜けな醜態をさらしている気がする。
 In front of the door, I deliberated all sorts of things, butthen I realized how stupid I must look.
 //どてっ。
 Doh.
 //［コウジ］：フン、私は同じ轍を踏まぬ。
-[Kouji]: Hmph, I fell into the same rut again.
+[Kohji]: Hmph, I fell into the same rut again.
 //フン、誰もいないなら、最初からそう言え。宇宙に名を轟かせる、この大宇宙海賊であるところの私が‥‥。
 Hmph, I should have been able to tell from the start if　　 anyone was here. With a name that reverberates through the  universe, the place containing me, the great galactic pirate....
 //［恵］：宏治なの？
@@ -101,15 +101,15 @@ Suddenly, a voice called out from below me. What awful　　　manners she must 
 //［恵］：ちょっと、そんなとこに突っ立ってないでよ！
 [Megumi]: Wait, don't just get up and leave!
 //［コウジ］：何をやっている？
-[Kouji]: What are you doing?
+[Kohji]: What are you doing?
 //［恵］：見ればわかるでしょっ！？
 [Megumi]: Can't you tell just by looking?!
 //［コウジ］：すまない、とんだ邪魔をしたようだ。
-[Kouji]: Sorry, I must have interrupted you.
+[Kohji]: Sorry, I must have interrupted you.
 //［恵］：ば、バカ！　なに言ってるのよ。早く、こいつをほどいて頂戴！
 [Megumi]: D-dummy! What are you saying? Hurry up and untie  me already!
 //［コウジ］：なぜ？
-[Kouji]: Why?
+[Kohji]: Why?
 //［恵］：なぜって‥‥怒るわよ！
 [Megumi]: What do you mean, "why?" ...You're making me　　　upset!
 //恵のこめかみに血管が浮き出したところで、やめておいた。
@@ -123,31 +123,31 @@ meg06_m
 //どこかの拳法家のような声を出しながら、恵は腕や太股をこすっていた。所々、青くアザになっているようだ。
 Making sounds like a martial artist, Megumi rubbed her arms and legs. Here and there, bluish bruises had formed.
 //［コウジ］：よく１人で縛れたものだ。
-[Kouji]: Someone really bound you up tightly.
+[Kohji]: Someone really bound you up tightly.
 //［恵］：バカ言ってないで。あの沙夜香にやられたのよっ！
 [Megumi]: Stop talking nonsense. It was Sayaka who bound me!
 //［コウジ］：ほぉ、沙夜香に。
-[Kouji]: Hoh-, Sayaka?
+[Kohji]: Hoh-, Sayaka?
 //［恵］：あの女、私がパパに言ってやるって言ったら、あわてちゃってさ。
 [Megumi]: If I told my papa to confront that woman, he'd　　become all flustered.
 //［コウジ］：パパ？
-[Kouji]: Papa?
+[Kohji]: Papa?
 //［恵］：私のお父さんは、ここのスポンサーなのっ。沙夜香が慌てるわけよ。
 [Megumi]: My father is a sponsor of this place. He's　　　　probably worried about Sayaka.
 //［コウジ］：なにをだ。
-[Kouji]: Why is that?
+[Kohji]: Why is that?
 //［恵］：あのヒトね、ここの研究を自分のものにしたいのよ。
 [Megumi]: That woman wants to make the research done here　 her own.
 //［コウジ］：フン、なかなか見所があるな、あの女。
-[Kouji]: Hah, that woman really does have her good points.
+[Kohji]: Hah, that woman really does have her good points.
 //［恵］：あのねぇ、他人様の研究を横取りしようって魂胆なのよ。
 [Megumi]: But you see, her motive is stealing other people'sresearch.
 //［コウジ］：それのどこが悪いのか。横取りされるような間抜けが悪いのだ。
-[Kouji]: And so what? That's the fault of whatever idiot　　lets their research be stolen.
+[Kohji]: And so what? That's the fault of whatever idiot　　lets their research be stolen.
 //［恵］：‥‥宏治、なんか変わったわねぇ。
 [Megumi]: ...Kouji, you've changed.
 //［コウジ］：私は私だ。変わりようがないが。
-[Kouji]: I am me. I haven't changed at all.
+[Kohji]: I am me. I haven't changed at all.
 //［恵］：もう、ばっかねぇ‥‥。
 [Megumi]: You dummy....
 //恵は露骨に呆れ顔をしながら、私の傍らへやってきた。
@@ -155,37 +155,37 @@ Megumi came up to me as she frankly shot me a dirty look.
 //［恵］：それよりさ、何なの、コレ。
 [Megumi]: Besides, what is all this?
 //［コウジ］：何、とは？
-[Kouji]: What are you referring to?
+[Kohji]: What are you referring to?
 //恵はアゴをしゃくりながら、目の前の機械を指し示す。
 Megumi's jaw dropped as she pointed at the machine in front of her.
 //［恵］：これって一体‥‥。
 [Megumi]: What on earth...
 //［コウジ］：これか、これは大宇宙海賊霊子エナジー増幅ジェネレータ２だ。
-[Kouji]: This? This is the Universal Pirate Reiko Energy　　Amplifying Generator 2.
+[Kohji]: This? This is the Universal Pirate Reiko Energy　　Amplifying Generator 2.
 //［恵］：なによ、そのいかれた名前は。
 [Megumi]: What's with that ridiculous name?
 //［コウジ］：そういえば、貴様の父親とやらが、こいつの資金を出しているのか？
-[Kouji]: Come to think of it, your father lent out the　　　principal to construct this, right?
+[Kohji]: Come to think of it, your father lent out the　　　principal to construct this, right?
 //［恵］：よくわからないけど、このセンター全体にね。
 [Megumi]: I'm not certain, but he *did* back this entire　　clinical center.
 //［コウジ］：フン、そうか‥‥。
-[Kouji]: Hmph, is that so...
+[Kohji]: Hmph, is that so...
 //［恵］：それより宏治、さっさとこんなとこ、出ちゃいなさいよ。
 [Megumi]: Anyways, Kouji, please leave this place　　　　　 immediately.
 //［コウジ］：コンピュータルームをか？
-[Kouji]: Leave the computer room?
+[Kohji]: Leave the computer room?
 //［恵］：違う。もうこのセンターにいる必要はなくなったわ。
 [Megumi]: No. This center doesn't need you anymore.
 //［コウジ］：どういうことだ。
-[Kouji]: What are you talking about?
+[Kohji]: What are you talking about?
 //［恵］：だから、あなたがここにいる必要がないってこと。
 [Megumi]: I said, you're not needed here anymore.
 //［コウジ］：ここにいてはいけないのか？
-[Kouji]: I can't stay here anymore?
+[Kohji]: I can't stay here anymore?
 //［恵］：いけない訳じゃないけど‥‥。
 [Megumi]: It's not that you can't stay, but...
 //［コウジ］：では私に構うな。
-[Kouji]: Well, then, it doesn't matter to me.
+[Kohji]: Well, then, it doesn't matter to me.
 //［恵］：なによそれぇ、あなたの為に言ってるんじゃない。
 [Megumi]: What's with that reaction? I'm not speaking for　 your sake.
 //顔にやや険をうかべて、恵は猛烈に抗議してきた。
@@ -193,7 +193,7 @@ A harsh expression came over her face as Megumi fiercely　　protested.
 //どうも解せなかった。この恵とやらいう女は、宏治という脆弱な男の恋人ではなかったのか‥‥。
 I didn't understand at all. Wasn't this Megumi-or-other　　 woman the lover of that puny fellow Kouji...? 
 //［コウジ］：（だが、この当たり方はどうしたことだ‥‥。）
-[Kouji]: (However, what is going on around here...?) 
+[Kohji]: (However, what is going on around here...?) 
 //ふむ、ロジカルに分析してみよう。
 All right, let's analyze this logically.
 //恵の言動から解釈するに、この脆弱な肉体に宿っていた精神は、同様に脆弱でかつ貧弱であったに違いない。
@@ -201,7 +201,7 @@ Judging from Megumi's speech and conduct, the original　　　spirit that inhab
 //それに対する、いらだち、怒り、そして不安を言動の端々に見て取ることができる。
 Faced with that, I can understand the frustration, anger,　 and uncertainty in all parts of her behavior.
 //［コウジ］：（だとすれば‥‥‥‥。）
-[Kouji]: (In that case....)
+[Kohji]: (In that case....)
 //恵の、あの突き放したかのような言動は、男に強力な吸引力で引っ張って欲しい事の、裏返しなのではないか‥‥？
 On the other hand, could Megumi's sudden outburst signal a  desire to fall for a man with strong charisma?
 //だとすればつじつまが合う。
@@ -209,23 +209,23 @@ That would be consistent.
 //未練がましく、文字どおり女々しく突っかかってくるのは、私‥‥すなわち宏治とやらいう脆弱な精神に対する、メタモルフォーゼとも言うべき変貌の期待感に他ならない。
 Regretfully, she's literally effeminately charging at me... that is, in contrast to the weak-spirited Kouji, she's　　　anticipating nothing but a metamorphosis.
 //［コウジ］：フッフッフ‥‥完ぺきなロジックだな。
-[Kouji]: Huhuhu...what impeccable logic.
+[Kohji]: Huhuhu...what impeccable logic.
 //［恵］：ど、どうしたのよ、急に。バッカみたい。
 [Megumi]: W-what's going on, all of a sudden. You look like a fool.
 //間違いない、この女は、犯されるのを待っているのだ。自分を屈服させ、引っ張っていってくれる男が現れるのを‥‥。
 There's no doubt about it, this woman is waiting to be　　　ravished. To surrender herself, to be drawn to a man who　　will manifest....
 //［コウジ］：恵、貴様の父親は、確かこの世界の権力者だったな。
-[Kouji]: Megumi, your father is certainly a powerful person in this world.
+[Kohji]: Megumi, your father is certainly a powerful person in this world.
 //［恵］：そういう言い方は誤解を生むわ。主権在民、権力者は国民で、政治家は公僕に過ぎないのよ。
 [Megumi]: Saying it like that will cause a misunderstanding.Because a powerful person is still a citizen, their personalsovereignty is not something a politician, as a public　　　servant, can override.
 //［コウジ］：フン、しゃらくさい事を言う。
-[Kouji]: Hmph, what an impertinent matter.
+[Kohji]: Hmph, what an impertinent matter.
 //［恵］：でもね、パパにかかったらね、こんな医療センター、一発でつぶれるわ。
 [Megumi]: However, if he wanted to, Papa could knock down　 this clinical center with one strike.
 //［コウジ］：（なるほど、ファザーコンプレクスだな、これは。）
-[Kouji]: (I see, so she has a complex about her father.)
+[Kohji]: (I see, so she has a complex about her father.)
 //［コウジ］：（意外に扱いやすそうだ。しかも、父親が権力者か‥‥クックック。）
-[Kouji]: (This should be quite easy to deal with. So her　　father is a powerful man... Kukuku.)
+[Kohji]: (This should be quite easy to deal with. So her　　father is a powerful man... Kukuku.)
 //利用しない手はない。そう断定すると、私は恵の手を握って、少し乱暴に引き寄せた。
 She didn't have a free hand. As I concluded that, I grabbed Megumi by the hands, and somewhat roughly pulled her towardsme.
 //meg01c
@@ -259,17 +259,17 @@ Buzz, buzz, buzz!!!
 //［恵］：きゃぁぁっ！　ら、乱暴は、やめてっ！
 [Megumi]: Kyaaaa-! S-stop being so rough!
 //［コウジ］：フン、誰がご主人様か、これからたっぷりと教えてやる、恵‥‥。
-[Kouji]: Hmph, from now on, I'll teach you plenty about　　 who's the master here, Megumi...
+[Kohji]: Hmph, from now on, I'll teach you plenty about　　 who's the master here, Megumi...
 //［恵］：な、なによ、それ‥‥。
 [Megumi]: W-what's that all about...?
 //狼狽と困惑をたたえる目の中に、私は恍惚の光も見て取った。間違いない、この女はマゾだ。
 Even though her eyes showed confusion and bewilderment, I　 saw a glint of ecstasy. Without a doubt, this girl was a　　masochist.
 //［コウジ］：さぁ、しゃぶってもらおうか。
-[Kouji]: Now, can you suck me up?
+[Kohji]: Now, can you suck me up?
 //［恵］：い、いやよ‥‥。
 [Megumi]: N-no...
 //［コウジ］：フン、口でいってもわからないらしいな‥‥。
-[Kouji]: Hmmm, it seems that you don't understand what I'm  saying...
+[Kohji]: Hmmm, it seems that you don't understand what I'm  saying...
 //私は再び恵の乳首をひねりあげると、もう片方の手を彼女の下半身へのばす。
 Once more, I twisted Megumi's nipples, and reached one hand towards her lower body.
 //そこはしっとりと濡れそぼっており、硬い木の芽のような突起物を素早く探し出すと、それを指先でひねりあげる。
@@ -279,7 +279,7 @@ She was dripping wet down there, and I quickly found her　　tree bud-like clit
 //恵はガクガクと膝を震わせ、口元からはよだれをながし、目からは涙を溢れさせている。しかしその表情は恍惚のそれだ。
 Megumi's knees quaked in spasms, drool flowed from the　　　corner of her mouth, and tears overflowed from her eyes. Buther expression was one of rapture.
 //［コウジ］：もう一度言う、しゃぶれ。
-[Kouji]: I'll say it once more, suck me up.
+[Kohji]: I'll say it once more, suck me up.
 //［恵］：わ、わかったわ‥‥。
 [Megumi]: I, I got it...
 //ギュッ！
@@ -287,7 +287,7 @@ Megumi's knees quaked in spasms, drool flowed from the　　　corner of her mou
 //［恵］：んあぅぅっ！！！
 [Megumi]: Nauww-!!!
 //［コウジ］：言葉遣いが、なってないな。
-[Kouji]: Words can't express the feeling, can they?
+[Kohji]: Words can't express the feeling, can they?
 //［恵］：あはぁぁ、わ、わかりました‥‥。
 [Megumi]: Ahaaaa, u-understood....
 //恵は私の前にひざまずくと、邪魔らしいキュロットとパンティを自発的に脱ぎだした。太股の内側は粘液ですでに濡れている。
@@ -311,7 +311,7 @@ As Megumi narrowed her cheeks, she gently lifted her head.  As she did so, my di
 //カリの部分にまで唇がやって来ると、彼女は頭の動きを停止させた。先っぽに、ねっとりと舌を這わせはじめる。
 As my mushroom cap reached her lips, she stopped moving her head. Her tongue started slickly slithering over the tip.
 //［コウジ］：むぅっ‥‥。
-[Kouji]: Moooo-...
+[Kohji]: Moooo-...
 //それが終わると再び、頭を前に動かし私のモノを口腔へと呑み込んでゆく。
 She stopped licking and, again, moved her head forward,　　 swallowing my penis whole.
 //単調な動作だったが、次第に速度があがってくると、しびれにも似た感覚が下半身から伝わってくる。
@@ -323,11 +323,11 @@ As she slickly entwined my dick with her tongue, brushing mygroin with her licki
 //頭を前後に動かしながら、ときおり舌先で、亀頭の先をねぶる動作を加えてくる。なかなかシャレたテクニックを使う女だ。
 As she bobbed her head back and forth, she licked my glans  from time to time. This was a woman using a truly　　　　　 sophisticated technique.
 //［コウジ］：フン、欲しいか、恵。
-[Kouji]: Hnnng, do you want it, Megumi?
+[Kohji]: Hnnng, do you want it, Megumi?
 //［恵］：んっ、んっ。
 [Megumi]: Mm, mm.
 //［コウジ］：何が欲しいか、言ってみるがいい。
-[Kouji]: Tell me what you want.
+[Kohji]: Tell me what you want.
 //［恵］：あふぅ‥‥。
 [Megumi]: Ahuu...
 //私のモノを口からはずすと、恵は口から垂れ流れるよだれを手の甲でぬぐい取ると、
@@ -337,11 +337,11 @@ As she released my dick from her mouth, Megumi wiped the　　drool spilling out
 //と言い放つと、再び私のモノを口腔一杯に頬張った。
 As soon as she finished saying that, she stuffed her mouth  once more with my dick.
 //［コウジ］：（フン、意外に簡単に落ちたな‥‥しかし、それにしても。）
-[Kouji]: (Hmm, she seems to have fallen quite easily....... however, even so.)
+[Kohji]: (Hmm, she seems to have fallen quite easily....... however, even so.)
 //どうも、こういうジゴロのような真似は好かない。必要があるとはいえ、女へ必要以上に譲歩するような気がする。
 I don't like behaving like a gigolo. Even though it's　　　 necessary, it feels more important to let her have her way.
 //［コウジ］：（フン、まぁ微々たる事だ‥‥。）
-[Kouji]: (Hmm, well, that's a trivial matter...)
+[Kohji]: (Hmm, well, that's a trivial matter...)
 //この女は私に必要で、私はそれを利用する。極めて合理的な言動である。
 I can use this woman's dependence on me. It's truly logical behavior.
 //［恵］：あぁぁ、早くぅ‥‥早く頂戴！　精液を恵に、頂戴っ！
@@ -355,7 +355,7 @@ As I reached climax, I pulled my dick from Megumi's mouth.
 //［恵］：んぐっ。
 [Megumi]: Mmm*smack*.
 //［コウジ］：出すぞっ！
-[Kouji]: I'M CUMMING!
+[Kohji]: I'M CUMMING!
 //［恵］：ああン、恵にかけてぇっ！
 [Megumi]: Ahhm, cum on me!
 //ドクッ、ドクッ、ドクッ！
@@ -367,7 +367,7 @@ As I reached climax, I pulled my dick from Megumi's mouth.
 //精液を顔にかけられ、もはや心身ともに私の奴隷へと昇華した恵に、私は声をかけた。
 I told Megumi, with semen plastered on her face, soon to be converted to my slave in mind and body:
 //［コウジ］：後ろを向いて、尻を出せ。
-[Kouji]: Turn around, and stick out your ass.
+[Kohji]: Turn around, and stick out your ass.
 //［恵］：は、はい‥‥。
 [Megumi]: Y-yes....
 //meg04
@@ -375,13 +375,13 @@ meg04
 //言われたとおり、四つんばいになり、尻をこちらへ向けて振る恵を見て、考えが変わった。
 As I said, she got on all fours, and turned her butt towardsme, but as I looked at her, I changed my mind.
 //［コウジ］：（フン、この雌犬に奴隷という身分ははもったいない。こいつは私の性玩具にしよう。）
-[Kouji]: (Hmm, to give this bitch just the status of a slavewould be such a waste. I'll make her my sex toy.)
+[Kohji]: (Hmm, to give this bitch just the status of a slavewould be such a waste. I'll make her my sex toy.)
 //［恵］：ああン、早くぅ‥‥。
 [Megumi]: Ahhhm, hurry...
 //何も知らない恵は、盛んに尻を振って私を誘っている。
 The unknowing Megumi energetically wagged her ass towards meinviting me in.
 //［コウジ］：クックック、貴様に奴隷などもったいないというものだ。
-[Kouji]: Kukuku, it would be such a waste to turn you into aslave.
+[Kohji]: Kukuku, it would be such a waste to turn you into aslave.
 //［恵］：えっ‥‥？
 [Megumi]: Eh-?
 //ずりゅぅぅぅ！！
@@ -393,27 +393,27 @@ Gush, gush.
 //［恵］：んあぁぁぁ！　痛い‥‥痛いよぉぉっっ！！
 [Megumi]: NGAAHHhhh! It hurts...It huuurts-!!
 //［コウジ］：フン、貴様は私の性玩具だ。この程度で喚き散らすな。
-[Kouji]: Hmph, you're my sex toy. Don't scream like that.
+[Kohji]: Hmph, you're my sex toy. Don't scream like that.
 //ぐちゅぅぅ、ぐちゅるるっっ！
 Squelch, squelch!
 //［コウジ］：手首くらいまで入るように、鍛えておけ。バカめ！
-[Kouji]: Train yourself to take me up to the wrist. Idiot!
+[Kohji]: Train yourself to take me up to the wrist. Idiot!
 //［恵］：そ、そんなぁ‥‥無理よぉぉ‥‥んあぅっ！　イヤぁぁぁっ！！
 [Megumi]: That...makes no sense...Nnahh! NOooo!!
 //［コウジ］：フン、口ではイヤと言っていても‥‥。
-[Kouji]: Hmph, even if you say "No" up there...
+[Kohji]: Hmph, even if you say "No" up there...
 //すぐ下にある、豆粒ほどの突起物を、もう片方の指で思いきり弾いた。
 Directly below, her bean-sized protrusion was itching to be rubbed by my finger to her heart's content.
 //［恵］：きゃぅぅっっ！！
 [Megumi]: Kyaaaww!!
 //［コウジ］：こんなに歓喜の涙を垂れ流してたら、説得力も何もないなっ。
-[Kouji]: When you're gushing tears of joy this much, you're not very persuasive, are you?
+[Kohji]: When you're gushing tears of joy this much, you're not very persuasive, are you?
 //［恵］：酷い‥‥酷いよぉぉ‥‥。
 [Megumi]: Y-you're so cruel....
 //恵は本気で泣いているようだが、一向に気に触らない。玩具がどのような音を発そうと、意に介さないものだ。
 Megumi seemed to be crying in earnest, but it didn't hurt myfeelings at all. Whatever sounds a toy may make, I don't　　mind at all.
 //［コウジ］：後から後から、際限ないな、貴様の薄汚れたココはっ！
-[Kouji]: From behind, there aren't any bounds to your filthycunt, are there!
+[Kohji]: From behind, there aren't any bounds to your filthycunt, are there!
 //［恵］：ああン！　そうよぉ、私のアソコは薄汚れていて大洪水よっ！！
 [Megumi]: Aaaaaahm! That's right, my cunt is flooding dirty juices!!
 //ぐちゅぅぅ、ぐちゅるるっっ！　ぐちゅっ、ぐちゅっ‥‥。
@@ -421,7 +421,7 @@ Splurrrch, splurrrch! splurrrch, splurrrch...
 //［恵］：あン、あっ、んっ、あぁぁ、も、もう‥‥あぁぁ、イっちゃいそう‥‥あっ！
 [Megumi]: Ahm, ah-, ng-, ahhh, I-I'm... ahhh, I'm going to  cum...Ah-!
 //［コウジ］：いけ。
-[Kouji]: Cum.
+[Kohji]: Cum.
 //［恵］：あっ、もう‥‥いっくぅぅぅぅぅぅっっ！！！
 [Megumi]: Ah, I'm...I'M CUMMIIIING!!!
 //［恵］：んっ、どうしちゃったの‥‥宏治、いつもと違うわ‥‥。
@@ -429,71 +429,71 @@ Splurrrch, splurrrch! splurrrch, splurrrch...
 //下からの光を浴びて、青白い顔をしていたが、屈託のない笑みを浮かべる恵は、なかなかに可愛らしい。
 With light flooding from below, her face had become pale,　 but as a carefree smile spread across her face, Megumi　　　looked quite cute.
 //［コウジ］：ふむ、奴隷にまで格上げしてやっても、いいか‥‥。
-[Kouji]: Indeed, it might be better to rank you up to a　　 slave...
+[Kohji]: Indeed, it might be better to rank you up to a　　 slave...
 //［恵］：な、なによぉ、それぇ‥‥。
 [Megumi]: W-what's with that...
 //［恵］：宏治、なんだか、すっごくたくましくなって‥‥。
 [Megumi]: Kouji, you've become really bold...
 //［コウジ］：‥‥言葉遣いに気をつけろ。
-[Kouji]: ...Watch your language.
+[Kohji]: ...Watch your language.
 //［恵］：はーい。こ・う・じ・さ・ま！　これでいい？
 [Megumi]: Yees. KOU. JI. Sa. Ma! Is that good?
 //［恵］：ね、宏治さま、もう１回しよっか？
 [Megumi]: Hey, Kouji-sama, can we do it again?
 //［コウジ］：そんなことより、恵、貴様に聞きたいことがある。
-[Kouji]: Before that, Megumi, I have something to ask of you
+[Kohji]: Before that, Megumi, I have something to ask of you
 //［恵］：そんなことって、ずいぶんよね～。
 [Megumi]: That kind of thing is pretty extreme-.
 //［恵］：きゃっ、ごめんなちゃーい。何でもお聞き下さいませ。
 [Megumi]: Kyah! Sowwy. I'll listen to anything you have to  say.
 //［コウジ］：ふん、私が聞きたいことというのはだな。
-[Kouji]: Hmm, what did you think I wanted to hear?
+[Kohji]: Hmm, what did you think I wanted to hear?
 //［恵］：わかった、私の星座でしょう？　相性をみるとか？
 [Megumi]: I got it, you want to know my constellation,　　　right? To see how compatible we are?
 //［コウジ］：せいざ？　姿勢正しく座ることが、なぜ必要なのだ。
-[Kouji]: Consternation? Why would your feelings be importantto me?
+[Kohji]: Consternation? Why would your feelings be importantto me?
 //［恵］：ばっかねぇ～。
 [Megumi]: You're so duuumb-.
 //［恵］：う、ウソウソ、うそでーす。星座というのはですね、空に瞬く星々の芸術のことです。
 [Megumi]: I-I'm joking, I'm just joking-. I'm talking aboutconstellations. You know, the forms and figures that stars  in the sky make.
 //［コウジ］：‥‥なんだ、それは？
-[Kouji]: ...What are those?
+[Kohji]: ...What are those?
 //［恵］：本当に知らないの？　もう、星と星を線でつないで、動物とか人間にみたてることよ。
 [Megumi]: Do you really not know? If you link up the stars  together, you can make things that look like animals or　　 people.
 //［恵］：ほらぁ、３つ並ぶ星はオリオン座とかぁ、柄杓のような大熊座とかぁ‥‥。
 [Megumi]: Like, the three stars in a line are part of Orion,and the dipper-like Ursa Major...
 //［コウジ］：‥‥ああ、なるほど。恒星の配置を便宜的な形象に見立てるヤツか。
-[Kouji]: ...Ahhh, now I see. It's a convenient way to　　　 describe the apparent arrangement of the stars.
+[Kohji]: ...Ahhh, now I see. It's a convenient way to　　　 describe the apparent arrangement of the stars.
 //［恵］：そうそう、それよ、それ。
 [Megumi]: Yeah, that's right, that's what I mean.
 //［コウジ］：フン、恒星の配置などその惑星を出れば当然変化するからな。惑星から一歩も外へ出たことのない土着民が考えそうな事だ。
-[Kouji]: Hmm, but if you leave the planet, those　　　　　　arrangements will change. They were created by people who　 couldn't eventake one step off their planet.
+[Kohji]: Hmm, but if you leave the planet, those　　　　　　arrangements will change. They were created by people who　 couldn't eventake one step off their planet.
 //［恵］：それってどういうことよぉ、まるで宇宙にでも行ったことがあるような口振り。
 [Megumi]: What do you mean by that? You're talking as thoughyou've gone all around the universe.
 //［コウジ］：フン、まぁいい‥‥それよりも、話が外れた。貴様に聞きたいことはな。
-[Kouji]: Hmm, well, enough of that...I have something to askof you.
+[Kohji]: Hmm, well, enough of that...I have something to askof you.
 //［恵］：星座のことじゃないんだ。
 [Megumi]: So it wasn't about the constellations?
 //［コウジ］：当たり前だ。貴様の父親は、確か政治家でこの医療センターのスポンサーと言っていたな。
-[Kouji]: Of course not. You definitely said earlier that　　your father is a politician who's a sponsor of this clinicalcenter.
+[Kohji]: Of course not. You definitely said earlier that　　your father is a politician who's a sponsor of this clinicalcenter.
 //［恵］：それが、どうかしたの？
 [Megumi]: Yes, what about it?
 //［恵］：んもう‥‥コホン、どうかなさったのですか？
 [Megumi]: Come on...*ahem*, what's the matter with it?
 //［コウジ］：うむ、その真偽のほどを知りたくてな。
-[Kouji]: Indeed, I want to confirm the veracity of that　　 statement.
+[Kohji]: Indeed, I want to confirm the veracity of that　　 statement.
 //［恵］：宏治さまの言う通りで、私の父は政治家でーす。
 [Megumi]: As Kouji-sama said, my father is a politician.
 //［コウジ］：フン、そうか。
-[Kouji]: Hmm, is that so?
+[Kohji]: Hmm, is that so?
 //私が満足そうに頷くのを、恵はそばで怪訝そうに眺めている。
 As I nodded, satisfied, Megumi looked on, puzzled.
 //［コウジ］：確か今は西暦‥‥２０世紀の末、ここは日本国というところだな。
-[Kouji]: Today is, by the Gregorian calendar...  The end of the 20th century, and this place is Japan.
+[Kohji]: Today is, by the Gregorian calendar...  The end of the 20th century, and this place is Japan.
 //［恵］：そ、それが‥‥？
 [Megumi]: A-and...?
 //［コウジ］：貴様は、今から私の妻だ。
-[Kouji]: You will be my wife from this point on.
+[Kohji]: You will be my wife from this point on.
 //［恵］：えぇ～～！？
 [Megumi]: EEHHHH--?!
 //［恵］：ほ、本気なの？
@@ -501,41 +501,41 @@ As I nodded, satisfied, Megumi looked on, puzzled.
 //［恵］：本気‥‥ですか？
 [Megumi]: Are you...being serious?
 //［コウジ］：あたりまえだ。冗談は、イカの頭の次に嫌いだ。
-[Kouji]: Indeed I am. My hatred for jokes is only second to that for waste.
+[Kohji]: Indeed I am. My hatred for jokes is only second to that for waste.
 //［恵］：だ、だってぇ‥‥。
 [Megumi]: B-but...
 //［恵］：ううん、そんなこと‥‥ないけど‥‥宏治、何だかすっごく頼もしくなったし‥‥以前まではちょっと、アレだったけど‥‥。
 [Megumi]: Umm, that sort of thing...hasn't happened before, but...Kouji, you've somehow become really reliable...up　　 until now, you've been a little...well, you know...
 //［コウジ］：ブツブツ文句の多いやつだ。どうなんだ？
-[Kouji]: You've been muttering to yourself quite a lot. Whatis it?
+[Kohji]: You've been muttering to yourself quite a lot. Whatis it?
 //［恵］：でもぉ、私のお父様が許さないと思うわよぉ。
 [Megumi]: But, I think my father won't allow it.
 //［コウジ］：なぜ、貴様の父親がそんなことを言えるのだ。
-[Kouji]: Why wouldn't your father allow it?
+[Kohji]: Why wouldn't your father allow it?
 //［恵］：だって、私の父親だし‥‥。
 [Megumi]: Because, it's my father...
 //［コウジ］：この時代のこの国では、自由恋愛によって成人同士が婚姻することを、法によって保証していたはずだ。
-[Kouji]: In this country and this time, marriage between twoadults who freely love each other is protected under the　  law, isn't it?
+[Kohji]: In this country and this time, marriage between twoadults who freely love each other is protected under the　  law, isn't it?
 //［恵］：そりゃあ、そうだけどさ‥‥。
 [Megumi]: That, uh, that's true, but...
 //［コウジ］：なにをニヤニヤ笑っている。
-[Kouji]: What are you smiling so mischievously for?
+[Kohji]: What are you smiling so mischievously for?
 //［恵］：エヘヘ、宏治が私のことをさらって行ってくれるなら、結婚してもいいかな。
 [Megumi]: Ehehe, if I'm being swept away by Kouji, it might be nice to get married.
 //［コウジ］：さらう？　なぜ、さらう必要がある。
-[Kouji]: Swept away? Why would I need to sweep you away?
+[Kohji]: Swept away? Why would I need to sweep you away?
 //［恵］：女はみんな、自分をさらって行ってくれる白馬の王子様を待っているの！
 [Megumi]: Because every woman is waiting to be swept away bya prince riding a white horse!
 //［コウジ］：フン、くだらん願望にかまけている暇はないな。よし、では貴様は今から私の妻で奴隷だ。
-[Kouji]: Heh, I have no time to be occupied with a silly　　dream like that. Right, from now on, you will be my slave　 and wife.
+[Kohji]: Heh, I have no time to be occupied with a silly　　dream like that. Right, from now on, you will be my slave　 and wife.
 //［恵］：じゃあ、奴隷妻ってこと？
 [Megumi]: So, a slave-wife?
 //［コウジ］：うむ、そういうことになる。
-[Kouji]: Indeed, that is what you will become.
+[Kohji]: Indeed, that is what you will become.
 //［恵］：なんだか、そそられるフレーズよね、奴隷妻って。
 [Megumi]: What a fascinating phrase, "slave-wife".
 //［コウジ］：フン、まぁいい。貴様が妻になれば、その権力者の力を利用できるというモノだ。
-[Kouji]: Hmph, that's just fine. If you are to be my wife, Iwill be able to use that powerful person's influence.
+[Kohji]: Hmph, that's just fine. If you are to be my wife, Iwill be able to use that powerful person's influence.
 //［恵］：かっくいい！
 [Megumi]: Amazing!
 //［女の声］：そんな事はさせないわよっ！

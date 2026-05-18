@@ -15,7 +15,7 @@ As I look more closely, there is a ladder. It seems to be　　going down. I hea
 //オレは手すりにつかまりながら、慎重に階段を下りていった。
 Gripping the handrail, I carefully descended the ladder.
 //［トレイシー］：あら、コウジ様、いかがなさいました？　ご用なら、お呼びして下されば‥‥。
-[Tracy]: Oh my, Kouji-sama, what has happened? If you neededme, you could have called me...
+[Tracy]: Oh my, Kohji-sama, what has happened? If you neededme, you could have called me...
 //［宏治］：トレイシーじゃないか。
 [Kouji]: Well, if it isn't Tracy.
 //［トレイシー］：ご気分は良くなられましたか？
@@ -35,7 +35,7 @@ But what surprised me most was the view outside the window  in front of me. I lo
 //［宏治］：違う、そういうことじゃない。
 [Kouji]: No, I'm not talking about that.
 //［トレイシー］：あの‥‥コウジ様？
-[Tracy]: Umm...Kouji-sama?
+[Tracy]: Umm...Kohji-sama?
 //［宏治］：お、オレは認めないぞ。何かのトリックに決まっている。
 [Kouji]: I-I don't believe it. There must be some sort of　　trick.
 //［トレイシー］：何が、でしょうか。
@@ -51,11 +51,11 @@ As I laughed openly, I punched my fist indiscriminately intothe black shining wa
 //ゴーーーんッ！！
 *BOOOOONG*!!
 //［トレイシー］：きゃっ！　こ、コウジ様、大丈夫ですか！？
-[Tracy]: Kya-! K-Kouji-sama, are you all right?!
+[Tracy]: Kya-! K-Kohji-sama, are you all right?!
 //頬を伝う涙の感触を感じながら、オレはコブシを抱えてうずくまった。痛いぞ、これは‥‥無茶苦茶、痛い。
 As I felt the tears streaming down my face, I covered my　　throbbing fist. It hurts, this is...really quite painful.
 //［トレイシー］：こ、コウジ様‥‥大変だわ、ちょっとお待ちになって下さいね。あっ、怪我した方の手に、触らないようお願いします！
-[Tracy]: K-Kouji-sama...this is bad, please wait right thereAh-, please don't touch your hurt hand!
+[Tracy]: K-Kohji-sama...this is bad, please wait right thereAh-, please don't touch your hurt hand!
 //トレイシーが部屋の隅にある戸棚を開けて、何かをゴソゴソと捜している間、オレは真っ赤に腫れ上がったコブシをさすりながら、ボーっと窓の外を見ていた。
 Tracy opened a cabinet in the corner of the room. As she　　rustled about searching for something, I rubbed my red　　　swollen fist as I looked out the window.
 //痛い‥‥‥‥。
@@ -69,7 +69,7 @@ No, that would be too unscientific. It has to be a dream.　　That's right, I'm
 //白い箱を抱えて、慌てて駆け寄ってくるトレイシーが視界に入った。彼女も、やっぱり夢の中の人物なのかな‥‥。
 As she carried a white box, a hurried, running Tracy enteredmy field of vision. So she's a character in my dream, huh...
 //［トレイシー］：さぁ、コウジ様、手をお出しになって下さい。
-[Tracy]: Now, Kouji-sama, please stretch out your hand.
+[Tracy]: Now, Kohji-sama, please stretch out your hand.
 //［宏治］：えっ？　あぁ‥‥。
 [Kouji]: Eh-? Ah....
 //［トレイシー］：ちょっと痛いかもしれませんが、我慢して下さいね。
@@ -115,13 +115,13 @@ It was only an expression of gratitude, but her conduct　　　suggested things
 //［宏治］：自室って？
 [Kouji]: What is her room like?
 //［トレイシー］：ＶＩＰルームです。大切な賓客をお招きしたとき、コウジ様がいつもお使いになるお部屋ですわ。
-[Tracy]: It's a VIP room. Whenever we have esteemed guests  of honor over, Kouji-sama always ends up using that room.
+[Tracy]: It's a VIP room. Whenever we have esteemed guests  of honor over, Kohji-sama always ends up using that room.
 //［宏治］：ふーん‥‥。
 [Kouji]: Hmmmm....
 //［宏治］：（賓客ねぇ‥‥大切なお客様なのかな‥‥。）
 [Kouji]: (Guests of honor, huh...probably some big shot　　　guests...)
 //［トレイシー］：コウジ様のお部屋から、比較的近いはずですわ。
-[Tracy]: Because it's Kouji-sama's room, it should be quite close by.
+[Tracy]: Because it's Kohji-sama's room, it should be quite close by.
 //［宏治］：（後で行ってみるのも、手だな‥‥。）
 [Kouji]: (I gotta find my way over there afterward...)
 //［宏治］：ランファは、いまどこにいるのかな‥‥。
@@ -149,7 +149,7 @@ Tracy's expression lost its edge and slightly eased up. Agh,navigating this topi
 //［宏治］：とりあえず、色々と見てみたいんでね。
 [Kouji]: In any case, I have a few things to check up on.
 //［トレイシー］：ここはコウジ様のシップです。遠慮なさらずに、存分に見て下さい。
-[Tracy]: This is Kouji-sama's ship. Don't be so reserved,　　look around as much as you like.
+[Tracy]: This is Kohji-sama's ship. Don't be so reserved,　　look around as much as you like.
 //［宏治］：存分に、ねぇ‥‥。
 [Kouji]: As much as I like, huh...
 //［トレイシー］：えぇ、何かあれば、遠慮無く呼んで下さい。
@@ -215,15 +215,15 @@ xenon_26
 //ra06c_m
 ra06c_m
 //［ランファ］：あっ、コウジ様！
-[Lanhua]: Ah-, Kouji-sama!
+[Lanhua]: Ah-, Kohji-sama!
 //ランファはオレに気付くと、手を止めてすぐに顔を破顔させる。彼女は、嬉しさを全身で表現する女の子だった。
 As Lanhua noticed me, she stopped working and broke into a  broad smile. She exuded happiness from her entire body.
 //［ランファ］：コウジ様、ランファに会いに来て下さったんですねっ。
-[Lanhua]: Kouji-sama, did you come all this way just to see me?
+[Lanhua]: Kohji-sama, did you come all this way just to see me?
 //［宏治］：えっ、あぁ、まぁそうなるのかな。
 [Kouji]: Eh-? Ahh, well, yes, it does seem that way.
 //［ランファ］：あーン、コウジ様のおそばに行きたいのに‥‥んもう！　このっ、このっ！
-[Lanhua]: Ahm, since Kouji-sama wanted to come here... mm,  come on! Take this, and this!
+[Lanhua]: Ahm, since Kohji-sama wanted to come here... mm,  come on! Take this, and this!
 //ランファは、手にした工具類で、手先の配線を乱暴に取り付けている。エンジンのメンテナンスか何かを、している最中なのかもしれない。
 Using the tool in her hand, Lanhua roughly installed the　　wiring beside her. She was probably right in the middle of  engine maintenance.
 //あんなに乱暴に扱って大丈夫なのかなぁ‥‥。
@@ -237,7 +237,7 @@ I wonder if it's OK to handle that so roughly?
 //［ランファ］：もうすぐ終わりますから‥‥これと、これと‥‥んしょっ。
 [Lanhua]: I'll be done soon...Now this, and this...Mm, there
 //［ランファ］：ところでコウジ様、どこから来られたんですか？
-[Lanhua]: By the way, Kouji-sama, where did you just come　　from?
+[Lanhua]: By the way, Kohji-sama, where did you just come　　from?
 //［ランファ］：そちらの方には、何もないはずですけど‥‥。
 [Lanhua]: Over that way, there's probably nothing there, but...
 //［宏治］：ハシゴがあったから、それで。
@@ -247,7 +247,7 @@ I wonder if it's OK to handle that so roughly?
 //［宏治］：い、いけなかったかな。
 [Kouji]: Sh-should I not have done that?
 //［ランファ］：いいえ、でも珍しいですね。コウジ様は、いつもリフトを利用なさるのに‥‥。
-[Lanhua]: It's fine, but it's a little odd. Kouji-sama, you always take the lift...
+[Lanhua]: It's fine, but it's a little odd. Kohji-sama, you always take the lift...
 //［宏治］：リフト？
 [Kouji]: The lift?
 //［ランファ］：ええ、それだとアッという間に、上へ着きますよ。
@@ -269,7 +269,7 @@ I wonder if it's OK to handle that so roughly?
 //［宏治］：（本当に大丈夫かなぁ‥‥。）
 [Kouji]: (Will it really be OK...?)
 //［ランファ］：エヘ、コウジ様っ。
-[Lanhua]: Ehe, Kouji-sama.
+[Lanhua]: Ehe, Kohji-sama.
 //ランファは人差し指の腹で、自分の鼻の下を軽く２、３度こすった。顔には屈託のない笑みが浮かんでいる。
 Lanhua rubbed the middle of her index finger under her nose two or three times. A carefree smile had formed on her face.
 //身体のそこかしこが油で汚れていて、おまけに油の付いた手で、顔をこするものだから、顔も少し赤茶けていた。
@@ -285,7 +285,7 @@ I gently reached into my pocket and pulled out a cloth　　　handkerchief, and
 //［宏治］：いいから、来るの。
 [Kouji]: Don't be shy, just come here.
 //［ランファ］：何ですか、コウジさ‥‥あっ。
-[Lanhua]: What's going on, Kouji-sa-...ah-.
+[Lanhua]: What's going on, Kohji-sa-...ah-.
 //ふきふき。
 *wipe wipe*
 //［ランファ］：あン‥‥。
@@ -295,7 +295,7 @@ I gently reached into my pocket and pulled out a cloth　　　handkerchief, and
 //［宏治］：女の子がこんなに顔を汚しちゃ、ダメだぜ。
 [Kouji]: It's no good for girls to get their faces so dirty.
 //［ランファ］：こ、コウジ様‥‥‥‥。
-[Lanhua]: K-Kouji-sama....
+[Lanhua]: K-Kohji-sama....
 //［宏治］：よし、これでＯＫだ。可愛くなった。
 [Kouji]: All right, this should be OK. You've become quite  cute.
 //［ランファ］：ら、ランファ‥‥ランファ、超カンゲキですぅ！
@@ -309,7 +309,7 @@ As she stared at me with a pained look in her eyes, somehow,I felt a little unea
 //［宏治］：べ、別にただ顔を拭いただけじゃないか。
 [Kouji]: Wh-what's with you? I just wiped your face, that's all.
 //［ランファ］：あぁ、コウジ様ぁ‥‥うるうる。
-[Lanhua]: Ahh, Kouji-samaa....*sob*.
+[Lanhua]: Ahh, Kohji-samaa....*sob*.
 //オレは一息吐くと、彼女の身体を丁重にオレの腕から引き離した。ランファは切なそうな目をしてオレを見つめるが、ぐっと堪える。
 As I let out a breath, she courteously let go of my arm. It took a lot for me to endure Lanhua's pained look.
 //［宏治］：なぁ、ランファ。
@@ -371,7 +371,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //［宏治］：うん、君は君の仕事をがんばって。
 [Kouji]: Yeah, go give it your all, Lanhua!
 //［ランファ］：はい！　コウジ様の為に、がんばっちゃいます！！
-[Lanhua]: Yes! For Kouji-sama's sake, I'll do my very best!!
+[Lanhua]: Yes! For Kohji-sama's sake, I'll do my very best!!
 //［宏治］：（ファルネリアか‥‥どんな人なんだろ。）
 [Kouji]: (Farnelia...what kind of a person could she be?)
 //［宏治］：さてと、ＶＩＰルーム、だったよな。
@@ -387,7 +387,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //［宏治］：誰がエンジンの定義を言えっていったの。こんな馬鹿でかいシロモノが、なぜここにあるかってことだよ。
 [Kouji]: Who's asking for the definition of an engine here? I was asking why this stupidly huge appliance is here.
 //［ランファ］：‥‥でも、コウジ様が設計・製作されたんですよ。
-[Lanhua]: ....But, Kouji-sama, you designed and produced it yourself.
+[Lanhua]: ....But, Kohji-sama, you designed and produced it yourself.
 //［宏治］：ふーん‥‥
 [Kouji]: Hmmm....
 //えっ？　オレが？
@@ -409,7 +409,7 @@ Huh? I did?
 //［ランファ］：このエンジンはですねっ。
 [Lanhua]: About this engine...
 //［ランファ］：コウジ様が設計・製作され、そしてランファが愛情をたーっぷりとそそいで手塩に育て上げた‥‥。
-[Lanhua]: Kouji-sama, you designed and produced it, and　　　Lanhua poured a lot of love and effort into it...
+[Lanhua]: Kohji-sama, you designed and produced it, and　　　Lanhua poured a lot of love and effort into it...
 //［宏治］：て、手塩‥‥？
 [Kouji]: L-love and effort?
 //［ランファ］：言うなれば、ランファとコウジ様の、愛の結晶と言えるかもしれませんね。
@@ -423,7 +423,7 @@ Huh? I did?
 //［ランファ］：さて、雑音は消しちゃってと。
 [Lanhua]: There, that interference is gone.
 //［ランファ］：コウジ様、どうしました？
-[Lanhua]: Kouji-sama, what's wrong?
+[Lanhua]: Kohji-sama, what's wrong?
 //［宏治］：似てるかも、君たち。
 [Kouji]: You two are quite similar.
 //［宏治］：ランファは、ここで何をしていたんだい？
@@ -433,9 +433,9 @@ Huh? I did?
 //［宏治］：そういえば、メカをいじらせたら右に出る者無しなんだって？
 [Kouji]: Speaking of which, I heard there's no one who can  match you when it comes to tinkering with machines?
 //［ランファ］：そんな‥‥コウジ様の足下にも及びません、私なんか‥‥。
-[Lanhua]: No... I can't even begin to compare to you, Kouji-sama... I'm nothing...
+[Lanhua]: No... I can't even begin to compare to you, Kohji-sama... I'm nothing...
 //［ランファ］：コウジ様、お体の具合はもうよろしいのですか？
-[Lanhua]: Kouji-sama, is your body healed already?
+[Lanhua]: Kohji-sama, is your body healed already?
 //［宏治］：オレはもともと、具合なんて悪くはないぞ。
 [Kouji]: Yeah, my body is doing more or less fine.
 //［ランファ］：さっすがですね。
@@ -449,7 +449,7 @@ Huh? I did?
 //［宏治］：んー、ゴメン。何でもない。
 [Kouji]: Mm, sorry. Don't worry about it.
 //［ランファ］：クスッ、変なコウジ様っ。
-[Lanhua]: Heh, you're such a weirdo, Kouji-sama.
+[Lanhua]: Heh, you're such a weirdo, Kohji-sama.
 //ここは‥‥。
 Over here....
 //どうやら、このあたりは対称的な造りになっているらしい。
@@ -485,11 +485,11 @@ I surveyed my surroundings for a while.
 //声を掛けるか掛けまいか、オレが思案していると、彼女の方がオレの存在に気付いた。
 As I was deciding whether to call out, she noticed me.
 //［女の子］：あっ、コウジ様！
-[Girl's voice]: Ah-, Kouji-sama!
+[Girl's voice]: Ah-, Kohji-sama!
 //何かの工具を手にしたその女の子はオレに気付くと、手を止めてすぐに顔を破顔させる。
 As the girl holding a tool in her hand noticed me, she　　　stopped working and broadly smiled at me.
 //［女の子］：コウジ様、ランファに会いに来て下さったんですねっ。
-[Girl]: Kouji-sama, did you come here to visit me, Lanhua?
+[Girl]: Kohji-sama, did you come here to visit me, Lanhua?
 //［オレ］：えっ、何でオレのことを‥‥。
 [Me]: Eh-, why do you...?
 //ランファと名乗るその女の子は、手にした工具類で、手先の配線を乱暴に取り付けている。あんなに乱暴に扱って大丈夫なのかなぁ‥‥。
@@ -579,7 +579,7 @@ Using the tool in her hand, Lanhua roughly installed the　　wiring beside her.
 //［オレ］：そう。
 [Me]: Yes, you.
 //［ランファ］：私はランファですぅ、コウジ様、お忘れになりました？
-[Lanhua]: I'm Lanhua, Kouji-sama, have you forgotten?
+[Lanhua]: I'm Lanhua, Kohji-sama, have you forgotten?
 //［オレ］：はっきり言って、君のことなど知らない。
 [Me]: Speak clearly, I don't know anything about you.
 //［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい‥‥
@@ -589,7 +589,7 @@ Using the tool in her hand, Lanhua roughly installed the　　wiring beside her.
 //［オレ］：な、なに？
 [Me]: W-what is it?
 //［ランファ］：コウジ様がここにいるということは‥‥じゃあ、今ファルネリア様は！？
-[Lanhua]: Kouji-sama, if you're here... then where is　　　　Farnelia-sama now?! 
+[Lanhua]: Kohji-sama, if you're here... then where is　　　　Farnelia-sama now?! 
 //［オレ］：だ、誰？　その、ファルネリアサマって。
 [Me]: W-who's that Farnelia-sama?
 //［ランファ］：大変だわっ！
@@ -615,17 +615,17 @@ Wh-what...
 //何だ‥‥？
 ...is that here?
 //［ランファ］：あっ、コウジ様っ。
-[Lanhua]: Ah-, Kouji-sama.
+[Lanhua]: Ah-, Kohji-sama.
 //［オレ］：き、君は‥‥。
 [Me]: Y-you...
 //［ランファ］：コウジ様？
-[Lanhua]: Kouji-sama?
+[Lanhua]: Kohji-sama?
 //［オレ］：そう‥‥
 [Me]: Yes... 
 //あれ？　電気が消えたのかな‥‥。
 Huh? The electricity went out...
 //［ランファ］：コウジ様ぁ、しっかりして下さい。
-[Lanhua]: Kouji-sama, please get ahold of yourself.
+[Lanhua]: Kohji-sama, please get ahold of yourself.
 //［オレ］：このエンジンは、いったいどういうモノなんだ？
 [Me]: Just what kind of machine is this engine here?
 //［ランファ］：このエンジン、ですか？
@@ -633,7 +633,7 @@ Huh? The electricity went out...
 //［オレ］：そうだ。何でこんなモノがここに‥‥。
 [Me]: Yes. Why is this thing here...?
 //［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい。これはランファとコウジ様の愛の結晶ですぅ。
-[Lanhua]: Well....please don't talk about it so heartlessly.It's the fruit of the love between you and me, Kouji-sama.
+[Lanhua]: Well....please don't talk about it so heartlessly.It's the fruit of the love between you and me, Kohji-sama.
 //［オレ］：あ、愛の‥‥なんだって？
 [Me]: T-the fruit...What do you mean?
 //［ランファ］：あぁぁっ！！
@@ -785,11 +785,11 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：大宇宙海賊というのは、いったいなんだ？
 [Kouji]: What even is a galactic pirate, anyway?
 //［宏治］：彼女らは知ってか知らずか、オレのことをコウジだと思ってるってことだ。
-[Kouji]: Whether the women know the truth or not, they thinkof me as Kouji.
+[Kouji]: Whether the women know the truth or not, they thinkof me as Kohji.
 //［宏治］：コウジってのは、どうも大宇宙海賊と名乗っているらしくて‥‥。
-[Kouji]: Kouji, referring to that galactic pirate...
+[Kouji]: Kohji, referring to that galactic pirate...
 //［宏治］：彼女らは、そのコウジってヤツをかなり敬愛していて‥‥。
-[Kouji]: Those women really love and respect that Kouji　　　fellow...
+[Kouji]: Those women really love and respect that Kohji　　　fellow...
 //［宏治］：別に畜生だなんて思ってないぞ。ただちょっと、ムカついただけだ。
 [Kouji]: I don't really think of him as some bastard, but hedoes make me a little queasy at times.
 //［宏治］：だいたい何だよ、大宇宙海賊ってのは。センス悪すぎだぜ。
@@ -797,7 +797,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：わかりにくいが、つまり、彼女らはオレのことを、同名の他のヤツと勘違いしてるってことだ。
 [Kouji]: It's over my head, but in summary, those women havemistaken me for a guy I share a name with.
 //［宏治］：そう、オレは宏治であって、コウジではない。
-[Kouji]: Yeah, I'm Kouji, not Kouji.
+[Kouji]: Yeah, I'm Kouji, not Kohji.
 //［宏治］：何だか不毛な気がしてきた。他の事を考えよう。
 [Kouji]: This thinking is becoming unproductive. Let's thinkabout something else.
 //［宏治］：トレイシーという女性は、どうもオレの秘書みたいな感じがする。
@@ -830,7 +830,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：確か、ここではメカ関連を一手に担っているということだが。顔に似合わず機械好きなんだろうか。
 [Kouji]: Indeed, she seems to be singlehandedly responsible for all things mechanical around here. Despite her　　　　　appearances, she's a real machine nut.
 //［宏治］：コウジ様、コウジ様って慕ってくれんのはいいけど‥‥。
-[Kouji]: Her constant praise for "Kouji-sama, Kouji-sama" isall right, but...
+[Kouji]: Her constant praise for "Kohji-sama, Kohji-sama" isall right, but...
 //［宏治］：何だか精神年齢が低いような気が‥‥。
 [Kouji]: She seems immature...
 //［宏治］：知識年齢は、高いんだろうけどなぁ‥‥。
@@ -1008,11 +1008,11 @@ fa02_m
 //［宏治］：何だよ、その色ってのは。
 [Kouji]: What do you mean, I'm giving off that color?
 //［ファル］：宇宙海賊のコウジといったら、冷徹で残虐非道の代名詞みたいになっていたから‥‥。
-[Far]: Well, to describe a galactic pirate like Kouji, a　　level-headed yet inhuman kind of pronoun would be more　　　suitable...
+[Far]: Well, to describe a galactic pirate like Kohji, a　　level-headed yet inhuman kind of pronoun would be more　　　suitable...
 //［宏治］：本当の事を言うとね、君が思った通り、実は違うんだよ。
 [Kouji]: The reality is different from what you're thinking right now.
 //［ファル］：違うって、あなたコウジでしょう？
-[Far]: You say it's different, but aren't you Kouji?
+[Far]: You say it's different, but aren't you Kohji?
 //［宏治］：ああ、オレは宏治だ。
 [Kouji]: No, I'm Kouji.
 //［ファル］：あの残虐非道の宇宙海賊で‥‥。
@@ -1022,7 +1022,7 @@ fa02_m
 //［ファル］：‥‥どういうことよ？
 [Far]: ...What do you mean?
 //［宏治］：俺は宏治であって、コウジではないんだ。
-[Kouji]: I'm Kouji, not Kouji.
+[Kouji]: I'm Kouji, not Kohji.
 //［ファル］：なによそれ、どっかの宗教じゃないんだから。
 [Far]: What's that supposed to mean? It's not like this is  some kind of religion.
 //［宏治］：説明は難しいから端折るけど、とにかく君に対して悪いようにはしないつもりだ。
@@ -1062,7 +1062,7 @@ fa02_m
 //［宏治］：確か、こうして‥‥このボタンを押すんだったな。
 [Kouji]: If I remember correctly, I do this... I push this  button.
 //［トレイシー］：コウジ様、こちらでしたか。
-[Tracy]: Oh, Kouji-sama, you were here all along?
+[Tracy]: Oh, Kohji-sama, you were here all along?
 //［宏治］：トレイシーじゃないか、どうしたのさ？
 [Kouji]: Well, if it isn't Tracy, what's going on?
 //［トレイシー］：はい、本船の進路上にＧ２型大型シップを確認しましたが、いかがなさいますか？
@@ -1084,7 +1084,7 @@ fa02_m
 //［トレイシー］：マニュアルとおっしゃられましても‥‥。
 [Tracy]: You've never spoken to me about a manual...
 //［宏治］：じゃあ、いつもコウジが‥‥オレがやっていた対処法は？
-[Kouji]: Well, how does Kouji... how do I deal with　　　　　situations like these?
+[Kouji]: Well, how does Kohji... how do I deal with　　　　　situations like these?
 //［トレイシー］：あっ、はい‥‥とりあえず移動型の索敵ブイを放出して、相手の正体を確認するのが当面の対処法になると思います。
 [Tracy]: Ah-, yes...for now, sending out a mobile search　　buoy to confirm the other party's identity would be an　　　appropriate move.
 //［宏治］：うん、じゃあそれでいこう。
@@ -1207,7 +1207,7 @@ fa03_m
 //［宏治］：そういえば、誘拐とか監禁とか、ちょっと穏やかでない言葉もチラホラ出ていたし‥‥。
 [Kouji]: Speaking of which, whether it's kidnapping or　　　confinement, they're both rather strong words...
 //［宏治］：んー、コウジってヤツは、いったいどういうヤツなんだ。
-[Kouji]: Nng, what kind of person was that Kouji bastard,　　anyway?
+[Kouji]: Nng, what kind of person was that Kohji bastard,　　anyway?
 //ピーピッ、ピーピッ‥‥。
 *BEEEEP*, *BEEEEP*...
 //［宏治］：なんかこう、緊迫感がないようなぁ。気にはなるけど‥‥。

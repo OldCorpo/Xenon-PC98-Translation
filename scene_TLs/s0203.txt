@@ -19,7 +19,7 @@ Farnelia...why is she here...?
 //何だと、彼女がいなければ、ジェネレータは機能しないではないか。極めて合理的であるはずの私が、一体何を言っている。
 What!? What on earth am I saying? Without her, the generatorwon't even function. Supposedly, I needed to be cold and　　emotionless about this.
 //［ファル］：でもコウジ、エンコーダは、どうするの‥‥？
-[Far]: But Kouji, what will you do about the encoder...?
+[Far]: But Kohji, what will you do about the encoder...?
 //［男］：‥‥残念だけど、あいつは返せない。
 [Man]: ... It's a shame, but I can't give it back.
 //その通りだ。さすが私だ。
@@ -41,7 +41,7 @@ This has to be a dream; there's no way it isn't. I can't　　actually intend to
 //うむ、だとすれば極めて合理的かつ論理的だ。しかし、夢の中の自分とはいえ‥‥。
 Hm, if I were there, I'd be exceedingly rational and logicalHowever, the "me" within the dream is...
 //［コウジ］：何たる無様な醜態だ。
-[Kouji]: What the devil are you doing?
+[Kohji]: What the devil are you doing?
 //［男］：えっ？　何か言った？
 [Man]: Huh? Did you say something?
 //［ファル］：ううん。
@@ -51,13 +51,13 @@ Hum, well, this is fine. I do sometimes have uninteresting  dreams, after all...
 //そう考えると、私は再び深い眠りの域へと落ちていった‥‥‥‥。
 With that in mind, I fell into deep sleep once more....
 //［コウジ］：夜、か‥‥。
-[Kouji]: It's night, huh...
+[Kohji]: It's night, huh...
 //この部屋には、いつもカーテンが閉まっていて、時間の感覚が捉えにくい。
 This room always has the curtains closed, so it's hard to　 tell the time. 
 //しかし人間の体内には、生物時計とも言うべきものが存在する。私のそれは極めて正確に、現在の時間を言い当てる事ができるのだ。
 However, human bodies have something called a circadian　　 rhythm. Mine is so exceedingly accurate, I can tell time　　by it.
 //［コウジ］：フン、だいたい午前２時というところか‥‥。
-[Kouji]: Hum, now should be about 2 in the morning...
+[Kohji]: Hum, now should be about 2 in the morning...
 //ベッドの脇の時計は、やはり２時を指していた。さすが、私だ。
 The bedside clock indeed read 2AM, that's just how good I am
 //いくぶん、非合理的な考察を行った気がするが、気にしないでおく。これから私には、やることがあった。
@@ -81,13 +81,13 @@ Thinking of that, with heavy feet, I turned towards the　　 rooftop.
 //エレベータから降りると、暗く静かな場が眼前に広がっていた。閑散とした様相が、私の体温までも引き下げていく。
 As I got off the elevator, the dark, quiet place opened up  before me. The silent atmosphere cooled me to my core.
 //［コウジ］：ぶ、ぶへぇぇ〜っくしょん！！！
-[Kouji]: Huah, Huaaachoooo!!!
+[Kohji]: Huah, Huaaachoooo!!!
 //いかに最強の宇宙海賊とはいえ、根絶不能とまで言われる風邪ウィルスにだけは、なかなか手間取るのである。
 Even the strongest galactic pirate will take time to　　　　overcome just the so-called ineradicable cold virus.
 //早いところ、この私の卓越的な頭脳と行動力をもって、風邪ウィルスに対処するワクチンを作らねばな。
 I really need to use my exceptional intellect and initiativeto develop a vaccine against the cold virus as soon as　　　possible.
 //［コウジ］：しかし、私はなぜ屋上へやって来たのだ‥‥？
-[Kouji]: But why did I come to the rooftop...?
+[Kohji]: But why did I come to the rooftop...?
 //魔がさすという事は、誰にでもあることだ。今度こそ、私らしい合理的かつ能率的な行動をしよう。
 Everyone has their Achilles' heels, so to speak. This time, too, I'll make a reasonable, efficient move.
 //そう、私にはやることがあった。それは‥‥‥‥。
@@ -105,11 +105,11 @@ Lounging on the kitschy hard sofa in the empty lobby, I can indulge in reading t
 //どうやら、これが大宇宙海賊に相応しい、合理的かつ論理的な行動に思えた。
 Somehow, this kind of reasonable, rational plan is fitting  for a galactic pirate.
 //［コウジ］：フン、原住民どもは、誰もいないようだな。
-[Kouji]: Hum, there don't seem to be any natives around.
+[Kohji]: Hum, there don't seem to be any natives around.
 //私は近くにある情報誌を片手に、案の定硬いソファの上にゴロリと横になった。
 I grabbed the nearby information magazine in one hand, and  lazily slumped down on the expectedly hard sofa.
 //［コウジ］：どこもかしこも、低俗に相応しい出来だ。意外に文明レベルは低くはないようだな。
-[Kouji]: This place is fittingly commoner. Surprisingly,　　their technological development isn't as limited as I　　　 expected.
+[Kohji]: This place is fittingly commoner. Surprisingly,　　their technological development isn't as limited as I　　　 expected.
 //速読を利用し、ものの５秒ほどで読破した私は、満悦にうなずいた。
 After finishing the magazine in 5 seconds by speed reading, I nodded, fully satisfied.
 //文明レベルの高低は、低俗度の高低に比例する。レベルが上がれば、内容が洗練されるという訳ではない。
@@ -123,19 +123,19 @@ To allow such modest pleasures of living, they look for　　 boring jobs, and o
 //文明レベルが高ければ高いほど、人権などという反吐がでそうな思想を利用して、厳然と存在する階級社会を、巧みに隠蔽するのだ。
 And if the development's level rises high enough, some　　　people will think of spewing thoughts about human rights,　 but in the existing strict hierarchical society, they would have to hide it cleverly.
 //［コウジ］：フン、シビリアン・コントロールの初歩の初歩だな。
-[Kouji]: Heh, that's Civillian Control 101.
+[Kohji]: Heh, that's Civillian Control 101.
 //意外に、支配しやすそうな社会だった。恐らく、強力な指導者が現れたとたん、シッポを振って迎合するに違いない。
 This society seems extremely easy to control. The moment a  strong leader appeared, they'd fawn over them without　　　 question.
 //その指導者が、私である可能性も、十分にあり得るではないか。
 That leader could definitely be me, couldn't it be?
 //［コウジ］：フフン、まぁいい‥‥。
-[Kouji]: Hehe, nice...
+[Kohji]: Hehe, nice...
 //ふと、紙面の右上を見る。宇宙歴ではないな‥‥‥‥西暦？
 I suddenly looked at the top right corner of the paper. Not the Universal Calendar but...the Gregorian Calendar?
 //西暦というと、ずいぶん前に廃止された年号だ。
 The Gregorian Calendar fell out of use quite a while ago.
 //［コウジ］：どうやら、思っていた通りだな‥‥かなり、太古の地球という訳か。
-[Kouji]: So that's what this is... the Earth from a very　　ancient time.
+[Kohji]: So that's what this is... the Earth from a very　　ancient time.
 //意外な収穫があるものだ。収穫はあったが、無論ここにいることは、私の本来の目的から外れている。
 What an unexpected boon. This newfound knowledge defeats my original motivation for being here.
 //私にはやることがあるのだ。それは‥‥‥‥。
@@ -155,7 +155,7 @@ In the calm, quiet corridor, only my footsteps rang out.　　Without a doubt, i
 //あたりには人影も見えず、ただ無機質な廊下が、眼前に伸びているだけだった。
 I don't see a soul around. Only this lifeless corridor　　　stretches out in front of me.
 //［コウジ］：フン、魚の腐ったような奴等でも、いないとそれなりに閑散とするものだ。
-[Kouji]: Hum, they may be like rotting fish, but it's becomequiet here without them.
+[Kohji]: Hum, they may be like rotting fish, but it's becomequiet here without them.
 //私は、コンピュータ・ルームへ、黙々と歩みを進めていた。センター内のマップは、既に頭にインプットしてある。
 I silently walked towards the computer room. I already inputthe map of the center's interior into my head.
 //あの、ドリームプログラムとやらいうマシンは、ぜひ見ておきたかったのだ。こんな太古の昔に、同コンセプトのマシンがあるとは‥‥。
@@ -171,27 +171,27 @@ That leader could very well be me, couldn't it....
 //私は新聞を元の場所に戻すと、再び誰もいない廊下を歩きだした‥‥。
 I put the newspaper back in its original place, and　　　　 continued walking down the empty corridor...
 //［コウジ］：ここか‥‥。
-[Kouji]: Here it is...
+[Kohji]: Here it is...
 //目の前には重厚なドアがそびえ立っている。いかにも、何かありますと言わんばかりだ。
 A heavy, thick door towered before me. There's got to be　　something in there.
 //［コウジ］：（フン、こんなドアは、大宇宙海賊のウルトラスーパーマグナム・キックの前には、紙クズ同然だ。）
-[Kouji]: (Hum, to the galactic pirate's Super Ultra Magnum  Kick, this door is like a piece of crumpled paper.)
+[Kohji]: (Hum, to the galactic pirate's Super Ultra Magnum  Kick, this door is like a piece of crumpled paper.)
 //私が履いている脆弱な靴の底が、このぶしつけなドアをノックしかけた途端、ゴッという風の音と共に扉は左右に開かれた。
 I used the soles of the weak shoes I was wearing to knock onthis stubborn door, and, with a sound of a gust of wind, thedoor gave way.
 //ウィーーン‥‥‥‥。
 *creeeeak*
 //［コウジ］：むっ、くっ、なにを！
-[Kouji]: *cough* *cough* What?!
+[Kohji]: *cough* *cough* What?!
 //私は『おっとっと』をしながら、暗い室内へと入っていった。幸い、転ぶというハメには陥らずにすんだようだ。
 As I steadied myself, I entered the dark room. Fortunately, I hadn't fallen into the stage.
 //歌舞伎のような格好をやめると、私は襟元をただして周りを見る。
 I stopped behaving like this was a kabuki play, fixed my　　collar and looked around me.
 //［コウジ］：ほぉ、これはなかなかのモノだな。
-[Kouji]: Whoa, this is quite a sight.
+[Kohji]: Whoa, this is quite a sight.
 //発展途上文明にしては、過ぎたシロモノだ。メカメカしいマシンを目の前にすると、自然と口の端がつり上がってくる。
 This thing has definitely surpassed the developing　　　　　civilization. As the mechanical machine appeared before me, the edges of my mouth naturally turned upwards.
 //［コウジ］：ランファを連れてきたら、喜びそうだがな‥‥。
-[Kouji]: I should bring Lanhua here, she'd love this...
+[Kohji]: I should bring Lanhua here, she'd love this...
 //私は、この装置を色々と解析してみることにする。
 I want to perform all kinds of analyses on this apparatus.
 //　◆ まずコンソールパネルを利用して‥‥‥。
@@ -205,59 +205,59 @@ First, I should use the control panel to gain an overview ofthis machine.
 //カタカタカタ‥‥‥‥。
 *clatter clatter*
 //［コウジ］：フン、見よ、この卓越したキーボードさばきを！
-[Kouji]: Hum, see, I'll render judgment by this excellent　 keyboard!
+[Kohji]: Hum, see, I'll render judgment by this excellent　 keyboard!
 //［コウジ］：しかし何と使いづらいキーボードだ‥‥人間工学に劣っている‥‥。
-[Kouji]: However, this keyboard is hard to use...human　　　engineering is so behind...
+[Kohji]: However, this keyboard is hard to use...human　　　engineering is so behind...
 //［コウジ］：こんなのを毎日叩いていたら、指が曲がってしまうぞ。
-[Kouji]: If I were typing every day on this, my fingers　　 would get all curled up.
+[Kohji]: If I were typing every day on this, my fingers　　 would get all curled up.
 //［コウジ］：おぉっ、指が曲がっているっ！
-[Kouji]: Ohh, my fingers are already curled!
+[Kohji]: Ohh, my fingers are already curled!
 //［コウジ］：と思ったら、関節を曲げていただけだったか‥‥。
-[Kouji]: ...Is what I would think, but it's just my joints  that are bent...
+[Kohji]: ...Is what I would think, but it's just my joints  that are bent...
 //ピピピピ‥‥。
 *beep* *beep* *beep*...
 //［コウジ］：フン、意外に陳腐なアルゴリズムを使っているな‥‥。
-[Kouji]: Hum, what an outdated algorithm they're using...
+[Kohji]: Hum, what an outdated algorithm they're using...
 //［コウジ］：やはりそうか‥‥フン、この時代には出来すぎたシロモノだ。
-[Kouji]: So that's how it is...Hum, this machine is really  far ahead of its time.
+[Kohji]: So that's how it is...Hum, this machine is really  far ahead of its time.
 //［コウジ］：だいたいの構造は理解した。
-[Kouji]: I think I got the gist of its construction.
+[Kohji]: I think I got the gist of its construction.
 //ソケットを開けて、直接中を見てみよう。
 I should open up the socket and look directly inside.
 //カパッ。
 *pop*
 //［コウジ］：ふむ、中の電子部品は旧世代のものだな。
-[Kouji]: Hm, the electronic parts inside really are ancient,huh.
+[Kohji]: Hm, the electronic parts inside really are ancient,huh.
 //［コウジ］：未だに半導体を、論理回路に使っているのか‥‥さすが開発途上文明だな。
-[Kouji]: They're still using semiconductors to inscribe　　 logic circuits... how fitting for a developing civilization.
+[Kohji]: They're still using semiconductors to inscribe　　 logic circuits... how fitting for a developing civilization.
 //［コウジ］：‥‥しかし、これでは正常な動作はしない。シナプスの２～３万本も焼き切るだけだ。
-[Kouji]: ... However, this isn't operating normally. It'll  fry 20-30 thousand synapses.
+[Kohji]: ... However, this isn't operating normally. It'll  fry 20-30 thousand synapses.
 //［コウジ］：拷問にはいいかもしれんな。
-[Kouji]: Might be good for torture.
+[Kohji]: Might be good for torture.
 //［コウジ］：よし、いっちょう涼子のやつをこいつに掛けて‥‥。
-[Kouji]: Well then, one day, I'll use this on that Ryouko　 person...
+[Kohji]: Well then, one day, I'll use this on that Ryouko　 person...
 //［コウジ］：フム、何故かわくわくしてしまうな。あの女は、どうやらイジメ甲斐がありそうだ。
-[Kouji]: Hum, why am I getting so excited? That woman seems to be worth teasing.
+[Kohji]: Hum, why am I getting so excited? That woman seems to be worth teasing.
 //ウルトラスーパーマグナム・キックをお見舞いしてやろう。
 I'll use my Super Ultra Magnum Kick on it.
 //［コウジ］：ゆくぞ、ウルトラスーパーマグナム‥‥キィィックゥ！！
-[Kouji]: Here we go, SUPER ULTRA MAGNUM... KIIIIICK!!
+[Kohji]: Here we go, SUPER ULTRA MAGNUM... KIIIIICK!!
 //ゴーーーン‥‥‥‥。
 *CLANG*
 //［コウジ］：スネから血が出てしまったではないか‥‥おっ。
-[Kouji]: My lower leg isn't bleeding, or is it... damn.
+[Kohji]: My lower leg isn't bleeding, or is it... damn.
 //［コウジ］：なぜ、目から涙がにじみでているのだ‥‥？
-[Kouji]: Why are tears coming out of my eyes...?
+[Kohji]: Why are tears coming out of my eyes...?
 //［コウジ］：フム、この脆弱な肉体では、恐らくマグナムキックの１００分の１ほどの威力も出まい。
-[Kouji]: Hmph, this puny body is probably only capable of　 putting out 1% of the Magnum Kick's power.
+[Kohji]: Hmph, this puny body is probably only capable of　 putting out 1% of the Magnum Kick's power.
 //［コウジ］：フン、このくらいで勘弁しておいてやろう。
-[Kouji]: *gasp* I should learn to take it easy.
+[Kohji]: *gasp* I should learn to take it easy.
 //マシンから顔を上げると、私は近くの椅子に座り、一息吐く。
 I lifted my head out of the machine, sat down in a nearby　 chair, and let out a sigh.
 //どうやら伝送系ルーチンに、バグが残っているらしい。そこのアルゴリズムを正せば‥‥。
 The transmission system routine has a bug in it. If the　　 algorithm in it were fixed...
 //［コウジ］：いや、これはダメだな‥‥。
-[Kouji]: No, this is fruitless...
+[Kohji]: No, this is fruitless...
 //いや、しかしこちらからのアクセスだけでは、いくら圧力を高めたところで、シンクロできるタイムは高々知れている。
 No, actually, just from accessing through here, where　　　 there's some increased pressure, I'll learn more about the  possible synchro time.
 //両装置が、どう位相上、しかも時間軸上での座標上で同時に、装置を作動させる必要がある。
@@ -269,49 +269,49 @@ No, it's *because* we hit that activation that I'm even here
 //こちらから強制的に意識を投影しても、恐らく思念体の強制排他がおきるだけだ。恐らく数秒しかシンクロできまい。
 Forcibly projecting my consciousness from here likely also  caused the forced exclusion of only the thought body. I　　 probably can't synchronize for more than a few seconds.
 //［コウジ］：フン、まぁいいだろう。
-[Kouji]: Hum, well, that's just fine.
+[Kohji]: Hum, well, that's just fine.
 //私が立ち上がりかけたとき‥‥。
 As I stood up...
 //［コウジ］：‥‥ん？
-[Kouji]: ...Hm?
+[Kohji]: ...Hm?
 //［女］：何をしているの。
 [Woman]: What are you doing?
 //［女］：それは私のセリフよ。誰よ、あなたは。
 [Woman]: That's my line. Who are you?
 //［コウジ］：私は、宇宙海賊コウジである。
-[Kouji]: I am the galactic pirate Kouji.
+[Kohji]: I am the galactic pirate Kohji.
 //［女］：あー、あなたね。おかしくなっちゃった子は。
 [Woman]: Ahh, *you*. You're a strange one.
 //［コウジ］：‥‥貴様は？
-[Kouji]: ...And who the hell are you?
+[Kohji]: ...And who the hell are you?
 //［女］：沙夜香よ。
 [Woman]: Sayaka, of course.
 //［コウジ］：フン、こんな所に何の用だ。
-[Kouji]: Hum, what are you tasked with in a place like this?
+[Kohji]: Hum, what are you tasked with in a place like this?
 //［沙夜香］：あなたこそ何の用よ。一般人が立ち入る場所じゃないわよ。
 [Sayaka]: I should ask the same, what are *you* tasked with?This isn't a place ordinary people can come to.
 //［コウジ］：私は一般人ではない。
-[Kouji]: I'm not an ordinary person, though.
+[Kohji]: I'm not an ordinary person, though.
 //［沙夜香］：じゃあ、何よ。
 [Sayaka]: Then, what are you?
 //［コウジ］：宇宙海賊だ。
-[Kouji]: A galactic pirate.
+[Kohji]: A galactic pirate.
 //［沙夜香］：‥‥ここまでイっちゃってるとはねぇ。
 [Sayaka]: ...You're pulling my leg, aren't you?
 //［コウジ］：貴様の番だ。
-[Kouji]: Now it's your turn.
+[Kohji]: Now it's your turn.
 //［沙夜香］：私は‥‥政府関係の人間よ。
 [Sayaka]: I'm...a person affiliated with the government.
 //［コウジ］：政府？　すると権力に寄生する犬か？
-[Kouji]: The government? So a dog who protects people's　　 rights?
+[Kohji]: The government? So a dog who protects people's　　 rights?
 //［沙夜香］：ずいぶんな言い分ね。
 [Sayaka]: What an awful thing to say.
 //［コウジ］：フン、事実を述べたまでだ。このマシンと貴様との関係は？
-[Kouji]: Humph, I'm just telling the truth. What's your　　 relation to this machine, anyway?
+[Kohji]: Humph, I'm just telling the truth. What's your　　 relation to this machine, anyway?
 //［沙夜香］：ま、私が開発に関与したというところかしら。
 [Sayaka]: Well, does this look like the kind of place I　　 would tell you that so freely?
 //［コウジ］：ほぉ、それでは‥‥。
-[Kouji]: Hoh, well...
+[Kohji]: Hoh, well...
 //　◆ では、このマシンの基本コンセプトを言ってみろ。
 ◆ Then, explain the basic principles of this machine.
 //　◆ では、貴様のスリーサイズを言ってみろ。
@@ -319,49 +319,49 @@ As I stood up...
 //　◆ では、さようなら。
 ◆ Then, farewell.
 //［コウジ］：では、このマシンの基本コンセプトを言ってみろ。
-[Kouji]: Then, tell me about the fundamental concepts behindthis machine.
+[Kohji]: Then, tell me about the fundamental concepts behindthis machine.
 //［沙夜香］：な、なんですって？
 [Sayaka]: W-what did you say?
 //［コウジ］：このマシンの、基本コンセプトだ。
-[Kouji]: The fundamental concepts behind this machine.
+[Kohji]: The fundamental concepts behind this machine.
 //［沙夜香］：なぜ‥‥あなたに言わなくては、ならないのよ。
 [Sayaka]: Why...I won't tell you anything at this rate.
 //［コウジ］：フン、言えないのか。
-[Kouji]: Humph, you won't tell me?
+[Kohji]: Humph, you won't tell me?
 //［沙夜香］：違うわ、あなたに言う必要性がないからよ。
 [Sayaka]: That's not it, it's because there's no need to　　tell you anything.
 //［コウジ］：なるほど、小悪党の匂いがプンプンと漂ってくるな。
-[Kouji]: I see, I smell a rat.
+[Kohji]: I see, I smell a rat.
 //［沙夜香］：ど、どういうことよ。
 [Sayaka]: W-what do you mean?
 //［コウジ］：わからないか、他人の功績をさも自分のモノだと振りかざす、小心者の悪党の事だ。
-[Kouji]: I don't know, but to take credit for someone else'saccomplishments is nothing short of a cowardly rat's　　　　behavior.
+[Kohji]: I don't know, but to take credit for someone else'saccomplishments is nothing short of a cowardly rat's　　　　behavior.
 //［沙夜香］：‥‥それが、私だというの？
 [Sayaka]: ...Are you talking about me?
 //［コウジ］：違うと言うなら、このマシンの基本コンセプトを言ってみるがいい。
-[Kouji]: If I weren't, you could tell me about the machine'sfundamental concepts.
+[Kohji]: If I weren't, you could tell me about the machine'sfundamental concepts.
 //［コウジ］：では私が言ってやろう。このマシンは、霊子エナジーを増幅するジェネレータだ。
-[Kouji]: Well, tell me. This machine is a generator that　　amplifies Reiko energy.
+[Kohji]: Well, tell me. This machine is a generator that　　amplifies Reiko energy.
 //［コウジ］：これを利用すれば、思念体と物理的肉体の分離を行うことができるが‥‥。
-[Kouji]: If someone were to use it, their thought body and  somatic body could be separated....
+[Kohji]: If someone were to use it, their thought body and  somatic body could be separated....
 //［沙夜香］：‥‥‥‥。
 [Sayaka]:......
 //［コウジ］：いかんせん、この装置の電送系ルーチンにバグが残っている。
-[Kouji]: It's unfortunate, but this apparatus's transmissionroutine has a bug in it.
+[Kohji]: It's unfortunate, but this apparatus's transmissionroutine has a bug in it.
 //［沙夜香］：バグが‥‥？
 [Sayaka]: A bug?
 //［コウジ］：これは致命的なものだ。だが運良く、同じ時間位相軸上で、同コンセプトのマシンが稼働していたために、被験者の思念体は、彼方へと時間を越えていったのだ。
-[Kouji]: This is a crucial flaw. But luckily, because our　 temporal phases aligned, I was moved from a machine with thesame concept, and the subject's thought body was moved to　 that time.
+[Kohji]: This is a crucial flaw. But luckily, because our　 temporal phases aligned, I was moved from a machine with thesame concept, and the subject's thought body was moved to　 that time.
 //［沙夜香］：な、何のことを言っているの‥‥。
 [Sayaka]: W-what are you talking about...?
 //［コウジ］：普段だったら、被験者の脳シナプスの２～３万本は、焼き切れていただろうがな‥‥。
-[Kouji]: If this were functioning normally, about 20-30　　 thousand of the subject's brain synapses would be fried...
+[Kohji]: If this were functioning normally, about 20-30　　 thousand of the subject's brain synapses would be fried...
 //［コウジ］：もっとも私は、それをデバッグする術を知っているが‥‥。
-[Kouji]: Besides, I know how to debug this flaw...
+[Kohji]: Besides, I know how to debug this flaw...
 //［涼子］：宏治クン！
 [Ryouko]: Kouji-kun!
 //［コウジ］：貴様は、涼子‥‥。
-[Kouji]: You must be Ryouko...
+[Kohji]: You must be Ryouko...
 //［涼子］：さっ、宏治クン、お部屋に帰りましょうね。
 [Ryouko]: Come, Kouji, return to your room.
 //［沙夜香］：ちょっと、涼子先生、いきなり‥‥。
@@ -369,59 +369,59 @@ As I stood up...
 //［涼子］：ホホホ、ごめんなさいね、沙夜香さん。それじゃ‥‥。
 [Ryouko]: Hohoho, sorry about that, Sayaka-san. Well, then  ...
 //［コウジ］：では、貴様のスリーサイズを言ってみろ。
-[Kouji]: Then, tell me your three measurements.
+[Kohji]: Then, tell me your three measurements.
 //［沙夜香］：はぁ？
 [Sayaka]: Huh?
 //［コウジ］：言えないらしいな。
-[Kouji]: It seems you won't tell me.
+[Kohji]: It seems you won't tell me.
 //［沙夜香］：何の脈絡があるっていうのよ。
 [Sayaka]: What does that have to do with anything?
 //［コウジ］：フン、では私が当ててやろう。上から８５－６１－８６というところだな。
-[Kouji]: Hum, then I'll try to guess. From the top, 85-61-86am I right?
+[Kohji]: Hum, then I'll try to guess. From the top, 85-61-86am I right?
 //［沙夜香］：なっ‥‥！？
 [Sayaka]: How-?!
 //［コウジ］：フン、図星らしいな。
-[Kouji]: Haha, bull's-eye.
+[Kohji]: Haha, bull's-eye.
 //バキッ！！
 *Crack!!*
 //［沙夜香］：私はね、ウエストが６０をオーバーしたことがないのよ。
 [Sayaka]: Well, you overestimated my waist, it's actually 60cm.
 //［コウジ］：バカめ、貴様の手に、私の鼻血が付いているぞ。
-[Kouji]: Dummy, I got a nosebleed because of you.
+[Kohji]: Dummy, I got a nosebleed because of you.
 //［沙夜香］：何が言いたいの、あなた。
 [Sayaka]: What are you trying to say?
 //［コウジ］：フン、私が言いたいのはだな‥‥‥‥。
-[Kouji]: Hum, I was trying to say...
+[Kohji]: Hum, I was trying to say...
 //［コウジ］：では、さようなら。
-[Kouji]: Then, farewell.
+[Kohji]: Then, farewell.
 //［コウジ］：では、さようなら、と言ったのだ。聞こえなかったのか、このバカ者が。
-[Kouji]: "Then, farewell." I said. Didn't you hear me,  you idiot?
+[Kohji]: "Then, farewell." I said. Didn't you hear me,  you idiot?
 //［沙夜香］：気を付けた方がいいわよ、私はね、バカにされるのが大嫌いなの。
 [Sayaka]: Watch your words. I really can't stand being　　　looked down on.
 //［コウジ］：フン、少し口が滑っただけだ。私が言いたいのはだな‥‥‥‥。
-[Kouji]: Hum, it was only a slip of the tongue. What I　　　wanted to say was...
+[Kohji]: Hum, it was only a slip of the tongue. What I　　　wanted to say was...
 //［コウジ］：どういうつもりだ、ここは私の部屋ではないか。
-[Kouji]: What are you talking about? Isn't this my room?
+[Kohji]: What are you talking about? Isn't this my room?
 //［涼子］：ねぇ、宏治クン‥‥さっき彼女に話していたこと‥‥。
 [Ryouko]: Hey, Kouji-kun...You were talking with that woman earlier...
 //［コウジ］：あっ？
-[Kouji]: Ah-?
+[Kohji]: Ah-?
 //［涼子］：ほら、伝送系ルーチンにバグがあるって‥‥。
 [Ryouko]: Come on, the transmission routine had a bug....
 //［コウジ］：あぁ、それがどうした？
-[Kouji]: Ahhh, what about it?
+[Kohji]: Ahhh, what about it?
 //［涼子］：本当なの？
 [Ryouko]: Is that really what happened?
 //［コウジ］：本当だ。とんだ欠陥品だな。
-[Kouji]: Yes, it is. It seems defective.
+[Kohji]: Yes, it is. It seems defective.
 //［涼子］：そんな‥‥‥‥。
 [Ryouko]: That....
 //kai_bast
 kai_bast
 //［コウジ］：（むっ‥‥‥ビアンカ！？）
-[Kouji]: (B-Bianca?!)
+[Kohji]: (B-Bianca?!)
 //［ビアンカ］：裏切った代償は、それなりに払って貰うぞ、コウジ！
-[Bianca]: This is what you get for betraying us, Kouji!
+[Bianca]: This is what you get for betraying us, Kohji!
 //［男の声］：裏切る？
 [Man's voice]: Betraying?
 //［ビアンカ］：くだらぬ話はここまでだ、エンコーダと触媒の女は、もらっていく！
@@ -429,25 +429,25 @@ kai_bast
 //［男の声］：ファルを！？
 [Man's voice]: To Far?!
 //［コウジ］：（どうやら、こちらの世界の宏治とやらいうヤツか‥‥。）
-[Kouji]: (That somehow seems to be this world's Kouji's　　 doing...)
+[Kohji]: (That somehow seems to be this world's Kouji's　　 doing...)
 //［コウジ］：（みすみす、エンコーダを‥‥。）
-[Kouji]: (From right under my nose, the encoder...)
+[Kohji]: (From right under my nose, the encoder...)
 //［ビアンカ］：ほう、さすがに表情が変わったな。そうでなくては、奪い甲斐が無いというものだ。
 [Bianca]: Ho-, it does seem that your expression has changedHowever, that doesn't change the fact that the stolen　　　 goods are gone.
 //［男の声］：エンコーダなんかに未練は無いが、ファルは置いていけ。
 [Man]: She had no attachments to that encoder, so Far left  it there.
 //［コウジ］：（バカな事を言うな。あのエンコーダ無くして‥‥。）
-[Kouji]: (What bullshit. He got rid of the encoder...)
+[Kohji]: (What bullshit. He got rid of the encoder...)
 //［ビアンカ］：フン、命令できる立場か！
 [Bianca]: Hmph, like you're in any place to give orders!
 //［コウジ］：マズい‥‥よけろ！　電撃がくるぞ！！
-[Kouji]: This is bad...Move aside! An electric shock is　　 coming!!
+[Kohji]: This is bad...Move aside! An electric shock is　　 coming!!
 //［涼子］：ど、どうしたの宏治クン‥‥。
 [Ryouko]: W-what's happened to you, Kouji-kun...?
 //［コウジ］：黙っていろ‥‥これは‥‥。
-[Kouji]: Shut up for a second... this is...
+[Kohji]: Shut up for a second... this is...
 //［コウジ］：どうやら、不定期にシンクロしているらしい‥‥。
-[Kouji]: Somehow, the synchronization is irregular...
+[Kohji]: Somehow, the synchronization is irregular...
 //［涼子］：ねぇ、宏治くぅん。
 [Ryouko]: Hey, Kouji-ku-n.
 //ryo01b
@@ -457,15 +457,15 @@ xenon_23
 //ryo01b_m
 ryo01b_m
 //［コウジ］：なんだ？
-[Kouji]: What is it?
+[Kohji]: What is it?
 //［涼子］：ね、さっき言っていた、伝送系ルーチンのバグって‥‥。
 [Ryouko]: You said earlier that there was a bug in the　　　transmission routine...
 //［コウジ］：ん？
-[Kouji]: Hm?
+[Kohji]: Hm?
 //［涼子］：ねぇ、ねぇねぇ‥‥宏治くぅん。
 [Ryouko]: Hey, hey, hey...Kouji-ku-n.
 //［コウジ］：身体をくねらせて、何をしているのだ。気持ち悪いヤツだ。
-[Kouji]: What are you doing, wriggling your body like that. It feels weird.
+[Kohji]: What are you doing, wriggling your body like that. It feels weird.
 //［涼子］：んもう、ねぇ、ちょっと‥‥。
 [Ryouko]: Mm, come on, wait...
 //ryo02
@@ -473,103 +473,103 @@ ryo02
 //涼子はベッドに腰をおろすと、切れながの目で、私の方をチラリと見た。
 Ryouko laid down on the bed and glanced at me seductively.
 //［コウジ］：なんだ、ベッドに連れてきて。
-[Kouji]: What are you leading me to the bed for...
+[Kohji]: What are you leading me to the bed for...
 //［涼子］：さっきのアレなんだけどぉ‥‥。
 [Ryouko]: That thing from earlier...
 //［コウジ］：アレ？
-[Kouji]: That?
+[Kohji]: That?
 //［涼子］：うん。ほら、ね？
 [Ryouko]: Yes. See?
 //わかるでしょ？　という表情で、涼子は両肩を揺らせた。形の良いバストも、それに付随して揺れている。
 With a knowing look, Ryouko shook her shoulders. Her well-  shaped bust swayed with them.
 //［コウジ］：意味がわからんが‥‥。
-[Kouji]: I don't think I understand...
+[Kohji]: I don't think I understand...
 //［涼子］：ねぇ宏治クン、ほら、こっちにきて。
 [Ryouko]: Heeey Kouji-kun, look, come here.
 //［涼子］：んもう、わかってるくせに。伝送系ルーチンのバグのことよ。
 [Ryouko]: Mmm, come on, you know what I mean. About the　　 transmission routine bug.
 //［コウジ］：バグ？
-[Kouji]: The bug?
+[Kohji]: The bug?
 //［涼子］：うん。教えてくれたら、いいことさせて、あ・げ・る。
 [Ryouko]: Yeah. If you'll teach me how to fix it, I can showyou something...*good*.
 //［コウジ］：ほぉ、いいこと？
-[Kouji]: Ho--, something...good?
+[Kohji]: Ho--, something...good?
 //［涼子］：ねっ、だからさぁ‥‥。
 [Ryouko]: So what do you say...
 //［コウジ］：クックックッ‥‥。
-[Kouji]: Huhuhuhu...
+[Kohji]: Huhuhuhu...
 //［涼子］：こ、宏治クン‥‥？
 [Ryouko]: K-Kouji-kun...?
 //［コウジ］：フハハハハ、はーっはっはっは！
-[Kouji]: Wahahahahaha, ha-hahahahaha!
+[Kohji]: Wahahahahaha, ha-hahahahaha!
 //［涼子］：ど、どうしちゃったの‥‥こ、宏治クン！？
 [Ryouko]: What are you doing...K-Kouji-kun?!
 //涼子は恐いモノでも見るように、私のことを怪訝そうに見つめていた。口元は辛うじて笑みを保っているが、動揺は隠せない。
 Ryouko looked at me as though she had seen a ghost. Her lipsstill held a smile, but she couldn't hide her shaking.
 //［コウジ］：これが笑わずにいられるか‥‥。
-[Kouji]: What, can't I laugh?...
+[Kohji]: What, can't I laugh?...
 //［涼子］：‥‥？
 [Ryouko]: ...?
 //［コウジ］：フン、状況は大体呑み込めたしな、そろそろ動き出す頃合だろう‥‥おい、貴様。
-[Kouji]: Hum, now that you seem to understand what's going  on, it's time to make my move...Hey, you.
+[Kohji]: Hum, now that you seem to understand what's going  on, it's time to make my move...Hey, you.
 //［涼子］：な、何よ‥‥。
 [Ryouko]: W-what is it...
 //［コウジ］：それで、私を誘惑しているつもりか。
-[Kouji]: Are you trying to lure me there like that?
+[Kohji]: Are you trying to lure me there like that?
 //［涼子］：ば、バカ言わないでよ。そんな訳‥‥。
 [Ryouko]: D-don't say such a ridiculous thing. I wasn't　　 trying to...
 //［コウジ］：フッ、それじゃあ望み通りにしてやる。
-[Kouji]: Ha, well then, do as I want.
+[Kohji]: Ha, well then, do as I want.
 //［涼子］：えっ？
 [Ryouko]: Eh-?
 //［コウジ］：脱げ。
-[Kouji]: Strip.
+[Kohji]: Strip.
 //動揺がこちらに伝わってくる。空気がピリピリと振動しているようだった。
 The shaking made its way to me this time. The very air was  tingling.
 //［涼子］：な、何を‥‥。
 [Ryouko]: Wh-what are you...
 //［コウジ］：脱ぐんだ。そうしたら、研究を手伝ってやろう。
-[Kouji]: I told you to strip. Help me with my investigation.
+[Kohji]: I told you to strip. Help me with my investigation.
 //［コウジ］：貴様は頭がいい。差し引きの勘定くらい、できるのではないか？
-[Kouji]: You have a good head on your shoulders. You can do subtraction, can't you?
+[Kohji]: You have a good head on your shoulders. You can do subtraction, can't you?
 //［涼子］：そ、そんな‥‥。
 [Ryouko]: Th-that's....
 //［コウジ］：脱ぐんだ。
-[Kouji]: Strip for me.
+[Kohji]: Strip for me.
 //［コウジ］：フン、ではあの沙夜香とやらに、伝送系のデバッグ方法を教える事にしよう。
-[Kouji]: Hum, or I will teach that Sayaka and others how to debug that transmission.
+[Kohji]: Hum, or I will teach that Sayaka and others how to debug that transmission.
 //涼子の顔には、あからさまに動揺と焦りの表情が浮かんだ。フン、おちたも同然だな。
 Ryouko's face showed outright denial and impatience. Hum,　 it's only natural that she fell.
 //［涼子］：ま、待って！
 [Ryouko]: H-hold it!
 //［コウジ］：何だ？
-[Kouji]: What?
+[Kohji]: What?
 //［涼子］：わ、わかったわ‥‥い、言うとおりにする。
 [Ryouko]: I, I get it...I'll do as you say.
 //ryo02b
 ryo02b
 //［コウジ］：ほぉ、ずいぶんと派手な下着を着けているな。
-[Kouji]: Ho-, what indecent panties you have on.
+[Kohji]: Ho-, what indecent panties you have on.
 //［涼子］：し、下着くらい！　おしゃれしたって、いいじゃない‥‥。
 [Ryouko]: Wh-what about my panties! They're fashionable,　　aren't they...
 //［コウジ］：フン。
-[Kouji]: Hum.
+[Kohji]: Hum.
 //むぎゅぅっ。
 *Squeeze*
 //［涼子］：きゃっ、何をするの！？
 [Ryouko]: Kya-! What are you doing?!
 //［コウジ］：お願いするときはムネを出すモノだ。ふむ、揉みがいはあるようだな。
-[Kouji]: I want you to show your breasts. Hmm, they look　　quite soft.
+[Kohji]: I want you to show your breasts. Hmm, they look　　quite soft.
 //もみもみ‥‥。
 *Squeeze...*
 //［涼子］：あっ‥‥や、やめて‥‥。
 [Ryouko]: Ah-...pl-please stop...
 //［コウジ］：フン、鼻息を荒くしながら何を言っている。
-[Kouji]: Hum, what are you saying when your breathing is　　heavy?
+[Kohji]: Hum, what are you saying when your breathing is　　heavy?
 //［涼子］：あっイヤ！　そこは‥‥あっ、ダメっっ！！
 [Ryouko]: N-Nooo! Not there...ah-, NOO--!!
 //［コウジ］：小さくはないな。だが、まだまだだ。
-[Kouji]: Ah, what a nice size. But, we're not done yet.
+[Kohji]: Ah, what a nice size. But, we're not done yet.
 //［涼子］：こ、宏治クン、あなたどうしちゃったの‥‥そんな‥‥。
 [Ryouko]: K-Kouji-kun, what are you doing...that's...
 //むぎゅぅぅぅぅぅぅっっ！！！
@@ -577,23 +577,23 @@ ryo02b
 //［涼子］：あぁ、痛っ！！
 [Ryouko]: Aa, it hurts!!
 //［コウジ］：貴様、それほど男を知っている訳ではないな。
-[Kouji]: Weren't you the one who wanted to know what a man  is like?
+[Kohji]: Weren't you the one who wanted to know what a man  is like?
 //［涼子］：な、何のことよっ！
 [Ryouko]: Wh-what are you saying!
 //［コウジ］：フフン、青臭い匂いが、プンプン漂ってくる。この耳の裏側からな‥‥？
-[Kouji]: Hehe-, how pungent this fresh smell is. Did it comefrom behind this ear...?
+[Kohji]: Hehe-, how pungent this fresh smell is. Did it comefrom behind this ear...?
 //［涼子］：あっ‥‥いやっ‥‥。
 [Ryouko]: Ah-...no-...
 //［コウジ］：耳の中か？
-[Kouji]: From inside your ear?
+[Kohji]: From inside your ear?
 //［涼子］：いやよ、舐めたりしないで‥‥あっ！
 [Ryouko]: No, don't lick me there...Ah-!
 //［コウジ］：クックック‥‥よーし、じゃあこのしゃれた下着も脱いでもらおうか。
-[Kouji]: Hehehe...Good, now, please take off your indecent  panties.
+[Kohji]: Hehehe...Good, now, please take off your indecent  panties.
 //［涼子］：な、何を言ってるのよ‥‥そんなこと‥‥。
 [Ryouko]: W-what are you saying...I can't...
 //［コウジ］：フン、男が欲しくて欲しくて溜まらない匂いが、プンプンしてくるぞ！
-[Kouji]: Hmm, your body is radiating such an inviting odor!
+[Kohji]: Hmm, your body is radiating such an inviting odor!
 //ビリビリビリッ！！
 Buzz, buzz, buzz!!
 //ryo02c
@@ -601,19 +601,19 @@ ryo02c
 //［涼子］：や、やめて‥‥お、お願い‥‥。
 [Ryouko]: S-stop it...please...
 //［コウジ］：足を開け。
-[Kouji]: Spread your legs.
+[Kohji]: Spread your legs.
 //［涼子］：いやぁぁぁっ！！
 [Ryouko]: NOOOO!!
 //［コウジ］：聞き分けの無いヤツめ。開いて見せろ！
-[Kouji]: You didn't hear me, did you. Open them up!
+[Kohji]: You didn't hear me, did you. Open them up!
 //にちゃっ‥‥。
 *Griiiin...*
 //［コウジ］：フン、今のは何の音だ。
-[Kouji]: Hmm, what was that sound?
+[Kohji]: Hmm, what was that sound?
 //［涼子］：し、知らないわよぉ‥‥。
 [Ryouko]: H-how should I know...
 //［コウジ］：もっと開くんだ‥‥。
-[Kouji]: Open them a little more...
+[Kohji]: Open them a little more...
 //［涼子］：こ、これでいい？
 [Ryouko]: I-is this OK?
 //ずりゅぅっ！
@@ -621,25 +621,25 @@ ryo02c
 //［涼子］：んきゃぁぅっ！　ゆ、指を入れないでっ！！
 [Ryouko]: Nkyaaa-! D-don't put your finger in-!!
 //［コウジ］：フン、こんなに濡らして、恥ずかしい女だ‥‥。
-[Kouji]: Hmm, how wet and ashamed you are...
+[Kohji]: Hmm, how wet and ashamed you are...
 //［涼子］：あっ‥‥お、お願い‥‥乱暴にしないで‥‥。
 [Ryouko]: Ah-...p-please...don't be rough...
 //［コウジ］：心と裏腹なことを言うな。
-[Kouji]: Your heart says otherwise, though.
+[Kohji]: Your heart says otherwise, though.
 //［涼子］：そんな‥‥。
 [Ryouko]: That's...
 //［コウジ］：乱暴にして、だろう？
-[Kouji]: "Be rough", isn't it?
+[Kohji]: "Be rough", isn't it?
 //［涼子］：お願いよ、宏治クン‥‥‥‥。
 [Ryouko]: Please, Kouji-kun....
 //［コウジ］：乱暴にしてと、言ってみろ。
-[Kouji]: Go on, tell me "Please be rough."
+[Kohji]: Go on, tell me "Please be rough."
 //ぐちゅっ、ぐちゅっ、ぐちゅっ‥‥。
 Squash, squash, squash...
 //［涼子］：あぁぁ、ら、乱暴に‥‥して‥‥。
 [Ryouko]: Aaaahh, ugh, p-please be rough ...
 //［コウジ］：言ったな‥‥クックック‥‥。
-[Kouji]: You said it... Kukuku....
+[Kohji]: You said it... Kukuku....
 //ryo03
 ryo03
 //ずぷぷぷぷぷぷぷぷっっ‥‥‥‥。
@@ -651,15 +651,15 @@ Fluid gushed from Ryouko's flower onto her thighs. As it　　came out, her fold
 //［涼子］：あっ、だめっ、そんなっ、んっ、宏治‥‥あっ、あぁぁぁっ！！
 [Ryouko]: Ah- please- that's- mmph- Kouji...Ah-, Ahhhhh!!
 //［コウジ］：フン、メス犬め！
-[Kouji]: Hm, what a dirty bitch you are!
+[Kohji]: Hm, what a dirty bitch you are!
 //［涼子］：あぁぁ、そうよっ！　涼子は淫乱なメス犬ぅっ！
 [Ryouko]: Ahh, that's right! I'm a dirty bitch!
 //［コウジ］：もっともっと、しめてみろっ！
-[Kouji]: Tighten up even more for me!
+[Kohji]: Tighten up even more for me!
 //［涼子］：あぁぁぁ、こう？　こうっ！？
 [Ryouko]: Aaahhh, like this? Like this?!
 //［コウジ］：もっとだ、もっと！
-[Kouji]: More, MORE!
+[Kohji]: More, MORE!
 //［涼子］：んんーーっ、あはぁっ、もう、これ以上しまらないっ！
 [Ryouko]: Nnnnn-- Aha- Ah, I can't do it any more!
 //ずりゅっ、ずちゅっ、ぐちゅっ、むちゅぅ‥‥。
@@ -679,7 +679,7 @@ I lifted her legs up and inserted myself deeper into her.　 Our hips were stuck
 //［涼子］：あぅ、んんっ、もう、何人の女の子を泣かせてきたのよっ！
 [Ryouko]: Ow, mmm, come on, how many girls have you made cry!!!
 //［コウジ］：そうだな、数えきれんな。
-[Kouji]: Let's see, I can't count them all.
+[Kohji]: Let's see, I can't count them all.
 //［涼子］：くやしい！　もっと、涼子を突いて！　愛して！！
 [Ryouko]: How frustrating! Please, fuck me harder! Love me!!
 //腰を動かすたびに、涼子は歓喜の悲鳴をあげた。性に対する貪欲とさえ言える欲求に、いささか辟易する。
@@ -687,7 +687,7 @@ As I moved my hips, Ryouko screamed out in pleasure. It was somewhat frustrating
 //［涼子］：あぁぁ、もう私はあなたのモノよ‥‥心も身体も‥‥私を好きにできるのは、もうあなただけなんだからぁっ！
 [Ryouko]: Ahhhh, I'm yours...my heart and body...ahh, you'rethe only thing I can want-!
 //［コウジ］：そろそろ‥‥イクぞ、涼子。
-[Kouji]: It's time...come, Ryouko.
+[Kohji]: It's time...come, Ryouko.
 //［涼子］：あン、きて、きてっ！　好きっ、愛しているのぉ！
 [Ryouko]: Ah, it's coming, it's coming! I want it, I love it!!!
 //ドクドクドクッ‥‥ドクッ！

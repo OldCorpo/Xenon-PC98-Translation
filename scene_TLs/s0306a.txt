@@ -3,15 +3,15 @@ s0306a
 //［宏治］：んー、じゃあランファ、かな？
 [Kouji]: Mm, well, then, Lanhua, I guess.
 //［コウジ］：黙って聞くのだ。あの時の君は本当にラブリィだったと言うのだ。
-[Kouji]: Be quiet and listen to me. At that time, say, "You were really quite lovely."
+[Kohji]: Be quiet and listen to me. At that time, say, "You were really quite lovely."
 //［コウジ］：いいから、この通り言うのだ。ただし、トレイシーの前では決して言うな。いいな？
-[Kouji]: It's fine, just speak as I speak. But, don't say a word of this to Tracy. Got it?
+[Kohji]: It's fine, just speak as I speak. But, don't say a word of this to Tracy. Got it?
 //［宏治］：あっ、ランファは、ちょっとまだ残ってくれ。
 [Kouji]: Ah-, Lanhua, wait here for a bit.
 //［ランファ］：はい、なんですか？
 [Lanhua]: Yes, is something the matter?
 //［トレイシー］：ランファ、ちゃんとコウジ様の面倒を看てあげるのですよ。
-[Tracy]: Lanhua, please take care of Kouji-sama's matters.
+[Tracy]: Lanhua, please take care of Kohji-sama's matters.
 //［ランファ］：わかってるわよぉ、もう、早く行って。
 [Lanhua]: Understood-. Just go already.
 //［ランファ］：トレイシーったら、いつまでたってもランファのことを子供扱いなんだからぁ。
@@ -45,7 +45,7 @@ s0306a
 //［宏治］：そのまさかさ。
 [Kouji]: Yes?
 //［ランファ］：ランファは、もうコウジ様に必要ないんでしょうか？
-[Lanhua]: Kouji-sama has no use for Lanhua anymore?
+[Lanhua]: Kohji-sama has no use for Lanhua anymore?
 //［宏治］：ガクッ、何か話がそれてるような‥‥。
 [Kouji]: Wh-what are you saying?
 //［ランファ］：ランファ、がんばります。何でもします。エンジンも格納庫も、もっともっとピカピカにします。掃除炊事お洗濯も、がんばっちゃいますぅ。
@@ -71,9 +71,9 @@ s0306a
 //［宏治］：顔が真面目だと、何でウソなの。
 [Kouji]: I am serious, so why would I lie there?
 //［ランファ］：だってだって‥‥コウジ様って、真面目な顔をしてウソを吐きます。
-[Lanhua]: But, but...Kouji-sama will lie even when he looks serious.
+[Lanhua]: But, but...Kohji-sama will lie even when he looks serious.
 //［宏治］：（何てヤツだ、コウジ！）
-[Kouji]: (That Kouji's such a bastard!)
+[Kouji]: (That Kohji's such a bastard!)
 //［ランファ］：違うんですか？
 [Lanhua]: Doesn't he?
 //［宏治］：捨てるなんて、もったいない‥‥じゃなくて、とにかく違う。
@@ -95,13 +95,13 @@ s0306a
 //［ランファ］：んー。
 [Lanhua]: Hmm...
 //［宏治］：そうだ、思い出した。コウジじゃないって話だよ。
-[Kouji]: Oh yeah, that's right. It was about me not being　 Kouji.
+[Kouji]: Oh yeah, that's right. It was about me not being　 Kohji.
 //［宏治］：君には、謝らなくちゃならないんだ。
 [Kouji]: I have to apologize to you.
 //［ランファ］：‥‥何を、ですか？
 [Lanhua]: ...for what?
 //［宏治］：オレは宏治だけど、君らが言う海賊コウジじゃあない。
-[Kouji]: I may be Kouji, but not the pirate Kouji you ladiesspeak of.
+[Kouji]: I may be Kouji, but not the pirate Kohji you ladiesspeak of.
 //［ランファ］：どういう‥‥ことですか？
 [Lanhua]: What...do you mean by that?
 //［宏治］：上手く言えないけど、別人なんだ。
@@ -135,9 +135,9 @@ s0306a
 //［ランファ］：じゃあ、どういうことですか？
 [Lanhua]: Well, what do you think?
 //［宏治］：だから、オレは宏治であって、コウジじゃない‥‥あぁ、もういいよ。オレも混乱しそうだ。
-[Kouji]: As I said, I'm Kouji, not Kouji...agh, forget it.  I'm confused too.
+[Kouji]: As I said, I'm Kouji, not Kohji...agh, forget it.  I'm confused too.
 //［ランファ］：クスクスッ、コウジ様はコウジ様です。それでいいんじゃないですか？
-[Lanhua]: Heehee, Kouji-sama is Kouji-sama. Isn't that a　　good thing?
+[Lanhua]: Heehee, Kohji-sama is Kohji-sama. Isn't that a　　good thing?
 //［宏治］：（もしかしてランファ、気付いているんじゃないかな‥‥。）
 [Kouji]: (Has Lanhua not realized it yet?)
 //［宏治］：（暗に、言うなってこと？）
@@ -151,7 +151,7 @@ ra01b
 //ra01b_m
 ra01b_m
 //［ランファ］：な、何故ですか？　コウジ様‥‥‥‥。
-[Lanhua]: H-how? Kouji-sama......
+[Lanhua]: H-how? Kohji-sama......
 //［宏治］：何故って‥‥‥。
 [Kouji]: What do you mean by "how?"...
 //［ランファ］：あの時の事は、忘れろって‥‥。
@@ -163,27 +163,27 @@ Lanhua?
 //両目に涙をためたランファが、胸の前で両手を硬く握りしめ、首を小刻みに振りながらイヤイヤをしていた。
 With tears filling her eyes, Lanhua clasped her hands　　　　tightly before her and quickly shook her head.
 //［ランファ］：コウジ様、ランファ、あの時の事を忘れたこと、ありませんっ。
-[Lanhua]: Kouji-sama, I've never forgotten that time.
+[Lanhua]: Kohji-sama, I've never forgotten that time.
 //［宏治］：ら、ランファ‥‥。
 [Kouji]: L-Lanhua...
 //［ランファ］：コウジ様‥‥コウジ様が許してくれるなら、ランファ‥‥ランファ‥‥。
-[Lanhua]: Kouji-sama... If you will forgive me, I ... I ...
+[Lanhua]: Kohji-sama... If you will forgive me, I ... I ...
 //［宏治］：（くそぉ、コウジのやつ、こんないい子を泣かせるなんて‥‥。）
-[Kouji]: (Dammit, Kouji, to make such a good woman cry...)
+[Kouji]: (Dammit, Kohji, to make such a good woman cry...)
 //オレは意を決して語りだした。これは、彼女に言っておかなくては、フェアじゃない。
 I spoke to her resolutely. It wasn't fair to keep this from her.
 //［ランファ］：プロポーションも歳の割に子供っぽいのは気にしてるんです。でも、でも、コウジ様をお慕いする想いだけは、トレイシーにだって負けないつもりでしたっ。
-[Lanhua]: I'm worried that my proportions are childlike for my age. But, but, in terms of yearning for Kouji-sama, even I won't lose to Tracy.
+[Lanhua]: I'm worried that my proportions are childlike for my age. But, but, in terms of yearning for Kohji-sama, even I won't lose to Tracy.
 //［ランファ］：それはメカフェチで、エンジンやシャトルに頬摺りしたりする時もあるけど、だけど、だけど‥‥コウジ様のことを忘れたことは、１度だってありませんっ！
-[Lanhua]: Because I'm a mecha freak, there are times I'll　 rub my cheek against the engine or the shuttle, but, but... I've never forgotten about Kouji-sama!
+[Lanhua]: Because I'm a mecha freak, there are times I'll　 rub my cheek against the engine or the shuttle, but, but... I've never forgotten about Kohji-sama!
 //［宏治］：だ、誰もそんなこと、言ってないじゃないか。
 [Kouji]: N-no one is talking about something like that, ok?
 //［ランファ］：ふぇ～～んっ、コウジ様が、コウジ様が‥‥。
-[Lanhua]: Wahhhh--mm, Kouji-sama, Kouji-sama....
+[Lanhua]: Wahhhh--mm, Kohji-sama, Kohji-sama....
 //しょうがないなぁ‥‥。
 There's no other way....
 //［ランファ］：こ、コウジ‥‥んっ！？
-[Lanhua]: K-Kouji...?!
+[Lanhua]: K-Kohji...?!
 //オレはランファの唇を自分のそれでふさいだ。目を大きく見開くと、オレのことを当惑と困惑の表情で見つめている。
 I pressed my lips tightly to Lanhua's. Her eyes widened, andstared at me in a mix of bewilderment and embarrassment.
 //こうなったら仕方がない。ヒステリーの女性を黙らせるのは、これが１番だ。
@@ -199,7 +199,7 @@ As her body relaxed, I saw Lanhua becoming dizzy at the　　 situation.
 //腕を遠慮がちに、おずおずとオレの首の後ろにまわしてくる。口で言っているほど、慣れてはいないな、こいつ。
 With some hesitation, she timidly wrapped her arms around myneck. Just as she said, she's not used to this.
 //［ランファ］：コウジ様、嬉しい‥‥コウジ様ぁ‥‥。
-[Lanhua]: Kouji-sama, I'm so happy...Kouji-sama...
+[Lanhua]: Kohji-sama, I'm so happy...Kohji-sama...
 //オレは彼女の柔らかい唇をふさぎながら、ゆっくりと後ろのベッドへ倒れていった‥‥。
 As I stuffed her mouth shut, we gently fell onto the bed　　behind us....
 //ra02_m
@@ -209,7 +209,7 @@ ra02_m
 //［宏治］：あぁ、わかってる。
 [Kouji]: Ahh, I will.
 //［ランファ］：コウジ様‥‥‥‥。
-[Lanhua]: Kouji-sama......
+[Lanhua]: Kohji-sama......
 //ランファは、濡れそぼった子猫の様に震えているようだった。しかし目はうるみ、頬も身体も、ほんのりと赤みがかっている。
 Lanhua was shaking like a wet kitty. But in my blurred　　　vision, her face and body were all faintly tinged red.
 //彼女は何かを訴えかけるような、そんな表情でオレを見つめていた。オレは彼女が‥‥ランファのことが、たまらなく愛しく感じてきた。
@@ -223,7 +223,7 @@ She was really quite plump and soft. She was rather delicateand her body was rea
 //首筋に息を吹きかけると、ビクっと身体が痙攣させる。
 As I breathed on the back of her neck, her body tensed up inresponse.
 //［ランファ］：コウジ様‥‥あぁ、コウジ様ぁ‥‥‥。
-[Lanhua]: Kouji-sama...ahhh, Kouji-sama....
+[Lanhua]: Kohji-sama...ahhh, Kohji-sama....
 //ランファはオレに甘えるように、頬をすり寄せてくる。ただ抱き合っているだけで、こんなにも幸せな気分になるものだろうか。
 Lanhua sweetly nuzzled her cheek against mine. I felt a　　 wonderful happiness just by hugging like this.
 //そっとランファの唇を自分のでふさいだ。柔らかく、暖かい。オレは構わず舌を奥深く差し込んだ。
@@ -237,7 +237,7 @@ Lanhua, in turn, unabashedly entwined her own tongue around mine. I sucked on he
 //唾液を流し込むと、ランファは喉をならして飲んだ。オレの背中に回されていた手に、力が入る。
 As saliva ran down her throat, Lanhua drank down the excess.She pressed her arms further into my back.
 //［ランファ］：んはぁぁ、コウジ様ぁ‥‥。
-[Lanhua]: Nhaaa, Kouji-samaa....
+[Lanhua]: Nhaaa, Kohji-samaa....
 //［宏治］：柔らかいな、ランファの身体は。
 [Kouji]: Your body's quite soft, Lanhua.
 //さすがに胸や腰などは、あのトレイシーなどには及ばないが、要所要所は意外に肉付きが悪くない。
@@ -279,7 +279,7 @@ ra02c_m
 //下半身のハイレグショーツを下にずらすと、薄い茂みが姿を現す。触ってみるとサラサラしている。オレのとは大違いだ。
 As I slid down her high-waist panties, a thin bush revealed itself. In stark contrast to mine, it seemed silky to the　 touch.
 //［ランファ］：あン、そこは‥‥あっ、コウジ様ぁ‥‥。
-[Lanhua]: Ahm, don't look there...Ah-, Kouji-sama....
+[Lanhua]: Ahm, don't look there...Ah-, Kohji-sama....
 //膣内はしっとりと湿っていた。オレの指先で、クチャクチャと、湿った音を立てている。
 Her pussy was quite damp. As I fingered her, it made slick, wet sounds.
 //［ランファ］：んっ‥‥あぁぁ、もう‥‥あぁぁぁ、ダメですぅ‥‥。
@@ -297,7 +297,7 @@ Her pussy was quite damp. As I fingered her, it made slick, wet sounds.
 //むにゅむにゅ‥‥‥‥。
 *stretch stretch*......
 //［ランファ］：あふぅぅぅぅぅっ、コウジ様ぁぁぁぁっ！
-[Lanhua]: Ahooooooo, Kouji-samaaaaa-!
+[Lanhua]: Ahooooooo, Kohji-samaaaaa-!
 //［宏治］：うわっ、ランファのアソコって、結構ムニュムニュしてるね。
 [Kouji]: Whoa, your pussy is really stretching, isn't it?
 //［ランファ］：ああン！　ムニュムニュしてるんですぅ‥‥もっともっと、エッチなことを言って下さい！
@@ -327,7 +327,7 @@ Her pussy was quite damp. As I fingered her, it made slick, wet sounds.
 //ドクドクドクドク、ドクッ、ドクッ‥‥。
 *spurt spurt spurt spurt*, *spurt*, *spurt*....
 //［ランファ］：あはぁぁぁぁぁぁ‥‥コウジ様ぁぁぁ‥‥。
-[Lanhua]: Ahaaaaaaa...Kouji-samaaaa....
+[Lanhua]: Ahaaaaaaa...Kohji-samaaaa....
 //ドクドク、ドクッ、ドクッ‥‥‥‥。
 *spurt spurt*, *spurt*, *spurt*......
 //［ランファ］：あふっ、んく、あぁぁ、んんん‥‥いやん、ビクビクしてるぅ‥‥。
@@ -349,7 +349,7 @@ Her pussy was quite damp. As I fingered her, it made slick, wet sounds.
 //［宏治］：に、２回目！？　２回目であんな大胆な‥‥。
 [Kouji]: O-only your second? Damn, and you were so bold...
 //［ランファ］：コウジ様を‥‥その‥‥。
-[Lanhua]: Kouji-sama...um....
+[Lanhua]: Kohji-sama...um....
 //やや物怖じしたような表情を浮かべながら、ランファはオレを見つめている。
 As Lanhua stared at me, her expression changed to one of　　fear.
 //［宏治］：‥‥なんだい？
@@ -375,7 +375,7 @@ Lanhua repeated her question with an intense expression.
 //［宏治］：その‥‥全然、構わないと思うけど‥‥。
 [Kouji]: Um...it, it's really not a problem...
 //［ランファ］：ンフフ‥‥コウジ様、好きですっ、きゃっ！
-[Lanhua]: Ehehe....Kouji-sama, I love you, kya-!
+[Lanhua]: Ehehe....Kohji-sama, I love you, kya-!
 //彼女は両手を頬に当てて、左右に身体を振っている。いったいどうしたというのだ。
 She laid both hands on her cheeks, and twisted her body leftand right. What is going on with her?
 //［宏治］：ど、どうしたの？
@@ -385,15 +385,15 @@ She laid both hands on her cheeks, and twisted her body leftand right. What is g
 //［宏治］：なんで？
 [Kouji]: Why has it been so long?
 //［ランファ］：だって、コウジ様、好きって言うなって言うから‥‥。
-[Lanhua]: Because, Kouji-sama, you said not to tell you, "I love you"....
+[Lanhua]: Because, Kohji-sama, you said not to tell you, "I love you"....
 //［宏治］：（な、何てやつだ‥‥コウジのやつ、処女まで奪っておきながら‥‥。）
-[Kouji]: (Wh-what a bastard....That Kouji bastard, stealing her virginity...)
+[Kouji]: (Wh-what a bastard....That Kohji bastard, stealing her virginity...)
 //［宏治］：ま、あれだね。
 [Kouji]: Ah, so it was that.
 //［ランファ］：それは、コウジ様の自信のなせるワザですね。もうすぐ、ビアンカさんのシップに追いつきますよ。
-[Lanhua]: That was something Kouji-sama did to boost his　　confidence, wasn't it? We'll be approaching Bianca-san's　　ship soon.
+[Lanhua]: That was something Kohji-sama did to boost his　　confidence, wasn't it? We'll be approaching Bianca-san's　　ship soon.
 //［ランファ］：さぁ、コウジ様って、本当に凄く予想外の事をするヒトでしたしぃ‥‥。
-[Lanhua]: Now, Kouji-sama was really someone who did things totally unexpected...
+[Lanhua]: Now, Kohji-sama was really someone who did things totally unexpected...
 //［ランファ］：はい、奇計とか奇策とか、よく相手に言われてました。
 [Lanhua]: Yes, he was one who always spoke his plans and　　schemes to his opponents.
 //［ランファ］：何を考えてるんですか？
@@ -405,4 +405,4 @@ She laid both hands on her cheeks, and twisted her body leftand right. What is g
 //［ランファ］：さっすがぁ。バッチグーですねっ！
 [Lanhua]: Ah, just as expected. Excellent!
 //［ランファ］：それでこそ、コウジ様ですっ。
-[Lanhua]: I feel the same, Kouji-sama.
+[Lanhua]: I feel the same, Kohji-sama.

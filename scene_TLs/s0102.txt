@@ -29,13 +29,13 @@ save4
 //データ４にセーブしました。
 The game was saved in slot 4.
 //　　　　　　コウジさん、目覚める時間ですよ‥‥。
-　　　　Kouji-san, it's time to wake up.
+　　　　Kohji-san, it's time to wake up.
 //　　　　　　　　目覚めの‥‥時間‥‥？
 　　　　　　　Time...to wake up?
 //　　　　　　　　　コウジさん‥‥。
-Kouji-san...
+Kohji-san...
 //　　　　コウジ‥‥？　それが私の名前なのか‥‥？
-　　　　　Kouji? Is this my name?
+　　　　　Kohji? Is this my name?
 //1010b_m
 1010b_m
 //以前にも、同じ様な事がなかっただろうか‥‥？

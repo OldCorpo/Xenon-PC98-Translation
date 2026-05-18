@@ -9,7 +9,7 @@ s0303a
 //［ランファ］：しろみ！　なんちってぇ〜。
 [Lanhua]: Shiromi! Just kidding-.
 //［ランファ］：コウジ様ぁ‥‥ウルウル。
-[Lanhua]: Kouji-sama...*sob sob*
+[Lanhua]: Kohji-sama...*sob sob*
 //［宏治］：ど、どうしたの、急に涙をためて‥‥。
 [Kouji]: You're crying, all of a sudden... Wh-what's come　　over you? 
 //［ランファ］：本当にランファのことを、忘れてしまったんですか？
@@ -23,11 +23,11 @@ s0303a
 //［ランファ］：私はぁ‥‥。
 [Lanhua]: I'm...
 //［ランファ］：コウジ様の心の恋人、なんですぅ！
-[Lanhua]: Kouji-sama's romantic partner, of course!
+[Lanhua]: Kohji-sama's romantic partner, of course!
 //［ランファ］：きゃっ、今のは冗談ですからね。本当は、コウジ様をお慕いするランファなんですぅ。
 [Lanhua]: Kya-, I was just joking. In truth, I only pine forKouji-sama.
 //［ランファ］：ここは、コウジ様と愛を育むための、ベッドの上なんですぅ。
-[Lanhua]: This is the bed where I nurture love with　　　　　Kouji-sama.
+[Lanhua]: This is the bed where I nurture love with　　　　　Kohji-sama.
 //［宏治］：あ、あのね‥‥場所だよ、もっと大きな意味での場所。
 [Kouji]: Uh, um...I didn't mean this exact location, I meantthis overall place.
 //［ランファ］：ここは、《クワドラ》です。
@@ -35,9 +35,9 @@ s0303a
 //［宏治］：くわ‥‥えっ？
 [Kouji]: Kuaw...Huh?
 //［ランファ］：ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[Lanhua]: It's the fruit of our mutual love, Kouji-sama.
+[Lanhua]: It's the fruit of our mutual love, Kohji-sama.
 //［ランファ］：ですから、ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[Lanhua]: Well, it's the fruit of our mutual love,　　　　　Kouji-sama.
+[Lanhua]: Well, it's the fruit of our mutual love,　　　　　Kohji-sama.
 //［宏治］：あっそう。
 [Kouji]: Ah, is that so?
 //［ランファ］：はい！
@@ -49,7 +49,7 @@ s0303a
 //［宏治］：そう、あの眼鏡の美人。
 [Kouji]: Yes, that bespectacled beauty.
 //［ランファ］：コウジ様っ！
-[Lanhua]: Kouji-sama!
+[Lanhua]: Kohji-sama!
 //［ランファ］：いま、何て言いましたか！？
 [Lanhua]: Just now, what did you say?!
 //［宏治］：こ、恐い声出して、どうしたんだよ。
@@ -81,7 +81,7 @@ s0303a
 //［ランファ］：きゃっ、ホントですか！？
 [Lanhua]: W-Wait, ARE YOU SERIOUS?!
 //［ランファ］：あン、コウジ様ぁ‥‥。
-[Lanhua]: Hmph, Kouji-sama....
+[Lanhua]: Hmph, Kohji-sama....
 //［宏治］：あ、あのさぁ、トレイシーって人のことだけど‥‥。
 [Kouji]: A-as I was saying, about that Tracy woman...
 //［ランファ］：トレイシーですか？　もう、ランファの若さと可愛さに嫉妬ばかりしてる、行かず後家なんですぅ。
@@ -95,7 +95,7 @@ s0303a
 //［ランファ］：ホントですぅ。でも最近は、ジェネレータの計測をやってたみたいですけど‥‥後はよく知りません。
 [Lanhua]: It's the truth. But more recently, she seemed to  be taking measurements of the generator... I don't know whatshe did afterwards, though.
 //［ランファ］：だってぇ、コウジ様はコウジ様じゃないですか。
-[Lanhua]: Like I said, Kouji-sama isn't Kouji-sama.
+[Lanhua]: Like I said, Kohji-sama isn't Kohji-sama.
 //［宏治］：オレは君らのことを、残念ながら知らない‥‥。
 [Kouji]: I'm sorry, but I really don't know anything about  you all...
 //［ランファ］：ウルウルぅ‥‥。
@@ -103,7 +103,7 @@ s0303a
 //［宏治］：じゃなくて、覚えてないけど、君らがオレのことを知ってるのはどう考えても不公平じゃないか。
 [Kouji]: Or rather, I don't remember, but you all know so　　much about me. However you look at it, it's not fair.
 //［ランファ］：だって、コウジ様の事を知らないなんて、ここじゃモグリですぅ。
-[Lanhua]: But, I don't know anything about Kouji-sama.　　　You're a stranger here.
+[Lanhua]: But, I don't know anything about Kohji-sama.　　　You're a stranger here.
 //［宏治］：も、もぐり‥‥うーむ。
 [Kouji]: A stranger....hmmm.
 //［ランファ］：《クワドラ》ですか？
@@ -113,7 +113,7 @@ s0303a
 //［宏治］：じゃなくて、ど忘れってやつかな、うん。
 [Kouji]: No, it's more like I've forgotten it, yeah.
 //［ランファ］：《クワドラ》は、コウジ様とランファの、愛の結晶なんですっ。
-[Lanhua]: The Quadra is the fruit of our mutual love, Kouji-sama.
+[Lanhua]: The Quadra is the fruit of our mutual love, Kohji-sama.
 //［宏治］：あ、愛の結晶‥‥？
 [Kouji]: T-the fruit of our love?
 //［ランファ］：そうです！
@@ -149,7 +149,7 @@ s0303a
 //［ランファ］：私も詳しいことは知らないんですけど‥‥。
 [Lanhua]: I don't know the exact details, but...
 //［ランファ］：確かコウジ様、大宇宙海賊御用達霊子エナジー増幅ジェネレータって、言ってました。
-[Lanhua]: Kouji-sama, you've definitely called it the　　　　Galactic Pirate Company Reiko energy amplifying generator.
+[Lanhua]: Kohji-sama, you've definitely called it the　　　　Galactic Pirate Company Reiko energy amplifying generator.
 //［ランファ］：きゃぁっ！
 [Lanhua]: Kya-!
 //［宏治］：ど、どうした！？
@@ -165,7 +165,7 @@ s0303a
 //［宏治］：まぁいい、とにかくなんだよ、そのイカれた名前は。
 [Kouji]: Take it easy. In any case, what the hell is with　　that ridiculous name?
 //［ランファ］：コウジ様が、ご自身で付けたイカした名前ですよっ。
-[Lanhua]: Kouji-sama, you came up with that ridiculous name yourself.
+[Lanhua]: Kohji-sama, you came up with that ridiculous name yourself.
 //［ランファ］：はい、そうでーす。とってもラブリィだと、思いますけどぉ。
 [Lanhua]: Yes, that's riiiight. I think it's perfectly　　　lovely.
 //［ランファ］：はい。
@@ -197,7 +197,7 @@ s0303a
 //［宏治］：なんだよ、その触媒ってさ。
 [Kouji]: What do you mean by medium?
 //［ランファ］：コウジ様が言ったことですぅ、ランファは知りませんっ！
-[Lanhua]: Kouji-sama, you said it yourself, Lanhua has no　　idea!
+[Lanhua]: Kohji-sama, you said it yourself, Lanhua has no　　idea!
 //［宏治］：むぅ‥‥あ、そういえば‥‥。
 [Kouji]: Mmm...Ah, speaking of which...
 //［ランファ］：どうしたんですか？
@@ -207,7 +207,7 @@ s0303a
 //［ランファ］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
 [Lanhua]: Yes, that's right. That capsule itself is part of the Galactic Pirate...
 //［ランファ］：コウジ様の事ですぅ。
-[Lanhua]: So you want to know about Kouji-sama?
+[Lanhua]: So you want to know about Kohji-sama?
 //［宏治］：オレ？
 [Kouji]: Me?
 //［ランファ］：はいっ。
@@ -217,7 +217,7 @@ s0303a
 //［ランファ］：冗談は好きですけど、冗談じゃありませんっ。
 [Lanhua]: While I like to joke around, this isn't a joke.
 //［ランファ］：もちろんですぅ。コウジ様こそ、私の愛しい‥‥。
-[Lanhua]: Of course! Kouji-sama is my beloved...
+[Lanhua]: Of course! Kohji-sama is my beloved...
 //［宏治］：じゃなくて！
 [Kouji]: No, that's not what I mean!
 //［ランファ］：大宇宙海賊様ですぅ。
@@ -225,9 +225,9 @@ s0303a
 //［ランファ］：‥‥？
 [Lanhua]: ...Huh?
 //［ランファ］：コウジ様っ、その涼子せんせって、いったい誰なんですか？
-[Lanhua]: Kouji-sama, who on earth is that that Dr. Ryouko  you're addressing?
+[Lanhua]: Kohji-sama, who on earth is that that Dr. Ryouko  you're addressing?
 //［ランファ］：コウジ様ぁ、机の引き出しを開けて、何をしてるんですか？
-[Lanhua]: Kouji-sama, what are you doing, opening that desk drawer?
+[Lanhua]: Kohji-sama, what are you doing, opening that desk drawer?
 //［ランファ］：もうプリプリですぅ、涼子って、誰なんですか！？
 [Lanhua]: Now I'm mad, who the heck is Dr. Ryouko?!
 //［宏治］：涼子は涼子先生だよ、オレの知り合いの女性で‥‥。
@@ -245,7 +245,7 @@ s0303a
 //［ランファ］：それより、なーに？　用は。
 [Lanhua]: Forget it. What do you want?
 //［トレイシー］：あ、そうでした。コウジ様、ファルネリア様が、お目覚めになりましたが‥‥。
-[Tracy]: Ah, I have news. Kouji-sama, Farnelia-sama has　　　awakened...
+[Tracy]: Ah, I have news. Kohji-sama, Farnelia-sama has　　　awakened...
 //［トレイシー］：少々取り乱しておいでで、大変です。
 [Tracy]: She's become a little out of control, so I'm havingtrouble with her.
 //［ランファ］：暴れてるってこと？　麻酔薬でもうっちゃいなさいよ、お尻にプスって。
@@ -257,17 +257,17 @@ s0303a
 //［トレイシー］：私はジェネレータ計測結果のまとめに忙しいのです。
 [Tracy]: I'm busy taking measurements of the generator.
 //［ランファ］：プリプリよぉ、コウジ様ぁ‥‥。
-[Lanhua]: I'm really upset, Kouji-samaa....
+[Lanhua]: I'm really upset, Kohji-samaa....
 //［トレイシー］：こら、コウジ様にお願いしてもダメです。
-[Tracy]: Now, don't go pleading to Kouji-sama.
+[Tracy]: Now, don't go pleading to Kohji-sama.
 //［ランファ］：ねぇ、コウジ様ぁ‥‥ウルウル。
-[Lanhua]: Hey, Kouji-samaa...*sniffle*
+[Lanhua]: Hey, Kohji-samaa...*sniffle*
 //［宏治］：行ってきなよ、ランファ。
 [Kouji]: Go, Lanhua.
 //［ランファ］：えぇぇ～！！
 [Lanhua]: WHAAAAT--!!
 //［トレイシー］：さっ、コウジ様もああおっしゃってる訳だし。
-[Tracy]: See, even Kouji-sama said to do it.
+[Tracy]: See, even Kohji-sama said to do it.
 //［ランファ］：もうプリプリよぉ。
 [Lanhua]: Hmph, I'm still upset.
 //［トレイシー］：ファルネリア様は、ＶＩＰルームにおいでです。よろしく頼むわ。
@@ -275,9 +275,9 @@ s0303a
 //［ランファ］：しょうがないわねっ、じゃあ今から行く。
 [Lanhua]: Fine, then. I'll go now.
 //［トレイシー］：よろしくね‥‥あっ、コウジ様。
-[Tracy]: Good luck...Ah, Kouji-sama.
+[Tracy]: Good luck...Ah, Kohji-sama.
 //［トレイシー］：私、心の底からコウジ様のことをご心配申し上げて‥‥。
-[Tracy]: From the bottom of my heart, I've been worried　　　about you, Kouji-sama...
+[Tracy]: From the bottom of my heart, I've been worried　　　about you, Kohji-sama...
 //［ランファ］：ハイハイ、雑音は消さないとねっ。
 [Lanhua]: All right, I've got to go calm down that commotion
 //［ランファ］：何かあったら、ベッド傍らのコンパネを利用して下さい。もう飛んでやって来ますからっ！

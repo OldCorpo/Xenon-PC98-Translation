@@ -181,7 +181,7 @@ She sighed. Her expression was that of exasperation.
 //［目の前の女］：本来なら、それは私のセリフなんだけどね‥‥まぁ、いいわ。
 [Woman before me]: That should be my line... Well, whatever.
 //［目の前の女］：私は、ファル‥‥ファルネリアよ、コウジさん。
-[Woman before me]: Call me Far. Farneria is my full name,　 Kouji-san.
+[Woman before me]: Call me Far. Farneria is my full name,　 Kohji-san.
 //私は、ファルと名乗る目の前の女性を、改めて見つめてみた。
 I was once again staring at the woman before me who called  herself Far.
 //透き通るような赤い髪、大きくキリっとした目、薄く笑みがこぼれる口元‥‥。
@@ -189,7 +189,7 @@ Crystalline red hair, big and tense eyes, a faint smile...
 //左耳上に付けているのは何だろうか‥‥アクセサリか、あるいは無線のレシーバか何かだろうか。
 What was she wearing above her left ear? Some accessory? Or was it some sort of wireless receiver or something...?
 //［私］：そういえば、いま私のことをコウジって‥‥？
-[Me]: Come to think of it. Now, you called me Kouji...? 
+[Me]: Come to think of it. Now, you called me Kohji...? 
 //［ファル］：あなたの名前じゃない。
 [Far]: Isn't that your name?
 //［私］：私の、名前？
@@ -199,7 +199,7 @@ What was she wearing above her left ear? Some accessory? Or was it some sort of 
 //xenon_16
 xenon_16
 //［私］：（コウジ‥‥コウジというのか‥‥。）
-[Me]: (Kouji... Am I Kouji?)
+[Me]: (Kohji... Am I Kohji?)
 //［ファル］：そう、覚えていないのね‥‥。
 [Far]: That's right, you don't remember, do you...
 //ファルは少し憂いがかった表情をすると、私のところへ歩み寄った。
@@ -217,43 +217,43 @@ I had only just realized, but my outfit was quite sparse. A nearly see-through s
 //薄いシャツの胸部分には、確かにネームプレートが付いていた。自重により、少し下へ垂れ下がっている。
 There was, indeed, a nametag on the breast of this thin　　 shirt. It was hanging down by its own weight.
 //そこには、確かにコウジと記してある。どうやら、コウジというのが私の名前らしかった。
-And, indeed, "Kouji" was inscribed there. It seemed that　　Kouji was my name.
+And, indeed, "Kohji" was inscribed there. It seemed that　　Kohji was my name.
 //そういえば、聞き覚えが無い訳ではなかった‥‥。
 Speaking of which, it wasn't as though I had never heard　　that name before.
 //コウジ、か‥‥‥‥。
-Kouji...?
+Kohji...?
 //［ファル］：どう、思い出した？
 [Far]: Did you remember something?
 //［コウジ］：いや、何となく聞き覚えがある程度で‥‥‥でも、ありがとう。
-[Kouji]: No, I just feel like I've heard it before... But,  thank you.
+[Kohji]: No, I just feel like I've heard it before... But,  thank you.
 //［ファル］：えっ、どういうこと？
 [Far]: Huh? What do you mean?
 //［コウジ］：いや‥‥なんというか、自分の名前だけでも知ることができたのは、大きな収穫だった。
-[Kouji]: Well...it's just that I'm very glad I could at　　 least learn my own name.
+[Kohji]: Well...it's just that I'm very glad I could at　　 least learn my own name.
 //［ファル］：フフ、大げさね‥‥でもあなたの顔、本当に黄色いわ。
 [Far]: *chuckle* You're exaggerating. But your face is trulyyellow.
 //［コウジ］：黄色？
-[Kouji]: Yellow?
+[Kohji]: Yellow?
 //［ファル］：あっ、ごめんなさい。黄色はね、感謝の気持ちを表しているの。
 [Far]: Ah, sorry. The emotion yellow stands for is that of  gratitude.
 //［コウジ］：‥‥‥‥‥‥。
-[Kouji]: ‥‥‥‥‥‥
+[Kohji]: ‥‥‥‥‥‥
 //［ファル］：ごめんなさい、私はちょびっとだけ、精神感応の能力があって、人の感情を色で読みとることができるのよ。
 [Far]: I should explain: I have a limited ability to see　　into people's hearts. I can perceive their emotions as　　　colours.
 //［コウジ］：へぇ、じゃあ今の色は？
-[Kouji]: Really? Then, what color am I now?
+[Kohji]: Really? Then, what color am I now?
 //［ファル］：明るい青、かしら。
 [Far]: Perhaps a light blue.
 //［コウジ］：それはなに？
-[Kouji]: And what does that mean?
+[Kohji]: And what does that mean?
 //［ファル］：感銘の色よ。
 [Far]: Awe.
 //［コウジ］：ファル‥‥ネリアさん、だったかな。
-[Kouji]: You are Far...neria-san, right?
+[Kohji]: You are Far...neria-san, right?
 //［ファル］：ファルで構わないわ。
 [Far]: Just call me Far.
 //［コウジ］：わかった、ファル。じゃあ早速教えてほしいんだが‥‥。
-[Kouji]: Okay, Far. Well, I'd like you to tell me quickly...
+[Kohji]: Okay, Far. Well, I'd like you to tell me quickly...
 //［ファル］：あら、何を教えてほしいの？
 [Far]: Oh? What do you want me to tell you?
 //彼女は質問を受けて当惑する教師、という感じだった。
@@ -261,19 +261,19 @@ She sounded like a teacher gotten perplex by a sudden　　　　question.
 //やや怪訝そうな表情をしているファルに対峙して、私は、足下を指さしながら、
 Facing a puzzled Far, with a finger pointed at the ground, Isaid:
 //［コウジ］：ここさ。
-[Kouji]: About here.
+[Kohji]: About here.
 //［ファル］：‥‥ここ？
 [Far]: ...Here?
 //［コウジ］：ここは、いったいどこなんだ？　医療センターなどにしては、やけに設備が仰々しいが‥‥。
-[Kouji]: Where the heck is this place? Even for a medical　 center, the equipment is rather gaudy...
+[Kohji]: Where the heck is this place? Even for a medical　 center, the equipment is rather gaudy...
 //［ファル］：医療センター‥‥いったい、何を言っているの？
 [Far]: A medical centre? Just what are you talking about?
 //［コウジ］：‥‥‥？
-[Kouji]: ‥‥‥？
+[Kohji]: ‥‥‥？
 //［ファル］：かなり、記憶が欠落しているみたいね、コウジ‥‥。
-[Far]: Kouji, it seems you really don't remember...
+[Far]: Kohji, it seems you really don't remember...
 //［コウジ］：ち、違うのか？
-[Kouji]: A-am I wrong?
+[Kohji]: A-am I wrong?
 //フゥと１つ溜息を吐くと、ファルは肩をしゃくりあげるようなゼスチャーをしてみせる。
 Sighing deeply, Far shrugged.
 //少し、切なげな表情を私に向けると、ゆっくりと口を開き始めた。
@@ -285,11 +285,11 @@ Turning a somewhat pained face towards me, she slowly openedher mouth.
 //壁に埋め込まれているコンソールパネルが鳴り出した。硬い電子音が、あたりの空気をピリピリと振動させる。
 The console panel built into the wall started to squeal. A  stringent electronic sound permeated the atmosphere.
 //［コウジ］：な、なんだ‥‥？
-[Kouji]: W-What's...?
+[Kohji]: W-What's...?
 //［ファル］：ブリッジからだわ、解析が終わったのかしら？
 [Far]: It's from the bridge, does that mean they finished　 the analysis?
 //［コウジ］：（ブリッジ‥‥？　解析‥‥‥？？）
-[Kouji]: (Bridge...? Analysis...??)
+[Kohji]: (Bridge...? Analysis...??)
 //ファルは手慣れたように、近くのコンパネを指で叩いている。
 Far knocked on the console panel as though she'd done so a  thousand times.
 //しばらくすると、眼鏡を掛けた綺麗な女性が、モニターに映し出された。
@@ -311,35 +311,35 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［ファル］：フフ、早く教えてあげてね。我、救出に成功せり、ってね。
 [Far]: *chuckle* Please inform her soon. Tell her that the  rescue was a success.
 //［コウジ］：（ブリッジって‥‥艦船じゃあるまいし、いったいどういうことだ‥‥？）
-[Kouji]: (A bridge? So are we on board a warship? What's themeaning of this?)
+[Kohji]: (A bridge? So are we on board a warship? What's themeaning of this?)
 //［コウジ］：（それに、プロフェッサと呼ばれていたけど‥‥‥。）
-[Kouji]: (Moreover, she called her "Professor"...)
+[Kohji]: (Moreover, she called her "Professor"...)
 //［ファル］：‥‥どうかしたの？　怪訝そうな顔をしているわね。
 [Far]: ...Is something the matter? You look confused.
 //［コウジ］：そうだろうさ。ここはどこ、私は誰、という状況だからね。
-[Kouji]: What did you expect? I'm still wondering, What's　 this place? Who am I?
+[Kohji]: What did you expect? I'm still wondering, What's　 this place? Who am I?
 //［ファル］：じゃあ、心して聞いて頂戴‥‥。
 [Far]: Then listen to me carefully.
 //［ファル］：ここは、辺境のナーズ星系‥‥恒星ナーズのほぼ真上にあたるわ。
 [Far]: We're inside the Nuz star system, at the edge of the known universe. We're currently on standby above its primarystar, Nuz.
 //［コウジ］：‥‥‥‥‥！？
-[Kouji]: ‥‥‥‥‥！？
+[Kohji]: ‥‥‥‥‥！？
 //［ファル］：驚いているようね‥‥無理はないかも。
 [Far]: You look pretty shocked. I guess that's　　　　　　　understandable.
 //［コウジ］：じゃ、じゃあここは‥‥‥‥。
-[Kouji]: Then, this place...
+[Kohji]: Then, this place...
 //0100
 0100
 //［ファル］：そうよ‥‥‥‥。
 [Far]: Yes‥‥‥‥
 //［コウジ］：き、君はいったい‥‥‥‥。
-[Kouji]: W-who are you‥‥‥‥？
+[Kohji]: W-who are you‥‥‥‥？
 //［ファル］：私は超心理学者のファル、ファルネリア‥‥。
 [Far]: I am Far, Farneria, a parapsychologist.
 //［ファル］：あなたは、第２次調査隊の唯一の生き残りとして、私たちに救助されたの‥‥‥。
 [Far]: You are the sole survivor from the 2nd Investigative Squadron, and we rescued you.
 //［コウジ］：‥‥！？
-[Kouji]: ‥‥！？
+[Kohji]: ‥‥！？
 //唯一の‥‥‥‥
 Sole...
 //生き残り‥‥‥‥？
@@ -356,7 +356,7 @@ Ordering me to wait here, Far left the room at a fast pace.
 //看護の者をよこすという事だったが‥‥‥‥。
 Was it to dispatch a nurse for me?
 //［コウジ］：看護、か‥‥‥‥。
-[Kouji]: A nurse...?
+[Kohji]: A nurse...?
 //あらためて、自分の姿を確認してみる。
 Once again, I took a look at myself.
 //薄手のシャツ１枚に、丈の比較的短いズボン、それに胸についたネームプレート‥‥それが、私の身につけているモノの、全てだった。
@@ -376,7 +376,7 @@ And yet...
 //逆に言えば、分かっているのは、それだけとも言える。
 You could say that was all that I knew.
 //［コウジ］：まぁ、いいさ‥‥。
-[Kouji]: Well, whatever.
+[Kohji]: Well, whatever.
 //改めて部屋を見回してみる。意外に綺麗に片づいた部屋だった。
 I looked around the room one more time. It was unexpectedly clean.
 //右側には、ついたてのようなモノが置いてある。しかし、誰かと相部屋、という訳でもなさそうだ。
@@ -386,7 +386,7 @@ On my left, there was a device resembling a computer　　　　terminal, yet no
 //質素、という言葉が相応しい部屋だった‥‥。
 The word "plain" really aptly fit this room.
 //［コウジ］：これで、ドアにカギが掛かっていたら、ほとんど監禁だな‥‥。
-[Kouji]: If the door were locked, you could practically callthis confinement...
+[Kohji]: If the door were locked, you could practically callthis confinement...
 //言ってみて、改めて気付いた。そうか、その可能性もあるな‥‥。
 On second thought, now that I said it, I realized that I　　could actually have been locked in here.
 //　◆ ドアを開けてみよう。
@@ -414,7 +414,7 @@ We were inside a spaceship, passing right over a star.
 //この部屋から出ることができたとしても、ただそれだけということだ。
 Even if I left this room, there was nothing more I could do.
 //［コウジ］：生殺与奪は、完全に向こうが握っているということか。
-[Kouji]: I'm completely at the mercy of those people...
+[Kohji]: I'm completely at the mercy of those people...
 //私は、わざと声に出して言ってみた。これは、考えすぎというものだろうか‥‥。
 I said this phrase aloud on purpose.　　　　　　　　　　　　Maybe I was over-thinking it...
 //幸い、ベッドは柔らかく寝心地は良さそうだった。
@@ -422,17 +422,17 @@ Thankfully, the bed was soft and looked comfortable.
 //私は、ヒンヤリとしたシーツの上へ仰向けに倒れ込むと、手を頭の後ろで組んで天井を見つめた。
 I fell back on the cool sheets, and, crossing my hands　　　behind my head, stared at the ceiling.
 //［コウジ］：（ま、慌てる必要は無いさ‥‥‥‥。）
-[Kouji]: Well, I guess I shouldn't worry...
+[Kohji]: Well, I guess I shouldn't worry...
 //そんな事を考えていたとき、
 If I think about it,
 //ピーピッ、ピーピッ‥‥‥‥。
 *BEEEEP* *BEEEEP*
 //［コウジ］：な、何だ‥‥！？
-[Kouji]: What was that!?
+[Kohji]: What was that!?
 //頭の上の辺りから、音が聞こえてくる。良く見ると、モニターらしきものとパネルが、壁に付いていた。
 I heard a sound coming from above my head. Looking up,　　　I saw a monitor-like panel was hanging on the wall.
 //［コウジ］：そういえばさっき、あのファルという女性も‥‥。
-[Kouji]: Come to think of it, just now, that girl named Far also...
+[Kohji]: Come to think of it, just now, that girl named Far also...
 //私は、さきほどのエンジンルームでの事を思い出した。確か、このあたりのボタンを‥‥‥‥。
 I thought of the event in the engine room. Indeed, the　　　button around here was...
 //［女］：あっ、お休みでしたか？
@@ -440,11 +440,11 @@ I thought of the event in the engine room. Indeed, the　　　button around her
 //モニターの中で、金髪の女性が微笑んでいる。あまりにナチュラルな笑みだったので、こっちもうっかり微笑み返してしまう。
 In the monitor, a blonde girl was smiling. Her smile didn't seem very natural, but I inadvertently smiled back.
 //［コウジ］：い、いや‥‥少し、休んでいたけどね。
-[Kouji]: W-well, I was resting for a bit.
+[Kohji]: W-well, I was resting for a bit.
 //［女］：これから、そちらへ伺おうかと思っているのですが、構わないでしょうか？
 [Girl]: I was thinking of visiting that place from here. Youdon't mind, do you?
 //［コウジ］：えっ？　これから？
-[Kouji]: Huh? From here?
+[Kohji]: Huh? From here?
 //［女］：差し支えるのなら、また後ほどにしますが。
 [Girl]: If you don't mind, I'll see you later.
 //意外に低い物腰に、さきほどの疑惑が、ずいぶんと馬鹿馬鹿しいものに思えてくる。
@@ -452,13 +452,13 @@ Seeing her genuinely humble behavior, I felt really dumb　　about my doubts ju
 //モニターの中の女性は、笑みを崩さず、じっと私の返答を待っている。
 The girl on the screen kept smiling as she stared at me,　　waiting for my response.
 //［コウジ］：いや、全く構わない。
-[Kouji]: No, I don't mind at all.
+[Kohji]: No, I don't mind at all.
 //［女］：では、これから伺いますね。
 [Girl]: Then, I'll be taking my leave now.
 //目を細めて笑うと、モニターの中の女性は忽然と姿を消した。
 With a wink and a smile, the girl on the monitor suddenly　 vanished.
 //［コウジ］：（確か‥‥トレイシー、という名前だったか‥‥。）
-[Kouji]: (Her name...was definitely Tracy...)
+[Kohji]: (Her name...was definitely Tracy...)
 //そんなことを考えていると、
 So I thought.
 //［トレイシー］：きゃっ！
@@ -470,9 +470,9 @@ In front of the door, the girl from the monitor was sitting and rubbing her hip.
 //どうやら、何かにつまづいてしまったらしい。
 Something seemed to have gone wrong somehow.
 //［女］：こ、コウジさん‥‥ですね？
-[Girl]: K-Kouji-san, was it?
+[Girl]: K-Kohji-san, was it?
 //［コウジ］：そうだけど、あなたは？
-[Kouji] Yes, and you are?
+[Kohji] Yes, and you are?
 //私は、彼女に手を差し伸べながら、確認のために彼女の名前を聞いた。
 I stretched my hand out to the girl, and asked to confirm　 her name.
 //その女性は私の手を握りながら、すみません、と一言いうとゆっくりと立ち上がった。
@@ -482,7 +482,7 @@ The girl took my hand and apologized as she straightened up.
 //to_bast
 to_bast
 //［コウジ］：あ、あなたは‥‥？
-[Kouji]: And y-you are?
+[Kohji]: And y-you are?
 //［女］：私はトレイシー‥‥あなたのお世話を、仰せつかっていますわ。
 [Girl]: I'm Tracy...We just spoke earlier.
 //トレイシーと名乗る目の前の女性は、首をちょっとだけ傾けて、ニコリと微笑んだ。
@@ -498,23 +498,23 @@ As she said this, Tracy tidied the bed sheets and placed theclothes splayed ther
 //てきぱきとした動作が、なかなか心地よかった。
 With those quick movements, I felt truly better.
 //［コウジ］：気分は、それほど悪くはないけど‥‥。
-[Kouji]: I'm feeling a lot better, but I want to ask...
+[Kohji]: I'm feeling a lot better, but I want to ask...
 //［トレイシー］：それは良かったですね。
 [Tracy]: That's good to hear.
 //［コウジ］：君が看護婦の‥‥トレイシー、さん？
-[Kouji]: You're the nurse...Tracy-san?
+[Kohji]: You're the nurse...Tracy-san?
 //［トレイシー］：トレイシーで構いません。それに、看護の資格も持っている、というだけですわ。
 [Tracy]: Tracy is fine. To answer your question, I only havenursing qualifications.
 //［コウジ］：だけ？　そのほかに、なにか‥‥。
-[Kouji]: "Only" qualifications? Then that means...
+[Kohji]: "Only" qualifications? Then that means...
 //［トレイシー］：私は、プロフェッサの助手を務めさせて貰っています。
 [Tracy]: The professor allowed me to serve as her assistant.
 //［コウジ］：ぷ、プロフェッサって‥‥？
-[Kouji]: Who do you mean by "the professor"?
+[Kohji]: Who do you mean by "the professor"?
 //［トレイシー］：ファルネリアのことです。
 [Tracy]: I mean Professor Farnelia.
 //［コウジ］：あ、あのファルという女性が、プロフェッサ‥‥！？
-[Kouji]: Th-that Far girl was a professor?!
+[Kohji]: Th-that Far girl was a professor?!
 //［トレイシー］：はい、そうです。
 [Tracy]: Yes, she was.
 //どうも、話が呑み込めなかった‥‥。
@@ -526,17 +526,17 @@ And then...
 //そして、唯一の生き残りが、この私だと‥‥‥‥。
 And then, I was the only living thing left...
 //［トレイシー］：あの、コウジさん、どうかなさいましたか？
-[Tracy]: Uh, Kouji-san, did something happen?
+[Tracy]: Uh, Kohji-san, did something happen?
 //［コウジ］：トレイシー。
-[Kouji]: Tracy.
+[Kohji]: Tracy.
 //［トレイシー］：は、はい‥‥。
 [Tracy]: Y-yes?
 //［コウジ］：教えて欲しいんだ。私の事を‥‥。
-[Kouji]: I'd like you to explain something that happened to me.
+[Kohji]: I'd like you to explain something that happened to me.
 //［トレイシー］：こ、コウジさんの事を‥‥ですか？
 [Tracy]: Something that happened to you?
 //［コウジ］：そうだ、私はいったいどこで‥‥‥‥。
-[Kouji]: Yes, where was I...
+[Kohji]: Yes, where was I...
 //ピーピッ‥‥ピーピッ‥‥。
 *BEEEEP* *BEEEEP*
 //［トレイシー］：あら、誰かしら‥‥。
@@ -562,17 +562,17 @@ She seemed somewhat panicked.
 //プツッ‥‥。
 *Click*
 //［トレイシー］：ではコウジさん、急用ができてしまったので‥‥失礼します。
-[Tracy]: Well, then, Kouji-san, I have urgent business to　 attend to. Excuse me.
+[Tracy]: Well, then, Kohji-san, I have urgent business to　 attend to. Excuse me.
 //［コウジ］：あっ、待ってくれ。
-[Kouji]: Ah, wait a minute.
+[Kohji]: Ah, wait a minute.
 //［トレイシー］：はい？
 [Tracy]: What?
 //［コウジ］：磁気嵐、という話だったけど、大丈夫なのかい？
-[Kouji]: Far mentioned a stellar magnetic storm. Will we be OK?
+[Kohji]: Far mentioned a stellar magnetic storm. Will we be OK?
 //［トレイシー］：はい、少しシップを恒星から浮上させることになりますが‥‥。
 [Tracy]: Yes, something floated onto the ship from the star.
 //［コウジ］：浮上、ね‥‥。
-[Kouji]: Floated up...
+[Kohji]: Floated up...
 //上も下もない宇宙空間で使うには、不適当な気もするが、恐らく慣習的なものなのかもしれない。
 In gravityless outer space, such a threat feels undefeatablebut it's probably a regular occurrence.
 //［トレイシー］：通信機能が、磁気嵐の間だけ使用不能になりますけど、安全に影響はありません。大丈夫です。
@@ -582,7 +582,7 @@ I felt uncertain when she said that, but when Tracy smiled  at me, it really fel
 //［トレイシー］：では、これで‥‥。
 [Tracy]: Then, here...
 //［コウジ］：磁気嵐、か‥‥‥‥。
-[Kouji]: The magnetic storm...
+[Kohji]: The magnetic storm...
 //磁気嵐が、いったいどういう性質のものなのか、私にはわからない。それ故、不安も増大してくる。
 As I realized I had no idea what the nature of that magneticstorm would be, my discomfort grew.
 //しかし安全に影響は無いと言うのなら、そうなんだろう。
@@ -606,7 +606,7 @@ As I thought that, I walked to the door and thought about　 more matters...
 //しかし、分かっているのは自分の名前と、この場所、だけだった。
 All I knew was my name and this place.
 //［コウジ］：（調査隊の生き残り、とか言っていたな‥‥。）
-[Kouji]: (She spoke of the survival of the investigative　　team...)
+[Kohji]: (She spoke of the survival of the investigative　　team...)
 //そうだ、確かファルという女性は、そんなことを言っていた。
 Yes, that Far girl definitely said that.
 //調査隊‥‥？
@@ -630,7 +630,7 @@ I reached out once in front of the door. I was slightly　　 anxious.
 //意に反して、ドアはすんなりと外への出口を呈示した。
 To my surprise, the door led smoothly outside.
 //［コウジ］：（考え過ぎ、だったか‥‥‥‥。）
-[Kouji]: (I'm probably thinking too hard...)
+[Kohji]: (I'm probably thinking too hard...)
 //私は、ドアを開けると、部屋を後にした‥‥。
 As I opened the door and walked out of the room...
 //少し、休んだ方がいいかもしれない。
@@ -644,7 +644,7 @@ On thinking this, I fell onto the bed again, putting my arm behind my head to lo
 //自然と、まぶたが重くなってくる。
 Naturally, my eyelids got heavy.
 //［コウジ］：（これから、どうなるんだろう‥‥‥‥。）
-[Kouji]: (What'll happen from here...?)
+[Kohji]: (What'll happen from here...?)
 //目をつぶりながら、私は自問した。
 I asked myself with eyes closed.
 //自分の名前は判明したし、ここがどこなのかも、だいたいわかった‥‥。
@@ -654,25 +654,25 @@ However, that's all I knew. I didn't know any details about myself, and nothing 
 //目をつぶりながら、そんなことを考えていたとき‥‥‥‥。
 While I thought about that with my eyes closed...
 //［コウジ］：（‥‥ん？）
-[Kouji]: (...Nn?)
+[Kohji]: (...Nn?)
 //［コウジ］：（何かいま、音がしたようだが‥‥‥‥。）
-[Kouji]: (There was a sound just now...)
+[Kohji]: (There was a sound just now...)
 //部屋を見回してみる。しかし、誰もいない‥‥‥‥。
 I looked around the room, but no one was there...
 //［コウジ］：（気のせいか‥‥？）
-[Kouji]: (Was I imagining things?)
+[Kohji]: (Was I imagining things?)
 //そう思って、再び目を閉じかけたとき‥‥‥‥。
 As I thought that, I closed my eyes again...
 //［コウジ］：（気のせいじゃない‥‥！？）
-[Kouji]: (Was I really imagining things?!)
+[Kohji]: (Was I really imagining things?!)
 //［コウジ］：（外か‥‥？）
-[Kouji]: (Outside...?)
+[Kohji]: (Outside...?)
 //以前も、こんな事があったような気がする‥‥既視感覚、というものだろうか。
 I think I've felt this before...this must be deja vu.
 //私は不安を抱きながら、ドアへ歩いていった。
 As I held onto this unease, I walked to the door.
 //［コウジ］：（誰か、いるのか‥‥？）
-[Kouji]: (Is someone there?)
+[Kohji]: (Is someone there?)
 //やはり、室外は暑いな‥‥‥‥。
 Indeed, outside was warm...
 //恒星付近という位置上、室内には冷房が効いているというのが、どうやら正解らしかった。
@@ -706,7 +706,7 @@ I heard some heavy sound...what could this be?
 //私は、ドアの開閉スイッチに、そっと手を触れた‥‥。
 I touched the switch to the door...
 //［コウジ］：ここは‥‥‥‥。
-[Kouji]: Here...
+[Kohji]: Here...
 //以前、私が訪れた場所だった‥‥。
 This was the place I visited before...
 //確か、エンコーダとか、言っていたが‥‥‥‥。
@@ -714,13 +714,13 @@ They definitely said something about an encoder.
 //改めて見ると、色々な機材が、床と壁一杯に敷き詰められている。質素な自室とは、えらい違いだった。
 Looking again, there was various equipment laid from the bedto the wall. Someone definitely didn't choose a simple room for themselves.
 //［コウジ］：いったい、何に使うんだろう‥‥。
-[Kouji]: What in the world are they using here...
+[Kohji]: What in the world are they using here...
 //そう思って、機械に近づいてみると‥‥‥‥。
 As I thought that, I looked closer to the equipment...
 //［女の声］：ダメ‥‥‥‥。
 [Girl's voice]: Don't...
 //［コウジ］：‥‥えっ？
-[Kouji]: Eh?
+[Kohji]: Eh?
 //［女の声］：勝手にいじっては、ダメです。
 [Girl's voice]: Don't mess around with that.
 //やはり、自室に戻った方がいいかも知れない。
@@ -734,27 +734,27 @@ At least, I acted that way.
 //そう考えると、私は自室へときびすを返した。
 As I considered that, I turned on my heels back to my room.
 //［コウジ］：あっ‥‥き、君は‥‥。
-[Kouji]: Ah...you are...
+[Kohji]: Ah...you are...
 //目の前には、あの少女が立っていた。いつの間にかその場にいる、そんな存在感のする少女だった。
 A girl stood in front of me. It seemed she had been there　 for some time.
 //彼女は少し驚いた表情をしているが、取り乱した様子は無い。
 She seemed slightly frightened, but not distraught.
 //［ランファ］：コウジさん‥‥ですね？
-[Lanhua]: Kouji-san, is that you?
+[Lanhua]: Kohji-san, is that you?
 //［コウジ］：ああ‥‥どうやら、そうらしい。
-[Kouji]: Ah...yes, it is.
+[Kohji]: Ah...yes, it is.
 //私のこの返答に、彼女は少し当惑したようだ。
 On hearing my response, she became a bit embarrassed.
 //だが実際、これ以外言いようが無いのも事実だった。私が、自分の名前を知ったのは、ほんの数時間前なのだから‥‥。
 In truth, I can't say it any other way. After all, I learnedmy own name just a few hours ago...
 //［コウジ］：以前も、この辺りで会ったよね。
-[Kouji]: We met here last time, too.
+[Kohji]: We met here last time, too.
 //［コウジ］：確か、ランファ、だったかな、君の名前は。
-[Kouji]: I definitely remember: Lanhua was your name.
+[Kohji]: I definitely remember: Lanhua was your name.
 //［ランファ］：‥‥覚えていたんですか？
 [Lanhua]: ...You remembered?
 //［コウジ］：そりゃあ覚えているさ、ついさっきの事じゃないか。
-[Kouji]: Yeah, I remembered, wasn't just a while ago?
+[Kohji]: Yeah, I remembered, wasn't just a while ago?
 //［ランファ］：ついさっき、ですか。
 [Lanhua]: A while ago, was it?
 //そういえば、記憶がはっきりとしない‥‥‥。
@@ -776,11 +776,11 @@ But....
 //［ランファ］：あの‥‥。
 [Lanhua]: Uh...
 //［コウジ］：えっ？
-[Kouji]: Yes?
+[Kohji]: Yes?
 //［ランファ］：どうなさったんですか？
 [Lanhua]: What happened?
 //［コウジ］：いや‥‥ランファとは、確か以前会ったよね。
-[Kouji]: No...I definitely met you before.
+[Kohji]: No...I definitely met you before.
 //［ランファ］：以前って‥‥いつの話でしょうか。
 [Lanhua]: When do you mean, "before"?
 //［ランファ］：夢でも、見たんじゃありませんか？
@@ -788,11 +788,11 @@ But....
 //‥‥夢？
 ...Dreams?
 //［コウジ］：なぜ、そんなことを言うんだい。
-[Kouji]: Why would you mention dreams?
+[Kohji]: Why would you mention dreams?
 //［ランファ］：だって‥‥‥‥。
 [Lanhua]: Because....
 //［コウジ］：前に以前、会ったはずだろう？
-[Kouji]: Before that, we met, right?
+[Kohji]: Before that, we met, right?
 //［ランファ］：それは、コウジさんの記憶に残っている、ということでしょうか？
 [Lanhua]: That's what you remembered. Isn't that right?
 //おかしな聞き方をする‥‥それ以外に、どう受け取れるというのだ。
@@ -800,26 +800,26 @@ That was an odd question to ask. It was hard to take in.
 //［ランファ］：それは、夢です‥‥。
 [Lanhua]: That was a dream...
 //［コウジ］：‥‥夢だって？
-[Kouji]: Only a dream?
+[Kohji]: Only a dream?
 //［ランファ］：コウジさんは、夢を見ないのですか？
-[Lanhua]: Kouji-san, do you not have dreams?
+[Lanhua]: Kohji-san, do you not have dreams?
 //［コウジ］：私は‥‥‥‥。
-[Kouji]: I...
+[Kohji]: I...
 //そういえば、最近はいつ眠ったのだろうか‥‥。
 Come to think of it, I have been sleeping a lot recently,　 haven't I?
 //思い出せない‥‥私はいつ‥‥‥‥。
 I can't remember it...I was always...
 //［ランファ］：コウジさん‥‥‥‥。
-[Lanhua]: Kouji-san....
+[Lanhua]: Kohji-san....
 //［コウジ］：な、なんだい？
-[Kouji]: W-What is it?
+[Kohji]: W-What is it?
 //［ランファ］：思い出して下さい。
 [Lanhua]: Please try to remember.
 //［コウジ］：な、なぜ‥‥‥‥。
-[Kouji]: Why...
+[Kohji]: Why...
 //［コウジ］：なぜ、そんなことを言うんだ。
-[Kouji]: Why would you say that?
+[Kohji]: Why would you say that?
 //［コウジ］：君は、何を知っているんだ‥‥。
-[Kouji]: What do you know...
+[Kohji]: What do you know...
 //君は、何を‥‥‥‥‥。
 What do you...
