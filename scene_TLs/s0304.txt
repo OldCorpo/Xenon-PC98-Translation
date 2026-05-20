@@ -169,7 +169,7 @@ As I closed the door...
 //［宏治］：んー、じゃあトレイシー、かな？
 [Kouji]: Well, then, maybe Tracy?
 //［コウジ］：よし、では惑星エイレートで過ごしたあのときを、覚えているか？
-[Kohji]: Good, then do you remember that time you revolved  about the planet Elath?
+[Kohji]: Good, then do you remember that time you revolved  about the planet Eilat?
 //［コウジ］：黙って聞くのだ。あの時の君は本当に素敵だったと言ってやれ。それで恐らく確信してもらえる事だろう。
 [Kohji]: Shut up and listen to me. At that time, say to her,"you're really wonderful. " That should be enough to gain　 her trust.
 //［コウジ］：いいから、この通り言うのだ。ただし、ランファの前では決して言うな。いいな？
@@ -269,7 +269,7 @@ to03
 //［宏治］：いや、ゴメン、その‥‥‥。
 [Kouji]: Oh, sorry, it's just...
 //　◆ 惑星エイレートで過ごしたときのことを‥‥。
-◆ It's about our approach to the planet Elath...
+◆ It's about our approach to the planet Eilat...
 //　◆ いや、何でもない。気にしないでくれ‥‥。
 ◆ Never mind, it's nothing. Don't mind me...
 //［宏治］：いや、何でもない。気にしないでくれ‥‥。
@@ -341,7 +341,7 @@ to02_m
 //to03_m
 to03_m
 //［宏治］：惑星エイレートで過ごしたときのことを、覚えているかい？
-[Kouji]: Do you remember the time we passed by planet　　　 Elath?
+[Kouji]: Do you remember the time we passed by planet　　　 Eilat?
 //［トレイシー］：えっ‥‥。
 [Tracy]: Umm...
 //［宏治］：いやその、覚えていないのなら、別にいいんだけど。

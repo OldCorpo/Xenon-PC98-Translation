@@ -441,7 +441,7 @@ I pulled the gun out of her hip holster, and suddenly let goof her. The sudden a
 //［コウジ］：惑星？
 [Kohji]: Planet?
 //［ファル］：エイレートのことよ。
-[Far]: Yes, the planet Elath.
+[Far]: Yes, the planet Eilat.
 # TL comment: エイレート is almost definitely Eilat, Elath, other variations could be Eyalet, Eileth
 //［ファル］：私を、どうするの？
 [Far]: What are you going to do to me?
@@ -602,4 +602,4 @@ Far turned around to the front and was silent once more...
 //ここまで行き違いが進行していると、些細な事はもうどうでもよくなってくる。
 Up until now, I'd made mistakes, but these trivialities　　 didn't matter anymore.
 //私はそう考えると、足を伸ばし、シートにぐっともたれ掛かった。惑星エイレートはもう、目の前にまで迫っている‥‥。
-With this in mind, I stretched my legs and laid down on the sheet. The planet Elath was within reach...
+With this in mind, I stretched my legs and laid down on the sheet. The planet Eilat was within reach...
