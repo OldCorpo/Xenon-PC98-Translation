@@ -43,7 +43,7 @@ s0302b
 //［宏治］：ここはいったいどこなんだ。
 [Kouji]: Where in the world is this place?
 //［トレイシー］：ここ、とおっしゃられますと、今コウジ様がおられる場所ですか？
-[Tracy]: And by "here", do you mean to say, "the place whereKouji-sama is located now"?
+[Tracy]: And by "here", do you mean to say, "the place whereKohji-sama is located now"?
 //［トレイシー］：ベッドの上に寝ておられますわ。
 [Tracy]: Well, you're resting on top of the bed.
 //［トレイシー］：何かお気に触られる事でも？
@@ -75,7 +75,7 @@ s0302b
 //［宏治］：いやその、話の腰を折って悪かった。続けてくれ。
 [Kouji]: Oh, sorry to interrupt. Please continue.
 //［トレイシー］：彼女は主に機関部の整備やチェック、航行機器類を任されていますわ。
-[Tracy]: She's primarily responsible for the engine　　　　　department's checks and maintenance, but the navigation　　equipment is also under her domain.
+[Tracy]: She's primarily responsible for the engine　　　　　department's checks and maintenance, but the navigation　　 equipment is also under her domain.
 //［宏治］：機関部？　航行機器？
 [Kouji]: You said something about the engine department? Andthe navigation equipment?
 //［トレイシー］：それが、なにか‥‥？
@@ -101,7 +101,7 @@ s0302b
 //［宏治］：だからぁ‥‥だいたい何さ、さっきからその『コウジ様』ってのは。
 [Kouji]: I keep telling you...to begin with, what's with　　that "Kohji-sama" from earlier?
 //［トレイシー］：コウジ様は、コウジ様です。それ以外に、お呼びできません。
-[Tracy]: Kohji-sama is Kohji-sama. I can't call you any　　　other way.
+[Tracy]: Kohji-sama is Kohji-sama. I can't address you any  other way.
 //［宏治］：んー‥‥。
 [Kouji]: Mmmm--...
 //［宏治］：《クワドラ》とはいったい何なんだい？
@@ -123,7 +123,7 @@ s0302b
 //［トレイシー］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
 [Tracy]: It is 52 meters long, the engine runs on ethereal  photon energy, and the craft is fitted with hyperdrive　　　capabilities...
 //［トレイシー］：火器はイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など一発ですわ‥‥あら、私としたことが。ホホホ。
-[Tracy]: The armaments consist of 3 ion cannons and two　　　photon blasters, which would take out a superficialcruiser in one hit... oh my, did I do that? Hohoho.
+[Tracy]: The armaments consist of 3 ion cannons and two　　　photon blasters, which would take out a superficial cruiser in one hit... oh my, did I do that? Hohoho.
 //［宏治］：ええと‥‥。
 [Kouji]: Ummm....
 //［トレイシー］：最大搭乗員数は２０人、でもフルオートのエンジンや航行機能などで、最低３人にまで削減することが可能です。
@@ -141,7 +141,7 @@ s0302b
 //［トレイシー］：冗談？　私、冗談とイカの頭は嫌いですの。コウジ様、知ってらっしゃるはずでしょう？
 [Tracy]: Joke? I have no use for a joke like that.　　　　　Kohji-sama, do you think you understand?
 //［宏治］：じゃあ何かい、ここはその、《クワドラ》とやらいう宇宙船の中で、もしかして宇宙空間中に浮かんでいるとか？
-[Kouji]: Well, in any case, we're in the middle of the　　　Quadra space ship, so could it be possible that we're　　　 floating through outer space right now?
+[Kouji]: Well, in any case, we're in the middle of the　　　Quadra spaceship, so could it be possible that we're　　　  floating through outer space right now?
 //［トレイシー］：もしかしなくても、おっしゃる通りですわ。
 [Tracy]: It's not just a possibility, it's exactly as you　　say.
 //［宏治］：‥‥質問を変えよう。
@@ -291,7 +291,7 @@ The silence hurt my ears, but any more noise would hurt my  head, too.
 //混乱していないと言えば嘘になる。むしろ、オレはさっきから混乱のしっぱなしだ。
 If I said I wasn't confused, I'd be lying. However, my　　　confusion from earlier had dissipated.
 //ここが、大宇宙に浮かぶ宇宙船の中で、しかも何とか砲とかいう武器がついてる高機動シップだと？
-Here, I am floating through space on a space ship, and it　　seems that it's a high class mobile ship carrying some sort of cannon weaponry.
+Here, I am floating through space on a spaceship, and it　　 seems that it's a high class mobile ship carrying some sort of cannon weaponry.
 //霊子エナジーなんとかという、ジェネレータがどうした、あげくの果てに、このオレが大宇宙海賊ときた時には‥‥‥‥。
 The generator uses Reiko energy or whatever to, in the end, make me some kind of galactic pirate...
 //オレは仏頂面のまま手を頭の後ろに組み、ベッドに仰向けに倒れ込んだ。

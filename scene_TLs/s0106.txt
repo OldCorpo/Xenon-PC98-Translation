@@ -355,7 +355,7 @@ fa_ba_b
 //［トレイシー］：わかりました、プロフェッサ。
 [Tracy]: Understood, Professor.
 //［コウジ］：（第２次調査隊の、スペースシップか‥‥‥‥。）
-[Kohji]: (The second investigative team's space ship...)
+[Kohji]: (The second investigative team's spaceship...)
 //［コウジ］：（私は第２次調査隊の、唯一の‥‥いや、唯二の生存者の１人という訳だ‥‥。）
 [Kohji]: (I was the only..., no, one of only two survivors  from the second investigative team...)
 //［コウジ］：（そしてもしかしたら、３人目が見つかるかもしれない‥‥。）
@@ -459,7 +459,7 @@ Why would she know something like that...?
 //調査のため、かもしれない‥‥。
 I may have been there to investigate...
 //それを問い正したかったが、目的のスペースシップが眼前に迫っていた。
-I wanted to ask her that question, but the space ship we　　were destined for was approaching.
+I wanted to ask her that question, but the spaceship we　　 were destined for was approaching.
 //豆粒のような大きさだったのが、段々と眼前に迫ってくる迫力は凄いものがある。
 It started out as big as a bean, but as it got closer and　 closer, it looked more and more impressive.
 //［ファル］：多少揺れるわよ、舌を噛まないようにね。

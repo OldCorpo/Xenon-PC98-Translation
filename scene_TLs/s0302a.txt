@@ -777,7 +777,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：だが、この感覚、こうしてオレは今ここにいるんじゃないのか？
 [Kouji]: But, this feeling has led me to where I am right　　now, hasn't it?
 //［宏治］：窓から真っ暗な外を見たというだけで、ここが宇宙船だっていう確証は何もないぞ、まだ。
-[Kouji]: From the window, the outside does look pitch black,but there's still no definitive proof that this place is a  space ship.
+[Kouji]: From the window, the outside does look pitch black,but there's still no definitive proof that this place is a  spaceship.
 //［宏治］：ブリッジのメカメカしい装置類と、馬鹿でかいエンジンを見ただけじゃないか‥‥。
 [Kouji]: But I've seen the bridge's mechanical appliances　　and that stupidly huge engine...
 //［宏治］：別のことを考えよう‥‥。
