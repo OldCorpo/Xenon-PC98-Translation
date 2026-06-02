@@ -179,7 +179,7 @@ s0302b
 //［宏治］：そ。そのジェネレータの機能の概説とやらを、教えてくれ。
 [Kouji]: Yes. Please give me a summary of that generator's  capabilities.
 //［トレイシー］：私も詳しくは知らないのですが、コウジ様がおっしゃるに、何でも大変なシロモノとか。
-[Tracy]: I don't know the specifics, but from Kohji-sama hassaid, it's a very important appliance.
+[Tracy]: I don't know the specifics, but from what　　　　　Kohji-sama has said, it's a very important appliance.
 //［宏治］：た、大変なシロモノ‥‥それが機能の概説？
 [Kouji]: A-an important appliance...Is that your summary of its capabilities?
 //［トレイシー］：コウジ様が、それしかお教え下さらなかったのではありませんか。
@@ -227,19 +227,19 @@ s0302b
 //［トレイシー］：こ、コウジ様？
 [Tracy]: K-Kohji-sama?
 //［宏治］：涼子先生だな、その手は喰わないぜ。わははは。
-[Kouji]: Doctor Ryouko, is that you, please stop biting my  hand, wahahaha.
+[Kouji]: Doctor Ryouko, is that you, please stop pulling my leg, wahahaha.
 //［トレイシー］：コウジ様、お気を確かに‥‥‥。
 [Tracy]: Kohji-sama, please stay calm...
 //［宏治］：おーい、涼子せんせー！　その辺に隠れてるんだろ！？
-[Kouji]: Heeey, Doctor Ryoukooo! Are you hiding around there?!
+[Kouji]: Heeey, Doctor Ryoukooo! Are you hiding around　　　there?!
 //［トレイシー］：こ、コウジ様、ゴミ箱をあさって一体何を‥‥。
 [Tracy]: K-Kohji-sama, why on earth are you flipping that　　wastebasket...?
 //［宏治］：出てこいよぉ、涼子先生！
 [Kouji]: Come out, Doctor Ryouko!
 //［トレイシー］：ど、どうしましょう‥‥コウジ様がとうとう‥‥。
-[Tracy]: Wh-what is happening...Kohji-sama, you're 
+[Tracy]: W-what should we do... Kohji-sama has finally...
 //［宏治］：とうとうって何だよ、とうとうって。失礼な。
-[Kouji]: ""? What do you mean, ""? Sorry.
+[Kouji]: What do you mean "finally"? That's very rude.
 //［トレイシー］：で、ですが‥‥‥。
 [Tracy]: B-but...
 //［宏治］：君も君だよ。涼子先生に言われて、オレを騙そうとしたって、そうは問屋が‥‥。
@@ -291,7 +291,8 @@ The silence hurt my ears, but any more noise would hurt my  head, too.
 //混乱していないと言えば嘘になる。むしろ、オレはさっきから混乱のしっぱなしだ。
 If I said I wasn't confused, I'd be lying. However, my　　　confusion from earlier had dissipated.
 //ここが、大宇宙に浮かぶ宇宙船の中で、しかも何とか砲とかいう武器がついてる高機動シップだと？
-Here, I am floating through space on a spaceship, and it　　 seems that it's a high class mobile ship carrying some sort of cannon weaponry.
+Here, I'm inside a spaceship floating in the vast cosmos, itseems a high-mobility ship equipped with some sort of cannonweaponry.
+#Here, I am floating through space on a spaceship, and it　　 seems that it's a high class mobile ship carrying some sort of cannon weaponry
 //霊子エナジーなんとかという、ジェネレータがどうした、あげくの果てに、このオレが大宇宙海賊ときた時には‥‥‥‥。
 The generator uses Reiko energy or whatever to, in the end, make me some kind of galactic pirate...
 //オレは仏頂面のまま手を頭の後ろに組み、ベッドに仰向けに倒れ込んだ。
@@ -321,7 +322,7 @@ Well, there's no need to fret about it...let's just drift...
 //夢にしてはやけにリアルだった。涼子先生と話している、このぶしつけな男はいったい‥‥。
 As I dreamed, it became real. Who the hell is this insolent bastard speaking to Doctor Ryouko...?
 //しばらく寝てしまったんだろうか‥‥オレの足下に、キチンと畳まれた着替えが置いてあった。あのトレイシーという女性が、置いていったのかもしれない。
-Wasn't I asleep for a while?... By my feet, there sat a　　　neatly folded change of clothes. That Tracy woman probably left it there.
+Wasn't I asleep for a while...? By my feet, there sat a　　　neatly folded change of clothes. That Tracy woman probably  left it there.
 //肌触りの良い衣服だった。セパレートタイプだったが、着てみるとツナギのように見えるデザインだ。
 The clothing feels good to the touch. It's a two-piece type,but as I'm wearing it, it looks like a boiler suit design.
 //オレは着替えをすますと、室内を見回した。別にこれといって変化はなかった‥‥‥‥。
