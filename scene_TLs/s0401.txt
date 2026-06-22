@@ -1,7 +1,7 @@
 //all
 all
 //［宏治］：実はまだ、オレは《クワドラ》にいたりする。
-[Kouji]: The truth is, I've returned back to the Quadra.
+[Kouji]: The truth is, I've returned to the Quadra.
 //［トレイシー］：ランファ、このお皿をテーブルに並べて頂戴。
 [Tracy]: Lanhua, could you set the table, please?
 //［ランファ］：んもぉ、ビアンカさん、ちょっとは手伝って下さいよぉ。
@@ -29,9 +29,9 @@ all
 //［トレイシー］：あら、すみません‥‥。あっ、ビアンカさん、卵といて下さいな。
 [Tracy]: Oh my, I'm sorry...Ah-, Bianca, could you bring theeggs over here?
 //［ビアンカ］：炊事関連は苦手なのに‥‥。
-[Bianca]: But I'm awful at cooking....
+[Bianca]: But I'm awful at cooking...
 //チャッチャッチャッチャッ‥‥。
-*Chopchopchopchopchop...*
+*Chopchopchopchopchop*
 //［トレイシー］：まぁ、手さばきは、ランファよりも上手ですわ。
 [Tracy]: Well, when it comes down to it, I'm more skilled　 than Lanhua.
 //［ランファ］：なによぉ、トレイシー、プリプリよぉ。私だってねっ！
@@ -47,7 +47,7 @@ all
 //［ビアンカ］：私は、炊事関連は苦手だぞ。
 [Bianca]: Hey, I'm awful at cooking.
 //［ランファ］：プリプリよぉ！　ぶー。
-[Lanhua]: *huff huff*! *sigh*
+[Lanhua]: *huff huff*! *sigh*-
 //［トレイシー］：なんです、食事中に下品ですよ。
 [Tracy]: Why, it's rather impolite to do it in the middle ofa meal.
 //［ファル］：味見をしてみましょう。んっ、デリーシャス！
@@ -57,7 +57,7 @@ all
 //［ファル］：カラアゲの１つくらいなによ。
 [Far]: Why is there only one karaage left?
 //［ランファ］：私、おなか空いてたのにぃ‥‥。
-[Lanhua]: Well, I was hungry....
+[Lanhua]: Well, I was hungry...
 //［ビアンカ］：そんな目をしても、私のはやらぬぞ。
 [Bianca]: Even if you look at me that way, I'm not going to stop.
 //［トレイシー］：さぁ、コウジ様、そろそろお席に‥‥。
@@ -81,7 +81,7 @@ all
 //［ファル］：ちょっとランファ‥‥んっ、ちょっとあなた、ここは私の椅子よっ。
 [Far]: Hold on, Lanhua...mm, wait, dear, that's my seat.
 //［ランファ］：ずるいですぅ、椅子を移動させるなんて。
-[Lanhua]: Hey, moving around the chairs like that's not fair
+[Lanhua]: Hey, moving around the chairs like that is not　　fair.
 //［ファル］：ちょっとあなた、お尻が大きいわよ。
 [Far]: Wait, dear, your butt is too big.
 //［トレイシー］：ほらほら、２人とも椅子取りゲームじゃあるまいし。
@@ -91,7 +91,7 @@ all
 //ズズズズズ、ドン。
 Zrrrrrrrrrr, thomp.
 //［ビアンカ］：ふぅ‥‥。
-[Bianca]: *sigh*....
+[Bianca]: *sigh*...
 //［ファル］：あっ、ビアンカさん、ずるいわ！
 [Far]: Ah-, Bianca, that's unfair!
 //［ランファ］：椅子ごと移動させるなんて‥‥ずるいですぅ！
@@ -105,7 +105,7 @@ Zrrrrrrrrrr, thomp.
 //［ファル］：私よねっ！
 [Far]: No, he wants that from me!
 //［ランファ］：ランファですぅ‥‥。
-[Lanhua]: It should be me....
+[Lanhua]: It should be me...
 //［トレイシー］：無論、私ですわ。
 [Tracy]: Of course, it'll be from me.
 //［宏治］：あの爆発で、例のエンコーダが吹き飛んでからというもの‥‥。
@@ -121,7 +121,7 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：いつまで、この状態は続くのかな‥‥。
 [Kouji]: Is this situation going to go on forever...?
 //［宏治］：夜は夜で、疲れるんだよなぁ‥‥。
-[Kouji]: I'll be tired come nighttime...
+[Kouji]: Nighttime wears me out too...
 //［ファル］：コウジ、どうしたのよ？　湿っぽい顔しちゃって。
 [Far]: Kohji, what's going on? Your face is moist.
 //［トレイシー］：どこか痛むのですか？　何だったら私が看病‥‥。
@@ -129,7 +129,7 @@ Zrrrrrrrrrr, thomp.
 //［ランファ］：ランファが元気づけてあげるわっ！
 [Lanhua]: I'll cheer you up!
 //［ビアンカ］：ジロッ、コウジはな、私と‥‥。
-[Bianca]: *glance* Kohji should be together with me....
+[Bianca]: *glance* Kohji should be together with me...
 //［宏治］：‥‥という訳らしい。ふぅ‥‥。
 [Kouji]: ...That's how it is. Hooo....
 //［ファル］：ほら、洗ってあげるわ。
@@ -147,7 +147,7 @@ Zrrrrrrrrrr, thomp.
 //［ファル］：なにリキんでんのよ、まったく‥‥。
 [Far]: Good grief, what are you straining yourself for...
 //ブクブクブクブク‥‥。
-*tickle tickle tickle*....
+*tickle tickle tickle*...
 //［宏治］：わははは、くすぐったいよ、ファル。
 [Kouji]: Wahahaha, that tickles, Far.
 //［ファル］：お尻も洗ってあげるわ。むこう向いて。
@@ -167,7 +167,7 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：感じてるって。
 [Kouji]: I'm feeling it.
 //［ファル］：どれどれ‥‥す、凄いわ‥‥こんなに硬くて‥‥。
-[Far]: Now, how...a-amazing...you're this hard....
+[Far]: Now, how...a-amazing...you're this hard...
 //［宏治］：ちょっと、そんなに上下にしごいたら‥‥感じちゃうぜ。
 [Kouji]: Hold it, if you rub me up and down like that...I'llget turned on.
 //［ファル］：フフ、ほら、今度は前向いて。
@@ -183,9 +183,9 @@ Zrrrrrrrrrr, thomp.
 //［ファル］：パクッ。
 [Far]: *gulp*
 //ワチュワチュワチュ‥‥。
-*glurp* *slurp* *slurp*....
+*glurp* *slurp* *slurp*...
 //［宏治］：んぉぉ、こ、このまったりとした舌使いと、なま暖かい口腔の感覚といったら‥‥。
-[Kouji]: Ngohhh, with such a comfortable tongue technique,  and that naked warmth of your mouth....
+[Kouji]: Ngohhh, with such a comfortable tongue technique,  and that naked warmth of your mouth...
 //［ファル］：もうひょっひょ、あひひはいへ。
 [Far]: Shpwead youh wegh, jup a wibble.
 //［ファル］：あひほ、ひはふほ！
@@ -197,7 +197,7 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：ぬぅ、あ、アヌスまで‥‥。
 [Kouji]: Ngh, ah, my butthole...
 //［ファル］：ンフフ‥‥。
-[Far]: Nhehe....
+[Far]: Nhehe...
 //［宏治］：で、出そうだよ、ファル‥‥このまま出していい？
 [Kouji]: I-I'm gonna cum, Far...can I cum like this?
 //［ファル］：うん。
@@ -205,7 +205,7 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：で、でるぞ！
 [Kouji]: I-I'm cumming!
 //［ファル］：もう、こんなに大量に射精するなんて‥‥。
-[Far]: Mm, wow, you really came a lot....
+[Far]: Mm, wow, you really came a lot...
 //［宏治］：ご、ゴメン‥‥あんまり気持ちよかったもんだから。
 [Kouji]: M-my bad...it's because it felt really good.
 //［ファル］：フフ、いいわ。でも、まだまだいけそうね。
@@ -229,25 +229,25 @@ fa07
 //［宏治］：こうかぁぁっ！？
 [Kouji]: Like THIS?!!!
 //グリグリグリ！！！
-*rub rub rub*!!
+*rub rub rub*
 //［ファル］：あふぅぅぅ‥‥もっと胸も揉んでちょうだい！
-[Far]: Ahoooo...please, rub my breasts more!
+[Far]: Ahoooo... please, rub my breasts more!
 //むにゅっ、むにゅっ。
-*knead, knead*.
+*knead knead*
 //［ファル］：もっと強くよっ！
 [Far]: Harder!
 //ぎゅぅぅぅっっ！！
-*pullll*!!
+*pullll*
 //［ファル］：あはぁぁっ！　痛いけど、気持ちいいわっ！　乳首も、乳首もひねってぇ！！
 [Far]: Ahaaaa-! It hurts, but it feels so good! My nipples, pinch my nipples too!!
 //むぎゅぅぅぅっっ！！！
-*squeeeeeeze*!!!
+*squeeeeeeze*
 //［ファル］：あぁぁぁ、いいわ、すごいわっ！　感じちゃう！！
 [Far]: Ahhhhh, yes, amazing! It feels amazing!!
 //［宏治］：ヌルヌルして、ぎゅぅぎゅぅ締め付けてくる‥‥ファルのアソコが。
-[Kouji]: It's so wet, and it's wrapping around me so　　　　pleasantly...your pussy, that is.
+[Kouji]: It's so wet, and it's wrapping around me so　　　　pleasantly... your pussy, Far...
 //［ファル］：気持ちいいって、言ってっ！
-[Far]: It feels good, say it!
+[Far]: Say it feels good!
 //［宏治］：気持ちいいよ、最高だよ！
 [Kouji]: It feels amazing, the best!
 //［ファル］：私も、私も気持ちいいわっ！
@@ -255,13 +255,13 @@ fa07
 //［宏治］：ねぇ、ファル。
 [Far]: Hey, Far.
 //［ファル］：な、なに‥‥あっ、あっ‥‥。
-[Far]: Wh-what...ah-, ah-....
+[Far]: Wh-what...ah-, ah-...
 //［宏治］：お尻でしちゃ、だめ？
-[Kouji]: Can I fuck you in your ass?
+[Kouji]: Is it okay if we do it in your butt?
 //［ファル］：えー、アナルセックス！？　ホントにケダモノね、あなたって。
 [Far]: Huh-? Anal sex?! You really are a beast.
 //［宏治］：な、何だよ‥‥別に、いいかなって‥‥うじうじ。
-[Kouji]: Wh-what...I was just wondering....
+[Kouji]: Wh-what...I was just wondering...
 //［ファル］：んもう、しょうがないわねっ。
 [Far]: Mm, well, I suppose you can.
 //［宏治］：えっ？　いいの？
@@ -271,9 +271,9 @@ fa07
 //［宏治］：うん、するする。
 [Kouji]: All right, here goes.
 //ぐぐっ‥‥‥‥。
-*Guh...*
+*Guh*
 //［ファル］：痛っ‥‥ちょ、ちょっとそんなにいきなりは‥‥。
-[Far]: Ow...hold on, if you do it all of a sudden....
+[Far]: Ow...hold on, if you do it all of a sudden...
 //ぬりゅぅぅぅぅぅぅぅ‥‥‥‥。
 Rub rub rub rub...
 //［ファル］：あっ、ダメ‥‥あぁぁぁぁっっ！！
@@ -285,15 +285,15 @@ Rub rub rub rub...
 //［宏治］：ゆっくり、動かすね。
 [Kouji]: I'll start moving, slowly.
 //ずっ、ずっ‥‥ずりゅっ、ずりゅっ‥‥。
-*slip, slip*....*slide*, *slide*...
+*slip* *slip*... *slide* *slide*...
 //［ファル］：んっ‥‥何だか、変な感じよ、コウジ‥‥。
-[Far]: Nggh-....It feels kind of weird, Kohji....
+[Far]: Nggh-.... It feels kind of weird, Kohji....
 //［宏治］：どんな感じ？
 [Kouji]: What does it feel like?
 //［ファル］：く、口じゃ表現できない感じなの‥‥あっ、あっ！、あっ！
-[Far]: I-I can't put it into words...Ah-, ah-! Ah!
+[Far]: I-I can't put it into words... Ah-, ah-! Ah!
 //［宏治］：こっちも、結構ヌルヌルして、ギュウギュウ締め付けてくるね‥‥。
-[Kouji]: Here, too, you're awfully wet, and gripping me so  tightly....
+[Kouji]: Here, too, you're awfully wet, and gripping me so  tightly...
 //［ファル］：あっ、あっ‥‥そ、そんなに速く動いたら‥‥ダメ‥‥何だか、変になっちゃいそうよぉっ！
 [Far]: Ah-, ah....i-if you move so quickly...nooo...I-I feelkind of weird!
 //［宏治］：お、オレも何だか‥‥くっ！
@@ -341,11 +341,11 @@ fa06
 //［ファル］：もっと、脚をいっぱいに広げて頂戴！
 [Far]: Please, spread my legs further apart!
 //ぐぐぐぅぅぅっ！！
-*Guhhhhhh!*
+*guhhhhhh*
 //［ファル］：そのまま突き入れてっ！
 [Far]: Yes, plunge it into me like that!
 //ずりゅっっ！！！
-*Slip!!!*
+*slip*
 //［ファル］：あはぁぁぁっ！　奥まで当たってるぅっ！！
 [Far]: Ahaaaaaaa-! You put it so deep inside me!!
 //［宏治］：すっごく締め付けてるぜ、アソコが‥‥。
@@ -357,19 +357,19 @@ fa06
 //［ファル］：あぐぅぅっ‥‥も、もうダメ‥‥イっちゃいそう‥‥あぅ！！
 [Far]: Aghhhh...I-I can't hold it any longer...I'm gonna cum...Ah-!
 //［宏治］：オレも、限界だよ‥‥ファル‥‥。
-[Kouji]: I'm at my limit too...Far....
+[Kouji]: I'm at my limit too... Far...
 //［ファル］：コウジぃ、キスして‥‥お願い‥‥キスしながら、射精してっ！
-[Far]: Kohji, kiss me...please...kiss me as you cum-!
+[Far]: Kohji, kiss me... please... kiss me as you cum-!
 //［宏治］：いいぜ。
 [Kouji]: OK.
 //［ファル］：んっ‥‥んんんんっ‥‥。
-[Far]: Mm-...mmmmmm-...
+[Far]: Mm-... mmmmmm-...
 //［宏治］：んぐっ、んぐっ。
 [Kouji]: Mmgh, mmgh.
 //［ファル］：んふあぁぁ‥‥もっと唾液を飲ませてっ！
 [Far]: Mhaaaa...let me drink your juices-!
 //［ファル］：んぐっ、ゴクゴク、ゴクッ‥‥。
-[Far]: Ngh, *slurp slurp*, *slurp*....
+[Far]: Ngh, *slurp slurp*, *slurp*...
 //［宏治］：もうイクぜ！
 [Kouji]: I'm gonna cum!
 //［ファル］：あン、膣内に出して構わない‥‥あっ、今日は‥‥んっ！　膣内でも大丈夫なのっ！
@@ -379,7 +379,7 @@ fa06
 //［ファル］：きてぇぇぇぇぇぇぇぇぇぇぇっっっ！！！
 [Far]: Cuuuummmmmmm!!
 //ドクドクドクッ！　ドクッ、ドクッ‥‥‥‥。
-*spurt spurt spurt*! *spurt*, *spurt*.....
+*spurt* *spurt* *spurt* *spurt* *spurt*...
 //［ファル］：いっくぅぅぅぅぅぅぅぅぅぅぅぅぅっっっ！！！！
 [Far]: I'M CUMMINNGGGGGGG!!!!
 //　　　　　というような毎日を、過ごしましたとさ‥‥‥‥。
@@ -387,7 +387,7 @@ And so we passed every day like that......
 //　　　　　　　　ＤＲＥＡＭ＿３α　‥‥　ＥＮＤ
 　　　　　　　　ＤＲＥＡＭ＿３α　‥‥　ＥＮＤ
 //［トレイシー］：あぁぁ、コウジ様‥‥凄く太くて、たまくしい‥‥。
-[Tracy]: Aaah, Kohji-sama...you're so big, and swollen...
+[Tracy]: Aaah, Kohji-sama... you're so big, and swollen...
 //［宏治］：もっともっと、擦り付けて。
 [Kouji]: Yes, rub me more.
 //［トレイシー］：はい。あはぁぁぁ、も、もう我慢できそうにありません‥‥。
@@ -395,7 +395,7 @@ And so we passed every day like that......
 //［宏治］：我慢するの。じゃないと、あげないぜ。
 [Kouji]: Endure it just a little more. Otherwise, I won't　 give it to you.
 //［トレイシー］：あン、意地悪ですのね‥‥あふぅぅ、あぁぁぁ‥‥。
-[Tracy]: Ahm, you're so mean...Ahooo, aahhhh...
+[Tracy]: Ahm, you're so mean... Ahooo, aahhhh...
 //［宏治］：結構濡れてるなぁ。
 [Kouji]: You're quite wet, aren't you?
 //［トレイシー］：コウジ様が欲しいからですわ。
@@ -413,27 +413,27 @@ And so we passed every day like that......
 //［宏治］：じゃあ、最初はゆっくりとな‥‥。
 [Kouji]: Now, start out slowly...
 //［トレイシー］：んっ‥‥んくっ‥‥。
-[Tracy]: Mm-...Mmkh-.....
+[Tracy]: Mm-...Mmkh-...
 //ずぷぷぷぷぷぷぷぷぷっ‥‥‥‥‥‥。
-*Schlubububububub*....
+*Schlubububububub*...
 //［トレイシー］：あはぁぁぁぁぁ‥‥。
 [Tracy]: Ahaaaaaaa...
 //［宏治］：すっぽり、奥まで呑み込まれちゃったね。
 [Kouji]: You took it all deep inside you, didn't you?
 //［トレイシー］：あぁぁ、大きいわ‥‥硬くて‥‥あふぅぅ‥‥。
-[Tracy]: Ahhh, it's so big...and hard...ahooo...
+[Tracy]: Ahhh, it's so big... and hard... ahooo...
 //［宏治］：膣内はフニャフニャしてて、何だか気持ちいいよ。
 [Kouji]: Your pussy is so soft and comfortable.
 //［トレイシー］：嬉しいです‥‥じゃあ、こうしたら如何ですか？
 [Tracy]: I'm glad you think that...well, how does this feel?
 //ぐにゅぐにゅぐにゅ‥‥。
-*squish squish squish*....
+*squish* *squish* *squish*...
 //［宏治］：うぉっ、腰を動かさずに‥‥。
 [Kouji]: Oooh, don't move your hips so...
 //［トレイシー］：ウフフ、私のは、こういうこともできますのよ。
 [Tracy]: Ehehe, I can do THIS, too.
 //［宏治］：す、凄い‥‥凄すぎる！
-[Kouji]: A-amazing...it feels too good!
+[Kouji]: A-amazing... it feels too good!
 //［トレイシー］：あはぁぁぁ、もっともっと、感じて下さい‥‥。
 [Tracy]: Ahaaa, please, enjoy it to your heart's content...
 //［宏治］：な、何だか膣内で、しごかれてるみたいだ‥‥。
@@ -445,7 +445,7 @@ And so we passed every day like that......
 //［トレイシー］：じゃあ、ゆっくり腰を動かしますわね。
 [Tracy]: Well, then, I'll slow down a bit.
 //ぬりゅっ、ぬりゅっ、ぬりゅっ‥‥。
-*slrsh*, *squish*, *slrsh*...
+*slrsh* *squish* *slrsh*...
 //［宏治］：うぉっ、な、中でしごかれながら、腰の前後運動も加わって‥‥。
 [Kouji]: Woah!! You're squeezing me inside you as you rock  your hips back and forth...
 //［トレイシー］：んあぁぁ‥‥どうです？　私の膣内は‥‥あぁぁぁっ！
@@ -455,11 +455,11 @@ And so we passed every day like that......
 //［トレイシー］：胸も‥‥胸も掴んで下さい。
 [Tracy]: My tits...rub my tits, too.
 //ぎゅっ！
-*squeeze*!
+*squeeze*
 //［トレイシー］：あふぅぅ‥‥乳首もしごいて下さいっ！
 [Tracy]: Ahooooo....play with my nipples, too-!
 //グリグリグリ‥‥。
-*twirl twirl twirl*....
+*twirl* *twirl* *twirl*...
 //［宏治］：トレイシーの乳首って、おっきくて硬いなぁ。
 [Kouji]: Tracy, your nipples have gotten pretty big and hard
 //［トレイシー］：あン、噛んでも構いませんわっ！
@@ -467,7 +467,7 @@ And so we passed every day like that......
 //［宏治］：んじゃ、軽くね。
 [Kouji]: Well, I will, gently.
 //コリッ。
-*nip*.
+*nip*
 //［トレイシー］：んくぅ、んもっと、もっと強くっ！
 [Tracy]: Mkh, harder, harder!
 //［宏治］：もっと？
@@ -477,17 +477,17 @@ And so we passed every day like that......
 //［宏治］：いいんだな？
 [Kouji]: Are you sure?
 //［トレイシー］：いいです‥‥あぁぁぁ、早くぅ‥‥。
-[Tracy]: Yes, I'm sure...ahhh, hurry....
+[Tracy]: Yes, I'm sure...ahhh, hurry...
 //ガリィィッ！！！
-*CHOMP*!!
+*CHOMP*
 //［トレイシー］：あひぃぃっっ！！
 [Tracy]: AHIIIIIII-!!
 //キュ、キュキュッ！！
-*squeeze*, *squeeze squeeeeze*!
+*squeeze* *squeeze* *squeeeeze*
 //［宏治］：うっ！！
 [Kouji]: Ooh-!!
 //ドクドクドク‥‥ドクッ、ドクッ、ドクッ‥‥。
-*spurt spurt spurt*...*spurt*, *spurt*, *spurt*....
+*spurt* *spurt* spurt* ... *spurt* *spurt* *spurt* ...
 //［宏治］：や、やば‥‥すっごく締め付けるから、いっちゃった‥‥。
 [Kouji]: O-oh my god...I came since you were wrapping aroundme so well...
 //［トレイシー］：わ、私も‥‥イキましたから‥‥大丈夫‥‥あぅっ‥‥。
@@ -505,7 +505,7 @@ And so we passed every day like that......
 //［トレイシー］：ンフフ、またすぐに硬くして差し上げます。
 [Tracy]: Nhehe, you'll get hard again very soon.
 //［宏治］：んくっ‥‥。
-[Kouji]: Nkuh.....
+[Kouji]: Nkuh...
 //［トレイシー］：今度は、お口にお願いします。飲みたいんです‥‥。
 [Tracy]: This time, I'll use my mouth. I want to drink it...
 //［宏治］：しょうがないな、じゃあ、あと１回ね。
@@ -537,13 +537,13 @@ ra03
 //べろーーーーっ。
 *liiiiiick*.
 //［ランファ］：トクトクって、波打ってますぅ‥‥あぁぁ‥‥。
-[Lanhua]: It's throbbing along as I glug on it...ahhhhh....
+[Lanhua]: It's throbbing along as I glug on it...ahhhhh...
 //ちゅばっ、ちゅばっ‥‥。
-*shlurp*, *suck*....
+*shlurp*, *suck*...
 //［宏治］：よしよし、じゃあ今度は先っぽを口に含んで。
 [Kouji]: Good, good, now hold just the tip in your mouth.
 //んぐんぐ‥‥んんんん‥‥。
-*glug* *glug*...*nngggg*....
+*glug* *glug*... *nngggg*...
 //［宏治］：いいぞ、舌でちゃんと包み込むように舐めるんだ。
 [Kouji]: Yeees, now cover it thoroughly with your tongue as you lick it.
 //［ランファ］：ふぁい‥‥こうれふは？
@@ -551,15 +551,15 @@ ra03
 //［宏治］：くわえてる時は、しゃべんなくていいの。そのまま頭を前後に動かして‥‥。
 [Kouji]: Don't talk with your mouth full. Now, bob your headback and forth like that...
 //［ランファ］：んっ、んっ、んっ‥‥。
-[Lanhua]: Mm-, mm-, mm-....
+[Lanhua]: Mm-, mm-, mm-...
 //［宏治］：ん、いいぜ‥‥舌全体で包み込むようにするんだ。
 [Kouji]: Mm, that's good ... you've covered it entirely in  your tongue.
 //［ランファ］：んっ‥‥んんんっ‥‥。
-[Lanhua]: Mm-...Mmmm....
+[Lanhua]: Mm-...Mmmm...
 //［宏治］：もっと、奥まで呑み込むの。
 [Kouji]: Take it deeper in your throat.
 //［ランファ］：んぐんぐ‥‥げっ、ゲホゲホっ！
-[Lanhua]: Ngh gh...*gh*, *cough cough*!
+[Lanhua]: Ngh gh... *gh*, *cough* *cough*!
 //［宏治］：しょうがないなぁ。ほら、手も使ってしごいて。
 [Kouji]: Well, I guess you can't help it. Now, stroke it　　with your hand.
 //［ランファ］：んんんっ‥‥んっ、んっ。
@@ -579,7 +579,7 @@ ra05
 //［ランファ］：くださいっ！　お顔にぃぃっっ！！
 [Lanhua]: Do it now! On my face!!
 //ドクドクドクっ！！
-*spurt spurt spurt*!!
+*spurt* *spurt* *spurt*
 //ra05b
 ra05b
 //［ランファ］：ああン、ネバネバするぅ‥‥。
@@ -595,13 +595,13 @@ ra05b
 //［宏治］：ほら、またくわえて。
 [Kouji]: Shall we give it one more go?
 //［ランファ］：ハイ‥‥んっ‥‥んんんっ‥‥。
-[Lanhua]: Yes...mm-...mmmm.....
+[Lanhua]: Yes...mm-...mmmm...
 //［宏治］：もっと奥まで入りそう。
 [Kouji]: Go a little deeper.
 //ずるっ。
 *slide*
 //［ランファ］：んんぐっ、げぇぇ‥‥ゲホゲホ！
-[Lanhua]: Nnngh, *gag*...*cough* *cough*!
+[Lanhua]: Nnngh, *gag* ... *cough* *cough*!
 //［宏治］：おっとごめん、奥まで入れすぎちゃった。
 [Kouji]: Oops, sorry, I put it in too far.
 //［ランファ］：もう、喉が張り裂けそうになりましたぁ～、ケホケホッ。
@@ -625,33 +625,33 @@ ra05b
 //［宏治］：えっ、う、ウソ‥‥。
 [Kouji]: Y-you must be joking...
 //［ランファ］：クスクスっ、ウソですよぉー。
-[Lanhua]: *giggle*, it was a joke.
+[Lanhua]: *giggle*, I'm just kidding-.
 //［宏治］：こ、コイツ！
-[Kouji]: Why, you!
+[Kouji]: Y-you...!
 //［ランファ］：きゃぁぁぁぁっ！　でもでもぉ、飲むと感じちゃうのは、ホントですよぉ！
 [Lanhua]: Kyaaaaa-! But, but, when I drink it down, it　　　really does feel good!
 //［宏治］：よーし、じゃあヌレヌレのところで、ランファ、上ね。
-[Kouji]: Well, then, Lanhua, put that that wet, slick 
+[Kouji]: Okay, get on top, you're already soaked Lanhua.
 //［ランファ］：えー、たまにはランファ、下がいいですぅ。
 [Lanhua]: Huhhh, but I like it better under you.
 //［宏治］：じゃあ、あげない。
-[Kouji]: Well, then, I won't give it to you.
+[Kouji]: Stay where you are.
 //［ランファ］：あーん、ウソウソ、ウソですよぉ～。
 [Lanhua]: Ahhh, don't be such a tease-
 //［宏治］：じゃ、はやく。
-[Kouji]: Well, get to it.
+[Kouji]: Then, don't keep me waiting.
 //［ランファ］：はーい‥‥ん、んしょ、んしょ‥‥。
 [Lanhua]: Okaaaay....mm, here, here.....
 //ずぷぷぷぷぷぷぷぷぷぷっっ‥‥。
-*schlububububububub*....
+*schlububububububub*
 //［ランファ］：んあぁぁぁぁっ‥‥あぁぁぁ、コウジ様ぁぁぁぁぁっっ！！
-[Lanhua]: NGAAAaahhhh.....Ahhhh, Kohji-samaaaaa-!!
+[Lanhua]: NGAAAaahhhh..... Ahhhh, Kohji-samaaaaa-!!
 //［宏治］：よーし、じゃ、大きく腰を動かして。
 [Kouji]: Good, now, start moving your hips.
 //［ランファ］：はい‥‥あふぅっ！
 [Lanhua]: OK....Agh-!
 //ぬちゃっ、ぬちゃっ、ぬちゃっ‥‥。
-*slish*, *slush*, *slursh*...
+*slish* *slush* *slursh*
 //［ランファ］：あぁぁぁぁ！　ランファ、気持ちいいの‥‥気持ちいいっ！！
 [Lanhua]: Ahhhhh-! It feels so good...so good-!!
 //［宏治］：ヌルヌルしてるぜ。
@@ -665,7 +665,7 @@ ra05b
 //［宏治］：ワンと鳴いてみろ。
 [Kouji]: Let's hear you bark like a dog.
 //［ランファ］：んあぅ、んくっ、あっ、コウジ様ぁぁぁ‥‥あぅっ！
-[Lanhua]: Ngau, nkh, ah-, Kohji-samaaa..aau-!
+[Lanhua]: Ngau, nkh, ah-, Kohji-samaaa.. aau-!
 //［宏治］：ワンと鳴け！
 [Kouji]: BARK FOR ME!
 //［ランファ］：わ、ワン！
@@ -675,7 +675,7 @@ ra05b
 //［ランファ］：ワンッ、ワンッ！
 [Lanhua]: Arf, arf!
 //ずりゅっ、ずりゅっ‥‥。
-*slish*, *slish*...
+*slish* *slish*
 //［宏治］：もっともっと、アソコを締めろ！
 [Kouji]: Clench around me more down there!
 //［宏治］：あぁ、もう‥‥イきそうだぜ。
@@ -693,7 +693,7 @@ ra05b
 //［宏治］：くぅっ！！
 [Kouji]: Kuh!!
 //どぷどぷどぷ‥‥ドクドクッ、ドクッ、ドクッ！
-*slap* *slap* *slap*...*spurt spurt*, *spurt*, *spurt*! 
+*slap* *slap* *slap* ... *spurt* *spurt* *spurt* *spurt* 
 //［ランファ］：ランファ、飛ぶぅぅぅぅぅぅぅぅぅぅぅぅっっっ！！！
 [Lanhua]: I'M FLYIIIIIINGG!!
 //　　　　　　　　ＤＲＥＡＭ＿３γ　‥‥　ＥＮＤ
@@ -701,13 +701,13 @@ ra05b
 //bi05
 bi05
 //［ビアンカ］：あぁぁぁぁぁぁぁぁ、コウジぃ、コウジぃっ！！
-[Bianca]: Ahhhhhh, Kohji, KoujiI!!
+[Bianca]: Ahhhhhh, Kohji, Kohji!!!
 //［宏治］：は、激しすぎるよ、ビアンカ‥‥。
-[Kouji]: Y-you're being too intense, Bianca....
+[Kouji]: Y-you're being too intense, Bianca...
 //［ビアンカ］：もっと‥‥もっともっと深くぅ！
 [Bianca]: Deeper...put it deeper in me!
 //ずりゅっ、ずちゃっ、ぐちゃっ！
-*slish*, *slush*, *slursh*!
+*slish* *slush* *slursh*
 //［ビアンカ］：ああン、コウジぃ‥‥私のこと、許してくれる？
 [Bianca]: Ahhhhm, Kohji...will you forgive me?
 //［宏治］：さぁ、どうしよっかなぁ‥‥。
@@ -729,15 +729,15 @@ bi05
 //［宏治］：（おぉ、何だか、今後が楽しみだなぁ‥‥。）
 [Kouji]: (Mm, something tells me this will be quite　　　　 enjoyable...)
 //［ビアンカ］：ああん、コウジぃ、もっともっと、腰を突き上げてっ！
-[Bianca]: Ahhhm, Koujii, please thrust your hips more!
+[Bianca]: Ahhhm, Kohji, please thrust your hips more!
 //［宏治］：よーしっ、それ！　それっ！！
 [Kouji]: All right then, take this! and THIS!!
 //くちゅっ、りゅっ、むちゅっ！
-*smack*, *slish*, *smooch*!
+*smack*, *slish*, *smooch*
 //［宏治］：なぁ、ビアンカさぁ。
 [Kouji]: Hey, Bianca.
 //［ビアンカ］：なに‥‥あっ、んっ、あぁぁぁっ‥‥。
-[Bianca]: What...Ah-, mm, ahhhhh....
+[Bianca]: What...Ah-, mm, ahhhhh...
 //［宏治］：海賊家業で、何をやってたの？
 [Kouji]: What did you do as a pirate?
 //［ビアンカ］：な、なによ急に‥‥んっ、んっ。
@@ -745,7 +745,7 @@ bi05
 //［宏治］：いや、何となくきになったもんでさ。
 [Kouji]: I mean, you don't have to answer if you don't want to.
 //［ビアンカ］：実を言うと、コウジを追ってたのよ‥‥。
-[Bianca]: Well, honestly, I was chasing Kohji....
+[Bianca]: Well, honestly, I was chasing Kohji...
 //［ビアンカ］：あのときは、コウジが憎くてしょうがなかったの‥‥非道な事は１つも行ってないわっ。
 [Bianca]: At that time, even if Kohji didn't like it, I had no choice...there's not one bad thing I wouldn't do.
 //［宏治］：どうやって、生計をたててたのさ。
@@ -799,7 +799,7 @@ As the two of us restlessly stirred about, we were bound to stick closely to eac
 //ランファの白い太股が、オレの股の間に割って入ってきていた。そ、そんなに動かしたら‥‥。
 Lanhua's pale thigh was wedged into my crotch. I-if she wereto move like that...
 //［ランファ］：あらあら‥‥クスクスッ。
-[Lanhua]: Well, well...*giggle*.
+[Lanhua]: Well, well... *giggle*
 //［ランファ］：ね、コウジ様ぁ。
 [Lanhua]: Hey, Kohji-sama.
 //ドキッ。
@@ -827,11 +827,11 @@ Even though Lanhua was still mumbling under my hand, I　　　couldn't help it.
 //トレイシーの声が外から聞こえてきた。どうやら、首尾良く事は運んでいるらしい。今の所はな‥‥。
 I heard Tracy's voice outside. It seemed everything was　　 going according to plan. Now, it's up to us...
 //待っていろよ、トレイシー‥‥オレがコブシを握りしめて決心を改めて固めていたとき‥‥。
-Wait for us, Tracy...As I gripped my fists, I solidified my resolve....
+Wait for us, Tracy...As I gripped my fists, I solidified my resolve...
 //［宏治］：あれ、どうしたの？　ランファ‥‥ランファ？
 [Kouji]: Hey, is something the matter? Lanhua...Lanhua?
 //いつの間にか、静かになっていると思ったが‥‥。オレはぐったりとしているランファに声をかけたが、身体はフニャフニャで生気がない。
-I thought she had gone silent at some point, but...though I had wearily spoken those words to Lanhua, her body had gone limp.
+I thought she had gone silent at some point, but... althoughI had wearily spoken those words to Lanhua, her body had　　gone limp.
 //［宏治］：おい、ど、どうした？
 [Kouji]: Hey, w-what's happened to you?
 //言ってから気付いた。オレが強くランファの口を抑えていたせいで、彼女は呼吸困難に陥ってしまったのだ。
@@ -859,7 +859,7 @@ She plied her soft tongue into my mouth. She traced the　　 inner edges of my 
 //年齢はわからないが、目の前にいるのは、どうみても少女だった。それがかえって、オレのインモラルな欲情を掻き立てていった‥‥。
 I didn't know her age, but Lanhua had to be a young lady.　 However, that stoked an immoral lust within me...
 //［ランファ］：んっ‥‥もっと、もっとぉ‥‥。
-[Lanhua]: Mm-...more, more....
+[Lanhua]: Mm-...more, more...
 //しばらくオレたちは、狭いロッカーの中でお互いの口腔をむさぼりあった。
 For some time, in that cramped locker, we devoured each　　 others' mouths greedily.
 //しかし首に手をまわされ、情熱的に抱きしめられていると、次第に呼吸が困難になってくる。
@@ -875,7 +875,7 @@ But as she encircled my head with her arm and hugged me　　 passionately, it b
 //［宏治］：ちょっと違うような気が‥‥。
 [Kouji]: That's not quite what I meant...
 //［ランファ］：ああン、コウジ様ぁ、早くぅ‥‥。
-[Lanhua]: Ahhhhm, Kohji-samaaa, hurry....
+[Lanhua]: Ahhhhm, Kohji-samaaa, hurry...
 //［宏治］：ちょ、ちょっ‥‥そ、そうだ、そういえばさ。
 [Kouji]: W-wait...Th-that's it, speaking of which,
 //オレは煩悩を振り払うように、話題転換をする。この雰囲気は非常にヤバい。
@@ -929,7 +929,7 @@ I found myself disagreeing with her words, but I still　　　understood that B
 //しなだれかかってくるランファを抱き留めながら、オレは後ろによりかかった。
 As Lanhua snuggled herself against me, I leaned backwards a bit.
 //ドンガラガッシャーン！
-*TING-BATA-CLANG*!
+*TING-BATA-CLANG*
 //［宏治］：ま、まずい！
 [Kouji]: S-shit!
 //［ランファ］：ああン、コウジ様ぁ‥‥。
@@ -955,7 +955,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［ファル］：夢遊病者みたいよ、あなた。
 [Far]: You look like you're sleepwalking.
 //［私］：プロフェッサ‥‥。
-[Me]: Professor....
+[Me]: Professor...
 //［ファル］：ストレス？　私がカウンセリングしてあげましょうか？
 [Far]: Is it stress? Shall I give you some counseling?
 //［私］：いいえ、そんなんじゃ、ありません。
@@ -989,9 +989,9 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［男の声］：トレイシー。
 [Man's voice]: Tracy.
 //［トレイシー］：あっ‥‥コウジ様‥‥。
-[Tracy]: Ah-...Kohji-sama....
+[Tracy]: Ah-...Kohji-sama...
 //［コウジ］：どうした、ベッドから抜け出して‥‥。
-[Kohji]: Why did you get up from the bed....?
+[Kohji]: Why did you get up from the bed...?
 //［トレイシー］：はい、その‥‥外の空気にあたりたくなって‥‥。
 [Tracy]: Well, um...it seemed to fit the atmosphere outside ...
 //［コウジ］：ほぉ、その姿を、誰かに見てもらいたくなったのではないか？
@@ -1007,13 +1007,13 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：（んん‥‥情熱的なキス‥‥あぁぁぁ‥‥。）
 [Tracy]: (Mmm...he's kissing me so passionately...ahhhhh...)
 //［コウジ］：フン、何がダメなんだ？　すっかり気分を出して‥‥。
-[Kohji]: Hmm, is there a problem? Let it all out....
+[Kohji]: Hmm, is there a problem? Let it all out...
 //［トレイシー］：んんんっ‥‥‥‥。
-[Tracy]: Mmmmm....
+[Tracy]: Mmmmm...
 //［コウジ］：もっと舌を突き出せ。しゃぶってやるぞ。
 [Kohji]: Stick your tongue out more. I'll lick it all over.
 //［トレイシー］：はい‥‥んんんっ‥‥‥‥。
-[Tracy]: Yes...mmmmm-....
+[Tracy]: Yes...mmmmm-...
 //ぬちょ、にちょ、むちゅっ。
 *smooch*, *smack*, *suck*
 //［トレイシー］：（あぁぁ‥‥舌をなぶられているのね‥‥。）
@@ -1021,15 +1021,15 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：（好きなようにして欲しい‥‥もっともっと‥‥。）
 [Tracy]: (He's doing it just how I like it...I want more...)
 //［コウジ］：フン、相変わらず凄いボリュームだな、これは‥‥。
-[Kohji]: Hum, as always, these puppies are so voluminous....
+[Kohji]: Hum, as always, these puppies are so voluminous...
 //［トレイシー］：な、何が、でしょうか？
 [Tracy]: Wh-what could you mean?
 //［コウジ］：こんなにイヤらしく大きな胸で、何人の男をたらしこんだ？
 [Kohji]: How many men have you seduced with these lewd, hugeboobs of yours?
 //［トレイシー］：そんな‥‥私は、あなただけ‥‥。
-[Tracy]: Please...I've only done it to you....
+[Tracy]: Please...I've only done it to you...
 //［トレイシー］：あっ！　そんなダメ！‥‥人が来たら‥‥。
-[Tracy]: Ah-! Don't do that! ...if someone comes by....
+[Tracy]: Ah-! Don't do that! ...if someone comes by...
 //［トレイシー］：い、いえ‥‥その、何でもありません‥‥。
 [Tracy]: Oh, ok...um, there's no problem...
 //［コウジ］：こんなにイヤらしい胸をしやがって‥‥。
@@ -1047,15 +1047,15 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［トレイシー］：いつ人が通るかもしれない廊下で悶える私は、淫乱なメス犬です‥‥あぁぁぁ‥‥。
 [Tracy]: The me bouncing up and down the corridor, where　　people probably pass through, is a slutty bitch...ahhhhh....
 //ぎゅぅぅぅっ！
-*squeeeeze*!
+*squeeeeze*
 //［トレイシー］：きゃぅぅっ！　そ、そんなにひねったら、取れちゃう！
 [Tracy]: Kyowwww! I-if you squeeze them like that, you'll　 take them off!
 //［コウジ］：今度、ここにピアスをしてやろう。
 [Kohji]: This time, I'll pierce right through them.
 //［トレイシー］：あぁぁ‥‥嬉しい‥‥無茶苦茶にして下さい‥‥。
-[Tracy]: Ahhh...I'm so happy...please, mess me up....
+[Tracy]: Ahhh...I'm so happy...please, mess me up...
 //［コウジ］：アソコは、どうなっているかな‥‥。
-[Kohji]: Now, how are things going down there....
+[Kohji]: Now, how are things going down there...
 //くちゃっ。
 *slish*
 //［トレイシー］：んあぅぅ‥‥そ、そこは‥‥。
@@ -1073,11 +1073,11 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //にちゃっ。
 *squish*
 //［トレイシー］：んくぅぅ‥‥。
-[Tracy]: NKhhhhh....
+[Tracy]: NKhhhhh...
 //［コウジ］：フン、こんなに濡らしおってからに‥‥淫乱女が‥‥。
 [Kohji]: Hm, you're soaking wet down there...you must be a  lewd woman...
 //［トレイシー］：あぁぁ、そうよ‥‥私は‥‥私は淫乱な女‥‥。
-[Tracy]: Ahhh, it's true...I'm...I'm a lewd woman....
+[Tracy]: Ahhh, it's true...I'm...I'm a lewd woman...
 //［コウジ］：お前はオレの肉奴隷だ。いいか？
 [Kohji]: You're my sex slave. Is that OK?
 //［トレイシー］：はい‥‥私は、あなたの肉奴隷です。ご存分におなぶり下さい。
@@ -1089,7 +1089,7 @@ As Tracy had successfully helped us out, we made our way to Bianca's private roo
 //［コウジ］：なぜ、こんなに濡れているのだ？
 [Kohji]: Why are you so wet there already?
 //［トレイシー］：それは‥‥それは‥‥。
-[Tracy]: Um...well....
+[Tracy]: Um...well...
 //［コウジ］：なぜか、言ってみろっ！
 [Kohji]: WHY ARE YOU WET? TELL ME!
 //［トレイシー］：それは‥‥あぁぁ、コウジ様‥‥。
@@ -1135,7 +1135,7 @@ to05_m
 //［トレイシー］：（ダメ‥‥耐えようとすればす、るほど‥‥。）
 [Tracy]: (Oh no...even if I try to hold it in...)
 //［トレイシー］：（んはぁぁ‥‥で、出ちゃそう‥‥くぅぅぅ‥‥。）
-[Tracy]: (Nhaaaa...it's gonna come out...khhh....)
+[Tracy]: (Nhaaaa...it's gonna come out...khhh...)
 //［コウジ］：そろそろかな‥‥じゃあ出やすいように、尻の穴をほぐしてやろう。
 [Kohji]: It's about time...now, I'll loosen that asshole　　about to burst.
 //［トレイシー］：そ、そんな、ダメ‥‥あっ、ダメぇぇぇっ！！
@@ -1213,17 +1213,17 @@ to05_m
 //［コウジ］：そら、何をお願いしているんだ？
 [Kohji]: Now, what were you going to ask for?
 //［トレイシー］：お、おトイレ‥‥。
-[Tracy]: T-the bathroom....
+[Tracy]: T-the bathroom...
 //じゅぶっ！
-*squelch*!
+*squelch*
 //［トレイシー］：あはぁぁぁぁっ！
 [Tracy]: Ahaaaaa-!
 //［トレイシー］：も、もう‥‥‥‥。
-[Tracy]: Pl-please....
+[Tracy]: Pl-please...
 //［コウジ］：何を、お願いしているんだ？
 [Kohji]: One more time, what are you asking for?
 //［トレイシー］：あふぅ‥‥あふぅ‥‥。
-[Tracy]: Ahooo....ahooo....
+[Tracy]: Ahooo...ahooo...
 //［コウジ］：そら、言え！
 [Kohji]: SPIT IT OUT!
 //［トレイシー］：入れてぇぇぇぇぇぇぇぇぇっっっ！！！
@@ -1235,7 +1235,7 @@ to05_m
 //to04
 to04
 //ずりゅぅぅぅぅぅぅぅぅぅぅぅぅっっ！！！
-*Sluuuuuuuuuuuuuuuuuuuuuuuuuurp!!!*
+*Sluuuuuuuuuuuuuuuuuuuuuuuuuurp*
 //［トレイシー］：あぁぁぁぁぁぁぁぁっ！　いいぃぃぃぃぃぃっっ！！
 [Tracy]: AHHHHHHH-! YEEEESSSSSS!!
 //［コウジ］：フン、メス犬がっ！
@@ -1247,9 +1247,9 @@ to04
 //［トレイシー］：あっ、あっ、あっ！　ダメっ、そんなっ‥‥強くしたらっ‥‥あぁぁぁぁっ！！
 [Tracy]: Ah-, ah-, ah-! Wait, if you fuck me...so roughly...Ahhhh-!!
 //［トレイシー］：（だ、ダメぇぇぇ‥‥突かれるたびに、お腹が‥‥。）
-[Tracy]: (Oh, oh no...every time he thrusts into me, my　　 insides....)
+[Tracy]: (Oh, oh no...every time he thrusts into me, my　　 insides...)
 //ずちゅぅっ！
-*guuush*!
+*guuush*
 //［トレイシー］：あがっ！
 [Tracy]: Agh-!
 //［コウジ］：どうした、突けと言ったのは、お前だぞ。
@@ -1257,7 +1257,7 @@ to04
 //［トレイシー］：そうです‥‥私です‥‥もっともっと、突いて下さいっ！
 [Tracy]: That's right...I did...please, fuck me harder-!
 //ずりゅぅぅぅぅぅっ！！
-*sliiiiip*!!
+*sliiiiip*
 //［トレイシー］：あくぅぅぅぅっ！
 [Tracy]: Akhhhhh-!
 //［トレイシー］：（だ、ダメ‥‥便意が限界に‥‥来てる‥‥んぐっ！）
@@ -1289,7 +1289,7 @@ to04
 //［コウジ］：どうした？　返事は？
 [Kohji]: Well? What do you think?
 //［トレイシー］：あぁぁぁ、わ、わかり‥‥あくっ、ました‥‥は、早く‥‥。
-[Tracy]: Ahhhhh, I-I got...akh-, got it...Q-quickly....
+[Tracy]: Ahhhhh, I-I got...akh-, got it...Q-quickly...
 //［コウジ］：早くだと？
 [Kohji]: Do *what* quickly?
 //［トレイシー］：あぁぁ、ダメよダメ！　あぁぁ、早く‥‥早く叩いて下さい！
@@ -1305,7 +1305,7 @@ to04
 //［コウジ］：よーし、お望み通り、叩いてやるぞ！　ひとつ！！
 [Kohji]: All right, just as you wished, I'll whip you! ONE!
 //ビシィィィッ！！
-*smack*!!
+*smack*
 //to05b
 to05b
 //［トレイシー］：きゃぅぅぅっ！！
@@ -1315,7 +1315,7 @@ to05b
 //［コウジ］：おい、ちょっとチビったぞ。
 [Kohji]: Hey, you wet yourself a little.
 //［トレイシー］：（だ、ダメ‥‥。）
-[Tracy]: (Oh, oh no....)
+[Tracy]: (Oh, oh no...)
 //［トレイシー］：（こ、こんなんじゃ、１０回なんて、とても‥‥。）
 [Tracy]: (I-if he whips me like this, 10 times, it'll...)
 //［コウジ］：どうした、やめてもいいんだぞ。
@@ -1331,7 +1331,7 @@ to05b
 //［コウジ］：ふたーつっ！
 [Kohji]: TWOOO-!
 //びしぃぃぃぃぃぃっっ！！
-*whooooooosh*!!
+*whooooooosh*
 //to05c
 to05c
 //［トレイシー］：んくぅぅぅぅぅぅぅっっ！！
@@ -1351,13 +1351,13 @@ to05c
 //［コウジ］：つぎ、みーーーっつ！
 [Kohji]: And now, THREEEEEE!
 //びしぃぃぃぃぃぃぃぃぃぃぃぃぃっっ！！！！
-*PSHHHHHHHHHHHHH*!!!!
+*PSHHHHHHHHHHHHH*
 //to05d
 to05d
 //［トレイシー］：‥‥んがぁぁっ！
 [Tracy]: ....NGAAAh-!
 //ぶりゅっ。
-*Brrrrrrrrrr.*
+*Brrrrrrrrrr*
 //［トレイシー］：だ、ダメ‥‥も、もう‥‥あがっ。
 [Tracy]: I-I can't....P-please....agh.
 //［コウジ］：どうした？　まだ３回だぞ。
@@ -1401,7 +1401,7 @@ to05d
 //［トレイシー］：肉奴隷ですっ！！
 [Tracy]: SEX SLAVE!!
 //ぶりゅりゅりゅっ！！
-*SHAKE*!
+*SHAKE*
 //［コウジ］：よし、出せ！
 [Kohji]: Well done, now GO!
 //びしぃぃぃぃぃぃぃぃぃっ！！
@@ -1411,11 +1411,11 @@ to05d
 //to05e
 to05e
 //どばばばばばばばばばばばばばばばばばばっっっっっ！！！！！
-*sploshhhhhhhhhhhhhhh*!!!!!
+*sploshhhhhhhhhhhhhhh*
 //［トレイシー］：そう‥‥私はトレイシー‥‥。
-[Tracy]: Yes...I'm Tracy....
+[Tracy]: Yes...I'm Tracy...
 //［トレイシー］：ここは調査船《クワドラ》‥‥惑星エイレート付近‥‥。
-[Tracy]: This is the exploratory ship Quadra... near the　  planet Eilat....
+[Tracy]: This is the exploratory ship Quadra... near the　  planet Eilat...
 //［トレイシー］：先だって、惑星エイレート上において、先史文明の遺跡が発掘され、私たち学術調査団が派遣された‥‥。
 [Tracy]: Earlier, on Eilat, our academic exploration group  was sent out to excavate the ruins of the last civilization ...
 //［トレイシー］：私も、遺跡発掘調査隊に従事している‥‥。
@@ -1425,19 +1425,19 @@ to05e
 //［トレイシー］：そして‥‥‥‥。
 [Tracy]: And then...
 //［トレイシー］：そして、私のご主人様であるコウジ様の、淫乱な肉奴隷‥‥。
-[Tracy]: And then, I became my master Kohji-sama's lewd sex slave....
+[Tracy]: And then, I became my master Kohji-sama's lewd sex slave...
 //［トレイシー］：そう、あれはいつだったかしら‥‥。
 [Tracy]: Indeed, when did that come to pass...?
 //［トレイシー］：私が、まだ貞淑な女のふりをして、プロフェッサの秘書という仕事に従事していた‥‥。
-[Tracy]: I was still a chaste woman, serving the role of theprofessor's secretary....
+[Tracy]: I was still a chaste woman, serving the role of theprofessor's secretary...
 //［トレイシー］：だけど‥‥‥‥。
-[Tracy]: But....
+[Tracy]: But...
 //［トレイシー］：あのお方を助けてからというもの‥‥私の人生は一変してしまった‥‥。
 [Tracy]: Since I lent a hand to that person...my whole life changed...
 //［トレイシー］：ううん‥‥人生が一変したんじゃない‥‥。
-[Tracy]: Mmm...perhaps not my "whole life" had changed....
+[Tracy]: Mmm...perhaps not my "whole life" had changed...
 //［トレイシー］：本来の私の姿に‥‥。
-[Tracy]: But from my former self....
+[Tracy]: But from my former self...
 //［トレイシー］：コウジ様のおかげで、ありのままの姿の私‥‥本当の私自身を見つけることができたのよ。
 [Tracy]: Thanks to Kohji-sama, from my position at that　　 time, I was able to find my true self.
 //［トレイシー］：あの方には、本当に感謝しているのよ‥‥。
@@ -1445,7 +1445,7 @@ to05e
 //［トレイシー］：私の本性を知っているのは、あのお方だけ‥‥‥‥。
 [Tracy]: All because of him, I was able to know my true self...
 //［トレイシー］：そう、あれはコウジ様が、第２次調査隊シップから、救出されたばかりのとき‥‥‥‥。
-[Tracy]: Yes, it was when Kohji-sama was recovered from the second investigative team's ship....
+[Tracy]: Yes, it was when Kohji-sama was recovered from the second investigative team's ship...
 //［トレイシー］：お目覚めになりましたか？
 [Tracy]: Have you awoken?
 //［トレイシー］：心配しないで。もう大丈夫です。
@@ -1477,7 +1477,7 @@ to05e
 //［コウジ］：そうか‥‥あれは本当に酷い事故だった‥‥。
 [Kohji]: Is that so...It must have been truly awful...
 //［トレイシー］：ええ‥‥。
-[Tracy]: Yeah....
+[Tracy]: Yeah...
 //［トレイシー］：心情、お察し致しますわ。
 [Tracy]: I understand how you must feel right now.
 //［コウジ］：僕だけが、おめおめと生き残るとはな‥‥笑止もいいところだ。
@@ -1487,11 +1487,11 @@ to05e
 //［コウジ］：フン、神だって？　神がいるなら、なぜ他のクルーを助けない。
 [Kohji]: Hmph, God? If there were a God, why couldn't the　 rest of the crew be saved?
 //［トレイシー］：それは‥‥。
-[Tracy]: Umm....
+[Tracy]: Umm...
 //［コウジ］：僕だけの神か‥‥そんな都合の良い慈悲など、僕は欲しくはない。
 [Kohji]: A god just for me?...it's a nice sentiment, but I  don't like it.
 //［トレイシー］：コウジさん‥‥。
-[Tracy]: Kohji-san....
+[Tracy]: Kohji-san...
 //［トレイシー］：この頃から、もう‥‥？
 [Tracy]: From here on out, will you still...?
 //［トレイシー］：そうね、そうかもしれない‥‥。
@@ -1503,23 +1503,23 @@ to05e
 //［トレイシー］：私は、彼に惹かれていく自分を、抑えられなくなってきました‥‥。
 [Tracy]: I was unable to control myself while smitten with  him...
 //［トレイシー］：彼と関係を持つのに、それほど時間はかからなかった気がします‥‥。
-[Tracy]: Due to having a relationship to him, it felt like  there wasn't enough time....
+[Tracy]: It feels like I became involved with him pretty　　quickly...
 //［トレイシー］：私は彼を励ますために‥‥。
-[Tracy]: I, to cheer him up....
+[Tracy]: I wanted to cheer him up...
 //［トレイシー］：彼は私の、寂しさを埋めるために‥‥。
-[Tracy]: He, to bury my loneliness....
+[Tracy]: And he helped fill the void of my loneliness...
 //［トレイシー］：お互いに、求めあったのは、自然だったかもしれない‥‥。
-[Tracy]: That we mutually helped each other may have been　 natural....
+[Tracy]: Maybe it was natural for us to seek each other out ...
 //［トレイシー］：どうしたの？　そんなに見つめられたら、恥ずかしいわ。
-[Tracy]: What's the matter? It's embarrassing when you look at me that way.
+[Tracy]: What's the matter? It's embarrassing when you stareat me like that.
 //［コウジ］：‥‥なぁ、トレイシー。
-[Kohji]: ...Hey, Tracy.
+[Kohji]: ... Hey, Tracy.
 //［トレイシー］：なにかしら？
 [Tracy]: What is it?
 //［コウジ］：こうして付き合うようになって、何回目かな‥‥？
-[Kohji]: How many times have you done this...?
+[Kohji]: Since we started going out, I wonder how many times...
 //［トレイシー］：何回目って‥‥？
-[Tracy]: How many times, meaning...?
+[Tracy]: What do you mean, "how many times"?
 //［コウジ］：セックスをしたのは、何回目かと聞いたんだ。
 [Kohji]: I was asking, how many times have you had sex?
 //［トレイシー］：直接的ね、ずいぶんと。
@@ -1527,11 +1527,11 @@ to05e
 //［コウジ］：君がそうさせる。
 [Kohji]: Well, you're that way with me.
 //［トレイシー］：３回目、くらいじゃないかしら‥‥。
-[Tracy]: Three times, I think....
+[Tracy]: Three times, I think...
 //［トレイシー］：なぜ？
 [Tracy]: Why do you ask?
 //［コウジ］：フン、そうだな‥‥。
-[Kohji]: Hm, is that so....
+[Kohji]: Hmmm, I guess so...
 //［コウジ］：トレイシー、君は本当に素晴らしい身体をしている。
 [Kohji]: Tracy, you have a truly smokin' body.
 //［トレイシー］：フフ、お世辞を言ったって、何もでません。
@@ -1571,9 +1571,9 @@ to05e
 //［コウジ］：あぁ、もう少し、乳首をしごかせてくれよ。
 [Kohji]: Ahh, please, play with my nipples a bit more.
 //［トレイシー］：いいわ、あなただったら‥‥んくっ‥‥。
-[Tracy]: It's ok, if it's you...Nkh....
+[Tracy]: It's ok, if it's you...Nkh...
 //［コウジ］：ずいぶん、大きくなってきたな‥‥。
-[Kohji]: They've become quite big, haven't they....
+[Kohji]: They've become quite big, haven't they...
 //［トレイシー］：あなたが、いつもそうして揉んだり、しごいたりするからだわ‥‥。
 [Tracy]: Well, that's because you're always rubbing and　　 playing with them...
 //［コウジ］：フン、そうかもしれないな‥‥。
@@ -1591,7 +1591,7 @@ to05e
 //［コウジ］：なぜ謝る必要がある。
 [Kohji]: There's no need to apologize here.
 //［トレイシー］：だって‥‥。
-[Tracy]: But....
+[Tracy]: But...
 //［コウジ］：なぁ、トレイシー‥‥。
 [Kohji]: Hey, Tracy...
 //［トレイシー］：な、なに？
@@ -1625,19 +1625,19 @@ to05e
 //［トレイシー］：そうかもしれないわ‥‥。
 [Tracy]: That may be true...
 //［コウジ］：恐らく、君の恋人とやらは、君の事を知ってはいない。
-[Kohji]: Maybe not even your lover knew that about you.
+[Kohji]: Perhaps your so-called lover never truly knew you.
 //［トレイシー］：ど、どういうこと？
 [Tracy]: Wh-what do you mean?
 //［コウジ］：君の心の中は、恋人とやらでは満たされぬ欲望で溢れている。
-[Kohji]: Your heart is overflowing with wishes unfulfilled  by your lover.
+[Kohji]: Your heart is overflowing with desires that your　 lover couldn't satisfy.
 //［コウジ］：トレイシー‥‥。
-[Kohji]: Tracy....
+[Kohji]: Tracy...
 //ぎゅぅぅっ。
 *griiip*
 //［トレイシー］：あっ‥‥い、痛っ‥‥。
 [Tracy]: Ah-!....th-that hurts...
 //［トレイシー］：胸をそんなに、キツく揉まないで‥‥。
-[Tracy]: Don't grab my breasts so roughly....
+[Tracy]: Don't grab my breasts so roughly...
 //［コウジ］：僕なら、君のその欲望を解放してあげられる。
 [Kohji]: If it were me, I would realize those desires for　 you.
 //［コウジ］：いや、僕しか、君の欲望は解放できない。
@@ -1677,9 +1677,9 @@ to05e
 //［コウジ］：大丈夫だ。
 [Kohji]: That's OK.
 //［トレイシー］：あっ‥‥。
-[Tracy]: Ah-....
+[Tracy]: Ah-...
 //［コウジ］：トレイシー、君は素敵だ。君の全てを見たい‥‥。
-[Kohji]: Tracy, you are wonderful. I want to see all of you ....
+[Kohji]: Tracy, you are wonderful. I want to see all of you ...
 //［トレイシー］：あぁぁぁ‥‥コウジぃ‥‥‥‥。
 [Tracy]: Ahhhh....Koujii....
 //［トレイシー］：（コウジが見ている‥‥見ている前で、自慰をするなんて‥‥。）
@@ -1687,7 +1687,7 @@ to05e
 //［トレイシー］：（死ぬほど、恥ずかしい‥‥。）
 [Tracy]: (I could die of embarrassment...)
 //［トレイシー］：（けど、彼が喜んでくれるなら‥‥。）
-[Tracy]: (But, if he enjoys it....)
+[Tracy]: (But, if he enjoys it...)
 //［トレイシー］：（私のことを、より愛してくれるなら‥‥。）
 [Tracy]: (If he will love me more...)
 //［トレイシー］：（あぁぁぁ、コウジぃ‥‥‥‥。）
@@ -1705,13 +1705,13 @@ to05e
 //ふにゃっ。
 *squeeze*
 //［トレイシー］：（あぁぁ、この大きな胸‥‥。）
-[Tracy]: (Ahhh, these big boobs....)
+[Tracy]: (Ahhh, these big boobs...)
 //［トレイシー］：（同性からは羨望と妬みを‥‥。）
 [Tracy]: (The objects of envy and desire of the women aroundme...)
 //［トレイシー］：（異性からは好奇と羞恥の視線を受けてきた‥‥。）
 [Tracy]: (The objects of curious and bashful glances from　 men around me...)
 //［トレイシー］：（だけど‥‥‥‥。）
-[Tracy]: (But now....)
+[Tracy]: (But now...)
 //［トレイシー］：（コウジだけは、こんなに大きな胸に、深い愛情を抱いてくれたわ‥‥。）
 [Tracy]: (Only Kohji holds deep affection for these massive mammaries...)
 //［トレイシー］：（あぁぁ、この胸は‥‥コウジのモノ‥‥。）
@@ -1725,15 +1725,15 @@ to05e
 //［トレイシー］：（‥‥‥‥‥‥。）
 [Tracy]: (..........)
 //［トレイシー］：（みんな、みんな、コウジのモノ‥‥‥‥。）
-[Tracy]: (Everything, everything is Kohji's....)
+[Tracy]: (Everything, everything is Kohji's...)
 //［コウジ］：素敵だよ、トレイシー‥‥。
-[Kohji]: How excellent you are, Tracy....
+[Kohji]: How excellent you are, Tracy...
 //［トレイシー］：あぁぁ、もっともっと、私を愛して‥‥お願い‥‥。
 [Tracy]: Ahhhh, love me more and more...I beg of you...
 //［コウジ］：あぁ、愛している、本当だ。
 [Kohji]: Ahh, I do love you, I really do.
 //［トレイシー］：嬉しい‥‥‥‥。
-[Tracy]: I'm so happy....
+[Tracy]: I'm so happy...
 //［コウジ］：もっと、乳首を両手でしごくんだ。
 [Kohji]: Play with your nipples some more.
 //［トレイシー］：こう？　こう？
@@ -1753,11 +1753,11 @@ to05e
 //［トレイシー］：こう？
 [Tracy]: Like this?
 //［トレイシー］：きゃぅっ！　な、何これ‥‥す、凄く‥‥。
-[Tracy]: Kyow! Wh-what's this...it's so....
+[Tracy]: Kyow! Wh-what's this...it's so...
 //［コウジ］：どうしたんだい？
 [Kohji]: What's happened?
 //［トレイシー］：あぁぁぁ、何故なの‥‥何故なの‥‥凄く、気持ちいい‥‥。
-[Tracy]: Ahhhh, why...why...does it feel so good....
+[Tracy]: Ahhhh, why...why...does it feel so good...
 //［コウジ］：トレイシー、それは君が、僕の事を愛しているからだ。
 [Kohji]: Tracy, that's because you love me.
 //［トレイシー］：私が‥‥コウジの事を？
@@ -1909,7 +1909,7 @@ to09c_m
 //［コウジ］：イキそうなのかい？　僕の目の前で。
 [Kohji]: Are you about to cum? Right before my eyes.
 //［トレイシー］：恥ずかしいわ‥‥でも、感じているの‥‥本当よ、あなたの為に‥‥。
-[Tracy]: It's so embarrassing...but, I'm so close...it's　　really, for you...
+[Tracy]: It's so embarrassing...but, I can feel it... it's  really, for you...
 //［コウジ］：もう、膣内はグショグショに濡れている。マゾめ。
 [Kohji]: Your pussy is already flushed wet, you masochist.
 //［トレイシー］：あぁぁ、私はマゾ‥‥マゾよっ。
@@ -1925,15 +1925,15 @@ to09c_m
 //to07
 to07
 //ぎゅぎゅぎゅぅぅぅぅぅぅぅぅっ！！！
-*pinch, squish, squeeeeeeze*!!!
+*pinch* *squish* *squeeeeeeze*
 //［トレイシー］：あくぅぅぅ‥‥痛っ‥‥あぁぁぁぁ、そ、そんなにしぼらないで‥‥。
 [Tracy]: Akhhhh...ow....ahhhh, p-please don't squeeze them  like that...
 //［コウジ］：‥‥これは、誰のだ？
-[Kohji]: ...Tell me, whose are these again?
+[Kohji]: ...Tell me, who are these again?
 //［トレイシー］：あぁぁ、ご、ごめんなさい‥‥あなたのよ‥‥好きにしていいの‥‥。
 [Tracy]: Ahhh, I'm, I'm sorry...they're yours... please do  with them as you like...
 //［コウジ］：よし‥‥ぎゅぅぅぅぅっ！！
-[Kohji]: Good...*squeeeeze*!!
+[Kohji]: Good... *squeeeeze*
 //［トレイシー］：んあぅぅっ！！　そんなにしぼったら‥‥あぅ！　で、出ちゃう！！
 [Tracy]: Nnowwwwww!! If you squeeze them like that...Ow!　　I-it'll come out!
 //［コウジ］：フッ、何が、出ちゃうんだい？
@@ -2055,19 +2055,19 @@ to07
 //［トレイシー］：わかった‥‥わかったわ‥‥。
 [Tracy]: OK...I understand...
 //ずりゅぅぅぅっ！
-*thruuuust*!
+*thruuuust*
 //［トレイシー］：きゃぁぅぅぅぅっ！！　あっ‥‥あぁぁぁぁ‥‥。
 [Tracy]: KYAAAAOoowwww-! Ah...ahhhhh....
 //［コウジ］：トレイシー、君はもう僕の奴隷になると誓ったんだ。言葉遣いが、なっていないよ。
 [Kohji]: Tracy, you swore a vow to become my slave. I won't tolerate you talking back.
 //［トレイシー］：わかりました‥‥あぁぁ‥‥コウジ様ぁ‥‥。
-[Tracy]: I understand...Ahhhh...Kohji-samaa....
+[Tracy]: I understand...Ahhhh...Kohji-samaa...
 //［コウジ］：そう、それでいい。それでこそ、僕が愛する女性だ‥‥。
 [Kohji]: Yes, that's better. Truly befitting of the woman I love...
 //［コウジ］：もう一度、自分の立場を言ってみるんだ。
 [Kohji]: Tell me once more, what is your position?
 //［トレイシー］：わ、私は‥‥あぁぁぁ‥‥。
-[Tracy]: I-I am...ahhhh....
+[Tracy]: I-I am...ahhhh...
 //［コウジ］：言うんだ‥‥。
 [Kohji]: Say it clearly...
 //［トレイシー］：私は、コウジ様の奴隷です‥‥。
@@ -2075,6 +2075,6 @@ to07
 //［コウジ］：そうだ、愛しているよ、トレイシー。
 [Kohji]: That's right. I love you, Tracy.
 //ずちゅぅぅぅっ！！
-*smaaack*!!
+*smaaack*
 //［トレイシー］：コウジ様ぁぁぁぁぁぁぁぁぁっっ！！！
 [Tracy]: Kohji-SAMAAAAAAaaa--!!!
