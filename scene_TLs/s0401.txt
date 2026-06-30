@@ -27,7 +27,7 @@ all
 //［ファル］：ちょっとトレイシー、このネギはみじん切りよ。
 [Far]: Wait, Tracy, those spring onions should be julienned.
 //［トレイシー］：あら、すみません‥‥。あっ、ビアンカさん、卵といて下さいな。
-[Tracy]: Oh my, I'm sorry...Ah-, Bianca, could you bring theeggs over here?
+[Tracy]: Oh my, I'm sorry...Oh-, Bianca, could you whisk theeggs for me?
 //［ビアンカ］：炊事関連は苦手なのに‥‥。
 [Bianca]: But I'm awful at cooking...
 //チャッチャッチャッチャッ‥‥。
@@ -123,7 +123,7 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：夜は夜で、疲れるんだよなぁ‥‥。
 [Kouji]: Nighttime wears me out too...
 //［ファル］：コウジ、どうしたのよ？　湿っぽい顔しちゃって。
-[Far]: Kohji, what's going on? Your face is moist.
+[Far]: Kohji, what's wrong? You look so down.
 //［トレイシー］：どこか痛むのですか？　何だったら私が看病‥‥。
 [Tracy]: Does it hurt anywhere? If anything's the matter, I can examine you...
 //［ランファ］：ランファが元気づけてあげるわっ！
@@ -133,15 +133,15 @@ Zrrrrrrrrrr, thomp.
 //［宏治］：‥‥という訳らしい。ふぅ‥‥。
 [Kouji]: ...That's how it is. Hooo....
 //［ファル］：ほら、洗ってあげるわ。
-[Far]: Now, I'll wash you.
+[Far]: Now, I'll clean it for you.
 //［宏治］：わははは、くすぐったいよ。
 [Kouji]: Wahahaha, that tickles.
 //［ファル］：だーめ、ちゃんと洗わないと、お口でしてあげないから。
-[Far]: Now, now, I have to wash you properly, or you can't  go in my mouth.
+[Far]: No way. If I don't clean it properly, I won't let youin my mouth.
 //［宏治］：えっ、ホント？　じゃあ、飲んでくれる？
-[Kouji]: Huh, really? Well, can I drink it?
+[Kouji]: Huh? Really? Then will you swallow it?
 //［ファル］：しょうがないわねぇ‥‥ウフフ、いいわよ、飲んであげる。
-[Far]: I guess I have no choice...Ehehe, sure, I'll let you drink it.
+[Far]: I guess I have no choice... Hehe, alright then, I'll drink it for you.
 //［宏治］：いょっしゃーっ。
 [Kouji]: All riiiight.
 //［ファル］：なにリキんでんのよ、まったく‥‥。
@@ -323,13 +323,13 @@ Rub rub rub rub...
 //［ファル］：ったくもぉ、しょうがないんだから‥‥。
 [Far]: Oh, fine, I guess I have no choice...
 //［宏治］：なんか、つながったまま歩くのって、結構感じるかも。
-[Kouji]: I think I hear someone walking over here, like theymight be tailing us.
+[Kouji]: Walking around like this, still inside you.... it  actually feels really good.
 //［ファル］：わ、私はそれどころじゃないわ。歩きにくくて‥‥。
-[Far]: Th-that's not what I hear. It's just footsteps...
+[Far]: I-I'm not in a position to enjoy that. It's so hard  to walk like this...
 //［宏治］：人間には四つん這いは向いてないんだよね。
-[Kouji]: No one's crawling on all fours over here, right?
+[Kouji]: Humans aren't really built for crawling around on  all fours, I guess.
 //［ファル］：あン‥‥そ、そんなに揺らしたら、お尻の穴が広がっちゃう！
-[Far]: Ahng....I-if you sway like that, you'll stretch out  my asshole!
+[Far]: Ahng.... I-If you sway like that, you'll stretch out my asshole!
 //［宏治］：よし、ベッドだ！
 [Kouji]: All right, there's the bed!
 //fa06
@@ -741,19 +741,19 @@ bi05
 //［宏治］：海賊家業で、何をやってたの？
 [Kouji]: What did you do as a pirate?
 //［ビアンカ］：な、なによ急に‥‥んっ、んっ。
-[Bianca]: That came out of the blue...mm, mm.
+[Bianca]: That came out of the blue... mm, mm.
 //［宏治］：いや、何となくきになったもんでさ。
 [Kouji]: I mean, you don't have to answer if you don't want to.
 //［ビアンカ］：実を言うと、コウジを追ってたのよ‥‥。
 [Bianca]: Well, honestly, I was chasing Kohji...
 //［ビアンカ］：あのときは、コウジが憎くてしょうがなかったの‥‥非道な事は１つも行ってないわっ。
-[Bianca]: At that time, even if Kohji didn't like it, I had no choice...there's not one bad thing I wouldn't do.
+[Bianca]: Back then, I hated Kohji so much I couldn't help  it... But I didn't do a single cruel act.
 //［宏治］：どうやって、生計をたててたのさ。
 [Kouji]: So how did you make a living then?
 //［ビアンカ］：そ、それは‥‥行く先々で、ドカチンのバイトをしながら‥‥。
-[Bianca]: Um, well...right before I went, I was doing manuallabor...
+[Bianca]: Um, well... I was picking up manual labor work　　wherever I traveled...
 //［宏治］：クククッ‥‥苦労したんだなぁ。
-[Kouji]: Kekeke...it must have been hard on you.
+[Kouji]: Heh heh... it must've been hard on you.
 //［ビアンカ］：そうよっ、３日に１回は、インスタントのチャンポンを食べて‥‥。
 [Bianca]: It sure was, I only got to eat instant noodles　　once every 3 days...
 //［宏治］：よし、これからはオレのモノを食わしてやるぞ。
@@ -883,11 +883,11 @@ As if surrendering to my worldly thoughts, I tried to changethe subject. The atm
 //［宏治］：ビアンカのこと、何だか詳しそうだけど、彼女のことを知ってるの？
 [Kouji]: You described Bianca in detail earlier. Do you knowher?
 //［ランファ］：もちろんですぅ、ずっと一緒に暮らしてきましたし。
-[Lanhua]: Of course I do, after all, you've always lived　　with her.
+[Lanhua]: Of course! We've always lived together, haven't　 we?
 //［宏治］：ずっと‥‥一緒？
-[Kouji]: Always...lived with her?
+[Kouji]: All this time... together?
 //聞き捨てならない情報だった。ビアンカとオレ‥‥コウジとは、敵同士ではなかったのか？
-I couldn't overlook this report. Bianca and me...and Kohji, rather, have always been enemies, haven't we?
+I couldn't ignore what I'd just heard. Bianca and me... and Kohji, rather, have always been enemies, haven't we?
 //［宏治］：それって、どういうこと？
 [Kouji]: W-what do you mean by that?
 //［ランファ］：えっと、どういうことと言われましても‥‥。
