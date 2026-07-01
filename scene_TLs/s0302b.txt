@@ -139,7 +139,7 @@ s0302b
 //［宏治］：その、それって何の冗談？
 [Kouji]: I-is that your idea of a joke?
 //［トレイシー］：冗談？　私、冗談とイカの頭は嫌いですの。コウジ様、知ってらっしゃるはずでしょう？
-[Tracy]: Joke? I have no use for a joke like that.　　　　　Kohji-sama, do you think you understand?
+[Tracy]: Joke? I have no use for a joke like that.　　　　　Kohji-sama, you should know that, shouldn’t you?
 //［宏治］：じゃあ何かい、ここはその、《クワドラ》とやらいう宇宙船の中で、もしかして宇宙空間中に浮かんでいるとか？
 [Kouji]: Well, in any case, we're in the middle of the　　　Quadra spaceship, so could it be possible that we're　　　  floating through outer space right now?
 //［トレイシー］：もしかしなくても、おっしゃる通りですわ。
@@ -179,13 +179,13 @@ s0302b
 //［宏治］：そ。そのジェネレータの機能の概説とやらを、教えてくれ。
 [Kouji]: Yes. Please give me a summary of that generator's  capabilities.
 //［トレイシー］：私も詳しくは知らないのですが、コウジ様がおっしゃるに、何でも大変なシロモノとか。
-[Tracy]: I don't know the specifics, but from what　　　　　Kohji-sama has said, it's a very important appliance.
+[Tracy]: I don't know the specifics, but from what　　　　　Kohji-sama has said, it's a extraordinary piece of equipment.
 //［宏治］：た、大変なシロモノ‥‥それが機能の概説？
 [Kouji]: A-an important appliance...Is that your summary of its capabilities?
 //［トレイシー］：コウジ様が、それしかお教え下さらなかったのではありませんか。
 [Tracy]: Kohji-sama never told me anything else about it.
 //［宏治］：そ、そうだっけ？
-[Kouji]: Th-that's it, then?
+[Kouji]: Is that so?
 //［トレイシー］：そうですわ。
 [Tracy]: Yes, that's all I can say.
 //［宏治］：んー、じゃあオレはそれを、どうやって使用していた？
@@ -245,13 +245,13 @@ s0302b
 //［宏治］：君も君だよ。涼子先生に言われて、オレを騙そうとしたって、そうは問屋が‥‥。
 [Kouji]: You are you. Doctor Ryouko told me that I'd be　　　tricked into being in such a room...
 //［トレイシー］：あら、呼び出しだわ。誰かしら？
-[Tracy]: Hey, you called out a name. Who is that?
+[Tracy]: Oh, someone's calling me. I wonder who it is?
 //［ランファ］：トレイシー、まだそこにいるの？
 [Lanhua]: Tracy, you're still here?
 //［トレイシー］：ランファ、何があったのです？
 [Tracy]: Lanhua, has something happened?
 //［ランファ］：もうプリプリよぉ。コウジ様のおそばに、そんなに長く‥‥。
-[Lanhua]: I'm frustrated already. When I'm away from　　　　Kohji-sama for that long...
+[Lanhua]: I'm already all pouty. I've been away from　　　　Kohji-sama for so long...
 //［トレイシー］：人それぞれに、役割というものがあるのです。それより用はなんですか？
 [Tracy]: We each have our own roles. What do you want beyondthat?
 //［ランファ］：ファルネリア様が、お目覚めになって‥‥。
@@ -263,7 +263,7 @@ s0302b
 //［トレイシー］：何とかなさい。あなたの役目でしょう？
 [Tracy]: Please, manage her somehow. It's your duty, isn't  it?
 //［ランファ］：そんなぁ、看護はむしろトレイシーの役目じゃない。私はぜんぜんダメよぉ。
-[Lanhua]: Oh, come on, Tracy, your role isn't a nurse.　　　I can't do it at all.
+[Lanhua]: Oh, come on, Tracy, nursing is your job, not mine.
 //［トレイシー］：しょうがないわね、じゃあファルネリア様の部屋は？
 [Tracy]: Fine, then. Well, where is Farnelia's room?
 //［ランファ］：ＶＩＰルーム。
@@ -273,9 +273,9 @@ s0302b
 //［ランファ］：早くしてね。あっ、コウジ様ぁ。
 [Lanhua]: Please hurry. Ah-, Kohji-sama.
 //［ランファ］：ランファ、コウジ様が記憶を無くされても、ずっと愛して‥‥。
-[Lanhua]: Lanhua has always loved Kohji-sama, even when his memories aren't there...
+[Lanhua]: Even if you've lost your memories, I'll always love you Kohji-sama...
 //［トレイシー］：さて、雑音は消してと。
-[Tracy]: There, that racket has gone down.
+[Tracy]: *annoyed* Let's cut the chatter.
 //［トレイシー］：何かありましたら、ベッド傍らのコンパネを利用して下さい。
 [Tracy]: If anything comes up, please use the control panel next to the bed.
 //［宏治］：あ、あぁ‥‥。
@@ -289,7 +289,7 @@ I wrapped my hands behind my head and fell back onto the bed
 //静寂が耳に痛かった。だがそれ以上に頭も痛い。
 The silence hurt my ears, but any more noise would hurt my  head, too.
 //混乱していないと言えば嘘になる。むしろ、オレはさっきから混乱のしっぱなしだ。
-If I said I wasn't confused, I'd be lying. However, my　　　confusion from earlier had dissipated.
+I'd be lying if I said I wasn't confused. If anything, I've been confused this whole time.
 //ここが、大宇宙に浮かぶ宇宙船の中で、しかも何とか砲とかいう武器がついてる高機動シップだと？
 Here, I'm in the middle of a spaceship floating in the vast cosmos, it seems a high-mobility ship equipped with some　　sort of cannon weaponry.
 #Here, I am floating through space on a spaceship, and it　　 seems that it's a high class mobile ship carrying some sort of cannon weaponry
@@ -354,7 +354,7 @@ Just as I thought of tearing off the sheets and fleeing thisharsh reality...
 //［トレイシー］：困ります、お願いです。
 [Tracy]: Please, he's struggling right now.
 //［女］：私は、権力と暴力には、絶対に屈しませんからねっ！
-[Woman]: I absolutely won't bend to such power and strength!
+[Woman]: I absolutely won't bend to such power and violence!
 //［トレイシー］：ファルネリア様、少しお静かに‥‥。
 [Tracy]: Farnelia-sama, please be quiet...
 //ファルネリア？
@@ -362,7 +362,7 @@ Farnelia?
 //というと、ジェネレータとやらの触媒とかいう女性か‥‥確か、赤毛の‥‥。
 In other words, the woman medium from the generator...indeedthat redhead...
 //考え出すと、急速に会いたくなってきた。会いたくなってくると、居ても立ってもいられなくなる。
-As I realized it, I suddenly felt the urge to meet her. As  that urge grew stronger, I became unable to sit still.
+Once I started thinking about it, I quickly found myself　　wanting to see her, until I couldn't just stay put anymore.
 //さっそくオレはドアへと向かった。元来、ジッとしているのは性分じゃあない。
 I quickly turned toward the door. From the start, it wasn't in my nature to sit around.
 //オレは、触媒という言葉が、少しだけ気になっていた‥‥。
@@ -396,7 +396,7 @@ It might be locked...
 //しょうがないな。オレは隣のドアに入るのをあきらめて、他の道を行くことにした。
 Well, there's no use dillydallying here. I gave up on going in the door, and decided to go down another path.
 //角を曲がり進んでいくと、オレはぴたっと立ち止まらねばならなくなった。何のことはない、すぐに行き止まりになってしまったからだ。
-As I turned the corner, I was forced to come to a sudden　　halt. It was no big deal, since I was about to stop myself.
+As I rounded the corner and continued on, I had to come to  an abrupt stop. I reached a dead end.
 //目の前には重厚なドアが、オレの進入を許さずという趣でそびえ立っている。
 In front of me, a thick, heavy door forbade me from going　　further.
 //［宏治］：誰もいないのかな‥‥。

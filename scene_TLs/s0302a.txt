@@ -83,7 +83,7 @@ For an instant, I thought there was some unknown wild beast somewhere that made 
 //トレイシーはオレのコブシ部分をさすっている。骨折の有無でも、確かめているのだろうか。何とも乱暴だと思うが‥‥。
 Tracy wrapped up my fist. She seemed to be checking whether there were any broken bones. I had acted rather violently,  but...
 //［トレイシー］：大丈夫です、軽い打撲ですね。よかったですわ‥‥軽くシップしておけば、すぐに良くなります。
-[Tracy]: You're OK, it was only a light blow. How lucky you are... if you place a soft wet cloth on it, it should heal  quickly.
+[Tracy]: You're OK, it was only a minor contusion. How luckyyou are... if you place a soft wet cloth on it, it should　 heal quickly.
 //デレっとした顔をしているに違いないと思った。誰だって、美人に優しく手を握られてニコっと微笑まれたら、今のオレのようになるだろう。
 I must have had on quite an affectionate expression. In my  position, having my hand held so gently by a beautiful womanas she smiled sweetly, anyone else would have done the same.
 //［トレイシー］：あの‥‥どうかなさいましたか？
@@ -359,13 +359,13 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //［宏治］：み、見せなくていいってば。
 [Kouji]: A-as I said, it's ok, you don't have to show me.
 //［ランファ］：酷いんですよファルネリア様ったら‥‥寝心地が悪いとか、食事がマズいとか、もう大変なんですぅ。
-[Lanhua]: Farnelia-sama is so cruel...I can't tell if she's not eating or sleeping well, but something is wrong.
+[Lanhua]: Farnelia-sama is just awful, she keeps complainingthat the sleeping conditions are bad, the food tastes　　　 terrible... it's been such a headache.
 //［宏治］：ふーん、とりあえず、会ってみたいな。
-[Kouji]: Hmmmm, in any case, it looks like I should go see  her.
+[Kouji]: Hmmmm, anyway, it looks like I should go see her.
 //［ランファ］：もう、ガツーンと思い知らせてやって下さいっ。
-[Lanhua]: Come on, just think of the beating you'll receive.
+[Lanhua]: Please give her a good scolding.
 //［宏治］：が、ガツーンってね‥‥んま、とにかくわかったよ。
-[Kouji]: T-the beating....mm, well, I think I understand.
+[Kouji]: A-a good smack, huh...? Well, anyway, I get it.
 //［ランファ］：あっ、もう行ってしまうんでうすか？
 [Lanhua]: Ah-, are you already going away?
 //［宏治］：うん、君は君の仕事をがんばって。
@@ -395,7 +395,7 @@ Huh? I did?
 //［ランファ］：はい。エーテル光子動力を利用し、ほぼ永久機関に等しい動力により、ハイパードライブ機能も備えた‥‥。
 [Lanhua]: Yes. On top of using ethereal photon power, nearlyapproaching the power of a perpetual motion machine, you　　installed the hyperdrive feature, too...
 //［宏治］：あー、小難しい説明は無しね。トレイシーに散々聞いたから。
-[Kouji]: Ahh, that wasn't too bothersome of an explanation. I heard it all from Tracy, after all.
+[Kouji]: Skip the complicated explanation. Tracy already　　gave me plenty of that.
 //［ランファ］：トレイシーに、ですか？
 [Lanhua]: From Tracy?
 //［宏治］：そうだけど‥‥。
@@ -820,7 +820,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：とか言ったらどうなるのかな。
 [Kouji]: ...I wonder how she'd react if I said that.
 //［宏治］：実行しそうで、ちょっと恐いかも知れない。
-[Kouji]: If I really did that, she'd probably get mad.
+[Kouji]: She might actually do it... and that's a little　　scary.
 //［宏治］：そんなことを考えてる場合じゃないのはわかってる。問題は彼女が何者かってことだ。
 [Kouji]: I know this isn't the place to be thinking about　　that kind of thing, but I still wonder what kind of person she is.
 //［宏治］：考えてもわからないに決まっている。他の事を考えよう。
@@ -1078,11 +1078,11 @@ fa02_m
 //［宏治］：ふーん、なんだろう。
 [Kouji]: Hmm, what could it be?
 //［トレイシー］：現状では、何とも申し上げられません。
-[Tracy]: I'm terribly sorry about this situation.
+[Tracy]: At this time, we can't say.
 //［宏治］：こういう時の対処マニュアルみたいのって、ないの？
 [Kouji]: Isn't there some sort of manual on how to deal withtimes like these?
 //［トレイシー］：マニュアルとおっしゃられましても‥‥。
-[Tracy]: You've never spoken to me about a manual...
+[Tracy]: Even if you ask about a manual...
 //［宏治］：じゃあ、いつもコウジが‥‥オレがやっていた対処法は？
 [Kouji]: Well, how does Kohji... how do I deal with　　　　　situations like these?
 //［トレイシー］：あっ、はい‥‥とりあえず移動型の索敵ブイを放出して、相手の正体を確認するのが当面の対処法になると思います。

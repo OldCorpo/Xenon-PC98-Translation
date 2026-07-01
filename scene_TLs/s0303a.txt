@@ -85,17 +85,17 @@ s0303a
 //［宏治］：あ、あのさぁ、トレイシーって人のことだけど‥‥。
 [Kouji]: A-as I was saying, about that Tracy woman...
 //［ランファ］：トレイシーですか？　もう、ランファの若さと可愛さに嫉妬ばかりしてる、行かず後家なんですぅ。
-[Lanhua]: Tracy? 
+[Lanhua]: Tracy? She's just an old maid who's always jealousof my youth and cuteness.
 //［宏治］：‥‥で、彼女、何をしてるんだい？
-[Kouji]: ...so, did she do something in the past?
+[Kouji]: ...so, what does she do?
 //［ランファ］：そうですねぇ、食っちゃ寝ですか？
-[Lanhua]: Oh, you mean eating and sleeping?
+[Lanhua]: Aside of eating and sleeping?
 //［宏治］：なんだよ、それは。真面目に言ってよ。
 [Kouji]: What's with that response? Give it to me straight.
 //［ランファ］：ホントですぅ。でも最近は、ジェネレータの計測をやってたみたいですけど‥‥後はよく知りません。
 [Lanhua]: It's the truth. But more recently, she seemed to  be taking measurements of the generator... I don't know whatshe did afterwards, though.
 //［ランファ］：だってぇ、コウジ様はコウジ様じゃないですか。
-[Lanhua]: Like I said, Kohji-sama isn't Kohji-sama.
+[Lanhua]: Like I said, Kohji-sama is Kohji-sama.
 //［宏治］：オレは君らのことを、残念ながら知らない‥‥。
 [Kouji]: I'm sorry, but I really don't know anything about  you all...
 //［ランファ］：ウルウルぅ‥‥。
@@ -103,9 +103,9 @@ s0303a
 //［宏治］：じゃなくて、覚えてないけど、君らがオレのことを知ってるのはどう考えても不公平じゃないか。
 [Kouji]: Or rather, I don't remember, but you all know so　　much about me. However you look at it, it's not fair.
 //［ランファ］：だって、コウジ様の事を知らないなんて、ここじゃモグリですぅ。
-[Lanhua]: But, I don't know anything about Kohji-sama.　　　You're a stranger here.
+[Lanhua]: But, anyone here who doesn't know about Kohji-samawould be an outsider.
 //［宏治］：も、もぐり‥‥うーむ。
-[Kouji]: A stranger....hmmm.
+[Kouji]: An outsider.... hmmm.
 //［ランファ］：《クワドラ》ですか？
 [Lanhua]: The Quadra?
 //［宏治］：そう。聞かない名前だけど‥‥。
@@ -133,13 +133,13 @@ s0303a
 //［ランファ］：最大搭乗員数は２０人、でもフルオートのエンジンや航行機能などで、最低３人にまで削減することが可能なのっ。
 [Lanhua]: The maximum capacity is 20 persons, but, because  it has a full-auto engine and self-flight capabilities, as　few as 3 people can run the whole thing.
 //［ランファ］：その他にも、タキオンを利用したハイパーウェイブ通信機能など、あぁ、何て可愛らしい子なのかしらっ。
-[Lanhua]: On top of all that, it has tachyon-based　　　　　hyperdrive communication capabilities, and uh, there might  be a number of cute girls on board.
+[Lanhua]: On top of all that, it has tachyon-based　　　　　hyperdrive communication capabilities, ahh, what an adorable girl she is. *blushes*
 //［宏治］：ら、ランファ。
 [Kouji]: L-Lanhua.
 //［ランファ］：はい。なんでしょうか？
 [Lanhua]: Yes, what is it?
 //［ランファ］：そうですね！　《クワドラ》は冗談って思わないと、他の海賊さんたちは、やってられないと思います。
-[Lanhua]: Of course! But the other pirates don't think of　　the Quadra as some joke.
+[Lanhua]: You have to think of it as a joke, or the other pirates couldn't live with themselves.
 //［ランファ］：あたりきしゃりきの‥‥。
 [Lanhua]: That's exactly it....
 //［宏治］：‥‥もういい。
@@ -157,7 +157,7 @@ s0303a
 //［ランファ］：舌を噛まずに、初めてキチンと言えたんですぅ。
 [Lanhua]: I bit my tongue, that's the first time I've said  the whole name.
 //［宏治］：あ、あのね‥‥それよりも、何だって？
-[Kouji]: Umm...Can you tell me anything else about it?
+[Kouji]: Umm... Can you tell me anything else about it?
 //［ランファ］：ですからぁ、大宇宙かいぞきらべまとろろ‥‥。
 [Lanhua]: You mean, about the Galactic Pilate Combany Leigo ....
 //［ランファ］：イタタ‥‥舌を噛んじゃったんですぅ‥‥ウルウル。
@@ -165,7 +165,7 @@ s0303a
 //［宏治］：まぁいい、とにかくなんだよ、そのイカれた名前は。
 [Kouji]: Take it easy. In any case, what the hell is with　　that ridiculous name?
 //［ランファ］：コウジ様が、ご自身で付けたイカした名前ですよっ。
-[Lanhua]: Kohji-sama, you came up with that ridiculous name yourself.
+[Lanhua]: Kohji-sama, you came up with that awesoooome name yourself.
 //［ランファ］：はい、そうでーす。とってもラブリィだと、思いますけどぉ。
 [Lanhua]: Yes, that's riiiight. I think it's perfectly　　　lovely.
 //［ランファ］：はい。
@@ -183,7 +183,7 @@ s0303a
 //［ランファ］：頭が痛い、痛いぃぃっ！
 [Lanhua]: It hurts, my head hurrrts!
 //［宏治］：わかったよ、じゃあオレはそれを、どうやって使用していた？
-[Kouji]: All right already, so then how should I use this?
+[Kouji]: All right already, so how did I use it?
 //［ランファ］：あ、それだったら。
 [Lanhua]: Ah, if it's that...
 //［宏治］：わかる？
@@ -205,9 +205,9 @@ s0303a
 //［宏治］：いや、もしかしたら変なカプセルの中にいた、赤毛の女の子？
 [Kouji]: Um, could it be that she was the redhead girl in　　the strange capsule?
 //［ランファ］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
-[Lanhua]: Yes, that's right. That capsule itself is part of the Galactic Pirate...
+[Lanhua]: Yes, that's right. That capsule itself is part of the Galactic Pirate Co...
 //［ランファ］：コウジ様の事ですぅ。
-[Lanhua]: So you want to know about Kohji-sama?
+[Lanhua]: It has to do with Kohji-sama.
 //［宏治］：オレ？
 [Kouji]: Me?
 //［ランファ］：はいっ。
@@ -279,7 +279,7 @@ s0303a
 //［トレイシー］：私、心の底からコウジ様のことをご心配申し上げて‥‥。
 [Tracy]: From the bottom of my heart, I've been worried　　　about you, Kohji-sama...
 //［ランファ］：ハイハイ、雑音は消さないとねっ。
-[Lanhua]: All right, I've got to go calm down that commotion
+[Lanhua]: Alright, alright. Time to get rid of the annoying chatter.
 //［ランファ］：何かあったら、ベッド傍らのコンパネを利用して下さい。もう飛んでやって来ますからっ！
 [Lanhua]: If you need anything, please use that control　　　panel by the bed. Gotta fly now!
 //［ランファ］：じゃ、また来ますねっ。
