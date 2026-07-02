@@ -3,7 +3,7 @@ s0111
 //惑星は、暗く、じめじめとした場所だった‥‥。
 The planet was a damp, dark place...
 //ちょうど、夜の側に入ってしまったからだろうが、全体的に暗く、湿度が高い。
-We just entered the night side, so it was entirely dark, butstill warm.
+We just entered the night side, so it was entirely dark, thehumidity was high.
 //砂漠と見間違うほど、あたり一面に砂丘が広がっていた。砂丘のあちこちから、何かの建造物とおぼしい遺跡が突出しているのが確認できる。
 As if we had mistakenly entered a desert, one side of our　 surroundings was covered by a wide sand dune. All around thesand dune, we could make out some sort of buildings and odd ruins sticking out.
 //［コウジ］：（かつての文明のレベルは、それほど低くは無かったのかもしれないが‥‥。）
@@ -31,7 +31,7 @@ As I squeezed my eyes shut, I blindly groped around for my  gun. I couldn't find
 //彼女がそれを奪い返し、私に向けるのは、想像に難くなく、おまけに私は身体がしびれて、しばらく動くことすらままならなかった‥‥。
 It wasn't hard to imagine her snatching it back and pointingit at me. On top of that, my body had gone numb, I couldn't even move for a while...
 //［コウジ］：（どうやら、ここまでかな‥‥。）
-[Kohji]: (What do I do here...)
+[Kohji]: (Looks like this is the end for me...)
 //覚悟を決めて、目を開けてみると‥‥‥‥。
 I slowly opened my eyes...
 //［コウジ］：ふ、ファル‥‥‥‥。
@@ -43,7 +43,7 @@ Far made a somewhat apologetic expression as she helped me  up. Our faces ended 
 //［コウジ］：べ、別にその‥‥こっちこそ、ゴメン。
 [Kohji]: No, not really...I'm sorry, too.
 //［ファル］：いつまでも銃を突きつけられてるのって、ストレス溜まるのよね。
-[Far]: I guess if you're repeatedly hit with a gun, you'll  accumulate stress.
+[Far]: I guess if you're held hostage with a gun pointed at you, you'll accumulate stress.
 //ファルはクスっと笑みをこぼしながら、傍らの手で銃を弄んでいた。少し心臓の動悸が速くなる。
 Far let out a giggle and played with the gun in her hand. Myheart beat a bit faster.
 //［ファル］：あら、少し恐怖の色が出たわね‥‥フフ、安心して。
@@ -71,7 +71,7 @@ Far glanced around. From the cloudy sky above us, rain　　　started pitter-pa
 //［ファル］：どうするの、これから‥‥。
 [Far]: What do we do from here....
 //［コウジ］：どうするもこうするも‥‥私は行くために、ここへ降りてきたんだ。
-[Kohji]: What to do, what to do ... I came down here to go  somewhere.
+[Kohji]: No matter what... I'm here so I can keep going.
 //［ファル］：私も一緒に行くわ。
 [Far]: I'm coming, too.
 //［コウジ］：いや、これはどうやら私自身の問題らしい‥‥１人で行かせて欲しいんだ。
@@ -79,11 +79,11 @@ Far glanced around. From the cloudy sky above us, rain　　　started pitter-pa
 //［コウジ］：頼む‥‥。
 [Kohji]: Please...
 //［ファル］：わかったわ‥‥でも、気を付けなさい。銃は？
-[Far]: I understand...but please, take care. Your gun?
+[Far]: I understand... but please, take care. Your gun?
 //差し出された銃を私は押し返す。これから行くところは、恐らく銃など不要な気がしたのだ。
-I took back the gun she presented. I had a feeling I　　　　wouldn't need it where I was going.
+I refused the gun she handed me. I had a feeling I wouldn't need it where I was going.
 //［コウジ］：気持ちだけ、ありがたく受け取っておくよ。
-[Kohji]: Thanks, if only for the feeling of comfort.
+[Kohji]: Thanks, I appreciate the gesture.
 //［ファル］：ここで待っているわ。
 [Far]: I'll be waiting here.
 //［コウジ］：帰ってこないかも、しれないよ。

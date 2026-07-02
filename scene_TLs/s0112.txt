@@ -17,7 +17,7 @@ As I suddenly stopped to look to my side, I noticed what　　looked like a ladd
 //構造的な建設ができるということは、意外に文明が、栄えていたのかもしれない‥‥。
 If they were capable of structural construction, the　　　　previous civilization must have been quite cultured and　　 prosperous ...
 //［コウジ］：（上の階には、いったい何があるんだろう‥‥。）
-[Kohji]: (What could there be in the layer above?)
+[Kohji]: (What could there be in the floor above?)
 //塵や埃、ツタ系の植物が鬱蒼と生い茂っていて、足場の確認がかなり困難だった。ライトを持ってこなかったことを、少しだけ後悔する。
 In the dust, the ivy was densely overgrown, and it was　　　difficult to get a good foothold. I slightly regretted not  bringing a light.
 //もっとも目の前の苦難は、私の好奇心を負かす事ができなかったようだった。
@@ -39,7 +39,7 @@ The walls and floor were cracked, but I can tell that long  ago, it must have be
 //先史文明とやらの、レベルの高さという訳だろうか。
 This spoke to the high level of the previous civilization.
 //［コウジ］：（しかし、ここはどこかで‥‥‥‥。）
-[Kohji]: (But now, it's just ruined everywhere...)
+[Kohji]: (But... I've seen this place somewhere before...)
 //例の既視感覚、というやつだろうか‥‥単なる思い違いか、あるいは予知と呼ばれるものなのか‥‥。
 It might have been deja vu...or it might have been a　　　　misunderstanding, or it might have been some sort of　　　　precognition  ...
 //だが、構造的に明らかに覚えがあった。私はゆっくりと、記憶の糸を手繰りだした。
@@ -73,7 +73,7 @@ xenon_09
 //［宏治］：ここは‥‥コンピュータ・ルーム！？
 [Kouji]: This is...the computer room?!
 //重々しい稼働音が耳に響いてくる。ここは、あのコンピュータ・ルームだ。
-The heavy sound of the displaced door resonated in my ear.  That computer room was right here.
+The heavy sound of machinery operating resonated in my ears.That computer room was right here.
 //僕は‥‥‥‥。
 What on earth...
 //いったいどうしたというんだ‥‥。
@@ -97,7 +97,7 @@ meg02
 //［宏治］：ば‥‥いきなり、バカはないだろう？
 [Kouji]: Id...I'm not an idiot, am I?
 //［恵］：バカよ、あなた何故ここを出なかったの！？
-[Megumi]: You *are* an idiot, why weren't you here earlier?!
+[Megumi]: You *are* an idiot, why didn't you left this　　　place?!
 //［宏治］：そ、そんなこと言ったって‥‥‥‥。
 [Kouji]: I-if I told you all about that...
 //［恵］：バカ！　涼子先生は、あなたをマインドコントロールで洗脳しようとしていたのよ、バカ！
@@ -105,7 +105,7 @@ meg02
 //［宏治］：あ、あまりバカバカ言わないでくれよ‥‥。
 [Kouji]: Please stop calling me an idiot...
 //［恵］：このままだと、あなたは‥‥あなたは死んでしまうのよ！
-[Megumi]: If this keeps going, you...you should die!
+[Megumi]: If this keeps going, you... you'll die!
 //［宏治］：し、死ぬ‥‥！？
 [Kouji]: D-die?!
 //［恵］：そして‥‥そして、私も‥‥。
@@ -161,15 +161,15 @@ ryo01_m
 //［宏治］：そ、それって‥‥‥。
 [Kouji]: Th-then that's...
 //［涼子］：いい？　宏治クン。人間の意識というのは、実体がない。だけど、それ故にメモリーすることも可能なの。
-[Ryouko]: May I? Kouji-kun. Human consciousness doesn't　　 really exist. But then, why do humans have the ability to　 make memories?
+[Ryouko]: Listen, Kouji. Human consciousness has no physicalform. But precisely because of that, it can be stored as　　data.
 //［宏治］：実体の無いモノを、記憶？
-[Kouji]: Consciousness...doesn't really exist?
+[Kouji]: Can you store something that has no physical form?
 //［涼子］：実体が無いというのも、語弊があるわね。個体として存在しないというだけよ。
-[Ryouko]: I misspoke when I said it doesn't really exist... Rather, it doesn't exist individually.
+[Ryouko]: I misspoke when I said it doesn't have a physical form... Rather, it doesn't exist as an individual entity.
 //［涼子］：わからない？　じゃあ例えば、磁気情報などはどうかしら。
-[Ryouko]: Do you still not understand? Then for example, howdoes magnetic information work?
+[Ryouko]: Do you still not understand? Then for example, howdoes magnetic data work?
 //［宏治］：磁気‥‥情報？
-[Kouji]: Magnetic...information?
+[Kouji]: Magnetic... data?
 //［涼子］：あれは磁性体表面に、磁気の方向でデータをメモリーするだけ‥‥実体が無いと言えるんじゃないかしら。
 [Ryouko]: That means to write data into memory using　　　　magnetic orientation on the surface of a magnetic medium... There's no "real body" to speak of here, is there?
 //［涼子］：人間の意識もね、そうしたベクトル的な情報へと収束させることができたとしたら？
@@ -217,9 +217,9 @@ mai04_m
 //［宏治］：ど、どういうことだよ！？　舞さん、いったいこれは‥‥。
 [Kouji]: What's the meaning of all this?! Mai-san, what on  earth...
 //［舞］：このプロフェクタによって、私たちは人類の文明をも記憶することになる。
-[Mai]: Using this projector, we'll record all of human　　　culture.
+[Mai]: Using this projector, we'll record all of human　　　memories.
 //［宏治］：ぷ、プロジェクタ？　人類の文明？
-[Kouji]: P-projector? Human culture?
+[Kouji]: P-projector? Human memories?
 //［舞］：もうすぐ、私たちは人間という壁を１つ越えることになるわ。人間の定義自体が無意味な世界へ‥‥
 [Mai]: Very shortly, we will take one step beyond this wall called humanity. To a world where the very definition of　　humanity is meaningless...
 //［宏治］：な、何を言ってるんだよ！？
@@ -253,9 +253,9 @@ Ryouko revealed herself from the device's shadow and　　　　confronted Sayak
 //［宏治］：法務局‥‥？
 [Kouji]: Legal Affairs Bureau...?
 //［沙夜香］：私はね、内偵として派遣されていたの。涼子に疑問を持った法務局から、つまり恵さんのお父様からね。
-[Sayaka]: I was dispatched as a secretary. The Legal AffairsBureau, particularly Megumi-san's father, found Ryouko　　　suspicious.
+[Sayaka]: I was dispatched as a PI. The Legal AffairsBureau,particularly Megumi-san's father, found Ryouko suspicious.
 //［宏治］：恵の‥‥法務局？‥‥
-[Kouji]: Megumi's...Legal Affairs?
+[Kouji]: Megumi's... Legal Affairs?
 //はっ！
  Ha-!
 //［宏治］：（そういえば、沙夜香さんの連絡先に‥‥‥‥。）
@@ -271,7 +271,7 @@ Ryouko revealed herself from the device's shadow and　　　　confronted Sayak
 //［沙夜香］：なんですって！？
 [Sayaka]: What did you just say?!
 //［涼子］：重核中性子爆弾の使用が、いかなる結果をもたらすか、あなた達は考えたことがないの？
-[Ryouko]: Are you people really planning to use heavy　　　 neutron bombs to attain any goal?
+[Ryouko]: Have you ever considered what using heavy neutron bombs would lead to?
 //［沙夜香］：あるわ、この一触即発の現状を、打開してくれる正義の雷としてね。
 [Sayaka]: Of course. It's the righteous thunder that will　 smash open this volatile status quo.
 //［涼子］：愚かな女性ね‥‥‥‥。
@@ -291,7 +291,7 @@ Sayaka pulled a handgun from her bosom and pointed straight at Ryouko. She looke
 //［宏治］：舞さん‥‥。
 [Kouji]: Mai-san...
 //［舞］：宏治サン、説明をしても信じてもらえるか、わからなかった‥‥。
-[Mai]: Kouji-san, I didn't know that you trusted me to　　　explain this to you...
+[Mai]: I didn't know whether you'd believe me even if I　　 explained.
 //［舞］：だから‥‥ごめんなさい。
 [Mai]: So...I'm sorry.
 //［舞］：でも、宏治サンはきっと理解してくれる、きっと‥‥‥‥。
@@ -359,15 +359,15 @@ xenon_10
 //［コウジ］：そう、人類の全てが死に絶えてから‥‥。
 [Kohji]: Yes, when the human race went extinct...
 //［ランファ］：地球時間で、ちょうど６千と１２年ほどです。
-[Lanhua]: By earth time, between about six thousand to　　　twelve thousand years.
+[Lanhua]: By earth time, about 6.012 years ago.
 //［コウジ］：６千年か‥‥長いようで、短かったな‥‥。
 [Kohji]: Six thousand years...It feels long, but it passed  so quickly...
 //［コウジ］：君と、君の姉さんは、重核中性子爆弾による人類の滅亡を予期していた。
 [Kohji]: You and your big sister anticipated the heavy　　　neutron bombs that wiped out humanity.
 //［ランファ］：はい。ですが人類の種は滅びても、その記憶だけは残しておきたかった‥‥。
-[Lanhua]: Yes. However, humanity's seeds were wiped out, so only the memories remained...
+[Lanhua]: Yes. Even in the event of humanity becoming　　　 extinct, we wanted at least to preserve its memories.
 //［コウジ］：そう‥‥そうだった。
-[Kohji]: I...I see.
+[Kohji]: I... I see.
 //［ランファ］：だから、マインド・コントロールという軍要請の当初の計画を変更し、サイバープロジェクタとして‥‥。
 [Lanhua]: Because of that, the military's initial plan of　 mind control was changed to a cyberprojector...
 //［コウジ］：人間の意識を、機械の中へと投影した‥‥。
@@ -379,7 +379,7 @@ xenon_10
 //［ランファ］：はい、私たちは人類の終焉を見てもなお、生き続けた。いえ、記憶を残し続けた、メモリーの中に‥‥。
 [Lanhua]: Yes, even after we witnessed the end of humanity, we lived on. No, we carried our consciousnesses on, in our  memories...
 //［コウジ］：こうして、思念を実体化させ、様々な事をやってきたんだ。
-[Kohji]: In this way, through realization of your thoughts, you did a lot of things, didn't you.
+[Kohji]: In this way, by giving form to consciousness, you  did a lot of things, didn't you.
 //［ランファ］：そしてそれは、もうすぐ成就するのです。
 [Lanhua]: And after that, we will soon fulfill our purposes.
 //［コウジ］：そうだったね‥‥ごめんよ、忘れてしまって‥‥。
@@ -389,7 +389,7 @@ xenon_10
 //［ランファ］：はい‥‥。
 [Lanhua]: Yes...
 //［コウジ］：だから、証拠となるＭＤを再生しようとしたとき、無意識の排斥が働いたのだろう。自分自身、ＭＤから遠ざかりたかった。
-[Kohji]: Therefore, when I played that micro disc serving asevidence, that caused an exclusion of my unconscious. I　　 myself was taken far away from the micro disc.
+[Kohji]: So, when I tried to play the micro disc that servedas evidence, an unconscious rejection kicked in. I must havebeen trying to distance myself from it.
 //［ランファ］：でも、メモリーが物理的に破損していたというのも事実です。
 [Lanhua]: However, it's true that the memory was physically corrupted.
 //［ランファ］：あのとき、沙夜香さんの撃った銃弾が、運悪くあなたのメモリーの一部を破損させてしまいました。
@@ -407,21 +407,21 @@ xenon_10
 //［ランファ］：はい。本当に、良かったですね‥‥。
 [Lanhua]: Yes. It's truly a blessing...
 //［コウジ］：‥‥上にいるファルたちは、どうするんだい？
-[Kohji]: ...What do you plan to do about Far and company　　above us?
+[Kohji]: ...What are you going to do about Far and the　　　others up there?
 //［ランファ］：あの異星の方々は、私たち人類の文明を、単なる興味と利権のみの対象でしか、見ていなかった‥‥。
-[Lanhua]: I saw that those aliens showed only unadulterated curiosity in our human culture...
+[Lanhua]: Those aliens *gazing at Far* only ever saw human  civilization as an object of curiosity and self-interest...
 //［コウジ］：前回と前々回の彼らには、穏便に退場願ったけどね。
-[Kohji]: You asked the last two teams to peacefully leave,  didn't you?
+[Kohji]: But you let the ones from the previous two visits  leave peacefully.
 //［ランファ］：ええ‥‥でも、ファルたちは違うような気がします。
-[Lanhua]: Yes...However, I feel that Far and company are　　different.
+[Lanhua]: Yes... But I have a feeling Far and the others aredifferent.
 //［コウジ］：あぁ、確かに心に暖かさを感じた‥‥。
-[Kohji]: Ah, I certainly felt a kind of warmth...
+[Kohji]: Ah, I really did feel a kind of warmth in my heart...
 //［ランファ］：フフ、ちょっぴりやけちゃいました。
-[Lanhua]: Hehe, I heated up for just a bit.
+[Lanhua]: Hehe, I got just a teensy bit jealous.
 //［ランファ］：でも、もう行ってしまわれました‥‥。
 [Lanhua]: However, they've already gone...
 //［コウジ］：また、記憶を？
-[Kohji]: Are you talking about the consciousnesses?
+[Kohji]: Are you messing with the memories again?
 //［ランファ］：はい、でも今度再びやって来たときには‥‥‥‥。
 [Lanhua]: Yes, but this time, when they came......
 //［コウジ］：なぁ、我々はあとどのくらい、生きていられるんだろうね。
@@ -429,7 +429,7 @@ xenon_10
 //［ランファ］：生きる、というのは正確ではありません。
 [Lanhua]: To "live" isn't the right way to phrase it.
 //［コウジ］：そうだったな‥‥あとどのくらい、稼働していられるのかな。
-[Kohji]: That's true...  how much longer do we have to move around?
+[Kohji]: That's true...  how much longer we will remain　　 operational?
 //［ランファ］：概算ですが、超伝導原子力電池の蓄電量は、あと２千年ほどです‥‥。
 [Lanhua]: I'd estimate our superconducting nuclear powered  batteries will last us about two thousand years...
 //［コウジ］：２千年か‥‥‥‥。
@@ -437,7 +437,7 @@ xenon_10
 //私はもう一度、あたりを見回してみた。あと２千年、か‥‥‥‥。
 I looked around me once more. The next two thousand years,  huh...
 //「長いようで、短い時間だ‥‥‥‥。」
-"How long that short time seems..."
+"A time that seems long, yet is short..."
 //「はい‥‥‥‥。」
 "Yes......"
 //「また、２人きりになってしまったね。」
@@ -455,7 +455,7 @@ I walked to one corner of the room and looked back at her.
 //「ファルたちには、感謝しなくちゃなんないね。」
 "Shouldn't we thank Far and company?"
 //「ええ、後は‥‥‥‥。」
-"Yes, in about..."
+"All that's left is..."
 //「１０か月？」
 "Ten months?"
 //「クスッ、そうですね‥‥。」
@@ -471,7 +471,7 @@ I walked to one corner of the room and looked back at her.
 //「眠って夢でもみよう。人間が再び、繁栄することを思いながら‥‥。」
 "Sleep, and enter a dream. Think of humanity rising up once more..."
 //もう夢を見ても大丈夫だろう‥‥懐かしいあの頃の‥‥‥‥。
-It's fine to enter the dream already...that embarrassing　　time...
+It's fine to enter the dream already... those nostalgic days...
 //私は再び、傍らに置いてあった試験管を見る‥‥。
 Once more, I looked at the test tube next to me...
 //そこには私と舞の‥‥人類の唯一の種が、眠っているのだ‥‥‥‥。

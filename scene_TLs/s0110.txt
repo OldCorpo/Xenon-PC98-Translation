@@ -7,7 +7,7 @@ With some kind of sound, I came back to reality. It was the sound of the automat
 //［コウジ］：（誰か、いたのか‥‥‥‥？）
 [Kohji]: (Who's there...?)
 //今し方、自動ドアから去っていく女性の残像が、まだ目に焼き付いていた。あれは確か‥‥。
-This time, the afterimage of the woman who went through the door was still burned into my eyes. It was definitely...
+The afterimage of the woman who went through the door was　 still burned into my eyes. It was definitely...
 //［コウジ］：（ランファ‥‥？）
 [Kohji]: (Lanhua...?)
 //傍らの時計を見てみる。まだあれから、数分しか経過していないようだった。
@@ -27,7 +27,7 @@ With that in mind, I changed into the clothes next to me,　 and stood in front 
 //［コウジ］：（ロックが解除されてる‥‥。）
 [Kohji]: (The lock is open....)
 //やはり、今までここに彼女がいたのだろうか‥‥‥‥。
-Up until now, has she really has been here...?
+So, she really was here just now...?
 //そんな疑問を抱きつつ、私は自室を出ていった‥‥。
 As I held onto that doubt, I left my room....
 //室内にいた方が、いいかもしれない‥‥。
@@ -67,7 +67,7 @@ As I looked at her standing figure from the shadows, I felt a little bit of nost
 //［ランファ］：コウジさんが悲しそうな顔をするの、耐えられない‥‥。
 [Lanhua]: when you make that sad face, I can't bear it.
 //［コウジ］：君には、嫌われているのかと思っていたよ。
-[Kohji]: You must really hate it.
+[Kohji]: I thought you hated me.
 //［ランファ］：そんなこと‥‥。
 [Lanhua]: That's....
 //ランファは首を横に振って否定した。
@@ -83,7 +83,7 @@ xenon_22
 //ランファは唇をそっと、私のそれに押しつけてきた。柔らかく暖かい感触に、少し気持ちが落ちつく気がした‥‥。
 Lanhua gently placed her lips on mine. The soft, warm touch slightly calmed me down...
 //遠慮がちに蠢く彼女の舌が、私の口腔に差し込まれてくる。幼い顔をしているが、することは大胆だった。
-She unreservedly put her wriggling tongue in my mouth. She  looked innocent, but was doing something quite bold.
+She timidly put her wriggling tongue in my mouth. Outwards, she looks quite innocent, but was doing something quite bold
 //私は彼女を抱き抱えると、そっとベッドに横たえた‥‥。
 I hugged her close, and gently laid down on the bed...
 //ra02
@@ -247,9 +247,9 @@ As a spark went off in my head, I felt Lanhua's presence　　strongly...
 //［コウジ］：な、なぁ、ランファ‥‥。
 [Kohji]: H-hey, Lanhua....
 //おかしなものだが、彼女をより知ってしまった途端、以前ほど気さくに話しかけられなくなっていた。何故か、先程のことを強く意識してしまう。
-Strangely, before I could get to know her better, the　　　 earlier honest tone of the conversation had gone. For some  reason, I became quite conscious of our relations just now.
+Now that I'd gotten to know her better, I found myself　　　unable to speak to her as casually as before. For some　　　reason, I became quite conscious of our relation just now.
 //ランファの方は、別段今までと変わった感じはあまり無い。それがかえって、自分にとって面白くはなかった。
-My feelings towards Lanhua, however, hadn't changed at all. To the contrary, she wasn't very interesting to me.
+My feelings towards Lanhua, however, hadn't changed at all. Which made me feel awkward.
 //［ランファ］：なんでしょうか？　コウジさん。
 [Lanhua]: What is it? Kohji-san.
 //［コウジ］：このあいだ、確か第２次調査隊シップの中で、夢を思い出せと言っただろう‥‥。
@@ -291,11 +291,11 @@ Lanhua pointed in front of her at the micro disc playback　 device already plug
 //［ランファ］：どうなさったのですか？
 [Lanhua]: Did something happen?
 //［コウジ］：い、いや‥‥見るよ。
-[Kohji]: No...look.
+[Kohji]: N-no... I'll watch it.
 //この心のしこりはなんだろうか‥‥。私の無意識下では、盛んに警報が鳴っていた。
 What was this lump in my chest...  before I realized it, an active alarm was ringing.
 //ＭＤを再生しては、いけない‥‥？
-Will I be unable to play back the micro disc, after all...?
+Shouldn't I play the micro disc, after all...?
 //トレイに乗ったＭＤが、再生装置に吸い込まれる時、私は居てもたってもいられない強迫観念に襲われてきた。
 As the playback machine swallowed the micro disc on the trayI was gripped by the overwhelming feeling that I wouldn't beable to stay.
 //再生が始まった‥‥。
@@ -329,7 +329,7 @@ I looked up from the display towards Lanhua. She was still  staring blankly at t
 //［ランファ］：コウジさん、現実を見つめて下さい。そして、夢を夢と認識して下さい‥‥。
 [Lanhua]: Kohji-san, get a grip on reality. Then, start　　 recognizing dreams as dreams...
 //［ランファ］：コウジさんは、もうすでに記憶が戻っているはずです。
-[Lanhua]: Your memories will come back soon.
+[Lanhua]: Your memories should already have returned.
 //［コウジ］：ど、どういうことだ‥‥？
 [Kohji]: Wh-what do you mean...?
 //［ランファ］：コウジさん自身が、現実から逃れようとしているのです。
@@ -369,7 +369,7 @@ I became unable to understand what she was saying...
 //ファルはゆっくりと私に近づいてくる。
 Far slowly approached me.
 //［ファル］：私に、コレを使わせないで。
-[Far]: Please don't use this on me.
+[Far]: Please, don't make me use this.
 //コレと言いながら、ファルは腰に吊ってある銃をポンと１回叩いた。表情はかなり厳しい‥‥本気だ。
 As she said "this", Far pulled out a gun hanging from her　 hip and patted it once. Her expression was quite grave...　 she's serious.
 //［コウジ］：わかった、ファル‥‥だけど、１つだけ聞かせて欲しいんだ。
@@ -377,7 +377,7 @@ As she said "this", Far pulled out a gun hanging from her　 hip and patted it o
 //［コウジ］：ランファのことだ。
 [Kohji]: It's about Lanhua.
 //ランファには、不可解な部分が多すぎる。私には、彼女が何らかの情報を得ているのではないかと、ほとんど確信に近い自信を持っていた。
-There were too many things about Lanhua I didn't understand.She didn't tell me about the various situations at all, and held a near-absolute self-confidence.
+There were too many things about Lanhua I didn't understand.I was almost certain that she had obtained some kind of　　 information.
 //そして、例のマイクロ・ディスクに関する事も。
 Besides, there was the issue about the micro disc, too.
 //だが、意に反してファルの口から出た言葉は‥‥‥‥。
@@ -411,7 +411,7 @@ I pushed my hands on Far's shoulders and shook her. She gaveme a terrified look.
 //［ファル］：こ、コウジ‥‥。
 [Far]: K-Kohji...
 //私はほとんど叫ぶようにして、断言した。私自身、断言したかった‥‥。
-I was mostly shouting, but I stopped talking. I, myself,　　stopped talking...
+I practically shouted it. I wanted to convince even myself  ...
 //彼女の腰のホルスターから銃を抜くと、さっと身体を離す。突然の事だったので、ファルは唖然として見ていた。
 I pulled the gun out of her hip holster, and suddenly let goof her. The sudden act stunned Far.
 //［ファル］：ば、バカな真似はよして、コウジ。
@@ -421,7 +421,7 @@ I pulled the gun out of her hip holster, and suddenly let goof her. The sudden a
 //［ファル］：コウジ、落ちついて頂戴‥‥。
 [Far]: Kohji, please calm down... 
 //［ファル］：今あなたには焦りの色しか見えない‥‥深呼吸をして、落ちつきなさい。
-[Far]: Right now, you're a panicked color...breathe in deep,and calm down.
+[Far]: Right now, you're in a panicked color... breathe in  deep, and calm down.
 //［コウジ］：‥‥ランファの事はもういい。１つ教えてくれ。
 [Kohji]: ...I won't press you further about Lanhua. Please  tell me one thing, though.
 //［ファル］：な、なに？
@@ -482,7 +482,7 @@ She may have thought my tale had yet to begin. Far stopped  talking and silently
 //私は、ランファが現実にいたと信じている。いや、信じたかった‥‥。
 I believe Lanhua really existed in this reality. No, I　　　wanted to believe...
 //だが、私以外の全ての人間が、それを否定したら‥‥本当にそれが現実だと言えるのだろうか。
-But if I deny the existence of everyone except myself...Can I really call that reality?
+But if everyone except me denied it...Can I really call thatreality?
 //そしてそのとき、唯一の現実でさえ、否定されてしまうんじゃないか‥‥？
 And then, even that singular reality can be denied, can't it...? 
 //ドアの前へやってくると、ファルは私の方を振り向いた。
@@ -530,7 +530,7 @@ Far stared at me for a while, but she turned her heels,　　 opened the door to
 //［ファル］：さあねって‥‥コウジ‥‥。
 [Far]: "Well" what?...Kohji...
 //［コウジ］：自分で言うのもなんだけど、そう言うほかはないんだよ。
-[Kohji]: You've already said it to me, and there's no other way to say it.
+It sounds odd coming from me, but that's really all I can　 say.
 //［コウジ］：（そう、惑星に降りてどうなるか、自分でもわかっちゃいない‥‥。）
 [Kohji]: (Right, I haven't really figured out what to do　　once I've descended onto the planet...)
 //［コウジ］：（でも、何かを得ることが出来るかもしれないんだ‥‥。）
@@ -602,4 +602,4 @@ Far turned around to the front and was silent once more...
 //ここまで行き違いが進行していると、些細な事はもうどうでもよくなってくる。
 Up until now, I'd made mistakes, but these trivialities　　 didn't matter anymore.
 //私はそう考えると、足を伸ばし、シートにぐっともたれ掛かった。惑星エイレートはもう、目の前にまで迫っている‥‥。
-With this in mind, I stretched my legs and laid down on the sheet. The planet Eilat was within reach...
+With this in mind, I stretched my legs and sank back into　 the shuttle's seat. The planet Eilat was within reach...
