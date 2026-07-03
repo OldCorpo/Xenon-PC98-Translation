@@ -149,7 +149,7 @@ I thought a little about it. I had the feeling I tried to　 figure out why ther
 //［宏治］：‥‥？
 [Kouji]: ...?
 //［涼子］：そう宏治クンが思った、ということが大事なのよ。
-[Kouji]: What matters is that _you_ thought it was a　　　　hospital room.
+[Ryouko]: What matters is that _you_ thought it was a　　　 hospital room.
 //［宏治］：そんなものですか‥‥。
 [Kouji]: Is that so...?
 //［涼子］：そんなものよ。

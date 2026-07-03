@@ -95,7 +95,7 @@ In an instant, the surroundings became still and quiet.
 //しかし静寂は長くは続かなかった。透き通った声が、あたりに響きわたった。
 But it didn't last for long. A crisp, clear voice echoed　　nearby.
 //［女の声］：ここにいたのね‥‥‥‥。
-[Woman's voice]: So it came from here....
+[Woman's voice]: So this is where you were...
 //fa_bast
 fa_bast
 //［私］：あっ‥‥き、君は‥‥‥‥。
@@ -213,7 +213,7 @@ Letting out a smile, Far pointed to the silver plate on my  chest.
 //［私］：あっ‥‥ネームプレート‥‥？
 [Me]: Huh? A nametag?
 //いま気付いたが、私はかなりラフな姿をしていたらしい。素肌にシャツ、薄手のズボン、しかも素足だった。
-I had only just realized, but my outfit was quite sparse. A nearly see-through shirt, light trousers and no footwear.
+I had only just realized, but my outfit was quite sparse.　 Just a shirt, light trousers and no footwear.
 //薄いシャツの胸部分には、確かにネームプレートが付いていた。自重により、少し下へ垂れ下がっている。
 There was, indeed, a nametag on the breast of this thin　　 shirt. It was hanging down by its own weight.
 //そこには、確かにコウジと記してある。どうやら、コウジというのが私の名前らしかった。
@@ -257,7 +257,7 @@ Kohji...?
 //［ファル］：あら、何を教えてほしいの？
 [Far]: Oh? What do you want me to tell you?
 //彼女は質問を受けて当惑する教師、という感じだった。
-She sounded like a teacher gotten perplex by a sudden　　　　question.
+She looked like a teacher puzzled by a student's question.
 //やや怪訝そうな表情をしているファルに対峙して、私は、足下を指さしながら、
 Facing a puzzled Far, with a finger pointed at the ground, Isaid:
 //［コウジ］：ここさ。
@@ -279,7 +279,7 @@ Sighing deeply, Far shrugged.
 //少し、切なげな表情を私に向けると、ゆっくりと口を開き始めた。
 Turning a somewhat pained face towards me, she slowly openedher mouth.
 //［ファル］：ここはね‥‥‥‥。
-[Far]: You know, we are inside...
+[Far]: Just here...
 //ピーピッ、ピーピッ‥‥。
 *beep* *beep*
 //壁に埋め込まれているコンソールパネルが鳴り出した。硬い電子音が、あたりの空気をピリピリと振動させる。
@@ -442,11 +442,11 @@ In the monitor, a blonde girl was smiling. Her smile didn't seem very natural, b
 //［コウジ］：い、いや‥‥少し、休んでいたけどね。
 [Kohji]: W-well, I was resting for a bit.
 //［女］：これから、そちらへ伺おうかと思っているのですが、構わないでしょうか？
-[Girl]: I was thinking of visiting that place from here. Youdon't mind, do you?
+[Girl]: I was thinking of coming over there now. You don't  mind, do you?
 //［コウジ］：えっ？　これから？
-[Kohji]: Huh? From here?
+[Kohji]: Huh? Right now?
 //［女］：差し支えるのなら、また後ほどにしますが。
-[Girl]: If you don't mind, I'll see you later.
+[Girl]: If it's inconvenient, I can come back later.
 //意外に低い物腰に、さきほどの疑惑が、ずいぶんと馬鹿馬鹿しいものに思えてくる。
 Seeing her genuinely humble behavior, I felt really dumb　　about my doubts just now.
 //モニターの中の女性は、笑みを崩さず、じっと私の返答を待っている。
@@ -484,7 +484,7 @@ to_bast
 //［コウジ］：あ、あなたは‥‥？
 [Kohji]: And y-you are?
 //［女］：私はトレイシー‥‥あなたのお世話を、仰せつかっていますわ。
-[Girl]: I'm Tracy...We just spoke earlier.
+[Girl]: I'm Tracy... I've been assigned to look after of you
 //トレイシーと名乗る目の前の女性は、首をちょっとだけ傾けて、ニコリと微笑んだ。
 The girl named Tracy in front of me slightly tilted her headto one side and smiled curiously at me.
 //鮮やかな金髪だった。かき上げるとサラサラと音がする、そんな感じだ。
@@ -520,7 +520,7 @@ With those quick movements, I felt truly better.
 //どうも、話が呑み込めなかった‥‥。
 Somehow, I didn't quite believe her.
 //さきほどファルは、『調査隊』という言葉を使用していた。学術調査員、ということだろうか。
-Earlier, Far described herself as an "surveyor". Perhaps　　more of an academic investigator.
+Earlier, Far used the term "investigative team." I wonder ifshe meant a scientific research expedition.
 //そして‥‥‥‥。
 And then...
 //そして、唯一の生き残りが、この私だと‥‥‥‥。
@@ -570,7 +570,7 @@ She seemed somewhat panicked.
 //［コウジ］：磁気嵐、という話だったけど、大丈夫なのかい？
 [Kohji]: Far mentioned a stellar magnetic storm. Will we be OK?
 //［トレイシー］：はい、少しシップを恒星から浮上させることになりますが‥‥。
-[Tracy]: Yes, something floated onto the ship from the star.
+[Tracy]: Yes, we'll move the ship a little farther away fromthe star.
 //［コウジ］：浮上、ね‥‥。
 [Kohji]: Floated up...
 //上も下もない宇宙空間で使うには、不適当な気もするが、恐らく慣習的なものなのかもしれない。
@@ -596,11 +596,11 @@ Once again, I was wrapped in silence.
 //室温はかなり低く、あれほど暑かったのがウソのようだ‥‥。
 The room temperature was so low, the little warmth I felt　 seemed like a lie...
 //　◆ 部屋に閉じこもっていてもしょうがない。出てみよう。
-◆ We're not doing much shut up in this room. Let's leave.
+◆ No use staying cooped up in here. Let's go outside.
 //　◆ 少し、休んだ方がいいかもしれない。
 ◆ Let's rest a little.
 //部屋に閉じこもっていてもしょうがない。室外に出てみよう。
-We're not doing much shut up in this room. Let's leave.
+No use staying cooped up in here. Let's go outside.
 //そう思うと、私はドアのそばまで歩いていった。歩きながら、少し考え事をしてみる‥‥。
 As I thought that, I walked to the door and thought about　 more matters...
 //しかし、分かっているのは自分の名前と、この場所、だけだった。
@@ -726,9 +726,9 @@ As I thought that, I looked closer to the equipment...
 //やはり、自室に戻った方がいいかも知れない。
 It might be best to return to my room.
 //うかつに歩き回ると、何を言われるかわからないしな‥‥。
-I don't know what to say when I walk around...
+If I wander around carelessly, I don’t know what the crew　 might say...
 //素性の知れない人間に、自由にさせるほど彼女らは寛容ではないだろう。
-Around an amnesiac, those women wouldn't let themselves act so freely.
+Those women probably wouldn’t be so lenient as to allow an  unknown person roam freely.
 //少なくとも、私はそうだった。
 At least, I acted that way.
 //そう考えると、私は自室へときびすを返した。
@@ -806,9 +806,9 @@ That was an odd question to ask. It was hard to take in.
 //［コウジ］：私は‥‥‥‥。
 [Kohji]: I...
 //そういえば、最近はいつ眠ったのだろうか‥‥。
-Come to think of it, I have been sleeping a lot recently,　 haven't I?
+Come to think of it, when was the last time I slept?
 //思い出せない‥‥私はいつ‥‥‥‥。
-I can't remember it...I was always...
+I can't remember... When did I...
 //［ランファ］：コウジさん‥‥‥‥。
 [Lanhua]: Kohji-san....
 //［コウジ］：な、なんだい？

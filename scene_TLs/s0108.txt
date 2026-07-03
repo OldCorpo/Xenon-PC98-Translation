@@ -15,27 +15,27 @@ to01
 //to01_m
 to01_m
 //［トレイシー］：お気づきに、なられましたか？
-[Tracy]: Have I woken you?
+[Tracy]: You're awake?
 //どうやら、私が寝ている間、彼女が看病をしていたらしかった。
-It seemed that, as I was sleeping, she was tending to my　　sickness.
+Apparently, she'd been taking care of me while I was asleep.
 //［コウジ］：君が‥‥？
-[Kouji]: You've been...?
+[Kouji]: You...?
 //［トレイシー］：ええ。
 [Tracy]: Yes.
 //トレイシーはニコッと微笑むと、私の目の前で足を組み替えた。少し焦ってしまう。
-As Tracy smiled sweetly in front of me, she recrossed her　 legs. I was slightly annoyed.
+As Tracy smiled sweetly in front of me, she recrossed her　 legs. I became a bit embarrassed.
 //彼女は、私の身体にかかっているシーツを整えながら、
 As she arranged the sheets covering my body, she said,
 //［トレイシー］：ここは私たちのシップです、安心して下さい。
 [Tracy]: Relax, please, this is our ship.
 //［コウジ］：私は、いったい‥‥‥‥。
-[Kouji]: What on earth did I....
+[Kouji]: What on earth happened...
 //［トレイシー］：覚えていないのですか？
-[Tracy]: Have you remembered?
+[Tracy]: You don't remember?
 //［コウジ］：残念ながら、記憶がはっきりとしないんだ‥‥。
-[Kouji]: Unfortunately, my memory is unclear...
+[Kouji]: I'm afraid my memory's still hazy...
 //これは事実だった。確か私は、例のシップの中でランファと話をしていて‥‥。
-This was a fact. I was definitely last on a ship talking to Lanhua...
+That was true. The last thing I could remember was talking  with Lanhua aboard the ship...
 //それからどうしたのか、あまりよく覚えていなかった。
 Whatever happened after that, I don't remember.
 //［コウジ］：そうだ、例のシップはどうなったんだい？
@@ -57,7 +57,7 @@ Whatever happened after that, I don't remember.
 //［コウジ］：定時連絡システムか‥‥‥‥。
 [Kouji]: The regular communications system, huh...
 //［トレイシー］：幸い、プロフェッサがあなたを見つけられたのは、幸運でした。
-[Tracy]: Fortunately, the professor found you. It was a signof good luck.
+[Tracy]: Fortunately, the professor found you. It was a　　 stroke of good luck.
 //［コウジ］：そうかもね‥‥ランファは？
 [Kouji]: That might be true...anyway, what happened to　　　Lanhua?
 //［トレイシー］：ランファ‥‥？
@@ -65,7 +65,7 @@ Whatever happened after that, I don't remember.
 //［コウジ］：そうだよ、ランファはどうしたんだ。
 [Kouji]: Yeah, how is Lanhua doing?
 //［トレイシー］：ランファは‥‥私と一緒に、ここへ残っていましたけど‥‥。
-[Tracy]: Lanhua had...remained here with me...
+[Tracy]: Lanhua had... stayed here with me...
 //［コウジ］：じょ、冗談はよしてくれ。私は、彼女と話しているときに‥‥。
 [Kouji]: Lay off the jokes, will you. I was talking to her  at the time...
 //［トレイシー］：冗談ではありません。彼女は、私と一緒にコンソールオペレートをしていました。
@@ -89,7 +89,7 @@ No, this situation is the same as before......
 //［コウジ］：夢で見ていたことが現実になる事って、あると思うかい？
 [Kouji]: Do you think there have been cases where something seen in a dream becomes reality?
 //［トレイシー］：さぁ、どうでしょう。パラ・サイコロジーの観点からですと、それは予知とカテゴライズされると思いますが。
-[Tracy]: What about it? From the perspective of　　　　　　　parapsychology, I'd say that's categorized as a form of　　 precognition.
+[Tracy]: Hmm... who knows?. From the perspective of　　　　 parapsychology, I'd say that's categorized as a form of　　 precognition.
 //［コウジ］：予知、か‥‥。
 [Kouji]: Precognition....
 //［トレイシー］：予知をしても、それを忘れている場合があるのです。
@@ -107,17 +107,17 @@ No, this situation is the same as before......
 //［トレイシー］：それは‥‥数学的確率論であらわされる性質のものでは、無いと思いますが。
 [Tracy]: As to that...in terms of a mathematical property　 representable by probability theory, I don't think that　　 exists.
 //［コウジ］：概算で構わないさ。敢えて算出するとすれば、だよ。勘でも構わない。
-[Kouji]: Estimation doesn't matter. Even if you could　　　 estimate it, that is. Instinct doesn't matter, either.
+[Kouji]: It doesn't have to be exact. If you had to work it out, what would you say? Even a guess is fine.
 //［トレイシー］：可能性、というパラフレーズが許されるのであれば‥‥。
-[Tracy]: The probability, if you'll allow me to paraphrase  ....
+[Tracy]: If you'll allow me to express it in terms of　　　 probability...
 //［トレイシー］：十分にあり得ると思います。
 [Tracy]: I think it's quite possible it exists.
 //［コウジ］：夢と現実を見分ける方法は？
 [Kouji]: What about a way to differentiate dreams from　　　reality?
 //［トレイシー］：残念ながら、ありません。
-[Tracy]: I'm sorry, but that doesn't exist.
+[Tracy]: I'm afraid there isn't one.
 //［コウジ］：よくある例の方法は？　ほら、夢の中で頬をつねってみるとか‥‥。
-[Kouji]: Aren't there already a few example ways, though?　 Like, pinching someone's cheek if they're dreaming...
+[Kouji]: What about the usual methods? Like pinching your　 cheek in a dream...
 //［トレイシー］：夢の中でも感覚器や知覚が働くことは、証明されています。ですから、その方法は無理だと思います。
 [Tracy]: It has been confirmed that in a dream, your senses and perceptions are working. For that reason, I don't think that method will work.
 //［コウジ］：じゃあ、どうすればいいのさ。
@@ -141,7 +141,7 @@ No, this situation is the same as before......
 //［コウジ］：ファルの‥‥。
 [Kouji]: Far's....
 //［トレイシー］：自分という存在に確信が持てないのは、むしろ当然だって、彼女はいつも言ってましたわ。
-[Tracy]: "It's quite natural to have no way of confirming myown existence," was something she used to say.
+[Tracy]: "It's only natural not to be certain of your own　 existence." was something she used to say.
 //［コウジ］：むしろ当然、か‥‥‥‥。
 [Kouji]: "It's quite natural", huh...
 //私は腕を頭の後ろで組むと、天井をじっと見つめた。
@@ -165,39 +165,39 @@ As I glanced around the room, I found it. Next to the　　　 terminal, there w
 //トレイシーは、横にあったサイドテーブルから、水が満たされたグラスを私に手渡した。
 Tracy pulled a full glass of water from the coffee table　　beside her and handed it to me.
 //［コウジ］：いや、水ではなくて‥‥んー、そうだな。
-[Kouji]: Well, maybe not water...hm, oh yeah.
+[Kouji]: Well, maybe not water... hmm, let's see.
 //怪訝そうに私を見つめるトレイシーを、いかに煙に巻こうかと考えていると、ベッド脇のコンパネが鳴り出した。
-As Tracy looked at me suspiciously, pondering how I was　　 deceiving her, the control panel by the bed started ringing.
+As Tracy stared at me with suspicion, I was wondering how I could talk my way out of it, when the console beside the bedstarted beeping.
 //ピーピッ‥‥ピーピッ。
 *beeeep*...*beeeeep*
 //［トレイシー］：ブリッジからだわ‥‥‥‥。
 [Tracy]: It's coming from the bridge....
 //［トレイシー］：はい、なんでしょうか？
-[Tracy]: Hello, what's the matter?
+[Tracy]: Yes, how may I help you?
 //［ファル］：トレイシー、そこにいる？
 [Far]: Tracy, are you there?
 //［トレイシー］：はい、どうかなさいましたか？
-[Tracy]: Yes, how do you do?
+[Tracy]: Yes, is something wrong?
 //［ファル］：コウジは‥‥？
 [Far]: What about Kouji...?
 //［トレイシー］：ここにいますが‥‥。
 [Tracy]: He's here, too....
 //［ファル］：磁気嵐が去って、本部と連絡が取れるようになったわ。
-[Far]: The magnetic storm has left, so I could communicate  with HQ again.
+[Far]: The magnetic storm has left, so I can communicate　　with HQ again.
 //［トレイシー］：それはよかったですね。
 [Tracy]: That's good to hear.
 //［ファル］：至急、ブリッジにあがって欲しいの。
 [Far]: Could you please come to the bridge, quickly?
 //［トレイシー］：どうなさったんですか？　プロフェッサ‥‥お顔の色がすぐれませんけど‥‥。
-[Tracy]: What is the matter? Professor...you look unwell...
+[Tracy]: What is the matter? Professor... you look unwell...
 //［ファル］：すぐに来て頂戴。
 [Far]: Please come at once.
 //［トレイシー］：どうしたのかしら‥‥。
 [Tracy]: What has happened...?
 //［コウジ］：行ってきたら？　もう大丈夫だから‥‥。
-[Kouji]: Do you have to go? Will it be OK...?
+[Kouji]: Why don't you go? I'll be fine.
 //［トレイシー］：そうですか‥‥では、しばらくしたら、また戻ってきますね。
-[Tracy]: It could be...well, if it's only for a moment, I'llreturn.
+[Tracy]: Very well... I'll come back shortly.
 //そう言い残すと、トレイシーは部屋からいそいそと出ていってしまった‥‥。
 With those words, Tracy left the room hurriedly....
 //［コウジ］：（しかし、ファル‥‥何だか、様子が変だったけど‥‥。）
@@ -205,7 +205,7 @@ With those words, Tracy left the room hurriedly....
 //［コウジ］：（まあ、いいさ。）
 [Kouji]: (Well, it's probably fine.)
 //さっそく胸ポケットから、映像記録用のＭＤを取り出す。端末横の再生装置に入れようとすると、
-I immediately took out the micro disc from my chest pocket. I placed it into the playback device next to the terminal.
+I immediately took out the micro disc from my chest pocket. As I was about to insert it into the playback device next tothe terminal,
 //［コウジ］：（電源が、来ていないじゃないか‥‥。）
 [Kouji]: (There's no power here....)
 //［コウジ］：（どうしたらいいんだろうか‥‥。）
@@ -215,9 +215,9 @@ I immediately took out the micro disc from my chest pocket. I placed it into the
 //これは意外に悪くない考えに思えた。私は脇にあった着替えに袖を通すと、ドアへ向かっていった。
 I thought this wasn't a bad idea, so I put on the change of clothes next to me and headed out the door.
 //こういう時の私は、どうやら直情的らしい‥‥。
-At the time, I was pretty straightforward...
+Apparently, I tend to act impulsively in situations like　　this...
 //［コウジ］：（さてと、このＭＤを再生できる機械は‥‥‥‥。）
-[Kouji]: (Well, then, where should I find another device to play this recorder back?)
+[Kouji]: (Well, then, where I can find another device that  can play this micro disc back?)
 //　◆ ファルに聞いてみよう。
 ◆ Let's see if Far's room has one.
 //　◆ 格納庫にあったような気が‥‥。
@@ -263,7 +263,7 @@ She seems fine....
 //私は、イジェクトボタンを押すと、機械的な音とともにトレイが出てきた。
 I pressed the eject button, and with a mechanical sound, thetray slid out.
 //私は、それにＭＤを乗せると、再生ボタンを押そうとした。そのとき‥‥。
-I placed the disc in, and pushed the button again. Right　　then....
+I placed the disc in, and pushed the play button. Right then...
 //［コウジ］：な、何だ‥‥どうしたんだ‥‥！？
 [Kouji]: What....what's going on?!
 //上を見上げてみる。電灯に異常はないようだが‥‥‥‥。
@@ -291,9 +291,9 @@ Everything around me seems to be going white....
 //［コウジ］：（白昼夢‥‥？）
 [Kouji]: (A daydream...?)
 //私は頭を２、３度横にふると、気を取り直してＭＤ再生機に向きなおった。ディスプレイはＲＥＡＤＹ表示をしたままだ。
-As I shook my head twice or thrice, I turned my attention tothe repaired recorder playback machine. The display read　　"READY".
+As I shook my head twice or thrice, I turned my attention　 back to the playback machine. The display reads "READY".
 //［コウジ］：ＭＤの再生が先だろう‥‥
-[Kouji]: The recorder playback comes first...
+[Kouji]: The micro disc playback comes first...
 //あっ！！
 Ah!!
 //目の前のトレイには、ＭＤが乗ってはいなかった。どこへ行ったんだ！？
@@ -307,11 +307,11 @@ During that brief daydream, I must have flung the micro discout of here by mista
 //小さなディスクだから‥‥隙間などに入り込んだら、見つけだすのが困難だろう。
 Because it's such a small disc...if it got stuck in a gap,  getting it out will be hard.
 //そう思って、身を屈めたとき‥‥‥‥。
-With that in mind, I rose to my feet....
+With that in mind, I crouched down...
 //［女の声］：あんた、誰だい？
 [Woman's voice]: And who might you be?
 //［コウジ］：えっ‥‥‥‥。
-[Kouji]: Uhh......
+[Kouji]: Uhh...
 //bi_bast
 bi_bast
 //bi_ba_b
@@ -343,7 +343,7 @@ It seemed the "second ship" was just an abbreviation for　　"second investigat
 //［コウジ］：いちいちリアクションが大きいな、君は‥‥。
 [Kouji]: You're being quite dramatic....
 //［ビアンカ］：あんたがいたんじゃ、このサードシップも先が長くないわね‥‥。
-[Bianca]: If you're here, you weren't on the third ship for very long, were you....
+[Bianca]: If you're here, then this third ship won't last　 long either...
 //［コウジ］：私のことを、知っているのか？
 [Kouji]: Do you know about me?
 //［ビアンカ］：知っているも何も‥‥あんたは、第２次調査隊を全滅させた、張本人じゃないのさ！
@@ -391,7 +391,7 @@ I shouted quite shrilly, because Far's comment really　　　 shocked me.
 //無論、顔写真もね、とファルはつけ加えた。
 "Of course, I checked the profile photos, too," Far added.
 //しばし、呆然としていたかも知れない。第２次調査隊の一員、という立場が、今の私を辛うじて納得させていた要因だった。
-I was stunned, probably for a while. Up until now, they wereonly barely convinced I was a member of the second　　　　　investigative team.
+I was stunned, probably for a while. My position as a memberof the Second Investigation Team was the only thing that　　still barely made sense of my situation.
 //しかしその存在すら否定された今‥‥‥‥私は、いったい誰なんだ？
 But now, that existence has been denied...Then, who even am I?
 //［ファル］：コウジ、あなたは一体、何者なの‥‥。
@@ -403,13 +403,13 @@ Who the hell am I...?
 //静かな部屋だった‥‥。
 The room was silent....
 //ここは私の部屋で、１人しかいない私が押し黙っているのだから、静かに決まっている。
-In this room, only I have stayed silent this whole time, so I'll keep quiet.
+Since I'm the only one here, and I'm not saying a word, the room eerily is quiet.
 //他の人たちは、私の今後の対処、という議題で、どうやら議論を交わしている真っ最中なのだろう。
 The others seem to be in the middle of discussing how to　　handle me from now on (that is to say, their agenda).
 //ドアにはハードウェア的にロックされていて、外には出られないようになっていた。
 The door seemed to have a hardware-based lock, so I probablycan't leave anymore.
 //私は手を頭の後ろで組んで、天井をぼーっと見つめる。議論は、私自身の中で、既に散々なされていた。
-I put my arms behind my head and stared at the ceiling. It  seemed controversy had become thoroughly embedded in my verybeing.
+I put my arms behind my head and stared at the ceiling. I'd already argued this over and over with myself countless　　 times.
 //［コウジ］：自分は一体、誰なのか‥‥。
 [Kouji]: Just who the hell am I....
 //私はもう何度めかになる自問を、繰り返した。

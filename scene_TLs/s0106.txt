@@ -385,9 +385,9 @@ From then, we exchanged no words. I seemed to be included,  but...
 //ファルは私に、ヘルメットのようなものを手渡しながら、説明をしている。
 Far handed me a helmet-like thing and explained it to me.
 //一時的な酸素不足などに、対処するだけのものらしい。宇宙空間に放り出されたら、無論どうしようもない。
-This device was only to be used in times of insufficient　　oxygen. As it would be released into outer space, I had to  be careful with it.
+This device was only to be used in times of insufficient　　oxygen. If you're thrown into open space, of course it won't save you.
 //ま、言ってみれば気休めみたいなものだった。
-Well, put that way, it was only there to ease our minds.
+In other words, it was little more than a psychological　　 relief.
 //［ファル］：じゃ、私が操縦するから、２人は後部座席に座って頂戴。
 [Far]: Well then, I'll be maneuvering, so you two should sitin the back seat.
 //［コウジ］：あぁ‥‥。
@@ -411,9 +411,9 @@ As I looked at that,
 //［コウジ］：いや、何でもないんだ‥‥。
 [Kohji]: No, don't worry about it...
 //［ファル］：変な人ね。
-[Far]: She's kind of strange.
+[Far]: You're a strange person.
 //ファルは私のことを怪訝そうに見ていたが、すぐに自分の仕事にとりかかった。
-Far gave me a mysterious look, but soon returned to the taskat hand.
+Far looked at me with a puzzled expression, but soon　　　　returned to the task at  hand.
 //コクピットに乗り込み、シャトル発信に備えている。
 As she got into the cockpit, she prepared the shuttle for　 liftoff.
 //それにしても‥‥。
@@ -513,7 +513,7 @@ I was silent for a bit as I got out of that narrow cockpit  ...
 //ブリッジへ行ってみよう‥‥。
 Let's go to the bridge...
 //確か、ブリッジにはファルがいるはずだ。少し、彼女と話してみたい気がする。
-Far should definitely be at the bridge. I want to talk to　 her about something.
+Far should definitely be at the bridge. I feel like talking to her for a bit.
 //船内マップはすでに記憶してあった。私は厚い格納庫のドアをあけると、ブリッジへの通路を進み始めた。
 I quickly remembered the ship's interior map. I opened the  heavy hangar door and headed down the passage to the bridge.
 //あたりはシンと静まり返っている。私の靴の音だけが、あたりに響きわたっていた‥‥。
