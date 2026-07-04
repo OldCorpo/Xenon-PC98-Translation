@@ -501,7 +501,7 @@ The girl named Lanhua roughly installed the wiring beside　　her using the too
 //［オレ］：‥‥‥‥‥‥。
 [Me]: .......
 //［ランファ］：ふぅ‥‥終わりました！
-[Lanhua]: Hooo...All done!
+[Lanhua]: Wohooo...All done!
 //そうだ確か、尻のポケットに‥‥‥‥あった。
 That's right, in my back pocket...there it is.
 //［オレ］：ランファ、おいで。

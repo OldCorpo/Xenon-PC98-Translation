@@ -137,7 +137,7 @@ s0302b
 //［トレイシー］：はい。なんでしょうか？
 [Tracy]: Yes, what is it?
 //［宏治］：その、それって何の冗談？
-[Kouji]: I-is that your idea of a joke?
+[Kouji]: I-Is that your idea of a joke?
 //［トレイシー］：冗談？　私、冗談とイカの頭は嫌いですの。コウジ様、知ってらっしゃるはずでしょう？
 [Tracy]: Joke? I have no use for a joke like that.　　　　　Kohji-sama, you should know that, shouldn’t you?
 //［宏治］：じゃあ何かい、ここはその、《クワドラ》とやらいう宇宙船の中で、もしかして宇宙空間中に浮かんでいるとか？
@@ -430,7 +430,7 @@ Once more, I definitely heard that strange sound from the　　nearby door...
 //　◆ 左へ曲がってみようか‥‥。
 ◆ Let's turn left....
 //　◆ 手前左の方から、異音が聞こえてくるようだが‥‥。
-◆ Let's turn left and listen closely to that strange sound‥‥
+◆ Let's turn left and listen closely to that strange sound.
 //　◆ ＶＩＰルームに行ってみよう。
 ◆ Let's go to the VIP room.
 //ＶＩＰルームとやらに、行ってみよう。

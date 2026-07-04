@@ -387,14 +387,14 @@ s0301a
 //［ランファ］：あっ、コウジ様ぁ、気分はどうですか？
 [Lanhua]: Ah-, Kohji-sama, how do you feel?
 //［ランファ］：そんなぁ、できませんっ。
-[Lanhua]: Come on, I can't do that.
+[Lanhua]: Sorry, I can't do that.
 //［宏治］：ふぅ‥‥まぁいい。とにかく、身体を起こしてくれない？
-[Kouji]: Huu...well, fine. In any case, could you please getup?
+[Kouji]: Huu...well. In any case, can you please help me to stand up?
 //［ランファ］：はーい、わかりましたっ。
-[Lanhua]: Ye-s, I understand.
+[Lanhua]: Okaaay, I get it!
 //［ランファ］：ウフッ、コウジ様っ。
-[Lanhua]: Oof, Kohji-sama.
+[Lanhua]: Hehe... Kohji-sama!
 //［宏治］：んー、じゃあ、とりあえず話を聞きたいんだけど。
-[Kouji]: Mm-, well, anyway, I have something to ask you. 
+[Kouji]: Mm-, I have something to ask you. 
 //［ランファ］：はい、何を話したらいいんでしょうか。
 [Lanhua]: Yes, ask away.

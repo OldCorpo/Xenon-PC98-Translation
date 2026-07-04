@@ -17,7 +17,7 @@ s0303a
 //［宏治］：い、いやなんというか、記憶が混乱していて‥‥いや記憶は混乱してないんだけど、状況に混乱していてね。
 [Kouji]: Th-that's putting it too harshly, my memories have been muddled up...well, not my memories, more like the　　　entire situation.
 //［ランファ］：よくわからないですけど、ランファが誰かってことですね？
-[Lanhua]: I don't understand what you mean, but do you mean who am I?
+[Lanhua]: I don't understand what you mean, but you mean who am I?
 //［宏治］：そ、そう。（さっきから、そう言ってるんだけど‥‥。）
 [Kouji]: Yes, that's it. (I said that just earlier...)
 //［ランファ］：私はぁ‥‥。
@@ -25,7 +25,7 @@ s0303a
 //［ランファ］：コウジ様の心の恋人、なんですぅ！
 [Lanhua]: Kohji-sama's romantic partner, of course!
 //［ランファ］：きゃっ、今のは冗談ですからね。本当は、コウジ様をお慕いするランファなんですぅ。
-[Lanhua]: Kya-, I was just joking. In truth, I only pine forKouji-sama.
+[Lanhua]: Kya-, I was just joking. In truth, I'm someone whodeeply adores Kohji-sama.
 //［ランファ］：ここは、コウジ様と愛を育むための、ベッドの上なんですぅ。
 [Lanhua]: This is the bed where I nurture love with　　　　　Kohji-sama.
 //［宏治］：あ、あのね‥‥場所だよ、もっと大きな意味での場所。
@@ -39,7 +39,7 @@ s0303a
 //［ランファ］：ですから、ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
 [Lanhua]: I'm telling you, it's the fruit of our mutual loveKohji-sama.
 //［宏治］：あっそう。
-[Kouji]: Oh, I see.
+[Kouji]: I see.
 //［ランファ］：はい！
 [Lanhua]: Yes!!!
 //［宏治］：トレイシーって女性だけど、いったいどういう人？
@@ -129,7 +129,7 @@ s0303a
 //［ランファ］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
 [Lanhua]: It's 52 meters long, the engine runs on ethereal  photon energy, and the craft is fitted with hyperdrive　　　capabilities...
 //［ランファ］：火器は、な、なんとイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など、一発よっ！
-[Lanhua]: The armaments include 3 ion cannons and two photonblasters, which would take out a run-of-the-mill cruiser in asingle hit!
+[Lanhua]: The armaments include 3 ion cannons and two photonblasters, which would take out a run-of-the-mill cruiser in a single hit!
 //［ランファ］：最大搭乗員数は２０人、でもフルオートのエンジンや航行機能などで、最低３人にまで削減することが可能なのっ。
 [Lanhua]: The maximum capacity is 20 crew, but, because it  has a full-auto engines and self-flight capabilities, as fewas 3 people can run the whole thing.
 //［ランファ］：その他にも、タキオンを利用したハイパーウェイブ通信機能など、あぁ、何て可愛らしい子なのかしらっ。

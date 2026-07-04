@@ -359,7 +359,7 @@ xenon_10
 //［コウジ］：そう、人類の全てが死に絶えてから‥‥。
 [Kohji]: Yes, when the human race went extinct...
 //［ランファ］：地球時間で、ちょうど６千と１２年ほどです。
-[Lanhua]: By earth time, about 6.012 years ago.
+[Lanhua]: By earth time, about 6012 years ago.
 //［コウジ］：６千年か‥‥長いようで、短かったな‥‥。
 [Kohji]: Six thousand years...It feels long, but it passed  so quickly...
 //［コウジ］：君と、君の姉さんは、重核中性子爆弾による人類の滅亡を予期していた。
@@ -377,23 +377,23 @@ xenon_10
 //［コウジ］：人間の持つパーソナリティ‥‥人格をも、電子頭脳へと投影した‥‥。
 [Kohji]: Humanity's personalities...their psyches, were　　 projected into electronic brains...
 //［ランファ］：はい、私たちは人類の終焉を見てもなお、生き続けた。いえ、記憶を残し続けた、メモリーの中に‥‥。
-[Lanhua]: Yes, even after we witnessed the end of humanity, we lived on. No, we carried our consciousnesses on, in our  memories...
+[Lanhua]: Yes, even after we witnessed the end of humanity, we lived on. No... rather, our memories lived on, stored in memory...
 //［コウジ］：こうして、思念を実体化させ、様々な事をやってきたんだ。
 [Kohji]: In this way, by giving form to consciousness, you  did a lot of things, didn't you.
 //［ランファ］：そしてそれは、もうすぐ成就するのです。
-[Lanhua]: And after that, we will soon fulfill our purposes.
+[Lanhua]: And soon, everything will be fulfilled.
 //［コウジ］：そうだったね‥‥ごめんよ、忘れてしまって‥‥。
-[Kohji]: So that's how it was...Sorry, I forgot...
+[Kohji]: So that's how it was... Sorry, I ended up　　　　　forgetting...
 //［コウジ］：今にして思えば、私はこの現状から逃避したかったのかもしれない。懐かしい昔のあの時へと‥‥。
-[Kohji]: If I think about that right now, I might escape　　from reality. Towards that nostalgic distant past...
+[Kohji]: Looking back now, perhaps I wanted to escape from  reality, back to those nostalgic days of the distant past...
 //［ランファ］：はい‥‥。
 [Lanhua]: Yes...
 //［コウジ］：だから、証拠となるＭＤを再生しようとしたとき、無意識の排斥が働いたのだろう。自分自身、ＭＤから遠ざかりたかった。
-[Kohji]: So, when I tried to play the micro disc that servedas evidence, an unconscious rejection kicked in. I must havebeen trying to distance myself from it.
+[Kohji]: So, when I tried to play the micro disc that servedas evidence, an unconscious rejection must kicked in. I musthave been trying to distance myself from it.
 //［ランファ］：でも、メモリーが物理的に破損していたというのも事実です。
 [Lanhua]: However, it's true that the memory was physically corrupted.
 //［ランファ］：あのとき、沙夜香さんの撃った銃弾が、運悪くあなたのメモリーの一部を破損させてしまいました。
-[Lanhua]: At that time, Sayaka-san's bullet unfortunately　 corrupted part of your memory.
+[Lanhua]: At that time, the bullet Sayaka-san fired　　　　 unfortunately corrupted part of your memory.
 //［コウジ］：そうだった。メモリーは所々が欠損していて、記憶違いが物理的に起きていたんだ‥‥。
 [Kohji]: Yes, that's what happened. I lost parts of my　　　memory, and memory gaps physically appeared in there...
 //［ランファ］：私は、それを気付かせるために、色々な示唆をしました。あなたのメモリーへとアクセスして‥‥。
@@ -415,15 +415,15 @@ xenon_10
 //［ランファ］：ええ‥‥でも、ファルたちは違うような気がします。
 [Lanhua]: Yes... But I have a feeling Far and the others aredifferent.
 //［コウジ］：あぁ、確かに心に暖かさを感じた‥‥。
-[Kohji]: Ah, I really did feel a kind of warmth in my heart...
+[Kohji]: Ah, I really did feel a kind of warmth in my heart ...
 //［ランファ］：フフ、ちょっぴりやけちゃいました。
 [Lanhua]: Hehe, I got just a teensy bit jealous.
 //［ランファ］：でも、もう行ってしまわれました‥‥。
-[Lanhua]: However, they've already gone...
+[Lanhua]: But, they've already gone...
 //［コウジ］：また、記憶を？
 [Kohji]: Are you messing with the memories again?
 //［ランファ］：はい、でも今度再びやって来たときには‥‥‥‥。
-[Lanhua]: Yes, but this time, when they came......
+[Lanhua]: Yes... but next time, when they come again...
 //［コウジ］：なぁ、我々はあとどのくらい、生きていられるんだろうね。
 [Kohji]: Hey, how much longer do we have to live here?
 //［ランファ］：生きる、というのは正確ではありません。
@@ -453,7 +453,7 @@ I walked to one corner of the room and looked back at her.
 //「はい、外の放射能反応は、ほぼゼロになりました。それに必要な機材が、手に入りましたから‥‥。」
 "The radioactivity outside has become almost zero. We have  the necessary materials as well, so..."
 //「ファルたちには、感謝しなくちゃなんないね。」
-"Shouldn't we thank Far and company?"
+"Shouldn't we thank Far and the others?"
 //「ええ、後は‥‥‥‥。」
 "All that's left is..."
 //「１０か月？」

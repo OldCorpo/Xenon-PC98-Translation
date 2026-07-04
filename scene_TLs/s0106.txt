@@ -411,7 +411,7 @@ As I looked at that,
 //［コウジ］：いや、何でもないんだ‥‥。
 [Kohji]: No, don't worry about it...
 //［ファル］：変な人ね。
-[Far]: You're a strange person.
+[Far]: You're a strange man.
 //ファルは私のことを怪訝そうに見ていたが、すぐに自分の仕事にとりかかった。
 Far looked at me with a puzzled expression, but soon　　　　returned to the task at  hand.
 //コクピットに乗り込み、シャトル発信に備えている。
