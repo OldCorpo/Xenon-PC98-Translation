@@ -385,7 +385,7 @@ From then, we exchanged no words. I seemed to be included,  but...
 //ファルは私に、ヘルメットのようなものを手渡しながら、説明をしている。
 Far handed me a helmet-like thing and explained it to me.
 //一時的な酸素不足などに、対処するだけのものらしい。宇宙空間に放り出されたら、無論どうしようもない。
-This device was only to be used in times of insufficient　　oxygen. If you're thrown into open space, of course it won't save you.
+This device was only to be used in times of insufficient　　oxygen. If you're thrown into open space, of course it won'tsave you.
 //ま、言ってみれば気休めみたいなものだった。
 In other words, it was little more than a psychological　　 relief.
 //［ファル］：じゃ、私が操縦するから、２人は後部座席に座って頂戴。
@@ -617,35 +617,35 @@ But then, what was she doing in the lower part of the engine...?
 //そんな風に納得をすると、私はその疑問を記憶の片隅へと追いやってしまった。次に思い浮かんだ疑問を呈示する。
 As I accepted what she told me, I suppressed some　　　　　　uncertainty in the back of my mind. Next time, I'll bring　 that matter to light.
 //［コウジ］：誰か、人はいたかい？
-[Kohji]: Was anyone hurt there?
+[Kouji]: Was anyone there?
 //［ランファ］：いいえ、残念ながら‥‥。
 [Lanhua]: No, I'm afraid not...
 //［コウジ］：こっちも、さっぱりさ。
 [Kohji]: I didn't find anyone, either.
 //［コウジ］：な、なぁランファ、この間の‥‥。
-[Kohji]: Hey, Lanhua, in all this time...
+[Kouji]: H-hey, Lanhua, about the other day...
 //［ランファ］：では、もう少し私は調べてみます。コウジさんは、どうされるのですか？
-[Lanhua]: Well, I'll be investigating here for a bit longer.Kohji-san, is something the matter?
+[Lanhua]: Well, I'll be investigating a bit more. What will you do, Kohji-san?
 //［コウジ］：えっ？　あぁそうだね、もう一度、まわってみるかな‥‥。
 [Kohji]: Eh? Ahh, I guess I'll look around this place one　 more time...
 //［ランファ］：そうですか、それでは。
-[Lanhua]: Well, then, I'll get to it.
+[Lanhua]: I see... if you excuse me...
 //［コウジ］：あっ‥‥‥‥。
-[Kohji]: Ah......
+[Kohji]: Oh...
 //［コウジ］：（せっかちな子だな‥‥。）
-[Kohji]: (What an impatient girl...)
+[Kohji]: (She sure is abrupt...)
 //［コウジ］：（もしかすると、はぐらかされたのかも‥‥。）
-[Kohji]: (Maybe she's strayed from the path...)
+[Kohji]: (Maybe she was evading my question...)
 //ランファはさっさと私をおいて行ってしまった‥‥どうも、私を避けているような、そんな気もする。
-Lanhua quickly left me alone...she seems to be avoiding me.
+Lanhua quickly left me alone... she seems to be avoiding me.
 //［コウジ］：さてと、これからどうしようか‥‥。
-[Kohji]: Now, then, what do I do from here...
+[Kohji]: Well then, what should I do now...
 //いや、もう少し調べてみた方がいいだろう。
-No, let's investigate here for a while longer.
+I'd better investigate a little bit longer.
 //手すりに掌を乗せながら、ゆっくりと歩いてみる。ヒンヤリとした感触が、心地よかった。
 I grabbed onto the handrail and slowly walked down. The coldtouch soothed my mood.
 //［コウジ］：（しかし、それにしても‥‥‥‥。）
-[Kohji]: (Still, in any case...)
+[Kohji]: (Still...)
 //大きなエンジンだった。重い振動が、ここまでピリピリと伝わってくる。
 There was a large engine. I could hear the forceful　　　　　vibrations all the way from here.
 //ずっと下にも続いているようだが‥‥
@@ -695,7 +695,7 @@ It might be because of some steam or vapor that was　　　　　generated from
 //［コウジ］：（な、なんだ‥‥‥‥。）
 [Kohji]: (Wh-what is that...)
 //何か金属的な音が、あたりに響きわたった。何かを床に落としたような、そんな音だ。
-Some metallic sound echoed around me. It sounded like　　　 something fell onto a bed.
+Some metallic sound echoed around me. It sounded like　　　 something falling onto the floor.
 //［コウジ］：（誰か‥‥いるのか？　ランファ？）
 [Kohji]: (Is someone there? Lanhua?)
 //私が、音のした方へ行ってみると‥‥‥‥。
@@ -705,7 +705,7 @@ ra06
 //［コウジ］：（ランファ‥‥何をしているんだろう‥‥？）
 [Kohji]: (Lanhua...What is she doing...?)
 //いくつかの工作器具が床にちらばっていた。修理か何かを、しているんだろうか‥‥。
-A number of pieces of equipment were scattered on the bed.  She might have been fixing something...
+A number of pieces of equipment were scattered on the floor.She might have been fixing something...
 //別に隠れる必要も感じなかったので、私はごく普通に声を掛けてみた。
 I didn't feel the need to hide, so I called out in a casual tone.
 //［コウジ］：ランファ。

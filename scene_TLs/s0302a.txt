@@ -55,13 +55,13 @@ As I laughed openly, I punched my fist indiscriminately intothe black shining wa
 //頬を伝う涙の感触を感じながら、オレはコブシを抱えてうずくまった。痛いぞ、これは‥‥無茶苦茶、痛い。
 As I felt the tears streaming down my face, I covered my　　throbbing fist. It hurts, this is...really quite painful.
 //［トレイシー］：こ、コウジ様‥‥大変だわ、ちょっとお待ちになって下さいね。あっ、怪我した方の手に、触らないようお願いします！
-[Tracy]: K-Kohji-sama...this is bad, please wait right thereAh-, please don't touch your hurt hand!
+[Tracy]: K-Kohji-sama...this is bad, please wait right thereAh-, please don't touch your injured hand!
 //トレイシーが部屋の隅にある戸棚を開けて、何かをゴソゴソと捜している間、オレは真っ赤に腫れ上がったコブシをさすりながら、ボーっと窓の外を見ていた。
 Tracy opened a cabinet in the corner of the room. As she　　rustled about searching for something, I rubbed my red　　　swollen fist as I looked out the window.
 //痛い‥‥‥‥。
 It hurts....
 //オレのコブシは、焼けヒバシを当てたくらい熱を帯びていた。痛覚はもはや麻痺し、熱くジンジンとした動悸だけが伝わってくる。
-My fist stung as though it had touched a hot fireplace pokerI was becoming numb to the pain, and only the tingling,　　　throbbing heat remained.
+My fist burned as if I'd pressed it against a red-hot fire  poker. The pain had already gone numb, leaving only a hot,  tingling throb.
 //本当にここは、宇宙‥‥？
 Am I really in space...?
 //いやまさか、そんな非科学的な。夢だ。そうだ、コブシを痛めるという夢を見ている最中なのだ、オレは。
@@ -103,13 +103,13 @@ It was only an expression of gratitude, but her conduct　　　suggested things
 //［宏治］：（何か、話題、話題と‥‥。）
 [Kouji]: (What was I going to talk about...?)
 //　◆ ファルネリアとかいう女性は‥‥。
-◆ About that Farnelia woman....
+◆ About that Farneria woman....
 //　◆ ランファは、いまどこにいるのかな‥‥。
 ◆ Where could Lanhua be....
 //　◆ んじゃ、そういうことで。
 ◆ Mm, well, let's wrap this up.
 //［宏治］：そ、そうだトレイシー。ファルネリアとかいう女性は、どうなったんだい？
-[Kouji]: Oh yeah, Tracy. What's happened to that Farnelia　　woman?
+[Kouji]: Oh yeah, Tracy. What's happened to that Farneria　　woman?
 //［トレイシー］：自室におられますが‥‥それが、なにか？
 [Tracy]: She returned to her room...what about it?
 //［宏治］：自室って？
@@ -335,9 +335,9 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //　◆ ランファは、ここで何を‥‥‥‥。
 ◆ What is Lanhua doing here...?
 //　◆ ファルネリアって女性は‥‥‥‥。
-◆ Where's that Farnelia woman...?
+◆ Where's that Farneria woman...?
 //［宏治］：そういえば、ファルネリアって女性は？
-[Kouji]: Oh yeah, where's that Farnelia woman?
+[Kouji]: Oh yeah, where's that Farneria woman?
 //［ランファ］：ＶＩＰルームですけど‥‥でも、気を付けて下さい。
 [Lanhua]: She's in the VIP room, but...please, be careful.
 //［宏治］：なにを？
@@ -359,7 +359,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //［宏治］：み、見せなくていいってば。
 [Kouji]: A-as I said, it's ok, you don't have to show me.
 //［ランファ］：酷いんですよファルネリア様ったら‥‥寝心地が悪いとか、食事がマズいとか、もう大変なんですぅ。
-[Lanhua]: Farnelia-sama is just awful, she keeps complainingthat the sleeping conditions are bad, the food tastes　　　 terrible... it's been such a headache.
+[Lanhua]: Farneria-sama is just awful, she keeps complainingthat the sleeping conditions are bad, the food tastes　　　 terrible... it's been such a headache.
 //［宏治］：ふーん、とりあえず、会ってみたいな。
 [Kouji]: Hmmmm, anyway, it looks like I should go see her.
 //［ランファ］：もう、ガツーンと思い知らせてやって下さいっ。
@@ -373,7 +373,7 @@ As my hands gripped the cold metal, rung by rung, I　　　　　carefully clim
 //［ランファ］：はい！　コウジ様の為に、がんばっちゃいます！！
 [Lanhua]: Yes! For Kohji-sama's sake, I'll do my very best!!
 //［宏治］：（ファルネリアか‥‥どんな人なんだろ。）
-[Kouji]: (Farnelia...what kind of a person could she be?)
+[Kouji]: (Farneria...what kind of a person could she be?)
 //［宏治］：さてと、ＶＩＰルーム、だったよな。
 [Kouji]: Now, then, the VIP room, was it?
 //［宏治］：このデカブツは、一体何だ？
@@ -449,7 +449,7 @@ Huh? I did?
 //［宏治］：んー、ゴメン。何でもない。
 [Kouji]: Mm, sorry. Don't worry about it.
 //［ランファ］：クスッ、変なコウジ様っ。
-[Lanhua]: Heh, you're such a weirdo, Kohji-sama.
+[Lanhua]: Hehe, you're so funny, Kohji-sama.
 //ここは‥‥。
 Over here....
 //どうやら、このあたりは対称的な造りになっているらしい。
@@ -589,9 +589,9 @@ Using the tool in her hand, Lanhua roughly installed the　　wiring beside her.
 //［オレ］：な、なに？
 [Me]: W-what is it?
 //［ランファ］：コウジ様がここにいるということは‥‥じゃあ、今ファルネリア様は！？
-[Lanhua]: Kohji-sama, if you're here... then where is　　　　Farnelia-sama now?! 
+[Lanhua]: Kohji-sama, if you're here... then where is　　　　Farneria-sama now?! 
 //［オレ］：だ、誰？　その、ファルネリアサマって。
-[Me]: W-who's that Farnelia-sama?
+[Me]: W-who's that Farneria-sama?
 //［ランファ］：大変だわっ！
 [Lanhua]: Oh no, this is bad!
 //［オレ］：えっ、ちょっと‥‥ランファ！？
@@ -649,7 +649,7 @@ On a thick, heavy plate in front of the room before me, the words "VIP ROOM" wer
 //さっき来たときは、人が居ないようだったが‥‥もしかすると、単に無視されただけなのかもしれない。
 Just as I was coming over, it seemed to be empty, but...it  might have only seemed that way when I wasn't looking.
 //聞けば聞くほど、ファルネリアという女性は、偏屈というイメージしかわかない。賓客ならば、寝心地や食事に文句を言うなど礼を欠くにもほどがある。
-If you ask me, I get the impression that the woman named　　Farnelia is not at all unreasonable. If I were an esteemed　guest, I'd definitely complain that the accommodations were inadequate.
+If you ask me, I get the impression that the woman named　　Farneria is not at all unreasonable. If I were an esteemed　guest, I'd definitely complain that the accommodations were inadequate.
 //傍らのコンパネに手を伸ばしてみる。赤く点滅しているボタンを押そうとして、はたと手を止めた。
 I reached for the control panel beside me. As I pushed the  blinking red buttons, I suddenly stopped.
 // 　　　　　　　　　ＤＯＯＲ　ＬＯＣＫ　ＯＫ
@@ -669,7 +669,7 @@ As I looked at the plates on the doors one by one, I found  what I was looking f
 //重厚なプレートに、ＶＩＰルームと書かれた部屋の前にオレは立った。
 I stood before a room where the words "VIP ROOM" were　　　　inscribed on a nearby plate.
 //聞けば聞くほど、ファルネリアという女性は、偏屈というイメージしかわかない。賓客ならば、寝心地や食事に文句を言うなどもってのほかだ。
-If you ask me, I get the impression that the woman named　　Farnelia is not at all unreasonable. If I were an esteemed　guest, I'd probably complain that the food and shelter　　　accommodations were unreasonable.
+If you ask me, I get the impression that the woman named　　Farneria is not at all unreasonable. If I were an esteemed　guest, I'd probably complain that the food and shelter　　　accommodations were unreasonable.
 //傍らのコンパネに手を伸ばしてみる。見よう見まねだ。
 I reached for the control panel beside me. I did as the　　　others did.
 //xenon_08
@@ -693,7 +693,7 @@ The guest might be unusually cheap. Perhaps that was a　　　bigger factor tha
 //良く考えてみたら、オレの部屋とそう大差が無いことに気付いた。なーにが大宇宙海賊だよ。
 As I thought it over, I realized there were no big　　　　　differences between this and my own room. Some galactic　　　pirate that guy is.
 //改めて室内を見回してみる。人の姿は無い。しかし、外のプレートを見る限り、ファルネリアという女性がこの部屋にいるのは確かだろう。
-Once more, I surveyed the room. Not a soul was to be seen.  From the plate on the outside, this had to be the room that Farnelia woman was staying in.
+Once more, I surveyed the room. Not a soul was to be seen.  From the plate on the outside, this had to be the room that Farneria woman was staying in.
 //すると‥‥‥。
 So then...
 //まあいい、ここで待つことにしようか‥‥別に急ぎの用があるという訳でもないし‥‥。
@@ -717,7 +717,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //　◆ ランファという女性は‥‥‥‥。
 ◆ That Lanhua woman...
 //　◆ ファルネリアという女性は‥‥‥‥。
-◆ That Farnelia woman...
+◆ That Farneria woman...
 //［宏治］：ここは本当に‥‥‥‥。
 [Kouji]: In truth, here...
 //［宏治］：色々歩き回ってみて思ったが、セットにしてはやけにリアル過ぎるじゃないか。
@@ -838,7 +838,7 @@ I laid my arms on the back of the sofa and stared at the　　ceiling. I have a 
 //［宏治］：可愛いからいいか。
 [Kouji]: But it's probably fine, since she's so cute.
 //［宏治］：ファルネリアという女性は‥‥‥‥。
-[Kouji]: That Farnelia woman...
+[Kouji]: That Farneria woman...
 //そう考え始めたとき、ふとオレは彼女の部屋でくつろいでいることに気が付いた。
 As I began to think about it, I suddenly realized I was　　　relaxing in her room.
 //そうだ、ＶＩＰルームとやらは彼女の部屋で、オレはいまそこにいる訳だから‥‥。
@@ -912,7 +912,7 @@ fa04
 //［ファル］：あ、あ、あ、あなたは‥‥。
 [Far]: Y-y-y-you're...
 //［宏治］：や、やあ、君がファルネリア？
-[Kouji]: Uh, sorry, you're Farnelia?
+[Kouji]: Uh, sorry, you're Farneria?
 //［ファル］：こ、ここでなにを‥‥何をしているの！？
 [Far]: W-what are you doing...doing here?!
 //［宏治］：な、何って‥‥いやね、不可抗力というやつでさ‥‥。
@@ -1119,7 +1119,7 @@ fa02_m
 //覗きのような真似は何だし、ここで待ってみよう。
 What's with acting like I'm peeping in on something, let's  just wait here.
 //ファルネリアか‥‥どういう女性なんだろうな‥‥聞けば聞くほど、評価が下がっていくんだけど。
-Farnelia...what kind of woman is she... ? If you asked me,  I'd struggle to make an assessment.
+Farneria...what kind of woman is she... ? If you asked me,  I'd struggle to make an assessment.
 //あの、妙なカプセルの中に入っていた女性が、彼女か。いったい、何をやっていたんだろう。
 That woman in the strange capsule, was that her? What on　　earth is she doing there?
 //触媒とか、言っていなかったっけ‥‥？
@@ -1215,7 +1215,7 @@ fa03_m
 //［ファル］：お待たせ‥‥。
 [Far]: Sorry to keep you waiting...
 //［宏治］：ふぁ、ファルネリア‥‥‥。
-[Kouji]: Wah, Farnelia...
+[Kouji]: Wah, Farneria...
 //［ファル］：な、なによ‥‥。
 [Far]: Wh-what's with that reaction...
 //［宏治］：いやなに、馬子にも衣装って言葉を思い出してさ。

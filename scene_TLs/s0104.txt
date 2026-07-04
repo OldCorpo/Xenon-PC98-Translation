@@ -512,7 +512,7 @@ With those quick movements, I felt truly better.
 //［コウジ］：ぷ、プロフェッサって‥‥？
 [Kohji]: Who do you mean by "the professor"?
 //［トレイシー］：ファルネリアのことです。
-[Tracy]: I mean Professor Farnelia.
+[Tracy]: I mean Professor Farneria.
 //［コウジ］：あ、あのファルという女性が、プロフェッサ‥‥！？
 [Kohji]: Th-that Far girl was a professor?!
 //［トレイシー］：はい、そうです。

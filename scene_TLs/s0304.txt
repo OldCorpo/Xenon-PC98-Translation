@@ -329,7 +329,7 @@ to02_m
 //［宏治］：と、トレイシー‥‥。
 [Kouji]: Then, Tracy...
 //［トレイシー］：ファルネリア様を救出しに行くと、お決めになりましたよね。
-[Tracy]: We've really decided to save Farnelia-sama, haven'twe?
+[Tracy]: We've really decided to save Farneria-sama, haven'twe?
 //［トレイシー］：恐らく、コウジ様も同じ決定をなさったと思います。
 [Tracy]: I feel Kohji-sama would have done the same.
 //［トレイシー］：私には偶然とは思えません。あなたと、コウジ様が同一人物だとしても、ちっとも驚きません。
@@ -399,7 +399,7 @@ Tracy's voice was wavering. She seemed a little afraid of mywords, and stared at
 //［トレイシー］：でも、私はコウジ様も敬愛していますわ。あなたと同様に‥‥。
 [Tracy]: I feel deep respect for Kohji-sama, just as I do　 for you...
 //［トレイシー］：ファルネリア様を救出しに行くと、お決めになりました。
-[Tracy]: You've really decided to go save Farnelia-sama.
+[Tracy]: You've really decided to go save Farneria-sama.
 //［宏治］：そ、それはさぁ‥‥。
 [Kouji]: Well, um...
 //［トレイシー］：素敵な思い出を共有しないことが、私を拒否される理由ですの？

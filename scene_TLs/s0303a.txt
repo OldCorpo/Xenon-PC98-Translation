@@ -33,15 +33,15 @@ s0303a
 //［ランファ］：ここは、《クワドラ》です。
 [Lanhua]: This is the Quadra.
 //［宏治］：くわ‥‥えっ？
-[Kouji]: Kuaw...Huh?
+[Kouji]: Kua...What?
 //［ランファ］：ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
 [Lanhua]: It's the fruit of our mutual love, Kohji-sama.
 //［ランファ］：ですから、ランファとぉ、コウジ様のぉ、愛の結晶なんですぅ。
-[Lanhua]: Well, it's the fruit of our mutual love,　　　　　Kohji-sama.
+[Lanhua]: I'm telling you, it's the fruit of our mutual loveKohji-sama.
 //［宏治］：あっそう。
-[Kouji]: Ah, is that so?
+[Kouji]: Oh, I see.
 //［ランファ］：はい！
-[Lanhua]: Yes!
+[Lanhua]: Yes!!!
 //［宏治］：トレイシーって女性だけど、いったいどういう人？
 [Kouji]: Just what kind of person is that Tracy woman?
 //［ランファ］：トレイシーですか？
@@ -51,11 +51,11 @@ s0303a
 //［ランファ］：コウジ様っ！
 [Lanhua]: Kohji-sama!
 //［ランファ］：いま、何て言いましたか！？
-[Lanhua]: Just now, what did you say?!
+[Lanhua]: What did you just said?!
 //［宏治］：こ、恐い声出して、どうしたんだよ。
 [Kouji]: W-why are you shouting all of a sudden?
 //［宏治］：な、なんでしょうか。
-[Kouji]: What's the matter?
+[Kouji]: W-What is it?
 //［ランファ］：いま、何て言ったか、言って下さい！
 [Lanhua]: Please repeat what you said just now!
 //［宏治］：い、いま？
@@ -63,7 +63,7 @@ s0303a
 //［ランファ］：はいっ！
 [Lanhua]: Yes!
 //［宏治］：『いま』って言った気がするぞ。
-[Kouji]: Did "What you said just now" pique your interest?
+[Kouji]: Did "W-What is it?" piqued your interest?
 //［ランファ］：違いますぅ、トレイシーのことです！
 [Lanhua]: No, no, what you said about Tracy!
 //［宏治］：あぁ、あの眼鏡の美人が？
@@ -71,7 +71,7 @@ s0303a
 //［ランファ］：ほらぁ！！
 [Lanhua]: THAT'S EXACTLY IT!!
 //［ランファ］：もうプリプリですぅ。ランファにも、ランファにも言って下さい。
-[Lanhua]: Now you've made me mad. Call me that, too, please.
+[Lanhua]: Now I'm all jealous! Call me that, too, please.
 //［宏治］：も、もしかして、美人？
 [Kouji]: Y-you mean, beauty?
 //［ランファ］：ずるいですぅ。
@@ -109,9 +109,9 @@ s0303a
 //［ランファ］：《クワドラ》ですか？
 [Lanhua]: The Quadra?
 //［宏治］：そう。聞かない名前だけど‥‥。
-[Kouji]: Yes. I've heard the name before, but...
+[Kouji]: Yes. It's an unfamiliar name to me...
 //［宏治］：じゃなくて、ど忘れってやつかな、うん。
-[Kouji]: No, it's more like I've forgotten it, yeah.
+[Kouji]: No, it's more like I'm just drawing a blank, yeah.
 //［ランファ］：《クワドラ》は、コウジ様とランファの、愛の結晶なんですっ。
 [Lanhua]: The Quadra is the fruit of our mutual love, Kohji-sama.
 //［宏治］：あ、愛の結晶‥‥？
@@ -129,17 +129,17 @@ s0303a
 //［ランファ］：全長は５２メートル、エンジンはエーテル光子動力を利用し、ハイパードライブ機能も備えた‥‥。
 [Lanhua]: It's 52 meters long, the engine runs on ethereal  photon energy, and the craft is fitted with hyperdrive　　　capabilities...
 //［ランファ］：火器は、な、なんとイオン砲を３門、および光子ブラスターを２連、生半可な巡洋艦など、一発よっ！
-[Lanhua]: The armaments include 3 ion cannons and two photonblasters, which would take out a superficial cruiser in a　　single hit!
+[Lanhua]: The armaments include 3 ion cannons and two photonblasters, which would take out a run-of-the-mill cruiser in asingle hit!
 //［ランファ］：最大搭乗員数は２０人、でもフルオートのエンジンや航行機能などで、最低３人にまで削減することが可能なのっ。
-[Lanhua]: The maximum capacity is 20 persons, but, because  it has a full-auto engine and self-flight capabilities, as　few as 3 people can run the whole thing.
+[Lanhua]: The maximum capacity is 20 crew, but, because it  has a full-auto engines and self-flight capabilities, as fewas 3 people can run the whole thing.
 //［ランファ］：その他にも、タキオンを利用したハイパーウェイブ通信機能など、あぁ、何て可愛らしい子なのかしらっ。
-[Lanhua]: On top of all that, it has tachyon-based　　　　　hyperdrive communication capabilities, ahh, what an adorable girl she is. *blushes*
+[Lanhua]: On top of all that, it has tachyon-based　　　　　hyperwave communication capabilities, ahh, what an adorable girl she is. *blushes*
 //［宏治］：ら、ランファ。
 [Kouji]: L-Lanhua.
 //［ランファ］：はい。なんでしょうか？
 [Lanhua]: Yes, what is it?
 //［ランファ］：そうですね！　《クワドラ》は冗談って思わないと、他の海賊さんたちは、やってられないと思います。
-[Lanhua]: You have to think of it as a joke, or the other pirates couldn't live with themselves.
+[Lanhua]: You have to think of it as a joke, or the other　 pirates couldn't live with themselves.
 //［ランファ］：あたりきしゃりきの‥‥。
 [Lanhua]: That's exactly it....
 //［宏治］：‥‥もういい。
@@ -189,9 +189,9 @@ s0303a
 //［宏治］：わかる？
 [Kouji]: Do you know?
 //［ランファ］：はい。んーとですね、確かファルネリア様を触媒にするとか、言っていました。
-[Lanhua]: Yes. Mm, so it's like this: you said before that  Farnelia-sama needs to serve as a medium.
+[Lanhua]: Yes. Mm, so it's like this, you said before that  Farneria-sama needs to serve as a medium.
 //［ランファ］：確か、触媒の女性って、言っていました。
-[Lanhua]: You definitely used the term "woman medium".
+[Lanhua]: You definitely used the term "medium woman".
 //［ランファ］：ですからぁ、触媒って言ってましたよ。
 [Lanhua]: As I said, she's the medium.
 //［宏治］：なんだよ、その触媒ってさ。
@@ -229,13 +229,13 @@ s0303a
 //［ランファ］：コウジ様ぁ、机の引き出しを開けて、何をしてるんですか？
 [Lanhua]: Kohji-sama, what are you doing, opening that desk drawer?
 //［ランファ］：もうプリプリですぅ、涼子って、誰なんですか！？
-[Lanhua]: Now I'm mad, who the heck is Dr. Ryouko?!
+[Lanhua]: I'm pouting now... who is this Ryouko anyway?!
 //［宏治］：涼子は涼子先生だよ、オレの知り合いの女性で‥‥。
-[Kouji]: Dr. Ryouko is Dr. Ryouko, a woman I know...
+[Kouji]: Ryouko is Dr. Ryouko, a woman I know...
 //［ランファ］：えっ、女のヒトなんですかぁ、もうっ！
-[Lanhua]: Eh-, a woman? Gimme a break!
+[Lanhua]: Eh? A woman? Honestly!
 //［ランファ］：呼び出しですぅ、トレイシーだわ、きっと。
-[Lanhua]: Oh, a call's coming in, probably Tracy.
+[Lanhua]: A call's coming in, it's probably Tracy.
 //［トレイシー］：ランファ、まだそこにいるのですか？
 [Tracy]: Lanhua, are you still there?
 //［ランファ］：なによぉ、せっかくいい時だったのにぃ‥‥。
@@ -243,11 +243,11 @@ s0303a
 //［トレイシー］：いい時って、なんですか、もう。
 [Tracy]: What do you mean, "precious time"? Come on.
 //［ランファ］：それより、なーに？　用は。
-[Lanhua]: Forget it. What do you want?
+[Lanhua]: So... what is it? What do you want?
 //［トレイシー］：あ、そうでした。コウジ様、ファルネリア様が、お目覚めになりましたが‥‥。
-[Tracy]: Ah, I have news. Kohji-sama, Farnelia-sama has　　　awakened...
+[Tracy]: I have news. Kohji-sama, Farneria-sama has awakened...
 //［トレイシー］：少々取り乱しておいでで、大変です。
-[Tracy]: She's become a little out of control, so I'm havingtrouble with her.
+[Tracy]: She's become somewhat agitated, so I'm having　　　trouble with her.
 //［ランファ］：暴れてるってこと？　麻酔薬でもうっちゃいなさいよ、お尻にプスって。
 [Lanhua]: Is she acting violently? Just inject a　　　　　　tranquilizer into her butt.
 //［トレイシー］：動物じゃないんですから、そんなことはできません。ランファ、あなた行ってちょうだい。
@@ -257,9 +257,9 @@ s0303a
 //［トレイシー］：私はジェネレータ計測結果のまとめに忙しいのです。
 [Tracy]: I'm busy taking measurements of the generator.
 //［ランファ］：プリプリよぉ、コウジ様ぁ‥‥。
-[Lanhua]: I'm really upset, Kohji-samaa....
+[Lanhua]: I'm pouting, Kohji-sama...
 //［トレイシー］：こら、コウジ様にお願いしてもダメです。
-[Tracy]: Now, don't go pleading to Kohji-sama.
+[Tracy]: Don't go pleading to Kohji-sama.
 //［ランファ］：ねぇ、コウジ様ぁ‥‥ウルウル。
 [Lanhua]: Hey, Kohji-samaa...*sniffle*
 //［宏治］：行ってきなよ、ランファ。
@@ -269,21 +269,21 @@ s0303a
 //［トレイシー］：さっ、コウジ様もああおっしゃってる訳だし。
 [Tracy]: See, even Kohji-sama said to do it.
 //［ランファ］：もうプリプリよぉ。
-[Lanhua]: Hmph, I'm still upset.
+[Lanhua]: I'm all huffy...
 //［トレイシー］：ファルネリア様は、ＶＩＰルームにおいでです。よろしく頼むわ。
-[Tracy]: Farnelia-sama is in the VIP room. I'm leaving her  to you.
+[Tracy]: Farneria-sama is in the VIP room. I'm leaving her  to you.
 //［ランファ］：しょうがないわねっ、じゃあ今から行く。
 [Lanhua]: Fine, then. I'll go now.
 //［トレイシー］：よろしくね‥‥あっ、コウジ様。
 [Tracy]: Good luck...Ah, Kohji-sama.
 //［トレイシー］：私、心の底からコウジ様のことをご心配申し上げて‥‥。
-[Tracy]: From the bottom of my heart, I've been worried　　　about you, Kohji-sama...
+[Tracy]: From the bottom of my heart, I have been most　　　concerned about you, Kohji-sama...
 //［ランファ］：ハイハイ、雑音は消さないとねっ。
 [Lanhua]: Alright, alright. Time to get rid of the annoying chatter.
 //［ランファ］：何かあったら、ベッド傍らのコンパネを利用して下さい。もう飛んでやって来ますからっ！
 [Lanhua]: If you need anything, please use that control　　　panel by the bed. Gotta fly now!
 //［ランファ］：じゃ、また来ますねっ。
-[Lanhua]: Well, I'll be back-
+[Lanhua]: Okay then, I'll come again!
 //ランファという女性がいなくなると、あたりは途端に静寂が訪れた。
 The woman named Lanhua disappeared, and the room became　　　silent once more.
 //しばらく寝てしまったんだろうか‥‥オレの足下に、キチンと畳まれた着替えが置いてあった。ランファという女性が、置いていったのかもしれない。
@@ -291,4 +291,4 @@ I was asleep for a while, wasn't I... beneath my feet lay a neatly folded change
 //［ランファ］：あーん、困りますぅ。
 [Lanhua]: Aghhh, what a pain.
 //［ランファ］：ファルネリア様ぁ‥‥。
-[Lanhua]: Farnelia-samaa...
+[Lanhua]: Farneria-samaa...

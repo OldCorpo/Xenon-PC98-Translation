@@ -29,7 +29,7 @@ Without AC, it was like being packed in a full railroad car in the middle of sum
 //とりあえず、待つしかないのだ、今は‥‥。
 In any case, I can only wait, for now...
 //オレは今現在、ある作戦計画の実行段階にあった。ビアンカ追撃＆ファルネリア奪回作戦、である。
-At present, I had a few stages of my operation mapped out.  Namely, the operation to chase down Bianca and bring back　 Farnelia.
+At present, I had a few stages of my operation mapped out.  Namely, the operation to chase down Bianca and bring back　 Farneria.
 //オレの考えた計画はこうだ。
 This was how I'd thought it out.
 //わざと、この高機動シップ《クワドラ》を、ビアンカの悪趣味な戦艦に捉えさせる。
@@ -51,7 +51,7 @@ However, if I tell those two women my plan and they react　 teary-eyed with "A.
 //美女２人のお墨付きだ、きっと成功するに違いない。
 After all, with the seal of approval of two beautiful women,this plan is bound to be successful.
 //ゴゴゴゴゴゴッッ！！
-Rumble, rumble, rumble!!
+*rumble* *rumble* *rumble*
 //［宏治］：な、何だ‥‥。
 [Kouji]: W-what was that...?
 //［トレイシー］：牽引ビームに、《クワドラ》が捉えられたのですわ。
@@ -477,7 +477,7 @@ As Tracy's smile returned, I grinned back. It still took　　some effort for me
 //bi04
 bi04
 //一方そのころ、ファルネリアは‥‥‥‥。
-At that time, on Farnelia's side...
+At that time, on Farneria's side...
 //bi04_m
 bi04_m
 //［ファル］：放して頂戴、いや‥‥やめてっ！
@@ -661,7 +661,7 @@ Slurp, slurp, slurp...
 //［トレイシー］：このままずっと、見ているのですか？　コウジ様。
 [Tracy]: Have you been looking like that this whole time?　 Kohji-sama.
 //［ランファ］：そうですぅ、早くファルネリア様を助けに行きましょう。
-[Lanhua]: That's right, let's go save Farnelia-sama soon.
+[Lanhua]: That's right, let's go save Farneria-sama soon.
 //傍らで、トレイシーとランファがか細い声で耳打ちする。
 Beside me, Tracy and Lanhua were whispering to each other.
 //首尾良くランファを助け出したオレたちは、ビアンカの私室にまでやってきていた。

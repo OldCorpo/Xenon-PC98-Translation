@@ -13,7 +13,7 @@ s0302b
 //　◆ ジェネレータって言っていたけど‥‥。
 ◆ You said something about a generator...
 //　◆ ファルネリアって、いったい誰のことさ。
-◆ Who on earth is Farnelia?
+◆ Who on earth is Farneria?
 //［宏治］：君はいったい、誰なんだ？
 [Kouji]: Who exactly are you?
 //［宏治］：記憶は混乱はしていない。状況に混乱しているんだ。
@@ -191,13 +191,13 @@ s0302b
 //［宏治］：んー、じゃあオレはそれを、どうやって使用していた？
 [Kouji]: Mmm, well, how did I use that?
 //［トレイシー］：ファルネリア様を触媒になさって、それを利用して霊子エナジーを解放するとか、おっしゃっていました。
-[Tracy]: You've stated that with Farnelia-sama acting as a  medium, you used it to release your Reiko energy.
+[Tracy]: You've stated that with Farneria-sama acting as a  medium, you used it to release your Reiko energy.
 //［宏治］：ファルネリア‥‥？
-[Kouji]: Farnelia...?
+[Kouji]: Farneria...?
 //［トレイシー］：触媒の女性です。
 [Tracy]: Yes, the woman medium.
 //［宏治］：ファルネリアって、いったい誰のことさ。
-[Kouji]: Who exactly is Farnelia?
+[Kouji]: Who exactly is Farneria?
 //［トレイシー］：ジェネレータを利用するための、触媒の女性です。
 [Tracy]: She's the woman medium you use for the generator.
 //［宏治］：触媒の女性って？
@@ -209,7 +209,7 @@ s0302b
 //［トレイシー］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
 [Tracy]: Yes, that was her. That capsule itself was part of the Galactic Pirate...
 //［宏治］：それはもういいよ。でも、その大宇宙海賊ってのは、いったい何のことさ。
-[Kouji]: I get it, you can stop right there. But then, what on earth is that Galactic Pirate thing?
+[Kouji]: Stop. I get it. But then, what on earth is that　　Galactic Pirate thing?
 //［トレイシー］：コウジ様の事ですわ。
 [Tracy]: It's your own business.
 //［宏治］：お、オレ？
@@ -227,7 +227,7 @@ s0302b
 //［トレイシー］：こ、コウジ様？
 [Tracy]: K-Kohji-sama?
 //［宏治］：涼子先生だな、その手は喰わないぜ。わははは。
-[Kouji]: Doctor Ryouko, is that you, please stop pulling my leg, wahahaha.
+[Kouji]: Come on, Doctor Ryouko, I’m not falling for this　 trick, wahahaha.
 //［トレイシー］：コウジ様、お気を確かに‥‥‥。
 [Tracy]: Kohji-sama, please stay calm...
 //［宏治］：おーい、涼子せんせー！　その辺に隠れてるんだろ！？
@@ -235,7 +235,7 @@ s0302b
 //［トレイシー］：こ、コウジ様、ゴミ箱をあさって一体何を‥‥。
 [Tracy]: K-Kohji-sama, why on earth are you flipping that　　wastebasket...?
 //［宏治］：出てこいよぉ、涼子先生！
-[Kouji]: Come out, Doctor Ryouko!
+[Kouji]: Come out already, Doctor Ryouko!
 //［トレイシー］：ど、どうしましょう‥‥コウジ様がとうとう‥‥。
 [Tracy]: W-what should we do... Kohji-sama has finally...
 //［宏治］：とうとうって何だよ、とうとうって。失礼な。
@@ -243,7 +243,7 @@ s0302b
 //［トレイシー］：で、ですが‥‥‥。
 [Tracy]: B-but...
 //［宏治］：君も君だよ。涼子先生に言われて、オレを騙そうとしたって、そうは問屋が‥‥。
-[Kouji]: You are you. Doctor Ryouko told me that I'd be　　　tricked into being in such a room...
+[Kouji]: You're something else. Even if Doctor Ryouko told  you to try and trick me, it's not going to be that easy...
 //［トレイシー］：あら、呼び出しだわ。誰かしら？
 [Tracy]: Oh, someone's calling me. I wonder who it is?
 //［ランファ］：トレイシー、まだそこにいるの？
@@ -255,7 +255,7 @@ s0302b
 //［トレイシー］：人それぞれに、役割というものがあるのです。それより用はなんですか？
 [Tracy]: We each have our own roles. What do you want beyondthat?
 //［ランファ］：ファルネリア様が、お目覚めになって‥‥。
-[Lanhua]: Farnelia-sama has awoken...
+[Lanhua]: Farneria-sama has awoken...
 //［トレイシー］：それで、どうしたのです？
 [Tracy]: And what about it?
 //［ランファ］：暴れ出しちゃって、手に負えなくなっちゃったの‥‥。
@@ -265,7 +265,7 @@ s0302b
 //［ランファ］：そんなぁ、看護はむしろトレイシーの役目じゃない。私はぜんぜんダメよぉ。
 [Lanhua]: Oh, come on, Tracy, nursing is your job, not mine.
 //［トレイシー］：しょうがないわね、じゃあファルネリア様の部屋は？
-[Tracy]: Fine, then. Well, where is Farnelia's room?
+[Tracy]: Fine, then. Well, where is Farneria's room?
 //［ランファ］：ＶＩＰルーム。
 [Lanhua]: It's the VIP room.
 //［トレイシー］：わかったわ、今からいきます。
@@ -287,14 +287,14 @@ The woman named Tracy disappeared, and the room was suddenlysilent.
 //オレは手を頭の後ろにまわすと、ベッドの上に仰向けに倒れ込む。
 I wrapped my hands behind my head and fell back onto the bed
 //静寂が耳に痛かった。だがそれ以上に頭も痛い。
-The silence hurt my ears, but any more noise would hurt my  head, too.
+The silence was almost painful to my ears. But worse still, my head ached.
 //混乱していないと言えば嘘になる。むしろ、オレはさっきから混乱のしっぱなしだ。
 I'd be lying if I said I wasn't confused. If anything, I've been confused this whole time.
 //ここが、大宇宙に浮かぶ宇宙船の中で、しかも何とか砲とかいう武器がついてる高機動シップだと？
-Here, I'm in the middle of a spaceship floating in the vast cosmos, it seems a high-mobility ship equipped with some　　sort of cannon weaponry.
+Here, I'm in the middle of a spaceship floating in the vast cosmos, apparently a high-mobility ship equipped with some  sort of cannon weaponry.
 #Here, I am floating through space on a spaceship, and it　　 seems that it's a high class mobile ship carrying some sort of cannon weaponry
 //霊子エナジーなんとかという、ジェネレータがどうした、あげくの果てに、このオレが大宇宙海賊ときた時には‥‥‥‥。
-The generator uses Reiko energy or whatever to, in the end, make me some kind of galactic pirate...
+That uses Reiko energy or whatever to, some sort of　　　　 generator, and in the end, makes me some kind of galactic　 pirate...
 //オレは仏頂面のまま手を頭の後ろに組み、ベッドに仰向けに倒れ込んだ。
 With a surly look, I joined my hands behind my head, and　　fell back onto the bed.
 //しかしリアルと言えば、リアルだった。本当にここは、宇宙‥‥？
@@ -336,7 +336,7 @@ Let's not stare here forever and leave the room. Or, well,  at least try taking 
 //そう考えると、さっそくオレはドアへと向かった。元来、ジッとしているのは性分じゃあない。
 With that thought, I turned towards the door at once. From  the start, it wasn't in my nature to sit around.
 //オレは、さきほどのファルネリアという女性のことが、少しだけ気になっていた‥‥。
-I've gotten somewhat curious about that Farnelia woman from earlier...
+I've gotten somewhat curious about that Farneria woman from earlier...
 //状況がわかるまで、ここにいた方がいいだろう。
 Until I understand the situation, let's stay here.
 //オレは再びゴロっと横になった。天井を見上げて、何度めかになる溜息を吐く‥‥。
@@ -356,9 +356,9 @@ Just as I thought of tearing off the sheets and fleeing thisharsh reality...
 //［女］：私は、権力と暴力には、絶対に屈しませんからねっ！
 [Woman]: I absolutely won't bend to such power and violence!
 //［トレイシー］：ファルネリア様、少しお静かに‥‥。
-[Tracy]: Farnelia-sama, please be quiet...
+[Tracy]: Farneria-sama, please be quiet...
 //ファルネリア？
-Farnelia?
+Farneria?
 //というと、ジェネレータとやらの触媒とかいう女性か‥‥確か、赤毛の‥‥。
 In other words, the woman medium from the generator...indeedthat redhead...
 //考え出すと、急速に会いたくなってきた。会いたくなってくると、居ても立ってもいられなくなる。
@@ -436,4 +436,4 @@ Once more, I definitely heard that strange sound from the　　nearby door...
 //ＶＩＰルームとやらに、行ってみよう。
 Let's go over to the VIP room.
 //ファルネリアという女性に、会ってみたいな‥‥。
-I want to see Farnelia...
+I want to see Farneria...

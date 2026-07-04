@@ -542,7 +542,7 @@ Far wordlessly piloted, and I wordlessly sat in the back　　seat. The air betw
 //私はふと、辺りを見回してみた‥‥。
 I glanced at my surroundings...
 //星の海、と形容するのがわかるような気がする。大小様々の星星が、目の前に存在していた。数はちょっとわからない。文字どおり天文学的数字だ。
-It was a veritable sea of stars. Big and small stars of all types twinkled before me. I couldn't count them all; the　　number was literally astronomical.
+It was a veritable sea of stars. Big and small stars of all types twinkled before me. I couldn't count them all, the　　number was literally astronomical.
 //湾曲してコクピットを取り囲んでいる硬質ガラスには、恒星などの光を直視しないよう、薄暗くフィルターがかかっていたが、周りで輝く星々をみることは十分可能だった。
 The curved hard glass surrounding cockpit dimly filtered theindirect star light, and I could clearly see the shining　　stars surrounding me.
 //［コウジ］：綺麗な星だな‥‥。

@@ -63,21 +63,21 @@ Far let out a giggle and played with the gun in her hand. Myheart beat a bit fas
 //［ファル］：だから‥‥‥‥。
 [Far]: That's why...
 //［コウジ］：ゴメン、あのときは、ああする他は無かった‥‥。
-[Kohji]: Sorry, at that time, there was nothing else to do  ...
+[Kouji]: Sorry, at the time, I had no other choice...
 //［ファル］：うん、わかってる。
-[Far]: Yes, I understand.
+[Far]: Yes, I understand it.
 //ファルは、少しだけあたりを見回した。どんよりと曇った空から、パラパラと雨が降り注ぎはじめている。
 Far glanced around. From the cloudy sky above us, rain　　　started pitter-pattering down.
 //［ファル］：どうするの、これから‥‥。
 [Far]: What do we do from here....
 //［コウジ］：どうするもこうするも‥‥私は行くために、ここへ降りてきたんだ。
-[Kohji]: No matter what... I'm here so I can keep going.
+[Kohji]: No matter what... I came down here to go further　 ahead.
 //［ファル］：私も一緒に行くわ。
 [Far]: I'm coming, too.
 //［コウジ］：いや、これはどうやら私自身の問題らしい‥‥１人で行かせて欲しいんだ。
 [Kohji]: No, this is my personal problem ... I'd rather go  alone.
 //［コウジ］：頼む‥‥。
-[Kohji]: Please...
+[Kohji]: Please understand...
 //［ファル］：わかったわ‥‥でも、気を付けなさい。銃は？
 [Far]: I understand... but please, take care. Your gun?
 //差し出された銃を私は押し返す。これから行くところは、恐らく銃など不要な気がしたのだ。

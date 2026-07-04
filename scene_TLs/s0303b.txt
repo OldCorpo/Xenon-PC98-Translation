@@ -25,7 +25,7 @@ As I felt tears roll down my cheek, I knelt down and nursed my fist. It hurt... 
 //［宏治］：あー、小難しい説明は無しね。トレイシーに聞くからさ。
 [Kouji]: Ahh, it's a little hard to explain. I heard it fromTracy, after all.
 //　◆ ファルネリア、君はいったい‥‥。
-◆ Farnelia, what exactly are you...
+◆ Farneria, what exactly are you...
 //　◆ テレパスというのは‥‥。
 ◆ Speaking of telepathy...
 //　◆ エンコーダというのはいったい‥‥。
@@ -39,7 +39,7 @@ As I felt tears roll down my cheek, I knelt down and nursed my fist. It hurt... 
 //［宏治］：ああ、オーケーだ。
 [Kouji]: Ahh, that's OK.
 //［宏治］：‥‥残念だけど、あいつは返せない。
-[Kouji]: ...Unfortunately, he's not coming back.
+[Kouji]: ...Unfortunately, it's not coming back.
 //［宏治］：そんな恐そうな顔をするなよ。別にあれを悪用するつもりはないぜ。
 [Kouji]: What's with that scary expression? I don't have anyevil intentions or anything.
 //［宏治］：さっきも言ったろう？　そのエンコーダとやらを利用してやるってヨコシマな輩は、いくらでも出てきそうなもんだって。
@@ -351,15 +351,15 @@ I began to slowly move my hips back and forth. Far used her tongue thoroughly, p
 //オレは彼女の舌を感じながら、心地よい虚脱感に浸っていった‥‥。
 As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：ファルネリア、君はいったいどういう人間なんだい？
-[Kouji]: Farnelia, just what kind of a human are you?!
+[Kouji]: Farneria, just what kind of a person are you?!
 //［ファル］どういう意味よ、それって。
-[Far]: What do you mean by that?
+[Far]: What do you mean by that, exactly?
 //［宏治］：‥‥言葉通りの意味なんだけど。
-[Kouji]: ...I meant what I asked.
+[Kouji]: ...I meant it literally.
 //［ファル］：あなた、私がどういう人間か知らないでさらってきたわけ？
-[Far]: Are you asking because you don't know what kind of　　human I am?
+[Far]: So you kidnapped me without even knowing what kind ofperson I am?
 //［宏治］：すまない、どういう訳かオレは、君をさらってきた事なんて全く知らないし、記憶にもない。
-[Kouji]: Sorry, for some reason, I don't know a thing about you, or remember anything about you.
+[Kouji]: Sorry, for some reason, I don’t remember anything  about you, or even kidnapping you.
 //［ファル］：しらばくれる気？
 [Far]: Playing dumb, are you?
 //［宏治］：違う。本当に知らない。
@@ -369,15 +369,15 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：さっきも、そんなことを言っていたわよね。よく理解できなかったけど。
 [Far]: Earlier, you said exactly that, though I couldn't　　understand it then, either.
 //［宏治］：じゃあ、こうしよう。宇宙海賊コウジとやらは、トイレで転んで頭を打って、記憶が喪失状態である。
-[Kouji]: Well, let's try this: The galactic pirate or　　　　whatever Kohji slipped and hit his head while in the toilet and lost his memory in the process.
+[Kouji]: Alright, let's go with this: The so-called galacticpirate Kohji slipped in the bathroom, hit his head, and lostall his memory in the process.
 //［ファル］：本気なの？
 [Far]: Really?
 //［宏治］：厳密に言うと正確じゃない。でも、今の状況に一番近い設定だと思う。
-[Kouji]: It's not exactly correct. However, right now,　　　that's the best way I can set up the situation.
+[Kouji]: It's not exactly accurate. However, right now,　　 that's the best way I can explain this situation.
 //［宏治］：信じられないかも知れないが、オレは宇宙海賊のコウジとやらじゃないんだ。本当だ。
-[Kouji]: You may not believe it, but I'm not the galactic　　pirate or whatever Kohji. I'm serious.
+[Kouji]: You may not believe it, but I'm not the so-called  galactic pirate Kohji. I'm totally serious.
 //［ファル］：深刻の色を発しているわ‥‥本当なの？
-[Far]: You're giving off a serious aura now...is it true?
+[Far]: You're giving off a very different aura now... Is it true?
 //［宏治］：オレにだって信じられないんだから、他人の君に信じろと言う方が無理ってもんだよな。
 [Kouji]: If I can't convince you, I can't convince anyone　　else.
 //［ファル］：ううん、少なくともあなたは嘘は言っていないようよ。そういう色が出ているもの。
@@ -395,7 +395,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：‥‥いいわ、完全に信用した訳じゃないけど、質問には答えて上げる。
 [Far]: ...OK, I won't tell you the entire explanation, but Ican answer that question.
 //［宏治］：そりゃ、助かるね。ありがとう、ファルネリア。
-[Kouji]: Then, please, help. Thank you, Farnelia.
+[Kouji]: Then, please, help. Thank you, Farneria.
 //［ファル］：それから、今後私のことはファルでいいわ。
 [Far]: Please address me as Far from now on.
 //［宏治］：ファルね、オーケー、ファル。
@@ -437,9 +437,9 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：サイキックプログラム・エンコーダが、正式名称よ。
 [Far]: Its full name is the Psychic Program Encoder.
 //［宏治］：もしかして、君が入っていたあの棺桶みたいなやつ？
-[Kouji]: Could it be that tube that you were inside?
+[Kouji]: Could it be that coffin-like thing that you were　 inside?
 //［ファル］：棺桶とは言ってくれるわね。あれは私が開発した、画期的なサイコエンコーダなのよ。
-[Far]: The "tube", you call it. That's the revolutionary　　Psycho-Encoder that I developed.
+[Far]: A 'coffin', you say? That's the revolutionary　　　　Psycho-Encoder that I developed.
 //［宏治］：き、君が開発しただって！？　バカ言えよ！
 [Kouji]: Y-you developed it?! Unbelievable!
 //［ファル］：失礼ね。私はこう見えても、王立科学技術局に従事しているプロフェッサよ。
@@ -471,7 +471,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：フン、聞きたいのは私の歳のこと？
 [Far]: Hm, you want to know how old I am, don't you?
 //［宏治］：いや、本筋に戻ろう。トレイシーたちは、例の棺桶を大宇宙海賊なんとかジェネレータって、呼んでいたけど？
-[Kouji]: No, let's return to the original topic. Tracy and  Lanhua called the tube the Universal Pirate something or　　other Generator.
+[Kouji]: No, let's return to the original topic. Tracy and  Lanhua called the coffin-like thing the Universal Pirate　　something something Generator.
 //［ファル］：あれは、あなたが勝手に付けた名前なの。
 [Far]: That's the name you came up with.
 //［宏治］：ふーん、コウジってヤツは、そのエンコーダを利用して、何をしようとしていたんだい？
@@ -479,7 +479,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：‥‥あなたって、自分のことを客観的に話す人なのね。
 [Far]: ...You're talking about yourself as though you were  an observer.
 //［宏治］：フッ、ゴルゴ宏治と呼んでくれよ。
-[Kouji]: Heh, call me Golgo Kouji.
+[Kouji]: Heh... from now on, call me Golgo Kouji.
 //［ファル］：何よそれは。まあ、コウジの目論見は大方予想が付いているわ。
 [Far]: What's with that name? Anyway, I have some rough ideaof Kohji's plan.
 //［宏治］：いったいそれは？
@@ -551,7 +551,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：まぁいいじゃない、コウジってのは想像力がちょっと欠如していたんだよな。
 [Kouji]: Well, fine then, it was Kohji whose imagination waslacking.
 //［ファル］：全く逆よ。そう想像したから、改悪したんじゃない。
-[Far]: It's quite the opposite; he degraded it because he　　imagined it that way.
+[Far]: It's quite the opposite, he degraded it because he　　imagined it that way.
 //［宏治］：むぅ‥‥‥。
 [Kouji]: Mm....
 //　◆ 玉虫色は、どんな感情を表しているんだい？

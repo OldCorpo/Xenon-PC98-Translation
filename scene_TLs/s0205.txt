@@ -275,7 +275,7 @@ ko01
 //［宏治］：じゃあ逃げてみるか。
 [Kouji]: Then, should I run away?
 //［コウジ］：フッ、貴様があのファルネリアを慕っているのは分かっている。故に逃げないこともな。
-[Kohji]: Hmph, I know you yearn for Farnelia. Therefore, youwon't run away.
+[Kohji]: Hmph, I know you yearn for Farneria. Therefore, youwon't run away.
 //［宏治］：ちっ、お見通しかよ。
 [Kouji]: Tch, you're insightful.
 //［コウジ］：いいか。この貧弱な肉体と、反射神経から推測するに、貴様の技量では決してビアンカにはかなうまい。

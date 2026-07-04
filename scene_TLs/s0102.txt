@@ -572,7 +572,7 @@ Unexpectedly, I made a reluctant face. With a mischievous　　expression on her
 //［涼子］：あなたの、ガールフレンドでしょう？
 [Ryouko]: She's your girlfriend, isn't she? 
 //そうだった。恵というのは、僕のガールフレンドの事だ。
-That was true. The person named Megumi was my girlfriend.
+That is true. Megumi is actually my girlfriend.
 //彼女は今日、僕の様子を見にやってくることになっていた。
 Today, she'll come pay me a visit.
 //［宏治］：えぇ、確かに今日、恵が来ますけど‥‥。
@@ -659,7 +659,7 @@ Losing my mind over something trivial, I protested with a　　harsh tone. Ryouk
 //先日、データの採集ということで、妙なモノを採取された覚えがある。僕は怪訝に思いながらも、協力はした。
 I recalled that the other day, I had an unusual experiment  performed on me by Ryouko, who had claimed she was doing it to gather some data. Even though I was suspicious, I had　　agreed to lend a hand.
 //でも、精神分析に、なんで必要なのかな‥‥健康診断でもあるまいに‥‥。
-But I still couldn't see the point of it; weren't we　　　　supposed to do psychoanalysis? So why a physical　　　　　　examination?
+But I still couldn't see the point of it, weren't we　　　　supposed to do psychoanalysis? So why a physical　　　　　　examination?
 //［宏治］：今日はもう、失礼して構いませんか？
 [Kouji]: Do you mind if I leave now for today?
 //［涼子］：えぇ‥‥明日は、また協力してもらうわ。

@@ -93,7 +93,7 @@ bi02b
 //［宏治］：‥‥‥‥‥‥‥‥‥うひっ。
 [Kouji]: .........*inhale*
 //［コウジ］：《誰がファルネリアの裸を思い浮かべろと言った。》
-[Kohji]: {Someone's memories of Farnelia naked are swimming about.}
+[Kohji]: {Someone's memories of Farneria naked are swimming about.}
 //［宏治］：《しょうがないだろう、何も考えないようにすると、何か考えちゃうんだよ。》
 [Kouji]: {I can't help it, whenever I try not to think of　 anything, something always comes to mind.}
 //［コウジ］：《私は心を落ちつけろと言っただけだ。何も考えるなとは、言っていない。》

@@ -135,7 +135,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：ええ、ここに入院したおかげで、あやうく死にそうになりましたからね。
 [Kouji]: Yes, because I entered this facility, I almost died
 //［涼子］：大げさねぇ、ちょっと実験体になってもらった程度じゃない。
-[Ryouko]: You're exaggerating; the risk was only that of　　being an experimental subject.
+[Ryouko]: You're exaggerating, the risk was only that of　　being an experimental subject.
 //［宏治］：そのおかげで、人が死ぬ思いを‥‥。
 [Kouji]: Because of that, the thought of people dying didn'teven...
 //［涼子］：だって、宏治クンって頼みやすいんだもの。
@@ -235,7 +235,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：なっ、ちょっ、だっ‥‥！？
 [Kouji]: Wha-Hol-Bu-...?!
 //［涼子］：舞は心配ないわ、彼女はあくまで触媒。大切な妹を、危ない目に遭わせる訳がないでしょう？
-[Ryouko]: Don't worry about Mai; she's merely a catalyst. I wouldn't put my dear sister in such grave danger, would I?
+[Ryouko]: Don't worry about Mai, she's merely a catalyst. I wouldn't put my dear sister in such grave danger, would I?
 //［宏治］：あ、あのね‥‥。
 [Kouji]: Th-the thing is....
 //［涼子］：さぁ、それじゃあ‥‥。

@@ -493,7 +493,7 @@ I was somewhat relieved, but still uneasy. Even so, I might as well spit it out.
 //［涼子］：どうぞ。
 [Ryouko]: Go ahead.
 //［宏治］：ここで、涼子先生の精神分析に協力し始めてから、どうも記憶力に自信がなくなりました。
-[Kouji]: Well, since I started helping you with　　　　　　 psychoanalysis, I've become increasingly unsure of my memory.
+[Kouji]: Well, since I started helping you with　　　　　　 psychoanalysis, I've become increasingly unsure of my memory
 //［涼子］：それで？
 [Ryouko]: And then?
 //［宏治］：決して涼子先生の研究とか学術にケチを付ける訳じゃないんですが、ちょっと普段の生活に差し支えます。
