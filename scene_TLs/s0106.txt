@@ -617,13 +617,13 @@ But then, what was she doing in the lower part of the engine...?
 //そんな風に納得をすると、私はその疑問を記憶の片隅へと追いやってしまった。次に思い浮かんだ疑問を呈示する。
 As I accepted what she told me, I suppressed some　　　　　　uncertainty in the back of my mind. Next time, I'll bring　 that matter to light.
 //［コウジ］：誰か、人はいたかい？
-[Kouji]: Was anyone there?
+[Kohji]: Was anyone there?
 //［ランファ］：いいえ、残念ながら‥‥。
 [Lanhua]: No, I'm afraid not...
 //［コウジ］：こっちも、さっぱりさ。
 [Kohji]: I didn't find anyone, either.
 //［コウジ］：な、なぁランファ、この間の‥‥。
-[Kouji]: H-hey, Lanhua, about the other day...
+[Kohji]: H-hey, Lanhua, about the other day...
 //［ランファ］：では、もう少し私は調べてみます。コウジさんは、どうされるのですか？
 [Lanhua]: Well, I'll be investigating a bit more. What will you do, Kohji-san?
 //［コウジ］：えっ？　あぁそうだね、もう一度、まわってみるかな‥‥。
