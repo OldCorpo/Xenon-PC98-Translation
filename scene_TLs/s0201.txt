@@ -51,7 +51,7 @@ The twenty or thirty thousand synapses in her brain are　　 frequently burned 
 //［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。
 [Lanhua]: Yes, the numerical data you spoke of has already  been input.
 //［トレイシー］：後は、ファルネリアさんのシンクロを待つだけですわ。
-[Tracy]: All we have to do now is wait for Farnelia's　　　 synchronization.
+[Tracy]: All we have to do now is wait for Farneria's　　　 synchronization.
 //［コウジ］：うむ。
 [Kohji]: Indeed.
 //私はうなずきながら、隣の装置に入っている女性を横目で見た。
@@ -59,7 +59,7 @@ As I nodded, I glanced sideways at the woman placed in the  equipment next to me
 //［コウジ］：（後は、あの女が上手くシンクロしてくれれば‥‥。）
 [Kohji]: (As long as this woman will synchronize well...)
 //彼女‥‥ファルネリアという名前の女性は、非常に精神感応の力に優れている。今回この計画には、彼女のような人材が必要不可欠だったのだ。
-She was...a woman named Farnelia, with unusually good　　　 telepathic abilities. Personnel like her will be a vital,　 irreplaceable part of my plans this time.
+She was...a woman named Farneria, with unusually good　　　 telepathic abilities. Personnel like her will be a vital,　 irreplaceable part of my plans this time.
 //大宇宙海賊御用達霊子エナジー増幅ジェネレータ‥‥私が付けたナイスネームのこの装置は、人体から霊子エネルギーを分離する。
 The Galactic Pirate Company Reiko energy amplifying　　　　 generator... this well-named system I made would extract　　Reiko energy from human bodies. 
 //早い話が、幽体分離装置である。
