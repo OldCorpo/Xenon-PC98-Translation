@@ -205,7 +205,7 @@ s0303a
 //［宏治］：いや、もしかしたら変なカプセルの中にいた、赤毛の女の子？
 [Kouji]: Um, could it be that she was the redhead girl in　　the strange capsule?
 //［ランファ］：そうです。あのカプセルこそが、大宇宙海賊‥‥。
-[Lanhua]: Yes, that's right. That capsule itself is part of the Galactic Pirate Co...
+[Lanhua]: That's right. That capsule itself is part of the  Galactic Pirate Co...
 //［ランファ］：コウジ様の事ですぅ。
 [Lanhua]: It has to do with Kohji-sama.
 //［宏治］：オレ？
@@ -241,11 +241,11 @@ s0303a
 //［ランファ］：なによぉ、せっかくいい時だったのにぃ‥‥。
 [Lanhua]: Whaaat is it, at this precious time...
 //［トレイシー］：いい時って、なんですか、もう。
-[Tracy]: What do you mean, "precious time"? Come on.
+[Tracy]: What do you mean by "precious time", honestly?
 //［ランファ］：それより、なーに？　用は。
 [Lanhua]: So... what is it? What do you want?
 //［トレイシー］：あ、そうでした。コウジ様、ファルネリア様が、お目覚めになりましたが‥‥。
-[Tracy]: I have news. Kohji-sama, Farneria-sama has awakened...
+[Tracy]: I have news, Kohji-sama, Farneria-sama has awakened...
 //［トレイシー］：少々取り乱しておいでで、大変です。
 [Tracy]: She's become somewhat agitated, so I'm having　　　trouble with her.
 //［ランファ］：暴れてるってこと？　麻酔薬でもうっちゃいなさいよ、お尻にプスって。

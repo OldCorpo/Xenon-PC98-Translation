@@ -195,7 +195,7 @@ What was she wearing above her left ear? Some accessory? Or was it some sort of 
 //［私］：私の、名前？
 [Me]: My... name?
 //［ファル］：そうよ。
-[Far]: Yeah.
+[Far]: Yes.
 //xenon_16
 xenon_16
 //［私］：（コウジ‥‥コウジというのか‥‥。）
@@ -227,7 +227,7 @@ Kohji...?
 //［コウジ］：いや、何となく聞き覚えがある程度で‥‥‥でも、ありがとう。
 [Kohji]: No, I just feel like I've heard it before... But,  thank you.
 //［ファル］：えっ、どういうこと？
-[Far]: Huh? What do you mean?
+[Far]: What do you mean?
 //［コウジ］：いや‥‥なんというか、自分の名前だけでも知ることができたのは、大きな収穫だった。
 [Kohji]: Well...it's just that I'm very glad I could at　　 least learn my own name.
 //［ファル］：フフ、大げさね‥‥でもあなたの顔、本当に黄色いわ。
@@ -301,7 +301,7 @@ After some time, a pretty girl wearing glasses appeared on  the screen.
 //［女の声］：はい、それで‥‥見つかったのですか？　彼は。
 [Woman's voice]: You are welcome. Then...did you find _him_?
 //［ファル］：ええ、ここにいるわ。今、状況を説明しているところ。
-[Far]: Yeah, he's here. I was about to explain the situationto him.
+[Far]: Yes, he's here. I was about to explain the situation to him.
 //［女の声］：そうですか‥‥。
 [Woman's voice]: Is that so...
 //［ファル］：ランファ‥‥彼女は、どうしているの？
@@ -492,7 +492,7 @@ She had bright blonde hair that felt like it would sound　　smooth if she ran 
 //小さめの眼鏡を掛け、優しそうに微笑んでいる彼女を見ると、自然と不安がなくなっていく、そんな気もした。
 She had small glasses on, and as I looked at her kind smile,my unease seemed to naturally fade away.
 //［トレイシー］：どうです、ご気分は？
-[Tracy]: How are you doing today?
+[Tracy]: How are you feeling?
 //そう言いながら、トレイシーはベッドのシーツを整え、替わりの衣服を椅子の上に畳んでいる。
 As she said this, Tracy tidied the bed sheets and placed theclothes splayed there on the seat.
 //てきぱきとした動作が、なかなか心地よかった。
@@ -502,9 +502,9 @@ With those quick movements, I felt truly better.
 //［トレイシー］：それは良かったですね。
 [Tracy]: That's good to hear.
 //［コウジ］：君が看護婦の‥‥トレイシー、さん？
-[Kohji]: You're the nurse...Tracy-san?
+[Kohji]: You're the nurse... Tracy-san?
 //［トレイシー］：トレイシーで構いません。それに、看護の資格も持っている、というだけですわ。
-[Tracy]: Tracy is fine. To answer your question, I only havenursing qualifications.
+[Tracy]: Tracy is fine. To answer your question, I merely　 happen to have nursing qualifications.
 //［コウジ］：だけ？　そのほかに、なにか‥‥。
 [Kohji]: "Only" qualifications? Then that means...
 //［トレイシー］：私は、プロフェッサの助手を務めさせて貰っています。
@@ -516,7 +516,7 @@ With those quick movements, I felt truly better.
 //［コウジ］：あ、あのファルという女性が、プロフェッサ‥‥！？
 [Kohji]: Th-that Far girl was a professor?!
 //［トレイシー］：はい、そうです。
-[Tracy]: Yes, she was.
+[Tracy]: Yes, she is.
 //どうも、話が呑み込めなかった‥‥。
 Somehow, I didn't quite believe her.
 //さきほどファルは、『調査隊』という言葉を使用していた。学術調査員、ということだろうか。
@@ -558,7 +558,7 @@ She seemed somewhat panicked.
 //［トレイシー］：いえ‥‥こちらにはいませんが。
 [Tracy]: No, she's not here.
 //［ファル］：そう、どこに行ったのかしら‥‥じゃ、ブリッジで待っているから‥‥。
-[Far]: OK, where could she have gone to...well, I'll be　　 waiting at the bridge.
+[Far]: I see, where could she have gone to... well, I'll be waiting at the bridge.
 //プツッ‥‥。
 *Click*
 //［トレイシー］：ではコウジさん、急用ができてしまったので‥‥失礼します。
@@ -566,7 +566,7 @@ She seemed somewhat panicked.
 //［コウジ］：あっ、待ってくれ。
 [Kohji]: Ah, wait a minute.
 //［トレイシー］：はい？
-[Tracy]: What?
+[Tracy]: Yes?
 //［コウジ］：磁気嵐、という話だったけど、大丈夫なのかい？
 [Kohji]: Far mentioned a stellar magnetic storm. Will we be OK?
 //［トレイシー］：はい、少しシップを恒星から浮上させることになりますが‥‥。
@@ -596,11 +596,11 @@ Once again, I was wrapped in silence.
 //室温はかなり低く、あれほど暑かったのがウソのようだ‥‥。
 The room temperature was so low, the little warmth I felt　 seemed like a lie...
 //　◆ 部屋に閉じこもっていてもしょうがない。出てみよう。
-◆ No use staying cooped up in here. Let's go outside.
+◆ No use staying shut in this room. Let's go outside.
 //　◆ 少し、休んだ方がいいかもしれない。
 ◆ Let's rest a little.
 //部屋に閉じこもっていてもしょうがない。室外に出てみよう。
-No use staying cooped up in here. Let's go outside.
+No use staying shut in this room. Let's go outside.
 //そう思うと、私はドアのそばまで歩いていった。歩きながら、少し考え事をしてみる‥‥。
 As I thought that, I walked to the door and thought about　 more matters...
 //しかし、分かっているのは自分の名前と、この場所、だけだった。
@@ -740,9 +740,9 @@ A girl stood in front of me. It seemed she had been there　 for some time.
 //彼女は少し驚いた表情をしているが、取り乱した様子は無い。
 She seemed slightly frightened, but not distraught.
 //［ランファ］：コウジさん‥‥ですね？
-[Lanhua]: Kohji-san, is that you?
+[Lanhua]: Kohji-san... is that you?
 //［コウジ］：ああ‥‥どうやら、そうらしい。
-[Kohji]: Ah...yes, it is.
+[Kohji]: Yeah... I guess that's who I am.
 //私のこの返答に、彼女は少し当惑したようだ。
 On hearing my response, she became a bit embarrassed.
 //だが実際、これ以外言いようが無いのも事実だった。私が、自分の名前を知ったのは、ほんの数時間前なのだから‥‥。
@@ -750,13 +750,13 @@ In truth, I can't say it any other way. After all, I learnedmy own name just a f
 //［コウジ］：以前も、この辺りで会ったよね。
 [Kohji]: We met here last time, too.
 //［コウジ］：確か、ランファ、だったかな、君の名前は。
-[Kohji]: I definitely remember: Lanhua was your name.
+[Kohji]: I definitely remember, Lanhua was your name.
 //［ランファ］：‥‥覚えていたんですか？
 [Lanhua]: ...You remembered?
 //［コウジ］：そりゃあ覚えているさ、ついさっきの事じゃないか。
-[Kohji]: Yeah, I remembered, wasn't just a while ago?
+[Kohji]: Naturally I remember, wasn't just a while ago?
 //［ランファ］：ついさっき、ですか。
-[Lanhua]: A while ago, was it?
+[Lanhua]: A while ago...?
 //そういえば、記憶がはっきりとしない‥‥‥。
 As she said that, my memory became fuzzy...
 //ついさっきとは、いったいいつ頃のことを指すんだろうか‥‥。
@@ -784,11 +784,11 @@ But....
 //［ランファ］：以前って‥‥いつの話でしょうか。
 [Lanhua]: When do you mean, "before"?
 //［ランファ］：夢でも、見たんじゃありませんか？
-[Lanhua]: You haven't met me in dreams, have you?
+[Lanhua]: Could it be that you were dreaming?
 //‥‥夢？
-...Dreams?
+...A dream?
 //［コウジ］：なぜ、そんなことを言うんだい。
-[Kohji]: Why would you mention dreams?
+[Kohji]: Why do you think I was dreaming?
 //［ランファ］：だって‥‥‥‥。
 [Lanhua]: Because....
 //［コウジ］：前に以前、会ったはずだろう？

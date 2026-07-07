@@ -13,7 +13,7 @@ bi02
 //［宏治］：何だか、来るのが分かっていたような口振りだな。
 [Kouji]: You seem to have known I was coming.
 //［ビアンカ］：そうだ、貴様と再び闘うためにな‥‥貴様の奴隷らの言い分だと、貴様はあのとき本調子では無かったと言うではないか。
-[Bianca]: It's true, I wanted to do battle with you once　　more... from what I heard from your slaves, you don't seem  to be quite yourself.
+[Bianca]: It's true, I wanted to do battle with you once　　more... from what I heard from your slaves, you weren't at  your best back then.
 //［宏治］：まぁ、本来のコウジではないって意味じゃ、そうだな。
 [Kouji]: Well, if you mean I'm not the Kohji from before,　 you'd be right.
 //［ビアンカ］：フン、何度闘っても同じだと思うが、貴様にそう思われるのもしゃくだ。
@@ -139,7 +139,7 @@ bi02b
 //［コウジ］：１秒でカタをつける。さっさと掛かってこい。
 [Kohji]: I'll end this in one second. Now, come at me.
 //［ビアンカ］：ざけんなっ！　昔の私と一緒にするんじゃないよっ！！
-[Bianca]: Stop fucking with me! I'm not going with you like before!
+[Bianca]: Stop fucking with me! I'm not the same person I　 was back then!
 //［コウジ］：いちっ！！！
 [Kohji]: ONE!!!
 //bi06
@@ -173,7 +173,7 @@ bi06
 //［宏治］：うん、確かに。コウジは姑息だぞ。
 [Kouji]: Yeah, Kohji really is underhanded.
 //［ビアンカ］：これで勝ったなどと思うな。私には大逆転のシナリオが用意してあるのだ！
-[Bianca]: Don't think you've won. This is my opportunity fora huge upset!
+[Bianca]: Don't think you've won. I've still got a plan for a complete comeback!
 //［宏治］：な、なにそれ。
 [Kouji]: Wh-what's with that reaction?
 //［ビアンカ］：フッ、聞いて驚け。私の奥歯の横にはな‥‥。
@@ -189,7 +189,7 @@ bi06
 //［宏治］：飯を食ってる時に爆発でもしたら、どうするんだよ。
 [Kouji]: What would happen if you pressed it while you were eating?
 //［ビアンカ］：ご飯を食べる時は、ちゃんと外している。
-[Bianca]: Well, when I eat, I take it out.
+[Bianca]: I do take it off properly when I eat.
 //［宏治］：はぁ‥‥。
 [Kouji]: Huh....
 //［ビアンカ］：舌先で、すぐにとれるような便利仕様なのだっ！
@@ -197,7 +197,7 @@ bi06
 //［宏治］：（なに、舌先で簡単に取れるだと‥‥？）
 [Kouji]: (What, she could push it that easily with her　　　tongue...?)
 //［ビアンカ］：フフ、ビビっているな、いい気味だ。この私が、どれだけ貴様の事を‥‥
-[Bianca]: Hehe, I'm quite pleased that you seem surprised.  Whatever you try, you'll never...
+[Bianca]: Heh, you're scared, aren't you? Serves you right. If only you knew how much I...
 //な、なにをする！？
 W-what are you doing?
 //bi06b
@@ -337,7 +337,7 @@ bi06e_m
 //［宏治］：まぁアレだ、今までのことは、水に流そう。オレが悪かったよ。
 [Kouji]: Well, let's just let bygones be bygones. It was my fault.
 //［ビアンカ］：ううん、私も、私も悪かったわ‥‥。
-[Bianca]: Mhm, I'm-I'm sorry too...
+[Bianca]:No... I was at fault too...
 //［宏治］：じゃあ、水に流す？
 [Kouji]: So, shall we let it go?
 //［ビアンカ］：うん‥‥。

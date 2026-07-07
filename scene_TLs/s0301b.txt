@@ -295,7 +295,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［トレイシー］：ランファ、それは言い過ぎです。私が１番の‥‥。
 [Tracy]: Lanhua, that's talking yourself up too much. I'm　　his number one....
 //［ランファ］：ランファだモン。
-[Lanhua]: No, I am.
+[Lanhua]: Lanhua is the best, after all!
 //［宏治］：あ、あのさ‥‥。
 [Kouji]: U-ummm....
 //［トレイシー・ランファ］：はい、なんでしょう？
@@ -305,7 +305,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［トレイシー］：では私が。
 [Tracy]: Then, I'll do it.
 //［ランファ］：ううん、ランファが！
-[Lanhua]: Mm-mm, Lanhua will!
+[Lanhua]: Mm-mm, I will do it!
 //［宏治］：んー‥‥‥‥。
 [Kouji]: Hmmm....
 //　◆ トレイシー、説明してくれ。
@@ -321,7 +321,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［トレイシー］：ランファ、エンジンのチェックや機器類のテストなど、あなたにはまだやる事が沢山あるでしょう？
 [Tracy]: Lanhua, you still have quite a few engine checks　　and equipment tests to conduct, don't you?
 //［ランファ］：はーい。じゃあ何かあったら、呼んで下さい。
-[Lanhua]: Yeees. Well, then, if anything happens, please　　call me.
+[Lanhua]: Okaaaay. Well, then, if anything happens, please  call me.
 //［トレイシー］：さっ、ほら。
 [Tracy]: Now, go.
 //［ランファ］：コウジ様、何かあったら、呼んで下さいね。
@@ -329,7 +329,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［宏治］：あ、ああ‥‥わかった。
 [Kouji]: Ah, uhhh...I got it.
 //［ランファ］：フンフン‥‥。
-[Lanhua]: Huhu...
+[Lanhua]: Hmm-hmm...
 //［トレイシー］：困った子ね‥‥まったく。
 [Tracy]: What a troublesome child...truly.
 //［トレイシー］：コウジ様、ご気分はいかがですか？
@@ -369,13 +369,13 @@ s0301a
 //［トレイシー］：あっ、そういえば‥‥。
 [Tracy]: Ah-, now that you mention it...
 //［ランファ］：フフン、コウジ様に、おっこられるわよぉ。
-[Lanhua]: Huhum-, Kohji-sama will be mad if you don't　　　  finish.
+[Lanhua]: Huhum-, Kohji-sama's going to scold you!
 //［トレイシー］：あぁぁ、ど、どうしましょう‥‥。
 [Tracy]: Ahhhh, wh-what should I do....
 //［宏治］：あ、あのさ‥‥い、忙しかったら、別にいいんだ。
 [Kouji]: Y-you know...if you're busy, I don't mind.
 //［ランファ］：ランファが面倒見てあげますねっ。
-[Lanhua]: See, I look after you, don't I?
+[Lanhua]: I'll take care of you, okay?
 //［トレイシー］：しょうがないわ‥‥じゃあコウジ様、お仕事を終えたら、すぐに参ります。
 [Tracy]: I guess there's no way around it...Well, Kohji-samaI'll return as soon as I'm done.
 //［ランファ］：ほらっ、行った行った！
@@ -383,11 +383,11 @@ s0301a
 //［トレイシー］：んもう‥‥。
 [Tracy]: Mm, cut it out....
 //［ランファ］：困るわよねっ、自分の仕事そっちのけで‥‥プンプン。
-[Lanhua]: Neglecting your own work... hahaha.
+[Lanhua]: Honestly... neglecting your own work... hmph!
 //［ランファ］：あっ、コウジ様ぁ、気分はどうですか？
 [Lanhua]: Ah-, Kohji-sama, how do you feel?
 //［ランファ］：そんなぁ、できませんっ。
-[Lanhua]: Sorry, I can't do that.
+[Lanhua]: Aww... I can't do that.
 //［宏治］：ふぅ‥‥まぁいい。とにかく、身体を起こしてくれない？
 [Kouji]: Huu...well. In any case, can you please help me to stand up?
 //［ランファ］：はーい、わかりましたっ。
@@ -397,4 +397,4 @@ s0301a
 //［宏治］：んー、じゃあ、とりあえず話を聞きたいんだけど。
 [Kouji]: Mm-, I have something to ask you. 
 //［ランファ］：はい、何を話したらいいんでしょうか。
-[Lanhua]: Yes, ask away.
+[Lanhua]: Um... what would you like me to talk about?

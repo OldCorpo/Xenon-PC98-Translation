@@ -103,7 +103,7 @@ Tracy's smile didn't fade. I want to see how she looks both laughing and crying.
 //［宏治］：それにしても、ビアンカって、相当コウジのことを恨んでいたようだけど‥‥。
 [Kouji]: So, this Bianca woman, is about as bitter as Kohji,but...
 //［トレイシー］：えぇ、あれは、あの方なりに歪んだ感情表現なのです。
-[Tracy]: Yeah, that is what I would gather from that lady's contorted expression.
+[Tracy]: Yes. That is simply her own distorted way of　　　 expressing her feelings.
 //［宏治］：そういえば何だか、知っている口振りだな。ビアンカのこと。
 [Kouji]: Speaking of which, what is with the way you're　　　describing Bianca? You seem familiar with her.
 //［トレイシー］：えぇ、彼女はもともと、コウジ様の良きパートナーとして、コウジ様共々、この銀河に君臨されていました。
@@ -483,9 +483,9 @@ bi04_m
 //［ファル］：放して頂戴、いや‥‥やめてっ！
 [Far]: No, please, let me go...Stop-!
 //［ビアンカ］：フン、可愛らしい顔をしていて、意外に遊んでるようじゃない。
-[Bianca]: Hmm, your cute face really makes me want to play  with you.
+[Bianca]: Hmm, you have such a cute face, but you're quite  the player, aren't you?
 //［ファル］：あ、遊んでなんか‥‥。
-[Far]: W-what do you mean by play...
+[Far]: W-What do you mean by calling me a player...?
 //［ビアンカ］：ウソ言うんじゃないよ、なんだい、この胸は。
 [Bianca]: Don't lie to me, what's with those breasts?
 //［ファル］：む、胸が、なによっ！
@@ -493,7 +493,7 @@ bi04_m
 //［ビアンカ］：フン、こんなに大きくてイヤらしい胸は、見たことがないわ。
 [Bianca]: Hmph, I've never seen such large, lewd breasts　　before.
 //［ファル］：普通よ、普通よ。
-[Far]: They're perfectly normal.
+[Far]: They're completely normal, I swear.
 //［ビアンカ］：乳首もおっきくて、イヤらしいわ‥‥。
 [Bianca]: The way your nipples stand out is lewd, too...
 //コリコリコリ‥‥。
@@ -515,7 +515,7 @@ bi04_m
 //［ファル］：（何だか、気持ちいいわ‥‥。）
 [Far]: (It feels so good....)
 //［ビアンカ］：フフ、大人しくなったわね、この淫乱プロフェッサが！
-[Bianca]: Hehe, you've certainly matured, you indecent　　　professor!
+[Bianca]: Heh, you've gotten pretty tame, you filthy　　　　professor!
 //［ファル］：（でも、何なの‥‥。）
 [Far]: (But, what is this...)
 //［ファル］：（頭がボーっとして、アソコがもう‥‥。）
@@ -537,13 +537,13 @@ bi04_m
 //［ファル］：（もう、どうにかなっちゃいそうよっ！）
 [Far]: (I feel like I'm about to lose it!)
 //［ビアンカ］：私を忘れられないように、してあげるわ‥‥。
-[Bianca]: Don't think I forgot about that, now...
+[Bianca]: I'll make sure you never forget me...
 //［ファル］：いや‥‥イヤよ‥‥。
-[Far]: No...no...
+[Far]: No... no...
 //［ビアンカ］：舌を出しなさい。
-[Bianca]: Stick out your tongue, please.
+[Bianca]: Stick out your tongue!
 //［ファル］：あっ‥‥ダメ‥‥。
-[Far]: Ah-...no...
+[Far]: Ah-... no...
 //［ビアンカ］：出すのよっ！
 [Bianca]: Stick it out-!
 //コリッ！
@@ -581,11 +581,11 @@ bi04_m
 //［ファル］：イヤよ、イヤ！
 [Far]: No, no!
 //［ビアンカ］：聞き分けの無い子は‥‥。
-[Bianca]: You know what happens if you misbehave?
+[Bianca]: Brats who misbehave get...
 //ズリュッ！
 *slurp*!
 //［ファル］：あぁぁぁぁっっ！　コウジぃぃ！！
-[Far]: AAAAHHHH-! KoujiI!!
+[Far]: AAAAHHHH-! Kohji!!!
 //［ビアンカ］：ムカッ！
 [Bianca]: Hmph!
 //［ファル］：コウジが、きっと助けに来てくれるわ‥‥。
@@ -603,7 +603,7 @@ bi04_m
 //［ファル］：い、イヤらしくなんて、ないわ‥‥。
 [Far]: Th-they're not lewd...
 //［ビアンカ］：こんなに、乳首を押っ立ててるのにかい？
-[Bianca]: Even when your nipples stand out like two　　　　 thimbles?
+[Bianca]: Even with your nipples sticking out like that?
 //［ファル］：う、ウソよ‥‥ウソよ‥‥。
 [Far]: N-no, they're not...
 //［ビアンカ］：ここがこんなに濡れているのに‥‥。
@@ -629,7 +629,7 @@ bi03_m
 //［ファル］：（も、もうダメ‥‥‥‥。）
 [Far]: (I-I can't take it anymore...)
 //［ビアンカ］：フフ、遊んでる割には、ピンク色じゃない‥‥。
-[Bianca]: Hehe, your pleasure valleys are so pink...
+[Bianca]: Heh, for someone who gets around, you're awfully  pink...
 //じゅるるるるっ‥‥。
 Slurp, slurp, slurp...
 //［ファル］：あぁぁ、そんなに‥‥そんなに吸ったら‥‥。
@@ -649,7 +649,7 @@ Slurp, slurp, slurp...
 //［ビアンカ］：フフン、私を忘れられないように、してあげるわ‥‥。
 [Bianca]: Hoho, don't forget about me, do me there, too...
 //［ファル］：イヤァァァ、コウジぃぃ！
-[Far]: Nooooo, KoujiII!
+[Far]: Nooooo, Kohji!!!
 //［トレイシー］：コウジ様。
 [Tracy]: Kohji-sama.
 //［ランファ］：鼻血が出てますぅ‥‥フキフキ。

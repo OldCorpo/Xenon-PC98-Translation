@@ -47,7 +47,7 @@ As I called out to her to stop, she halted in surprise. Justlike that, she ran u
 //［コウジ］：どうしたんだい、この騒ぎは‥‥。
 [Kohji]: What on earth is that noise?...
 //［ファル］：あら、そうね。
-[Far]: Ah, that.
+[Far]: Oh, that.
 //プチッ。
 *switch*
 //［コウジ］：ふぅ‥‥で、いったい、何があったんだい？
@@ -61,7 +61,7 @@ As I called out to her to stop, she halted in surprise. Justlike that, she ran u
 //［コウジ］：（もう１人の‥‥？）
 [Kohji]: (Another one...?)
 //［ファル］：まだ意識不明なんだけど‥‥どう、会ってみる？
-[Far]: Their consciousness is yet unknown, but do you wanna meet them?
+[Far]: Their consciousness is yet unknown, would you like tomeet them?
 //［コウジ］：ああ‥‥。
 [Kohji]: Ah...
 //とりあえず、提案されることは何でも呑むつもりでいた。この状況は、なかなか打開しそうにない。
@@ -87,7 +87,7 @@ I picked up what I thought was the receiver, and a woman wasprojected onto the m
 //［コウジ］：あっ、確かランファ‥‥だっけ？
 [Kohji]: Ah, you're Lanhua...right?
 //［ランファ］：びっくりしました。いきなり、フックをオフにするから‥‥。
-[Lanhua]: You scared me there. You were suddenly naked...
+Lanhua: You startled me. You suddenly took the receiver off the hook...
 //どうやら、向こうでもこちらに連絡を取ろうとしていたらしい。私が絶妙のタイミングで、受話器を取り上げてしまったのだろう。
 Somehow, I managed to connect what happened then with now.  I'd picked up the receiver with miraculous timing.
 //［コウジ］：いったい、何が起きてるんだい？　外がやけに騒がしいけど。
@@ -101,7 +101,7 @@ Somehow, I managed to connect what happened then with now.  I'd picked up the re
 //［ランファ］：まだ意識は不明ですが、お会いになりますか？
 [Lanhua]: It's unclear if they're conscious, but would you  like to meet them?
 //［ランファ］：では、マップをそちらに送ります。それに従って下さい。
-[Lanhua]: Then, I'll send you to that spot on the map.　　　Please follow the route.
+[Lanhua]: Then, I'll transmit a map to you. Please follow it
 //［コウジ］：わかった。
 [Kohji]: I understand.
 //目の前に船内マップが表示される。何だ、そんなにここから離れてはいない。
@@ -127,7 +127,7 @@ Maybe they didn't hear me because this door is so thick...?
 //私がドアの前に立っていると、後ろの方からコツコツと急ぎ足が聞こえてきた。
 As I stood before the door, I heard busy  *click*, *click*  footsteps coming from behind me.
 //［ファル］：あら、こんなところで何をしているの？
-[Far]: Ah, what are you doing here?
+[Far]: My, what are you doing here?
 //［ファル］：当惑の色を発色しているわね、どうしたの？
 [Far]: I can see your aura turning brown. What’s wrong?
 //［コウジ］：この騒がしい音はなにさ。
@@ -137,13 +137,13 @@ As I stood before the door, I heard busy  *click*, *click*  footsteps coming fro
 //［ファル］：で、あなた、何をしているの？
 [Far]: Well then, what are you doing?
 //［コウジ］：な、何って‥‥救出されたという人を見に来たのさ。ランファが、行っていいって。
-[Kohji]: What do you mean...I came here to see the rescued  person. Lanhua said it was fine to come here.
+[Kohji]: What do you mean... I came here to see the rescued person. Lanhua said it was fine to come here.
 //［ファル］：私が言っているのは、そんなところに突っ立って、何をしてるのってこと。
-[Far]: What I meant was, why are you suddenly standing here.
+[Far]: What I meant was, why are you just standing there.
 //［コウジ］：ノックはしたんだけど‥‥。
 [Kohji]: I was knocking on the door...
 //［ファル］：フフ、面白いわね、コウジって。
-[Far]: Hehe, how interesting you are, Kohji.
+[Far]: *chuckle* How interesting you are, Kohji.
 //ファルは、ドアの傍らについてあるコンパネを押しながら、クスっと笑みをこぼした。どうやらノックをする必要はなかったらしい。
 Far pushed on the control panel by the door, and giggled a  little. It seemed knocking was unnecessary.
 //［トレイシー］：はい、どちらさま‥‥。
@@ -153,7 +153,7 @@ On the monitor, that blonde-haired woman Tracy showed up.　 Each interaction is
 //［ファル］：トレイシー、開けて頂戴。
 [Far]: Tracy, please open the door.
 //［トレイシー］：わかりました。
-[Tracy]: I got it.
+[Tracy]: Understood.
 //私は、ファルの後に続いて、室内へと入って行った‥‥。
 I followed behind Far as we entered the room...
 //0010_2
@@ -173,7 +173,7 @@ I followed behind Far as we entered the room...
 //［トレイシー］：いえ、ごく普通の睡眠です。
 [Tracy]: No, they're sleeping fine.
 //［ファル］：そう‥‥これで、２人目という訳ね。
-[Far]: I see...this is the second person.
+[Far]: I see... this makes two.
 //ファルはしばらく、ベッドに寝ている女性を凝視している。トレイシーと何か言葉を交わしているが、私の関心はすでに救出された者へと移っていた‥‥。
 For a while, Far stared at the sleeping woman.　　　　　　　After exchanging a few words with Tracy, I moved my　　　　 attention to the rescued person... 
 //bi01
@@ -199,9 +199,9 @@ Far didn't seem to be thinking of anything as she looked at the survivor, but...
 //タイミング良く、ファルが私に声を掛けてくる。
 With good timing, Far called out to me.
 //［ファル］：どう？　思い出せそう？
-[Far]: Well? Do you remember?
+[Far]: How is it? Do you think you can remember?
 //［コウジ］：いや‥‥全く駄目だ。
-[Kohji]: No...it's entirely useless.
+[Kohji]: No... it's entirely useless.
 //［ファル］：そう‥‥落胆の色が、あなたから出ているわ。
 [Far]: I understand... your aura has turned a faded blue.
 //［コウジ］：‥‥なぁ、ファル。
@@ -213,7 +213,7 @@ With good timing, Far called out to me.
 //［ファル］：そうね‥‥。
 [Far]: Well...
 //［ファル］：わかったわ‥‥もしかしたら、記憶を取り戻す手助けになるかもしれない‥‥。
-[Far]: I understand...  I could very well be helping to get your memory back...
+[Far]: I understand... perhaps this will help bring your　　memories back...
 //［ファル］：まず、私たちが何故ここにいるかを話した方が、いいかもね。
 [Far]: But first, you need to know why we are here. That's  fine, right?
 //［ファル］：ここは、辺境のナーズ星域。数年前、この惑星の１つから、先史文明の遺跡が発見された‥‥。
@@ -227,7 +227,7 @@ With good timing, Far called out to me.
 //［ファル］：それを調べるのが、調査隊の任務よ。
 [Far]: That's for the investigative teams to find out.
 //［コウジ］：そ、そうか‥‥続けてくれ。
-[Kohji]: Oh, that's how it is...Please continue.
+[Kohji]: Oh, that's how it is... Please continue.
 //［ファル］：いいわ。当然のごとく調査隊が組織され、派遣されることとなった。
 [Far]: Very well. As a matter of course, the investigative  team was assembled and dispatched to the area.
 //［ファル］：だけど‥‥。
@@ -283,7 +283,7 @@ With good timing, Far called out to me.
 //［ファル］：あなたは唯一、第２次調査隊シップの中で、意識が残っていた貴重な証人なのよ。
 [Far]: You're the only person from the second investigative team whose consciousness has returned, and therefore an　　 invaluable witness.
 //［コウジ］：私が‥‥唯一？
-[Kohji]: I'm...the only one?
+[Kohji]: I'm... the only one?
 //［ファル］：あっ、今となっては、唯一じゃないけどね。
 [Far]: Ah, I guess now, you're not the only one.
 //私たちは再び、傍らの女性に目を落とした。
@@ -323,11 +323,11 @@ fa_ba_b
 //［コウジ］：あっ‥‥な、なにか？
 [Kohji]: Ah...What?
 //［ファル］：もう、聞いていなかったの？
-[Far]: Agh, weren't you listening?
+[Far]: Honestly, weren't you listening?
 //［コウジ］：な、何を？
 [Kohji]: What is it?
 //［ファル］：ふぅ‥‥大丈夫かしら‥‥。
-[Far]: Hmm...is it OK...
+[Far]: Hmm... is that alright...
 //［コウジ］：だから、何があったんだい？
 [Kohji]: Well then, what happened?
 //［ファル］：第２次調査隊シップの中から、救難信号が発されているらしいわ。
@@ -337,7 +337,7 @@ fa_ba_b
 //［ファル］：つまり、３人目の可能性ありということ。
 [Far]: That means there could be a third person.
 //［ファル］：フフ、行ってみたいんでしょ？
-[Far]: Hehe, shall we go?
+[Far]: *chuckle* shall we go?
 //［コウジ］：ああ、私がいたシップ‥‥らしいしね。
 [Kohji]: Ah, the ship I was on...probably.
 //［ファル］：じゃ、行きましょう。ランファが格納庫で準備しているはずだわ。
@@ -347,11 +347,11 @@ fa_ba_b
 //［ファル］：当たり前でしょう？　もし本当に生存者がいるのなら、一刻を争う時だわ。
 [Far]: Of course! If there really is a living person, we　　need to be able to save them at once.
 //［ファル］：どうするの？　行くの、行かないの？
-[Far]: Well? Are you going or not?
+[Far]: So, what will you do? Are you coming with us or not?
 //［コウジ］：行く。
 [Kohji]: I'll go.
 //［ファル］：フフ、そうこなくちゃ‥‥じゃあトレイシー、後のことは頼んだわ。ビアンカのことも‥‥。
-[Far]: Hehe, if that's how it is.... then Tracy, I'll leave the rest to you. Bianca as well...
+[Far]: *chucles* if that's how it is..... then Tracy, I'll  leave the rest to you. Bianca as well...
 //［トレイシー］：わかりました、プロフェッサ。
 [Tracy]: Understood, Professor.
 //［コウジ］：（第２次調査隊の、スペースシップか‥‥‥‥。）
@@ -379,7 +379,7 @@ Lanhua gave a fleeting glance at me, and promptly reported  to Far.
 //あれ以来、言葉を交わしていない。何か、私に対して含むモノがあるようだったが‥‥‥‥。
 From then, we exchanged no words. I seemed to be included,  but...
 //［ファル］：ちょっと、聞いてる？
-[Far]: Hey, are you listening?
+[Far]: Excuse me, are you listening?
 //［ファル］：これの使い方は、わかるわよね？
 [Far]: You *do* know how to use this, right?
 //ファルは私に、ヘルメットのようなものを手渡しながら、説明をしている。
@@ -389,7 +389,7 @@ This device was only to be used in times of insufficient　　oxygen. If you're 
 //ま、言ってみれば気休めみたいなものだった。
 In other words, it was little more than a psychological　　 relief.
 //［ファル］：じゃ、私が操縦するから、２人は後部座席に座って頂戴。
-[Far]: Well then, I'll be maneuvering, so you two should sitin the back seat.
+[Far]: In that case, I'll be maneuvering, so you two should sit in the back seat.
 //［コウジ］：あぁ‥‥。
 [Kohji]: Ah...
 //［ランファ］：わかりました。
@@ -411,7 +411,7 @@ As I looked at that,
 //［コウジ］：いや、何でもないんだ‥‥。
 [Kohji]: No, don't worry about it...
 //［ファル］：変な人ね。
-[Far]: You're a strange man.
+[Far]: You're rather curious, aren't you?
 //ファルは私のことを怪訝そうに見ていたが、すぐに自分の仕事にとりかかった。
 Far looked at me with a puzzled expression, but soon　　　　returned to the task at  hand.
 //コクピットに乗り込み、シャトル発信に備えている。

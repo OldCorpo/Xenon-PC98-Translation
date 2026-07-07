@@ -47,7 +47,7 @@ Far made a somewhat apologetic expression as she helped me  up. Our faces ended 
 //ファルはクスっと笑みをこぼしながら、傍らの手で銃を弄んでいた。少し心臓の動悸が速くなる。
 Far let out a giggle and played with the gun in her hand. Myheart beat a bit faster.
 //［ファル］：あら、少し恐怖の色が出たわね‥‥フフ、安心して。
-[Far]: Oh, your aura is turning a blackish purple color ... Hehe, there's no need to be afraid.
+[Far]: Oh, your aura is turning a blackish purple color ... Fufu, there's no need to be afraid.
 //［ファル］：ま、セーフティロックは掛かったままだったから、身の危険は感じなかったけど。
 [Far]: You know, the safety lock was still engaged, so I　　didn't feel like there was any danger.
 //［コウジ］：そ、それって‥‥‥‥。

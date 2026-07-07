@@ -57,7 +57,7 @@ As I looked at her standing figure from the shadows, I felt a little bit of nost
 //［コウジ］：部屋から出ていったの、やはり君か‥‥？
 [Kohji]: The one who left the room, was you this whole time?
 //［ランファ］：ええ‥‥。
-[Lanhua]: Yeah....
+[Lanhua]: Yes...
 //［コウジ］：ランファを見たとき、なつかしさのようなものを感じた。何故なんだ‥‥？
 [Kohji]: When I saw you, I felt something like nostalgia.　 Why is that...?
 //［コウジ］：自分の、失われた記憶のせいなのか‥‥。
@@ -109,7 +109,7 @@ With my other hand, I started slowly rubbing her hip. As my fingers slowly crawl
 //［コウジ］：身体の力を抜いて‥‥‥‥。
 [Kohji]: Just relax...
 //［ランファ］：はい、コウジさん‥‥。
-[Lanhua]: OK, Kohji-san...
+[Lanhua]: Yes, Kohji-san...
 //固く閉じていた足の力を抜くと、ランファは私のされるがままになった。
 As she relaxed her tightly closed legs, Lanhua accepted whatI was doing.
 //背中の方から、指先を割れ目にそってなぞっていく。少し盛り上がった部分に達すると、ランファは一際大きな声を出した。
@@ -131,7 +131,7 @@ I took the fingertip that had crawled into her slit and　　 moved further forw
 //と言って、足を閉じようとする。私はランファをじっと見つめた‥‥。
 As she said that, she closed her legs. As I stared at Lanhua...
 //［ランファ］：服を‥‥‥‥。
-[Lanhua]: Take....
+[Lanhua]: Take...
 //［ランファ］：服を脱がせて、下さい‥‥。
 [Lanhua]: Take off my clothes, please...
 //私はゆっくりと、彼女の衣服を脱がしていく。ボタンやファスナのようなものは付いておらず、ランファが手を添えただけで、それはするりと彼女から離れていった。
@@ -448,7 +448,7 @@ I pulled the gun out of her hip holster, and suddenly let goof her. The sudden a
 //［コウジ］：確か、この船にはシャトルがあったな。あれは惑星上へ降りることができるのか？
 [Kohji]: This ship does indeed have a shuttle. Is it　　　　possible to land on the planet?
 //［ファル］：‥‥ええ、可能よ。
-[Far]: ...Yeah, it's possible.
+[Far]: ...Yes, it's possible.
 //［コウジ］：では格納庫まで、案内してもらおうか。
 [Kohji]: Then, guide me to the hangar.
 //［ファル］：‥‥わかったわ。
@@ -594,7 +594,7 @@ It seemed she'd been staring at me for some time...
 //［コウジ］：どういうことだ‥‥？
 [Kohji]: How do I say this...?
 //［ファル］：いいわ、無理に聞こうとは思わないから‥‥。
-[Far]: It's OK, don't force yourself to answer...
+[Far]: It's alright, don't force yourself to answer...
 //ファルは前方に向き直ると、再び押し黙ってしまった‥‥。
 Far turned around to the front and was silent once more...
 //［コウジ］：（まぁいいさ‥‥‥‥。）

@@ -371,7 +371,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：じゃあ、こうしよう。宇宙海賊コウジとやらは、トイレで転んで頭を打って、記憶が喪失状態である。
 [Kouji]: Alright, let's go with this: The so-called galacticpirate Kohji slipped in the bathroom, hit his head, and lostall his memory in the process.
 //［ファル］：本気なの？
-[Far]: Really?
+[Far]: Truly?
 //［宏治］：厳密に言うと正確じゃない。でも、今の状況に一番近い設定だと思う。
 [Kouji]: It's not exactly accurate. However, right now,　　 that's the best way I can explain this situation.
 //［宏治］：信じられないかも知れないが、オレは宇宙海賊のコウジとやらじゃないんだ。本当だ。
@@ -523,7 +523,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：何でそんなシロモノを作ったりしたのさ。
 [Kouji]: What did you build that appliance for?
 //［ファル］：‥‥えっ？
-[Far]: ...Huh?
+[Far]: ...Pardon?
 //［宏治］：だから、何でそんな危なっかしい機械を作ったりしたのさ、君は。
 [Kouji]: I said, what did you build that dangerous machine  for, anyway?
 //［宏治］：別に、海賊コウジじゃなくても、そのエンコーダとやらを利用してやるってヨコシマな輩は、いくらでも出てきそうなもんじゃないか。
@@ -611,7 +611,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：精神年齢は高い方なんでね。
 [Kouji]: But my mental age is so advanced.
 //［ファル］：フフ、バカね‥‥。
-[Far]: Hehe, you dummy...
+[Far]: Fufu, you really are hopeless...
 //［ファル］：でも信じられないわ‥‥。
 [Far]: But I can't believe it...
 //［宏治］：なにが？
@@ -645,9 +645,9 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：記憶を無くしてるってのは、正確じゃないんだけど。
 [Kouji]: Well, I haven't lost *all* of my memories about her
 //［ファル］：フフ、今のあなただったら、どっちでもいいわ。もう、あなたに‥‥。
-[Far]: Hehe, well, to the you right now, it's all the same. Now, you're...
+[Far]: Fufu, it doesn't really matter which of "you", you　 are anymore. After all...
 //［宏治］：ほぉ、いつもは、学生たちと乱交してるのに？
-[Kouji]: Hoh, do you do this with all your students?
+[Kouji]: Hoh, do you have orgies with all your students?
 //［ファル］：バカ、そんな訳ないでしょっ！
 [Far]: Of course not, you bastard!
 //［宏治］：怪しいもんだよな、３人としたんだっけ？
@@ -711,7 +711,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：わからんよ、全く状況が見えない。
 [Kouji]: I don't know, I haven't gotten a grasp on the　　　situation.
 //［トレイシー］：いかがなさいますか？
-[Tracy]: What should I do?
+[Tracy]: How would you like to proceed?
 //［宏治］：んー、そのＧ２型宇宙船は、いまどこだよ。
 [Kouji]: Mm, where is that G2-class galactic cruiser?
 //［トレイシー］：我々の、すぐ上です。
@@ -815,7 +815,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［宏治］：何言ってるんだよ、ちょっと様子を見に行くだけだ。
 [Kouji]: Don't be so down, I'm only popping out to see　　　what's going on.
 //［ファル］：うん、待ってる‥‥。
-[Far]: OK, I'll be waiting...
+[Far]: Fine, I'll be waiting...
 //［宏治］：すぐに帰ってくるって。
 [Kouji]: I'll come back soon.
 //［ファル］：うん‥‥。

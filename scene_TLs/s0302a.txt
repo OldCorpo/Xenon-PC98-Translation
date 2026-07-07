@@ -223,7 +223,7 @@ As Lanhua noticed me, she stopped working and broke into a  broad smile. She exu
 //［宏治］：えっ、あぁ、まぁそうなるのかな。
 [Kouji]: Eh-? Ahh, well, yes, it does seem that way.
 //［ランファ］：あーン、コウジ様のおそばに行きたいのに‥‥んもう！　このっ、このっ！
-[Lanhua]: Ahm, since Kohji-sama wanted to come here... mm,  come on! Take this, and this!
+[Lanhua]: Aww... I wish I could come over to you, Kohji-sama... Hmph! Take this, and this!
 //ランファは、手にした工具類で、手先の配線を乱暴に取り付けている。エンジンのメンテナンスか何かを、している最中なのかもしれない。
 Using the tool in her hand, Lanhua roughly installed the　　wiring beside her. She was probably right in the middle of  engine maintenance.
 //あんなに乱暴に扱って大丈夫なのかなぁ‥‥。
@@ -265,7 +265,7 @@ I wonder if it's OK to handle that so roughly?
 //［宏治］：爆発するとか、言っていたじゃないか。
 [Kouji]: You said something about it exploding, didn't you?
 //［ランファ］：もちろん、抜かりはありません。
-[Lanhua]: Of course, you heard me right.
+[Lanhua]: Of course, I've left nothing to chance.
 //［宏治］：（本当に大丈夫かなぁ‥‥。）
 [Kouji]: (Will it really be OK...?)
 //［ランファ］：エヘ、コウジ様っ。
@@ -581,9 +581,9 @@ Using the tool in her hand, Lanhua roughly installed the　　wiring beside her.
 //［ランファ］：私はランファですぅ、コウジ様、お忘れになりました？
 [Lanhua]: I'm Lanhua, Kohji-sama, have you forgotten?
 //［オレ］：はっきり言って、君のことなど知らない。
-[Me]: Speak clearly, I don't know anything about you.
+[Me]: To be honest, I don't know anything about you.
 //［ランファ］：そんなぁ‥‥寂しいこと言わないで下さい‥‥
-[Lanhua]: How sad...please don't say such depressing things ...
+[Lanhua]: Nooo... please don't say something so depressing  ...
 //あっ！
  Ah-!
 //［オレ］：な、なに？
@@ -988,7 +988,7 @@ fa02_m
 //［宏治］：何だよグリーンって。ま、嘘を吐くつもりはないよ。
 [Kouji]: What's that "green" supposed to mean? Well, I'm notlying to you.
 //［ファル］：‥‥じゃあ、どういうつもり？
-[Far]: ...Well then, what do you mean?
+[Far]: ...What do you mean?
 //［宏治］：どういうつもりって‥‥道義に反しない措置をとったつもりだけど‥‥。
 [Kouji]: What I mean is... I'm not taking any actions　　　　contrary to moral standards...
 //［ファル］：逆よ。何故あなたが道義に沿った行為をするわけ？
@@ -1028,7 +1028,7 @@ fa02_m
 //［宏治］：説明は難しいから端折るけど、とにかく君に対して悪いようにはしないつもりだ。
 [Kouji]: Since it's complicated, I'll cut to the chase. In  any case, I don't mean to cause you any harm.
 //［ファル］：‥‥あ、ありがとう。
-[Far]: ...Ah, thanks.
+[Far]: ...Ah, thank you.
 //［宏治］：フフン、まあいいモノも見させてもらったしね‥‥
 [Kouji]: Hehe, well, you sure showed me something nice there...
 //あっ。
@@ -1044,9 +1044,9 @@ fa02_m
 //［宏治］：その、ファルの身体が‥‥。
 [Kouji]: Y-your body, of course...
 //［宏治］：あっ、もしかして紅くなって‥‥ちょっ、その振り上げたコブシは勘弁してよ。
-[Kouji]: Ah-, are you blushing?...wait, please don't raise  that fist at me.
+[Kouji]: Ah-, are you blushing?... wait, please don't raise that fist at me.
 //［ファル］：フン、エッチ。
-[Far]: Hmph, pervert.
+[Far]: Hmph, how indecent.
 //［宏治］：ちぇっ‥‥とにかく、向こうで着替えて来いよ。色々聞きたいこともあるし。
 [Kouji]: Tch... in any case, get dressed. I have a few　　　things to ask you about.
 //［ファル］：フン‥‥。
@@ -1066,15 +1066,15 @@ fa02_m
 //［宏治］：トレイシーじゃないか、どうしたのさ？
 [Kouji]: Well, if it isn't Tracy, what's going on?
 //［トレイシー］：はい、本船の進路上にＧ２型大型シップを確認しましたが、いかがなさいますか？
-[Tracy]: Well, we confirmed the presence of a type G2 　　　carrier ship in the path of our vessel. What should we do?
+[Tracy]: We confirmed the presence of a type G2 carrier shipin the path of our vessel. How should we proceed?
 //［宏治］：Ｇ２型って言われても‥‥どのくらいの大きさなんだい？
-[Kouji]: Even if you tell me it's a type G2...how big is it?
+[Kouji]: A G2 type doesn't really tell me anything.... how  large is it?
 //［トレイシー］：概算で、本《クワドラ》の、約７倍強というところです。
-[Tracy]: Roughly speaking, it's about 7 times the size of　　our Quadra.
+[Tracy]: Roughly speaking, it's about 7 times the size of　　our ship, the Quadra.
 //［宏治］：ずいぶん大きなやつだなぁ。旅客機か何かなんじゃないの？
-[Kouji]: It's quite large, then, isn't it? Is it some kind  of passenger ship?
+[Kouji]: That's huge. Is it some kind of passenger ship?
 //［トレイシー］：いえ、この宙域は旅客路線から大きく外れています。
-[Tracy]: No, this sector of space is far removed from the　　passenger line.
+Tracy: No. This region of space lies far outside the regularpassenger routes.
 //［宏治］：ふーん、なんだろう。
 [Kouji]: Hmm, what could it be?
 //［トレイシー］：現状では、何とも申し上げられません。

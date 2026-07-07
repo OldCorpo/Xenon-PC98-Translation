@@ -37,7 +37,7 @@ s0302b
 //［宏治］：うーん。
 [Kouji]: Mm-mm.
 //［トレイシー］：何をお悩みになっているのですか？　私に出来ることがあれば、遠慮無く言って下さい。
-[Tracy]: What's bothering you? If there's anything I can do to help, please don't hesitate to ask.
+[Tracy]: Is something troubling you? If there's anything I  can do, please don't hesitate to tell me.
 //［宏治］：‥‥じゃあ質問を変えよう。
 [Kouji]: ...Well, then, I'll change the question.
 //［宏治］：ここはいったいどこなんだ。
