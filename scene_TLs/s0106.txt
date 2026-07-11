@@ -259,7 +259,7 @@ With good timing, Far called out to me.
 //［コウジ］：パラ‥‥サイコロジー？
 [Kohji]: Para...psychology?
 //［ファル］：そう、エイレートに接近したとき、先の第１次、第２次調査隊は全滅してしまった‥‥。
-[Far]: That's right. Since they came close to Eilat, the　　first and second investigative teams were wiped out...
+[Far]: That's right. Since they came close to Elath, the　　first and second investigative teams were wiped out...
 //［ファル］：同じ轍を踏まないよう、私たちは惑星圏外から、エンコーダを使用して調べていたの。
 [Far]: We won't be going into the same rut, since we'll be  outside the planetary sphere, and using the encoder to　　　investigate.
 //［コウジ］：あの、棺桶みたいな装置か‥‥。
@@ -277,7 +277,7 @@ With good timing, Far called out to me.
 //［コウジ］：そうか‥‥。
 [Kohji]: I see...
 //［ファル］：船は遠隔で操作すればいいわ。とりあえず、エイレートに近づかなければ、危険はなさそうだから。
-[Far]: Working remotely on the ship is favorable. Getting　 close to Eilat now is dangerous, after all.
+[Far]: Working remotely on the ship is favorable. Getting　 close to Elath now is dangerous, after all.
 //［コウジ］：‥‥私は、いったいどこで？
 [Kohji]: ...Where do I fit into all this?
 //［ファル］：あなたは唯一、第２次調査隊シップの中で、意識が残っていた貴重な証人なのよ。

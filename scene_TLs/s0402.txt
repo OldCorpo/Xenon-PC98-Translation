@@ -61,7 +61,7 @@ s0402
 //［トレイシー］：‥‥あっ、はい、なんでしょうか？
 [Tracy]: ....Ah-, yes, what is it?
 //［ビアンカ］：今日、やっと調査隊がエイレートから帰ってくるけど‥‥。
-[Bianca]: Today, that investigative team should be returningfrom Eilat, right?
+[Bianca]: Today, that investigative team should be returningfrom Elath, right?
 //［トレイシー］：そうですね‥‥今回は、少し長かったですね。
 [Tracy]: Indeed, they should... It has been a while longer  this time, hasn't it?
 //［ビアンカ］：そうかい？　私も行きたかったなぁ。

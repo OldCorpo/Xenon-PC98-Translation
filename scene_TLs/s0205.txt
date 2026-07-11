@@ -407,7 +407,7 @@ ko01
 //［宏治］：んー、じゃあ‥‥‥‥。
 [Kouji]: Well, then....
 //［コウジ］：よし、では惑星エイレートで過ごした時のことを言ってやれ。
-[Kohji]: Right, then talk to them about passing over the　　planet Eilat.
+[Kohji]: Right, then talk to them about passing over the　　planet Elath.
 //［コウジ］：それで恐らく確信してもらえる事だろう。
 [Kohji]: That should be enough to convince you.
 //［宏治］：なんだよ、それは。
