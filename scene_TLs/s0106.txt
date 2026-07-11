@@ -103,7 +103,7 @@ Somehow, I managed to connect what happened then with now.  I'd picked up the re
 //［ランファ］：では、マップをそちらに送ります。それに従って下さい。
 [Lanhua]: Then, I'll transmit a map to you. Please follow it
 //［コウジ］：わかった。
-[Kohji]: I understand.
+[Kohji]: Got it.
 //目の前に船内マップが表示される。何だ、そんなにここから離れてはいない。
 The ship's interior map displayed in front of me. It doesn'tseem far from here at all.
 //［コウジ］：記憶した。これから行って、構わないのかい？
@@ -137,7 +137,7 @@ As I stood before the door, I heard busy  *click*, *click*  footsteps coming fro
 //［ファル］：で、あなた、何をしているの？
 [Far]: Well then, what are you doing?
 //［コウジ］：な、何って‥‥救出されたという人を見に来たのさ。ランファが、行っていいって。
-[Kohji]: What do you mean... I came here to see the rescued person. Lanhua said it was fine to come here.
+[Kohji]: W-what do you mean...? I came to see the person whowas rescued. Lanhua said it was okay to come here.
 //［ファル］：私が言っているのは、そんなところに突っ立って、何をしてるのってこと。
 [Far]: What I meant was, why are you just standing there.
 //［コウジ］：ノックはしたんだけど‥‥。
@@ -145,11 +145,11 @@ As I stood before the door, I heard busy  *click*, *click*  footsteps coming fro
 //［ファル］：フフ、面白いわね、コウジって。
 [Far]: *chuckle* How interesting you are, Kohji.
 //ファルは、ドアの傍らについてあるコンパネを押しながら、クスっと笑みをこぼした。どうやらノックをする必要はなかったらしい。
-Far pushed on the control panel by the door, and giggled a  little. It seemed knocking was unnecessary.
+Far pressed the control panel next to the door, and giggled a little. Apparently, knocking was unnecessary.
 //［トレイシー］：はい、どちらさま‥‥。
-[Tracy]: Yes, who is it...
+[Tracy]: Hello, who is it...
 //モニターには、あのトレイシーという金髪の女性が映し出される。いちいち対応が面白い。
-On the monitor, that blonde-haired woman Tracy showed up.　 Each interaction is interesting.
+On the monitor, that blonde-haired woman Tracy showed up.
 //［ファル］：トレイシー、開けて頂戴。
 [Far]: Tracy, please open the door.
 //［トレイシー］：わかりました。
@@ -167,7 +167,7 @@ I followed behind Far as we entered the room...
 //［ファル］：でも？
 [Far]: But?
 //［トレイシー］：衰弱が著しいです。栄養剤は投与しましたが‥‥。
-[Tracy]: They're showing significant weakness. I've already administered nutritional supplements, but...
+[Tracy]: They're showing significant weakness. I've already administered nutritional supplements...
 //［ファル］：例の症状はでてる？
 [Far]: Are they showing any symptoms?
 //［トレイシー］：いえ、ごく普通の睡眠です。
@@ -321,7 +321,7 @@ Bianca, was it...
 //fa_ba_b
 fa_ba_b
 //［コウジ］：あっ‥‥な、なにか？
-[Kohji]: Ah...What?
+[Kohji]: Ah... What?
 //［ファル］：もう、聞いていなかったの？
 [Far]: Honestly, weren't you listening?
 //［コウジ］：な、何を？
@@ -333,25 +333,25 @@ fa_ba_b
 //［ファル］：第２次調査隊シップの中から、救難信号が発されているらしいわ。
 [Far]: From the second investigative team's ship, we just　 received a distress signal.
 //［コウジ］：それって‥‥つまり？
-[Kohji]: And so..what does that mean?
+[Kohji]: And so... what does that mean?
 //［ファル］：つまり、３人目の可能性ありということ。
 [Far]: That means there could be a third person.
 //［ファル］：フフ、行ってみたいんでしょ？
 [Far]: *chuckle* shall we go?
 //［コウジ］：ああ、私がいたシップ‥‥らしいしね。
-[Kohji]: Ah, the ship I was on...probably.
+[Kohji]: Ah, the ship I was on... ... probably.
 //［ファル］：じゃ、行きましょう。ランファが格納庫で準備しているはずだわ。
-[Far]: Then, let's go. Lanhua is probably in the hangar　　 making preparations.
+[Far]: Then, let's go. Lanhua is in the hangar making　　　 preparations.
 //［コウジ］：い、今から？
 [Kohji]: Right now?
 //［ファル］：当たり前でしょう？　もし本当に生存者がいるのなら、一刻を争う時だわ。
-[Far]: Of course! If there really is a living person, we　　need to be able to save them at once.
+[Far]: Of course! If there's really someone alive, we need  to save them right away.
 //［ファル］：どうするの？　行くの、行かないの？
 [Far]: So, what will you do? Are you coming with us or not?
 //［コウジ］：行く。
 [Kohji]: I'll go.
 //［ファル］：フフ、そうこなくちゃ‥‥じゃあトレイシー、後のことは頼んだわ。ビアンカのことも‥‥。
-[Far]: *chucles* if that's how it is..... then Tracy, I'll  leave the rest to you. Bianca as well...
+[Far]: *chucles* if that's how it is..... Tracy, I'll leave the rest to you. Bianca as well...
 //［トレイシー］：わかりました、プロフェッサ。
 [Tracy]: Understood, Professor.
 //［コウジ］：（第２次調査隊の、スペースシップか‥‥‥‥。）
@@ -363,15 +363,15 @@ fa_ba_b
 //意外に考えていた時間は、短くなかったようだ。
 I didn't have the time I needed to think about these things.
 //私は、ファルに連れられて、格納庫とおぼしい場所へと案内されていた。
-Following Far, I was guided to what was probably the hangar.
+Following Far, I was guided to the hangar.
 //0060
 0060
 //ハンガーデッキの上には、小型のシャトルがスタンバイしていた。
 On the hangar deck, a small-scale shuttle was on standby.
 //エンジンらしき音が、格納庫内に響きわたっている。恐らくこれを利用して、第２次調査隊のシップへと乗り込むのだろう。
-An engine-like sound filled the hangar. This would probably be used to approach the second investigative team's ship.
+An engine-like sound filled the hangar. Likely coming from  what would be used to board the second investigative team's ship.
 //私たちが格納庫に入ると、シャトルの陰から女性が駆け寄ってきた。ランファという女性だ。
-We entered the hangar, and a woman appeared from the shadow of the shuttle. It was Lanhua.
+When we entered the hangar, a woman came running out from　 the shadows of the shuttle. It was Lanhua.
 //［ランファ］：プロフェッサ、準備はＯＫです。
 [Lanhua]: Professor, all preparations are complete.
 //ランファはチラリと私のことを一瞥しただけで、てきぱきとファルに報告をしている。
@@ -405,7 +405,7 @@ As I looked at that,
 //［コウジ］：あの、ランファって子、いったいどういう人なんだい？
 [Kohji]: Um, what kind of person is Lanhua?
 //［ファル］：どういうって‥‥私の有能な助手の１人ね。
-[Far]: How do I put it...she's a capable assistant to me.
+[Far]: How do I put it... she's a capable assistant to me.
 //［ファル］：彼女が、どうかした？
 [Far]: What about her?
 //［コウジ］：いや、何でもないんだ‥‥。

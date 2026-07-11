@@ -524,17 +524,17 @@ Earlier, Far used the term "investigative team." I wonder ifshe meant a scientif
 //そして‥‥‥‥。
 And then...
 //そして、唯一の生き残りが、この私だと‥‥‥‥。
-And then, I was the only living thing left...
+That I was the sole survivor...
 //［トレイシー］：あの、コウジさん、どうかなさいましたか？
-[Tracy]: Uh, Kohji-san, did something happen?
+[Tracy]: Uh, Kohji-san, is something wrong?
 //［コウジ］：トレイシー。
 [Kohji]: Tracy.
 //［トレイシー］：は、はい‥‥。
 [Tracy]: Y-yes?
 //［コウジ］：教えて欲しいんだ。私の事を‥‥。
-[Kohji]: I'd like you to explain something that happened to me.
+[Kohji]: Please tell me... about myself...
 //［トレイシー］：こ、コウジさんの事を‥‥ですか？
-[Tracy]: Something that happened to you?
+[Tracy]: A-About you yourself...?
 //［コウジ］：そうだ、私はいったいどこで‥‥‥‥。
 [Kohji]: Yes, where was I...
 //ピーピッ‥‥ピーピッ‥‥。
@@ -544,7 +544,7 @@ And then, I was the only living thing left...
 //［ファル］：トレイシー、まだそこにいたの？
 [Far]: Tracy, you were still there?
 //［トレイシー］：プロフェッサ‥‥何かあったのですか？
-[Tracy]: Professor...Did something happen?
+[Tracy]: Professor... is something the matter?
 //モニターの中には、さきほどの赤毛の女性が映し出されていた。ファルだ。
 On the monitor, the red-haired woman from earlier showed up.It was Far.
 //何か、慌てているような、そんな感じがする。
@@ -660,7 +660,7 @@ While I thought about that with my eyes closed...
 //部屋を見回してみる。しかし、誰もいない‥‥‥‥。
 I looked around the room, but no one was there...
 //［コウジ］：（気のせいか‥‥？）
-[Kohji]: (Was I imagining things?)
+[Kohji]: (Am I just imagining it...?)
 //そう思って、再び目を閉じかけたとき‥‥‥‥。
 As I thought that, I closed my eyes again...
 //［コウジ］：（気のせいじゃない‥‥！？）
@@ -778,7 +778,7 @@ But....
 //［コウジ］：えっ？
 [Kohji]: Yes?
 //［ランファ］：どうなさったんですか？
-[Lanhua]: What happened?
+[Lanhua]: Is something wrong?
 //［コウジ］：いや‥‥ランファとは、確か以前会ったよね。
 [Kohji]: No...I definitely met you before.
 //［ランファ］：以前って‥‥いつの話でしょうか。
@@ -792,17 +792,17 @@ But....
 //［ランファ］：だって‥‥‥‥。
 [Lanhua]: Because....
 //［コウジ］：前に以前、会ったはずだろう？
-[Kohji]: Before that, we met, right?
+[Kohji]: We met before, didn't we?
 //［ランファ］：それは、コウジさんの記憶に残っている、ということでしょうか？
-[Lanhua]: That's what you remembered. Isn't that right?
+[Lanhua]: So... you're saying it's something that remains inyour memory?
 //おかしな聞き方をする‥‥それ以外に、どう受け取れるというのだ。
-That was an odd question to ask. It was hard to take in.
+That was an odd question to ask. What other meaning could I have taken from that?
 //［ランファ］：それは、夢です‥‥。
 [Lanhua]: That was a dream...
 //［コウジ］：‥‥夢だって？
 [Kohji]: Only a dream?
 //［ランファ］：コウジさんは、夢を見ないのですか？
-[Lanhua]: Kohji-san, do you not have dreams?
+[Lanhua]: Kohji-san... don't you ever dream?
 //［コウジ］：私は‥‥‥‥。
 [Kohji]: I...
 //そういえば、最近はいつ眠ったのだろうか‥‥。
@@ -818,8 +818,8 @@ I can't remember... When did I...
 //［コウジ］：な、なぜ‥‥‥‥。
 [Kohji]: Why...
 //［コウジ］：なぜ、そんなことを言うんだ。
-[Kohji]: Why would you say that?
+[Kohji]: Why would you say something like that?
 //［コウジ］：君は、何を知っているんだ‥‥。
-[Kohji]: What do you know...
+[Kohji]: What is it that you know...
 //君は、何を‥‥‥‥‥。
 What do you...
