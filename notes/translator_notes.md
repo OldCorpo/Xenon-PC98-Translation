@@ -7,6 +7,8 @@ Allegedly the real world, where everyone is Japanese and every girl have a prope
 
 And the dream world, where nobody seems to be Japanese and every Name is on Katakana, you have Tracy that is the busty American girl, Bianca that I assume is Italian (by the name), Farneria who who's know she's from (can be Venus or any other planet, it doesn't matter, she's a psychic, def not an Earthling), and Lanhua that is Chinese 100%. In this world Kohji is written as コウジ.
 
+Farneria is an alien girl who can see the colors of the emotions of every living thing, to make it more understandable, I simplified it to "She can see aura colors".
+
 There's a lot of borrowed lingo in the game, examples:
 
 "Calvador" is a type of wine as far I know, found on "The Quadra is a Calvador-class light mobile ship"
