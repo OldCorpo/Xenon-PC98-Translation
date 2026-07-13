@@ -263,9 +263,9 @@ I wonder if it's OK to handle that so roughly?
 //［ランファ］：何が、でしょうか。
 [Lanhua]: What do you mean?
 //［宏治］：爆発するとか、言っていたじゃないか。
-[Kouji]: You said something about it exploding, didn't you?
+[Kouji]: You mentioned that this thing could explode, didn'tyou?
 //［ランファ］：もちろん、抜かりはありません。
-[Lanhua]: Of course, I've left nothing to chance.
+[Lanhua]: Don't worry. I've taken every precaution.
 //［宏治］：（本当に大丈夫かなぁ‥‥。）
 [Kouji]: (Will it really be OK...?)
 //［ランファ］：エヘ、コウジ様っ。

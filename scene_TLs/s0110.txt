@@ -65,7 +65,7 @@ As I looked at her standing figure from the shadows, I felt a little bit of nost
 //［ランファ］：そんな、悲しそうな顔をしないで‥‥。
 [Lanhua]: Please, don't make that sad face....
 //［ランファ］：コウジさんが悲しそうな顔をするの、耐えられない‥‥。
-[Lanhua]: when you make that sad face, I can't bear it.
+[Lanhua]: When you make that sad face, I can't bear it.
 //［コウジ］：君には、嫌われているのかと思っていたよ。
 [Kohji]: I thought you hated me.
 //［ランファ］：そんなこと‥‥。

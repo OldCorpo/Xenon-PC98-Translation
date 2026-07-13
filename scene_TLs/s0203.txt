@@ -427,7 +427,7 @@ kai_bast
 //［ビアンカ］：くだらぬ話はここまでだ、エンコーダと触媒の女は、もらっていく！
 [Bianca]: Your useless babbling ends here. I'm taking you tothe encoder and that catalyst woman!
 //［男の声］：ファルを！？
-[Man's voice]: To Far?!
+[Man's voice]: Far, too?!
 //［コウジ］：（どうやら、こちらの世界の宏治とやらいうヤツか‥‥。）
 [Kohji]: (That somehow seems to be this world's Kouji's　　 doing...)
 //［コウジ］：（みすみす、エンコーダを‥‥。）

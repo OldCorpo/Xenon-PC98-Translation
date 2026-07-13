@@ -13,15 +13,15 @@ As I felt tears roll down my cheek, I knelt down and nursed my fist. It hurt... 
 //［宏治］：やぁ‥‥。
 [Kouji]: H-hey...
 //［宏治］：爆発するとか、以前言っていたじゃないか。
-[Kouji]: You warned me before about your explosive temper,  didn't you?
+[Kouji]: You mentioned earlier that this thing could explodedidn't you?
 //［宏治］：まぁ、いいか‥‥それよりもさ、ランファ。
-[Kouji]: Well, anyway...ignoring all that, Lanhua...
+[Kouji]: Well, never mind... Anyway, Lanhua...
 //［宏治］：聞きたいことがあるんだ。
 [Kouji]: I have something to ask you about.
 //［ランファ］：何でも任せて下さい！
-[Lanhua]: Leave it all to me!
+[Lanhua]: Ask me anything!
 //［宏治］：ふぅ‥‥聞きたいことってのはさ‥‥。
-[Kouji]: Hoo...What I wanted to ask was...
+[Kouji]: Hoo... What I wanted to ask was...
 //［宏治］：あー、小難しい説明は無しね。トレイシーに聞くからさ。
 [Kouji]: Ahh, it's a little hard to explain. I heard it fromTracy, after all.
 //　◆ ファルネリア、君はいったい‥‥。
@@ -437,9 +437,9 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：サイキックプログラム・エンコーダが、正式名称よ。
 [Far]: Its full name is the Psychic Program Encoder.
 //［宏治］：もしかして、君が入っていたあの棺桶みたいなやつ？
-[Kouji]: Could it be that coffin-like thing that you were　 inside?
+[Kouji]: Could it be that capsule-shaped thing that you wereinside?
 //［ファル］：棺桶とは言ってくれるわね。あれは私が開発した、画期的なサイコエンコーダなのよ。
-[Far]: A 'coffin', you say? That's the revolutionary　　　　Psycho-Encoder that I developed.
+[Far]: A 'capsule', you say? That's the revolutionary　　　 Psycho-Encoder that I developed.
 //［宏治］：き、君が開発しただって！？　バカ言えよ！
 [Kouji]: Y-you developed it?! Unbelievable!
 //［ファル］：失礼ね。私はこう見えても、王立科学技術局に従事しているプロフェッサよ。
@@ -471,7 +471,7 @@ As I felt her tongue around me, a pleasant numbness swept　　over me...
 //［ファル］：フン、聞きたいのは私の歳のこと？
 [Far]: Hm, you want to know how old I am, don't you?
 //［宏治］：いや、本筋に戻ろう。トレイシーたちは、例の棺桶を大宇宙海賊なんとかジェネレータって、呼んでいたけど？
-[Kouji]: No, let's return to the original topic. Tracy and  Lanhua called the coffin-like thing the Universal Pirate　　something something Generator.
+[Kouji]: No, let's return to the original topic. Tracy and  Lanhua called the capsule-shaped thing the Universal Pirate something something Generator.
 //［ファル］：あれは、あなたが勝手に付けた名前なの。
 [Far]: That's the name you came up with.
 //［宏治］：ふーん、コウジってヤツは、そのエンコーダを利用して、何をしようとしていたんだい？

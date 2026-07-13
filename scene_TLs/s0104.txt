@@ -147,11 +147,11 @@ I had the feeling the same thing had happened before...
 //［目の前の女］：部屋にいなくなっていたから、どこへ行ったのかと思ったけど‥‥。
 [Woman before me]: Since you'd left your room, I was　　　　wondering where you were going...
 //［私］：そうか、君は確か‥‥何か、棺桶のような機械に‥‥。
-[Me]: Oh yeah, you were... you were in the coffin-like　　　machine.
+[Me]: Oh yeah, you were... you were in the capsule-shaped　 machine.　
 //［目の前の女］：棺桶‥‥‥‥
-[Woman before me]: Coffin-like?
+[Woman before me]: Capsule-shaped?
 //あぁ、エンコーダのことね。
- Ah, you mean the Encoder?
+Ah, you mean the Encoder?
 //目の前の女性はクスッと笑みを洩らすと、頬に垂れ掛かる赤い髪の毛をかき上げた。
 The woman was smiling gently. She brushed up her red hair infront of her cheeks.
 //［私］：エンコーダ？

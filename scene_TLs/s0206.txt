@@ -87,19 +87,20 @@ I reached the aforementioned computer room. The towering　　heavy-looking door
 //［コウジ］：おかしい、このキーで開くはずだが‥‥壊れているのか。
 [Kohji]: How odd, this key should open the door...it might  be broken.
 //ドアの前で、あれこれ思案する様は、どうも、かなり間抜けな醜態をさらしている気がする。
-In front of the door, I deliberated all sorts of things, butthen I realized how stupid I must look.
+In front of the door, I mused all sorts of things, but then I realized how stupid I must look.
 //どてっ。
 Doh.
 //［コウジ］：フン、私は同じ轍を踏まぬ。
 [Kohji]: Hmph, I fell into the same rut again.
 //フン、誰もいないなら、最初からそう言え。宇宙に名を轟かせる、この大宇宙海賊であるところの私が‥‥。
-Hmph, I should have been able to tell from the start if　　 anyone was here. With a name that reverberates through the  universe, the place containing me, the great galactic pirate....
+Hmph, If nobody was here, I should've told from the start.  Me, the great galactic pirate whose name reverberates acrossthe universe...
+#Hmph, I should have been able to tell from the start if　　 anyone was here. With a name that reverberates through the  universe, the place containing me, the great galactic pirate....
 //［恵］：宏治なの？
 [Megumi]: Is that you, Kouji?
 //唐突に下方から声を掛けられる。人が自己陶酔にふけっているときに話を掛けてくるとは、とんだ礼儀知らずだった。
 Suddenly, a voice called out from below me. What awful　　　manners she must have, to call out when someone is so　　　 self-absorbed.
 //［恵］：ちょっと、そんなとこに突っ立ってないでよ！
-[Megumi]: Wait, don't just get up and leave!
+[Megumi]: Hey, don't just stand there doing nothing!
 //［コウジ］：何をやっている？
 [Kohji]: What are you doing?
 //［恵］：見ればわかるでしょっ！？
@@ -113,7 +114,7 @@ Suddenly, a voice called out from below me. What awful　　　manners she must 
 //［恵］：なぜって‥‥怒るわよ！
 [Megumi]: What do you mean, "why?" ...You're making me　　　upset!
 //恵のこめかみに血管が浮き出したところで、やめておいた。
-Since Megumi's blood vessels were budding out of her templesI stopped teasing her.
+When a vein bulged on Megumi's temple, I decided to stop　　teasing her.
 //ほとんど半裸の恵に、幾重にも巻き付いている革ベルトを、さっさと解いていった。
 I quickly undid the leather belt that was wrapped several　 times around the nearly half-naked Megumi.
 //meg06_m
@@ -197,7 +198,7 @@ I didn't understand at all. Wasn't this Megumi-or-other　　 woman the lover of
 //ふむ、ロジカルに分析してみよう。
 All right, let's analyze this logically.
 //恵の言動から解釈するに、この脆弱な肉体に宿っていた精神は、同様に脆弱でかつ貧弱であったに違いない。
-Judging from Megumi's speech and conduct, the original　　　spirit that inhabited this puny body was just as puny, if　 notweaker.
+Judging from Megumi's speech and conduct, the original　　　spirit that inhabited this puny body was just as puny, if　 not even weaker.
 //それに対する、いらだち、怒り、そして不安を言動の端々に見て取ることができる。
 Faced with that, I can understand the frustration, anger,　 and uncertainty in all parts of her behavior.
 //［コウジ］：（だとすれば‥‥‥‥。）
@@ -437,11 +438,11 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 //［コウジ］：‥‥言葉遣いに気をつけろ。
 [Kohji]: ...Watch your language.
 //［恵］：はーい。こ・う・じ・さ・ま！　これでいい？
-[Megumi]: Yees. KOU. JI. Sa. Ma! Is that good?
+[Megumi]: Yeeeees. KOU. JI. Sa. Ma! Is that good?
 //［恵］：ね、宏治さま、もう１回しよっか？
 [Megumi]: Hey, Kouji-sama, can we do it again?
 //［コウジ］：そんなことより、恵、貴様に聞きたいことがある。
-[Kohji]: Before that, Megumi, I have something to ask of you
+[Kohji]: Forget that for now, Megumi. There's something I　 want to ask you.
 //［恵］：そんなことって、ずいぶんよね～。
 [Megumi]: That kind of thing is pretty extreme-.
 //［恵］：きゃっ、ごめんなちゃーい。何でもお聞き下さいませ。
@@ -471,7 +472,7 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 //［恵］：それってどういうことよぉ、まるで宇宙にでも行ったことがあるような口振り。
 [Megumi]: What do you mean by that? You're talking as thoughyou've gone all around the universe.
 //［コウジ］：フン、まぁいい‥‥それよりも、話が外れた。貴様に聞きたいことはな。
-[Kohji]: Hmm, well, enough of that...I have something to askof you.
+[Kohji]: Hmph. Never mind... Anyway, we gotten sidetracked. What I wanted to ask you was...
 //［恵］：星座のことじゃないんだ。
 [Megumi]: So it wasn't about the constellations?
 //［コウジ］：当たり前だ。貴様の父親は、確か政治家でこの医療センターのスポンサーと言っていたな。
@@ -483,9 +484,9 @@ With light flooding from below, her face had become pale,　 but as a carefree s
 //［コウジ］：うむ、その真偽のほどを知りたくてな。
 [Kohji]: Indeed, I want to confirm the veracity of that　　 statement.
 //［恵］：宏治さまの言う通りで、私の父は政治家でーす。
-[Megumi]: As Kouji-sama said, my father is a politician.
+[Megumi]: Just as you said, Kouji-sama, my father is a　　　politician.
 //［コウジ］：フン、そうか。
-[Kohji]: Hmm, is that so?
+[Kohji]: Hmph, I see.
 //私が満足そうに頷くのを、恵はそばで怪訝そうに眺めている。
 As I nodded, satisfied, Megumi looked on, puzzled.
 //［コウジ］：確か今は西暦‥‥２０世紀の末、ここは日本国というところだな。
@@ -505,7 +506,7 @@ As I nodded, satisfied, Megumi looked on, puzzled.
 //［恵］：だ、だってぇ‥‥。
 [Megumi]: B-but...
 //［恵］：ううん、そんなこと‥‥ないけど‥‥宏治、何だかすっごく頼もしくなったし‥‥以前まではちょっと、アレだったけど‥‥。
-[Megumi]: Umm, that sort of thing...hasn't happened before, but...Kouji, you've somehow become really reliable...up　　 until now, you've been a little...well, you know...
+[Megumi]: No, it's not like that... It's just... you've　　 really become someone I can rely on. Until recently, you　　were kind of... well... you know...
 //［コウジ］：ブツブツ文句の多いやつだ。どうなんだ？
 [Kohji]: You've been muttering to yourself quite a lot. Whatis it?
 //［恵］：でもぉ、私のお父様が許さないと思うわよぉ。

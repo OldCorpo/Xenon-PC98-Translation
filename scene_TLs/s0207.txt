@@ -15,7 +15,7 @@ Hmph, what ignorant fools, to appear in my dreams to　　　　irritate me...
 //［コウジ］：うるさいブタども、私こそは大宇宙‥‥。
 [Kohji]: You noisy animal, I am the universal....
 //［沙夜香］：どう、目が覚めた？
-[Sayaka]: Well, have you awakened?
+[Sayaka]: So, you're awake?
 //［コウジ］：フン、ランファならお目覚めのキッスをしてくれるところだな。
 [Kohji]: Hmph, if it were Lanhua, she would have awakened mewith a kiss.
 //［沙夜香］：外人に知り合いなんか、いないわ。
@@ -23,11 +23,11 @@ Hmph, what ignorant fools, to appear in my dreams to　　　　irritate me...
 //［コウジ］：まぁ、外人には違いないだろうがな。
 [Kohji]: Well, she *must* be a foreigner.
 //手で前髪をすこうとしたが、動かない。手どころか、足も身体も、動かすことができなかった。
-Even as I tried to run my hand through my hair, I didn't　　move. I couldn't move my arms, legs, or body.
+I tried to brush my forelocks back with my hand, but my handwouldn't move. In fact, not just my hand, I couldn't move mylegs or the rest of my body either.
 //［沙夜香］：フフ、しばらくそこにいてもらうわ。
 [Sayaka]: Huhu, you'll be staying there for a while.
 //下を見てみると、妙な革ベルトで、がんじがらめに縛られている。動くのは手先と首から上だけだ。
-As I looked down, I found I was bound at the hands and feet by strange leather belts. All I could move were my fingers, my neck, and my head.
+As I looked down, I found I was bound hands and feet by　　 strange leather belts. All I could move were my fingers, my neck, and my head.
 //［コウジ］：私に縛られる趣味はないがな。
 [Kohji]: I have no interest in bondage, you know.
 //［沙夜香］：私も縛る趣味はないのだけどね。
@@ -41,7 +41,7 @@ As I looked down, I found I was bound at the hands and feet by strange leather b
 //［コウジ］：恵はどうした？
 [Kohji]: What happened to Megumi?
 //［沙夜香］：元通り縛って、今度は眠って貰っているわ。
-[Sayaka]: I tied her back up, and this time I made her fall asleep.
+[Sayaka]: I tied her up again, and this time she's staying  asleep.
 //［沙夜香］：それに‥‥ウフフ、見えない？　あなたの斜め前に座っている女性が。
 [Sayaka]: Speaking of which...Uhuhu, haven't you seen? The  woman sitting diagonally across from you.
 //［コウジ］：なんだと？
@@ -413,7 +413,7 @@ xenon_29
 //［沙夜香］：りょ、涼子！　いったいいつのまに‥‥。
 [Sayaka]: Ry-Ryouko! Just when did you...
 //［涼子］：こ、宏治様‥‥‥‥うそ‥‥‥‥。
-[Ryouko]: K-Kouji-sama...it can't be...
+[Ryouko]: K-Kouji-sama... this can't be...
 //［沙夜香］：フン、どうやって抜け出してきたか知らないけど‥‥。
 [Sayaka]: Hmph, I don't know how you slipped out, but...
 //r&sb
@@ -427,7 +427,7 @@ r&sb
 //［沙夜香］：あなたも、同じめに、あわせてあげるわっ！
 [Sayaka]: I'll let you join him in kind, too!
 //［涼子］：三十路前にしてやっと伴侶を見つけたのにぃぃ‥‥。
-[Ryouko]: And I'd just found my partner before I'd hit my　 thirties...
+[Ryouko]: Just as I'd finally found my life partner before  I'd hit my thirties...
 //［沙夜香］：あら、それは残念ね。年増の恨み辛みは恐いこと。
 [Sayaka]: Oh my, how unfortunate. The grudges built up over years can be quite terrifying.
 //［涼子］：くらえぇっ、悔しさ倍増ジェラシー・パーーーーッンチィィ！！
@@ -435,7 +435,7 @@ r&sb
 //r&sc
 r&sc
 //［涼子］：このぉ～！　私の宏治様に、私のぉ！！
-[Ryouko]: YOU-! How could you do this to my Kouji-sama, my Kouji-sama!!
+[Ryouko]: YOU-! How could you do this to my Kouji-sama, my  Kouji-sama!!
 //［沙夜香］：痛っ‥‥痛い、痛いわ、やめてぇっ！
 [Sayaka]: Ow...ow, that hurts, stop it!
 //ゲシッ、ゲシッ、ゲシッ！
@@ -448,6 +448,7 @@ Thump, thump, thump!
 [Ryouko]: You bitch, you bitch!!
 //［沙夜香］：きゃぁぁ、やめてぇぇ‥‥お願い‥‥痛っ、痛いわ‥‥もう堪忍してぇぇぇっ！！
 [Sayaka]: Kyaaaa, stop iiiit....please...ow, that hurts.....please have mercyyyyy!!
+[Sayaka]: Kyaaaa, stop iiiit... please... ow, that hurts....please have mercyyyyy!!
 //［涼子］：こっちはねっ、堪忍袋の緒が切れてんのよっ！
 [Ryouko]: The drawstring on my bag of mercy has been cut!
 //［涼子］：資金ぐりの時も、いつもいつも私の邪魔をして、役人の権威を振りかざせばいいと思って‥‥。
@@ -503,7 +504,7 @@ Thump, thump, thump.
 //r&m&m
 r&m&m
 //［舞］：う、うそ‥‥宏治サン‥‥。
-[Mai]: I-it can't be...Kouji-san...
+[Mai]: I-it can't be... Kouji-san...
 //［恵］：し、死んじゃったの？
 [Megumi]: D-did he die?
 //［涼子］：わからない‥‥でも、脳味噌が恐らくパイ投げのパイのようになっちゃっているんじゃ‥‥。

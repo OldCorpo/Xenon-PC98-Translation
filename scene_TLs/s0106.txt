@@ -263,7 +263,7 @@ With good timing, Far called out to me.
 //［ファル］：同じ轍を踏まないよう、私たちは惑星圏外から、エンコーダを使用して調べていたの。
 [Far]: We won't be going into the same rut, since we'll be  outside the planetary sphere, and using the encoder to　　　investigate.
 //［コウジ］：あの、棺桶みたいな装置か‥‥。
-[Kohji]: Um, the coffin-like devices are...
+[Kohji]: Um, the capsule-shaped devices are...
 //［ファル］：そう、あれがエンコーダ。
 [Far]: Yes, those are encoders.
 //［コウジ］：‥‥彼らは、いまどこに？
@@ -389,7 +389,7 @@ This device was only to be used in times of insufficient　　oxygen. If you're 
 //ま、言ってみれば気休めみたいなものだった。
 In other words, it was little more than a psychological　　 relief.
 //［ファル］：じゃ、私が操縦するから、２人は後部座席に座って頂戴。
-[Far]: In that case, I'll be maneuvering, so you two should sit in the back seat.
+[Far]: In that case, I'll be piloting, so you two should sitin the back seats.
 //［コウジ］：あぁ‥‥。
 [Kohji]: Ah...
 //［ランファ］：わかりました。
@@ -413,7 +413,7 @@ As I looked at that,
 //［ファル］：変な人ね。
 [Far]: You're rather curious, aren't you?
 //ファルは私のことを怪訝そうに見ていたが、すぐに自分の仕事にとりかかった。
-Far looked at me with a puzzled expression, but soon　　　　returned to the task at  hand.
+Far looked at me with a puzzled expression, but soon　　　　returned to the task at hand.
 //コクピットに乗り込み、シャトル発信に備えている。
 As she got into the cockpit, she prepared the shuttle for　 liftoff.
 //それにしても‥‥。
@@ -721,7 +721,7 @@ ra06b_m
 //［ランファ］：え、ええ‥‥動力部の点検を、少し‥‥。
 [Lanhua]: Uh...I was just inspecting the power unit...
 //どうも妙な案配だった‥‥。
-What a strange idea...
+That sounded rather strange...
 //なぜ、第２次調査隊シップの、動力部の点検をする必要があるのか？
 Why would the second investigative teams' ship need a power unit inspection?
 //私は再びハシゴを昇っていくと、元のエンジンルームへと戻っていった。
@@ -731,13 +731,13 @@ Maybe leaving the engine room is better.
 //きびすをかえして、エンジンルームを出ていこうとしたとき、後ろの方から、
 As I turned on my heels to leave the engine room, I heard a voice from behind:
 //ランファは、さきほどのハシゴを指さした。
-Lanhua pointed to the earlier ladder.
+Lanhua pointed toward the ladder from before.
 //［ランファ］：コウジさんは‥‥？
-[Lanhua]: Kohji-san, will you...?
+[Lanhua]: Kohji-san...?
 //ファルの言ったことを、私は思い出していた。
-I remembered what Lanhua said.
+I remembered what Far said.
 //ところどころのレイアウトは異なっていたが、おおむね、ファル達のシップと構造は同じだった。
-There were a few places where the layout differed, but　　　overall, it had the same plan as Far's and Lanhua's ship.
+There were a few places where the layout differed, but　　　overall, it had the same plan as Far's and the others' ship.
 //［コウジ］：（ファル、いるかな‥‥。）
 [Kohji]: (Far's probably there...)
 //私は、エンジンルームを後にした‥‥。

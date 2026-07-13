@@ -115,7 +115,7 @@ s0306a
 //［宏治］：んー‥‥意外に難しいな。
 [Kouji]: Mm, this is harder than I thought.
 //［ランファ］：ランファのことが、嫌いなんですか？
-[Lanhua]: Do you hate Lanhua?
+[Lanhua]: Do you hate me?
 //［宏治］：違うよ。
 [Kouji]: No, I don't.
 //［ランファ］：じゃあ、好き？

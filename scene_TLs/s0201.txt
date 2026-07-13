@@ -27,7 +27,7 @@ ra&to03c
 //［トレイシー］：コウジ様、お気をつけ下さい。
 [Tracy]: Kohji-sama, please be careful.
 //［ランファ］：コウジ様ぁ、ランファの為に、きっと帰ってきて下さぁい。
-[Lanhua]: Kohji-samaa, for my sake, please definitely come  baack.
+[Lanhua]: Kohji-samaa, for my sake, please definitely come  baaaaaack.
 //［コウジ］：うむ、このジェネレータは私が大幅に改良したものだからな。理論上は完璧だ。
 [Kohji]: Indeed, I made a great improvement to this　　　　 generator. It's theoretically complete.
 //［トレイシー］：はい、そう信じています。
@@ -41,25 +41,25 @@ The blonde woman with glasses was Tracy. My secretary, staffmember, and slave.
 //よく気の付く性格は、まことに秘書に相応しい。全銀河秘書にしたいベスト１０というのがあれば、その中に間違いなく名を連ねたろう。
 The most common personality she showed was a straightforwardsecretary. If I were to rank the 10 best secretaries of the entire Milky Way, she would certainly be among them.
 //そして、大きなレモンイエローのリボンがトレードマークの、まだあどけなさの取れない顔つきの女は、ランファという。
-Also, the unbearably innocent woman with the trademark big  lemon-yellow ribbon is Lanhua.
+And the young woman with the large lemon-yellow ribbon that was her trademark, whose face still had a childlike look,　 is Lanhua.
 //この機動シップ《クワドラ》の機関士兼、航海士でかつ私の奴隷だ。
-She is this mobile ship Quadra's engineer, navigator, and myslave.
+She is the engineer and navigator of this mobile ship, the  Quadra, and my slave.
 //脳のシナプスの２、３万本は、常に焼き切れている、ちょっと間の抜けた女だ。だが、メカに対する知識は深く、この《クワドラ》に無くてはならない存在である。
-The twenty or thirty thousand synapses in her brain are　　 frequently burned out, so she's a little dumb. However, she has deep knowledge of mechas, and is an irreplaceable　　　 presence on the Quadra.
+Twenty or thirty thousand of her brain's synapses are　　　 permanently burned out, making her a bit dumb. But she has  an extensive knowledge of machinery, and she's indispensableto the Quadra.
 //［コウジ］：大宇宙海賊御用達霊子エナジー増幅ジェネレータの準備は万端か？
 [Kohji]: Did you finish preparing the Universal Pirate　　　Company Reiko Energy Amplifying Generator?
 //［ランファ］：はい、言われたとおりの数値データは、すでにインプットされてます。
-[Lanhua]: Yes, the numerical data you spoke of has already  been input.
+[Lanhua]: Yes, I've already input the numerical data as you requested.
 //［トレイシー］：後は、ファルネリアさんのシンクロを待つだけですわ。
 [Tracy]: All we have to do now is wait for Farneria's　　　 synchronization.
 //［コウジ］：うむ。
 [Kohji]: Indeed.
 //私はうなずきながら、隣の装置に入っている女性を横目で見た。
-As I nodded, I glanced sideways at the woman placed in the  equipment next to me.
+As I nodded, I glanced sideways at the woman placed inside  the capsule-shaped apparatus next to me.
 //［コウジ］：（後は、あの女が上手くシンクロしてくれれば‥‥。）
 [Kohji]: (As long as this woman will synchronize well...)
 //彼女‥‥ファルネリアという名前の女性は、非常に精神感応の力に優れている。今回この計画には、彼女のような人材が必要不可欠だったのだ。
-She was...a woman named Farneria, with unusually good　　　 telepathic abilities. Personnel like her will be a vital,　 irreplaceable part of my plans this time.
+She is... an alien named Farneria, with unusually good　　　telepathic abilities. Personnel like her will be a vital,　 irreplaceable part of my plans this time.
 //大宇宙海賊御用達霊子エナジー増幅ジェネレータ‥‥私が付けたナイスネームのこの装置は、人体から霊子エネルギーを分離する。
 The Galactic Pirate Company Reiko energy amplifying　　　　 generator... this well-named system I made would extract　　Reiko energy from human bodies. 
 //早い話が、幽体分離装置である。

@@ -147,7 +147,7 @@ The dial tone sounded several times, then the receiver on　 the other end was s
 //［コウジ］：いや、患者ではない。コウジだ。
 [Kohji]: No, I'm not a patient. I'm Kohji.
 //［女の声］：はいはい、しょうがないわね、涼子先生に言っておかなくちゃ‥‥ブツブツ。
-[Woman's voice]: Right, right, well, it can't be helped. I  have to tell Ryouko-sensei...Hehe.
+[Woman's voice]: All right, all right. It can't be helped.  I'll have to let Dr. Ryouko know... *mutter* *mutter*
 //ブチッ。
 *clunk*
 //［コウジ］：フン、まぁいい。さてと‥‥。
@@ -157,47 +157,47 @@ xenon_25
 //私は、さっと部屋を見回してみた。
 I slowly looked around the room.
 //太陽光線が淡く差し込んでいる。どこからか、鳥のさえずりも聞こえてくるようだった。
-The sun rays were dimly filtering through. I heard the　　　chirping sounds of birds from somewhere.
+The sun rays were dimly filtering through. And I can hear　 birds chirping somewhere outside.
 //どうやら、ここはどこぞの惑星上らしい。しかも、ひどく開発途上にある古代文明だ。
-I was on some planet-like place, somehow. However, there wassome dreadfully developing ancient civilization here.
+Apparently, I was on some unknown planet. Worse still, it　 seemed to be home to a woefully underdeveloped civilization.
 //空調設備はろくに整備もしていないらしい。耳障りなファンの音を部屋中に響かせ、不快指数を上昇させている。
-The air conditioning probably needed maintenance. The　　　 annoying sound of fans filled the room, and raised the　　　uncomfortability index.
+Apparently, the climate-control system hadn't been properly serviced. The irritating whir of the fans echoed through theroom, making it even more uncomfortable.
 //［コウジ］：まぁ、いいだろう‥‥。
 [Kohji]: Well, it's fine...
 //私はベッドから立ち上がると、安っぽいスリッパに足を通した。ふむ、履き心地は悪くない。
 I stood up from the bed, and slid on cheap-looking slippers.Hmm, they feel quite comfortable.
 //しかし身体の調子がやけにおかしい。身体の節々が痛み、しかも間接を折り曲げると筋肉が痛い。
-However, my body's condition is really odd. My muscles ache,or maybe just unnaturally bending them makes them ache.
+However, something felt very wrong with my body. Every jointached, and whenever I bent one, my muscles hurt as well.
 //どうやら、かなり脆弱な肉体らしい。このような肉体を保持する精神も、脆弱であることが用意に想像がつく。
-This body is somehow quite puny. A mind that preserves this kind of body can easily imagine how vulnerable it is.
+This body is quite puny. It's easy to imagine that the mind inhabiting such body would be just as fragile as it.
 //［コウジ］：宇宙海賊には、ほど遠い肉体だな‥‥。
 [Kohji]: This body is far from that of a galactic pirate...
 //［コウジ］：フン、まぁいい。さて、ドアは‥‥ここか。
-[Kohji]: Hmph, well, it's ok. Now, then, the door is...here.
+[Kohji]: Hmph, well, it's ok. Now, then, the door is... here
 //バコッ！
 *Bam!*
 //ふむ、ドアは自動ではなく、手動と。
 Hmm, the door is not automatic, but hand-operated.
 //私の状況分析は的確だ。どうやら、かなり原始文明らしいな、ここは‥‥。
-I analyzed the situation correctly. Somehow, this place feltrather like one from the original civilization...
+My first assessment was spot on. This place belongs to a　　rather primitive civilization...
 //私は赤くなった額をさすりながら、部屋を後にした‥‥。
 Rubbing my reddened forehead, I left from the room...
 //室内は冷房を入れていたか、あるいは廊下に暖房をきかせているのか‥‥非常に不快だった。
-Either the room I came from was kept cold, or the corridor  was kept hot...I was quite uncomfortable.
+Either the room I came from was kept cold, or the corridor  was kept hot... I was quite uncomfortable.
 //［コウジ］：ゴミゴミしていて、不衛生な場所だ。
 [Kohji]: This place feels so messy and unsanitary.
 //あちこちに、良く見ると、何かのアルミ缶やパックが無造作に置いてあったりする。不衛生でかつ管理もずさんだ。
 Looking closely, were army packs and tins littered all over the place. It was poorly maintained and quite unsanitary.
 //［コウジ］：どうやら、かなり開発途上の文明らしい。
-[Kohji]: This seems like a developing civilization.
+[Kohji]: Definitely, this is a primitive civilization.
 //たまにすれ違う何人かの者たちは、魚の腐ったような、やる気のない光を目に浮かべながら、傍らを寡黙に通り過ぎていく。
-When some people pass by me, their eyes are glazed over,　　like rotting fish, as they silently walk by.
+The few people I occasionally passed by, walked their way　 in silence, their eyes dull and lifeless, like the ones of arotten fish.
 //［宏治］：ふむ、原住民はヒューマノイドが大半だな。
-[Kouji]: Curious, the natives seem to be mostly humanoids.
+[Kouji]: Interesting, the natives seem to be predominantly  humanoid.
 //しかし妙だった。ここにいる者たちは、例外無く顔に不気味な笑みを浮かべ、リスのようにオドオドしているではないか。
 It's quite odd, though. The people here seem to have,　　　 without exception, uncannily creepy smiles plastered on　　 their faces, and act nervously, like squirrels.
 //いったい、何がそんなに不安なのか‥‥。
-What on earth could be the cause of that unease...?
+What was it that made them so uneasy...?
 //［コウジ］：いや、待てよ‥‥‥。
 [Kohji]: No, hold on...
 //この惑星では独裁政治が長きにわたり続いており、民衆たちの間には貧困と差別と怠惰が蔓延している。
@@ -215,13 +215,13 @@ In that scenario, the strongest galactic pirate (me) has　　appeared before th
 //［コウジ］：フフン。
 [Kohji]: Heheh.
 //的確な分析をした後は、気分がよくなる。私は、軽快なステップを踏みながら、廊下を進んでいった‥‥。
-After correctly analyzing the situation, I felt much better.With a spring in my step, I descended down the corridor... 
+After such an accurate analysis, I felt much better. With a spring in my step, I made my way down the corridor...
 //ドカッ！
 *bump*!
 //［女］：ちょっと、よそ見してないでよ！
-[Woman]: Hey, don't look away!
+[Woman]: Hey, pay attention!
 //［女］：なによ、その魚の腐ったような目は。オドオドしちゃって、まるでリスか何かね‥‥フンッ。
-[Woman]: What is with those eyes like a dead fish, and that nervous behavior? It's like you're a squirrel...Hm.
+[Woman]: What's with those rotten-fish eyes? Acting so timid and skittish, like you're a squirrel... Hmph.
 //その女は言いたいことだけ言うと、さっさときびすを返して立ち去ってしまった。
 After only saying her piece, that woman quickly turned on　 her heels and walked away.
 //［コウジ］：フン、まぁいい。
@@ -275,7 +275,7 @@ As I turned on my heels, from behind me,
 //［女の子］：良かった、死んでしまったかと思った‥‥。
 [Girl]: Oh thank goodness, I thought you had died...
 //失礼な女だった。いきなり人を殺そうとするとは。
-What a rude woman, suddenly killing people like that.
+What a rude woman, trying to kill someone out of nowhere.
 //［コウジ］：誰だ、貴様は？
 [Kohji]: Who the hell are you?
 //［女の子］：舞です‥‥宏治サン。どうしたんですか？　私、屋上が好きだから、よく来てるんです。
@@ -367,7 +367,7 @@ It seems that Ryouko woman uses it...
 //下に降りて、いろいろと観察してみよう。
 As I descend, I should observe a few things.
 //まずは階下に降り、現状の観察および分析を行う。しかるのち、何らかの行動を起こすのが合理的だろう。
-First, as I head downstairs, I'll analyze and observe my　　current situation. After that, it would be rational to　　　carry out some plan.
+First, I'll go downstairs and observe the current situation.After that, it would be rational to decide on a course of　 action.
 //大宇宙海賊は、効率を優先する。無駄なことは一切省くポリシーを私は持っている。
 A galactic pirate prioritizes efficacy first. My policy is  that useless matters should be cut out entirely.
 //［コウジ］：うむ、我ながら、効率的だ‥‥。
@@ -375,7 +375,7 @@ A galactic pirate prioritizes efficacy first. My policy is  that useless matters
 //別にロビーに置いてあるであろう新聞の類を、読みにいく訳ではない。大宇宙海賊は、そんなオヤジ臭いことはしないのだ。
 I didn't come down to the lobby just to read the news postedthere. A galactic pirate doesn't behave like an old geezer.
 //エレベータから降りると、まっさきにソファの傍らに置いてある新聞コーナーへと行く。
-As I got off the elevator, I immediately went to the news　 corner by the sofa.
+As I got off the elevator, I went straight to the newspaper stand beside the sofa.
 //ニュースペーパーこそ、その地域の文化文明を知る、もっとも効率的な情報源なのだ。
 The newspaper itself told about the area's culture and　　　civilization, and therefore, it was an efficient source of  information. 
 //パサッ。

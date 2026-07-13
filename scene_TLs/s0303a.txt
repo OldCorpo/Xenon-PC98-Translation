@@ -275,7 +275,7 @@ s0303a
 //［ランファ］：しょうがないわねっ、じゃあ今から行く。
 [Lanhua]: Fine, then. I'll go now.
 //［トレイシー］：よろしくね‥‥あっ、コウジ様。
-[Tracy]: Good luck...Ah, Kohji-sama.
+[Tracy]: Good luck... Ah, Kohji-sama.
 //［トレイシー］：私、心の底からコウジ様のことをご心配申し上げて‥‥。
 [Tracy]: From the bottom of my heart, I have been most　　　concerned about you, Kohji-sama...
 //［ランファ］：ハイハイ、雑音は消さないとねっ。
