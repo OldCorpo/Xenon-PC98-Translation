@@ -413,7 +413,7 @@ Huh? I did?
 //［宏治］：て、手塩‥‥？
 [Kouji]: L-love and effort?
 //［ランファ］：言うなれば、ランファとコウジ様の、愛の結晶と言えるかもしれませんね。
-[Lanhua]: You could say it’s the fruit of our mutual love,  I suppose.
+[Lanhua]: You could say it's the fruit of our mutual love,  I suppose.
 //［トレイシー］：何が愛の結晶ですか！
 [Tracy]: What's the fruit of love here?!
 //［ランファ］：‥‥‥あっ、回線がオンになってるぅ。トレイシー、盗み聞きするなんて、フェアじゃないわっ！
