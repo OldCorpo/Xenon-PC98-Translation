@@ -1,0 +1,17 @@
+%YAML 1.2
+---
+# See http://www.sublimetext.com/docs/syntax.html
+#file_extensions:
+#  - txt
+scope: text.plain.enhanced
+contexts:
+  main:
+
+    # Comments begin with a '//' and finish at the end of the line
+    - match: '^//.*$'
+      scope: comment.line.double-slash.plaintext
+    
+    # comments
+    - match: '^#.*$'
+      scope: comment.line.number-sign.plaintext
+
