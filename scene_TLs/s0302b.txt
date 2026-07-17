@@ -179,7 +179,7 @@ s0302b
 //［宏治］：そ。そのジェネレータの機能の概説とやらを、教えてくれ。
 [Kouji]: Yes. Please give me a summary of that generator's  capabilities.
 //［トレイシー］：私も詳しくは知らないのですが、コウジ様がおっしゃるに、何でも大変なシロモノとか。
-[Tracy]: I don't know the specifics, but from what　　　　　Kohji-sama has said, it's a extraordinary piece of equipment.
+[Tracy]: I don't know the specifics, but from what　　　　　Kohji-sama has said, it's a extraordinary piece of equipment
 //［宏治］：た、大変なシロモノ‥‥それが機能の概説？
 [Kouji]: A-an important appliance...Is that your summary of its capabilities?
 //［トレイシー］：コウジ様が、それしかお教え下さらなかったのではありませんか。

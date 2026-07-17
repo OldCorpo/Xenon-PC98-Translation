@@ -409,7 +409,7 @@ xenon_10
 //［コウジ］：‥‥上にいるファルたちは、どうするんだい？
 [Kohji]: ...What are you going to do about Far and the　　　others up there?
 //［ランファ］：あの異星の方々は、私たち人類の文明を、単なる興味と利権のみの対象でしか、見ていなかった‥‥。
-[Lanhua]: Those aliens *gazing at Far* only ever saw human  civilization as an object of curiosity and self-interest...
+[Lanhua]: Those aliens (Far's face flashed through her mind)only ever saw human civilization as an object of curiosity  and self-interest...
 //［コウジ］：前回と前々回の彼らには、穏便に退場願ったけどね。
 [Kohji]: But you let the ones from the previous two visits  leave peacefully.
 //［ランファ］：ええ‥‥でも、ファルたちは違うような気がします。
