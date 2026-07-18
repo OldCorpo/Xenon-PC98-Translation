@@ -119,7 +119,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：ほらほら、そんな顔しないの。男前が台無しよ。
 [Ryouko]: Now, now, what's with that face? You're ruining　　your handsome looks.
 //［宏治］：‥‥どうしても、やらなきゃダメなの？
-[Kouji]: ...There's no way I can avoid it?
+[Kouji]: ...There's no way I can avoid this?
 //［涼子］：ええ、どうしても、やらなきゃダメなの。
 [Ryouko]: Yes, no matter what, you can't avoid it.
 //［涼子］：ね？　ほら、決意が変わらないうちに、あそこへ‥‥。
@@ -175,7 +175,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［宏治］：りょりょりょりょ‥‥‥‥‥。
 [Kouji]: Ryo-ryo-ryo-....
 //［涼子］：ほら、お・や・す・み‥‥‥‥チュッ。
-[Ryouko]: Now, now, it's time. to. sleep....*kiss*
+[Ryouko]: Now, now, it's time. to. sleep.... *kiss*
 //［宏治］：りょ、涼子‥‥せんせ‥‥‥‥。
 [Kouji]: Ry-Ryouko...sensei....
 //［宏治］：‥‥‥‥
@@ -195,7 +195,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：そのまさかよ。さぁ宏治クン、お目覚めの時間。
 [Ryouko]: Oh, but it is. Now, Kouji-kun, it's time to wake  up.
 //［宏治］：りょ、涼子先生‥‥これはいったい‥‥。
-[Kouji]: Ry-Ryouko-sensei...what on earth is this....
+[Kouji]: Ry-Ryouko-sensei... what on earth is this...
 //［涼子］：おーっほっほっほ！
 [Ryouko]: O-hohoho!
 //［宏治］：涼子先生、さっきとキャラクタが違うぜ。
@@ -221,7 +221,7 @@ As I felt something cold and hard against my cheek, I　　　　remembered my c
 //［涼子］：ね？　だから大丈夫よ。
 [Ryouko]: See? It'll be fine.
 //［宏治］：舞さん‥‥舞さん！
-[Kouji]: Mai-san...Mai-san!
+[Kouji]: Mai-san... Mai-san!
 //［宏治］：起きないじゃないか。
 [Kouji]: She's not awake, is she?
 //［涼子］：それはそうよ。だって起きたら、暴れるんだもの。
@@ -257,7 +257,7 @@ The problem here is, this sleeping comfort is nice, and the soft feeling of the 
 //なんだ、何も問題は無いじゃないか。
 What the heck, there's no problem at all, is there.
 //コウジ様‥‥‥‥コウジ‥‥‥‥‥‥。
-Kohji-sama....Kohji.......
+Kohji-sama... Kohji.......
 //何だ‥‥‥‥。
 What is it...
 //綺麗な透き通った声が２つ、オレを呼んでいるようだった‥‥。
@@ -267,7 +267,7 @@ I slowly and gently opened my tightly shut eyelids....
 //［右の女］：ああン、コウジ様、コウジ様ぁ～。
 [Woman on the right]: Ahhhn, Kohji-sama, Kohji-samaa-.
 //［左の女］：良かった‥‥コウジ様‥‥。
-[Woman on the left]: Thank goodness...Kohji-sama....
+[Woman on the left]: Thank goodness... Kohji-sama....
 //［左の女］：ご気分はいかがです？
 [Woman on the left]: Are you feeling well?
 //［右の女］：よかったですぅ、コウジ様が生きてらして‥‥。
@@ -293,11 +293,11 @@ I slowly and gently opened my tightly shut eyelids....
 //［右の女］：ランファだって、ランファだってコウジ様の、大切で掛け替えのない女性なんだからぁ。
 [Woman on the right]: Me too, I'm Kohji-sama's important,　 irreplaceable woman.
 //［トレイシー］：ランファ、それは言い過ぎです。私が１番の‥‥。
-[Tracy]: Lanhua, that's talking yourself up too much. I'm　　his number one....
+[Tracy]: Lanhua, that's talking yourself up too much. I'm　　his number one...
 //［ランファ］：ランファだモン。
 [Lanhua]: Lanhua is the best, after all!
 //［宏治］：あ、あのさ‥‥。
-[Kouji]: U-ummm....
+[Kouji]: U-ummm...
 //［トレイシー・ランファ］：はい、なんでしょう？
 [Tracy and Lanhua]: Yes, what is it?
 //［宏治］：と、とりあえず、状況が見えないから説明が欲しい。
