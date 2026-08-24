@@ -1,0 +1,7 @@
+{
+  // Custom rulers
+  //"rulers": [20, 60, 120, 180, 240],
+  "rulers": [60, 120, 180, 240],
+  "word_wrap": false,
+  "wrap_width": 100,
+}

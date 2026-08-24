@@ -5,49 +5,49 @@ xenon_21
 //ほとんど廃墟と化した遺跡の中を、私は歩いていた。
 In the middle of the ruins, I journeyed on.
 //黄褐色の不気味な光が、うっすらと差し込んで足下を照らしている‥‥恐らくこの惑星の、年老いた衛星が放つ光だろう。
-The eerie, drab yellow light shined on my foot sunk in the sand...it probably came from an old satellite of this planet.
+The eerie, drab yellow light shined on my foot sunk in the  sand...it probably came from an old satellite of this planet
 //私は暗がりの中を慎重に進んでいった。床は意外に堅く、足音が洞窟内にコツコツと、寂しく響きわたる。
-In the darkness, I carefully proceeded. The ground was unusually hard, and my sharp footsteps rang in the caves.
+In the darkness, I carefully proceeded. The ground was　　　unusually hard, and my sharp footsteps rang in the caves.
 //明らかに人工物とおぼしい瓦礫の中を、私は黙々と歩いていた。加工された木材や金属らしきものが、あちこちから飛び出している。
-I silently walked among apparent artifacts and odd rubble. Partially finished wood and metal objects popped out all over the place.
+I silently walked among apparent artifacts and odd rubble.  Partially finished wood and metal objects popped out all　　over the place.
 //しかし、長い年月のあいだに風化したそれらは、私の靴底で簡単に砕け散り、砂と変わっていった。
-However, after weathering over many years, they easily crumbled underfoot and became dust.
+However, after weathering over many years, they easily　　　crumbled underfoot and became dust.
 //ふと立ち止まって脇を見ると、階段らしきものを発見した。手すりのようなものに、弦巻状の植物が複雑に絡み付いている。
-As I suddenly stopped to look to my side, I noticed what looked like a ladder. Ringlike plants were intricately entangled in the seemingly handmade structure.
+As I suddenly stopped to look to my side, I noticed what　　looked like a ladder. Ringlike plants were intricately　　　entangled in the seemingly handmade structure.
 //構造的な建設ができるということは、意外に文明が、栄えていたのかもしれない‥‥。
-If they were capable of structural construction, the previous civilization must have been quite cultured and prosperous...
+If they were capable of structural construction, the　　　　previous civilization must have been quite cultured and　　 prosperous ...
 //［コウジ］：（上の階には、いったい何があるんだろう‥‥。）
-[Kouji]: (What could there be in the layer above?)
+[Kohji]: (What could there be in the floor above?)
 //塵や埃、ツタ系の植物が鬱蒼と生い茂っていて、足場の確認がかなり困難だった。ライトを持ってこなかったことを、少しだけ後悔する。
-In the dust, the ivy was densely overgrown, and it was difficult to get a good foothold. I slightly regretted not bringing a light.
+In the dust, the ivy was densely overgrown, and it was　　　difficult to get a good foothold. I slightly regretted not  bringing a light.
 //もっとも目の前の苦難は、私の好奇心を負かす事ができなかったようだった。
-But even then, my curiosity couldn't lose against the ordeals before me.
+But even then, my curiosity couldn't lose against the　　　 ordeals before me.
 //［コウジ］：（行ってみるか‥‥。）
-[Kouji]: (Let's go...)
+[Kohji]: (Let's go...)
 //ところどころ破損した箇所を慎重に避けながら、私はゆっくりと階段を上がっていった。
-Carefully avoiding broken rungs along the way, I slowly made my way up the ladder.
+Carefully avoiding broken rungs along the way, I slowly mademy way up the ladder.
 //1020_3
 1020_3
 //1020_2
 1020_2
 //［コウジ］：（ここは‥‥‥‥。）
-[Kouji]: (What is this?)
+[Kohji]: (What is this?)
 //目の前には、比較的長い道が、一直線に奥へと伸びていた‥‥。
-In front of me, a rather long path extended deeply in a straight line...
+In front of me, a rather long path extended deeply in a　　 straight line...
 //地面や側壁などにはヒビが入り、あれ果てた状態だったが、はるか昔は、綺麗に整備された気配をうかがわせる。
 The walls and floor were cracked, but I can tell that long  ago, it must have been maintained in a beautiful state.
 //先史文明とやらの、レベルの高さという訳だろうか。
 This spoke to the high level of the previous civilization.
 //［コウジ］：（しかし、ここはどこかで‥‥‥‥。）
-[Kouji]: (But now, it's just ruined everywhere...)
+[Kohji]: (But... I've seen this place somewhere before...)
 //例の既視感覚、というやつだろうか‥‥単なる思い違いか、あるいは予知と呼ばれるものなのか‥‥。
-It might have been deja vu...or it might have been a misunderstanding, or it might have been some sort of precognition...
+It might have been deja vu...or it might have been a　　　　misunderstanding, or it might have been some sort of　　　　precognition...
 //だが、構造的に明らかに覚えがあった。私はゆっくりと、記憶の糸を手繰りだした。
-But, I somehow remembered the structure clearly. I slowly unraveled that thread of memory...
+But, I somehow remembered the structure clearly. I slowly　 unraveled that thread of memory...
 //［コウジ］：（そういえば‥‥‥‥。）
-[Kouji]: (Speaking of that...)
+[Kohji]: (Speaking of that...)
 //［コウジ］：（ま、まさか‥‥‥‥。）
-[Kouji]: (It can't be...)
+[Kohji]: (It can't be...)
 //そのまさかのようだ‥‥私は、どうやら夢の中の世界へと、迷い込んでしまったらしい。
 In an unbelievable way...  I somehow was drawn into a dream world.
 //夢の中‥‥‥‥？
@@ -55,15 +55,15 @@ Am I in a dream...?
 //これは、現実ではなかったのか‥‥？
 This isn't reality, is it...?
 //私は夢の中の記憶を頼りに、慎重に進んでいく‥‥。
-Relying on my memories in my dreams, I carefully followed along...
+Relying on my memories in my dreams, I carefully followed　 along...
 //この脇に椅子が置いてあり、そしてこの先の角には階段が‥‥風化しているとはいえ、私の思ったとおりの配置に愕然とする。
-This chair beside me was there, and at this corner before me is a stairway...Even though it was weathered heavily, I was stunned at how well it matched my memory.
+This chair beside me was there, and at this corner before meis a stairway...Even though it was weathered heavily, I was stunned at how well it matched my memory.
 //このドアの向こう側は診療室だったはずだ。そして‥‥‥‥。
 On the other side of this door is the consulting room. And  then...
 //私は、ある大きなドアの前に立った‥‥。
 I stood before a certain large door...
 //［コウジ］：（このドアの向こう側に‥‥‥‥。）
-[Kouji]: (This door leads to...)
+[Kohji]: (This door leads to...)
 //緊張感が高まり、心臓の動悸速度が増加していく。このドアの向こう側に‥‥‥‥？
 I was highly anxious, and my heartbeat quickened. This door leads to...?
 //予測以上の確信をもって、私はドアを開けた‥‥‥‥。
@@ -73,7 +73,7 @@ xenon_09
 //［宏治］：ここは‥‥コンピュータ・ルーム！？
 [Kouji]: This is...the computer room?!
 //重々しい稼働音が耳に響いてくる。ここは、あのコンピュータ・ルームだ。
-The heavy sound of the displaced door resonated in my ear.  That computer room was right here.
+The heavy sound of machinery operating resonated in my ears.That computer room was right here.
 //僕は‥‥‥‥。
 What on earth...
 //いったいどうしたというんだ‥‥。
@@ -97,15 +97,15 @@ meg02
 //［宏治］：ば‥‥いきなり、バカはないだろう？
 [Kouji]: Id...I'm not an idiot, am I?
 //［恵］：バカよ、あなた何故ここを出なかったの！？
-[Megumi]: You *are* an idiot, why weren't you here earlier?!
+[Megumi]: You *are* an idiot, why didn't you left this　　　place?!
 //［宏治］：そ、そんなこと言ったって‥‥‥‥。
 [Kouji]: I-if I told you all about that...
 //［恵］：バカ！　涼子先生は、あなたをマインドコントロールで洗脳しようとしていたのよ、バカ！
-[Megumi]: Idiot! Ryouko-sensei brainwashed you using mind control, didn't she, idiot!
+[Megumi]: Idiot!!! Ryouko-sensei brainwashed you using mind control, didn't she, idiot!
 //［宏治］：あ、あまりバカバカ言わないでくれよ‥‥。
 [Kouji]: Please stop calling me an idiot...
 //［恵］：このままだと、あなたは‥‥あなたは死んでしまうのよ！
-[Megumi]: If this keeps going, you...you should die!
+[Megumi]: If this keeps going, you... you'll die!
 //［宏治］：し、死ぬ‥‥！？
 [Kouji]: D-die?!
 //［恵］：そして‥‥そして、私も‥‥。
@@ -137,11 +137,11 @@ ryo01_m
 //［宏治］：な、何を言っているんですか‥‥？
 [Kouji]: W-what are you talking about...?
 //［涼子］：この、人類史上もっとも重要でかつ意義のあるサンプルに、あなたはなることができるの。
-[Ryouko]: You can become one of the most important, most significant samples in human history.
+[Ryouko]: You can become one of the most important, most　　significant samples in human history.
 //［宏治］：りょ、涼子先生‥‥いったい、何を‥‥‥‥。
 [Kouji]: R-Ryouko-sensei...what on earth are you...
 //［涼子］：恵さんは、事が済み次第、ちゃんと帰してあげる。
-[Ryouko]: After we're done, Megumi-san will be promptly returned.
+[Ryouko]: After we're done, Megumi-san will be promptly　　 returned.
 //［宏治］：ぼ、僕は死ぬのか‥‥？
 [Kouji]: A-am I about to die?
 //［涼子］：死ぬ、という形容は正しくないわね。
@@ -149,35 +149,35 @@ ryo01_m
 //［宏治］：どういう‥‥ことです？
 [Kouji]: W-what do you mean?
 //［涼子］：確かに宏治クン、あなたの肉体は滅びるわ。
-[Ryouko]: It's true that your physical body will perish, Kouji-kun.
+[Ryouko]: It's true that your physical body will perish...  Kouji-kun.
 //［宏治］：そ、それは死ぬってことじゃ‥‥。
 [Kouji]: I-isn't that the same as dying?
 //［涼子］：違うわ。肉体の死は、本当の死ではないの。
-[Ryouko]: Not quite. The death of the body is not true death.
+[Ryouko]: Not quite. The death of the body is not true death
 //［宏治］：まさか魂は生き続けるとか、そういう理屈じゃないでしょうね‥‥。
-[Kouji]: Are you really giving a reason that the spirit will live on?
+[Kouji]: Are you really giving a reason that the spirit willlive on?
 //［涼子］：フフ、それでは怪しい宗教よ。でも、それに限りなく近いとも言えるわね。
-[Ryouko]: Hehe, that's just suspicious religious talk. However, it could be said to be infinitesimally close.
+[Ryouko]: Hehe, that's just suspicious religious talk.　　　However, it could be said to be infinitesimally close.
 //［宏治］：そ、それって‥‥‥。
 [Kouji]: Th-then that's...
 //［涼子］：いい？　宏治クン。人間の意識というのは、実体がない。だけど、それ故にメモリーすることも可能なの。
-[Ryouko]: May I? Kouji-kun. Human consciousness doesn't really exist. But then, why do humans have the ability to make memories?
+[Ryouko]: Listen, Kouji. Human consciousness has no physicalform. But precisely because of that, it can be stored as　　data.
 //［宏治］：実体の無いモノを、記憶？
-[Kouji]: Consciousness...doesn't really exist?
+[Kouji]: Can you store something that has no physical form?
 //［涼子］：実体が無いというのも、語弊があるわね。個体として存在しないというだけよ。
-[Ryouko]: I misspoke when I said it doesn't really exist. Rather, it doesn't exist individually.
+[Ryouko]: I misspoke when I said it doesn't have a physical form... Rather, it doesn't exist as an individual entity.
 //［涼子］：わからない？　じゃあ例えば、磁気情報などはどうかしら。
-[Ryouko]: Do you still not understand? Then for example, how does magnetic information work?
+[Ryouko]: Do you still not understand? Then for example, howdoes magnetic data work?
 //［宏治］：磁気‥‥情報？
-[Kouji]: Magnetic...information?
+[Kouji]: Magnetic... data?
 //［涼子］：あれは磁性体表面に、磁気の方向でデータをメモリーするだけ‥‥実体が無いと言えるんじゃないかしら。
-[Ryouko]: That means to write data into memory using magnetic orientation on the surface of a magnetic medium...There's no "real body" to speak of here, is there?
+[Ryouko]: That means to write data into memory using　　　　magnetic orientation on the surface of a magnetic medium... There's no "real body" to speak of here, is there?
 //［涼子］：人間の意識もね、そうしたベクトル的な情報へと収束させることができたとしたら？
 [Ryouko]: What if human consciousness is also converging on a vector-based information?
 //［宏治］：ど、どういうことです。
 [Kouji]: What are you talking about?
 //［涼子］：人間の意識を、３２次元マトリクスの構造配列論に収束させる、１６次変換の公式が、ついに妹の手によって発見されたのよ。
-[Ryouko]: My younger sister finally derived, by hand, the 16th transformation formula on the convergence of human consciousness to the structural array theory of a 32-dimensional matrix.
+[Ryouko]: My younger sister finally derived, by hand, the　 16th transformation formula on the convergence of human　　 consciousness to the structural array theory of a　　　　　 32-dimensional matrix.
 //［宏治］：い、妹‥‥？
 [Kouji]: S-sister...?
 //［涼子］：そこにいるわ、あなたの後ろにね‥‥。
@@ -187,9 +187,9 @@ As I turned around, the girl before me was......
 //ガン！！！
 *thud*!!!
 //後頭部に鈍い衝撃を感じながらも、僕は目に映った像を認識した‥‥。
-I felt a dull impact to the back of my head, and I recognized the reflected image in my eyes...
+I felt a dull impact to the back of my head, and I　　　　　recognized the reflected image in my eyes...
 //消えていく意識の中で、僕は彼女の名前を呼ぶ‥‥。
-In my fading my consciousness, I called her name...
+As my consciousness faded, I called her name...
 //［宏治］：舞‥‥‥‥。
 [Kouji]: Mai......
 //宏治サン‥‥‥‥。
@@ -215,13 +215,13 @@ mai04_m
 //［舞］：ご免なさい、宏治サン‥‥。
 [Mai]: I'm sorry, Kouji-san...
 //［宏治］：ど、どういうことだよ！？　舞さん、いったいこれは‥‥。
-[Kouji]: What's the meaning of all this?! Mai-san,  what on earth...
+[Kouji]: What's the meaning of all this?! Mai-san, what on  earth...
 //［舞］：このプロフェクタによって、私たちは人類の文明をも記憶することになる。
-[Mai]: Using this projector, we'll record all of human culture.
+[Mai]: Using this projector, we'll record all of human　　　memories.
 //［宏治］：ぷ、プロジェクタ？　人類の文明？
-[Kouji]: P-projector? Human culture?
+[Kouji]: P-projector? Human memories?
 //［舞］：もうすぐ、私たちは人間という壁を１つ越えることになるわ。人間の定義自体が無意味な世界へ‥‥
-[Mai]: Very shortly, we will take one step beyond this wall called humanity. To a world where the very definition of humanity is meaningless...
+[Mai]: Very shortly, we will take one step beyond this wall called humanity. To a world where the very definition of　　humanity is meaningless...
 //［宏治］：な、何を言ってるんだよ！？
 [Kouji]: W-what the hell are you talking about?!
 //［舞］：宏治サン、私は‥‥‥‥。
@@ -249,13 +249,13 @@ saya03_m
 //［涼子］：フフ、間にあった？　遅かったと形容すべきね、法務局の方。
 [Ryouko]: Hehe, you made it? I should say the Legal Affairs Bureau is late.
 //涼子は装置の影から姿を現すと、沙夜香と対峙した。いつもの知的で温厚な表情は、微塵も無い‥‥。
-Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even a trace of her usual gentle-mannered expression could be seen...
+Ryouko revealed herself from the device's shadow and　　　　confronted Sayaka. Not even a trace of her usual　　　　　　gentle-mannered expression could be seen...
 //［宏治］：法務局‥‥？
 [Kouji]: Legal Affairs Bureau...?
 //［沙夜香］：私はね、内偵として派遣されていたの。涼子に疑問を持った法務局から、つまり恵さんのお父様からね。
-[Sayaka]: I was dispatched as a secretary. The Legal Affairs Bureau, particularly Megumi-san's father, found Ryouko suspicious.
+[Sayaka]: I was dispatched as a PI. The Legal AffairsBureau,particularly Megumi-san's father, found Ryouko suspicious.
 //［宏治］：恵の‥‥法務局？‥‥
-[Kouij]: Megumi's...Legal Affairs?
+[Kouji]: Megumi's... Legal Affairs?
 //はっ！
  Ha-!
 //［宏治］：（そういえば、沙夜香さんの連絡先に‥‥‥‥。）
@@ -265,25 +265,25 @@ Ryouko revealed herself from the device's shadow and confronted Sayaka. Not even
 //［宏治］：し、しかし‥‥。
 [Kouji]: B-but...
 //［沙夜香］：涼子、今のこの現状がわかっていないようね。軍への協力は、最優先事項なのよ。
-[Sayaka]: Ryouko doesn't seem to understand the current situation. Our top priority was getting help from the military.
+[Sayaka]: Ryouko doesn't seem to understand the current　　 situation. Our top priority was getting help from the　　　 military.
 //［涼子］：フフ、現状がわかっていないのは、軍上層部と、あなたのような官僚の犬に成り下がった者の方よ。
-[Ryouko]: Hehe, what I don't understand is bureaucratic dogs like you and the upper brass.
+[Ryouko]: Hehe, what I don't understand is bureaucratic dogslike you and the upper brass.
 //［沙夜香］：なんですって！？
 [Sayaka]: What did you just say?!
 //［涼子］：重核中性子爆弾の使用が、いかなる結果をもたらすか、あなた達は考えたことがないの？
-[Ryouko]: Are you people really planning to use heavy neutron bombs to attain any goal?
+[Ryouko]: Have you ever considered what using heavy neutron bombs would lead to?
 //［沙夜香］：あるわ、この一触即発の現状を、打開してくれる正義の雷としてね。
-[Sayaka]: Of course. It's the righteous thunder that will smash open this volatile status quo.
+[Sayaka]: Of course. It's the righteous thunder that will　 smash open this volatile status quo.
 //［涼子］：愚かな女性ね‥‥‥‥。
 [Ryouko]: You stupid woman...
 //［沙夜香］：涼子、あなたをＡ級犯罪者として逮捕、身柄を拘束します。
-[Sayaka]: Ryouko, I'm arresting and detaining you as a Class A Criminal.
+[Sayaka]: Ryouko, I'm arresting and detaining you as a　　　Class-A Criminal.
 //沙夜香は、懐から拳銃を取り出すと涼子に構えた。表情は厳しい。
-Sayaka pulled a handgun from her bosom and pointed it at Ryouko. She looked serious.
+Sayaka pulled a handgun from her bosom and pointed straight at Ryouko. She looked serious.
 //［涼子］：フッ、好きにするがいいわ‥‥。
 [Ryouko]: Heh, do as you like...
 //ガチャッ‥‥。
-Clank... 
+*Clank...* 
 //［沙夜香］：な、何をしたの！　涼子！？
 [Sayaka]: W-what are you doing! Ryouko?!
 //［涼子］：舞、後は頼んだわ‥‥。
@@ -291,11 +291,11 @@ Clank...
 //［宏治］：舞さん‥‥。
 [Kouji]: Mai-san...
 //［舞］：宏治サン、説明をしても信じてもらえるか、わからなかった‥‥。
-[Mai]: Kouji-san, I didn't know that you trusted me to explain this to you...
+[Mai]: I didn't know whether you'd believe me even if I　　 explained.
 //［舞］：だから‥‥ごめんなさい。
 [Mai]: So...I'm sorry.
 //［舞］：でも、宏治サンはきっと理解してくれる、きっと‥‥‥‥。
-[Mai]: But I'll definitely make Kouji-san understand, definitely...
+[Mai]: But I'll definitely make Kouji-san understand,　　　 definitely...
 //［宏治］：もう覚悟を決めたよ、どうなるんだい、僕らは。
 [Kouji]: Well, I've made up my mind, whatever happens to us.
 //［舞］：ずっと、一緒にいられる世界、かも‥‥。
@@ -307,7 +307,7 @@ Clank...
 //［宏治］：えっ！？
 [Kouji]: Huh?!
 //［舞］：だから、宏治サンだけでも、助けたかったの‥‥。
-[Mai]: Because of that, even if it's only Kouji-san, I wanted to save you...
+[Mai]: Because of that, even if it's only Kouji-san, I　　　wanted to save you...
 //［宏治］：ま、舞‥‥‥‥。
 [Kouji]: M-Mai....
 //［舞］：目を、閉じて下さい‥‥。
@@ -321,7 +321,7 @@ Clank...
 //僕は舞の言うとおり、ゆっくりと目を閉じた。
 As Mai said, I slowly closed my eyes.
 //重々しい稼働音が、少しずつ、少しずつ小さくなっていく‥‥。
-A heavy moving sound slowly, gradually became fainter and fainter...
+A heavy moving sound slowly, gradually became fainter and　 fainter...
 //僕は心地よい虚脱感に、身を委ねていった‥‥‥‥。
 I surrendered my body to the pleasant feeling of collapse...
 //Ｅ
@@ -337,107 +337,107 @@ I remember now, my memories...
 //遥か昔の、メモリーを‥‥‥‥。
 My memories from long, long ago...
 //［コウジ］：いるんだろう？　出てきても、構わないよ。
-[Kouji]: You're here, aren't you? Come out, I won't hurt you.
+[Kohji]: You're here, aren't you? Come out, I won't hurt you
 //［コウジ］：大丈夫だよ、もう‥‥。
-[Kouji]: It's fine already...
+[Kohji]: It's fine already...
 //風化寸前の機器類の陰から、ランファが姿を現した。突然、その場に現れたように‥‥‥‥。
-From the shadow of the machines on the verge of weathering, I saw Lanhua's figure, as if suddenly appearing in that place...
+From the shadow of the machines on the verge of weathering, I saw Lanhua's figure, as if suddenly appearing in that　　 place...
 //彼女は私の前に、ゆっくりとやって来る。
 She slowly came up to me.
 //［ランファ］：コウジさん‥‥。
-[Lanhua]: Kouji-san...
+[Lanhua]: Kohji-san...
 //［コウジ］：だいたい、思い出したよ。
-[Kouji]: I remembered most of it...
+[Kohji]: I remembered most of it...
 //［ランファ］：そうですか、良かった‥‥。
 [Lanhua]: I see, that's good news...
 //xenon_10
 xenon_10
 //［コウジ］：あれから、どのくらいの時間が経ったのかな。
-[Kouji]: Since then, how much time has passed?
+[Kohji]: Since then, how much time has passed?
 //［ランファ］：あれから‥‥？
 [Lanhua]: Since then...?
 //［コウジ］：そう、人類の全てが死に絶えてから‥‥。
-[Kouji]: Yes, when the human race went extinct...
+[Kohji]: Yes, when the human race went extinct...
 //［ランファ］：地球時間で、ちょうど６千と１２年ほどです。
-[Lanhua]: By earth time, between about six thousand to twelve thousand years.
+[Lanhua]: By earth time, about 6012 years ago.
 //［コウジ］：６千年か‥‥長いようで、短かったな‥‥。
-[Kouji]: Six thousand years...It feels long, but it passed  so quickly...
+[Kohji]: Six thousand years...It feels long, but it passed  so quickly...
 //［コウジ］：君と、君の姉さんは、重核中性子爆弾による人類の滅亡を予期していた。
-[Kouji]: You and your big sister anticipated the heavy neutron bombs that wiped out humanity.
+[Kohji]: You and your big sister anticipated the heavy　　　neutron bombs that wiped out humanity.
 //［ランファ］：はい。ですが人類の種は滅びても、その記憶だけは残しておきたかった‥‥。
-[Lanhua]: Yes. However, humanity's seeds were wiped out, so only the memories remained...
+[Lanhua]: Yes. Even in the event of humanity becoming　　　 extinct, we wanted at least to preserve its memories.
 //［コウジ］：そう‥‥そうだった。
-[Kouji]: I...I see.
+[Kohji]: I... I see.
 //［ランファ］：だから、マインド・コントロールという軍要請の当初の計画を変更し、サイバープロジェクタとして‥‥。
-[Lanhua]: Because of that, the military's initial plan of mind control was changed to a cyberprojector...
+[Lanhua]: Because of that, the military's initial plan of　 mind control was changed to a cyberprojector...
 //［コウジ］：人間の意識を、機械の中へと投影した‥‥。
-[Kouji]: Human consciousness is projected into machines...
+[Kohji]: Human consciousness is projected into machines...
 //［ランファ］：私たち２人だけは、思念体となって、意識だけは残ったのです。
 [Lanhua]: Only the two of us awakened thinking bodies, and  only our consciousnesses remained.
 //［コウジ］：人間の持つパーソナリティ‥‥人格をも、電子頭脳へと投影した‥‥。
-[Kouji]: Humanity's personalities...their psyches, were projected into electronic brains...
+[Kohji]: Humanity's personalities...their psyches, were　　 projected into electronic brains...
 //［ランファ］：はい、私たちは人類の終焉を見てもなお、生き続けた。いえ、記憶を残し続けた、メモリーの中に‥‥。
-[Lanhua]: Yes, even after we witnessed the end of humanity, we lived on. No, we carried our consciousnesses on, in our  memories...
+[Lanhua]: Yes, even after we witnessed the end of humanity, we lived on. No... rather, our memories lived on, stored in memory...
 //［コウジ］：こうして、思念を実体化させ、様々な事をやってきたんだ。
-[Kouji]: In this way, through realization of your thoughts, you did a lot of things, didn't you.
+[Kohji]: In this way, by giving form to consciousness, you  did a lot of things, didn't you.
 //［ランファ］：そしてそれは、もうすぐ成就するのです。
-[Lanhua]: And after that, we will soon fulfill our purposes.
+[Lanhua]: And soon, everything will be fulfilled.
 //［コウジ］：そうだったね‥‥ごめんよ、忘れてしまって‥‥。
-[Kouji]: So that's how it was...Sorry, I forgot...
+[Kohji]: So that's how it was... Sorry, I ended up　　　　　forgetting...
 //［コウジ］：今にして思えば、私はこの現状から逃避したかったのかもしれない。懐かしい昔のあの時へと‥‥。
-[Kouji]: If I think about that right now, I might escape from reality. Towards that nostalgic distant past...
+[Kohji]: Looking back now, perhaps I wanted to escape from  reality, back to those nostalgic days of the distant past...
 //［ランファ］：はい‥‥。
 [Lanhua]: Yes...
 //［コウジ］：だから、証拠となるＭＤを再生しようとしたとき、無意識の排斥が働いたのだろう。自分自身、ＭＤから遠ざかりたかった。
-[Kouji]: Therefore, when I played that micro disc serving as evidence, that caused an exclusion of my unconscious. I myself was taken far away from the micro disc.
+[Kohji]: So, when I tried to play the micro disc that servedas evidence, an unconscious rejection must kicked in. I musthave been trying to distance myself from it.
 //［ランファ］：でも、メモリーが物理的に破損していたというのも事実です。
 [Lanhua]: However, it's true that the memory was physically corrupted.
 //［ランファ］：あのとき、沙夜香さんの撃った銃弾が、運悪くあなたのメモリーの一部を破損させてしまいました。
-[Lanhua]: At that time, Sayaka-san's bullet unfortunately corrupted part of your memory.
+[Lanhua]: At that time, the bullet Sayaka-san fired　　　　 unfortunately corrupted part of your memory.
 //［コウジ］：そうだった。メモリーは所々が欠損していて、記憶違いが物理的に起きていたんだ‥‥。
-[Kouji]: Yes, that's what happened. I lost parts of my memory, and memory gaps physically appeared in there...
+[Kohji]: Yes, that's what happened. I lost parts of my　　　memory, and memory gaps physically appeared in there...
 //［ランファ］：私は、それを気付かせるために、色々な示唆をしました。あなたのメモリーへとアクセスして‥‥。
-[Lanhua]: To make you realize what happened, I made all kinds of suggestions to you. So you could access your memory...
+[Lanhua]: To make you realize what happened, I made all　　 kinds of suggestions to you. So you could access your memory...
 //［コウジ］：あぁ‥‥自分の過去の記憶に、キミの呼びかけがシンクロしたんだろうな‥‥。
-[Kouji]: Ahh...so in your words, you synchronized my own past memories....
+[Kohji]: Ahh...so in your words, you synchronized my own　　past memories....
 //［ランファ］：そうですね。
 [Lanhua]: Yes, that's it.
 //［コウジ］：ランファ、か‥‥。確か、異国の言葉で『舞う』という意味だそうだね。
-[Kouji]: Lanhua...Indeed, in some foreign country's language, it means "to dance", doesn't it?
+[Kohji]: Lanhua...Indeed, in some foreign country's　　　　 language, it means "to dance", doesn't it?
 //［ランファ］：はい。本当に、良かったですね‥‥。
 [Lanhua]: Yes. It's truly a blessing...
 //［コウジ］：‥‥上にいるファルたちは、どうするんだい？
-[Kouji]: ...What do you plan to do about Far and company above us?
+[Kohji]: ...What are you going to do about Far and the　　　others up there?
 //［ランファ］：あの異星の方々は、私たち人類の文明を、単なる興味と利権のみの対象でしか、見ていなかった‥‥。
-[Lanhua]: I saw that those aliens showed only unadulterated curiosity in our human culture...
+[Lanhua]: Those aliens (Far's face flashed through her mind)only ever saw human civilization as an object of curiosity  and self-interest...
 //［コウジ］：前回と前々回の彼らには、穏便に退場願ったけどね。
-[Kouji]: You asked the last two teams to peacefully leave,  didn't you?
+[Kohji]: But you let the ones from the previous two visits  leave peacefully.
 //［ランファ］：ええ‥‥でも、ファルたちは違うような気がします。
-[Lanhua]: Yes...However, I feel that Far and company are different.
+[Lanhua]: Yes... But I have a feeling Far and the others aredifferent.
 //［コウジ］：あぁ、確かに心に暖かさを感じた‥‥。
-[Kouji]: Ah, I certainly felt a kind of warmth...
+[Kohji]: Ah, I really did feel a kind of warmth in my heart ...
 //［ランファ］：フフ、ちょっぴりやけちゃいました。
-[Lanhua]: Hehe, I heated up for just a bit.
+[Lanhua]: Hehe, I got just a teensy bit jealous.
 //［ランファ］：でも、もう行ってしまわれました‥‥。
-[Lanhua]: However, they've already gone...
+[Lanhua]: But, they've already gone...
 //［コウジ］：また、記憶を？
-[Kouji]: Are you talking about the consciousnesses?
+[Kohji]: Are you messing with the memories again?
 //［ランファ］：はい、でも今度再びやって来たときには‥‥‥‥。
-[Lanhua]: Yes, but this time, when they came......
+[Lanhua]: Yes... but next time, when they come again...
 //［コウジ］：なぁ、我々はあとどのくらい、生きていられるんだろうね。
-[Kouji]: Hey, how much longer do we have to live here?
+[Kohji]: Hey, how much longer do we have to live here?
 //［ランファ］：生きる、というのは正確ではありません。
 [Lanhua]: To "live" isn't the right way to phrase it.
 //［コウジ］：そうだったな‥‥あとどのくらい、稼働していられるのかな。
-[Kouji]: That's true...  how much longer do we have to move around?
+[Kohji]: That's true...  how much longer we will remain　　 operational?
 //［ランファ］：概算ですが、超伝導原子力電池の蓄電量は、あと２千年ほどです‥‥。
 [Lanhua]: I'd estimate our superconducting nuclear powered  batteries will last us about two thousand years...
 //［コウジ］：２千年か‥‥‥‥。
-[Kouji]: Two thousand years...
+[Kohji]: Two thousand years...
 //私はもう一度、あたりを見回してみた。あと２千年、か‥‥‥‥。
 I looked around me once more. The next two thousand years,  huh...
 //「長いようで、短い時間だ‥‥‥‥。」
-"How long that short time seems..."
+"A time that seems long, yet is short..."
 //「はい‥‥‥‥。」
 "Yes......"
 //「また、２人きりになってしまったね。」
@@ -445,7 +445,7 @@ I looked around me once more. The next two thousand years,  huh...
 //「私、あなたとだったら‥‥‥‥。」
 "If I'm here with you..."
 //私は、彼女に微笑み掛けた。彼女は恥じらうように俯いている。正確には恥じらうような彼女の意識を、私が認識したと言うべきか‥‥。
-I smiled at her. She looked down, embarrassed. Or should I say, more accurately, that I recognized her embarrassed consciousness...?
+I smiled at her. She looked down, embarrassed. Or should I  say, more accurately, that I recognized her embarrassed　　 consciousness...?
 //私は部屋の一角へ歩いていくと、彼女の方へ振り返って、
 I walked to one corner of the room and looked back at her.
 //「どうなの、これ。」
@@ -453,9 +453,9 @@ I walked to one corner of the room and looked back at her.
 //「はい、外の放射能反応は、ほぼゼロになりました。それに必要な機材が、手に入りましたから‥‥。」
 "The radioactivity outside has become almost zero. We have  the necessary materials as well, so..."
 //「ファルたちには、感謝しなくちゃなんないね。」
-"Shouldn't we thank Far and company?"
+"Shouldn't we thank Far and the others?"
 //「ええ、後は‥‥‥‥。」
-"Yes, in about..."
+"All that's left is..."
 //「１０か月？」
 "Ten months?"
 //「クスッ、そうですね‥‥。」
@@ -463,7 +463,7 @@ I walked to one corner of the room and looked back at her.
 //「アダムとイブ、だよな‥‥まるで。」
 "We're Adam and Eve...or so it seems."
 //「そうですね‥‥時間はたっぷりとあります。私たちだけの時間が‥‥。」
-"Yes, we are...We have plenty of time. Time to only ourselves..."
+"Yes, we are...We have plenty of time. Time to only　　　　 ourselves..."
 //「あぁ‥‥ゆっくり考えよう、これからのことは。」
 "Ahh...We'll have to think carefully from now on."
 //「‥‥眠るのですか？」
@@ -471,7 +471,7 @@ I walked to one corner of the room and looked back at her.
 //「眠って夢でもみよう。人間が再び、繁栄することを思いながら‥‥。」
 "Sleep, and enter a dream. Think of humanity rising up once more..."
 //もう夢を見ても大丈夫だろう‥‥懐かしいあの頃の‥‥‥‥。
-It's fine to enter the dream already...that embarrassing time...
+It's fine to enter the dream already... those nostalgic days...
 //私は再び、傍らに置いてあった試験管を見る‥‥。
 Once more, I looked at the test tube next to me...
 //そこには私と舞の‥‥人類の唯一の種が、眠っているのだ‥‥‥‥。
