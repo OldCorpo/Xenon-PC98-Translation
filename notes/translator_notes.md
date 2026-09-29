@@ -24,7 +24,7 @@ Plays a lot with opposites, like:
 - Being a normal guy in the Real world. vs. Being a feared cosmic pirate in the Dream world.
 - Sun vs Nuz
 - Earth vs Elath.
-- Space vs Contemporary Japan.
+- Deep Space vs Contemporary Japan.
 - And so..
 
 And also the game plays 'the game' of disorienting you.
